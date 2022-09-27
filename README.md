@@ -49,6 +49,33 @@ To run the environment in background mode (detached), include -d as an argument 
 sail up -d
 Whether you choose to run your environment in foreground or background mode, your new Laravel application should now be available at http://localhost. Open this URL on your browser and you'll see a page like this:
 
+ESEMPIO:
+UTILIZZARE IL CMDLINER
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9$ cd example-app/
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ dir
+app      artisandebug    bootstrap      composer.lock  database  docker-compose.yml  logdiTest.txt  phpunit.xml  README.md  routes   tests   vendor.7z
+artisan  BK24092022.env  composer.json  config         docker    lang                package.json   public       resources  storage  vendor  webpack.mix.js
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ ./vendor/bin/sail build --no-cache
+example-app-laravel.test-1   "start-container"   laravel.test        exited (0)
+Shutting down old Sail processes...
+
+ALLA FINE
+
+Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ dir
+app      artisandebug    bootstrap      composer.lock  database  docker-compose.yml  logdiTest.txt  phpunit.xml  README.md  routes   tests   vendor.7z
+artisan  BK24092022.env  composer.json  config         docker    lang                package.json   public       resources  storage  vendor  webpack.mix.js
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ ./vendor/bin/sail up
+
+PER AGGIUNGERE DIPENDENZE
+./vendor/bin/sail composer require ext-simplexml
+./vendor/bin/sail composer require ext-simplexml
+
+Executing Composer Commands
+Composer commands may be executed using the composer command. Laravel Sail's application container includes a Composer 2.x installation:
+
+sail composer require laravel/sanctum
+
 Sail quick reference
 The following list contains a short reference on the main Sail commands:
 
