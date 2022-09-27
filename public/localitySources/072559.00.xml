@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072559.00</nloc_cfti>
+      <desloc_cfti>Abbadia Alpina</desloc_cfti>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.8886</lat_wgs84>
+      <lon_wgs84>7.3068</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04943</nterr>
+      <nperiod>000162</nperiod>
+      <datanum>18080402</datanum>
+      <data_label>1808 04 02</data_label>
+      <anno>1808</anno>
+      <mese>04</mese>
+      <giorno>02</giorno>
+      <time_label>16:43</time_label>
+      <ora>16</ora>
+      <minu>43</minu>
+      <sec>-9</sec>
+      <lat>44.8387</lat>
+      <lon>7.248</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>105</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Pellice</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 2 aprile, delle 5.43 pomeridiane secondo l’uso orario francese (16:43 GMT), causò danni alle abitazioni e alle volte della chiesa $(230083)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08677</nterr>
+      <nperiod>003208</nperiod>
+      <datanum>18581025</datanum>
+      <data_label>1858 10 25</data_label>
+      <anno>1858</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>01:42:30</time_label>
+      <ora>01</ora>
+      <minu>42</minu>
+      <sec>30</sec>
+      <lat>44.8886</lat>
+      <lon>7.3068</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>3</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Valle del Chisone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Per effetto della scossa alcune case rovinarono $(745585,280016)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>230083</codbib>
+      <autore1>Pittavino A.</autore1>
+      <titolo1>Storia di Pinerolo e del pinerolese.</titolo1>
+      <luogoed>Torre Pellice</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745585</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1858 avec supplements pour les années anterieures, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 32.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1861</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280016</codbib>
+      <autore1>Gallo I.R.</autore1>
+      <titolo1>Storia della città di Alassio dalle origini al 1815. Cronaca dal 1815 a noi. Documenti, appunti, note e dissertazioni.</titolo1>
+      <luogoed>Chiavari</luogoed>
+      <datacompl>1890</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>005854.00</nloc_cfti>
+      <desloc_cfti>La Morra</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>44.638</lat_wgs84>
+      <lon_wgs84>7.9321</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23529</nterr>
+      <nperiod>000417</nperiod>
+      <datanum>19100907</datanum>
+      <data_label>1910 09 07</data_label>
+      <anno>1910</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>15:26</time_label>
+      <ora>15</ora>
+      <minu>26</minu>
+      <sec>-9</sec>
+      <lat>44.4333</lat>
+      <lon>7.5084</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3.5</imax>
+      <npun>8</npun>
+      <mm>3.5</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021241</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po1. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

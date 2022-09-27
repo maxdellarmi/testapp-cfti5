@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074096.00</nloc_cfti>
+      <desloc_cfti>Torre Orlando (semaforo)</desloc_cfti>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>41.2087</lat_wgs84>
+      <lon_wgs84>13.5781</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27011</nterr>
+      <nperiod>002001</nperiod>
+      <datanum>19191022</datanum>
+      <data_label>1919 10 22</data_label>
+      <anno>1919</anno>
+      <mese>10</mese>
+      <giorno>22</giorno>
+      <time_label>06:06:04</time_label>
+      <ora>06</ora>
+      <minu>06</minu>
+      <sec>04</sec>
+      <lat>41.5381</lat>
+      <lon>12.6839</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>134</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Litorale pontino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

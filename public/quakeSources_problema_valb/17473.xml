@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>17473</nterr>
+      <nperiod>000333</nperiod>
+      <datanum>19001230</datanum>
+      <data_label>1900 12 30</data_label>
+      <anno>1900</anno>
+      <mese>12</mese>
+      <giorno>30</giorno>
+      <time_label>23:36:20</time_label>
+      <ora>23</ora>
+      <minu>36</minu>
+      <sec>20</sec>
+      <lat>44.6512</lat>
+      <lon>8.447</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>36</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.6</mm>
+      <earthquakelocation>Alto Monferrato</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000009</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1900, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.7 (1901-1902).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1901, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.8 (1902-1903)-9 (1903-1904).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1902 - 1903</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.21.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Feuille d’Aoste, 1855-1900.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1855 - 1900</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030229</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1882-1917.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1882 - 1917</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030238</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sesia, 1871-1980.</titolo1>
+      <luogoed>Vercelli</luogoed>
+      <datacompl>1871 - 1980</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050062</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1901.01.11.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050063</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1901.05.26.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070348</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartoline macrosismiche relative al terremoto dell’1 gennaio 1901 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1901</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070356</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartoline macrosismiche relative al terremoto del 10 gennaio 1901 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1901</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070362</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartoline macrosismiche relative al terremoto del 25 gennaio 1901 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1901</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080127</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul terremoto Vogherese del 23 gennaio 1901, in "Atti della Società Toscana di Scienze Naturali. Processi verbali", a.1901.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170090</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.01.01, n.1</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170093</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.05.26, n.144.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340407</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1901.05.25-26.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420521</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1901.05.27.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460020</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1901.01.24-25.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600441</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1901.01.01-02.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600442</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1901.01.11-12.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650020</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta d’Acqui, 1901.01.05-06.</titolo1>
+      <luogoed>Acqui Terme</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1848-1929.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1848 - 1929</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>710005</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Valli Stura e Orba, 1901.01.06.</titolo1>
+      <luogoed>Ovada (AL)</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>710237</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta d’Asti, 1901.01.12, a.2, n.2.</titolo1>
+      <luogoed>Asti</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870557</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1901.01.01-02, n.1.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870558</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1901.01.11-12, n.11.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Acqui Terme</desloc>
+      <lat_wgs84>44.6773</lat_wgs84>
+      <lon_wgs84>8.4648</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008038.00</nloc_cfti>
+      <desloc_cfti>Acqui Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cavatore</desloc>
+      <lat_wgs84>44.6315</lat_wgs84>
+      <lon_wgs84>8.4514</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008457.00</nloc_cfti>
+      <desloc_cfti>Cavatore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Melazzo</desloc>
+      <lat_wgs84>44.6448</lat_wgs84>
+      <lon_wgs84>8.4247</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008655.00</nloc_cfti>
+      <desloc_cfti>Melazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Costa</desloc>
+      <lat_wgs84>44.6179</lat_wgs84>
+      <lon_wgs84>8.6382</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008850.00</nloc_cfti>
+      <desloc_cfti>Costa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Grillano</desloc>
+      <lat_wgs84>44.6394</lat_wgs84>
+      <lon_wgs84>8.6093</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008857.00</nloc_cfti>
+      <desloc_cfti>Grillano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ponzone</desloc>
+      <lat_wgs84>44.5884</lat_wgs84>
+      <lon_wgs84>8.4582</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008924.00</nloc_cfti>
+      <desloc_cfti>Ponzone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>San Lorenzo</desloc>
+      <lat_wgs84>44.6588</lat_wgs84>
+      <lon_wgs84>8.6245</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008860.00</nloc_cfti>
+      <desloc_cfti>San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Canelli</desloc>
+      <lat_wgs84>44.7184</lat_wgs84>
+      <lon_wgs84>8.2871</lon_wgs84>
+      <provlet>AT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>007395.00</nloc_cfti>
+      <desloc_cfti>Canelli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cassine</desloc>
+      <lat_wgs84>44.7511</lat_wgs84>
+      <lon_wgs84>8.5267</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008393.00</nloc_cfti>
+      <desloc_cfti>Cassine</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fossano</desloc>
+      <lat_wgs84>44.5511</lat_wgs84>
+      <lon_wgs84>7.7209</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>005698.00</nloc_cfti>
+      <desloc_cfti>Fossano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Novi Ligure</desloc>
+      <lat_wgs84>44.7649</lat_wgs84>
+      <lon_wgs84>8.7879</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008811.00</nloc_cfti>
+      <desloc_cfti>Novi Ligure</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Asti</desloc>
+      <lat_wgs84>44.8997</lat_wgs84>
+      <lon_wgs84>8.2052</lon_wgs84>
+      <provlet>AT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>007260.00</nloc_cfti>
+      <desloc_cfti>Asti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>San Damiano d'Asti</desloc>
+      <lat_wgs84>44.8343</lat_wgs84>
+      <lon_wgs84>8.0657</lon_wgs84>
+      <provlet>AT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>007904.00</nloc_cfti>
+      <desloc_cfti>San Damiano d’Asti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Garbagna</desloc>
+      <lat_wgs84>44.7812</lat_wgs84>
+      <lon_wgs84>8.9984</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008579.00</nloc_cfti>
+      <desloc_cfti>Garbagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Porto Maurizio</desloc>
+      <lat_wgs84>43.8752</lat_wgs84>
+      <lon_wgs84>8.0143</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>072564.00</nloc_cfti>
+      <desloc_cfti>Porto Maurizio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Savona</desloc>
+      <lat_wgs84>44.3079</lat_wgs84>
+      <lon_wgs84>8.4799</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032907.00</nloc_cfti>
+      <desloc_cfti>Savona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Alassio</desloc>
+      <lat_wgs84>44.0068</lat_wgs84>
+      <lon_wgs84>8.1706</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032427.00</nloc_cfti>
+      <desloc_cfti>Alassio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Albenga</desloc>
+      <lat_wgs84>44.0498</lat_wgs84>
+      <lon_wgs84>8.2125</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032432.00</nloc_cfti>
+      <desloc_cfti>Albenga</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Alessandria</desloc>
+      <lat_wgs84>44.9134</lat_wgs84>
+      <lon_wgs84>8.6142</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008062.00</nloc_cfti>
+      <desloc_cfti>Alessandria</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Finalborgo</desloc>
+      <lat_wgs84>44.1779</lat_wgs84>
+      <lon_wgs84>8.3269</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>072633.00</nloc_cfti>
+      <desloc_cfti>Finalborgo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Andora</desloc>
+      <lat_wgs84>43.9512</lat_wgs84>
+      <lon_wgs84>8.1426</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032471.99</nloc_cfti>
+      <desloc_cfti>Andora</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Bra</desloc>
+      <lat_wgs84>44.6989</lat_wgs84>
+      <lon_wgs84>7.8489</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>005034.00</nloc_cfti>
+      <desloc_cfti>Bra</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Cuneo</desloc>
+      <lat_wgs84>44.3815</lat_wgs84>
+      <lon_wgs84>7.538</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>005501.00</nloc_cfti>
+      <desloc_cfti>Cuneo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Mondovì</desloc>
+      <lat_wgs84>44.3915</lat_wgs84>
+      <lon_wgs84>7.8195</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>006030.99</nloc_cfti>
+      <desloc_cfti>Mondovì</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>San Remo</desloc>
+      <lat_wgs84>43.8192</lat_wgs84>
+      <lon_wgs84>7.7735</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032319.00</nloc_cfti>
+      <desloc_cfti>San Remo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bordighera</desloc>
+      <lat_wgs84>43.7824</lat_wgs84>
+      <lon_wgs84>7.6607</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032112.00</nloc_cfti>
+      <desloc_cfti>Bordighera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castelnuovo d'Asti</desloc>
+      <lat_wgs84>45.043</lat_wgs84>
+      <lon_wgs84>7.9635</lon_wgs84>
+      <provlet>AT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>007485</nloc_cfti>
+      <desloc_cfti>Castelnuovo Don Bosco (Castelnuovo d’Asti)</desloc_cfti>
+      <notesito>Assunse la denominazione di Castelnuovo Don Bosco il 14 febbraio 1930.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Mede</desloc>
+      <lat_wgs84>45.0971</lat_wgs84>
+      <lon_wgs84>8.7353</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>017654.00</nloc_cfti>
+      <desloc_cfti>Mede</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Poirino</desloc>
+      <lat_wgs84>44.9195</lat_wgs84>
+      <lon_wgs84>7.8481</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>001759.00</nloc_cfti>
+      <desloc_cfti>Poirino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pontestura</desloc>
+      <lat_wgs84>45.1421</lat_wgs84>
+      <lon_wgs84>8.3322</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>008900.00</nloc_cfti>
+      <desloc_cfti>Pontestura</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rivarolo Ligure</desloc>
+      <lat_wgs84>44.4407</lat_wgs84>
+      <lon_wgs84>8.8926</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>074084.00</nloc_cfti>
+      <desloc_cfti>Rivarolo Ligure</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rocchetta Nervina</desloc>
+      <lat_wgs84>43.8915</lat_wgs84>
+      <lon_wgs84>7.5997</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032306.00</nloc_cfti>
+      <desloc_cfti>Rocchetta Nervina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sale</desloc>
+      <lat_wgs84>44.983</lat_wgs84>
+      <lon_wgs84>8.8075</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>009011.00</nloc_cfti>
+      <desloc_cfti>Sale</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Saluzzo</desloc>
+      <lat_wgs84>44.6449</lat_wgs84>
+      <lon_wgs84>7.4892</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>006760.00</nloc_cfti>
+      <desloc_cfti>Saluzzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Savignone</desloc>
+      <lat_wgs84>44.5642</lat_wgs84>
+      <lon_wgs84>8.9884</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>033870.00</nloc_cfti>
+      <desloc_cfti>Savignone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Triora</desloc>
+      <lat_wgs84>43.9928</lat_wgs84>
+      <lon_wgs84>7.7654</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17473</nterr>
+      <nloc_cfti>032371.00</nloc_cfti>
+      <desloc_cfti>Triora</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

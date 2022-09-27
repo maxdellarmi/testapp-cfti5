@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022596.00</nloc_cfti>
+      <desloc_cfti>Costermano</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.5877</lat_wgs84>
+      <lon_wgs84>10.7435</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Il terremoto fu abbastanza forte e produsse danni in alcuni edifici e la caduta di camini $(020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31278</nterr>
+      <nperiod>000547</nperiod>
+      <datanum>19360622</datanum>
+      <data_label>1936 06 22</data_label>
+      <anno>1936</anno>
+      <mese>06</mese>
+      <giorno>22</giorno>
+      <time_label>03:44:55</time_label>
+      <ora>03</ora>
+      <minu>44</minu>
+      <sec>55</sec>
+      <lat>45.516</lat>
+      <lon>10.721</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>20</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Garda veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30545</nterr>
+      <nperiod>000527</nperiod>
+      <datanum>19320219</datanum>
+      <data_label>1932 02 19</data_label>
+      <anno>1932</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>12:57:11</time_label>
+      <ora>12</ora>
+      <minu>57</minu>
+      <sec>11</sec>
+      <lat>45.6327</lat>
+      <lon>10.7288</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>21</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fu preceduta ed accompagnata da un profondo boato e causò grande panico nella popolazione, che si riversò nelle strade e nelle campagne. Vi furono leggeri danni ai fabbricati: caddero parecchi comignoli e soffitti; in numerose case si aprirono varie lesioni e crepature; nelle scuole caddero dei calcinacci; nessun danno alle persone $(880026)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880026</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1932.02.21.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

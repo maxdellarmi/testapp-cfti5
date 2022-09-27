@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048479.00</nloc_cfti>
+      <desloc_cfti>Ospedalicchio</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.0793</lat_wgs84>
+      <lon_wgs84>12.5035</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Monachesi et al. (1984) hanno valutato l’intensità della scossa di V grado MCS $(035315)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08100</nterr>
+      <nperiod>003289</nperiod>
+      <datanum>18540212</datanum>
+      <data_label>1854 02 12</data_label>
+      <anno>1854</anno>
+      <mese>02</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.0349</lat>
+      <lon>12.5839</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>21</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa danneggiò gravemente l’abitato; alcune famiglie rimasero senza tetto $(635618,690032)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035315</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Il terremoto umbro del 29.4.1984: indagine macrosismica dell’area più colpita, CNR-GNDT, Pubblicazione n.2.</titolo1>
+      <luogoed>Milano-Macerata</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635618</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1854, rubrica 36, Lettera del delegato apostolico di Perugia monsignor Lo Schiavo al segretario di Stato cardinale Antonelli, Perugia 17 marzo 1854.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1854</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690032</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Ferrara, 1854.02.24, n.15.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1854</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

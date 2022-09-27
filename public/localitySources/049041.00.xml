@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049041.00</nloc_cfti>
+      <desloc_cfti>Padule</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.3245</lat_wgs84>
+      <lon_wgs84>12.6141</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi lesioni in case in muratura provviste di cordolo, o ben ristrutturate; lesioni e dislocamenti in case costruite in pietra squadrata, mattoni comuni o tufo, legati con buone malte con soffitti a travatura in ferro o legno; crollo di murature perimetrali, spaccature dei tramezzi e lesioni alle tamponature in case in cemento armato, probabilmente attribuibili a difetti costruttivi $(035251,035315)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02001</nterr>
+      <nperiod>003095</nperiod>
+      <datanum>17510727</datanum>
+      <data_label>1751 07 27</data_label>
+      <anno>1751</anno>
+      <mese>07</mese>
+      <giorno>27</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.2252</lat>
+      <lon>12.7391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò il crollo della chiesa parrocchiale $(070774)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>070774</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1751.08.24, n.34.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035251</codbib>
+      <autore1>Scalera G., Spadea M.C. e Vecchi M.</autore1>
+      <titolo1>Campo macrosismico dei terremoti di Parma, Umbria, Basso Lazio, in "Atti del 3.o Convegno", Roma 14-16 novembre 1984, CNR-GNGTS, vol.2, pp.1093-1111.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035315</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Il terremoto umbro del 29.4.1984: indagine macrosismica dell’area più colpita, CNR-GNDT, Pubblicazione n.2.</titolo1>
+      <luogoed>Milano-Macerata</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

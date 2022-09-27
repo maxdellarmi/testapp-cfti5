@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040941.00</nloc_cfti>
+      <desloc_cfti>Lodi</desloc_cfti>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0.1</maxint>
+      <lat_wgs84>44.7443</lat_wgs84>
+      <lon_wgs84>11.7631</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00475</nterr>
+      <nperiod>000071</nperiod>
+      <datanum>14870111</datanum>
+      <data_label>1487 01 11</data_label>
+      <anno>1487</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>15:40</time_label>
+      <ora>15</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.1375</lat>
+      <lon>11.3059</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>12</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

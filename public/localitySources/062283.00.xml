@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062283.00</nloc_cfti>
+      <desloc_cfti>Altamura</desloc_cfti>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>11</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>40.8275</lat_wgs84>
+      <lon_wgs84>16.5529</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>I dati del censimento ISTAT del 1931 riportano che il paese aveva una popolazione di 28.996 abitanti $(391568)$.&lt;br&gt;La scossa durò 50s. La popolazione si riversò allarmata nelle strade, suonarono delle campane e non vi furono danni ai fabbricati $(120006,300305)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di V grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa, durata 12s e accompagnata da rombi contemporanei, fu avvertita fortemente dalla popolazione; causò tremolio di vetrate $(000021,470687)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 22 agosto (ore 23:16 GMT) fu sentita da molte persone, anche da alcuni che stavano già dormendo; causò sensibile tremolio di piccoli e grandi oggetti e di vetrate $(143908)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>La scossa fu debole $(110427)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di II grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24440</nterr>
+      <nperiod>003041</nperiod>
+      <datanum>19130628</datanum>
+      <data_label>1913 06 28</data_label>
+      <anno>1913</anno>
+      <mese>06</mese>
+      <giorno>28</giorno>
+      <time_label>08:53:02</time_label>
+      <ora>08</ora>
+      <minu>53</minu>
+      <sec>02</sec>
+      <lat>39.5316</lat>
+      <lon>16.2391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>151</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000225)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36369</nterr>
+      <nperiod>000656</nperiod>
+      <datanum>19690403</datanum>
+      <data_label>1969 04 03</data_label>
+      <anno>1969</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>22:12:22</time_label>
+      <ora>22</ora>
+      <minu>12</minu>
+      <sec>22</sec>
+      <lat>40.483</lat>
+      <lon>19.95</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>5</imax>
+      <npun>46</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(235474)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa del 7 maggio non fu avvertita $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò qualche lesione in poche abitazioni e nella caserma della Gendarmeria $(070844,030166)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>070014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria di Roma, Tabella riassuntiva delle cartoline macrosismiche riguardanti il terremoto del 3 aprile 1969 pervenute all’Ufficio Centrale di Meteorologia e di Ecologia Agraria di Roma, aprile-giugno 1969.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110427</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici [e cronologici] dei fenomeni endogeni italiani col confronto di altri fenomeni per il primo quadrimestre dell’anno meteorico 187[3] (Decembre 187[2] ­ Marzo 187[3]), in "Bullettino del Vulcanismo Italiano", a.1, pp.I-XXII.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070844</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Omnibus, 1857.12.30, n.104.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030166</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>Ricerche su i terremoti avvenuti in Terra d’Otranto dall’XI al secolo XIX, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.15, pp.95-154.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000225</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1913, Regio Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470687</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Puglie, 1910.06.09.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Minuta del telegramma del Capitano Ventura al Prefetto circa la situazione nei territori tenenze Altamura, Monopoli e Bitonto dopo la scossa del 23 luglio 1930, Bari 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300305</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta del Mezzogiorno, 1930.07.23.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143908</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 22 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Altamura 26 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

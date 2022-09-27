@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036556.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.8648</lat_wgs84>
+      <lon_wgs84>10.3263</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00388</nterr>
+      <nperiod>000056</nperiod>
+      <datanum>14380611</datanum>
+      <data_label>1438 06 11</data_label>
+      <anno>1438</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8442</lat>
+      <lon>10.2384</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>10</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>590016</codbib>
+      <autore1>De Ripalta Antonio e Alberto</autore1>
+      <titolo1>Annales Placentini ab anno 1401 usque ad annum 1484, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 20, coll.869-978.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320006</codbib>
+      <autore1>Pezzana A.</autore1>
+      <titolo1>Storia della città di Parma, dal 1346 al 1500, 5 tomi.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1837 - 1859</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

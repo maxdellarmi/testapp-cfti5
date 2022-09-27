@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>07456</nterr>
+      <nperiod>003205</nperiod>
+      <datanum>18500710</datanum>
+      <data_label>1850 07 10</data_label>
+      <anno>1850</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.3669</lat>
+      <lon>13.9582</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>10</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.8</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata sul catalogo di Iaccarino e Molin (1978) $(080271)$, che non riporta indicazione delle fonti utilizzate. È stata quindi condotta una ricerca sulla bibliografia scientifica e sulle fonti giornalistiche.&lt;br&gt;Questa scossa non è elencata nel catalogo di Baratta (1901) $(000001)$; è invece menzionata da Perrey (1851) $(455071)$, Mercalli (1883) $(000002)$, Tommasi (1888) $(775041)$, e in un precedente lavoro dello stesso Baratta (1897) $(071265)$.&lt;br&gt;Due cronache pubblicate dal quotidiano "Il Friuli" di Udine hanno consentito di estendere l’area di risentimento del terremoto alla Slovenia e alla Carinzia $(455077,455078)$. Per contro, il vaglio di 2 giornali $(455091,455008)$ e di 2 fonti memorialistiche (Biblioteca del Museo Civico Correr di Venezia, Provenienze Diverse, 264/B) $(455029)$ ("Fatti principali..." 1851) $(455026)$ non ha permesso di rilevare alcuna notizia di risentimento della scossa in area veneta.&lt;br&gt;Sono stati utilizzati i cataloghi di Höfer (1880) e di Ribaric (1982) $(775036)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 10 luglio 1850 alle ore 2:30 GMT ca. e colpì la Slovenia causando leggeri danni a Cerkno. La scossa fu avvertita fortemente, ma senza danni, in 5 località della Slovenia e della Carinzia.&lt;br&gt;In territorio italiano fu sentita fortemente nel Friuli orientale a Gorizia e a Udine, dove causò il generale risveglio degli abitanti. Non è ricordata a Venezia.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>455091</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta uffiziale di Venezia, 1850.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775036</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>Seizmicnost Slovenue. Katalog potresov (792 n.e.- 1981) [Seismicity of Slovenia. Catalogue of earthquakes (792 A.D.-1981)].</titolo1>
+      <luogoed>Ljubljana</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775041</codbib>
+      <autore1>Tommasi A.</autore1>
+      <titolo1>I terremoti nel Friuli dal 1116 al 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.183-205.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110422</codbib>
+      <autore1>Höfer H.</autore1>
+      <titolo1>Die Erdbeben Kärtens und deren Stosslinien, in "Denkschriften der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", vol.42 (1880), pp.1-90.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Vaglio. Giornale di Scienze, Lettere ed Arti, 1850.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455009</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Istria, 1850.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Fatti principali dal 1790 al 1850 esposti nel giorno ed anno in cui avvennero.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1851</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455029</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca del Museo Civico Correr di Venezia, Manoscritti Provenienze Diverse, 264/B, Giornale dal 1801 a tutto l’anno 1861 di alcuni avvenimenti storici e notizie biografiche, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455071</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1850, avec suppléments pour les années antérieures, in "Mémoires del’Académie des Sciences, Arts et Belles-Lettres de Dijon", a.1851, parte 1, pp.1-36.</titolo1>
+      <luogoed>Dijon</luogoed>
+      <datacompl>1851</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Friuli, 1850.07.10, a.2, n.152.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Friuli, 1850.07.18, a.2, n.158.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cerkno</desloc>
+      <lat_wgs84>46.1318</lat_wgs84>
+      <lon_wgs84>13.9916</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080401.00</nloc_cfti>
+      <desloc_cfti>Cerkno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ribaric (1982) ha valutato l’intensità della scossa di VI grado MCS $(775036)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bled</desloc>
+      <lat_wgs84>46.3715</lat_wgs84>
+      <lon_wgs84>14.1129</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080415.00</nloc_cfti>
+      <desloc_cfti>Bled</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(455078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Feldkirchen</desloc>
+      <lat_wgs84>46.7261</lat_wgs84>
+      <lon_wgs84>14.0981</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080402.00</nloc_cfti>
+      <desloc_cfti>Feldkirchen</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(455078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gorizia</desloc>
+      <lat_wgs84>45.9434</lat_wgs84>
+      <lon_wgs84>13.6197</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>031919.00</nloc_cfti>
+      <desloc_cfti>Gorizia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente. Durante il giorno furono avvertite altre due leggere scosse $(000002,080271,455071)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Klagenfurt</desloc>
+      <lat_wgs84>46.6191</lat_wgs84>
+      <lon_wgs84>14.3089</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080101.00</nloc_cfti>
+      <desloc_cfti>Klagenfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(455078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Paternion</desloc>
+      <lat_wgs84>46.7189</lat_wgs84>
+      <lon_wgs84>13.6303</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080971.00</nloc_cfti>
+      <desloc_cfti>Paternion</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(455078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Radovljica</desloc>
+      <lat_wgs84>46.3451</lat_wgs84>
+      <lon_wgs84>14.1744</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>080340.00</nloc_cfti>
+      <desloc_cfti>Radovljica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(455078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Udine</desloc>
+      <lat_wgs84>46.0641</lat_wgs84>
+      <lon_wgs84>13.2357</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>031830.00</nloc_cfti>
+      <desloc_cfti>Udine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di qualche secondo, fu avvertita fortemente e causò il risveglio generale degli abitanti $(000002,071265,455077,455071)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(000002,455071,775041)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>07456</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non è ricordata dalle fonti giornalistiche e memorialistiche consultate $(455091,455008,455029,455026)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

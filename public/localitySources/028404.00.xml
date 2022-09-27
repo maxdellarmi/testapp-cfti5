@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>028404.00</nloc_cfti>
+      <desloc_cfti>Malamocco</desloc_cfti>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.3745</lat_wgs84>
+      <lon_wgs84>12.3414</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110487)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>510028</codbib>
+      <autore1>Giustinian P.</autore1>
+      <titolo1>Venetiarum Historia, a cura di R.Cessi e F.Bennato.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510106</codbib>
+      <autore1>Filiasi I.</autore1>
+      <titolo1>Memorie storiche de’ Veneti.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1811</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510109</codbib>
+      <autore1>Romanin S.</autore1>
+      <titolo1>Storia documentata di Venezia.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1854</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760006</codbib>
+      <autore1>Andreas Naugerius</autore1>
+      <titolo1>Historia Veneta Italico sermone scripta ab origine urbis usque ad annum 1498, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 23, coll.923-1216</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Marciana di Venezia, Manoscritti Italiani, VII, 56 (=8636), Marcantonio Erizzo, Cronaca Veneta (-1495), sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110487</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.187, Cartolina macrosismica relativa al terremoto del 16 gennaio 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Malamocco 16 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

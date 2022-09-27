@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072696.00</nloc_cfti>
+      <desloc_cfti>Aboca</desloc_cfti>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.6266</lat_wgs84>
+      <lon_wgs84>12.1226</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32553</nterr>
+      <nperiod>003255</nperiod>
+      <datanum>19480613</datanum>
+      <data_label>1948 06 13</data_label>
+      <anno>1948</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>06:33:36</time_label>
+      <ora>06</ora>
+      <minu>33</minu>
+      <sec>36</sec>
+      <lat>43.5823</lat>
+      <lon>12.1401</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>144</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò notevolmente l’abitato: vari edifici furono gravemente lesionati e divennero inabitabili $(672842)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672842</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1948.06.15, a.90, n.138.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

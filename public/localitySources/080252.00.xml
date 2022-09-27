@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080252.00</nloc_cfti>
+      <desloc_cfti>Bamberg</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>49.8928</lat_wgs84>
+      <lon_wgs84>10.8963</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00540</nterr>
+      <nperiod>000078</nperiod>
+      <datanum>15110326</datanum>
+      <data_label>1511 03 26</data_label>
+      <anno>1511</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>14:40</time_label>
+      <ora>14</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>46.1982</lat>
+      <lon>13.4309</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>7</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Secondo Ribaric la scossa del 26 marzo sarebbe stata avvertita $(130470)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00035</nterr>
+      <nperiod>000007</nperiod>
+      <datanum>11170103</datanum>
+      <data_label>1117 01 03</data_label>
+      <anno>1117</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3665</lat>
+      <lon>11.1673</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>55</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130470</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>The Idrija earthquake of March 26, 1511, a reconstruction of some seismological parameters, in "Tectonophysics", a.53 (1979), pp.315-324.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090108</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales S.Petri Babenbergensis [1103-1185], ed. Ph.Jaffé, "Monumenta Germaniae Historica", SS., tomo 17, pp.636-637.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1861</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090162</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales S.Michaelis Babenbergensis [1066-1160], ed. G.H.Pertz, "Monumenta Germaniae Historica", SS., tomo 5, pp.9-10.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090172</codbib>
+      <autore1>Ekkehardus Uraugiensis</autore1>
+      <titolo1>Chronicon universale (-1125), ed. G.Waitz, in "Monumenta Germaniae Historica", SS., tomo 6, pp.1-16, 33-265.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

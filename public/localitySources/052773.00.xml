@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052773.00</nloc_cfti>
+      <desloc_cfti>Spinetoli</desloc_cfti>
+      <provlet>AP</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>5</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.8884</lat_wgs84>
+      <lon_wgs84>13.7729</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32283</nterr>
+      <nperiod>003265</nperiod>
+      <datanum>19431003</datanum>
+      <data_label>1943 10 03</data_label>
+      <anno>1943</anno>
+      <mese>10</mese>
+      <giorno>03</giorno>
+      <time_label>08:28:29</time_label>
+      <ora>08</ora>
+      <minu>28</minu>
+      <sec>29</sec>
+      <lat>42.9098</lat>
+      <lon>13.6508</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>131</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche meridionali-Abruzzo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La località fu inclusa nell’elenco dei comuni danneggiati, approvato con decreto ministeriale 12 agosto 1946, ai quali erano applicabili i provvedimenti del decreto legge 17 maggio 1946 n.516 a favore delle zone colpite dal terremoto $(672620,672622)$. Fu inoltre inclusa nell’elenco dei comuni danneggiati, approvato con decreto ministeriale 25 ottobre 1946, che vennero iscritti alla seconda categoria agli effetti dell’osservanza obbligatoria delle norme tecniche di edilizia asismica stabilite dal decreto legge 22 novembre 1937, n.2105 $(672623)$.&lt;br&gt;Raccichini et al. (1985) hanno valutato l’intensità della scossa di VII grado MCS, ma non forniscono elementi decrittivi degli effetti $(095183)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa di IV grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa del 7 maggio di IV grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di III-IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00464</nterr>
+      <nperiod>003244</nperiod>
+      <datanum>14800000</datanum>
+      <data_label>1480 - -</data_label>
+      <anno>1480</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.902</lat>
+      <lon>13.8004</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>4</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "G.Gabrielli" di Ascoli Piceno, Fondo cronache ascolane, Manoscritti, A.I.16, cc.26-146, Libro delle memorie antiche della città d’Ascoli dal 1345 al 1565, copia G.Riccardi sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672620</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale della Repubblica Italiana, a.87, n.139 (25 giugno 1946), Regio decreto legislativo 17 maggio 1946, n.516, Disposizioni per la riparazione dei danni causati dal terremoto del 3 ottobre 1943 nei Comuni delle provincie di Ascoli Piceno, Macerata e Teramo.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1946</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672622</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale della Repubblica Italiana, a.87, n.185 (19 agosto 1946), Decreto ministeriale 12 agosto 1946, Approvazione dell’elenco dei comuni colpiti dal terremoto del 3 ottobre 1943 che vengono ammessi a beneficiare delle disposizioni del regio decreto legislativo 17 maggio 1946, n.516.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1946</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672623</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale della Repubblica Italiana, a.87, n.248 (31 ottobre 1946), Decreto ministeriale 25 ottobre 1946, Approvazione dell’elenco dei comuni danneggiati dal terremoto del 3 ottobre 1943 nelle provincie di Ascoli Piceno e Teramo per l’osservanza delle norme tecniche di edilizia asismica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1946</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095183</codbib>
+      <autore1>Raccichini S., Stucchi M. e Calza W.</autore1>
+      <titolo1>The Castignano earthquake of October 3, 1943, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.144-145.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

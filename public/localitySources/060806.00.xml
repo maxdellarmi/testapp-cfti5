@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060806.00</nloc_cfti>
+      <desloc_cfti>Passo di Mirabella</desloc_cfti>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>41.0551</lat_wgs84>
+      <lon_wgs84>15.0117</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Frazione del comune di Mirabella Eclano; il terremoto causò danni gravi che furono rilevati insieme a quelli del capoluogo. Subì lesioni gravissime una clinica nei cui muri portanti si aprirono estese spaccature; l’edificio dovette essere sgomberato e i degenti trasferiti nell’ospedale civico di Avellino; poco dopo lo sgombero crollò il secondo piano del fabbricato $(331050,691673)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>331050</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1962.08.23, a.87, n.187.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1962</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691673</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1962.08.22, a.14, n.190.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1962</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

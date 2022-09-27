@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072356.00</nloc_cfti>
+      <desloc_cfti>Felicetto</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>37.6661</lat_wgs84>
+      <lon_wgs84>15.1512</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa fu rovinosa: la documentazione ufficiale attestò la distruzione completa dei muretti paraterra e di cinta $(145415)$. Secondo le testimonianze giornalistiche nella contrada tutte le case furono gravemente danneggiate $(145646)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13468</nterr>
+      <nperiod>003038</nperiod>
+      <datanum>18891225</datanum>
+      <data_label>1889 12 25</data_label>
+      <anno>1889</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>17:23:00</time_label>
+      <ora>17</ora>
+      <minu>23</minu>
+      <sec>00</sec>
+      <lat>37.6464</lat>
+      <lon>15.1582</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>25</npun>
+      <mm>5</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò il crollo di alcune abitazioni rurali e ne danneggiò gravemente altre; alcune persone rimaste sotto le macerie furono ferite, una di queste morì dopo qualche giorno $(575828,056034)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145415</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 43 (1915-43), b.27, Richieste di contributo per danni terremoto 1914, Certificati previsti dagli art.31 e 33 regolamento 6 gennaio 1916 n.140, riguardanti alcuni edifici del comune di Acireale.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145646</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ora, 1914.05.09/10, a.15, n.129.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575828</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1889.12.27.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoto Etneo del 25 dicembre [1889], in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.10 (1890), pp.29-31.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1890</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063671.00</nloc_cfti>
+      <desloc_cfti>San Basile</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>39.6893</lat_wgs84>
+      <lon_wgs84>15.8656</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42035</nterr>
+      <nperiod>009004</nperiod>
+      <datanum>16930108</datanum>
+      <data_label>1693 01 08</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>08</giorno>
+      <time_label>22:15</time_label>
+      <ora>22</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>39.7956</lat>
+      <lon>16.1127</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>14</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò l’abitato $(351003)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>351003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo del Principato, filza 1601 (1691-94), Copia di lettera datata da Castrovillari il 28 gennaio 1693 allegata al dispaccio del padre Giovanni Berardi al segretario ducale Apollonio Bassetti, Napoli 10 febbraio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

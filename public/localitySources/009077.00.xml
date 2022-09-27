@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>009077.00</nloc_cfti>
+      <desloc_cfti>Castellazzo</desloc_cfti>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.0906</lat_wgs84>
+      <lon_wgs84>8.3026</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17752</nterr>
+      <nperiod>000333</nperiod>
+      <datanum>19010525</datanum>
+      <data_label>1901 05 25</data_label>
+      <anno>1901</anno>
+      <mese>05</mese>
+      <giorno>25</giorno>
+      <time_label>03:59:20</time_label>
+      <ora>03</ora>
+      <minu>59</minu>
+      <sec>20</sec>
+      <lat>44.9256</lat>
+      <lon>7.567</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>35</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Torinese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

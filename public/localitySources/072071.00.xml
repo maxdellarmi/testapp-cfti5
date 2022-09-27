@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072071.00</nloc_cfti>
+      <desloc_cfti>Cintoia Alta</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.6199</lat_wgs84>
+      <lon_wgs84>11.3631</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34673</nterr>
+      <nperiod>002094</nperiod>
+      <datanum>19620916</datanum>
+      <data_label>1962 09 16</data_label>
+      <anno>1962</anno>
+      <mese>09</mese>
+      <giorno>16</giorno>
+      <time_label>14:49:45</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>45</sec>
+      <lat>43.6003</lat>
+      <lon>11.3624</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>19</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Valle del Greve</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01025</nterr>
+      <nperiod>000756</nperiod>
+      <datanum>16610312</datanum>
+      <data_label>1661 03 12</data_label>
+      <anno>1661</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.6552</lat>
+      <lon>9.9815</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state reperite fonti memorialistiche coeve. La fonte remota di Baratta (1901) $(000001)$ è costituita dall’"Effemeride sagro-profana di Donato Calvi (1676-77) $(480280)$, pubblicata una quindicina di anni dopo il terremoto. L’analisi di questo testo, di altre fonti memorialistiche coeve (Cremosano ed.1880 $(820031)$; Ussoli Bianchi ed.1930 $(170032)$) e della storiografia successiva ha permesso di evidenziare, in via preliminare, un quadro di effetti locali scarsamente distruttivo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto causò danni di rilievo a Montecchio, dove vi furono 2 vittime per il crollo parziale del refettorio di un convento, e ad Albino. La scossa fu avvertita molto fortemente a Bergamo e a Brescia.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Nel territorio montuoso del bergamasco si ebbero frane e spaccature nel suolo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150341</codbib>
+      <autore1>Canobio L.</autore1>
+      <titolo1>Proseguimento della storia di Crema.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1849</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160003</codbib>
+      <autore1>Nardini F.</autore1>
+      <titolo1>Brescia e provincia: storia per date dalla preistoria al 1980.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170032</codbib>
+      <autore1>Ussoli Bianchi P.A.</autore1>
+      <titolo1>I diari dei Bianchi (1630-1743) [1630-1688], in "Le cronache bresciane inedite dei secoli XV-XIX", ed. P.Guerrini, vol.5 (Fonti per la storia bresciana, vol.7).</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1930</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480280</codbib>
+      <autore1>Calvi D.</autore1>
+      <titolo1>Effemeride sagro-profana di quanto di memorabile sia successo in Bergamo, sua diocese, et territorio da suoi principij sin’al corrente Anno, 3 voll.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1676 - 1677</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820031</codbib>
+      <autore1>Cremosano M.</autore1>
+      <titolo1>Memorie storiche milanesi dall’anno 1642 al 1691, ed. G.Porro Lambertenghi, in "Archivio Storico Lombardo", s.I, vol.7, fasc.2 (giugno 1880), pp.279-298.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Castel Montecchio</desloc>
+      <lat_wgs84>45.6613</lat_wgs84>
+      <lon_wgs84>9.9351</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>074101.00</nloc_cfti>
+      <desloc_cfti>Castel Montecchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo del refettorio del convento, provocando la morte di 2 persone $(480280)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Albino</desloc>
+      <lat_wgs84>45.7596</lat_wgs84>
+      <lon_wgs84>9.7954</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>014204.00</nloc_cfti>
+      <desloc_cfti>Albino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò notevoli danni nel convento dei Cappuccini $(480280)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu sentita violentemente e causò la caduta di alcuni camini $(170032)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Bergamo</desloc>
+      <lat_wgs84>45.6947</lat_wgs84>
+      <lon_wgs84>9.6699</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>014353.00</nloc_cfti>
+      <desloc_cfti>Bergamo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita con spavento dalla popolazione $(480280)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu sentita $(820031)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Crema</desloc>
+      <lat_wgs84>45.3629</lat_wgs84>
+      <lon_wgs84>9.686</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>01025</nterr>
+      <nloc_cfti>018743.00</nloc_cfti>
+      <desloc_cfti>Crema</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, erroneamente datata al 18 marzo, venne avvertita leggermente $(150341)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

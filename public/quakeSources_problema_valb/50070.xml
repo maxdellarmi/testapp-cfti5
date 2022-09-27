@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50070</nterr>
+      <nperiod>005086</nperiod>
+      <datanum>06500000</datanum>
+      <data_label>650 - -</data_label>
+      <anno>650</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>38</lat>
+      <lon>15</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Sicilia nord-orientale</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è costituita da un passo di Adamnano, monaco irlandese abate di Jona (Scozia), autore coevo agli eventi narrati $(093063)$. L’autore scriveva sotto dettatura del vescovo franco Arcolfo, verso il 688. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XIX secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>L’attività eruttiva di Vulcano è ricordata insieme a scosse che furono particolarmente violente nell’area della Sicilia nord-orientale $(093063)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093063</codbib>
+      <autore1>Adamnan (sanctus)</autore1>
+      <titolo1>De locis sanctis libri tres, ed. P.Geyer, in "Corpus Scriptorum Ecclesiasticorum Latinorum", vol.39, pp.219-297.</titolo1>
+      <luogoed>Praha-Wien-Leipzig</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190099</codbib>
+      <autore1>Agnello G.M.</autore1>
+      <titolo1>Terremoti ed eruzioni vulcaniche nella Sicilia medievale, in "Quaderni medievali", n.34 (dicembre 1992), pp.73-111.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Sicilia nord-orientale</desloc>
+      <lat_wgs84>38</lat_wgs84>
+      <lon_wgs84>15</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50070</nterr>
+      <nloc_cfti>090210.00</nloc_cfti>
+      <desloc_cfti>Sicilia nord-orientale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La menzione delle scosse è collegata alla descrizione di un’eruzione di Vulcano, osservata da Arcolfo mentre si trovava in Sicilia $(093063)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

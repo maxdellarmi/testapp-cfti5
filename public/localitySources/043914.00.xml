@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>043914.00</nloc_cfti>
+      <desloc_cfti>Corfino</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>44.1834</lat_wgs84>
+      <lon_wgs84>10.3786</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18766</nterr>
+      <nperiod>000360</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>18:47:50</time_label>
+      <ora>18</ora>
+      <minu>47</minu>
+      <sec>50</sec>
+      <lat>44.4908</lat>
+      <lon>10.6395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita in maniera sensibile $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto danneggiò molto gravemente il paese: quasi tutte le case crollarono o furono rese inabitabili; le tre chiese furono fortemente danneggiate, e parte della chiesa parrocchiale divenne pericolante $(080102,870190,635721)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080102</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.08, a.62, n.215.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870190</codbib>
+      <autore1>De Stefani C.</autore1>
+      <titolo1>Il terremoto del settembre 1920 nella provincia di Massa, in "Memorie della Società Lunigianese G.Capellini per la storia naturale della regione", vol.2 (1920), pp.40-61.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635721</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1920, rubrica 36 (Disastri), fasc.1, Relazione sui danni causati dal terremoto del 7 settembre 1920 nei paesi della diocesi di Massa allegata alla lettera del vescovo Giuseppe Bertazzoni al papa Benedetto XV del 14 ottobre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

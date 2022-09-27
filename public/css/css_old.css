@@ -1,0 +1,1305 @@
+:root{
+	--main-color: #1f708f;
+	/*--main-color: #910000;*/
+}
+
+
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-size: 11px;
+	font-family: 'Arial';
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+abbr {
+	cursor:help;
+}
+th {
+	text-align: left;
+	border-bottom: 0.5px solid #e0e0e0;
+	padding-bottom: 3px;
+
+}
+td {
+	text-align: left;
+	border-bottom: 0.1px solid #efefef;
+	text-overflow:ellipsis;
+	vertical-align: center;
+}
+h1 {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-size: 120%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	text-decoration: none!important;
+}
+hr.EEline{
+
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+p{
+	margin: 2px;
+}
+
+abbr[title], acronym[title] {
+    border-bottom: none;
+	text-decoration: none!important;
+}
+input {
+  outline: none;
+  cursor: pointer;
+}
+a:link, a:visited {
+    text-decoration: none !important;
+    color: var(--main-color);
+    background-color: transparent;
+	font-weight: bold;
+}
+a:hover, a:active {
+    text-decoration: none !important;
+    color: var(--main-color);
+	font-weight: bold;
+}
+
+/*NON SO SE QUESTI SERVONO ANCORA*/
+.goog-te-gadget-icon {display:none;}
+.goog-te-gadget-simple a {text-decoration: none !important;}
+.goog-te-banner-frame.skiptranslate {display: none !important;}
+body { top: 0px !important; }
+
+
+.comments{
+	font-family: 'Cambria';
+	color: #4c4c4c;
+}
+
+
+
+/* ==========   DIV STRUTTURA GENERALE PAGINE   ================ */
+#content {
+	width: 100%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#leftside {
+	position:absolute;
+	display: block;
+	width: 450px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+#topcolor {
+	position:absolute;
+	display: block;
+	margin-top: 5px;
+	margin-left: 0px;
+	width: 100%;
+	height: 30px;
+	border-radius: 3px;
+}
+.quakeColor{
+	background-color: #eff6f9;
+	border-bottom: 1px solid var(--main-color);
+	border-radius: 3px;
+
+}
+.localityColor{
+	background-color: #f9e8e0;
+	border-bottom: 1px solid #910000;
+	border-radius: 3px;
+}
+.EEColor{
+	background-color: #e1e8e1;
+	border-bottom: 1px solid #477f47;
+	border-radius: 3px;
+}
+.quakeFontColor{
+	color: var(--main-color);
+}
+.localityFontColor{
+	color: #910000;
+}
+
+#topmenu {
+	position:absolute;
+	width: 450px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-size: 120%;
+	margin-top: 7px;
+	margin-left: 5px;
+}
+.topwords{
+	font-size: 90%;
+}
+
+#map{
+	position:relative;
+	margin-left: 460px;
+	margin-top: 5px;
+    height: 100%;
+}
+
+#banner {
+	padding-top: 4px;
+	background-color: rgba(255,255,255,0.9);
+	height: 35px;
+	width: 695px;
+	position:absolute;
+	margin-left: 465px;
+	margin-top: 10px;
+	z-index: 1;
+	border-radius: 1px;
+	box-shadow: 2px 2px 2px 2px #888888;
+}
+
+#logoINGV {
+	position:absolute;
+	left: 1135px;
+	margin-top: 12px;
+	z-index: 2;
+	border: 3px;
+	border-radius: 2px;
+	border-color:#8d8d8e;
+}
+
+#pagetype{
+	position:absolute;
+	margin-left: 320px;
+	width: 250px;
+	margin-top: 6px;
+	z-index: 1;
+	font-size: 140%;
+	font-weight: bold;
+	text-align: middle;
+}
+#NumSel {
+	position:absolute;
+	padding-top: 6px;
+	padding-left:6px;
+	left: 10px;
+	z-index: 0;
+	width:200px;
+	height: 18px;
+	background: #fefefe;
+	text-align: left;
+	font-size: 120%;
+	color: var(--main-color);
+}
+
+
+footer {
+	border-top: 1px dashed var(--main-color);
+	clear: both;
+	color: black;
+	display: block;
+	float: left;
+	margin: 2px 2px 2px 2px;
+	padding: 2px 2px 5px 2px;
+	position: absolute;
+	bottom: 0;
+	width: 440px;
+}
+
+footer p#license { width: 100%; text-align: center; font-size: 80%; }
+
+
+.lic{
+	text-align: left;
+	border-bottom: none;
+}
+
+#loading {
+	z-index: 5;
+    font-size: medium;
+    position: absolute;
+    width: 200px;
+	height:60px;
+	background-color: rgba(255,255,255,0.90);
+	text-align: center;
+	display: none;
+	overflow:auto;
+	box-shadow: 3px 3px 3px #888888;
+	border-radius: 10px;
+	-moz-border-radius: 10px; /* firefox */
+    -webkit-border-radius: 10px; /* safari, chrome */
+
+}
+
+
+
+
+
+/* =====================      DISCLAIMER  =========================*/
+#disclaimer {
+	font-family: Cambria;
+	position: absolute;
+	/*height: 550px;
+	width: 550px;*/
+	min-width: 600px;
+	font-size: 110%;
+	padding-top:0px;
+    padding-bottom:15px;
+    padding-left: 20px;
+	padding-right: 10px;
+	background-color: rgba(255,255,255,0.94);
+	z-index: 4;
+	border: 2px;
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 3px;
+}
+
+#disctext {
+	position: absolute;
+	width: 92%;
+	height: 91%;
+	overflow-y: auto;
+	overflow-x: hidden;
+	bottom: 10px;
+	top: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align:justify;
+	font-family: Cambria;
+}
+
+#disctext p{
+    text-align: justify;
+	margin-top: 10px;
+}
+
+
+#disctext ul{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#disctext .HELP-INFOtext{
+    text-decoration: none;
+	display:none;
+}
+#disctext .showTEXT{
+	display:inline;
+	overflow: hidden;
+}
+#disctext .hideTEXT{
+	display:none;
+	overflow: hidden;
+}
+#closeD{
+	position: absolute;
+	background: url(../images/close.png) no-repeat;
+	background-size: 15px 15px;
+	width: 15px;
+	height: 15px;
+	text-indent: -1000em;
+	top: 4px;
+	right: 4px;
+}
+
+
+
+
+/* ==========   INFOWINDOWS   ================ */
+
+.gm-style-iw {
+   max-width: 410px;
+   top: 15px !important;
+   left: 17px !important;
+   right: 0px; !important;
+   background-color: #fff;
+   overflow: hidden;
+   border-radius: 5px 5px 5px 5px; /* apply 10px to the bottom corners of the infowindow */
+}
+.iw-title {
+   width: 360px;  /*  BRUTALE: 50px in meno perche è messo padding per il testo...   */
+   overflow: hidden;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   padding-left: 10px;
+   padding-right: 40px;
+   font-size: 105%;
+   border-radius: 2px 2px 0 0; /* In accordance with the rounding of the default infowindow corners. */
+}
+.IW {
+	font-size: 100%; /* 12px; */
+	text-align: left;
+	overflow: hidden;
+	max-width: 410px;
+}
+#IWclose{
+	position: absolute;
+	margin-left: 395px;
+	margin-top:2px;
+	z-index: 3;
+}
+
+
+.EQinfoIW{
+	padding-left: 20px;
+	padding-right: 10px;
+}
+.LocComm{
+	text-align: justify;
+	max-height: 120px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 8px;
+	margin-right: 10px;
+	color: #4c4c4c;
+}
+.LocComm td{
+	border: none;
+}
+.commentsIW{
+	width: 390px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 15px;
+}
+
+
+
+/*  =======================    MARKER LEGENDS (EPI E PQ)   =====================  */
+
+#legend {
+	position:absolute;
+	margin-left: 465px;
+	bottom: 35px;
+	z-index: 1;
+	box-shadow: 3px 3px 3px #888888;
+	border-radius: 2px;
+}
+
+#legendtext{
+	width: 305px;
+	height: 160px;
+	padding:3px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	box-shadow: 3px 3px 3px #888888;
+	border-radius: 2px;
+	background-color: rgba(255,255,255,0.9);
+	text-align: left;
+	z-index: 2;
+	color:#505151;
+}
+#legendtext table{
+	background-color: rgba(255,255,255,0.0);
+}
+#legendtext thead{
+	font-size: 90%;
+}
+#legendtext tbody{
+	font-size: 110%;
+}
+#legendtext td{
+	border-bottom: none;
+}
+#legendTitleMCS{
+	text-align: right;
+	padding-right: 5px;
+}
+.textTypeEpi{
+	padding-left: 3px;
+	width: 80px;
+	text-align: left;
+}
+
+.int9icon{
+	width: 24px;
+	height: 24px;
+}
+.int8icon{
+	width: 21px;
+	height: 21px;
+}
+.int6icon{
+	width: 18px;
+	height: 18px;
+}
+.int4icon{
+	width: 14px;
+	height: 14px;
+}
+.int9iconCIR{
+	width: 22px;
+	height: 22px;
+}
+.int8iconCIR{
+	width: 18px;
+	height: 18px;
+}
+.int6iconCIR{
+	width: 15px;
+	height: 15px;
+}
+.int4iconCIR{
+	width: 13px;
+	height: 13px;
+}
+.NPicon{
+	width: 10px;
+	height: 10px;
+}
+.falseIcon{
+	width: 13px;
+	height: 13px;
+}
+.int9{
+	width: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+.int8{
+	width: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+.int6{
+	width: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+.int4{
+	width: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+.empty{
+	width:25px;
+}
+.NPepi{
+	width: 23px;
+	text-align: center;
+	vertical-align: middle;
+}
+.falseEPI{
+	width: 23px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+#legendmin {
+	position:absolute;
+	margin-left: 465px;
+	bottom: 35px;
+	display:none;
+	width: 100px;
+	height: 27px;
+	z-index: 1;
+	box-shadow: 3px 3px 3px #888888;
+	background-color: rgba(255,255,255,0.9);
+	vertical-align: middle;
+	padding-top:13px;
+	padding-left:10px;
+	font-size: 120%;
+	border-radius: 2px;
+	color: var(--main-color);
+}
+
+
+#legendPQ {
+	width: 250px;
+	height: 50px;
+	padding:10px;
+	box-shadow: 3px 3px 3px #888888;
+	background-color: rgba(255,255,255,0.9);
+	text-align: left;
+	z-index: 2;
+	font-size: 110%;
+	position:absolute;
+	margin-left: 465px;
+	bottom: 35px;
+	border-radius: 2px;
+}
+#legendPQ table{
+	background-color: rgba(255,255,255,0.0);
+}
+#legendPQ td{
+	border-bottom: none;
+}
+.EE_LOClegend{
+	vertical-align: middle;
+	padding-top: 5px;
+	text-align: center;
+}
+.intLOC{
+	width:15px;
+	text-align: center;
+}
+#linkMCS{
+	position:absolute;
+	margin-left: 160px;
+	margin-top: 36px;
+}
+
+
+
+
+/* CURSORE COORDINATE */
+#tdCursor {
+	position:absolute;
+	padding-top: 6px;
+	padding-left:6px;
+	right: 70px;
+	bottom: 25px;
+	z-index: 2;
+	width:70px;
+	height: 30px;
+	background: #fefefe;
+	border-radius: 5px;
+	text-align: left;
+}
+
+
+
+/* =========================    TABELLE   ========================= */
+
+
+table {
+	position:relative;
+	width: 100%;
+	float: left;
+	overflow: hidden;
+	background: #ffffff;
+	border-spacing:0;
+}
+
+thead {
+    text-align: left;
+	width: 100%;
+    overflow-y: hidden;
+}
+
+tbody {
+    text-align: left;
+	width: 100%;
+    overflow-y: auto;
+	font-size: 100%;
+}
+
+.tbodyblock{
+	display: block;
+}
+
+.time {
+	width: 50px;
+}
+.timeEE {
+	width: 48px;
+}
+
+.date {
+	width: 65px;
+	padding-left: 3px;
+}
+.dateEE {
+	width: 62px;
+	padding-left: 3px;
+}
+.io {
+	width: 25px;
+}
+.int {
+	width: 45px;
+}
+.imax {
+	width: 45px;
+}
+.imaxLoc {
+	width: 30px;
+}
+.sites {
+	width: 30px;
+	text-align: right;
+	padding-right: 12px;
+}
+.EEnum{
+	width: 30px;
+}
+
+.me {
+	width: 25px;
+}
+.meEE {
+	width: 25px;
+}
+.nat{
+	width: 20px;
+	border-right: 3px solid #e0e0e0;
+	cursor: help;
+	padding-right: 3px;
+}
+.mapbut{
+	width: 25px;
+	cursor: pointer;
+	/*padding-left: 5px;*/
+	text-align: center;
+}
+.emap{
+	width: 25px;
+	/*padding-left: 10px;*/
+}
+
+.provLOC{
+	width: 60px;
+}
+
+.lat{
+	width: 25px;
+	padding-left: 10px;
+}
+
+.lon{
+	width: 25px;
+	padding-left: 10px;
+}
+.latLOC{
+	width: 33px;
+	padding-left: 10px;
+	text-align: right;
+}
+
+.lonLOC{
+	width: 33px;
+	padding-left: 5px;
+	text-align: right;
+}
+
+.eetype {
+	width: 24px;
+}
+
+
+.locEE{
+	width: 120px;
+	border-right: 3px solid #e0e0e0;
+}
+.nameLOC {
+	width: 150px;
+	padding-left: 3px;
+}
+.ismax {
+	width: 55px;
+}
+.rel{
+	width: 28px;
+	text-align: center;
+}
+.level{
+	width: 30px;
+	text-align: center;
+	/*padding-left: 4px;*/
+}
+.location {
+	width: 100px;
+}
+.locationEE{
+	width: 80px;
+}
+.natEE{
+	width: 24px;
+	text-align: center;
+}
+
+
+
+/* Infowindow EE access page*/
+.dateIW{
+	width:85px;
+}
+.timeIW{
+	width:60px;
+}
+.meIW{
+	width:55px;
+}
+.IoIW{
+	width:50px;
+}
+.locationIW{
+	width:115px;
+}
+.linkIW{
+	width:20px;
+}
+
+
+
+
+/* =========================    DIV ROLL-OVER   ========================= */
+.int:hover .tooltiptext {
+    visibility: visible;
+	opacity: 1;
+	 display: block;
+}
+.tooltiptext {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+	opacity: 0;
+    transition: opacity 1s;
+    visibility: hidden;
+    width: 375px;
+    background-color: #eeeeee;
+    color: black;
+    text-align: justify;
+    border-radius: 3px;
+    padding: 5px 5px;
+ 	display: block;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 10;
+	border: 1px dashed var(--main-color);
+}
+.IntContainer {
+    position: relative;
+	cursor:help;
+}
+
+.nat:hover .tooltiptext_EE {
+    visibility: visible;
+	opacity: 1;
+	display: block;
+	z-index: 10;
+}
+
+.tooltiptext_EE {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+	opacity: 0;
+    transition: opacity 1s;
+    visibility: hidden;
+    width: 320px;
+    background-color: #eeeeee;
+    color: black;
+	vertical-align: baseline;
+	vertical-align:-webkit-baseline-middle;
+    text-align: left;
+    border-radius: 3px;
+    padding: 5px 5px;
+	padding-left: 10px;
+	display: block;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 10;
+	border: 1px dashed var(--main-color);
+
+}
+
+.EEContainer {
+    position: relative;
+	cursor:help;
+	text-align: left;
+}
+.EEContainer td {
+    background-color: #eeeeee;
+	border: none;
+	text-align: left;
+}
+
+
+
+#dragpart {
+	position: relative;
+	cursor: move;
+	width: 98%;
+	height: 20px;
+	border-bottom: 1px dashed var(--main-color);
+}
+
+
+#bigger{
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	text-indent: -1000em;
+	background: url(../images/bigger.png) no-repeat;
+	background-size: 15px 15px;
+	top: 3px;
+	right: 1px;
+}
+
+#smaller{
+	position: absolute;
+
+	width: 16px;
+	height: 16px;
+	text-indent: -1000em;
+	background: url(../images/smaller.png) no-repeat;
+	background-size: 14px 14px;
+	top: 3px;
+	right: 1px;
+	z-index: 3;
+}
+
+
+
+/* ====================     MAP OVERLAYS (WMS)   ======================*/
+#WMSlayersIcon{
+	position:absolute;
+	width: 31px;
+	height: 31px;
+	background-color: rgba(255,255,255,1);
+	align-items: center;
+	left:475px;
+	top:95px;
+	border: 3px;
+	border-color:#8d8d8e;
+	padding-left: 3px;
+	z-index: 1;
+	border-radius: 2px;
+	box-shadow: 2px 2px 2px 2px #888888;
+}
+#WMS{
+	display:none;
+	position:absolute;
+	left:475px;
+	top:95px;
+	height: 310px;
+    width: 310px;
+	background-color: rgba(255,255,255,1);
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 2px;
+	z-index: 2;
+	color:#2d2d2d;
+}
+#WMSclose{
+	position: absolute;
+	background: url(../images/smaller.png) no-repeat;
+	background-size: 14px 14px;
+	width: 16px;
+	height: 16px;
+	text-indent: -1000em;
+	top: 4px;
+	right: 4px;
+	z-index: 3;
+}
+
+#titlelayer{
+	position: absolute;
+	width:100%;
+	margin-top: 4px;
+	text-align: center;
+}
+#layers {
+  position:absolute;
+  margin-top:20px;
+  height: auto;
+  padding-left:5px;
+}
+
+#layers p{
+	margin: 4px;
+}
+#warningWMS{
+	display: none;
+	left: 800px;
+	margin-top: 95px;
+	position:absolute;
+	height: 75px;
+    width: 160px;
+	padding:10px;
+	background-color: rgba(255,255,255,1);
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 2px;
+	z-index: 3;
+	font-size: 130%;
+	color:#505151;
+}
+#closeWMSwarning{
+	position: absolute;
+	background: url(../images/close.png) no-repeat;
+	background-size: 10px 10px;
+	width: 10px;
+	height: 10px;
+	text-indent: -1000em;
+	top: 2px;
+	right: 2px;
+}
+
+#LEGWMSclose{
+	position: absolute;
+	background: url(../images/close.png) no-repeat;
+	background-size: 12px 12px;
+	width: 12px;
+	height: 12px;
+	text-indent: -1000em;
+	top: 4px;
+	right: 4px;
+	z-index: 10;
+}
+#WindowlegendaFrane{
+	position: absolute;
+	left: 474px;
+	bottom: 8px;
+	z-index: 1;
+	box-shadow: 3px 3px 3px #888888;
+	background-color: rgba(255,255,255,0.96);
+	border-radius: 2px;
+	display: none;
+	padding-left: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	width: 304px;
+	min-height: 265px;
+	max-height: 265px;
+	min-width: 220px;
+	z-index: 5;
+}
+#dragpartLegFrane {
+	position: relative;
+	cursor: move;
+	width: 92%;
+	height: 15px;
+	border-bottom: 1px dashed var(--main-color);
+}
+
+#refDISS{
+	display:none;
+	position:absolute;
+	left:475px;
+	top:410px;
+	height: 85px;
+    width: 290px;
+	background-color: rgba(255,255,255,1);
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 2px;
+	z-index: 2;
+	color:#505151;
+	padding: 10px;
+}
+#closeDISSref{
+	position: absolute;
+	background: url(../images/close.png) no-repeat;
+	background-size: 10px 10px;
+	width: 10px;
+	height: 10px;
+	text-indent: -1000em;
+	top: 2px;
+	right: 2px;
+}
+
+
+
+/*  =======================    GOOGLE SEARCH   =====================  */
+.pac-card {
+	font-size: 90%;
+  }
+
+  #pac-container {
+    padding-bottom: 12px;
+    margin-right: 12px;
+  }
+
+  .pac-controls {
+    display: inline-block;
+    padding: 5px 11px;
+  }
+
+  .pac-controls label {
+    font-size: 60%;
+    font-weight: 300;
+  }
+
+  .pac-item-query{
+      font-size:100%;
+  }
+
+::placeholder {
+    color: var(--main-color);
+	font-weight: 400;
+}
+
+
+  #pac-input {
+	position: absolute;
+	left: 475px;
+	top: 60px;
+	color: var(--main-color);
+    font-size:110%;
+	font-weight: bold;
+    padding: 0 5px 0 5px;
+	height: 25px;
+    text-overflow: ellipsis;
+    width: 165px;
+	background-position: 1px 1px;
+	z-index:1;
+	border: none;
+	border-radius: 2px;
+	box-shadow: 2px 2px 2px 2px #888888;
+	background-color: rgba(255,255,255,0.9);
+  }
+
+  #pac-input:focus {
+    border-color: var(--main-color);
+  }
+
+  #GoogleSearch{
+	display: block;
+  	font-size: 110%;
+  	font-weight: bold;
+  	color: var(--main-color);
+  }
+
+
+
+
+/* ====================     SISMICITA' STRUMENTALE   ======================*/
+#STRUMeqIcon{
+	position:absolute;
+	width: 31px;
+	height: 31px;
+	background-color: rgba(255,255,255,0.9);
+	align-items: center;
+	left:475px;
+	top:136px;
+	border: 3px;
+	border-color:#8d8d8e;
+	padding-left: 3px;
+	z-index: 1;
+	border-radius: 2px;
+	box-shadow: 2px 2px 2px 2px #888888;
+}
+#STRUMeqMenu{
+	display:none;
+	position:absolute;
+	/*padding: 20px;*/
+	left:475px;
+	top:136px;
+	height: 370px;
+    width: 310px;
+	background-color: rgba(255,255,255,0.96);
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 2px;
+	z-index: 2;
+	color:#2d2d2d;
+}
+#titleSTRUM{
+	position: absolute;
+	width:100%;
+	margin-top: 5px;
+	text-align: center;
+}
+#STRUMmenuContent{
+	margin-top: 5px;
+	padding:10px;
+}
+#STRUMmenuContent label{
+	font-size: 110%;
+}
+#STRUMclose{
+	position: absolute;
+	background: url(../images/smaller.png) no-repeat;
+	background-size: 14px 14px;
+	width: 16px;
+	height: 16px;
+	text-indent: -1000em;
+	top: 4px;
+	right: 4px;
+	z-index: 3;
+}
+
+.TitleMenuSTRUM{
+	/*width: 45px;*/
+	/*color: white;*/
+	margin-top: 12px;
+	margin-bottom: 3px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	font-size: 110%;
+	/*background: var(--main-color);*/
+	color: var(--main-color);
+	/*padding: 2px;*/
+	/* padding-left: 5px; */
+	/*border-radius: 3px;*/
+	/*float: left;*/
+}
+
+
+.datepicker{
+	width:70px;
+}
+.inputdiv{
+	margin-left: 10px;
+}
+
+.inputdiv label {
+	/* width: 20px; */
+	margin-top:2px;
+	margin-left: 5px;
+	/* display: block; */
+	float: left;
+	/*font-size: var(--menu-fontsize);*/
+	vertical-align: middle;
+}
+.inputdiv input[type=text] {
+	margin-left: 5px;
+	/*margin-top: -3px;*/
+	width: 35px;
+	height: 15px;
+	float: left;
+	text-align: center;
+	 /*display: block; */
+	/*font-size: var(--menu-fontsize);*/
+	vertical-align: middle;
+	border: 0px;
+	background-color: #efefef;
+}
+#StartDateSTRUM, input[type=text], #StopDateSTRUM, input[type=text] {
+	width: 85px;
+	height: 15px;
+}
+
+#sliderMSTRUM {
+	top: 4px;
+	margin-left: 160px;
+	vertical-align: text-bottom;
+	z-index: 2;
+	width:100px;
+}
+
+#sliderDSTRUM {
+	margin-left: 160px;
+	top: 4px;
+	z-index: 2;
+	width:100px;
+}
+
+
+/* -----------------    OK and result   */
+#resultSTRUM{
+	/*position: absolute;*/
+	margin-right: 10px;
+	margin-top: 13px;
+	width: 100%;
+}
+#numSTRUM{
+	/*float: right;
+	margin-right: 10px;*/
+	float: right;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+#warningSTRUM{
+	display: none;
+	color:red;
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+	/*margin-right: 10px;
+	margin-top: 5px;
+	width: 230px;*/
+}
+#ClearMapSTRUM{
+	float: left;
+	/*margin-left: 10px;
+	margin-top: 5px;*/
+	margin-top: -5px;
+	cursor:pointer;
+	vertical-align: middle;
+	cursor: pointer;
+}
+#ClearMapSTRUM abbr{
+	cursor: pointer;
+}
+#FilterByKindSTRUM{
+	/*top: 200px;*/
+	padding: 0px;
+	width: 35px;
+	height: 25px;
+	font-size: 120%;
+	float: right;
+	color: var(--main-color);
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid var(--main-color);
+	border-radius: 2px;
+	background-color: white;
+}
+
+/* ----------------    legend  */
+.TitleLegendSTRUM{
+	margin-top: 60px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 90%;
+	color: var(--main-color);
+}
+#legendSTRUM{
+	/*position: absolute;*/
+	/*top: 210px;*/
+	/*margin-top: 10px;*/
+	left: 10px;
+	width:200px;
+}
+#legendSTRUM table{
+	background-color: rgba(255,255,255,0.0);
+}
+#legendSTRUM td{
+	border: none;
+}
+.legSTRUMcol{
+	width:35px;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/*  ---- AREA SELECTION  STRUM ---- */
+#selAreaSTRUM{
+	/*position: absolute;*/
+	float: right;
+	margin-right: 5px;
+	margin-top: -3px;
+	z-index: 10;
+}
+#selAreaSTRUM abbr{
+	cursor: pointer;
+}
+#NoselAreaSTRUM{
+	display: none;
+	float: right;
+	margin-right: 20px;
+	margin-top: 0px;
+	z-index: 10;
+}
+
+
+
+/* ----------------    infowindow   */
+.IWSTRUM{
+	margin:10px;
+	max-width: 310px;
+}
+#IWcloseSTRUM{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	top: 4px;
+	right: 4px;
+}

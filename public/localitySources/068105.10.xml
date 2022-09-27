@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>068105.10</nloc_cfti>
+      <desloc_cfti>Siracusa Vecchia (Ortigia)</desloc_cfti>
+      <provlet>SR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>37.0618</lat_wgs84>
+      <lon_wgs84>15.2956</lon_wgs84>
+      <notesito>Sito antico della città.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto non causò danni, sebbene in un primo momento fossero state segnalate lesioni $(035236)$. Secondo una corrispondenza giornalistica, a dieci giorni dalla scossa principale furono segnalati problemi non meglio specificati in alcune vie del centro storico $(035245)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035236</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.14, a.46, n.342.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035245</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.23, a.46, n.351.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

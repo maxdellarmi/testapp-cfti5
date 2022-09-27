@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063083.00</nloc_cfti>
+      <desloc_cfti>Villaggio Gaudiano</desloc_cfti>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>41.0876</lat_wgs84>
+      <lon_wgs84>15.8788</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01667</nterr>
+      <nperiod>001011</nperiod>
+      <datanum>17310320</datanum>
+      <data_label>1731 03 20</data_label>
+      <anno>1731</anno>
+      <mese>03</mese>
+      <giorno>20</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.2743</lat>
+      <lon>15.7567</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>49</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Foggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il terremoto fu avvertito ed una delle repliche causò danni ad un edificio $(030524)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030524</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Doria-Pamphilj di Roma, Corrispondenza da Napoli e Melfi, scaff.20, b.7 (1731), Lettera del Governatore dello Stato di Melfi Luca Ottavio Ristori al Principe Giovanni Andrea III Doria sulle repliche del terremoto del 20 marzo 1731, Melfi 12 maggio 1731.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

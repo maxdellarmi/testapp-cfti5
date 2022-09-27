@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>011647.00</nloc_cfti>
+      <desloc_cfti>Plesio</desloc_cfti>
+      <provlet>CO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>46.0468</lat_wgs84>
+      <lon_wgs84>9.2294</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11384</nterr>
+      <nperiod>003212</nperiod>
+      <datanum>18800704</datanum>
+      <data_label>1880 07 04</data_label>
+      <anno>1880</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>19:55</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.2736</lat>
+      <lon>8.059</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>86</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente; causò nella chiesa il tremolio di tutti gli oggetti, rumore dei cristalli delle finestre, rintocchi delle campane e panico nei presenti, alcuni dei quali furono sbalzati dal suolo. Gli alberi si piegarono quasi fino a terra. La scossa fu avvertita fortemente anche dai pastori delle vicine montagne $(020563)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020563</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche relative al terremoto del 4 luglio 1880 compilate dall’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1880</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

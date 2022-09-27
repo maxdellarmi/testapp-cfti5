@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045421.00</nloc_cfti>
+      <desloc_cfti>Poppiano</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.6502</lat_wgs84>
+      <lon_wgs84>11.1137</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05136</nterr>
+      <nperiod>002054</nperiod>
+      <datanum>18120911</datanum>
+      <data_label>1812 09 11</data_label>
+      <anno>1812</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.6599</lat>
+      <lon>11.1395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>13</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle del Pesa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Un numero imprecisato di case divenne inabitabile a causa di crolli e lesioni nei muri; la chiesa parrocchiale e la canonica divennero inagibili e il campanile risultò pericolante. La villa-castello Guicciardini subì gravi crolli; furono gravemente danneggiate le ville di proprietà delle famiglie Innocenti, Ridolfi e Cicciaporci. Non vi furono vittime $(775076)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>775076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Dipartimento dell’Arno, 1812.09.19, n.113.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1812</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062942.00</nloc_cfti>
+      <desloc_cfti>Calvera</desloc_cfti>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.1487</lat_wgs84>
+      <lon_wgs84>16.1436</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24440</nterr>
+      <nperiod>003041</nperiod>
+      <datanum>19130628</datanum>
+      <data_label>1913 06 28</data_label>
+      <anno>1913</anno>
+      <mese>06</mese>
+      <giorno>28</giorno>
+      <time_label>08:53:02</time_label>
+      <ora>08</ora>
+      <minu>53</minu>
+      <sec>02</sec>
+      <lat>39.5316</lat>
+      <lon>16.2391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>151</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita sensibilmente e causò movimento di oggetti appesi $(000225)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò danni gravi all’abitato $(120119,120120)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>120119</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Potenza, Intendenza di Basilicata, Amministrazioni speciali, Affari vari, b.1360, fasc.4, Terremoto del 1857 ­ Disposizioni generali e rapporti dettagliati ai Reali Ministeri, Minuta di relazione dell’intendente ai direttori dei Ministeri dell’Interno e della Polizia sui danni causati dal terremoto nei paesi della provincia, Potenza 25 dicembre 1857</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Potenza, Intendenza di Basilicata, Amministrazioni speciali, Affari vari, b.1360, fasc.4, Terremoto del 1857 ­ Disposizioni generali e rapporti dettagliati ai Reali Ministeri, Minuta di relazione dell’intendente ai direttori dei Ministeri dell’Interno e della Polizia sui danni causati dal terremoto a Potenza e nei paesi della provincia, Potenza 21 dicembre 1857.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000225</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1913, Regio Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

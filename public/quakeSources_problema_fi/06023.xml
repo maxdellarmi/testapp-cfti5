@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>06023</nterr>
+      <nperiod>000179</nperiod>
+      <datanum>18340704</datanum>
+      <data_label>1834 07 04</data_label>
+      <anno>1834</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>00:45</time_label>
+      <ora>00</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.5304</lat>
+      <lon>9.9477</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>24</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.2</mm>
+      <earthquakelocation>Lunigiana-Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca bibliografica e archivistica, che hanno consentito di precisare e integrare le informazioni precedenti basate sui cataloghi di Mercalli (1897) $(000014)$ e Baratta (1901) $(000001)$.&lt;br&gt;Le fonti relative all’evento sono principalmente di carattere memorialistico e giornalistico. Le fonti archivistiche reperite, infatti, non permettono di chiarire con certezza se i danni in esse attestati si riferiscano al terremoto del 4 luglio o al precedente terremoto del 14 febbraio dello stesso anno.&lt;br&gt;Presso la sezione di Pontremoli dell’Archivio di Stato di Massa, nel fondo Affari di Governo, sono state reperite due perizie (10 e 19 luglio 1834) molto dettagliate sui danni riportati dal convento dei Cappuccini e dall’oratorio di Nostra Donna di Pontremoli in seguito alle scosse del 14 febbraio, 2 maggio e 4 luglio; in esse per la scossa in esame è semplicemente attestato un peggioramento dello stato degli edifici già danneggiati dai terremoti precedenti $(890177,890184)$. Un terzo documento reperito nello stesso archivio attesta un peggioramento delle condizioni della chiesa di Merizzo $(890135)$. Gli stessi dubbi sussistono relativamente alla richiesta di sovvenzioni per le riparazioni alla chiesa di Campello, villaggio del territorio di Bardi, datata 6 maggio 1836, reperita all’Archivio di Stato di Parma nel fondo Segreteria di Stato e di Gabinetto della Presidenza dell’Interno, in cui vengono menzionati genericamente danni causati dalle scosse del 1834 $(490330)$.&lt;br&gt;Notizia del terremoto per Pieve di Campi è conservata nel "Libro di ricordi, memorie e fatti parziali" della parrocchia, conservato nel locale archivio parrocchiale $(094022)$. Fonti memorialistiche emiliane e ferraresi menzionano la scossa $(320140,440062,440080,692010)$.&lt;br&gt;Brevi notizie prive di dettagli descrittivi sugli effetti locali sono contenute in 9 cronache giornalistiche afferenti a 6 testate $(470465,470466,490032,490133,910107,870059,940154,940155)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto accadde il 4 luglio 1834 alle ore 0:45 GMT ca. e colpì l’alta Lunigiana e la zona occidentale del parmense. La scossa causò danni a Pontremoli nel convento dei Cappuccini e nell’oratorio di Nostra Donna (o Madonna del Ponte), dove si aggravarono le lesioni causate dalle scosse precedenti del 14 febbraio e del 2 maggio; a Merizzo le pareti della chiesa, già danneggiate dal terremoto di febbraio, furono ulteriormente lesionate; a Campello, nella chiesa, si aprirono fessure e caddero intonaci. A Tizzano Val Parma sono ricordati danni al castello, non confermati da fonti coeve. La scossa fu forte a Genova, Parma, Pieve di Campi e San Vitale; sensibile a Carpi, Reggio Emilia e Lucca, leggera a Bologna, Modena, Piacenza, Milano e Vicenza.&lt;br&gt;La scossa fu preceduta, secondo le descrizioni dei testimoni, da un sibilo nell’atmosfera o da un grande rombo simile a un forte vento.&lt;br&gt;Altre due scosse leggerissime furono avvertite a Parma nella notte fra il 3 e il 4 luglio; una scossa leggera fu avvertita sempre a Parma il giorno 5 luglio alle ore 10:30 GMT.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030057</codbib>
+      <autore1>Galvani C.</autore1>
+      <titolo1>Diario meteorologico, in P.Benassi, "Materiali per la storia sismica della regione parmense".</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050398</codbib>
+      <autore1>Piovene G.</autore1>
+      <titolo1>Cronaca dei terremoti a Vicenza, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.45-57.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052122</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica dal 1500 al 1965 in Garfagnana, Mugello e Forlivese, CNEN, RT/GEO (68) 19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092139</codbib>
+      <autore1>Bellettati D.</autore1>
+      <titolo1>I terremoti del 1834 nel territorio del Ducato di Parma attraverso l’azione del governo, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.155-165.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094020</codbib>
+      <autore1>Ragona D.</autore1>
+      <titolo1>Catalogo dei terremoti, avvenuti in Modena e adiacenze, di cui si conserva memoria, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4 (1886), pp.175-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio parrocchiale di Pieve di Campi, A.Gennari, Memorie di fatti parziali avvenuti in questa Parrocchia di Pieve di Campi, e generali avvenuti in questi paesi, e altrove, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale privilegiato di Lucca, 1834.07.04, n.59.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094044</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Voce della Verità, 1834.07.10, n.458.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095300</codbib>
+      <autore1>Moroni A., Bellettati D., Chignola E. e Stucchi M.</autore1>
+      <titolo1>The earthquakes of 1834 in the Northern Apennines, in "Annali di Geofisica", vol.36, pp.301-308.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095306</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Fenomeni notati a Parma nell’anno 1834, in "Giornale Astronomico ad uso comune per l’anno MDCCCXXXVIII", a.5, pp.68-73.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1838</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>100195</codbib>
+      <autore1>Respighi L.</autore1>
+      <titolo1>Notizie sul clima bolognese dedotte dalle osservazioni meteorologiche fatte nell’osservatorio della [R.]Università nel trentennio 1814-1843, in "Memorie dell’Accademia delle Scienze dell’Istituto di Bologna", vol.7 (1857).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1857</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Descrizione di Genova e del Genovesato.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280008</codbib>
+      <autore1>Comandini A.</autore1>
+      <titolo1>L’Italia nei cento anni del secolo XIX 1801/1900, giorno per giorno illustrata, 5 voll.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1900 - 1942</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320050</codbib>
+      <autore1>Reginus</autore1>
+      <titolo1>Notizie di terremoti sentiti in Reggio dall’anno 1223 in avanti, in "Il Crostolo. Almanacco istoriografico reggiano per l’anno 1880", pp.84-91.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320140</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "Passerini Landi" di Piacenza, Manoscritti, Pall.290, Lucini, Memorie e notizie diverse relative agli anni 1815 fino al 1854, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320146</codbib>
+      <autore1>Dall’Olio E.</autore1>
+      <titolo1>Itinerari turistici della provincia di Parma, 3 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350089</codbib>
+      <autore1>Guidi P.</autore1>
+      <titolo1>I terremoti lucchesi (anni 1112-1915), Pubblicazioni dell’Osservatorio Ximeniano dei PP. Scolopi, n.120.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380103</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione meteorologica dell’anno 1834, in "Giornale astro-meteorologico per l’anno 1836".</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "Passerini Landi" di Piacenza, Schedario Rapetti, "Terremoto", sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.1, Diario di notizie patrie ed estere (1806-1839), sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1806 - 1839</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440064</codbib>
+      <autore1>Chistoni C.</autore1>
+      <titolo1>Notizie sui terremoti avvertiti a Modena dal 1830 al 1895 ricavate dal registro del Real Osservatorio, in "Memorie della Regia Accademia di Scienze Lettere ed Arti di Modena", s.II, vol.12, pp.LXIX-LXXXIII.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440080</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di San Polo d’Enza, s.s., Liber Baptizatorum ab anno 1787 ad 1847.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470465</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta universale, 1834.07.12, n.28.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470466</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta universale, 1834.07.19, n.29.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490032</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1834.07.05.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1834.07.09, n.54.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490170</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Terremoti sentiti in diverse parti del Globo nell’anno 1834, in "Biblioteca Italiana", a.20, tomo 78 (aprile-giugno 1835), pp.144-147.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490330</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Parma, Segreteria di Stato e di Gabinetto, Presidenza dell’Interno, b.219 (1836), Relazione del presidente dell’Interno Francesco Cocchi alla duchessa Maria Luigia sulle spese necessarie per la riparazione della chiesa parrocchiale di Campello danneggiata dai terremoti del 1834, Parma 6 maggio 1836.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1836</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490374</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Parma, Segreteria di Stato e di Gabinetto, serie XIII (Direzione generale di Polizia), b.322, Relazione di Buongoverno dal 29 giugno al 4 luglio, Parma 4 luglio 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490375</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Parma, Segreteria di Stato e di Gabinetto, serie XIII (Direzione generale di Polizia), b.322, Relazione di Buongoverno dal 4 luglio al 10 luglio, Parma 11 luglio 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>620009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Brera di Milano, s.s., Registro meteorologico, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691270</codbib>
+      <autore1>Davia E.</autore1>
+      <titolo1>Cronistoria del terremoto a Ferrara, in "Il Duca", a.2, n.3, pp.1-2, n.5, pp.6-7, n.6, pp.6-7.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 596, Guido Pozzati, Memorie patrie ferraresi dal 1007 a tutto il 1835, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700038</codbib>
+      <autore1>Benassi P.</autore1>
+      <titolo1>Materiali per la storia dei fenomeni sismici della regione parmense.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1834.07.05, n.54.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890135</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Ricordi per l’Ill.mo Sig. Cavaliere Anziani, relativi ai danni cagionati dai Terremoti alla Chiesa di Merizzo, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890177</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Perizia dell’ingegnere Cesare Cappelli sui lavori di riparazione della chiesa e del convento dei Cappuccini di Pontremoli, Pontremoli 19 luglio 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890184</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Perizia dell’ingegnere Francesco Ferrari sui lavori di riparazione della cappella di Nostra Donna di Pontremoli, Pontremoli 10 luglio 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>910107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Milano, 1834.07.04, n.185.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>930004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio geofisico dell’Università di Modena, Registro delle osservazioni meteorologiche dell’anno 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940154</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Venezia, 1834.07.08, n.151.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940155</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Venezia, 1834.07.09, n.152.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>San Vitale di Baganza</desloc>
+      <lat_wgs84>44.6667</lat_wgs84>
+      <lon_wgs84>10.1894</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>036723.00</nloc_cfti>
+      <desloc_cfti>San Vitale di Baganza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto violenta e fu seguita da numerose repliche; parecchi edifici furono fortemente danneggiati sia nel paese che nei dintorni; subì gravi danni la chiesa parrocchiale $(700038)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Merizzo</desloc>
+      <lat_wgs84>44.274</lat_wgs84>
+      <lon_wgs84>9.99</lon_wgs84>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>042723.00</nloc_cfti>
+      <desloc_cfti>Merizzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Apertura di fessure verticali alle pareti della chiesa, già lesionate dalle scosse del 2 maggio; in particolare, nel muro posto a mezzogiorno si aprì una fessura verticale per tutta l’altezza della parete, che causò uno spostamento della volta della navata sovrapposta all’altare maggiore. Molte altre crepe più leggere si aprirono in tutte le altre pareti; particolarmente danneggiata risultò la parete posteriore. Fu prevista una spesa di 660 lire circa $(890135)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Pontremoli</desloc>
+      <lat_wgs84>44.3775</lat_wgs84>
+      <lon_wgs84>9.8819</lon_wgs84>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>042661.00</nloc_cfti>
+      <desloc_cfti>Pontremoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò l’aggravamento dei danni subiti, a causa delle scosse precedenti del febbraio, dal convento dei Cappuccini e dall’oratorio di Nostra Donna (Madonna del Ponte) $(890177,890184)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Tizzano Val Parma</desloc>
+      <lat_wgs84>44.521</lat_wgs84>
+      <lon_wgs84>10.1976</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>036872.00</nloc_cfti>
+      <desloc_cfti>Tizzano Val Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Dall’Olio (1977) riporta che la scossa causò il crollo del lato nord del castello; tale notizia non trova conferma nelle fonti coeve reperite $(320146)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bardi</desloc>
+      <lat_wgs84>44.6312</lat_wgs84>
+      <lon_wgs84>9.7295</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>035770.00</nloc_cfti>
+      <desloc_cfti>Bardi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Danni alla caserma dei Dragoni ducali attribuite dalla fonte in modo generico al terremoto del 1834 $(490330)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Campello</desloc>
+      <lat_wgs84>44.592</lat_wgs84>
+      <lon_wgs84>9.7203</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>035786.88</nloc_cfti>
+      <desloc_cfti>Campello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Apertura di fessure e caduta di intonaci al coro e al campanile della chiesa attribuite dalla fonte in modo generico al terremoto del 1834 $(490330)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pieve di Campi</desloc>
+      <lat_wgs84>44.4823</lat_wgs84>
+      <lon_wgs84>9.6928</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>035765.00</nloc_cfti>
+      <desloc_cfti>Pieve di Campi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu forte e causò il risveglio degli abitanti $(094022)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Correggio</desloc>
+      <lat_wgs84>44.7719</lat_wgs84>
+      <lon_wgs84>10.7788</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>037489.00</nloc_cfti>
+      <desloc_cfti>Correggio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(440062)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Genova</desloc>
+      <lat_wgs84>44.42</lat_wgs84>
+      <lon_wgs84>8.8971</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>033336.00</nloc_cfti>
+      <desloc_cfti>Genova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4s, svegliò gran parte della popolazione $(490133,490170,870059)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, avvertita in direzione SO-NE e preceduta da un sibilo, fu sentita fortemente $(490032,490170)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>San Polo d'Enza</desloc>
+      <lat_wgs84>44.6262</lat_wgs84>
+      <lon_wgs84>10.4227</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>037881.00</nloc_cfti>
+      <desloc_cfti>San Polo d’Enza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu percepita della durata di 6s e fu preceduta da un rombo somigliante a vento forte $(440080)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito in modo sensibile $(071265)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Carpi</desloc>
+      <lat_wgs84>44.7848</lat_wgs84>
+      <lon_wgs84>10.8846</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>038203.00</nloc_cfti>
+      <desloc_cfti>Carpi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(930004)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lucca</desloc>
+      <lat_wgs84>43.8438</lat_wgs84>
+      <lon_wgs84>10.5049</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>043402.00</nloc_cfti>
+      <desloc_cfti>Lucca</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu breve e molto sensibile; cinque minuti dopo fu avvertita una leggerissima replica $(490133,940155)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Reggio nell'Emilia</desloc>
+      <lat_wgs84>44.6981</lat_wgs84>
+      <lon_wgs84>10.631</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>037794.00</nloc_cfti>
+      <desloc_cfti>Reggio nell’Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(930004)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(440080,940154)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(071265)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(692010)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Guastalla</desloc>
+      <lat_wgs84>44.9218</lat_wgs84>
+      <lon_wgs84>10.654</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>037545.00</nloc_cfti>
+      <desloc_cfti>Guastalla</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(030057)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(490133,440080,490170,910107)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(440080,930004)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(380103)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Piacenza</desloc>
+      <lat_wgs84>45.053</lat_wgs84>
+      <lon_wgs84>9.6923</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>035341.00</nloc_cfti>
+      <desloc_cfti>Piacenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 6s ca., fu avvertita leggermente $(320140)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Vicenza</desloc>
+      <lat_wgs84>45.5499</lat_wgs84>
+      <lon_wgs84>11.549</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06023</nterr>
+      <nloc_cfti>025814.00</nloc_cfti>
+      <desloc_cfti>Vicenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(050398)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

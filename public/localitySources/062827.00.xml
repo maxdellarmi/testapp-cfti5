@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062827.00</nloc_cfti>
+      <desloc_cfti>Ugento</desloc_cfti>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>7</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>39.9296</lat_wgs84>
+      <lon_wgs84>18.1602</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30151</nterr>
+      <nperiod>000530</nperiod>
+      <datanum>19301202</datanum>
+      <data_label>1930 12 02</data_label>
+      <anno>1930</anno>
+      <mese>12</mese>
+      <giorno>02</giorno>
+      <time_label>13:28:51</time_label>
+      <ora>13</ora>
+      <minu>28</minu>
+      <sec>51</sec>
+      <lat>40.3</lat>
+      <lon>19.6</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4</imax>
+      <npun>10</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36369</nterr>
+      <nperiod>000656</nperiod>
+      <datanum>19690403</datanum>
+      <data_label>1969 04 03</data_label>
+      <anno>1969</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>22:12:22</time_label>
+      <ora>22</ora>
+      <minu>12</minu>
+      <sec>22</sec>
+      <lat>40.483</lat>
+      <lon>19.95</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>5</imax>
+      <npun>46</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(143265)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000021)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42043</nterr>
+      <nperiod>009058</nperiod>
+      <datanum>19090120</datanum>
+      <data_label>1909 01 20</data_label>
+      <anno>1909</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>19:58</time_label>
+      <ora>19</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>40.1787</lat>
+      <lon>18.0312</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>32</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Salento</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050098</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1930, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria di Roma, Tabella riassuntiva delle cartoline macrosismiche riguardanti il terremoto del 3 aprile 1969 pervenute all’Ufficio Centrale di Meteorologia e di Ecologia Agraria di Roma, aprile-giugno 1969.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143265</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 gennaio 1915 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Ugento 31 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

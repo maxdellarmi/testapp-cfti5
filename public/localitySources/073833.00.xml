@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073833.00</nloc_cfti>
+      <desloc_cfti>Valle</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.8151</lat_wgs84>
+      <lon_wgs84>11.3623</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 29 giugno 1919 rese inabitabili alcune case coloniche $(681224)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>681224</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comune di Pontassieve, Deliberazioni della Giunta comunale 1919-1922, II.35, n.49, Deliberazione del 29 gennaio 1921.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1921</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

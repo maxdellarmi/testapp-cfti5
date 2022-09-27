@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041956.00</nloc_cfti>
+      <desloc_cfti>Tontola</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.0583</lat_wgs84>
+      <lon_wgs84>11.9453</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto del 10 novembre 1918 danneggiò irreparabilmente tre edifici di proprietà della parrocchia di San Pietro. I tre edifici, del valore complessivo di oltre 430.000 lire del 1922, furono ricostruiti con contributo statale dall’Unione Edilizia Nazionale $(671218,671217)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>671218</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.754, tit.3376 (Tontola. Parrocchia di S.Pietro), Minuta di decreto del ministro della Giustizia e degli affari di culto, Roma 6 settembre 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.754, tit.3376 (Tontola. Parrocchia di S.Pietro), Lettera del procuratore generale presso la Corte d’appello di Bologna al Ministero della Giustizia e degli affari di culto Divisione 12ª, Bologna 28 luglio 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

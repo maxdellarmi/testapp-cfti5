@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042341.00</nloc_cfti>
+      <desloc_cfti>Reusa</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.2178</lat_wgs84>
+      <lon_wgs84>10.1712</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Furono danneggiate la chiesa parrocchiale, la canonica e 2 abitazioni $(890059,890074,890099)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò gravi lesioni e crolli a tutta la parte vecchia del paese; la parte nuova subì danni più leggeri $(080104,870190)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080104</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.12, a.62, n.219.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870190</codbib>
+      <autore1>De Stefani C.</autore1>
+      <titolo1>Il terremoto del settembre 1920 nella provincia di Massa, in "Memorie della Società Lunigianese G.Capellini per la storia naturale della regione", vol.2 (1920), pp.40-61.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Copia di relazione dell’ingegnere Francesco Guasti alla Segreteria di Stato sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 6 maggio 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, cc.391, Istanza di Giovanni Domenico Tonelli di Reusa al vicario regio, aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.116 B, Sezione registri, Copia rapporti, 1831-1837, Relazione dell’aiuto ingegnere Antonio Giuliani al vicario regio sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 14 aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

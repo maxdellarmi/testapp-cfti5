@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>014353.00</nloc_cfti>
+      <desloc_cfti>Bergamo</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>34</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.6947</lat_wgs84>
+      <lon_wgs84>9.6699</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00979</nterr>
+      <nperiod>000109</nperiod>
+      <datanum>16420613</datanum>
+      <data_label>1642 06 13</data_label>
+      <anno>1642</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>22:40</time_label>
+      <ora>22</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.2794</lat>
+      <lon>9.927</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>12</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Cremonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01025</nterr>
+      <nperiod>000756</nperiod>
+      <datanum>16610312</datanum>
+      <data_label>1661 03 12</data_label>
+      <anno>1661</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.6552</lat>
+      <lon>9.9815</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fu avvertita con spavento dalla popolazione $(480280)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00790</nterr>
+      <nperiod>000749</nperiod>
+      <datanum>15760926</datanum>
+      <data_label>1576 09 26</data_label>
+      <anno>1576</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>05:10</time_label>
+      <ora>05</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>45.6947</lat>
+      <lon>9.6699</lon>
+      <rel>?</rel>
+      <level>I</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>1</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Bergamo</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40471</nterr>
+      <nperiod>003349</nperiod>
+      <datanum>19790209</datanum>
+      <data_label>1979 02 09</data_label>
+      <anno>1979</anno>
+      <mese>02</mese>
+      <giorno>09</giorno>
+      <time_label>14:44:16</time_label>
+      <ora>14</ora>
+      <minu>44</minu>
+      <sec>16</sec>
+      <lat>45.6378</lat>
+      <lon>9.5543</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>73</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Media valle dell’Adda</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fece oscillare mobili e oggetti appesi, in una casa di via Osio cadde un poco di intonaco; passò generalmente inavvertita a quanti erano per via, od in luoghi soggetti a rumori. Nella parte alta della città suonarono dei campanelli e caddero diversi oggetti $(771052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02263</nterr>
+      <nperiod>000141</nperiod>
+      <datanum>17710815</datanum>
+      <data_label>1771 08 15</data_label>
+      <anno>1771</anno>
+      <mese>08</mese>
+      <giorno>15</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.6082</lat>
+      <lon>9.7192</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04381</nterr>
+      <nperiod>000150</nperiod>
+      <datanum>17860407</datanum>
+      <data_label>1786 04 07</data_label>
+      <anno>1786</anno>
+      <mese>04</mese>
+      <giorno>07</giorno>
+      <time_label>00:25</time_label>
+      <ora>00</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>45.2993</lat>
+      <lon>9.5951</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>9</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00089</nterr>
+      <nperiod>000013</nperiod>
+      <datanum>12221225</datanum>
+      <data_label>1222 12 25</data_label>
+      <anno>1222</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>12:30</time_label>
+      <ora>12</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.481</lat>
+      <lon>10.2319</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>18</npun>
+      <mm>6</mm>
+      <earthquakelocation>Basso bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26551</nterr>
+      <nperiod>003348</nperiod>
+      <datanum>19180424</datanum>
+      <data_label>1918 04 24</data_label>
+      <anno>1918</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>14:21:49</time_label>
+      <ora>14</ora>
+      <minu>21</minu>
+      <sec>49</sec>
+      <lat>45.7794</lat>
+      <lon>9.6043</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Lecchese-Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06088</nterr>
+      <nperiod>000182</nperiod>
+      <datanum>18360612</datanum>
+      <data_label>1836 06 12</data_label>
+      <anno>1836</anno>
+      <mese>06</mese>
+      <giorno>12</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.8077</lat>
+      <lon>11.8233</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>27</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Prealpi venete</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(150022)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08304</nterr>
+      <nperiod>000819</nperiod>
+      <datanum>18550725</datanum>
+      <data_label>1855 07 25</data_label>
+      <anno>1855</anno>
+      <mese>07</mese>
+      <giorno>25</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.8385</lat>
+      <lon>7.7044</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>51</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(940593)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Il terremoto fu di mediocre intensità e fu avvertita dalla maggior parte della popolazione $(000579,020721)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12121</nterr>
+      <nperiod>000759</nperiod>
+      <datanum>18840912</datanum>
+      <data_label>1884 09 12</data_label>
+      <anno>1884</anno>
+      <mese>09</mese>
+      <giorno>12</giorno>
+      <time_label>07:23</time_label>
+      <ora>07</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>45.5478</lat>
+      <lon>9.7698</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Bassa valle del Serio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>39344</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760911</datanum>
+      <data_label>1976 09 11</data_label>
+      <anno>1976</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>16:35:01</time_label>
+      <ora>16</ora>
+      <minu>35</minu>
+      <sec>01</sec>
+      <lat>46.273</lat>
+      <lon>13.1758</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>L’11 settembre, alle 18:35 (16:35 GMT), furono avvertite 2 scosse, soprattutto la seconda, nei piani alti delle abitazioni; causarono panico negli abitanti che si riversarono nelle strade $(090503)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, leggera, della durata di 15s, fu avvertita da molte persone $(771051,000007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, della durata di 2-3s, fu avvertita da molti $(000004,001321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Gli effetti della scossa furono valutati pari al IV grado MCS sul Bollettino Sismico dell’Istituto Nazionale di Geofisica $(000581)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, della durata di 4-5s, fu avvertita generalmente in casa e da pochi all’aperto, con oscillazione di oggetti sospesi, caduta di oggetti da scaffali e spostamento di piccoli mobili $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Secondo Cavasino $(000037)$ l’intensità della scossa fu del IV grado della scala Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa principale fu avvertita leggermente $(092133,146045)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa, durata 4-5s, fu avvertita alle 4.55 circa, ora locale, solo dalle persone già sveglie $(600158,000001)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa del 20 aprile delle ore 1:10 GMT fu sentita ed ebbe una durata di qualche secondo $(071780)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24719</nterr>
+      <nperiod>000433</nperiod>
+      <datanum>19141026</datanum>
+      <data_label>1914 10 26</data_label>
+      <anno>1914</anno>
+      <mese>10</mese>
+      <giorno>26</giorno>
+      <time_label>03:43:22</time_label>
+      <ora>03</ora>
+      <minu>43</minu>
+      <sec>22</sec>
+      <lat>45.0506</lat>
+      <lon>7.36</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>63</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valli torinesi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10173</nterr>
+      <nperiod>000227</nperiod>
+      <datanum>18730917</datanum>
+      <data_label>1873 09 17</data_label>
+      <anno>1873</anno>
+      <mese>09</mese>
+      <giorno>17</giorno>
+      <time_label>19:30</time_label>
+      <ora>19</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4389</lat>
+      <lon>9.9464</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>78</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15004</nterr>
+      <nperiod>000762</nperiod>
+      <datanum>18941127</datanum>
+      <data_label>1894 11 27</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>05:07:55</time_label>
+      <ora>05</ora>
+      <minu>07</minu>
+      <sec>55</sec>
+      <lat>45.5647</lat>
+      <lon>10.1222</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>183</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34256</nterr>
+      <nperiod>003231</nperiod>
+      <datanum>19600323</datanum>
+      <data_label>1960 03 23</data_label>
+      <anno>1960</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>23:08:49</time_label>
+      <ora>23</ora>
+      <minu>08</minu>
+      <sec>49</sec>
+      <lat>46.3473</lat>
+      <lon>7.9799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>179</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Iaccarino (1964) valutò l’intensità della scossa di II grado MCS $(092028)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26433</nterr>
+      <nperiod>000455</nperiod>
+      <datanum>19180113</datanum>
+      <data_label>1918 01 13</data_label>
+      <anno>1918</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.4456</lat>
+      <lon>9.068</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>25</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Milanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14476</nterr>
+      <nperiod>003344</nperiod>
+      <datanum>18920809</datanum>
+      <data_label>1892 08 09</data_label>
+      <anno>1892</anno>
+      <mese>08</mese>
+      <giorno>09</giorno>
+      <time_label>07:58</time_label>
+      <ora>07</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>45.5671</lat>
+      <lon>11.2041</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>160</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle d’Alpone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26434</nterr>
+      <nperiod>000455</nperiod>
+      <datanum>19180113</datanum>
+      <data_label>1918 01 13</data_label>
+      <anno>1918</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>12:10</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>45.4829</lat>
+      <lon>9.1261</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>4.5</imax>
+      <npun>4</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Milanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23012</nterr>
+      <nperiod>000411</nperiod>
+      <datanum>19100123</datanum>
+      <data_label>1910 01 23</data_label>
+      <anno>1910</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>01:50</time_label>
+      <ora>01</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.8578</lat>
+      <lon>9.6584</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>118</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00314</nterr>
+      <nperiod>000752</nperiod>
+      <datanum>13961126</datanum>
+      <data_label>1396 11 26</data_label>
+      <anno>1396</anno>
+      <mese>11</mese>
+      <giorno>26</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.5851</lat>
+      <lon>9.2736</lon>
+      <rel>?</rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>2</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Monza</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00576</nterr>
+      <nperiod>003072</nperiod>
+      <datanum>15130210</datanum>
+      <data_label>1513 02 10</data_label>
+      <anno>1513</anno>
+      <mese>02</mese>
+      <giorno>10</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.9134</lat>
+      <lon>8.6142</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>8</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Alessandria</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1>Negative le fonti relative a Bergamo $(095066)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00755</nterr>
+      <nperiod>000095</nperiod>
+      <datanum>15701117</datanum>
+      <data_label>1570 11 17</data_label>
+      <anno>1570</anno>
+      <mese>11</mese>
+      <giorno>17</giorno>
+      <time_label>19:10</time_label>
+      <ora>19</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.8242</lat>
+      <lon>11.6313</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>58</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1>Secondo Calvi $(480280)$ la scossa fu sentita e avrebbe provocato la caduta di una frana nei pressi di Borgo Canale. Non si hanno elementi per confermare questa notizia.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04844</nterr>
+      <nperiod>000159</nperiod>
+      <datanum>18020512</datanum>
+      <data_label>1802 05 12</data_label>
+      <anno>1802</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>09:30</time_label>
+      <ora>09</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.4157</lat>
+      <lon>9.8542</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>66</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle dell’Oglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni di natura imprecisata $(440063,440123)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>480280</codbib>
+      <autore1>Calvi D.</autore1>
+      <titolo1>Effemeride sagro-profana di quanto di memorabile sia successo in Bergamo, sua diocese, et territorio da suoi principij sin’al corrente Anno, 3 voll.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1676 - 1677</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150351</codbib>
+      <autore1>Ronchetti G.</autore1>
+      <titolo1>Memorie Istoriche della città e chiesa di Bergamo, 3 voll.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1807</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440063</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.1, Pietro Vellani, Diario Correggese (1794-1804), 2 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440123</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.3, Pietro Vellani, Diario di notizie patrie, 1802.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1802</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Pavia, Manoscritti Ticinesi, 463, Giovanni Capsoni, Diarii, 2 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000579</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [55], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.213 (1º agosto 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020721</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Lettera di G.Cialo dell’Osservatorio Meteorologico di Bergamo al Direttore dell’Ufficio Centrale di Meteorologia Geodinamica di Roma, Bergamo 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771051</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Bergamo, 1898.03.06.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771052</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Bergamo, 1901.11.30/31.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021241</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po1. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071780</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1929.04.21, a.34, n.96.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096085</codbib>
+      <autore1>Caesarius Heisterbacensis</autore1>
+      <titolo1>Dialogus miraculorum (sec.XIII), ed. J.Strange, 2 voll.</titolo1>
+      <luogoed>Köln-Bonn</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090372</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Bergomates [1156-1266], ed. O.Holder-Egger, in "Monumenta Germaniae Historica", SS., tomo 31, pp.325-335.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1903</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1873.07.01.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700210</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Bergomense Guelpho-Ghibellinum ab anno 1378 usque ad annum 1407, ed. C.Capasso e G.Locatelli, in "Rerum Italicarum Scriptores", 2ª ed., tomo 16, parte 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1926 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940593</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1855.07.31, n.174.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [1], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.9, n.56 (25 febbraio 1887).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1887</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095066</codbib>
+      <autore1>Jacobus Philippus Bergomensis [Jacopo Filippo Foresti]</autore1>
+      <titolo1>Supplementum Chronicorum, omnes fere historias quae ab orbe condito hactenus gestæ sunt, iucunda admodum dicendi brevitate complectens. Opus sane quam utilissimu[m], &amp; cuisuis conditionis viro pernecessarium: primum quidem a venera[n]do patre Iacobo Philippo Bergomate ordinem Eremitarum professo concriptum, deinde vero eruditorum quorunda[m] diligentia, multis me[n]dis, ac superfluis quibusda[m] rebus dilige[n]tissime repurgatu[m], in studiosoru[m] omniu[m] gratia[m] atq[ue] utilitatem. Cui insuper addita est nostrorum temporum brevis quædam accessio, eorum annoru[m] historias ac restum privatas tum externas co[m]plectensquæ ab anno 1500 ad annum 1535 tum hic, tum etiam alibi gestæ sunt.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1535</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000037</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1936, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090503</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA Documentazione Elettronica, Notiziario italiano, maggio-settembre 1976.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092028</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica in Italia dal 1958 al 1962, CNEN, RT/GEO (64) 11.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

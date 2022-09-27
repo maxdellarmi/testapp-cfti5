@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048127.00</nloc_cfti>
+      <desloc_cfti>Paganico</desloc_cfti>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>42.9318</lat_wgs84>
+      <lon_wgs84>11.271</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

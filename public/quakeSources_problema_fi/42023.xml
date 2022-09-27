@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42023</nterr>
+      <nperiod>009053</nperiod>
+      <datanum>12580219</datanum>
+      <data_label>1258 02 19</data_label>
+      <anno>1258</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.7568</lat>
+      <lon>13.9924</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9.1</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Barrea (AQ)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;L’evento è attestato dal "Cronicon Suessanum" (ed. 1780) $(395045)$, un testo cronachistico anonimo del XIV secolo, che tratta principalmente degli eventi della storia civile ed ecclesiastica di Sessa Aurunca e della regione circostante, accaduti fra il 1103 e il 1348. Tale fonte ricorda un forte terremoto accaduto il 19 febbraio 1258 con danni abbastanza gravi in alcune località non precisate.&lt;br&gt;Un riferimento molto generico a terremoti in Italia nell’anno 1258, senza indicazione del giorno e del mese, è riportato anche negli "Annales Reatini" (ed. 1866) $(090125)$, una breve compilazione redatta nel XV secolo, che per gli eventi prima del 1368 deriva da codici più antichi.&lt;br&gt;A tali fonti cronachistiche va probabilmente collegata una fonte documentaria conservata nell’Archivio dell’Abbazia di Montecassino, il cui regesto è pubblicato in Leccisotti (1971, p.169) $(395237)$. L’analisi diretta dell’antico documento mostra che è una lettera del vescovo di Trivento, mancante del destinatario e datata all’anno 1260 in base a una nota apposta da una mano posteriore sul dorso della pergamena $(370001)$. Con tale documento il vescovo Luca dichiara di concedere indulgenze a coloro che contribuiranno alla ricostruzione della chiesa di S.Tommaso di Barrea, gravemente danneggiata da un terremoto che potrebbe identificarsi con quello attestato dal "Cronicon Suessanum" sopra ricordato.&lt;br&gt;La storiografia erudita ottocentesca riporta notizia di questo terremoto: Capasso (1874) $(530030)$ si rifà direttamente al "Cronicon Suessanum", mentre Moroni (1840-1879) $(410086)$ riprende la notizia degli "Annales Reatini".</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questo terremoto era sconosciuto alla tradizione dei cataloghi sismici. Il 19 febbraio 1258 alle ore 16:30 GMT circa (poco prima del tramonto del sole, ossia circa le 17:30 ora locale) un terremoto colpì probabilmente il paese di Barrea (nell’odierna provincia dell’Aquila) dove caddero parzialmente le mura della chiesa di S.Tommaso. Fu colpita anche Sessa Aurunca (località della Campania nell’odierna provincia di Caserta) e altre località dell’area, non precisate. A Sessa Aurunca la forte scossa fece suonare le campane delle chiese di S.Germano e di S.Matteo; in alcune località vicine, non menzionate, causò danni abbastanza gravi.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090125</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Reatini (1054-1377), ed. L.C.Bethmann, "Monumenta Germaniae Historica", SS., tomo 19, pp.267-268.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1866</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Abbazia di Montecassino, aula II, capsula XXI, fasc.1, pergamena n.1, Lettera del vescovo Luca di Trivento, sec.XIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1260</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronicon Suessanum [1103-1348], in "Raccolta di varie croniche, diarj, ed altri opuscoli così italiani, come latini appartenenti alla storia del regno di Napoli", ed. A.A.Pelliccia, vol.1, pp.51-78.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1780</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395237</codbib>
+      <autore1>Leccisotti T. (a cura di)</autore1>
+      <titolo1>Abbazia di Montecassino. I regesti dell’Archivio, vol.6 (aula II, capsule XVIII-XXVII).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410086</codbib>
+      <autore1>Moroni G.</autore1>
+      <titolo1>Dizionario di erudizione storico-ecclesiastica da San Pietro sino ai nostri giorni specialmente intorno ai principali santi, beati, martiri, padri, ai sommi pontefici, cardinali e più celebri scrittori ecclesiastici, 103 voll. + 6 di indici.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1840 - 1879</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>530030</codbib>
+      <autore1>Capasso B.</autore1>
+      <titolo1>Historia diplomatica Regni Siciliae inde ab anno 1250 ad annum 1266.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1874</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>A</intpq>
+      <desloc>Barrea</desloc>
+      <lat_wgs84>41.7568</lat_wgs84>
+      <lon_wgs84>13.9924</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9.1</intpqnum>
+      <nterr>42023</nterr>
+      <nloc_cfti>055982.00</nloc_cfti>
+      <desloc_cfti>Barrea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo parziale di una parte della chiesa di S.Tommaso, il resto delle mura dell’edificio furono quasi sconquassate $(395237)$. Il documento che attesta gli effetti del terremoto in questa località permette di stabilire solo una data "ante quem", il 1260, per la cronologia del terremoto stesso.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Sessa Aurunca</desloc>
+      <lat_wgs84>41.2363</lat_wgs84>
+      <lon_wgs84>13.9338</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42023</nterr>
+      <nloc_cfti>059308.00</nloc_cfti>
+      <desloc_cfti>Sessa Aurunca</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu sentito fortemente e fece suonare le campane del monastero di S.Germano e della chiesa di S.Matteo; non sono ricordati danni $(395045)$. La cronaca che attesta gli effetti del terremoto in questa località permette di datare con sicurezza l’evento al 19 febbraio 1258.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>043842.00</nloc_cfti>
+      <desloc_cfti>Seravezza</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.9953</lat_wgs84>
+      <lon_wgs84>10.227</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01824</nterr>
+      <nperiod>003248</nperiod>
+      <datanum>17420127</datanum>
+      <data_label>1742 01 27</data_label>
+      <anno>1742</anno>
+      <mese>01</mese>
+      <giorno>27</giorno>
+      <time_label>11:20</time_label>
+      <ora>11</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.5508</lat>
+      <lon>10.3207</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>16</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Livorno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(200054)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17022</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:17:22</time_label>
+      <ora>23</ora>
+      <minu>17</minu>
+      <sec>22</sec>
+      <lat>43.9588</lat>
+      <lon>11.117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>140</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa causò tremolio di mobili, vetrate e finestre. Non vi furono danni $(000008,001327)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa non causò danni rilevanti. Fu osservato che anche case in pietra a tre piani poco solide non subirono alcun danno $(020006,020007)$. Fu gravemente lesionata la chiesa parrocchiale $(635673)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020006</codbib>
+      <autore1>Monnet P.</autore1>
+      <titolo1>Sur le tremblement de terre italien du 7 septembre 1920, in "Compte Rendus de l’Academie des Sciences", vol.174, pp.475-477.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020007</codbib>
+      <autore1>Monnet P.</autore1>
+      <titolo1>Le tremblement de terre du 7 septembre 1920 dans le sud-est de la France (Epicentre en Italie), in "Annuaire de l’Institut de Physique du Globe", 1920, pp.36-38.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635673</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1920, rubrica 36 (Disastri), fasc.1, Lettera dell’arcivescovo di Pisa cardinale P.Maffi al papa Benedetto XV, Pisa 9 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Diocesano di Mantova, Girolamo Galvagnini, Il proseguimento dell’Istoria intrapresa à scriversi da me Girolamo Galvagnini, e secondo l’ordine di che andarà succedendo massime di q[u]e[s]ta mia Patria d’Ostiglia, vol.4, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

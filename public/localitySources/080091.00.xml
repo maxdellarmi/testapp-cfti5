@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080091.00</nloc_cfti>
+      <desloc_cfti>Umag</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.4254</lat_wgs84>
+      <lon_wgs84>13.5395</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu forte $(002129)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002129</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Rapporto delle osservazioni fatte sul terremoto avvenuto in Italia la sera del 12 marzo 1873, in "Supplemento alla Meteorologia Italiana", a.1872, pp.45-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

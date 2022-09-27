@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>33448</nterr>
+      <nperiod>000587</nperiod>
+      <datanum>19550312</datanum>
+      <data_label>1955 03 12</data_label>
+      <anno>1955</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>06:57:04</time_label>
+      <ora>06</ora>
+      <minu>57</minu>
+      <sec>04</sec>
+      <lat>44.799</lat>
+      <lon>10.1729</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>15</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.2</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>020146</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Gazzettino, 1940-1972.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl></datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020300</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale di Vicenza, 1943-1982.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1943 - 1982</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021244</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area San Benedetto Po. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Catalogo macrosismico, Istituto Nazionale di Geofisica (inedito).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1983</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021283</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico mensile, 1955.03, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021284</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel, 1955.03, Bureau Central International de Sismologie.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021285</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel, 1955.10, Bureau Central International de Sismologie.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071111</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1955.03.13.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071207</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1955.03.13.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071249</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Corriere della Sera, 1955.03.13.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071250</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Corriere della Sera, 1955.03.23.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071507</codbib>
+      <autore1>*</autore1>
+      <titolo1>Ansa, Notiziario per la Stampa, 1953.03.12, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1953</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092007</codbib>
+      <autore1>De Panfilis M.</autore1>
+      <titolo1>Attività sismica in Italia dal 1953 al 1957, in "Annali di Geofisica", vol.12, pp.21-148.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691131</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1955.03.13, n.62.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1947-1981.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1947 - 1981</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Medesano</desloc>
+      <lat_wgs84>44.7568</lat_wgs84>
+      <lon_wgs84>10.1408</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036333.00</nloc_cfti>
+      <desloc_cfti>Medesano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Noceto</desloc>
+      <lat_wgs84>44.8102</lat_wgs84>
+      <lon_wgs84>10.1795</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036498.00</nloc_cfti>
+      <desloc_cfti>Noceto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fornovo di Taro</desloc>
+      <lat_wgs84>44.6912</lat_wgs84>
+      <lon_wgs84>10.1009</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036238.00</nloc_cfti>
+      <desloc_cfti>Fornovo di Taro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Trecasali</desloc>
+      <lat_wgs84>44.9379</lat_wgs84>
+      <lon_wgs84>10.2704</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036975.00</nloc_cfti>
+      <desloc_cfti>Trecasali</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Berceto</desloc>
+      <lat_wgs84>44.5109</lat_wgs84>
+      <lon_wgs84>9.9886</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>035889.00</nloc_cfti>
+      <desloc_cfti>Berceto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Felino</desloc>
+      <lat_wgs84>44.6944</lat_wgs84>
+      <lon_wgs84>10.2454</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036158.00</nloc_cfti>
+      <desloc_cfti>Felino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fidenza</desloc>
+      <lat_wgs84>44.8663</lat_wgs84>
+      <lon_wgs84>10.0606</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036177</nloc_cfti>
+      <desloc_cfti>Fidenza (Borgo San Donnino)</desloc_cfti>
+      <notesito>Già Borgo San Donnino, assunse la denominazione attuale il 9 giugno 1927.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fontanellato</desloc>
+      <lat_wgs84>44.8818</lat_wgs84>
+      <lon_wgs84>10.1717</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036200.00</nloc_cfti>
+      <desloc_cfti>Fontanellato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sissa</desloc>
+      <lat_wgs84>44.9621</lat_wgs84>
+      <lon_wgs84>10.2582</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036767.00</nloc_cfti>
+      <desloc_cfti>Sissa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Solignano</desloc>
+      <lat_wgs84>44.6142</lat_wgs84>
+      <lon_wgs84>9.9786</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036783.00</nloc_cfti>
+      <desloc_cfti>Solignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sorbolo</desloc>
+      <lat_wgs84>44.8466</lat_wgs84>
+      <lon_wgs84>10.4485</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036811.00</nloc_cfti>
+      <desloc_cfti>Sorbolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Albareto</desloc>
+      <lat_wgs84>44.448</lat_wgs84>
+      <lon_wgs84>9.7008</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>035739.00</nloc_cfti>
+      <desloc_cfti>Albareto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Palanzano</desloc>
+      <lat_wgs84>44.4361</lat_wgs84>
+      <lon_wgs84>10.1913</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036522.00</nloc_cfti>
+      <desloc_cfti>Palanzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Torrile</desloc>
+      <lat_wgs84>44.8904</lat_wgs84>
+      <lon_wgs84>10.3555</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33448</nterr>
+      <nloc_cfti>036912.99</nloc_cfti>
+      <desloc_cfti>Torrile</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044228.00</nloc_cfti>
+      <desloc_cfti>Campiglio</desloc_cfti>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>43.9803</lat_wgs84>
+      <lon_wgs84>10.8564</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10519</nterr>
+      <nperiod>003210</nperiod>
+      <datanum>18741007</datanum>
+      <data_label>1874 10 07</data_label>
+      <anno>1874</anno>
+      <mese>10</mese>
+      <giorno>07</giorno>
+      <time_label>15:48</time_label>
+      <ora>15</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>44.1957</lat>
+      <lon>11.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>46</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Una scossa debole fu segnalata tra le ore 15:55 e le ore 16:10 GMT (ore 16:45 e 17 locali t.m. Roma) $(050445)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050445</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie compendiate di terremoti disposte in gruppi topografici di Agosto, Settembre, Ottobre e Novembre 1874, in "Bullettino del Vulcanismo Italiano", a.1 (1874), pp.162-166.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

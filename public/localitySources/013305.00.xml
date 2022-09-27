@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>013305.00</nloc_cfti>
+      <desloc_cfti>Mozzanica</desloc_cfti>
+      <provlet>LO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.3308</lat_wgs84>
+      <lon_wgs84>9.5065</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00232</nterr>
+      <nperiod>000750</nperiod>
+      <datanum>13480125</datanum>
+      <data_label>1348 01 25</data_label>
+      <anno>1348</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.5795</lat>
+      <lon>13.5408</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>58</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>580083</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Milano, Diplomatico, Statuti, cartella II, c.16v, Statuti di Mozzanica del 1303 (con aggiunte posteriori), Notula in versi di Giovanni di Leve sul terremoto del 25 gennaio 1348, sec.XIV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

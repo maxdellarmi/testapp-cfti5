@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048716.00</nloc_cfti>
+      <desloc_cfti>Trestina</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.3689</lat_wgs84>
+      <lon_wgs84>12.2377</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa di VI grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26054</nterr>
+      <nperiod>002079</nperiod>
+      <datanum>19170426</datanum>
+      <data_label>1917 04 26</data_label>
+      <anno>1917</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>09:35:59</time_label>
+      <ora>09</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>43.4678</lat>
+      <lon>12.129</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>134</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto fu rovinoso e causò crolli e gravi danni agli edifici $(460120,092082)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>460120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della pubblica sicurezza, Divisione affari generali e riservati, 1917, b.54, Telegramma del sottotenente dei Carabinieri Boccia al Ministero dell’Interno Direzione generale pubblica sicurezza, Città di Castello 27 aprile 1917.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092082</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Terremoto umbro-aretino, 26 aprile 1917 (centri sismici), in "Atti della Pontificia Accademia Romana dei Nuovi Lincei", a.70 (1916-1917), pp.113-118.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

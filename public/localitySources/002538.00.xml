@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>002538.00</nloc_cfti>
+      <desloc_cfti>Rivalta</desloc_cfti>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>45.1551</lat_wgs84>
+      <lon_wgs84>8.1233</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24378</nterr>
+      <nperiod>000428</nperiod>
+      <datanum>19130327</datanum>
+      <data_label>1913 03 27</data_label>
+      <anno>1913</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>02:25:44</time_label>
+      <ora>02</ora>
+      <minu>25</minu>
+      <sec>44</sec>
+      <lat>44.9062</lat>
+      <lon>9.3251</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>58</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

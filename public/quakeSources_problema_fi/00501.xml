@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00501</nterr>
+      <nperiod>000074</nperiod>
+      <datanum>15010605</datanum>
+      <data_label>1501 06 05</data_label>
+      <anno>1501</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5199</lat>
+      <lon>10.8435</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>20</npun>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6</mm>
+      <earthquakelocation>Appennino modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state reperite fonti memorialistiche coeve e materiali documentari archivistici. Baratta (1901) $(000001)$ utilizzò per la sua sintesi su questo evento fonti tarde e indirette. L’indagine bibliografica e archivistica condotta sulle testimonianze dirette ha consentito di raggiungere un grado soddisfacente di conoscenza degli effetti più gravi. Sono state analizzate fonti cronachistiche contemporanee all’evento; tra queste, quella che fornisce la descrizione più ampia è la cronaca di Jacopino de’ Bianchi, detto de’ Lancellotti, vissuto a Modena dal 1440 al 1502 circa $(440055)$. Questo autore fornisce un dettagliato elenco degli effetti. Anche il cronachista Alessandro Tassoni (sec.XVI) $(440066)$ fu testimone diretto dell’evento; Pirro Ligorio (ed. 2005) $(680025)$ conserva nel suo "Trattato" il ricordo di questo terremoto, probabilmente rifacendosi a Jacopino. Attraverso la documentazione conservata presso l’Archivio comunale di Modena (Vacheta Camere Sapientium... 1501), si è potuto stabilire la vicenda della torre del palazzo del Comune, che venne abbattuta nella sua parte più alta perché considerata pericolante. Non è stato possibile consultare l’Archivio privato dei Rangoni, che amministravano come feudatari una parte dell’area più colpita (Sassuolo e Castelvetro). La complessità amministrativa dell’area (in parte comunale, in parte feudale) ha reso difficoltosa la ricerca, che tuttavia ha chiarito nel complesso la portata dei danni. Il terremoto, secondo Baratta, venne avvertito anche a Verona; questa affermazione non ha trovato riscontro in fonti dirette, ma soltanto in autori molto tardi e scarsamente attendibili. Esito negativo hanno dato le ricerche condotte su fonti coeve di Parma, Piacenza e Mantova.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>L’area più colpita fu la fascia pedemontana modenese: parte di quest’area era un feudo della famiglia Rangoni, quindi estranea all’amministrazione comunale, elemento che spiega la mancanza di documentazione del comune di Modena. Non sono noti provvedimenti istituzionali.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C3</codtab>
+      <testocomm>A Modena le antiche porte Salesse e Citanova si trovavano in cattive condizioni già prima del terremoto (Archivio Storico Comunale di Modena, Vacheta Camere Sapientium ... 1501).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Castelvetro si trovava assoggettato alla famiglia dei Rangoni, e Sassuolo era da pochi mesi passata dal dominio degli Estensi a quello dei Pio di Carpi. Modena era un comune indipendente.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C6</codtab>
+      <testocomm>Nel "Libro dei partiti" della Comunità di Modena, cioè nei verbali delle riunioni di quello che costituiva il Consiglio Comunale di allora, nella prima seduta dopo il terremoto, convocata il 7 di giugno, si trattarono altri affari; solamente il 9 giugno si discusse sulla necessità di demolire la torre del Palazzo del Comune, che venne abbattuta nella sua parte più alta perché considerata pericolante e da allora fu chiamata "torre mozza" (Archivio di Stato di Modena; Vacheta Camere Sapientium ... 1501).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>L’area più colpita comprende alcuni paesi del territorio di Modena: Castelvetro, Maranello, Sassuolo e Montegibbio, nei quali i danni furono gravi e diffusi e coinvolsero la maggior parte del patrimonio edilizio, con crolli e lesioni che resero inabitabili la maggior parte delle abitazioni. Danni meno gravi si ebbero a Modena e a Reggio Emilia; risentimenti sensibili a Bologna, Ferrara, Verona, Vicenza e a Forlì. Le fonti coeve privilegiano ovviamente la descrizione dei danni alla città di Modena, dove caddero molti merli dai palazzi della città, causando la morte di 8 persone, e danni indiretti agli edifici sottostanti; anche diverse chiese, palazzi pubblici e privati, rimasero parzialmente danneggiati.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030102</codbib>
+      <autore1>Bucciardi G.</autore1>
+      <titolo1>Fiorano nelle vicende storiche del Castello e del Santuario dalle origini al 1859.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030103</codbib>
+      <autore1>Rinaldi L.</autore1>
+      <titolo1>Castelvetro e le sue chiese.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030105</codbib>
+      <autore1>Mantovi F.</autore1>
+      <titolo1>Rocche e Castelli dell’appennino modenese.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1964</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030106</codbib>
+      <autore1>Montanaro Gallitelli E.</autore1>
+      <titolo1>Qualche appunto sulla stratigrafia e la tettonica della regione di Castelvetro (MO), in "Atti e Memorie dell’Accademia di Scienze, Lettere ed Arti di Modena", s.V, vol.7.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1954</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 105, Carlo Olivi, Annali della città di Ferrara dalla sua prima origine fino al dominio degli ultimi duchi Estensi, 2 voll., 1790.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1790</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030109</codbib>
+      <autore1>Panciroli G.</autore1>
+      <titolo1>Rerum historiarum patriae suae libri octo.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1847</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030459</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Capitolare di Modena, Fabbriceria, Registro 1472-1505.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1501</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052122</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica dal 1500 al 1965 in Garfagnana, Mugello e Forlivese, CNEN, RT/GEO (68) 19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052188</codbib>
+      <autore1>Ferrari G., Guidoboni E., Manenti E. e Postpischl D.</autore1>
+      <titolo1>Catalogo dei terremoti, sismicità, organizzazione per i relativi programmi di indagine e terremoti distruttivi dell’Emilia-Romagna, in "Zone sismiche e sismicità in Emilia-Romagna. Programma per una strategia di difesa dai terremoti", Atti del Convegno, Bologna 10 luglio 1981, Regione Emilia-Romagna/CNR-PFG, pp.41-67.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052282</codbib>
+      <autore1>Ferrari G., Manenti E., Martinelli G. e Postpischl D.</autore1>
+      <titolo1>The Modena earthquake of June 5, 1501, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.24-25.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060052</codbib>
+      <autore1>Bonoli P.</autore1>
+      <titolo1>Istorie della città di Forlì intrecciate di varii accidenti della Romagna e dell’Italia distinte in dodici libri.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1661</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ferrarese dall’anno 1409 sino al 1502 di autori incerti, ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.1.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090049</codbib>
+      <autore1>Zambotti Bernardino</autore1>
+      <titolo1>Diario Ferrarese (1476-1504), ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.2, pp.3-359.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091481</codbib>
+      <autore1>Alberti Leandro</autore1>
+      <titolo1>Historie di Bologna 1479-1543, a cura di A.Antonelli e M.R.Musti, 3 voll. (Collana di cronache bolognesi d’epoca medioevale moderna e contemporanea, 10).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>2006</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094020</codbib>
+      <autore1>Ragona D.</autore1>
+      <titolo1>Catalogo dei terremoti, avvenuti in Modena e adiacenze, di cui si conserva memoria, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4 (1886), pp.175-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130290</codbib>
+      <autore1>Sanudo Marino</autore1>
+      <titolo1>I Diarii, tomo 4 (1501-1503), ed. N.Barozzi.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160059</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Note storiche su terremoti, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.209-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca dell’Accademia delle Scienze di Torino, Manoscritti, 315, G.A.De Morani, Notizie cronologiche degli anni che sono stati molto piovosi, secchi e freddi all’eccesso e ne’ quali si sono sentite scosse di terremoti successi incendi ed occorsi accidenti molto rimarchevoli in diverse parti del mondo sino al presente ricavati con somma diligenza da varii classici scrittori di cronologia e di storia, 1795.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1795</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320050</codbib>
+      <autore1>Reginus</autore1>
+      <titolo1>Notizie di terremoti sentiti in Reggio dall’anno 1223 in avanti, in "Il Crostolo. Almanacco istoriografico reggiano per l’anno 1880", pp.84-91.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320069</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Municipale "A.Panizzi" di Reggio Emilia, Manoscritti Reggiani, F.368, Francesco Baldi, Cronaca di Reggio Emilia dalla fondazione della città all’anno 1675, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320074</codbib>
+      <autore1>Balletti A.</autore1>
+      <titolo1>Storia di Reggio nell’Emilia (ristampa anastatica, Roma 1980).</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1925</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380006</codbib>
+      <autore1>Carli A.</autore1>
+      <titolo1>Istoria della città di Verona sino all’anno 1566.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1796</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385757</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1439, Fileno delle Tuate, Historia di Bologna [origini-1511], 3 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385824</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del gruppo culturale "il Trebbo" di Montese, Pellegrino Giacobazzi, Storia del territorio di Montese, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Manoscritti, II/24, Giannantonio Petrignani, Aggiunte alla storia di Forlì del signor Paolo Bonoli, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400029</codbib>
+      <autore1>Vedriani L.</autore1>
+      <titolo1>Historia dell’antichissima città di Modena, 2 voll.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1666 - 1667</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400040</codbib>
+      <autore1>Amorth L.</autore1>
+      <titolo1>Modena Capitale-Storia di Modena e dei suoi Duchi dal 1598 al 1860.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400044</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti Italiani, 134 (=alfa.H.6.24), Ristretto dell’historia di Modena e del Frignano, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400045</codbib>
+      <autore1>Panini F.</autore1>
+      <titolo1>Cronica della città di Modena, a cura di R.Bussi e R.Montagnani.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400046</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti Sorbelli, 1568, Andrea Todesco, Estratto delle cose spettanti alla città di Modena, o sieno ricordi di messer Andrea Todesco, e suo continuatore, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti San Carlo, 18 (F.Y.2), Cronaca di Modena dalle origini di essa città al 1658, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti Sorbelli, 1567, Cronache e notizie modenesi, secc.XVII-XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec. - XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400051</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti Italiani, 1735 (=H.10.33), Cronaca di Modena dal 1466 al 1665, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Raccolta Piancastelli, VI/155, Filippo Guarini, Annotazioni autografe in margine, in Id., "I terremoti a Forlì in varie epoche", Forlì 1880.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400056</codbib>
+      <autore1>Panciroli G.</autore1>
+      <titolo1>Storia della città di Reggio tradotta da latino in volgare da Prospero Viani [dalle origini al 1560], 2 voll.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1846 - 1848</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Municipale "A.Panizzi" di Reggio Emilia, Manoscritti Reggiani, F.145, Natale Tedeschi, Memorie dall’anno 1500 fino all’anno 1600, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Modena, Archivio Spinelli, Sassuolo II, b.87, Notizie sul terremoto del 1501.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410007</codbib>
+      <autore1>Muzzi S.</autore1>
+      <titolo1>Annali della città di Bologna dalla sua origine al 1796, 8 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1840 - 1846</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410018</codbib>
+      <autore1>Nadi Gaspare</autore1>
+      <titolo1>Diario Bolognese [1418-1503] (secc.XV-XVI), ed. C.Ricci e A.Bacchi della Lega, in "Scelta di curiosità letterarie inedite o rare dal secolo XIII al XIX, in appendice alla Collezione di Opere inedite o rare", vol.79, disp.216, pp.1-333 (ristampa anastatica, Bologna 1969).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1886</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti Gozzadini, 152, Tommaso Pasi, Cronica di Bologna. Comincia l’anno 1428 sino a l’anno 1512, sec.XVI, copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410049</codbib>
+      <autore1>Silingardi G.C.</autore1>
+      <titolo1>Non gravi i terremoti nelle cronache modenesi, in "Il Resto del Carlino", 8 maggio 1976.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 294, Cronaca di Bologna di Marco Antonio Bianchini (700-1513) con aggiunte dal 18 agosto 1559 al 16 novembre 1560, secc.XV-XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec. - XVI sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1410, Storia di cose occorse nella Città di Bologna dal 1309 fin’all’anno 1523, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410135</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 577, Stralcio di cronaca modenese (1465-1547), in "Cronaca di Modena dall’anno 1109 al 1547", sec.XVI, copia XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440001</codbib>
+      <autore1>Todesco A.</autore1>
+      <titolo1>Annali della Città di Modena (1501-1547), a cura di R.Bussi e R.Montagnani.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440006</codbib>
+      <autore1>Dondi A.</autore1>
+      <titolo1>Notizie storiche ed artistiche del Duomo di Modena.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440055</codbib>
+      <autore1>De’ Bianchi Jacopino detto de’ Lancellotti</autore1>
+      <titolo1>Cronaca Modenese, in "Monumenti di Storia Patria delle Provincie Modenesi", Cronache, tomo 1, 2 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1861</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440056</codbib>
+      <autore1>De’ Bianchi Tommasino detto de’ Lancellotti</autore1>
+      <titolo1>Cronaca Modenese (1506-1554), ed. C.Borghi e L.Lodi, in "Monumenti di Storia Patria delle Provincie Modenesi", Cronache, tomo 2, 12 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1862 - 1884</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440066</codbib>
+      <autore1>Tassoni Alessandro</autore1>
+      <titolo1>Cronaca modenese, in Cronache modenesi di Alessandro Tassoni di Giovanni da Bazzano e di Bonifacio da Morano, "Monumenti di Storia Patria delle provincie modenesi", serie delle Cronache, tomo 15.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440082</codbib>
+      <autore1>Soli G.</autore1>
+      <titolo1>La Chiesa ed il Monastero di Santa Chiara in Modena, in "Bollettino Francescano Storico Bibliografico" 5-6, 7-8.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1931</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440112</codbib>
+      <autore1>Poggi F. e Poggi S.</autore1>
+      <titolo1>Marano sul Panaro dalle origini ad oggi.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440113</codbib>
+      <autore1>Banorri A.</autore1>
+      <titolo1>Montese e suo territorio.</titolo1>
+      <luogoed>Formigine</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440155</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Modena, "Vachete Camere Sapientium", n.74 (1500-1502), Verbale dell’adunanza del 9 giugno 1501.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1501</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>590049</codbib>
+      <autore1>Santi V.</autore1>
+      <titolo1>La storia nella «Secchia Rapita», in "Memorie della Regia Accademia di Scienze, Lettere ed Arti in Modena", s.III, vol.6 (1906), pp.87-468.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales veteres Mutinensium [1131-1336; 1348-1501], in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 11, coll.49-88.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1727</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680025</codbib>
+      <autore1>Ligorio Pirro</autore1>
+      <titolo1>Libro di diversi terremoti, a cura di E.Guidoboni (Edizione nazionale delle opere di Pirro Ligorio, Libri delle antichità, Torino, volume 28, codice Ja.II.15).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745898</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia. II. Notizie di terremoti sentiti in Reggio Emilia.</titolo1>
+      <luogoed>Voghera</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Castelvetro di Modena</desloc>
+      <lat_wgs84>44.5041</lat_wgs84>
+      <lon_wgs84>10.9427</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038268.00</nloc_cfti>
+      <desloc_cfti>Castelvetro di Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>È ricordato dalle fonti coeve e dalla storiografia successiva come uno dei paesi più danneggiati. Il terremoto causò la distruzione della parte superiore della rocca e lesionò molto gravemene la parte bassa, che crollò poi completamente circa un anno dopo; furono lesionate tutte le torri esterne del castello, del quale crollarono parte delle mura e dei merli; crollò parzialmente la chiesa dei SS.Ginesio e Teopompo; tutte le abitazioni all’interno del castello e altre 200 case del circondario crollarono o divennero inabitabili $(030102,030103)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Maranello</desloc>
+      <lat_wgs84>44.526</lat_wgs84>
+      <lon_wgs84>10.8656</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038481.00</nloc_cfti>
+      <desloc_cfti>Maranello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Tassoni $(440066)$ il centro crollò quasi completamente. Il terremoto distrusse quasi dalle fondamenta il castello, di cui rimase indenne il solo torrione $(030105)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Montegibbio</desloc>
+      <lat_wgs84>44.5078</lat_wgs84>
+      <lon_wgs84>10.7847</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>039069.00</nloc_cfti>
+      <desloc_cfti>Montegibbio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Tassoni $(440066)$ il centro crollò quasi completamente. Il terremoto distrusse pressocché completamente il castello, che venne ricostruito nel ’600 $(030105)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Sassuolo</desloc>
+      <lat_wgs84>44.5416</lat_wgs84>
+      <lon_wgs84>10.7811</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>039072.00</nloc_cfti>
+      <desloc_cfti>Sassuolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alcune delle fonti coeve ricordano il paese tra le località maggiormente colpite dal terremoto. Le notizie sono, tuttavia, molto scarse: «ruina de Sasolo» si limita a scrivere Jacopino de’ Bianchi $(440055)$; secondo altre fonti il terremoto danneggiò molto gravemente la rocca o torre fortificata $(400106)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Colombaro</desloc>
+      <lat_wgs84>44.5523</lat_wgs84>
+      <lon_wgs84>10.8931</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038364.00</nloc_cfti>
+      <desloc_cfti>Colombaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Jacopino $(440055)$ il paese rovinò in gran parte.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Fiorano Modenese</desloc>
+      <lat_wgs84>44.5402</lat_wgs84>
+      <lon_wgs84>10.8114</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038345.00</nloc_cfti>
+      <desloc_cfti>Fiorano Modenese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Un’opera di storiografia locale novecentesca ipotizza che il centro fu gravemente danneggiato $(030102)$, ma il paese non è citato da nessuna delle fonti coeve.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Gorzano</desloc>
+      <lat_wgs84>44.5142</lat_wgs84>
+      <lon_wgs84>10.8785</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038470.00</nloc_cfti>
+      <desloc_cfti>Gorzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di una casa, provocando la morte di una donna $(440055)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Marano sul Panaro</desloc>
+      <lat_wgs84>44.4567</lat_wgs84>
+      <lon_wgs84>10.9709</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038502.00</nloc_cfti>
+      <desloc_cfti>Marano sul Panaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo un’opera di storiografia locale novecentesca il centro fu gravemente danneggiato $(440112)$, ma il paese non è citato da nessuna delle fonti coeve.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò danni a molti edifici pubblici, privati ed ecclesiastici. Nel Duomo la sacrestia rimase danneggiata tanto che bisognò sostenerla in quanto la si riteneva pericolante $(440055)$; lesionati i rosoni delle finestre, che necessitarono di rinforzi con catene di ferro. Le torricelle sulla facciata furono danneggiate e dovettero essere restaurate $(440006)$. Jacopino de’ Bianchi $(440055)$, contemporaneo all’evento, ricorda anche che caddero molti merli dal vescovado, uccidendo alcune persone che si trovavano nel mercato; cadde la cima della torre di S.Francesco, la cui campana rovinò sulla chiesa, danneggiando gravemente una cappella e in generale la navata; rovinarono inoltre diverse case private; caddero in più punti i merli delle mura, in particolare in corrispondenza delle antiche porte Salesse e Citanova: va detto però che queste ultime si trovavano in cattive condizioni già prima del terremoto. La chiesa di S.Agostino fu gravemente danneggiata nell’altare di Santa Caterina e nella cappella detta di Marazin; cadde la base dove stava infissa la croce nella chiesa di S.Domenico. Attraverso la documentazione rintracciata presso l’Archivio Storico Comunale di Modena (Vacheta Camere Sapientium... 1501), si è potuta ricostruire la vicenda della torre del Palazzo del Comune, che venne abbattuta nella sua parte più alta, perché considerata pericolante, e da allora fu chiamata la "torre mozza".&lt;br&gt;Molti cittadini compreso il Podestà si rifugiarono in alloggi di fortuna fuori dalle proprie case. Le vittime furono in totale 8, tutte persone che si trovavano nel mercato, vi furono inoltre numerosi feriti $(000003,230006,400026,400029,400040,400044,400045,400046,400051,410007,410049,410072,440001,440006,440056,440066,440082,670006)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Montecreto</desloc>
+      <lat_wgs84>44.2483</lat_wgs84>
+      <lon_wgs84>10.7178</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038697.00</nloc_cfti>
+      <desloc_cfti>Montecreto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La distruzione quasi completa della rocca è segnalata in un saggio storiografico novecentesco $(030105)$, ma il paese non è citato da nessuna delle fonti coeve.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Spezzano</desloc>
+      <lat_wgs84>44.5326</lat_wgs84>
+      <lon_wgs84>10.8443</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>038347.00</nloc_cfti>
+      <desloc_cfti>Spezzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di una casa e della torre del Podestà $(440055,030105)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Zinzano</desloc>
+      <lat_wgs84>44.4651</lat_wgs84>
+      <lon_wgs84>10.9991</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>073779.00</nloc_cfti>
+      <desloc_cfti>Zinzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo della torre $(440055)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Reggio nell'Emilia</desloc>
+      <lat_wgs84>44.6981</lat_wgs84>
+      <lon_wgs84>10.631</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>037794.00</nloc_cfti>
+      <desloc_cfti>Reggio nell’Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una tradizione storiografica che parte dalla seconda metà del XVI secolo ricorda che il terremoto causò il crollo di vari edifici; sembra tuttavia più plausibile che la città subisse danni leggeri $(400072,320050,320074,400056)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito, ma non causò danni $(030107)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Forlì</desloc>
+      <lat_wgs84>44.2174</lat_wgs84>
+      <lon_wgs84>12.049</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>041710.00</nloc_cfti>
+      <desloc_cfti>Forlì</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Notizie assai tarde attestano che il terremoto fu avvertito $(400026)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu leggero, tanto che passò inosservato a parte della popolazione $(091481,410018,410042,410062,385757)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Mantova</desloc>
+      <lat_wgs84>45.1527</lat_wgs84>
+      <lon_wgs84>10.7748</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>019701.00</nloc_cfti>
+      <desloc_cfti>Mantova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non è ricordato in nessuna delle fonti contemporanee all’evento.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Baratta $(000001)$ il terremoto fu avvertito fortemente, tuttavia le ricerche condotte su fonti contemporanee all’evento hanno dato esito negativo.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Piacenza</desloc>
+      <lat_wgs84>45.053</lat_wgs84>
+      <lon_wgs84>9.6923</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>035341.00</nloc_cfti>
+      <desloc_cfti>Piacenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non è ricordato in nessuna delle fonti contemporanee all’evento.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>00501</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Baratta $(000001)$ ipotizza che il terremoto venne avvertito; la notizia non ha trovato riscontro in fonti dirette, ma soltanto in autori molto tardi, che peraltro ricordano danni assai improbabili $(080001,380006)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

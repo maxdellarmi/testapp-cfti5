@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>015893.00</nloc_cfti>
+      <desloc_cfti>Calvagese della Riviera</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>45.5413</lat_wgs84>
+      <lon_wgs84>10.4466</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22936</nterr>
+      <nperiod>000407</nperiod>
+      <datanum>19091224</datanum>
+      <data_label>1909 12 24</data_label>
+      <anno>1909</anno>
+      <mese>12</mese>
+      <giorno>24</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.5721</lat>
+      <lon>10.3486</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>39</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Garda bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò danni a molte case, caddero i camini, si spostarono dei tetti, crollarono parti di muri e volti.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

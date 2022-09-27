@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>039139.00</nloc_cfti>
+      <desloc_cfti>Sestola</desloc_cfti>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>13</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.2296</lat_wgs84>
+      <lon_wgs84>10.7712</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18766</nterr>
+      <nperiod>000360</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>18:47:50</time_label>
+      <ora>18</ora>
+      <minu>47</minu>
+      <sec>50</sec>
+      <lat>44.4908</lat>
+      <lon>10.6395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita, non produsse danni $(340420,000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 29 giugno 1919, della durata di 2-3 secondi fu preceduta da rombo, fu classificata del IV grado della scala Mercalli; non sono riportate informazioni descrittive $(095956,095957)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa durò circa 4s e fu avvertita con spavento da poche persone che si trovavano in stato di quiete; causò tremolio leggero di porte e di finestre $(000007,071187,340001,340321,390069,460053,600398,870430)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24353</nterr>
+      <nperiod>002077</nperiod>
+      <datanum>19130213</datanum>
+      <data_label>1913 02 13</data_label>
+      <anno>1913</anno>
+      <mese>02</mese>
+      <giorno>13</giorno>
+      <time_label>16:39:50</time_label>
+      <ora>16</ora>
+      <minu>39</minu>
+      <sec>50</sec>
+      <lat>44.0996</lat>
+      <lon>10.828</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>27</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17022</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:17:22</time_label>
+      <ora>23</ora>
+      <minu>17</minu>
+      <sec>22</sec>
+      <lat>43.9588</lat>
+      <lon>11.117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>140</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa causò tremolio di piccoli oggetti, scricchiolio di mobili e di travi e caduta di piccoli calcinacci. Nell’abitato fu avvertita da poche persone, che furono svegliate. Non fu avvertita dalle numerose persone che si trovavano nel caffé pubblico ed erano intente al gioco. Nella rocca presso l’abitato non fu avvertita $(000008,001327)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18920</nterr>
+      <nperiod>003216</nperiod>
+      <datanum>19040610</datanum>
+      <data_label>1904 06 10</data_label>
+      <anno>1904</anno>
+      <mese>06</mese>
+      <giorno>10</giorno>
+      <time_label>11:15:28</time_label>
+      <ora>11</ora>
+      <minu>15</minu>
+      <sec>28</sec>
+      <lat>44.2003</lat>
+      <lon>10.8419</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>101</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Frignano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, preceduta da rombo, fu avvertita più sensibile ai piani elevati che al pianterreno $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Il terremoto fu leggero $(092133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35178</nterr>
+      <nperiod>000611</nperiod>
+      <datanum>19650510</datanum>
+      <data_label>1965 05 10</data_label>
+      <anno>1965</anno>
+      <mese>05</mese>
+      <giorno>10</giorno>
+      <time_label>05:01:54</time_label>
+      <ora>05</ora>
+      <minu>01</minu>
+      <sec>54</sec>
+      <lat>44.2914</lat>
+      <lon>10.1936</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>11</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Lunigiana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, di leggera intensità, fu avvertita da pochissime persone $(000577,020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Gli effetti della scossa furono valutati pari al III grado MCS sul Bollettino Sismico dell’Istituto Nazionale di Geofisica $(000581)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, della durata di 1s, fu avvertita da pochi all’aperto; non fu avvertita in casa; vi fu interruzione nell’erogazione di energia elettrica $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37258</nterr>
+      <nperiod>000685</nperiod>
+      <datanum>19710911</datanum>
+      <data_label>1971 09 11</data_label>
+      <anno>1971</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>23:18:12</time_label>
+      <ora>23</ora>
+      <minu>18</minu>
+      <sec>12</sec>
+      <lat>44.7645</lat>
+      <lon>10.8617</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>15</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Correggio (RE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò lesioni a molte abitazioni $(020148,030134,080102)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000577</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [53], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.191 (10 luglio 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071187</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire, 1898.03.06.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1898.03.05.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1898.03.06-07.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390069</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1898.03.06.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460053</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1898.03.06.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600398</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1898.03.06-07.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870430</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1898.03.06-07, n.65.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340420</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1904.02.27.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095956</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Sestola 1 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095957</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Telegramma relativo al terremoto del 29 giugno 1919 inviato all’Ufficio Centrale di Meteorologia e Geodinamica, Sestola 30 giugno 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Vicentino, 1920.09.08, a.6, n.201.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.08, a.48, n.210.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080102</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.08, a.62, n.215.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

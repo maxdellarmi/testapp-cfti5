@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00384</nterr>
+      <nperiod>002013</nperiod>
+      <datanum>14300813</datanum>
+      <data_label>1430 08 13</data_label>
+      <anno>1430</anno>
+      <mese>08</mese>
+      <giorno>13</giorno>
+      <time_label>00:40</time_label>
+      <ora>00</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.3217</lat>
+      <lon>11.3274</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Siena</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, G.I.31-35, G.II.36-40, Sigismondo Tizio, Historiarum Senensium [origini-1528], 10 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350211</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Riccardiana e Moreniana di Firenze, Manoscritti Pecci, 8/2, Salvestro da Siena e Tommaso Fecini, Cronache.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350241</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Marucelliana di Firenze, Manoscritti, D.9/18, Parallelo dei tremuoti di Napoli e di Siena, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00384</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

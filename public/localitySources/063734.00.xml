@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063734.00</nloc_cfti>
+      <desloc_cfti>Castiglione Cosentino</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>12</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>39.3518</lat_wgs84>
+      <lon_wgs84>16.2879</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00953</nterr>
+      <nperiod>000107</nperiod>
+      <datanum>16380327</datanum>
+      <data_label>1638 03 27</data_label>
+      <anno>1638</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>15:05</time_label>
+      <ora>15</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>39.0483</lat>
+      <lon>16.2879</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>27</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La scossa del 27 marzo distrusse gran parte dell’abitato: 174 case crollarono totalmente, causando la morte di 24 persone.&lt;br&gt;La scossa dell’8 giugno causò il crollo di altre 14 case, già danneggiate dal terremoto precedente, delle chiese di S.Maria dell’Olmo, di S.Nicola, di S.Maria della Neve e del monastero dei Cappuccini. La comunità ottenne una moratoria nei pagamenti fiscali per l’anno 1638 $(645187,770415,470009)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto causò gravi danni. Furono demolite parzialmente 30 case e riparate 182. Danneggiati anche il municipio, l’ex convento dei Cappuccini e il cimitero $(485104,525295,145008)$. Fu gravemente danneggiata la chiesa parrocchiale dei Ss.Nicolò e Biagio e della Madonna dell’Olmo, in cui i lavori di riparazione si protrassero per diversi anni. Danni rilevanti subirono anche la chiesa di S.Antonio (annessa all’ex convento dei Cappuccini) e quella della SS.Annunziata $(495046,495051,495057)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09450</nterr>
+      <nperiod>003027</nperiod>
+      <datanum>18701004</datanum>
+      <data_label>1870 10 04</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>16:55</time_label>
+      <ora>16</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>39.2202</lat>
+      <lon>16.331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>18</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò gravi danni $(300357)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08097</nterr>
+      <nperiod>003025</nperiod>
+      <datanum>18540212</datanum>
+      <data_label>1854 02 12</data_label>
+      <anno>1854</anno>
+      <mese>02</mese>
+      <giorno>12</giorno>
+      <time_label>17:50</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>39.2569</lat>
+      <lon>16.2953</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>89</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La popolazione contava 1129 abitanti. Il terremoto causò il crollo di alcune case (16 su 159), le altre furono tutte fortemente lesionate. Crollò il municipio; venne gravemente danneggiata la chiesa Madre: la facciata e un muro laterale risultarono fuori piombo e il campanile, che minacciava di crollare, fu demolito; furono lesionate la cappella di S.Maria e la chiesa della congregazione dell’Annunziata; le altre chiese subirono danni lievi $(645226)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05907</nterr>
+      <nperiod>000173</nperiod>
+      <datanum>18320308</datanum>
+      <data_label>1832 03 08</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>08</giorno>
+      <time_label>18:30</time_label>
+      <ora>18</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>39.0797</lat>
+      <lon>16.9188</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>99</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò il crollo di due case e lesionò altre 19 abitazioni; furono danneggiati anche il convento dei Cappuccini e la chiesa parrocchiale $(475118)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00958</nterr>
+      <nperiod>000107</nperiod>
+      <datanum>16380608</datanum>
+      <data_label>1638 06 08</data_label>
+      <anno>1638</anno>
+      <mese>06</mese>
+      <giorno>08</giorno>
+      <time_label>09:45</time_label>
+      <ora>09</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>39.2795</lat>
+      <lon>16.8123</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>41</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa del 27 marzo distrusse gran parte dell’abitato: 174 case crollarono totalmente, causando la morte di 24 persone.&lt;br&gt;La scossa dell’8 giugno causò il crollo di altre 14 case, già danneggiate dal terremoto precedente, delle chiese di S.Maria dell’Olmo, di S.Nicola, di S.Maria della Neve e del monastero dei Cappuccini. La comunità ottenne una moratoria nei pagamenti fiscali per l’anno 1638 $(645187,770415,470009)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02188</nterr>
+      <nperiod>003016</nperiod>
+      <datanum>17670714</datanum>
+      <data_label>1767 07 14</data_label>
+      <anno>1767</anno>
+      <mese>07</mese>
+      <giorno>14</giorno>
+      <time_label>01:05</time_label>
+      <ora>01</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>39.3751</lat>
+      <lon>16.2788</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>8</npun>
+      <mm>6</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto danneggiò tutte le case, 60 delle quali subirono lesioni gravissime; furono danneggiate 2 chiese e il monastero dei Cappuccini $(645074)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>03120</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830328</datanum>
+      <data_label>1783 03 28</data_label>
+      <anno>1783</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>38.7861</lat>
+      <lon>16.4636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>323</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 28 marzo 1783 fu molto forte: causò crolli in 28 case e causò lesioni nelle altre, anche la chiesa dei Cappuccini e le altre chiese riportarono danni $(680031,470234)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06075</nterr>
+      <nperiod>000181</nperiod>
+      <datanum>18360425</datanum>
+      <data_label>1836 04 25</data_label>
+      <anno>1836</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>00:20</time_label>
+      <ora>00</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>39.5671</lat>
+      <lon>16.7368</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>44</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò ulteriori danni all’abitato, già gravemente colpito dal terremoto del 12 ottobre 1835 $(450262,110056)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Furono rilevate lesioni leggere in poche case, in genere già danneggiate dal terremoto del 1905; le nuove case "baraccate" costruite dopo il 1905 non subirono danni $(145011,290106)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13002</nterr>
+      <nperiod>003029</nperiod>
+      <datanum>18871203</datanum>
+      <data_label>1887 12 03</data_label>
+      <anno>1887</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>03:45:00</time_label>
+      <ora>03</ora>
+      <minu>45</minu>
+      <sec>00</sec>
+      <lat>39.5644</lat>
+      <lon>16.2213</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>142</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto venne avvertito fortemente $(145447)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06063</nterr>
+      <nperiod>003022</nperiod>
+      <datanum>18351012</datanum>
+      <data_label>1835 10 12</data_label>
+      <anno>1835</anno>
+      <mese>10</mese>
+      <giorno>12</giorno>
+      <time_label>22:35</time_label>
+      <ora>22</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>39.331</lat>
+      <lon>16.2929</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>36</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il terremoto causò distruzioni molto estese: la quasi totalità delle abitazioni crollarono o subirono danni gravissimi; complessivamente, su un totale di 186 case registrate al catasto provvisorio, 149 (80%) furono danneggiate, di cui 74 (40%) crollarono totalmente e 75 (40%) subirono crolli parziali e lesioni così gravi da risultare crollanti. Ci furono 84 morti e 54 feriti su una popolazione totale di 1088 abitanti. La chiesa madre fu gravemente lesionata nella cupola e nelle pareti; la chiesa dei Cappuccini crollò totalmente e l’annesso convento fu gravemente danneggiato $(644544,644599,450261,110056,475003,485033)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>645187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Consiglio Collaterale, Cancelleria, Curiae, vol.112 (1637-1644), Decreto relativo agli sgravi fiscali concessi alle Università della Calabria danneggiate dal terremoto del 27 marzo 1638, Napoli 17 dicembre 1639.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1639</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770415</codbib>
+      <autore1>Capecelatro E.</autore1>
+      <titolo1>Breve relatione fatta dal Consigliere Hettorre Capecelatro, Delegato per l’Illustriss. &amp;t Eccellentiss. Sig. Duca di Medina de las Torres, e di Sabioneta, Principe di Stigliano, &amp;tc. Viceré, Luogotenente, e Capitan Generale in questo Regno di Napoli, e suo Collateral Consiglio: à rivedere i danni nelle Provincie di Calavria, cagionati dal terremoto succeduto a 27 di Marzo 1638 per applicarci i remedij necessarij, per la sollevatione di quelle Città, Terre, e Castelli, che hanno patito, in appendice a L.D’Orsi, "I terremoti delle due Calavrie fedelissimamente descritti".</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1640</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera relatione del Spaventevole Terremoto successo alli 27 di Marzo sù le 21 hore, nelle Provincie di Calabria Citra, &amp; Ultra. Dove si narrano tutte le rovine causate nelle Città, Terre, e Castelli, con li nomi di essi, e con la morte delle persone.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1638</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470234</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1783.04.15, n.30.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1783</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475118</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Cosenza, Intendenza di Calabria Citeriore, Segretariato generale, b.2, fasc.93 (1833), Distretto di Cosenza, Carteggio relativo alla richiesta di aiuti del comune di Castiglione Cosentino danneggiato dal terremoto dell’8 marzo 1832, maggio 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450262</codbib>
+      <autore1>Rossi A.A.</autore1>
+      <titolo1>De’ tremuoti nella Calabria Citeriore l’anno 1836, in "Annali Civili del Regno delle Due Sicilie", vol.12, fasc.23, pp.12-34.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1836</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110056</codbib>
+      <autore1>Rossi A.A.</autore1>
+      <titolo1>Storia dei tremuoti di Calabria negli anni 1835 e 1836.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Consultationum, vol.288, cc.23v-25r, Consulta della Regia Camera della Sommaria relativa alla richiesta dell’Università di Castiglione Cosentino di sospensione del pagamento dei pesi fiscali in seguito ai danni causati dal terremoto del 14 luglio 1767, Napoli 18 novembre 1767.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1767</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>644544</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Ministero dell’Interno, I appendice, fascio 319, fasc.1 (1835-36), Provincia della Calabria Citra anno 1835, Prospetti pe’ disastri cagionati dal tremuoto del 12 Ottobre detto, Cosenza 20 novembre 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>644599</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Ministero dell’Interno, I appendice, fascio 319, fasc.1 (1835-36), Relazione dell’ingegnere G.Todisco all’Intendente di Calabria Citeriore sullo stato degli abitati danneggiati dal terremoto del 12 ottobre 1835, Cosenza 8 marzo 1836.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1836</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450261</codbib>
+      <autore1>Rossi A.A.</autore1>
+      <titolo1>De’ tremuoti della Calabria Citeriore nell’anno 1835, in "Annali Civili del Regno delle Due Sicilie", vol.10, fasc.19, pp.11-23.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1836</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475003</codbib>
+      <autore1>Greco R.G.</autore1>
+      <titolo1>Castiglione Cosentino. Cronistoria di una comunità calabrese.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>485033</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe sul frontale della chiesa Madre di Castiglione Cosentino, attestante la distruzione dell’edificio a causa del terremoto del 12 ottobre 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645226</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Ministero dell’Interno, III inventario, fascio 959, fasc.28 (1854), Provincia della Calabria Citra, Quadro delle diverse condizioni de’ Comuni danneggiati dal tremuoto del 12 Febbrajo 1854, Cosenza 23 marzo 1854.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1854</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300357</codbib>
+      <autore1>Amato G.</autore1>
+      <titolo1>Crono-istoria di Corigliano Calabro (ristampa anastatica, Cosenza 1973).</titolo1>
+      <luogoed>Corigliano Calabro</luogoed>
+      <datacompl>1884</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145447</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Il terremoto nel Vallo Cosentino del 3 dicembre 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8 (1886), pp.271-329.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>485104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Cosenza, Genio Civile, Danni del terremoto dell’8 settembre 1905. Elenco delle perizie sommarie e convenzioni di cottimo per l’esecuzione dei lavori di riattamento di case danneggiate, Cosenza 24 aprile 1906.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1906</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525295</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.3, b.20, fasc.25000.3.50 (1907-10), Terremoto 1905 ­ Stato dei lavori e situazione di spesa, Prefettura di Cosenza, Rendiconto generale delle somme erogate a favore dei danneggiati dal terremoto dell’8 settembre 1905, Cosenza 11 luglio 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>495046</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Diocesano di Cosenza, Visite pastorali 1914-1932, Risposta ai quesiti per la visita pastorale dell’anno 1914 redatta dal parroco Enrico Calcagni di Castiglione Cosentino, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>495051</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Diocesano di Cosenza, Visite pastorali 1914-1932, Quesiti per la Santa Visita Pastorale, anno 1914, Risposta ai quesiti per la visita pastorale dell’anno 1914 redatta dal parroco Achille Castiglia, Castiglione Cosentino 14 settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>495057</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Diocesano di Cosenza, Visite pastorali 1914-1932, Risposta ai quesiti per la visita pastorale dell’anno 1914 redatta dal sacerdote Raffele Magarò di Castiglione Cosentino, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>290106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione della Commissione incaricata di studiare e proporre norme edilizie obbligatorie per i comuni colpiti dal terremoto del 28 dicembre 1908 e da altri anteriori.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

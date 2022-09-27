@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080936.00</nloc_cfti>
+      <desloc_cfti>Môtiers</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>46.9127</lat_wgs84>
+      <lon_wgs84>6.6216</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05210</nterr>
+      <nperiod>003199</nperiod>
+      <datanum>18170311</datanum>
+      <data_label>1817 03 11</data_label>
+      <anno>1817</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>21:10</time_label>
+      <ora>21</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>46.2455</lat>
+      <lon>6.6424</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>17</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò fenditure in diversi soffitti e l’arresto di orologi $(052146)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

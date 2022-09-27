@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>043327.00</nloc_cfti>
+      <desloc_cfti>Trassilico</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.0429</lat_wgs84>
+      <lon_wgs84>10.4034</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 29 giugno 1919, della durata di 2 secondi, fu avvertita da molti che si trovavano in casa; non fu avvertita all’aperto $(095969)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24353</nterr>
+      <nperiod>002077</nperiod>
+      <datanum>19130213</datanum>
+      <data_label>1913 02 13</data_label>
+      <anno>1913</anno>
+      <mese>02</mese>
+      <giorno>13</giorno>
+      <time_label>16:39:50</time_label>
+      <ora>16</ora>
+      <minu>39</minu>
+      <sec>50</sec>
+      <lat>44.0996</lat>
+      <lon>10.828</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>27</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni agli edifici $(080100)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095969</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Trassilico 1 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080100</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.10, a.62, n.217.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

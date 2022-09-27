@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017461.00</nloc_cfti>
+      <desloc_cfti>Codevilla</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.9636</lat_wgs84>
+      <lon_wgs84>9.0584</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita da gran parte della popolazione; causò tremolio e oscillazione di oggetti $(385668)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17502</nterr>
+      <nperiod>000336</nperiod>
+      <datanum>19010123</datanum>
+      <data_label>1901 01 23</data_label>
+      <anno>1901</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>00:17:10</time_label>
+      <ora>00</ora>
+      <minu>17</minu>
+      <sec>10</sec>
+      <lat>45.0346</lat>
+      <lon>8.9978</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>90</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Vogherese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385668</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Nota del professor Mario Baratta all’Ufficio Centrale di Meteorologia e Geodinamica relativa al terremoto del 7 settembre 1920, Voghera 7 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

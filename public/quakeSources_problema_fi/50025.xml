@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50025</nterr>
+      <nperiod>005041</nperiod>
+      <datanum>-0720000</datanum>
+      <data_label>72 B. C. - -</data_label>
+      <anno>-72</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.896</lat>
+      <lon>12.4822</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Roma</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Flegonte di Tralles $(093050)$, storico greco del II secolo d.C.; poiché per le sue opere (tramandate in frammenti) attingeva direttamente a documenti d’archivio e a storiografia più antica, è fonte autorevole. L’uso cronologico di datare i singoli eventi con la data delle Olimpiadi non consente una maggiore precisione cronologica. Questo terremoto non è noto alla tradizione dei cataloghi sismici, ed è stato analizzato solo in contributi recenti (Guidoboni 1989 $(093043)$; Guidoboni, Comastri e Traina 1994 $(093201)$).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto danneggiò molte case a Roma $(093050)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093050</codbib>
+      <autore1>Phlegon Trallensis</autore1>
+      <titolo1>Die Fragmente der Griechischen Historiker 257, ed. F.Jacoby, pt.2 (Zeitgeschichte), vol.B1.</titolo1>
+      <luogoed>Leiden</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093126</codbib>
+      <autore1>Jacoby F.</autore1>
+      <titolo1>Die Fragmente der Griechischen Historiker, pt.2 (Zeitgeschichte), vol.B2, Kommentar.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1930</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096013</codbib>
+      <autore1>Molin D. e Guidoboni E.</autore1>
+      <titolo1>Effetto fonti effetto monumenti a Roma: i terremoti dall’antichità a oggi, in "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, pp.194-223.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>50025</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Rovinarono molte case $(093050)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

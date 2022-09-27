@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058957.00</nloc_cfti>
+      <desloc_cfti>Casertavecchia</desloc_cfti>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>41.0974</lat_wgs84>
+      <lon_wgs84>14.367</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>È documentata la richiesta del feudatario, principe di S.Nicandro, di esenzione fiscale a causa dei danni subiti dal palazzo baronale $(645092)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>È documentato uno stanziamento di 1.500 ducati destinati alla riparazione degli edifici religiosi danneggiati dal terremoto in città e nella diocesi $(635071)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635071</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.114, Lettera del nunzio apostolico Lorenzo Casoni arcivescovo di Cesarea al segretario di Stato cardinale Fabrizio Spada, Napoli 30 maggio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645092</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 149, inc.2, cc.n.n., Delibera della Regia Camera della Sommaria relativa alla richiesta del principe di S.Nicandro feudatario della città di Caserta di esenzione dai pagamenti fiscali in seguito ai danni causati dal terremoto del 3 novembre 1706, Napoli 7 aprile 1707.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1707</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

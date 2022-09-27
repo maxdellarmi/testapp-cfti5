@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067713.00</nloc_cfti>
+      <desloc_cfti>Santa Maria la Scala</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>37.6178</lat_wgs84>
+      <lon_wgs84>15.1726</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Restarono danneggiate una bottega e la chiesa $(145440)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu forte; ad un solo danneggiato, secondo la documentazione ufficiale, venne concesso un sussidio $(145509)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Furono rilevate gravi lesioni nelle case $(460205)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145440</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), tabella n.3, Quadro dei danni cagionati dai tremuoti de’ 20 e 28 febbraro 1818 nel Comune di Acireale, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Serie diverse, Comitato centrale di soccorso dei danneggiati dal terremoto della Calabria e della Sicilia, b.10, Danni alle persone ed alle proprietà causati dal terremoto del 28 dicembre 1908 nelle provincie di Messina, Reggio Calabria, Catanzaro, Catania, Agrigento, Caltanissetta e Cosenza, [Roma] 1909.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145509</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Registro dei sussidî da corrispondersi ai danneggiati dal terremoto 8 Maggio 1914, II.a distribuzione.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>185008</codbib>
+      <autore1>Platania G.</autore1>
+      <titolo1>Il maremoto dello Stretto di Messina del 28 dicembre 1908, in "Bollettino della Società Sismologica Italiana", vol.13 (1908-1909), pp.369-458.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091174</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Osservazioni preliminari sul terremoto calabro messinese del 28 dicembre 1908, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.28 (1909), pp.3-11.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460209</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Serie diverse, Comitato centrale di soccorso dei danneggiati dal terremoto della Calabria e della Sicilia, b.1, Telegramma del prefetto di Catania al Ministero dell’Interno sul terremoto del 28 dicembre 1908, Catania 28 dicembre 1908.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080954.00</nloc_cfti>
+      <desloc_cfti>Domagnano</desloc_cfti>
+      <provlet></provlet>
+      <nazione>San Marino</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.9497</lat_wgs84>
+      <lon_wgs84>12.4706</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25486</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160517</datanum>
+      <data_label>1916 05 17</data_label>
+      <anno>1916</anno>
+      <mese>05</mese>
+      <giorno>17</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0111</lat>
+      <lon>12.6226</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>132</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 17 maggio causò lesioni rilevanti. A causa della scossa del 16 agosto furono gravemente lesionati soffitti e pavimenti della casa parrocchiale; in una casa diverse pareti di mattoni caddero. In località Caccianino crollò parzialmente il tetto di un’abitazione e fu necessario demolire tutto il piano superiore di una casa; in totale 3 edifici risultarono non abitabili $(052128)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 17 maggio causò lesioni rilevanti. A causa della scossa del 16 agosto furono gravemente lesionati soffitti e pavimenti della casa parrocchiale; in una casa diverse pareti di mattoni caddero. In località Caccianino crollò parzialmente il tetto di un’abitazione e fu necessario demolire tutto il piano superiore di una casa; in totale 3 edifici risultarono non abitabili $(052128)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052128</codbib>
+      <autore1>Camassi R., Meloni F., Postpischl D. e Sangiorgi A.</autore1>
+      <titolo1>I terremoti riminesi del 1916, in "San Marino e il Terremoto", a cura di D.Postpischl, pp.167-187.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

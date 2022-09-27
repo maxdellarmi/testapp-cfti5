@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>013275.00</nloc_cfti>
+      <desloc_cfti>Liscate</desloc_cfti>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.482</lat_wgs84>
+      <lon_wgs84>9.4069</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04381</nterr>
+      <nperiod>000150</nperiod>
+      <datanum>17860407</datanum>
+      <data_label>1786 04 07</data_label>
+      <anno>1786</anno>
+      <mese>04</mese>
+      <giorno>07</giorno>
+      <time_label>00:25</time_label>
+      <ora>00</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>45.2993</lat>
+      <lon>9.5951</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>9</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

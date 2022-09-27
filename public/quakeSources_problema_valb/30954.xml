@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>30954</nterr>
+      <nperiod>000545</nperiod>
+      <datanum>19340411</datanum>
+      <data_label>1934 04 11</data_label>
+      <anno>1934</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.4464</lat>
+      <lon>8.6226</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>4</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4</mm>
+      <earthquakelocation>Norcia (PG)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000035</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1934, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000658</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Sismico Settimanale, 1934.04.09-15, n.858, a cura di A.Cavasino, Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021241</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po1. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630033</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta di Novara, 1934.04.14.</titolo1>
+      <luogoed>Novara</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690938</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Padano, 1934.04.13. a.10, n.88.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Novara</desloc>
+      <lat_wgs84>45.4464</lat_wgs84>
+      <lon_wgs84>8.6226</lon_wgs84>
+      <provlet>NO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>30954</nterr>
+      <nloc_cfti>004477.00</nloc_cfti>
+      <desloc_cfti>Novara</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Borgo Vercelli</desloc>
+      <lat_wgs84>45.3574</lat_wgs84>
+      <lon_wgs84>8.4651</lon_wgs84>
+      <provlet>VC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>30954</nterr>
+      <nloc_cfti>002851.00</nloc_cfti>
+      <desloc_cfti>Borgo Vercelli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Cuggiono</desloc>
+      <lat_wgs84>45.5065</lat_wgs84>
+      <lon_wgs84>8.8154</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>30954</nterr>
+      <nloc_cfti>013104.00</nloc_cfti>
+      <desloc_cfti>Cuggiono</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Magenta</desloc>
+      <lat_wgs84>45.4657</lat_wgs84>
+      <lon_wgs84>8.8841</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>30954</nterr>
+      <nloc_cfti>013344.00</nloc_cfti>
+      <desloc_cfti>Magenta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Pavia</desloc>
+      <lat_wgs84>45.19</lat_wgs84>
+      <lon_wgs84>9.1597</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>30954</nterr>
+      <nloc_cfti>017853.00</nloc_cfti>
+      <desloc_cfti>Pavia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

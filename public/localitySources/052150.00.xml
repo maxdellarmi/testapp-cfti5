@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052150.00</nloc_cfti>
+      <desloc_cfti>Chiesanuova</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.3387</lat_wgs84>
+      <lon_wgs84>13.3252</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37405</nterr>
+      <nperiod>003232</nperiod>
+      <datanum>19720204</datanum>
+      <data_label>1972 02 04</data_label>
+      <anno>1972</anno>
+      <mese>02</mese>
+      <giorno>04</giorno>
+      <time_label>02:42:53</time_label>
+      <ora>02</ora>
+      <minu>42</minu>
+      <sec>53</sec>
+      <lat>43.5911</lat>
+      <lon>13.2947</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>75</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Allo stato attuale delle conoscenze non è possibile differenziare le informazioni relative alle varie scosse. Su 70 edifici di questa frazione, 10 furono lesionati (14%); tutti erano di costruzione antica $(060303)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37412</nterr>
+      <nperiod>003232</nperiod>
+      <datanum>19720204</datanum>
+      <data_label>1972 02 04</data_label>
+      <anno>1972</anno>
+      <mese>02</mese>
+      <giorno>04</giorno>
+      <time_label>09:19:04</time_label>
+      <ora>09</ora>
+      <minu>19</minu>
+      <sec>04</sec>
+      <lat>43.5893</lat>
+      <lon>13.283</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>56</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Allo stato attuale delle conoscenze non è possibile differenziare le informazioni relative alle varie scosse. Su 70 edifici di questa frazione, 10 furono lesionati (14%); tutti erano di costruzione antica $(060303)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060303</codbib>
+      <autore1>Console R., Peronaci F. e Sonaglia A.</autore1>
+      <titolo1>Relazione sui fenomeni sismici dell’Anconitano (1972) (alcune considerazioni sui terremoti di origine vicina), in "Annali di Geofisica", vol.26, Supplemento, pp.3-60.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

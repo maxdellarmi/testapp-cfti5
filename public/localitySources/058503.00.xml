@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058503.00</nloc_cfti>
+      <desloc_cfti>Sant’Agapito</desloc_cfti>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>41.5444</lat_wgs84>
+      <lon_wgs84>14.2229</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni diffusi e il ferimento di una persona $(035052)$. Inagibile la chiesa $(035054)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1985) hanno valutato l’intensità della scossa di V grado MCS $(002133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04869</nterr>
+      <nperiod>003104</nperiod>
+      <datanum>18050726</datanum>
+      <data_label>1805 07 26</data_label>
+      <anno>1805</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5009</lat>
+      <lon>14.4738</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>220</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>36</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Non sono note descrizione degli effetti. Esposito et al. (1987) hanno valutato l’intensità della scossa di VIII grado MCS $(090409)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090409</codbib>
+      <autore1>Esposito E., Luongo G., Marturano A. e Porfido S.</autore1>
+      <titolo1>Il terremoto di S.Anna del 26 luglio 1805, in "Memorie della Società Geologica Italiana" vol.37 (1987), pp.171-191.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002133</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Irpinia earthquake of August 21, 1962, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.148-149.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035054</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.09.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

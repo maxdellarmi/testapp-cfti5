@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041477.00</nloc_cfti>
+      <desloc_cfti>Ca’ di Bianchi</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.8574</lat_wgs84>
+      <lon_wgs84>12.0006</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00804</nterr>
+      <nperiod>003180</nperiod>
+      <datanum>15840910</datanum>
+      <data_label>1584 09 10</data_label>
+      <anno>1584</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>20:30</time_label>
+      <ora>20</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.8626</lat>
+      <lon>11.9916</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>17</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La scossa causò il crollo delle 14 case che costituivano il villaggio e della chiesa di S.Salvatore; le distruzioni furono probabilmente aggravate da una grande frana staccatasi dal versante nord-occidentale del Monte Comero $(775042,395360,775093)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>775042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo del Principato, filza 769, Lettera del cancelliere di Galeata Baccio Francolini al cognato Benedetto Maccanti relativa ai danni causati dal terremoto del 10 settembre 1584, Galeata 16 settembre 1584.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1584</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395360</codbib>
+      <autore1>Agnoletti E.</autore1>
+      <titolo1>Spigolature di Archivio.</titolo1>
+      <luogoed>Sansepolcro</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio della Curia Vescovile di Sansepolcro, Parrocchie, fasc. Crocesanta, Memoria del parroco Cesare Sampaoli sulla chiesa di S.Salvatore detta del Monastero, Crocesanta 25 gennaio 1943.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1943</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

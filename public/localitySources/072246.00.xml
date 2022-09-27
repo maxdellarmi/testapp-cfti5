@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072246.00</nloc_cfti>
+      <desloc_cfti>Montenero</desloc_cfti>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>43.4945</lat_wgs84>
+      <lon_wgs84>10.3501</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01824</nterr>
+      <nperiod>003248</nperiod>
+      <datanum>17420127</datanum>
+      <data_label>1742 01 27</data_label>
+      <anno>1742</anno>
+      <mese>01</mese>
+      <giorno>27</giorno>
+      <time_label>11:20</time_label>
+      <ora>11</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.5508</lat>
+      <lon>10.3207</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>16</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Livorno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita non fortemente $(395042)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00991</nterr>
+      <nperiod>003246</nperiod>
+      <datanum>16460405</datanum>
+      <data_label>1646 04 05</data_label>
+      <anno>1646</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>16:15</time_label>
+      <ora>16</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>43.5508</lat>
+      <lon>10.3207</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>2</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Livorno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente, ma non causò danni né alla chiesa, né al convento annesso $(395046,395665)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395046</codbib>
+      <autore1>Oberhausen G.</autore1>
+      <titolo1>Istoria della Miracolosa Immagine di Nostra Signora di Montenero descritta sopra le più sincere notizie esattamente, e sinceramente raccolte.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1745</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395665</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Labronica di Livorno, Manoscritti Vivoli, filza 8, Memorie varie sul terremoto del 5 aprile 1646, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395042</codbib>
+      <autore1>Gentili G.</autore1>
+      <titolo1>Osservazioni sopra i terremoti ultimamente accaduti a Livorno descritte dal dottore Giovanni Gentili Medico della Sanità di quella Città in una lettera al dottore Antonio Cocchi Professore di Medicina in Firenze.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1742</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

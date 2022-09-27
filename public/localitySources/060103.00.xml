@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060103.00</nloc_cfti>
+      <desloc_cfti>Fango</desloc_cfti>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>40.7434</lat_wgs84>
+      <lon_wgs84>13.888</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05460</nterr>
+      <nperiod>003106</nperiod>
+      <datanum>18280202</datanum>
+      <data_label>1828 02 02</data_label>
+      <anno>1828</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>09:15</time_label>
+      <ora>09</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.7451</lat>
+      <lon>13.8985</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>11</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Casamicciola Terme (NA)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Tutti gli edifici furono gravemente danneggiati e molti crollarono, fra cui la chiesa di S.Giuseppe $(990000,380228)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11949</nterr>
+      <nperiod>000730</nperiod>
+      <datanum>18830728</datanum>
+      <data_label>1883 07 28</data_label>
+      <anno>1883</anno>
+      <mese>07</mese>
+      <giorno>28</giorno>
+      <time_label>20:25</time_label>
+      <ora>20</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>40.7398</lat>
+      <lon>13.8714</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>32</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Nel centro abitato ci furono molti crolli; sulle pendici del Monte Epomeo caddero i muri di cinta dei campi, vigneti e campi coltivati furono invasi da massi franati dai contrafforti montuosi $(001330)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11516</nterr>
+      <nperiod>000726</nperiod>
+      <datanum>18810304</datanum>
+      <data_label>1881 03 04</data_label>
+      <anno>1881</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>12:15</time_label>
+      <ora>12</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.7476</lat>
+      <lon>13.895</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>22</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Quasi tutte le case (circa 40) furono distrutte o rese inabitabili; crollò totalmente la chiesa di S.Giuseppe; ci furono 5 morti e alcuni feriti $(260078,380227,340087,052492)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>260078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1881.03.06-07, a.84, n.55.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380227</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1881.03.13, a.16, n.70.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340087</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1881.03.12-13.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052492</codbib>
+      <autore1>Johnston-Lavis H.J.</autore1>
+      <titolo1>Monograph of the earthquakes of Ischia, a memoir dealing with the seismic disturbances in that Island from remotest times, with special observations on those of 1881 and 1883.</titolo1>
+      <luogoed>London-Napoli</luogoed>
+      <datacompl>1885</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001330</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Raccolta di fatti, relazioni, bibliografie sul terremoto di Casamicciola del 28 Luglio 1883 con brevi osservazioni, in "Bullettino del Vulcanismo Italiano", a.11, pp.65-131.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1884</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>990000</codbib>
+      <autore1>Covelli N.</autore1>
+      <titolo1>Observations sur le tremblement de terre qui a eu lieu dans l’île d’Ischia, le 2 février 1828, in "Bibliothèque Universelle, des sciences, belles-lettres et arts", a.13, tomo 39, pp.157-165.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380228</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1881.03.14, a.16, n.71.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>990001</codbib>
+      <autore1>Covelli N.</autore1>
+      <titolo1>Cenno sul tremuoto d’Ischia avvenuto il 2 febbraio 1828, in "Il Pontano", a.1, pp.82-92.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056376.00</nloc_cfti>
+      <desloc_cfti>Cappelle</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>42.066</lat_wgs84>
+      <lon_wgs84>13.3816</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18754</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040224</datanum>
+      <data_label>1904 02 24</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>15:53:26</time_label>
+      <ora>15</ora>
+      <minu>53</minu>
+      <sec>26</sec>
+      <lat>42.0975</lat>
+      <lon>13.3162</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>56</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Questa frazione di Scurcola Marsicana furono gravemente lesionate 20 fabbricati. Alcuni dovettero essere demoliti perché pericolanti, altri furono puntellati o assicurati con catene $(235476,000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27011</nterr>
+      <nperiod>002001</nperiod>
+      <datanum>19191022</datanum>
+      <data_label>1919 10 22</data_label>
+      <anno>1919</anno>
+      <mese>10</mese>
+      <giorno>22</giorno>
+      <time_label>06:06:04</time_label>
+      <ora>06</ora>
+      <minu>06</minu>
+      <sec>04</sec>
+      <lat>41.5381</lat>
+      <lon>12.6839</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>134</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Litorale pontino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il terremoto causò la distruzione quasi completa del centro abitato, testimoniata anche dalle foto scattate a pochi giorni di distanza dall’evento $(146439,146446,146447,146448,146441,146432,146435)$; fu distrutta la chiesa di S.Nicola $(635045)$. Il Corpo Reale del Genio Civile dichiarò, nel 1917, di avere demolito 31 case, puntellato 5 edifici e riparato altri 43. Il numero complessivo, a tutto il maggio 1917, delle baracche costruite fu di 86 $(593117)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>235476</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto nella Marsica del 24 febbraio 1904, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.411-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146439</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.16.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146446</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146447</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.16.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146448</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.17.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146441</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146432</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna Illustrata, 1915.02.07-14.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146435</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna Illustrata, 1915.04.11-18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi dei Marsi. Elenco delle chiese parrocchiali e delle case religiose danneggiate o distrutte dal terremoto del 13 gennaio 1915, Tagliacozzo 10 aprile 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.13, fasc.74, Stato di avanzamento dei lavori delle opere dipendenti dal terremoto del 13 gennaio 1915 a tutto il 29 aprile 1917, Avezzano 6 maggio 1917.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

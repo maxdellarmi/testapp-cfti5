@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>046357.00</nloc_cfti>
+      <desloc_cfti>Riparbella</desloc_cfti>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.3646</lat_wgs84>
+      <lon_wgs84>10.5991</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17022</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:17:22</time_label>
+      <ora>23</ora>
+      <minu>17</minu>
+      <sec>22</sec>
+      <lat>43.9588</lat>
+      <lon>11.117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>140</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(001327)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18766</nterr>
+      <nperiod>000360</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>18:47:50</time_label>
+      <ora>18</ora>
+      <minu>47</minu>
+      <sec>50</sec>
+      <lat>44.4908</lat>
+      <lon>10.6395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07160</nterr>
+      <nperiod>000920</nperiod>
+      <datanum>18460814</datanum>
+      <data_label>1846 08 14</data_label>
+      <anno>1846</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4708</lat>
+      <lon>10.5621</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>121</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò gravi danni e crolli: una casa crollò interamente; varie altre crollarono parzialmente; tutte le abitazioni subirono lesioni $(745565)$. Danni subirono le tre chiese, soprattutto la Confraternita della Vergine Annunziata $(745564)$. Circa l’11% degli edifici cadde o dovette essere demolito $(000001)$. Vi furono 3 morti e 12 feriti $(630005,820058)$.&lt;br&gt;Tabani (1846) $(745564)$ riporta i seguenti dati: numero totale delle case 137; case cadute o demolite 15, tutte le altre danneggiate; popolazione 1.450; feriti gravi 4; morti 4. Il decreto granducale del 29 agosto 1846 esentò per 3 anni questa località dalle tasse prediali $(092151)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745565</codbib>
+      <autore1>Tellini C.</autore1>
+      <titolo1>Relazioni storiche dei danni cagionati dal tremuoto nel dì 14 agosto 1846 nelle colline pisane e nelle città di Livorno, Pisa e Volterra.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745564</codbib>
+      <autore1>Tabani G.</autore1>
+      <titolo1>Del terremoto accaduto in Toscana il 14 agosto 1846.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Tremuoti di Toscana nel mese di agosto 1846, in "Annali universali di statistica, economia pubblica, geografia, storia, viaggi e commercio", a.23, s.II, vol.9, pp.284-290.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092151</codbib>
+      <autore1>Moroni A. e Grillo P.</autore1>
+      <titolo1>Terremoti e intervento statale in Toscana nel XIX secolo, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.135-153.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

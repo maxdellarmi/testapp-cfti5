@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>055492.00</nloc_cfti>
+      <desloc_cfti>Piedimonte San Germano Alta</desloc_cfti>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>41.5048</lat_wgs84>
+      <lon_wgs84>13.7516</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni ai fabbricati, alla locale caserma dei Carabinieri e alla chiesa parrocchiale che fu chiusa al culto per motivi di sicurezza $(635030,583160)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01007</nterr>
+      <nperiod>003080</nperiod>
+      <datanum>16540724</datanum>
+      <data_label>1654 07 24</data_label>
+      <anno>1654</anno>
+      <mese>07</mese>
+      <giorno>24</giorno>
+      <time_label>00:25</time_label>
+      <ora>00</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>41.6352</lat>
+      <lon>13.6826</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>44</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Sorano-Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Rovina di più della metà degli edifici $(680031)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635030</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.10, Preventivo delle spese necessarie per il restauro dei danni causati dal terremoto del 13 gennaio 1915 alla chiesa parrocchiale di Piedimonte San Germano redatto dal perito muratore Luigi Carnevale, Piedimonte San Germano 16 febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.968, Telegramma da Cassino al Ministero dell’Interno relativo ai danni causati in numerose località dal terremoto del 13 gennaio 1915, Cassino 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

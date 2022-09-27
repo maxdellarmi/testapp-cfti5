@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>014249.00</nloc_cfti>
+      <desloc_cfti>Almenno San Bartolomeo</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.7478</lat_wgs84>
+      <lon_wgs84>9.5799</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26551</nterr>
+      <nperiod>003348</nperiod>
+      <datanum>19180424</datanum>
+      <data_label>1918 04 24</data_label>
+      <anno>1918</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>14:21:49</time_label>
+      <ora>14</ora>
+      <minu>21</minu>
+      <sec>49</sec>
+      <lat>45.7794</lat>
+      <lon>9.6043</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Lecchese-Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

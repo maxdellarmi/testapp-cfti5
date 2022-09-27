@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>06058</nterr>
+      <nperiod>003202</nperiod>
+      <datanum>18350523</datanum>
+      <data_label>1835 05 23</data_label>
+      <anno>1835</anno>
+      <mese>05</mese>
+      <giorno>23</giorno>
+      <time_label>08:30</time_label>
+      <ora>08</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.3302</lat>
+      <lon>7.5504</lon>
+      <rel>?</rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Boves (CN)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata condotta una ricerca bibliografica e archivistica mirata.&lt;br&gt;Baratta (1897 $(071265)$, 1901 $(000001)$) elencò un terremoto avvenuto a Boves il 23 marzo 1835 citando come fonte la "Gazzetta Piemontese" n.120, del 29 marzo 1835. In realtà il numero citato da Baratta fu pubblicato il 29 maggio 1835 $(450071)$ e riferisce notizie relative a una scossa avvenuta il 23 maggio. L’errore compiuto da Baratta ha portato a una duplicazione dell’evento del 23 maggio 1835, che fu correttamente riportato da Colla (1836) $(490301)$, Perrey (1848) e Mercalli (1897) $(000014)$, ed è ricordato dai giornali di varie città italiane (3 testate) $(095269,940374,600634)$, che ne riferirono riprendendo le notizie della "Gazzetta Piemontese".&lt;br&gt;Per integrare le scarne informazioni disponibili, è stata compiuta una ricerca relativa ai comuni di Boves, di Cuneo e di Peveragno. Presso l’Archivio storico del comune di Cuneo sono stati vagliati con esito negativo gli "Ordinati" del Consiglio comunale per l’anno 1835 $(395387)$. È stata inoltre compiuta una ricerca sulla storiografia locale otto-novecentesca. Sono state analizzate le autorevoli opere di Maccario (1889) $(450092)$, Gabotto (1898) $(395388)$ e Beltrutti (1988) $(395389)$, relative alla città di Cuneo; di Mottini (1894) $(395390)$, relativa a Boves; di Ristorto (1990) $(395391)$, relativa a Peveragno. Anche in questo caso l’esito è stato negativo. Il silenzio delle fonti amministrative e della storiografia va probabilmente collegato, oltre che allo scarso rilievo dell’evento, al grande impatto sociale causato nella memoria storica locale dalla grande epidemia di colera che raggiunse proprio nell’estate 1835 il Cuneese, causando fra il 1835 e il 1837 oltre 1.100 morti nel solo comune di Cuneo (Del Panta 1980) $(675092)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 23 maggio 1835 alle 8:30 GMT ca. (ore 9 e 30 locali). Due ore dopo fu avvertita una replica più leggera. Le due scosse colpirono il paese di Boves dove causarono la caduta di molti fumaioli e l’apertura di leggere lesioni nelle murature; fu particolarmente danneggiato l’ospedale nel quale una camerata divenne pericolante. Non sono attestati effetti in nessuna località vicina.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095269</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Bologna, 1835.06.06, n.68.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395387</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Cuneo, Ordinati del Consiglio comunale dell’anno 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395388</codbib>
+      <autore1>Gabotto F.</autore1>
+      <titolo1>Storia di Cuneo dalle origini ai giorni nostri (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395389</codbib>
+      <autore1>Beltrutti G.</autore1>
+      <titolo1>Storia di Cuneo e del Piemonte sud occidentale, vol.2 (Dal settecento al Regno d’Italia).</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1988</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395390</codbib>
+      <autore1>Mottini A.</autore1>
+      <titolo1>Boves. Memorie storiche.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395391</codbib>
+      <autore1>Ristorto M.</autore1>
+      <titolo1>Peveragno nei secoli.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450071</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Piemontese, 1835.05.29, n.110.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450092</codbib>
+      <autore1>Maccario S.</autore1>
+      <titolo1>Cronologia storica della città di Cuneo dalla sua fondazione sino ai dì nostri.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490301</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Terremoti sentiti in diversi punti del globo nell’anno 1835 con supplemento alla nota dei terremoti dell’anno 1834, in "Biblioteca Italiana", a.21, tomo 83 (luglio-settembre 1836), pp.253-258.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1836</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600634</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1835.06.11.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675092</codbib>
+      <autore1>Del Panta L.</autore1>
+      <titolo1>Le epidemie nella storia demografica italiana (secoli XIV-XIX).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940374</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Venezia, 1835.06.06, n.126.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1829</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Boves</desloc>
+      <lat_wgs84>44.3302</lat_wgs84>
+      <lon_wgs84>7.5504</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>06058</nterr>
+      <nloc_cfti>004998.00</nloc_cfti>
+      <desloc_cfti>Boves</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò la caduta di molti fumaioli, e l’apertura di leggere lesioni nelle murature; fu particolarmente danneggiato l’ospedale nel quale una camerata divenne pericolante $(450071)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Cuneo</desloc>
+      <lat_wgs84>44.3815</lat_wgs84>
+      <lon_wgs84>7.538</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>06058</nterr>
+      <nloc_cfti>005501.00</nloc_cfti>
+      <desloc_cfti>Cuneo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non è ricordato nelle fonti amministrative consultate, né dalla storiografia locale $(395387,450092,395388,395389)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Peveragno</desloc>
+      <lat_wgs84>44.3311</lat_wgs84>
+      <lon_wgs84>7.6171</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>06058</nterr>
+      <nloc_cfti>006413.00</nloc_cfti>
+      <desloc_cfti>Peveragno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non è ricordato dalla storiografia locale $(395391)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

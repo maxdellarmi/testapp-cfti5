@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00002</nterr>
+      <nperiod>000001</nperiod>
+      <datanum>10010000</datanum>
+      <data_label>1001 - -</data_label>
+      <anno>1001</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.433</lat>
+      <lon>10.967</lon>
+      <rel>F</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Verona</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo ed è stata sviluppata un’ampia ricerca sulle fonti annalistiche e cronachistiche medievali. Il terremoto è ricordato da Baratta (1901) $(000001)$ in modo acritico, sulla base di Goiran (1880) $(050397)$ il quale a sua volta rimanda allo storico Dalla Corte (1594) $(510050)$, assumendo la tradizione cronachistica basso-medievale e moderna, e sottovalutando il fatto che questo evento sismico fu enfatizzato dalla tarda storiografia che lo inserì fra le "paure dell’anno Mille". La ricerca ha vagliato le fonti medievali, reperendo annali monastici benedettini italiani ed europei: in alcuni di questi testi il terremoto del 1001 è ricordato come uno dei segni prodigiosi che si ritennero accaduti alla fine del primo millennio. Descritto come manifestazione della volontà divina, accaduto in giorni di particolare significato religioso (settimana pasquale), si scrisse che questo terremoto coinvolse "il mondo" senza specificazioni di luogo. I testi che ricordano l’evento sono tutti tardi, esclusi gli Annali del monastero di Saint-Amand, in Francia, che ricordano giorno e mese (29 marzo), e fanno riferimento a una scossa locale realmente accaduta nel territorio della Francia settentrionale e in Belgio (Alexandre 1991) $(775035)$. Restano senza fondamento le notizie dei cronisti del XVI-XVII secolo, che non citano mai fonti precise alla base delle loro ricostruzioni quasi sempre di maniera. Le fonti e il particolare contesto culturale non consentono di ritenere accaduto tale evento né a Verona né in Italia.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>B1</codtab>
+      <testocomm>L’unica menzione presumibilmente coeva del terremoto del 1001 è contenuta negli "Annales Elnonenses" $(090163)$, del monastero benedettino di Saint-Amand (Francia), che inseriscono esplicitamente il terremoto nella serie di segni divini che dovevano preannunciare la fine del mondo; si ricorda solo lo scuotimento della terra senza alcuna specificazione del luogo. Anche nelle altre fonti annalistiche di area tedesca e francese il terremoto è ricordato più come segno sovrannaturale che come evento storico. Tutti i testi si limitano a riferire che ci fu un grande terremoto senza precisare né il momento né il luogo $(090073,090086,090087,090088,090089,090164,090194)$. La storiografia basso medievale diede spazio a quel particolare clima culturale, enfatizzando la "barbarie" dei tempi. Una scarna menzione del terremoto associato ai prodigi si trova nel cronista quattrocentesco Naugiaco $(510076)$ e nell’anonima "Cronaca Veneziana" $(510012)$, che presentano un testo molto simile. L’associazione del terremoto a prodigi naturali legati alle paure millenaristiche si ritrova in tutti i cronisti successivi $(090051,740013,780014,070047,410063)$. Il cronista veronese cinquecentesco Dalla Corte $(510050)$, ripreso da autori successivi $(160061,080001)$, localizza il terremoto a Verona con frasi stereotipe, ricordando una gran numero di morti e la rovina della città, senza nessun riscontro documentario. Lo stesso racconto si trova in Bresciani riferito a Cremona. Baratta, senza citare fonti, assume da questa tradizione storiografica il racconto del terremoto e localizza gli effetti a Verona. Cenni acritici a questo evento si trovano anche in altri autori moderni $(080239,380001,500082)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>Negli "Annales Elnonenses" $(090163)$ viene riportata la teoria di origine aristotelica, dei venti racchiusi nelle caverne della terra come causa del terremoto.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>Apparizione di una cometa, tra i vari prodigi naturali, ricordata da fonti $(090086,090051,410063)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>510050</codbib>
+      <autore1>Dalla Corte G.</autore1>
+      <titolo1>Historia della città di Verona [dalle origini al 1560], 2 voll.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1594</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Capitolare di Verona, CCVII, Guglielmo de Naugiaco, De gestis per orbem ab initio Mundi ad annum 1300.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Cons. Crem. E.131, Giuseppe Bresciani, Historia della fedelissima città di Cremona che dalla di lei fondatione contiene per tutto l’anno millecinquecento di nostra salute, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740013</codbib>
+      <autore1>Paravicino B.</autore1>
+      <titolo1>Descrittione della lacrimevole eversione di Piuro, con l’annotazione qual già fosse, et come hora si ritrovi, con alcuni casi quasi simili dal principio del mondo fin’hora occorsi.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1619</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775035</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>The seismic cataclysm of 29 March 1000: genesis of a mistake, in "Tectonophysics", vol.193 (1991), pp.45-52.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780014</codbib>
+      <autore1>Lancellotti S.</autore1>
+      <titolo1>Lo hoggidì ovvero il mondo non peggiore né più calamitoso del passato.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1673</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070047</codbib>
+      <autore1>Buoni G.A.</autore1>
+      <titolo1>Del terremoto, dialogo di I.A.Buoni medico ferrarese distinto in quattro giornate.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1571</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090051</codbib>
+      <autore1>Palmieri Matteo</autore1>
+      <titolo1>Liber de temporibus [-1448] (sec.XV), ed. G.Scaramella, in "Rerum Italicarum Scriptores", 2ª ed., tomo 26, parte 1.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1906 - 1915</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090073</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales S.Martini Tornacensis [449-1099] (sec.XII), ed. O.Holder-Egger, in "Monumenta Germaniae Historica", SS., tomo 15, parte 2, pp.1295-1297.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090086</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Parchenses, ed. G.H.Pertz, "Monumenta Germaniae Historica", SS., tomo 16.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1859</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090087</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Marchianenses, ed. L.Bethmann, "Monumenta Germaniae Historica", SS., tomo 16.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1859</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090088</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Floreffienses [1-1482] (sec.XV), ed. D.L.Bethmann, in "Monumenta Germaniae Historica", SS., tomo 16, pp.618-631.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1859</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090089</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Sancti Iacobi Leodiensis minores [1-1393], ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 16, pp.632-645.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1859</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090163</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Elnonenses Maiores [534-1223] (sec.XIII), ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS., tomo 5, pp.10-17.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090164</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Blandinienses [1-1292] (sec.XIV), ed. D.L.Bethmann, in "Monumenta Germaniae Historica", SS., tomo 5, pp.20-34.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090194</codbib>
+      <autore1>Honorius Augustodunensis</autore1>
+      <titolo1>Summa totius [726-1133] (sec.XII) [excerpta], ed. R.Wilmans, in "Monumenta Germaniae Historica", SS., tomo 10, pp.125-131.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1852</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160059</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Note storiche su terremoti, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.209-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380001</codbib>
+      <autore1>Borsatti D. G.</autore1>
+      <titolo1>Malcesine. Storia, illustrazioni, documenti.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1929</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410063</codbib>
+      <autore1>Ghirardacci C.</autore1>
+      <titolo1>Historia di Bologna, 2 voll. (ristampa anastatica, Sala Bolognese 1973).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1596 - 1657</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510012</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Marciana di Venezia, Manoscritti Latini, Fondo Antico, Z.402 (=1734), Cronaca veneziana dalle origini fino all’elezione di Michele Steno, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>031591.00</nloc_cfti>
+      <desloc_cfti>Sauris di Sotto</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>46.4658</lat_wgs84>
+      <lon_wgs84>12.7081</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu avvertita da tutti; in alcuni muri si aprirono fenditure $(000004,001321)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

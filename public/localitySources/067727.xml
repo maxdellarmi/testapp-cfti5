@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067727</nloc_cfti>
+      <desloc_cfti>San Giovanni Bosco (Sorbo)</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>37.6564</lat_wgs84>
+      <lon_wgs84>15.1613</lon_wgs84>
+      <notesito>Già Sorbo, assunse la denominazione attuale nella seconda metà del Novecento.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa fu molto forte; i danneggiati ai quali venne concesso un sussidio furono, secondo la documentazione ufficiale, 2 $(145509)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24085</nterr>
+      <nperiod>003033</nperiod>
+      <datanum>19111015</datanum>
+      <data_label>1911 10 15</data_label>
+      <anno>1911</anno>
+      <mese>10</mese>
+      <giorno>15</giorno>
+      <time_label>08:52:21</time_label>
+      <ora>08</ora>
+      <minu>52</minu>
+      <sec>21</sec>
+      <lat>37.7027</lat>
+      <lon>15.1529</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>48</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò danni rilevanti in 3 abitazioni, come risultò dalla perizia dell’Ufficio Tecnico del Comune di Acireale $(145125)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145125</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Acireale, Ufficio Tecnico, 1912, b.9, Rimesso dell’elenco delle persone danneggiate dal terremoto del 15 ottobre 1911.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1911</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145509</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Registro dei sussidî da corrispondersi ai danneggiati dal terremoto 8 Maggio 1914, II.a distribuzione.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

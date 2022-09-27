@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072575.00</nloc_cfti>
+      <desloc_cfti>Barcola</desloc_cfti>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>2.5</maxint>
+      <lat_wgs84>45.6816</lat_wgs84>
+      <lon_wgs84>13.7555</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21142</nterr>
+      <nperiod>003219</nperiod>
+      <datanum>19080710</datanum>
+      <data_label>1908 07 10</data_label>
+      <anno>1908</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:13:35</time_label>
+      <ora>02</ora>
+      <minu>13</minu>
+      <sec>35</sec>
+      <lat>46.4655</lat>
+      <lon>13.1904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>120</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>La scossa fu avvertita leggermente $(000018)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000018</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1908, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.15 (1911).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

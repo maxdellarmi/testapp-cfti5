@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>047398.00</nloc_cfti>
+      <desloc_cfti>Pratovecchio</desloc_cfti>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>14</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.7887</lat_wgs84>
+      <lon_wgs84>11.7215</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Questa località fu inserita nell’elenco ufficiale dei comuni colpiti dai terremoti del 2 dicembre 1917 e 10 novembre 1918 $(671193)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01644</nterr>
+      <nperiod>002035</nperiod>
+      <datanum>17290623</datanum>
+      <data_label>1729 06 23</data_label>
+      <anno>1729</anno>
+      <mese>06</mese>
+      <giorno>23</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.774</lat>
+      <lon>11.7045</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>7</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Casentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33599</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560526</datanum>
+      <data_label>1956 05 26</data_label>
+      <anno>1956</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9392</lat>
+      <lon>11.8962</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 26 maggio 1956 fu avvertita fortemente $(092007)$.&lt;br&gt;Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 3 giugno 1956, la località è nell’area del III grado MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(092053)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29794</nterr>
+      <nperiod>002082</nperiod>
+      <datanum>19290718</datanum>
+      <data_label>1929 07 18</data_label>
+      <anno>1929</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>21:01:58</time_label>
+      <ora>21</ora>
+      <minu>01</minu>
+      <sec>58</sec>
+      <lat>43.9892</lat>
+      <lon>11.5071</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>57</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33588</nterr>
+      <nperiod>002089</nperiod>
+      <datanum>19560426</datanum>
+      <data_label>1956 04 26</data_label>
+      <anno>1956</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>03:00:03</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>03</sec>
+      <lat>44.2047</lat>
+      <lon>11.3329</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>75</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34402</nterr>
+      <nperiod>002092</nperiod>
+      <datanum>19601029</datanum>
+      <data_label>1960 10 29</data_label>
+      <anno>1960</anno>
+      <mese>10</mese>
+      <giorno>29</giorno>
+      <time_label>00:08:39</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>39</sec>
+      <lat>43.9994</lat>
+      <lon>11.3851</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33186</nterr>
+      <nperiod>003276</nperiod>
+      <datanum>19520704</datanum>
+      <data_label>1952 07 04</data_label>
+      <anno>1952</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>20:35:12</time_label>
+      <ora>20</ora>
+      <minu>35</minu>
+      <sec>12</sec>
+      <lat>43.981</lat>
+      <lon>11.8821</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>64</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 4 luglio 1952, la località è nell’area del III grado della scala MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33610</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560603</datanum>
+      <data_label>1956 06 03</data_label>
+      <anno>1956</anno>
+      <mese>06</mese>
+      <giorno>03</giorno>
+      <time_label>01:45:57</time_label>
+      <ora>01</ora>
+      <minu>45</minu>
+      <sec>57</sec>
+      <lat>44.0037</lat>
+      <lon>11.8752</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 26 maggio 1956 fu avvertita fortemente $(092007)$.&lt;br&gt;Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 3 giugno 1956, la località è nell’area del III grado MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32553</nterr>
+      <nperiod>003255</nperiod>
+      <datanum>19480613</datanum>
+      <data_label>1948 06 13</data_label>
+      <anno>1948</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>06:33:36</time_label>
+      <ora>06</ora>
+      <minu>33</minu>
+      <sec>36</sec>
+      <lat>43.5823</lat>
+      <lon>12.1401</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>144</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Il terremoto fu leggerissimo e fu sentito solo da qualche persona $(143819)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 29 giugno 1919 colpì un patrimonio edilzio già indebolito dal precedente terremoto del 10 novembre 1918. La scossa danneggiò quasi tutte le case, alcune crollarono e altre furono rese inabitabili. Crollarono parte del tetto e la scala interna dell’albergo Spigliantini; la casa comunale fu molto lesionata; nella stazione ferroviaria fu danneggiato gravemente un tramezzo del primo piano e si urtarono tra loro i vagoni fermi sui binari. Nell’abitato accentrato non vi furono vittime; invece nelle frazioni del comune morì una persona e ci furono diversi feriti. La replica dell’8 luglio, avvenuta circa alle ore 8 locali, fu avvertita da alcuni boscaioli che si trovavano nelle foreste casentinesi $(020002,020003,020014,020015,020020,020022,020027,030097,671154,190144)$. Dati relativi all’intero comune di Pratovecchio attestano che il 50% degli edifici subì danni e che ci furono 350 senzatetto $(661077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020002</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1919.06.30, a.61, n.181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.06.30, a.14, n.160.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.07.01, a.14, n.175.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.01, a.14, n.161.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020020</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Unità Cattolica, 1919.07.01-02, a.57, n.149 [bis].</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.02, a.14, n.162.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.07.03, a.14, n.177.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Tempo, 1919.07.01.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671154</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1919, Telegrammi in arrivo dal 28 giugno al 12 luglio, n.11934, Telegramma del sottosegretario alla Giustizia La Pegna al presidente del Consiglio dei ministri Nitti, Pratovecchio 1 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Manoscritti, Giovanni Agamennone, Itinerario per il viaggio in Toscana dal 1.o al 18 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, Ufficio speciale per il terremoto tosco-romagnolo, fasc.629, Minuta dell’elenco dei comuni danneggiati dal terremoto del 29 giugno 1919 trasmessa dall’ispettore superiore del VII compartimento del Genio civile M.Perilli alla Direzione generale dei Servizi speciali del Ministero dei Lavori pubblici, Santa Sofia 23 settembre 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092053</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1895.05.21, a.37, n.141, 1ª ed. (del mattino).</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092007</codbib>
+      <autore1>De Panfilis M.</autore1>
+      <titolo1>Attività sismica in Italia dal 1953 al 1957, in "Annali di Geofisica", vol.12, pp.21-148.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671193</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino ufficiale del Ministero dei Lavori Pubblici, a.20 (1919), parte prima e seconda (Leggi, decreti, circolari, comunicazioni e disposizioni sul personale), Decreto ministeriale 27 giugno 1919 che approva l’elenco di alcuni Comuni colpiti dai terremoti del 2 dicembre 1917 e del 10 dicembre 1918.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143819</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 giugno 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Pratovecchio 21 giugno 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

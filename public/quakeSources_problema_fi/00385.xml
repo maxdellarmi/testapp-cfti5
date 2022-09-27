@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00385</nterr>
+      <nperiod>000055</nperiod>
+      <datanum>14330504</datanum>
+      <data_label>1433 05 04</data_label>
+      <anno>1433</anno>
+      <mese>05</mese>
+      <giorno>04</giorno>
+      <time_label>08:05</time_label>
+      <ora>08</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>44.4986</lat>
+      <lon>11.3396</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 4 maggio 1433 poco prima delle 8:05 GMT (prima delle 13 in orario "all’italiana") un forte terremoto colpì Bologna. Nelle fonti coeve il terremoto è definito "grande"; seri danni, non meglio precisati, agli edifici della città sono riportati solo da fonti di poco successive (seconda metà del XV e del XVI secolo). Questo terremoto fu sentito in un’area piuttosto estesa, comprendente Forlì, dove fu sentito dalla popolazione, Firenze, dove fu di media intensità, e Lucca.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>130686</codbib>
+      <autore1>Guidoboni E.</autore1>
+      <titolo1>Effetti dei terremoti a Bologna dal Trecento al Seicento, in "Bologna, vol.3, Da una crisi all’altra (secoli XIV-XVII)", Atlante storico delle città italiane. Emilia-Romagna 2, a cura di R.Dondarini e C.De Angelis, pp.97-100.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1997</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350089</codbib>
+      <autore1>Guidi P.</autore1>
+      <titolo1>I terremoti lucchesi (anni 1112-1915), Pubblicazioni dell’Osservatorio Ximeniano dei PP. Scolopi, n.120.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350183</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Centrale di Firenze, Manoscritti, Fondo Magliabechiano, VIII, 1488, Ricordi di gran freddi e gran caldi, dovizie e carestie, infermità, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385744</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bazzano, Archivio dei vicariati e del capitanato di Bazzano (1433).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1433</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385745</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bazzano, Vicariato di Piumazzo (1433).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1433</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385755</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 81, n.6, Bolognino dalla Marcanzia, Cronaca di Bologna scritta dall’anno 1238 [1221] al 1443, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385757</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1439, Fileno delle Tuate, Historia di Bologna [origini-1511], 3 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385840</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.2147, Varie notizie storiche di Bologna [1222-1637], sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385842</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.1140, n.1, Ristretto della seconda parte della cronica manoscritta circa li successi di Bologna dall’anno 1403 sino all’anno [1530], sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385845</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 583, Istoria di Bologna dal 423 al 1454, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385850</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1438, Fileno delle Tuate, Sustanziosa narratione dell’origine della città di Bologna e suo vario stato dall’anno 305 sino all’anno 1521, secc.XV-XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec. - XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385852</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 584, Cristoforo Saraceni, Cronaca di fatti occorsi in Bologna dal 158 della nascita di Nostro Signore fino al 1619, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385856</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 429, Lorenzo Cattani, Croniche della città di Bologna dall’anno 423 al 1458, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385859</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca del Convento di S.Francesco di Bologna, Manoscritti, 35, Giovan Battista e Giangaleazzo Bottrigari, Ricordi [700-1554], sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385861</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti, gamma.P.1.17, n.3, Nicolò Sechadinar, Summario de una cronicha delle cose di Bologna, sec.XVI-XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec. - XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385877</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti, gamma.P.1.17, n.1, Summario de una Cronicha delle cose di Bologna (305-1496), secc.XVI-XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec. - XVII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385881</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Demaniale, San Salvatore, 263/2710, Nicolò e Giacomo Sanuti, Ricordi (1397-1480).</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385885</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.2126, n.1, Vincenzo Gengini, Cronica (1288-1464), copia sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385888</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.2514, Giovanni Ghiselli, Cronica di Bologna (423-1488), copia sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385889</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 932, Antonio di Francesco Luna, Cronica (1140-1487), copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090037</codbib>
+      <autore1>Hieronymus de Flochis</autore1>
+      <titolo1>Chronicon fratris Hieronymi de Forlivio ab anno 1397 ad annum 1433, ed. A.Pasini, in "Rerum Italicarum Scriptores", 2ª ed., tomo 19, parte 5.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1931</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090042</codbib>
+      <autore1>Albertucci de’ Borselli Girolamo</autore1>
+      <titolo1>Cronica gestorum ac factorum memorabilium civitatis Bononie (ab urbe condita ad a.1497) con la continuazione di V.Spargiati (1498-1584), ed. A.Sorbelli, in "Rerum Italicarum Scriptores", 2ª ed., tomo 23, parte 2.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1911 - 1929</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090058</codbib>
+      <autore1>Ghirardacci C.</autore1>
+      <titolo1>Della historia di Bologna. Parte terza, ed. A.Sorbelli, in "Rerum Italicarum Scriptores", 2ª ed., tomo 33, parte 1 e 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1912 - 1932</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Varignana (Cronaca B) [-1471], in Corpus chronicorum Bononiensum, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091388</codbib>
+      <autore1>Guidoboni E. e Ciuccarelli C.</autore1>
+      <titolo1>Terremoti medievali: XII-XV secolo, in E.Boschi e E.Guidoboni, "I terremoti a Bologna e nel suo territorio dal XII al XX secolo", pp.21-49.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092003</codbib>
+      <autore1>Guarini F.</autore1>
+      <titolo1>I terremoti a Forlì in varie epoche.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095277</codbib>
+      <autore1>Camassi R. e Molin D. (a cura di)</autore1>
+      <titolo1>I terremoti bolognesi del 1929, Comune di Bologna ­ Assessorato all’Ambiente e Territorio.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095299</codbib>
+      <autore1>Quaquarelli L. (a cura di)</autore1>
+      <titolo1>Memoria Urbis, vol.1 (Censimento delle Cronache bolognesi del Medioevo e del Rinascimento).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096049</codbib>
+      <autore1>Riva P., Perotti F., Guidoboni E. e Boschi E.</autore1>
+      <titolo1>Seismic analysis of the Asinelli Tower and earthquakes in Bologna, in "Soil Dynamics and Earthquake Engineering", vol.17 (1998), pp.525-550.</titolo1>
+      <luogoed>Southampton</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385892</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti Malvezzi, cart.49, Memorie del monastero di San Michele in Bosco dal 1418 al 1663, secc.XV-XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec. - XVII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385895</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 356, n.2, Cronichetta di Bologna (226-1530), copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385897</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1973, I, 34, Croniche pertinenti al convento di San Gioseffo fuori della porta Saragozza (1271-1649), sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390981</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Comune, Governo, Diritti e oneri del Comune, Indice del registro "Grosso" e "Nuovo" (1215-1453).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1215 - 1453</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390986</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Demaniale, S.Maria di Monteveglio, 1/454 (1225-1460).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1225 - 1460</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390990</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Comune, Governo, Signorie viscontea, ecclesiastica e bentivolesca, Libri dei banditori, reg.1 (1392-1458).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1392 - 1458</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390993</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Comune, Uffici a competenza specifica, Ufficio dei fortilizi e di munizione dei castelli, b.4 (1378-1477).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1378 - 1477</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390994</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Comune, Uffici a competenza specifica, Massari del contado, b.1 (secc.XIV-XV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec. - XV sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390996</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Demaniale, S.Lucia di Roffeno, 1/497 (1392-1566).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1392 - 1566</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>390998</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Comune, Governo, Signorie viscontea, ecclesiastica e bentivolesca, Liber Fantaccini (sec.XV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Raccolta Piancastelli, O.IV.18, Cronaca Albertina, Miscellanea di cronache dei secc.XIV-XVI raccolte e copiate da B.Albicini (1720), copia A.Balducci 1807-1808.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1807 - 1808</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410007</codbib>
+      <autore1>Muzzi S.</autore1>
+      <titolo1>Annali della città di Bologna dalla sua origine al 1796, 8 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1840 - 1846</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410037</codbib>
+      <autore1>Guidicini G.</autore1>
+      <titolo1>Miscellanea storico-patria bolognese (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1872</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410041</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 770, Antonio Francesco Ghiselli, Memorie antiche manuscritte di Bologna, raccolte, et accresciute sino à tempi presenti [origini-1729], 93 voll. + 2 di indici, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.2355, Alamanno Bianchetti, Cronica delle cose spettanti alla città di Bologna [origini-1576], sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 294, Cronaca di Bologna di Marco Antonio Bianchini (700-1513) con aggiunte dal 18 agosto 1559 al 16 novembre 1560, secc.XV-XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec. - XVI sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410070</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1409, Istoria di Bologna dall’An[no] di N[ost]ro Sig[no]re 1260 fino al 1453, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410107</codbib>
+      <autore1>Faleoni C.</autore1>
+      <titolo1>Memorie historiche della Chiesa Bolognese e suoi pastori, libri VI.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1649</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Alcune date di terremoti in Modena, in "Il Muratori", n.140 (21 maggio 1873).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1873</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745857</codbib>
+      <autore1>Sigonio C.</autore1>
+      <titolo1>De episcopis Bononiensibus libri quinque [270-1566].</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1586</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00385</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>00385</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Forlì</desloc>
+      <lat_wgs84>44.2174</lat_wgs84>
+      <lon_wgs84>12.049</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>00385</nterr>
+      <nloc_cfti>041710.00</nloc_cfti>
+      <desloc_cfti>Forlì</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Lucca</desloc>
+      <lat_wgs84>43.8438</lat_wgs84>
+      <lon_wgs84>10.5049</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>00385</nterr>
+      <nloc_cfti>043402.00</nloc_cfti>
+      <desloc_cfti>Lucca</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

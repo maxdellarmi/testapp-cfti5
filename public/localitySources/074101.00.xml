@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074101.00</nloc_cfti>
+      <desloc_cfti>Castel Montecchio</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>45.6613</lat_wgs84>
+      <lon_wgs84>9.9351</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01025</nterr>
+      <nperiod>000756</nperiod>
+      <datanum>16610312</datanum>
+      <data_label>1661 03 12</data_label>
+      <anno>1661</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.6552</lat>
+      <lon>9.9815</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò il crollo del refettorio del convento, provocando la morte di 2 persone $(480280)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>480280</codbib>
+      <autore1>Calvi D.</autore1>
+      <titolo1>Effemeride sagro-profana di quanto di memorabile sia successo in Bergamo, sua diocese, et territorio da suoi principij sin’al corrente Anno, 3 voll.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1676 - 1677</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

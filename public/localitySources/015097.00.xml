@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>015097.00</nloc_cfti>
+      <desloc_cfti>Piazza Brembana</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.9487</lat_wgs84>
+      <lon_wgs84>9.6711</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40471</nterr>
+      <nperiod>003349</nperiod>
+      <datanum>19790209</datanum>
+      <data_label>1979 02 09</data_label>
+      <anno>1979</anno>
+      <mese>02</mese>
+      <giorno>09</giorno>
+      <time_label>14:44:16</time_label>
+      <ora>14</ora>
+      <minu>44</minu>
+      <sec>16</sec>
+      <lat>45.6378</lat>
+      <lon>9.5543</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>73</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Media valle dell’Adda</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(385676)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20434</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>04:52</time_label>
+      <ora>04</ora>
+      <minu>52</minu>
+      <sec>-9</sec>
+      <lat>45.3184</lat>
+      <lon>11.0727</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>122</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26551</nterr>
+      <nperiod>003348</nperiod>
+      <datanum>19180424</datanum>
+      <data_label>1918 04 24</data_label>
+      <anno>1918</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>14:21:49</time_label>
+      <ora>14</ora>
+      <minu>21</minu>
+      <sec>49</sec>
+      <lat>45.7794</lat>
+      <lon>9.6043</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Lecchese-Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>385676</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Piazza Brembana settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

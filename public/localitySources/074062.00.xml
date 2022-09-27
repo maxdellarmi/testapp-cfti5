@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074062.00</nloc_cfti>
+      <desloc_cfti>Vetranola</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>42.6465</lat_wgs84>
+      <lon_wgs84>12.9241</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00169</nterr>
+      <nperiod>003061</nperiod>
+      <datanum>12981201</datanum>
+      <data_label>1298 12 01</data_label>
+      <anno>1298</anno>
+      <mese>12</mese>
+      <giorno>01</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.5743</lat>
+      <lon>12.9061</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>5</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045663.00</nloc_cfti>
+      <desloc_cfti>Convento del Bosco ai Frati</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9862</lat_wgs84>
+      <lon_wgs84>11.3037</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 29 giugno 1919 danneggiò la chiesa e il campanile del convento francescano di S.Bonaventura; una casa colonica fu resa pericolante $(190144,681199)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò gravissimi danni alla chiesa, dove cadde una trave sulle braccia di un crocefisso $(130413)$. Danni anche agli edifici vicini; dal campanile cadde la campana, che non si ruppe. Non sono ricordate vittime $(030110)$. La rovina del convento è confermata da un’altra fonte $(350117)$. Una descrizione accurata dei danni si trova nella "Relazione" di fra Giuliano Ughi, redatta alcuni mesi dopo $(350028)$, che ricorda la spaccatura del campanile, da cui cadde la campana; il crollo del dormitorio, del refettorio e dei tramezzi delle celle; la caduta di tutti i camini, di tre cavalletti del tetto del dormitorio sopra la sacrestia e gravi fenditure nelle volte della chiesa, che tuttavia resistettero in precario equilibrio per un anno e furono poi riparate ma non ricostruite. Si ricorda anche che il "crocefisso grande" cadde sull’armadio dei libri distante circa 4,5 m (8 braccia). Le spese di riparazione del convento ammontarono a 120 ducati d’oro. La descrizione dei danni al convento è ripresa in sintesi nella "Cronica" dello stesso Ughi $(350021)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130413</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Corporazioni Religiose (Patrimonio Ecclesiastico), vol.270 F, cc.98-99, Resoconto del padre S.Vongeschi di Cutigliano sul terremoto del Mugello del 13 giugno 1542, giugno 1542.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Una lettera de la discriptione del Terremotto che è stato in Toscana, la qual narra particolarmente tutte le terre che son ruinate &amp; le persone morte, &amp; li fuochi apparsi in aere, &amp; la terra ap[er]ta, &amp; de un Lago fatto di acqua spuzolente di Solfere, la quantità, e il numero delle Case ruinate le qualcose furno a dì III Luio MDXXXXII.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Carte Strozziane, serie I, 353, cc.104-105, Nota d’un Tremoto venuto nel Mugello sotto dì 12 di giugno lo anno 1542, e le rovine da quello fatte.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350028</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 167, Giuliano dalla Cavallina, Relazione sui danni al Convento del Bosco ai Frati causati dal terremoto del 13 giugno 1542, sec.XVI, copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350021</codbib>
+      <autore1>Ughi G.</autore1>
+      <titolo1>Cronica di Firenze dal 1501 al 1546, in "Archivio Storico Italiano", ed. P.Frediani, vol.7.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1849</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Manoscritti, Giovanni Agamennone, Itinerario per il viaggio in Toscana dal 1.o al 18 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>681199</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Piero a Sieve, Carteggio e affari comunali, 625, categoria XV, classe IV, Terremoto del 1919, Visite alle case pericolanti, Elenco di case danneggiate nel comune di San Piero a Sieve, 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

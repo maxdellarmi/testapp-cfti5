@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058914.00</nloc_cfti>
+      <desloc_cfti>Calvi Vecchia</desloc_cfti>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>41.2033</lat_wgs84>
+      <lon_wgs84>14.1374</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò lesioni non gravi nel Seminario; disponendo di informazioni relative a questo solo edificio si presume che la scossa abbia avuto una intensità del VI grado MCS $(635027)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>B0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5327</lat>
+      <lon>14.508</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>89</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Area di Isernia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>220002</codbib>
+      <autore1>Tummolillo Angelo</autore1>
+      <titolo1>Notabilia temporum di Angelo de Tummulillis da Sant’Elia, ed. C.Corvisieri, in "Fonti per la storia d’Italia" (Scrittori secolo XV), vol.7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1890</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Registra Vaticana, vol.447, c.123v, Privilegio del papa Callisto III a favore della chiesa cattedrale di Calvi, Roma 23 aprile 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.9, Lettera del vescovo di Calvi e Teano Albino Pella al segretario di Stato cardinale Gasparri, Teano 6 febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

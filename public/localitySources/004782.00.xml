@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>004782.00</nloc_cfti>
+      <desloc_cfti>Pallanza</desloc_cfti>
+      <provlet>VB</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.9291</lat_wgs84>
+      <lon_wgs84>8.552</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto fu di moderata entità e venne avvertito maggiormente dalle persone nei pressi della spiaggia $(092133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa fu avvertita da pochissime persone che si trovavano a letto nei piani superiori delle case $(385582)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34256</nterr>
+      <nperiod>003231</nperiod>
+      <datanum>19600323</datanum>
+      <data_label>1960 03 23</data_label>
+      <anno>1960</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>23:08:49</time_label>
+      <ora>23</ora>
+      <minu>08</minu>
+      <sec>49</sec>
+      <lat>46.3473</lat>
+      <lon>7.9799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>179</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>In seguito alla scossa alcune persone uscirono dalle abitazioni in preda al panico $(672840)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672840</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1960.03.24, a.94, n.72.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1960</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385582</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Pallanza 21 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

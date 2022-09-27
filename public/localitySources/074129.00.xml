@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074129.00</nloc_cfti>
+      <desloc_cfti>Pantoliano</desloc_cfti>
+      <provlet>SA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.4706</lat_wgs84>
+      <lon_wgs84>15.2735</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00725</nterr>
+      <nperiod>003076</nperiod>
+      <datanum>15610819</datanum>
+      <data_label>1561 08 19</data_label>
+      <anno>1561</anno>
+      <mese>08</mese>
+      <giorno>19</giorno>
+      <time_label>14:10</time_label>
+      <ora>14</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>40.5135</lat>
+      <lon>15.4915</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>32</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Vallo di Diano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 19 agosto causò il crollo di circa 20 case e la morte di 8 persone $(130390)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca della Società Napoletana di Storia Patria, Fondo sismico, 7/A3, Colanello Pacca, Discorso del terremoto, 1563-1580.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1563 - 1580</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

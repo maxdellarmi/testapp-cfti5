@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>09332</nterr>
+      <nperiod>002067</nperiod>
+      <datanum>18690926</datanum>
+      <data_label>1869 09 26</data_label>
+      <anno>1869</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.4539</lat>
+      <lon>11.1053</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>9</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle dell’Elsa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata su Baratta (1901) $(000001)$ e sul catalogo inedito di Peronaci (1974) $(130464)$. Le fonti remote di Baratta sono costituite da due cataloghi di Perrey (1873 $(092004)$, 1875 $(050826)$) $(092004,050826)$ e da una lista di terremoti pubblicata dal periodico scientifico "Cosmos" (1869) $(925000)$. È stata condotta una ricerca sulla documentazione amministrativa presso l’Archivio Storico Comunale di San Gimignano: nel fondo Affari (1869) sono state reperite 4 lettere, 3 delle quali indirizzate al sindaco del comune di San Gimignano e una al responsabile dell’Educatorio di Santa Chiara, che attestano danni alla Collegiata di San Gimignano e alla parrocchia di Libbiano $(775053,775054)$.&lt;br&gt;È stata inoltre estesa una ricerca a periodici coevi di cui sono state utilizzate 3 corrispondenze afferenti a 2 testate $(775057,775058,775059)$. Riferimenti generici a questo evento sono contenuti anche nei cataloghi di Mercalli (1883) $(000002)$ e di Benucci (1986) $(090416)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 26 settembre 1869 alle ore 20:45 GMT e colpì la Toscana centrale, in particolare i paesi della valle del fiume Elsa. Gli effetti maggiori furono riscontrati a San Gimignano, dove 2 case subirono crolli, furono gravemente danneggiate le carceri, il conservatorio di Santa Chiara, la chiesa della Madonna dei Lumi e la chiesa di Sant’Agostino. A Siena, Colle Val d’Elsa e Poggibonsi le scosse causarono la caduta di qualche fumaiolo. A Libbiano fu danneggiata la chiesa parrocchiale. La scossa fu avvertita anche a Firenze.&lt;br&gt;Nelle località più colpite furono avvertite varie repliche la notte del 26 settembre e la mattina del 29 settembre.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale del 26 settembre 1869 delle ore 20:45 GMT fu preceduta da una scossa leggera alle ore 17:25 GMT circa. Seguirono nella notte successiva numerose repliche di forte intensità. Scosse più leggere furono avvertite il giorno 27, 28 e il periodo sismico si protrasse fino al 29 settembre.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>La scossa principale del 26 settembre 1869, delle ore 20:45 GMT, preceduta da una scossa leggera alle ore 17:25 GMT e seguita nella notte da forti repliche, fu avvertita a Siena Castelfiorentino, San Gimignano, Libbiano, Certaldo, Colle Val d’Elsa, Poggibonsi, Volterra e Firenze $(092004,925000)$.&lt;br&gt;Il giorno 27 settembre alle 2:05 GMT furono avvertite 2 leggere repliche a Siena $(050826)$.&lt;br&gt;Il giorno 28 settembre fu avvertita 1 leggera scossa a Siena alle ore 2:15 GMT $(092004,050826)$.&lt;br&gt;Il giorno 29 settembre furono avvertite 5 scosse ravvicinate a San Gimignano alle ore 1:00 GMT e 1 scossa di forte intensità a San Gimignano alle ore 9:00 $(092004)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050826</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1870, avec supplément pour 1869, in "Mémoires Couronnés et autres Mémoires publiés par l’Académie Royale des Sciences, des Lettres et des Beaux-Arts de Belgique", tomo 24.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1875</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090416</codbib>
+      <autore1>Benucci V.</autore1>
+      <titolo1>Notizie relative ai terremoti dal 1294 al 1900 del territorio senese, in Id., "Siena città di terremoti? Rispondono la storia, la letteratura e la scienza", pp.216-223.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092004</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Notes sur les tremblements de terre en 1869, avec suppléments pour les années antérieures, de 1843 à 1868, in "Mémoires Couronnés et autres Mémoires publiés par l’Académie Royale des Sciences, des Lettres et des Beaux-Arts de Belgique", tomo 22.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1873</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Affari (1869), serie III, n.81, Lettera del subeconomo della diocesi di Colle Val d’Elsa M.Dini al sindaco di San Gimignano relativa ai danni causati dal terremoto del 26 settembre 1869 alla chiesa Collegiata di San Gimignano, Colle Val d’Elsa 6 novembre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Affari (1869), serie III, n.81, Lettera del subeconomo della diocesi di Volterra L.Marchi al sindaco di San Gimignano relativa ai danni causati dal terremoto del 26 settembre 1869 alla chiesa di San Pietro di Libbiano, Volterra 18 novembre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Affari (1869), serie III, n.80, Lettera della Prefettura di Siena al sindaco di San Gimignano relativa ai danni causati dal terremoto del 26 settembre 1869 alla chiesa di San Pietro di Libbiano, Siena 14 ottobre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775056</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Monastero e Conservatorio di Santa Chiara, Carteggio (1867-1873), n.75, Lettera del Ministero della Pubblica Istruzione relativa ai danni causati dal terremoto del 26 settembre 1869 all’educatorio di Santa Chiara di San Gimignano, Firenze 7 ottobre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775057</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1869.09.28.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1869</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775058</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1869.09.29.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1869</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Popolo di Firenze, 1869.09.29.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1869</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>925000</codbib>
+      <autore1>*</autore1>
+      <titolo1>Tremblement de terre en Italie, in "Cosmos. Revue Encyclopédique Hebdomadaire des Progrès des Sciences", s.III, tomo 5, p.417.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1869</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>San Gimignano</desloc>
+      <lat_wgs84>43.4679</lat_wgs84>
+      <lon_wgs84>11.0429</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>047897.00</nloc_cfti>
+      <desloc_cfti>San Gimignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di fumaioli e danni alla maggior parte delle abitazioni, soprattutto a quelle situate nella parte NO dell’abitato. Due case crollarono. Furono gravemente danneggiate le carceri, il Monastero e Conservatorio di Santa Chiara, la chiesa di Sant’Agostino situata a sud del paese e la chiesa della Madonna dei Lumi a est. Tutti gli abitanti fuggirono dalle case $(775053,775056,775057,775058,775059,092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Libbiano</desloc>
+      <lat_wgs84>43.4793</lat_wgs84>
+      <lon_wgs84>10.9838</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>072719.00</nloc_cfti>
+      <desloc_cfti>Libbiano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò danni considerevoli alla chiesa parrocchiale di San Pietro e alla canonica annessa $(775054,775055)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Colle di Val d'Elsa</desloc>
+      <lat_wgs84>43.423</lat_wgs84>
+      <lon_wgs84>11.1268</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>047638.00</nloc_cfti>
+      <desloc_cfti>Colle di Val d’Elsa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortemente avvertita e causò la caduta di diversi fumaioli. Nella notte furono avvertite forti repliche che nei giorni seguenti divennero più lievi $(775057,775058,775059,092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Poggibonsi</desloc>
+      <lat_wgs84>43.4707</lat_wgs84>
+      <lon_wgs84>11.1461</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>047810.00</nloc_cfti>
+      <desloc_cfti>Poggibonsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di diversi fumaioli. $(775057,775058,775059)$. Essa fu seguita nella notte da forti repliche che nei giorni seguenti divennero più leggere $(092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(092004,925000)$. Alcuni edifici subirono danni, e caddero diversi fumaioli $(775057,775058,775059)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Certaldo</desloc>
+      <lat_wgs84>43.5478</lat_wgs84>
+      <lon_wgs84>11.0407</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>044885.00</nloc_cfti>
+      <desloc_cfti>Certaldo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita violentemente e fu seguita nella notte da forti repliche che nei giorni seguenti divennero più leggere $(092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Castelfiorentino</desloc>
+      <lat_wgs84>43.6056</lat_wgs84>
+      <lon_wgs84>10.9695</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>044834.00</nloc_cfti>
+      <desloc_cfti>Castelfiorentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e fu seguita nella notte da forti repliche che nei giorni seguenti divennero più leggere $(092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Volterra</desloc>
+      <lat_wgs84>43.4027</lat_wgs84>
+      <lon_wgs84>10.8588</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>046586.00</nloc_cfti>
+      <desloc_cfti>Volterra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e fu seguita nei giorni seguenti da repliche leggere $(092004,925000)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>09332</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(775058,092004)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

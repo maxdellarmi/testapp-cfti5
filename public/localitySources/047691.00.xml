@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>047691.00</nloc_cfti>
+      <desloc_cfti>Montalcino</desloc_cfti>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>11</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.0582</lat_wgs84>
+      <lon_wgs84>11.4896</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24014</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:35:10</time_label>
+      <ora>22</ora>
+      <minu>35</minu>
+      <sec>10</sec>
+      <lat>43.5472</lat>
+      <lon>11.2433</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>13</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente. Causò ondulazione di letti, mobili e persone e vibrazione eccezionale di persone che si trovavano in stato di quiete ai piani terreni $(002062,092001,092080)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33569</nterr>
+      <nperiod>002088</nperiod>
+      <datanum>19560222</datanum>
+      <data_label>1956 02 22</data_label>
+      <anno>1956</anno>
+      <mese>02</mese>
+      <giorno>22</giorno>
+      <time_label>22:55:06</time_label>
+      <ora>22</ora>
+      <minu>55</minu>
+      <sec>06</sec>
+      <lat>43.3002</lat>
+      <lon>11.2775</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>29</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Senese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07160</nterr>
+      <nperiod>000920</nperiod>
+      <datanum>18460814</datanum>
+      <data_label>1846 08 14</data_label>
+      <anno>1846</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4708</lat>
+      <lon>10.5621</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>121</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(745563)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa del 29 giugno 1919 non fu avvertita $(095876)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(035061)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(235474)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Le scosse delle 0:22 e delle 0:30 GMT causarono lesioni non gravi in 5 case coloniche della campagna circostante $(000020,672912,672918)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745563</codbib>
+      <autore1>Savi P.</autore1>
+      <titolo1>Relazione de’ fenomeni presentati dai terremoti di Toscana dell’agosto 1846 e considerazioni teoretiche sopra i medesimi.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095876</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Montalcino luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, maggio 1895, n.115, Cartolina macrosismica relativa al terremoto del 18 maggio 1895 inviata dal sindaco di Montalcino all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montalcino 18 maggio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto fiorentino del 18 maggio 1895: nota preliminare.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092080</codbib>
+      <autore1>Bassani C.</autore1>
+      <titolo1>Prime ricerche sulla provenienza del terremoto di Firenze nella sera 18 maggio 1895, in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.15, pp.4-7, 25-32, 41-52, 63-70; vol.16, pp.12-22, 35-52, 72-88, 108-124; vol.17, pp.1-7, 17-24, 33-42, 49-60, 65-69, 81-88, 97-102; vol.18, pp.1-9, 17-24, 33-37, 49-59, 65-73; vol.19, pp.13-19, 32-35; vol.20, pp.14-20, 29-35, 45-50, 61-65; vol.21, pp.1-7, 22-28, 40-45, 55-63; vol.22, pp.24-28.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1895 - 1902</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672912</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1909.08.26, a.51, n.238.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672918</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1909.08.26, a.9, n.238.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035061</codbib>
+      <autore1>Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Il terremoto di Parma del novembre 1983, ENEA, RT/PAS/84/4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

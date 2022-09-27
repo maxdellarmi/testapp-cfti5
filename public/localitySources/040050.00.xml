@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040050.00</nloc_cfti>
+      <desloc_cfti>Mordano</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.3972</lat_wgs84>
+      <lon_wgs84>11.8125</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01103</nterr>
+      <nperiod>003083</nperiod>
+      <datanum>16880411</datanum>
+      <data_label>1688 04 11</data_label>
+      <anno>1688</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>12:20</time_label>
+      <ora>12</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.3911</lat>
+      <lon>11.9417</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>39</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni non gravi $(095058,095059)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuova, e vera relatione del Spaventoso, &amp; Orribile Terremoto seguito la Domenica delle Palme alli 11 d’Aprile 1688 in cui s’intende il gran danno apportato à molte Città, e Terre della Romagna alta, e bassa, e particolarmente à Cottignola, Russo, e Bagnacavallo.</titolo1>
+      <luogoed>Forlì-Modena-Reggio Emilia</luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuova, e vera relazione dello Spaventoso, &amp; Orribile Terremoto seguito li 11 Aprile 1688 nel Giorno delle Palme, cavata da una Lettera scritta da Forlì à Modona all’Eccellenza di donna Anna Teresa Rangoni.</titolo1>
+      <luogoed>Forlì-Ferrara</luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

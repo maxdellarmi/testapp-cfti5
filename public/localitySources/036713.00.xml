@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036713.00</nloc_cfti>
+      <desloc_cfti>Roccabianca</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>45.0089</lat_wgs84>
+      <lon_wgs84>10.2178</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15581</nterr>
+      <nperiod>000284</nperiod>
+      <datanum>18951220</datanum>
+      <data_label>1895 12 20</data_label>
+      <anno>1895</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>00:00</time_label>
+      <ora>00</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.0102</lat>
+      <lon>10.1903</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>2.5</io>
+      <imax>2.5</imax>
+      <npun>2</npun>
+      <mm>3.2</mm>
+      <earthquakelocation>Ragazzola (PR)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa danneggiò l’abitato causando crepe e in qualche caso distacco degli intonaci nelle pareti, caduta di qualche fumaiolo, lievi lesioni o aggravamento di lesioni preesistenti in case vecchie o in cattivo stato di conservazione $(035061)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035061</codbib>
+      <autore1>Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Il terremoto di Parma del novembre 1983, ENEA, RT/PAS/84/4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

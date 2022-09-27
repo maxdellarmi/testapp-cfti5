@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00163</nterr>
+      <nperiod>003241</nperiod>
+      <datanum>12940000</datanum>
+      <data_label>1294 - -</data_label>
+      <anno>1294</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.317</lat>
+      <lon>11.5</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Siena</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti edite e manoscritte. Baratta (1901) $(000001)$, fonte del Catalogo, riportò che nel 1294 la città di Siena fu atterrita da "spaventevoli terremoti", riprendendo la notizia da Soldani (1798) $(350022)$, che a sua volta si basò sulla segnalazione contenuta in un’opera del letterato senese Gigli (1716) $(395273)$. Gigli sostenne di aver tratto l’informazione dall’opera manoscritta dell’autore cinquecentesco Sigismondo Tizio. Già Soldani (1798) $(350022)$, che doveva avere controllato direttamente il riferimento di Gigli, affermò esplicitamente di non essere riuscito a leggere la notizia del "terremoto senese" nell’opera di Tizio; ciò nonostante accolse ugualmente la notizia.&lt;br&gt;Un controllo diretto eseguito sul manoscritto originale di Tizio, conservato presso la Biblioteca Apostolica Vaticana (Chigiani, G.I.31-35, G.II.36-40) $(092019)$, ha evidenziato che l’autore attestò soltanto il terremoto che colpì Pistoia nel 1294, inserendo l’informazione in una frase in cui diede notizia anche di un grave incendio accaduto a Siena. La prossimità delle due diverse informazioni è la probabile causa del fraintendimento di Gigli (1716) $(395273)$.&lt;br&gt;Nonostante le perplessità già espresse da Soldani (1798) $(350022)$, la notizia del "terremoto senese" è in seguito confluita nella tradizione dei cataloghi sismici attraverso Pilla (1846) $(630005)$, Mercalli (1883) $(000002)$ e Baratta (1901) $(000001)$.&lt;br&gt;In base ai risultati della revisione, il terremoto senese del 1294 risulta un errore di lettura del testo capostipite della tradizione storiografica. La recente bibliografia scientifica è pervenuta a queste stesse conclusioni (Castelli 1991 $(092194)$, 1993 $(095047)$). Pertanto l’evento è stato eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030754</codbib>
+      <autore1>Bardi G.</autore1>
+      <titolo1>Chronologia universale dalla creazione di Adamo sino al 1581, 4 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1581</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, G.I.31-35, G.II.36-40, Sigismondo Tizio, Historiarum Senensium [origini-1528], 10 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092194</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>La revisione dei maggiori terremoti medievali d’interesse per il territorio della Regione Toscana, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.47-58.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095047</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>A ‘cluster’ of earthquakes in the Apennines at the end of XIII century, in "Terra Nova", vol.5, pp.496-502.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395273</codbib>
+      <autore1>Gigli G.</autore1>
+      <titolo1>La città diletta di Maria.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1716</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

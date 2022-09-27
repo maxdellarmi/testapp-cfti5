@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>25172</nterr>
+      <nperiod>003221</nperiod>
+      <datanum>19150825</datanum>
+      <data_label>1915 08 25</data_label>
+      <anno>1915</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>02:12</time_label>
+      <ora>02</ora>
+      <minu>12</minu>
+      <sec>-9</sec>
+      <lat>46.1906</lat>
+      <lon>7.0339</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita dal catalogo parametrico di Eva et al. (1984) $(051295)$ ed è stata condotta una ricerca bibliografica. Sono stati utilizzati lo studio di Montandon (1942) $(052146)$, i cataloghi di Rothé (1938) $(050077)$, di Lambert et al. (1996) $(052185)$ e di Kárník (1968) $(081939)$. Il vaglio dei quotidiani italiani coevi (3 testate) non ha fornito alcuna notizia sull’evento $(130609,130610,130611)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 25 agosto 1915 alle ore 2:12 GMT e colpì la regione svizzera del Basso Vallese, al confine con la Francia. A Martigny caddero dei comignoli, ma non vi furono lesioni nei muri; nelle vicine località di Bex e Saint-Maurice e nell’area circostante, compresa in un raggio di 20-25 km, la scossa fu avvertita con minore intensità. Non vi furono segnalazioni di risentimento della scossa in Italia.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051295</codbib>
+      <autore1>Eva C., Capponi G., Cattaneo M. e Merlanti F.</autore1>
+      <titolo1>Catalogo dei terremoti per le Alpi Occidentali (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052185</codbib>
+      <autore1>Lambert J., Levret-Albaret A., Cushing M. e Durouchoux C.</autore1>
+      <titolo1>Mille ans de séismes en France. Catalogue d’épicentres paramètres et références, AFPS-BRGM-EDF-IPSN.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130609</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1915.08.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130610</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1915.08.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130611</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1915.08.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Martigny</desloc>
+      <lat_wgs84>46.1033</lat_wgs84>
+      <lon_wgs84>7.0746</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>25172</nterr>
+      <nloc_cfti>080316.00</nloc_cfti>
+      <desloc_cfti>Martigny</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di comignoli, ma non vi furono lesioni nei muri $(050077,052146)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bex</desloc>
+      <lat_wgs84>46.2546</lat_wgs84>
+      <lon_wgs84>7.0156</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25172</nterr>
+      <nloc_cfti>080297.00</nloc_cfti>
+      <desloc_cfti>Bex</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Montandon (1942) valutò l'intensità della scossa di V grado Mercalli $(052146)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Saint-Maurice</desloc>
+      <lat_wgs84>46.214</lat_wgs84>
+      <lon_wgs84>7.0116</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25172</nterr>
+      <nloc_cfti>080440.00</nloc_cfti>
+      <desloc_cfti>Saint-Maurice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Montandon (1942) valutò l'intensità della scossa di V grado Mercalli $(052146)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

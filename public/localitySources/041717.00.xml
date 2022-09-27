@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041717.00</nloc_cfti>
+      <desloc_cfti>Carpena</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.1858</lat_wgs84>
+      <lon_wgs84>12.0648</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23756</nterr>
+      <nperiod>003220</nperiod>
+      <datanum>19110219</datanum>
+      <data_label>1911 02 19</data_label>
+      <anno>1911</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>07:18:30</time_label>
+      <ora>07</ora>
+      <minu>18</minu>
+      <sec>30</sec>
+      <lat>44.118</lat>
+      <lon>12.0755</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>181</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fece crollare parte del tetto della chiesa senza causare danni alle persone $(395420)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395420</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Manoscritti, I/1-16, Filippo Guarini, Diario forlivese, 16 voll., secc.XIX-XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec. - XX sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00995</nterr>
+      <nperiod>003079</nperiod>
+      <datanum>16460531</datanum>
+      <data_label>1646 05 31</data_label>
+      <anno>1646</anno>
+      <mese>05</mese>
+      <giorno>31</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.874</lat>
+      <lon>15.9385</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>17</npun>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6.3</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo ed è stata svolta una ricerca bibliografica e archivistica. La ricerca archivistica è stata limitata alle fonti ecclesiastiche (Archivio Segreto Vaticano, Archivio della Cattedrale di Vieste e Biblioteca provinciale dei Cappuccini di Foggia). La documentazione più ricca di informazioni è costituita dalle relazioni vescovili conservate all’Archivio Segreto Vaticano: ne sono state analizzate 24 che descrivono lo stato materiale e morale delle diocesi di San Severo, Monte Sant’Angelo e Vieste dopo il terremoto. Questa documentazione è stata integrata da fonti memorialistiche e da studi storiografici.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>La preesistente povertà delle popolazioni residenti, per lo più costituite da pescatori e da pastori, impedì a lungo la ricostruzione dei centri abitati e degli edifici di culto, che ancora diverse decine di anni dopo l’evento risultavano in grave stato di degrado, come si evince dalle numerose relazioni che i vescovi mandavano alla sede pontificia (Archivio Segreto Vaticano, Relationes). Emarginazione e povertà crearono anche i presupposti per una assai scarsa circolazione di notizie su questo terremoto.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>L’abate G.B. Pacichelli $(310135)$ spiegava l’evento richiamando la teoria aristotelica dei venti, secondo la quale non avrebbe destato meraviglia che fosse avvenuto un terremoto nel Gargano, in considerazione dei monti e delle numerose caverne che avrebbero trattenuto i venti.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa principale avvenne il 31 maggio 1646 in piena notte (2:00 GMT ca.) ed ebbe effetti distruttivi in diversi paesi del promontorio del Gargano. Le località più colpite furono Carpino, Ischitella, Monte Sant’Angelo, Vico del Gargano e Vieste, dove il terremoto causò il crollo di interi edifici e l’inagibilità quasi totale delle abitazioni. L’area di risentimento comprese Napoli e Bari. Uno sporadico, ma attestato risentimento si ebbe fino a Cremona.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Le acque del lago di Varano fuoriuscirono e invasero gli orti di Carpino; insoliti movimenti dell’acqua del mare furono percepiti dagli equipaggi con molto panico, su navi definite "grosse".</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>La scossa principale si verificò all’alba di giovedì 31 maggio, corrispondente alle ore 4:30 GMT ca. $(580085,580073,580091,350025,900012)$.&lt;br&gt;Alcune fonti riportano la durata di questa scossa, ma pur servendosi della medesima unità di misura (il Credo) non concordano: i notai Scardassi $(310077)$ affermano che esso durò un Credo, un’altra fonte invece che ne durò 3 $(350025)$. Un monaco di Cassano Murge, riferendosi ad un altro sistema di misura, sostiene che durò oltre un quarto d’ora.&lt;br&gt;Solo nel diario di G.Bresciani, da Cremona, sono distinte due scosse di terremoto a breve distanza l’una dall’altra.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002137</codbib>
+      <autore1>Guidoboni E. e Tinti S.</autore1>
+      <titolo1>I maremoti garganici del Seicento, in "Atti del 6.o Convegno", Roma 14-16 dicembre 1987, vol.1, CNR-GNGTS, pp.491-504.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030166</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>Ricerche su i terremoti avvenuti in Terra d’Otranto dall’XI al secolo XIX, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.15, pp.95-154.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030177</codbib>
+      <autore1>Caputo M. e Faita G.</autore1>
+      <titolo1>Primo catalogo dei maremoti delle coste italiane, in "Atti della Accademia Nazionale dei Lincei. Memorie. Classe di Scienze fisiche, matematiche e naturali", a.381, s.VIII, vol.17, sez.1a (Matematica, meccanica, astronomia, geodesia e geofisica), fasc.7, pp.231-356.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030602</codbib>
+      <autore1>Pignatari F.J.</autore1>
+      <titolo1>Il terremoto di Calabria del 16 novembre 1894.</titolo1>
+      <luogoed>Monteleone [Vibo Valentia]</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080937</codbib>
+      <autore1>Filippo da Secinara</autore1>
+      <titolo1>Trattato universale di tutti li terremoti occorsi, e noti nel mondo, con li casi infausti, ed infelici pressagiti da tali terremoti. Ove si fà mentione de Prencipi, e Monarchi, che regnorono in quei tempi, accennandosi le loro qualità, ed’altre cose memorabile, e curiose.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1652</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090471</codbib>
+      <autore1>De Marco G.</autore1>
+      <titolo1>Montecassino illustrato nei tre regni della natura con altre descrizioni riguardanti lo stesso luogo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090478</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul periodo sismico Garganico dell’aprile-giugno 1892, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.12, a.1890, parte 1, pp.39-65.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096022</codbib>
+      <autore1>Paoloni B.M.</autore1>
+      <titolo1>Cronistoria sismica cassinese, in "Bollettino mensile dell’osservatorio metereologico aerologico geodinamico di Montecassino", vol.5, n.2, pp.11-12; n.3, pp.11-12; n.4, p.12; n.5, pp.15-16; n.6, pp.15-16; n.10, pp.15-16; vol.6, n.2, pp.14-15; n.5, pp.11-14.</titolo1>
+      <luogoed>Montecassino</luogoed>
+      <datacompl>1913 - 1914</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110151</codbib>
+      <autore1>Panza G.F. e Calcagnile G.</autore1>
+      <titolo1>Rischio sismico in Puglia, in "Continuità", a.11 (1977), fasc.1, pp.35-40.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110157</codbib>
+      <autore1>Calcagnile G., Mongelli F. e Ricchetti G.</autore1>
+      <titolo1>Sulla sismicità dell’area garganica, in "Atti del IV Simposio Nazionale sulla conservazione della natura", vol.1, pp.491-507.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110171</codbib>
+      <autore1>Ambrosi A.</autore1>
+      <titolo1>Cattedrale di Vieste. Comunicazione sui lavori di restauro in corso, in "Continuità", a.11, aprile-giugno, pp.19-44.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120138</codbib>
+      <autore1>Sarnelli P.</autore1>
+      <titolo1>Lettere ecclesiastiche di monsignor Pompeo Sarnelli Vescovo di Bisceglie.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1740</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300172</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arcidiocesi di Manfredonia e la Diocesi di Vieste. Guida Storica, Anno Santo 1975.</titolo1>
+      <luogoed>Foggia</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Sagarriga Visconti-Volpe" di Bari, scaffale 117, palco F, n.19, Note di Frà Geronimo da Cassano, Cassano 31 maggio 1646.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1646</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300251</codbib>
+      <autore1>Ranieri L.</autore1>
+      <titolo1>Sul periodo sismico dell’estate 1948 in Puglia, in "Bollettino della Società Geografica Italiana", a.83, vol.86 (1949), pp.213-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300268</codbib>
+      <autore1>Forte D.</autore1>
+      <titolo1>Testimonianze francescane nella Puglia Dauna.</titolo1>
+      <luogoed>Sansevero</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310038</codbib>
+      <autore1>Massa C.</autore1>
+      <titolo1>Bari nel secolo XVII. Discorso inaugurale dell’anno Accademico 1902-1903 letto nella R. Scuola Superiore di Commercio di Bari il 16 Novembre 1902.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Sagarriga Visconti-Volpe" di Bari, Manoscritti, I/67, S.Cardassi e C.Cardassi, Memorie, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310086</codbib>
+      <autore1>*</autore1>
+      <titolo1>Guida d’Italia del Touring Club Italiano. Puglia.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310130</codbib>
+      <autore1>Siena M.</autore1>
+      <titolo1>Storia e folklore di Vieste.</titolo1>
+      <luogoed>Vieste</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310135</codbib>
+      <autore1>Pacichelli G.B.</autore1>
+      <titolo1>Il Regno di Napoli in prospettiva, 3 voll. (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1703</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310193</codbib>
+      <autore1>Giuliani V.</autore1>
+      <titolo1>Memorie storiche politiche, ecclesiastiche della città di Vieste.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1768</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310202</codbib>
+      <autore1>Sarnelli P.</autore1>
+      <titolo1>Cronologia de’ vescovi et arcivescovi Sipontini.</titolo1>
+      <luogoed>Manfredonia</luogoed>
+      <datacompl>1680</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310314</codbib>
+      <autore1>Pascale L.</autore1>
+      <titolo1>L’antica e la nuova Siponto.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1932</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Provinciale dell’Ordine dei Frati Minori Cappuccini di Firenze, Filippo Bernardi, Relazione dello stato di tutti li conventi dei frati Cappuccini d’Italia, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410242</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.751 A, Sipontina I, Relatio Status Diocesis Sipontinae, Monte Sant’Angelo 4 agosto 1646.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1646</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410355</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.118, "Nota delle rendite, e beni stabili, che possiede la mensa vescovale di Viesti secondo la platea seu stallone d’essa" allegata al dispaccio del nunzio apostolico Lorenzo Casoni arcivescovo di Cesarea al segretario di Stato cardinale Fabrizio Spada, Napoli 7 dicembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440100</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Biblioteca, Manoscritti, 199, Demetrio Degni, Compendio universale historico o sia istorico intreccio delle cose più memorabili occorse nel mondo dal principio dell’anno 1600 in sin al 1699, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510447</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Diocesis Sancti Severi, Roma 23 marzo 1647.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1647</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510448</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Diocesis Sancti Severi, San Severo 19 luglio 1664.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1664</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510449</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Diocesis Sancti Severi, San Severo 11 luglio 1665.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1665</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510450</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Lettera del vescovo di San Severo Francesco Denza al segretario di Stato relativa a una istanza presentata contro la sua persona, Napoli 3 maggio 1668.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1668</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510451</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Diocesis Sancti Severi, San Severo 16 giugno 1668.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1668</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510452</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Diocesis Sancti Severi, San Severo 16 marzo 1675.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1675</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510453</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Ecclesiae Sancti Severi, San Severo dicembre 1678.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1678</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510454</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Ecclesiae Sancti Severi, Roma marzo 1681.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1681</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510455</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relatio Status Ecclesiae Sancti Severi, San Severo 1684.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1684</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510456</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relazione del vescovo di San Severo Carlo Francesco Giocoli alla Congregazione del Concilio sullo stato della diocesi, San Severo 12 marzo 1711.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1711</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.743 A, Sancti Severi I, Relazione del vescovo di San Severo Carlo Francesco Giocoli alla Congregazione del Concilio sullo stato della diocesi, San Severo 4 maggio 1708.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1708</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510529</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Napoli 10 gennaio 1661.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1661</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510530</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 16 aprile 1669.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510531</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 1º novembre 1678.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1678</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510532</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 1675.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1675</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510533</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 10 febbraio 1672.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510534</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 7 settembre 1681.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1681</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510535</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 8 novembre 1687.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1687</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510536</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 22 giugno 1684.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1684</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510537</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 1690.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1690</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510538</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 20 maggio 1691.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1691</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510539</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 23 giugno 1699.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1699</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510540</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 20 gennaio 1709.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1709</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510541</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.867, Vestana, Relatio Status Ecclesiae Vestanae, Vieste 9 dicembre 1763.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1763</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580073</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Cons. Crem. E. 132, Giuseppe Bresciani, Diario delle cose avvenute in Cremona principiando dall’anno 1625 sino all’anno 1670.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580085</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Manoscritti Albertoni, 112, Giuseppe Bresciani, Le miserie d’Italia per tutto l’anno di nostra salute 1649.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1649</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580091</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Manoscritti Bresciani, 12, Giuseppe Bresciani, Historia della città di Cremona che contiene dall’anno 1501 sino all’anno 1665, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680041</codbib>
+      <autore1>Grimaldi F.A.</autore1>
+      <titolo1>Descrizione de’ tremuoti nelle Calabrie nel 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900012</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Provinciale dei Cappuccini di Foggia, s.s., Gabriele da Cerignola, Memoria della fondazione di questa nostra provincia dei Cappuccini di Sant’Angelo e di suoi luoghi con il catalogo di tutti li vicari seu ministri provinciali, che l’hanno governata.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1660</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900066</codbib>
+      <autore1>Nigri V.</autore1>
+      <titolo1>La Capitanata. Foggia e il suo clima desunto da 30 anni di osservazioni sulla specola meteorico-sismica.</titolo1>
+      <luogoed>San Severo</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900068</codbib>
+      <autore1>De Leonardis G.</autore1>
+      <titolo1>Monografia generale del promontorio garganico.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900082</codbib>
+      <autore1>Dell’Erba M.</autore1>
+      <titolo1>La Cattedrale di Vieste nella fede, nella storia e nell’arte, in "La Cattedrale di Vieste", a cura del Centro di cultura "N.Cimaglia", 2a ed.</titolo1>
+      <luogoed>Vieste</luogoed>
+      <datacompl>1981</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900084</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale della Chiesa Cattedrale di Vieste, Registro dei Morti, vol.I, 1639-1698, Lorenzo De Angelis, Elenco dei deceduti per causa del terremoto del 31 maggio 1646, Vieste 1 giugno 1646.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1646</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900121</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe in ricordo delle vittime del terremoto del 31 maggio 1646 posta a destra della porta maggiore del Castello di Vieste, in V.Giuliani, "Memorie storiche politiche, ecclesiastiche della città di Vieste".</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1768</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900183</codbib>
+      <autore1>De Grazia M.</autore1>
+      <titolo1>Memorie storiche di Rodi Garganico con alcune notizie sul Gargano.</titolo1>
+      <luogoed>San Severo</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900215</codbib>
+      <autore1>Manicone M.</autore1>
+      <titolo1>La fisica appula, tomo 1.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900221</codbib>
+      <autore1>De Grazia</autore1>
+      <titolo1>Appunti storici sul Gargano, vol.2.</titolo1>
+      <luogoed>Torremaggiore</luogoed>
+      <datacompl>1930</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900224</codbib>
+      <autore1>Vailati V. e Della Malva N.</autore1>
+      <titolo1>L’Arcidiocesi di Manfredonia e la Diocesi di Vieste. Guida storica anno santo 1975.</titolo1>
+      <luogoed>Foggia</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900237</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Foggia, Dogana delle pecore, serie V, fascio 41, fasc.4399, Relazione dell’ingegnere Carlantonio Bianchi al presidente della Dogana delle pecore Manuel Suarez de la Escalera sulla riparazione delle torri costiere della Capitanata, Barletta 8 giugno 1674.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1674</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900258</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "L.Pascale" di Manfredonia, Dir.VII.1.10-13, Matteo, Memorie storiche dell’antica e moderna Siponto ordinatamente disposte in forma d’annali colle notitie delle convicine regioni e dell’istoria chiesastica e profana, 4 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1785</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900264</codbib>
+      <autore1>Gentile G.A.</autore1>
+      <titolo1>Testimonianze vecchie e nuove di Manfredonia.</titolo1>
+      <luogoed>Casamari</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900268</codbib>
+      <autore1>Sarnelli P.</autore1>
+      <titolo1>Memorie cronologiche de’ Vescovi ed Arcivescovi della Santa Chiesa di Benevento colla serie de’ Duchi, e Principi Longobardi della stessa città.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX-X</intpq>
+      <desloc>Carpino</desloc>
+      <lat_wgs84>41.8434</lat_wgs84>
+      <lon_wgs84>15.8574</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9.5</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062109.00</nloc_cfti>
+      <desloc_cfti>Carpino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Distrutto $(310202)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX-X</intpq>
+      <desloc>Ischitella</desloc>
+      <lat_wgs84>41.9045</lat_wgs84>
+      <lon_wgs84>15.8984</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9.5</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062159.00</nloc_cfti>
+      <desloc_cfti>Ischitella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di gran parte delle abitazioni (restarono illese solo 20 case; 86 morti) $(310077,900183)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Monte Sant'Angelo</desloc>
+      <lat_wgs84>41.7066</lat_wgs84>
+      <lon_wgs84>15.959</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062211.00</nloc_cfti>
+      <desloc_cfti>Monte Sant’Angelo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di oltre 100 edifici; 5 morti $(310077,900258)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Vico del Gargano</desloc>
+      <lat_wgs84>41.8957</lat_wgs84>
+      <lon_wgs84>15.958</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062257.00</nloc_cfti>
+      <desloc_cfti>Vico del Gargano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crolli e danni agli edifici (in particolare il convento dei frati minori cappuccini); 40 morti $(350213,900183,900258)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Vieste</desloc>
+      <lat_wgs84>41.883</lat_wgs84>
+      <lon_wgs84>16.1797</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062258.00</nloc_cfti>
+      <desloc_cfti>Vieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di abitazioni, di parti del castello, di chiese (San Simeone Seno, San Marco) e monasteri (San Francesco dei frati minori conventuali); danni alla chiesa cattedrale e alla residenza vescovile $(310077,900183)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Cagnano Varano</desloc>
+      <lat_wgs84>41.8263</lat_wgs84>
+      <lon_wgs84>15.7755</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062104.00</nloc_cfti>
+      <desloc_cfti>Cagnano Varano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di 20 case e di alcune chiese; nessuna vittima $(310077,310202)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Manfredonia</desloc>
+      <lat_wgs84>41.6241</lat_wgs84>
+      <lon_wgs84>15.9078</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062196.00</nloc_cfti>
+      <desloc_cfti>Manfredonia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Danni alla cattedrale, al suo campanile, ai monasteri, all’ospedale, al Palazzo Vecchio e a quello Nuovo sede dell’autorità vescovile. Gli ufficiali regi e i mastri muratori hanno stimato nella sola chiesa un danno di 8000 ducati e nel palazzo arcivescovile di 6000 ducati $(900258,030166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Peschici</desloc>
+      <lat_wgs84>41.9475</lat_wgs84>
+      <lon_wgs84>16.0141</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062225.00</nloc_cfti>
+      <desloc_cfti>Peschici</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crolli e danni $(310077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Rodi Garganico</desloc>
+      <lat_wgs84>41.9297</lat_wgs84>
+      <lon_wgs84>15.8846</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062231.00</nloc_cfti>
+      <desloc_cfti>Rodi Garganico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crolli di abitazioni; 4 morti $(310077,900183)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Bari</desloc>
+      <lat_wgs84>41.1072</lat_wgs84>
+      <lon_wgs84>16.8467</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062294.00</nloc_cfti>
+      <desloc_cfti>Bari</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito $(310077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cassano delle Murge</desloc>
+      <lat_wgs84>40.8892</lat_wgs84>
+      <lon_wgs84>16.771</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062315.00</nloc_cfti>
+      <desloc_cfti>Cassano delle Murge</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(310202)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cremona</desloc>
+      <lat_wgs84>45.1367</lat_wgs84>
+      <lon_wgs84>10.0236</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>018772.00</nloc_cfti>
+      <desloc_cfti>Cremona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(580085,580073)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu sentito un grandissimo terremoto che durò il tempo di "tre credi" (circa 1 minuto). La scossa causò solo panico e nessun danno $(350025)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Rignano Garganico</desloc>
+      <lat_wgs84>41.6759</lat_wgs84>
+      <lon_wgs84>15.5869</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062228.00</nloc_cfti>
+      <desloc_cfti>Rignano Garganico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(310077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>San Giovanni Rotondo</desloc>
+      <lat_wgs84>41.7069</lat_wgs84>
+      <lon_wgs84>15.7283</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062235.00</nloc_cfti>
+      <desloc_cfti>San Giovanni Rotondo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(310077,900258)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>San Marco in Lamis</desloc>
+      <lat_wgs84>41.713</lat_wgs84>
+      <lon_wgs84>15.6366</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062238.00</nloc_cfti>
+      <desloc_cfti>San Marco in Lamis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(900258)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Sannicandro Garganico</desloc>
+      <lat_wgs84>41.8356</lat_wgs84>
+      <lon_wgs84>15.567</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00995</nterr>
+      <nloc_cfti>062241.00</nloc_cfti>
+      <desloc_cfti>Sannicandro Garganico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(900258)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

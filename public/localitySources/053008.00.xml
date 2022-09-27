@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053008.00</nloc_cfti>
+      <desloc_cfti>Grotte Santo Stefano</desloc_cfti>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.5157</lat_wgs84>
+      <lon_wgs84>12.1768</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di III grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01199</nterr>
+      <nperiod>003086</nperiod>
+      <datanum>16950611</datanum>
+      <data_label>1695 06 11</data_label>
+      <anno>1695</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>42.6254</lat>
+      <lon>12.1074</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>37</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Lazio settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Località della diocesi di Bagnorea dipendente dal governo di Viterbo e in parte infeudata al principe Pamphilj; contava 184 fuochi per 840 abitanti $(095671)$. Il terremoto causò il crollo di numerose abitazioni $(030593)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095671</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Viterbo, II.E.1.20, Registro di lettere ed informazioni scritto per affari ed interessi dell’Ill.ma Città di Viterbo, Relazione del vescovo di Bagnorea Vincenzo degli Atti al segretario di Stato cardinale Spada sui danni causati dal terremoto dell’11 giugno 1695, Bagnorea 22 giugno 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030593</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relatione del danno cagionato dal Terremoto successo à dì 7 Giugno 1695 nelle Città di Bagnarea, Orvieto, e Luoghi convicini.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

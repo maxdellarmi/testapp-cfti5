@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080287.00</nloc_cfti>
+      <desloc_cfti>Rimplas</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>44.0637</lat_wgs84>
+      <lon_wgs84>7.1312</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00738</nterr>
+      <nperiod>003077</nperiod>
+      <datanum>15640720</datanum>
+      <data_label>1564 07 20</data_label>
+      <anno>1564</anno>
+      <mese>07</mese>
+      <giorno>20</giorno>
+      <time_label>18:30</time_label>
+      <ora>18</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.0302</lat>
+      <lon>7.2701</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>20</npun>
+      <mm>6</mm>
+      <earthquakelocation>Alpi Marittime</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La località di Repella, che secondo il mercante genovese Mogiol $(745822)$ subì gravi distruzioni, è individuata in un recente studio $(745819)$ nella attuale Rimplas.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745822</codbib>
+      <autore1>Mogiol F.</autore1>
+      <titolo1>Eyn ware Erschröckliche und Erbermtliche Neue zeytung Von den sieben Stetten so Gott der Almechtig durch eyn unerhörter Grausamen Erdbidem alles in grundt verdebt.</titolo1>
+      <luogoed>Nürnberg</luogoed>
+      <datacompl>1564</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745819</codbib>
+      <autore1>Moroni A. e Stucchi M.</autore1>
+      <titolo1>Materials for the investigation of the 1564, Maritime Alps earthquake, in "Historical Investigation of European Earthquakes", vol.1 (Materials of the CEC Project «Review of Historical Seismicity in Europe»), a cura di M.Stucchi, pp.101-125.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

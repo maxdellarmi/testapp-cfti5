@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00715</nterr>
+      <nperiod>003074</nperiod>
+      <datanum>15560420</datanum>
+      <data_label>1556 04 20</data_label>
+      <anno>1556</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44</lat>
+      <lon>7.283</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>La Bollene-Vésubie</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>France</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e analizzata la fonte utilizzata da Mercalli (1897) $(000014)$ e da Baratta (1901) $(000001)$. Gioffredo (1839) $(280701)$ riporta il testo di un’iscrizione (forse dipinta) che fino al secolo scorso si poteva leggere nella sacrestia della chiesa parrocchiale di La Bollene: in essa si ricordavano le distruzioni e le 150 vittime causate dal terremoto del "20 aprile 1556". La ricerca bibliografica eseguita per reperire eventuali conferme di questo evento sismico ha dato esito negativo. Tutte le fonti coeve dell’area ricordano unicamente l’evento di otto anni dopo (1564), che proprio a La Bollene ebbe gli effetti più distruttivi. Nonostante l’impossibilità di eseguire un’analisi autoptica della fonte di Gioffredo (in quanto l’iscrizione non è più disponibile), si è ritenuto che la data riportata sia l’esito di una errata lettura dell’iscrizione. La coincidenza del giorno (20), alcune lettere del mese e forse la caduta e inversione di parti della data (MDLVI ­ MDLXIV), fanno ritenere che questo evento sia in realtà l’esito di una duplicazione di quello famoso del 20 luglio 1564.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095638</codbib>
+      <autore1>Laurenti A.</autore1>
+      <titolo1>Les tremblements de terre des Alpes-Maritimes. Histoire et sensibilization.</titolo1>
+      <luogoed>Nice</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280701</codbib>
+      <autore1>Gioffredo P.</autore1>
+      <titolo1>Storia delle Alpi Marittime [-1662], ed. C.Gazzera, in "Monumenta Historiae Patriae", Scriptores.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1839</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

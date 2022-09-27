@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017513.00</nloc_cfti>
+      <desloc_cfti>Filighera</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.1771</lat_wgs84>
+      <lon_wgs84>9.3138</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33192</nterr>
+      <nperiod>000586</nperiod>
+      <datanum>19520822</datanum>
+      <data_label>1952 08 22</data_label>
+      <anno>1952</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>02:25:31</time_label>
+      <ora>02</ora>
+      <minu>25</minu>
+      <sec>31</sec>
+      <lat>44.7751</lat>
+      <lon>8.3599</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>21</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Nizza Monferrato (AT)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33457</nterr>
+      <nperiod>000586</nperiod>
+      <datanum>19550507</datanum>
+      <data_label>1955 05 07</data_label>
+      <anno>1955</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>02:29:46</time_label>
+      <ora>02</ora>
+      <minu>29</minu>
+      <sec>46</sec>
+      <lat>45.1062</lat>
+      <lon>7.3149</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>13</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Val di Susa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

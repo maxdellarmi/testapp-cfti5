@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+ <Document>
+<name>CFTI5Med - Localitiy</name>
+
+<Style id="LOC">
+<IconStyle>
+<scale>1.3</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/LOC.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+
+<Style id="C_4">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/C_4.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="C_6">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/C_6.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="C_8">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/C_8.png</href>
+ </Icon>
+ </IconStyle>
+    <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="C_9.5">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/C_9.5.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+<Style id="H_4">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/H_4.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="H_6">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/H_6.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="H_8">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/H_8.png</href>
+ </Icon>
+ </IconStyle>
+    <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="H_9.5">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/H_9.5.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+<Style id="L_4">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/L_4.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="L_6">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/L_6.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="L_8">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/L_8.png</href>
+ </Icon>
+ </IconStyle>
+    <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="L_9.5">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/L_9.5.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+<Style id="R_4">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/R_4.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="R_6">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/R_6.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="R_8">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/R_8.png</href>
+ </Icon>
+ </IconStyle>
+    <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="R_9.5">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/R_9.5.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+<Style id="F">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/F.png</href>
+ </Icon>
+ </IconStyle>
+    <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+<Style id="NP">
+<IconStyle>
+<scale>1</scale>
+ <Icon>
+ <href>http://storing.ingv.it/cfti/cfti5/images/EPI/NP.png</href>
+ </Icon>
+ </IconStyle>
+ <BalloonStyle>
+      <text><![CDATA[
+      <font face="Roboto"><table width="350"><tr><td> $[description]</td></tr></table></font>
+      ]]></text>
+    </BalloonStyle>
+</Style>
+
+<!-- End Style Definitions -->
+

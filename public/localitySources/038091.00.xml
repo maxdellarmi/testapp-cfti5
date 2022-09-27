@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>038091.00</nloc_cfti>
+      <desloc_cfti>Carniana</desloc_cfti>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.3896</lat_wgs84>
+      <lon_wgs84>10.4652</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35178</nterr>
+      <nperiod>000611</nperiod>
+      <datanum>19650510</datanum>
+      <data_label>1965 05 10</data_label>
+      <anno>1965</anno>
+      <mese>05</mese>
+      <giorno>10</giorno>
+      <time_label>05:01:54</time_label>
+      <ora>05</ora>
+      <minu>01</minu>
+      <sec>54</sec>
+      <lat>44.2914</lat>
+      <lon>10.1936</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>11</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Lunigiana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

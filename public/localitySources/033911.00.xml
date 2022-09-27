@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>033911.00</nloc_cfti>
+      <desloc_cfti>Vignolo</desloc_cfti>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>44.2958</lat_wgs84>
+      <lon_wgs84>9.4418</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20227</nterr>
+      <nperiod>000385</nperiod>
+      <datanum>19061110</datanum>
+      <data_label>1906 11 10</data_label>
+      <anno>1906</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>17:55</time_label>
+      <ora>17</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>44.4011</lat>
+      <lon>9.5852</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>49</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Appennino ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090151.00</nloc_cfti>
+      <desloc_cfti>Etruria</desloc_cfti>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>43.25</lat_wgs84>
+      <lon_wgs84>11.25</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50008</nterr>
+      <nperiod>005025</nperiod>
+      <datanum>-2170600</datanum>
+      <data_label>217 B. C. 06 -</data_label>
+      <anno>-217</anno>
+      <mese>06</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.25</lat>
+      <lon>11.25</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>2</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Etruria</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Crollo di molti edifici, delle frane ostruirono il corso dei fiumi che uscirono dai loro letti e cambiarono percorso $(790008)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>790008</codbib>
+      <autore1>Dio Cassius Cocceianus</autore1>
+      <titolo1>Historia Romana, ed. E.Cary.</titolo1>
+      <luogoed>London-Cambridge (Mass.)</luogoed>
+      <datacompl>1914 - 1927</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

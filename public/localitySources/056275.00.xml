@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056275.00</nloc_cfti>
+      <desloc_cfti>Santo Iona</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.0991</lat_wgs84>
+      <lon_wgs84>13.5103</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa fu rovinosa e distrusse completamente la chiesa parrocchiale $(593304,235484,635045)$. Il Corpo Reale del Genio Civile dichiarò, nel 1917, di avere demolito 1 casa, puntellato 19 edifici e riparato altri 50. Il numero complessivo, a tutto il maggio 1917, delle baracche costruite fu di 128 $(593117)$. Il centro abitato contava, prima del terremoto, circa 150 case $(593037)$. La chiesa di santa Maria Colle Marciano risultò gravemente danneggiata e fu necessario demolirla $(593069)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>593304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Sottoprefettura di Avezzano, Affari speciali dei Comuni, b.234, fasc.12, Deliberazione del Consiglio Comunale di Ovindoli relativa alla riparazione del tetto della chiesa parrocchiale di S.Sebastiano danneggiato dal terremoto del 13 gennaio 1915, Ovindoli 17 ottobre 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235484</codbib>
+      <autore1>Oddone E.</autore1>
+      <titolo1>Gli elementi fisici del grande terremoto Marsicano-Fucense del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.19 (1915), pp.71-217.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi dei Marsi. Elenco delle chiese parrocchiali e delle case religiose danneggiate o distrutte dal terremoto del 13 gennaio 1915, Tagliacozzo 10 aprile 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.13, fasc.74, Stato di avanzamento dei lavori delle opere dipendenti dal terremoto del 13 gennaio 1915 a tutto il 29 aprile 1917, Avezzano 6 maggio 1917.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593037</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.6, fasc.53, Relazione dell’Ingegnere Capo del Genio Civile al Commissario Civile di Avezzano sui danni causati nel Comune di Ovindoli dal terremoto del 13 gennaio 1915, Avezzano 9 marzo 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593069</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.10, fasc.63, Lettera dell’Ingegnere Capo del Genio Civile al Commissario Civile di Avezzano relativa alla situazione della chiesa di S.Maria Collemarciano di Santo Jona danneggiata dal terremoto del 13 gennaio 1915, Avezzano 16 maggio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

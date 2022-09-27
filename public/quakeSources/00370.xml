@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00370</nterr>
+      <nperiod>003067</nperiod>
+      <datanum>14140000</datanum>
+      <data_label>1414 - -</data_label>
+      <anno>1414</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.883</lat>
+      <lon>16.1797</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.8</mm>
+      <earthquakelocation>Vieste (FG)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questo terremoto è attestato indirettamente da un documento di esenzione dalle imposte a favore di Vieste, emanato dalla Cancelleria del Regno di Napoli e sottoscritto dalla regina Giovanna II d’Angiò. Il documento è citato da Giuliani (1786) $(310193)$ come perduto in un incendio. L’esenzione concessa attesta indirettamente che ci furono danni importanti a Vieste, città della Capitanata (oggi in prov. di Foggia). La data dell’evento si situa negli anni di regno di Giovanna II d’Angiò (1414-1435).</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082006</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sulla attività sismica nella Capitanata, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.16, parte 1, a.1894, pp.177-220.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300251</codbib>
+      <autore1>Ranieri L.</autore1>
+      <titolo1>Sul periodo sismico dell’estate 1948 in Puglia, in "Bollettino della Società Geografica Italiana", a.83, vol.86 (1949), pp.213-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310193</codbib>
+      <autore1>Giuliani V.</autore1>
+      <titolo1>Memorie storiche politiche, ecclesiastiche della città di Vieste.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1768</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Vieste</desloc>
+      <lat_wgs84>41.883</lat_wgs84>
+      <lon_wgs84>16.1797</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00370</nterr>
+      <nloc_cfti>062258.00</nloc_cfti>
+      <desloc_cfti>Vieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

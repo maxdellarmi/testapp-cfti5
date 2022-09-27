@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067754.12</nloc_cfti>
+      <desloc_cfti>Malpasso</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>37.5985</lat_wgs84>
+      <lon_wgs84>15.0158</lon_wgs84>
+      <notesito>Cambiò sito e assunse la denominazione di Fenicia Moncada dopo l’eruzione del 1669; cambiò di nuovo sito e assunse la denominazione di Belpasso dopo il terremoto del 1693.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01044</nterr>
+      <nperiod>003010</nperiod>
+      <datanum>16690310</datanum>
+      <data_label>1669 03 10</data_label>
+      <anno>1669</anno>
+      <mese>03</mese>
+      <giorno>10</giorno>
+      <time_label>23:25</time_label>
+      <ora>23</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>37.6143</lat>
+      <lon>15.0256</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9.5</imax>
+      <npun>18</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Nicolosi (CT)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito distrutto dall’eruzione vulcanica $(110135)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Zelantea di Acireale, Manoscritti, III.6.11, P.Calcerano, Cronaca dal 1656 26 settembre al 1670 19 settembre, copia 1752.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1752</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110135</codbib>
+      <autore1>Squillaci P.</autore1>
+      <titolo1>Relatione del fuoco di Mongibello, e di quel che seguì.</titolo1>
+      <luogoed>Catania-Messina-Roma</luogoed>
+      <datacompl>1669</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

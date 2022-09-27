@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044666.00</nloc_cfti>
+      <desloc_cfti>Cavallina</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>43.9843</lat_wgs84>
+      <lon_wgs84>11.2332</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30363</nterr>
+      <nperiod>002083</nperiod>
+      <datanum>19310905</datanum>
+      <data_label>1931 09 05</data_label>
+      <anno>1931</anno>
+      <mese>09</mese>
+      <giorno>05</giorno>
+      <time_label>01:25:53</time_label>
+      <ora>01</ora>
+      <minu>25</minu>
+      <sec>53</sec>
+      <lat>44.0575</lat>
+      <lon>11.3669</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>28</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33599</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560526</datanum>
+      <data_label>1956 05 26</data_label>
+      <anno>1956</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9392</lat>
+      <lon>11.8962</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 26 maggio 1956, la località è nell’area di III grado MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Testimonianze coeve all’evento riferiscono di gravi danni al centro abitato con crolli di molte case e l’apertura delle compagini murarie nella maggioranza degli edifici $(030110,350117)$. Crollò la facciata di quattro case, mentre tutte le altre divennero inagibili $(350021,130413)$. Vi furono molti morti $(130414)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Una lettera de la discriptione del Terremotto che è stato in Toscana, la qual narra particolarmente tutte le terre che son ruinate &amp; le persone morte, &amp; li fuochi apparsi in aere, &amp; la terra ap[er]ta, &amp; de un Lago fatto di acqua spuzolente di Solfere, la quantità, e il numero delle Case ruinate le qualcose furno a dì III Luio MDXXXXII.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Carte Strozziane, serie I, 353, cc.104-105, Nota d’un Tremoto venuto nel Mugello sotto dì 12 di giugno lo anno 1542, e le rovine da quello fatte.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350021</codbib>
+      <autore1>Ughi G.</autore1>
+      <titolo1>Cronica di Firenze dal 1501 al 1546, in "Archivio Storico Italiano", ed. P.Frediani, vol.7.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1849</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130413</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Corporazioni Religiose (Patrimonio Ecclesiastico), vol.270 F, cc.98-99, Resoconto del padre S.Vongeschi di Cutigliano sul terremoto del Mugello del 13 giugno 1542, giugno 1542.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130414</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale dei Santi Jacopo e Antonio di Fivizzano, Primo libro della Compagnia del SS.Sacramento (1481-1583), Resoconto del terremoto del Mugello del 13 giugno 1542.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1481 - 1583</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092007</codbib>
+      <autore1>De Panfilis M.</autore1>
+      <titolo1>Attività sismica in Italia dal 1953 al 1957, in "Annali di Geofisica", vol.12, pp.21-148.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

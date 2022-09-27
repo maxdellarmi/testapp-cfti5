@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>010836.00</nloc_cfti>
+      <desloc_cfti>Calco</desloc_cfti>
+      <provlet>LC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>45.7247</lat_wgs84>
+      <lon_wgs84>9.4145</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12121</nterr>
+      <nperiod>000759</nperiod>
+      <datanum>18840912</datanum>
+      <data_label>1884 09 12</data_label>
+      <anno>1884</anno>
+      <mese>09</mese>
+      <giorno>12</giorno>
+      <time_label>07:23</time_label>
+      <ora>07</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>45.5478</lat>
+      <lon>9.7698</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Bassa valle del Serio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

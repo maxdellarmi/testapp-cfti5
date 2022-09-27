@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>14567</nterr>
+      <nperiod>002072</nperiod>
+      <datanum>18921229</datanum>
+      <data_label>1892 12 29</data_label>
+      <anno>1892</anno>
+      <mese>12</mese>
+      <giorno>29</giorno>
+      <time_label>20:11</time_label>
+      <ora>20</ora>
+      <minu>11</minu>
+      <sec>-9</sec>
+      <lat>44.101</lat>
+      <lon>11.5965</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Palazzuolo sul Senio (FI)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000084</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.13.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000800</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 83, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.15, n.32 (1º febbraio 1893).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 82, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.15, n.15 (15 gennaio 1893).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Palazzuolo sul Senio</desloc>
+      <lat_wgs84>44.1135</lat_wgs84>
+      <lon_wgs84>11.5473</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>14567</nterr>
+      <nloc_cfti>045428.00</nloc_cfti>
+      <desloc_cfti>Palazzuolo sul Senio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Valnera</desloc>
+      <lat_wgs84>44.1133</lat_wgs84>
+      <lon_wgs84>11.6298</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14567</nterr>
+      <nloc_cfti>072273.00</nloc_cfti>
+      <desloc_cfti>Valnera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Marradi</desloc>
+      <lat_wgs84>44.0763</lat_wgs84>
+      <lon_wgs84>11.6124</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14567</nterr>
+      <nloc_cfti>045336.00</nloc_cfti>
+      <desloc_cfti>Marradi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

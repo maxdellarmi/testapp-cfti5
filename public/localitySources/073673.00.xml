@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073673.00</nloc_cfti>
+      <desloc_cfti>Casa Rampi</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.9267</lat_wgs84>
+      <lon_wgs84>12.8499</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04615</nterr>
+      <nperiod>003286</nperiod>
+      <datanum>17911011</datanum>
+      <data_label>1791 10 11</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.9508</lat>
+      <lon>12.8611</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>54</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Villaggio del territorio di Orsano. Il terremoto colpì notevolmente l’abitato: secondo la perizia effettuata dall’architetto Amadio, 3 case furono danneggiate da gravi lesioni e cadute parziali delle murature. Subì varie lesioni anche una piccola chiesa annessa a una delle case danneggiate.&lt;br&gt;I lavori di restauro necessari consistevano nella riedificazione di parti di muri, di vani di porte e finestre, nell’apposizione di catene e nella costruzione di speroni di sostegno delle murature esterne. Complessivamente, per il ripristino degli edifici fu valutata necessaria la spesa di 41,50 scudi.&lt;br&gt;Tutte le altre abitazioni subirono piccole lesioni non pericolose.&lt;br&gt;Un casale signorile nelle vicinanze del villaggio subì gravissime lesioni nella facciata, che uscì dalla verticale per oltre 20 cm (più di un palmo), rendendo necessaria la costruzione di uno sperone; la parete opposta gravemente compromessa dovette essere demolita e ricostruita interamente, così come altre porzioni dei muri interni ed esterni; il "palombaro" avrebbe dovuto essere rinforzato con l’apposizione di due catene, oppure essere abbassato al piano del tetto. Per i lavori di restauro fu stimata necessaria la spesa di 92 scudi $(673438)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>673438</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Sellano III, b.4425 (1785-1794), Perizia dei danni causati dal terremoto dell’11 ottobre 1791 nella terra di Sellano, nei castelli di Orsano e Apagni, e nei rispettivi territori redatta dall’architetto Francesco Amadio, Spoleto 12 dicembre 1791.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1791</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

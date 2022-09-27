@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045818.00</nloc_cfti>
+      <desloc_cfti>Gattaia</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9909</lat_wgs84>
+      <lon_wgs84>11.4717</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 29 giugno 1919 causò il crollo o danneggiò gravemente molte case; la chiesa parrocchiale subì danni $(681104,020018,020022,671349)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò il crollo di molte case $(130413)$. Citata tra le località maggiormente danneggiate $(030110,350117)$. </D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130413</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Corporazioni Religiose (Patrimonio Ecclesiastico), vol.270 F, cc.98-99, Resoconto del padre S.Vongeschi di Cutigliano sul terremoto del Mugello del 13 giugno 1542, giugno 1542.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Una lettera de la discriptione del Terremotto che è stato in Toscana, la qual narra particolarmente tutte le terre che son ruinate &amp; le persone morte, &amp; li fuochi apparsi in aere, &amp; la terra ap[er]ta, &amp; de un Lago fatto di acqua spuzolente di Solfere, la quantità, e il numero delle Case ruinate le qualcose furno a dì III Luio MDXXXXII.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Carte Strozziane, serie I, 353, cc.104-105, Nota d’un Tremoto venuto nel Mugello sotto dì 12 di giugno lo anno 1542, e le rovine da quello fatte.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>681104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio privato Cecchini di Malnome di Vicchio, Memorie manoscritte della famiglia Cecchini relative al terremoto del 29 giugno 1919, sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020018</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1919.07.01, a.61, n.182.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.02, a.14, n.162.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671349</codbib>
+      <autore1>Giovannini A.</autore1>
+      <titolo1>L’ultimo Mugello 1900-1920, 2 voll.</titolo1>
+      <luogoed>Borgo San Lorenzo</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Tempo, 1919.07.01.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

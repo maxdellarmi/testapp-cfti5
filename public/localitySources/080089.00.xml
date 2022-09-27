@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080089.00</nloc_cfti>
+      <desloc_cfti>Sibenik</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>43.7342</lat_wgs84>
+      <lon_wgs84>15.9033</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14782</nterr>
+      <nperiod>000735</nperiod>
+      <datanum>18930810</datanum>
+      <data_label>1893 08 10</data_label>
+      <anno>1893</anno>
+      <mese>08</mese>
+      <giorno>10</giorno>
+      <time_label>20:52:00</time_label>
+      <ora>20</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>41.7136</lat>
+      <lon>16.0749</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>69</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000810)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu forte $(002129,110427)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002129</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Rapporto delle osservazioni fatte sul terremoto avvenuto in Italia la sera del 12 marzo 1873, in "Supplemento alla Meteorologia Italiana", a.1872, pp.45-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110427</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici [e cronologici] dei fenomeni endogeni italiani col confronto di altri fenomeni per il primo quadrimestre dell’anno meteorico 187[3] (Decembre 187[2] ­ Marzo 187[3]), in "Bullettino del Vulcanismo Italiano", a.1, pp.I-XXII.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000810</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 94, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.15, n.305 (1º novembre 1893).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1893</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

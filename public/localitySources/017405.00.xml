@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017405.00</nloc_cfti>
+      <desloc_cfti>Cecima</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.8506</lat_wgs84>
+      <lon_wgs84>9.0803</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32312</nterr>
+      <nperiod>000565</nperiod>
+      <datanum>19450629</datanum>
+      <data_label>1945 06 29</data_label>
+      <anno>1945</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:37:13</time_label>
+      <ora>15</ora>
+      <minu>37</minu>
+      <sec>13</sec>
+      <lat>44.8306</lat>
+      <lon>9.1304</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>31</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa fu molto forte, causò la caduta di camini e il crollo di un portico nei pressi della chiesa; nell’oratorio dell’Assunta cedette il tetto; la chiesa di San Martino Vescovo riportò lievi lesioni nella navata centrale e nella volta ed il distacco di alcune pietre di rivestimento della facciata; la canonica subì la distruzione completa del primo piano ed il resto dell’edificio venne in seguito demolito $(650092)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14943</nterr>
+      <nperiod>000268</nperiod>
+      <datanum>18941017</datanum>
+      <data_label>1894 10 17</data_label>
+      <anno>1894</anno>
+      <mese>10</mese>
+      <giorno>17</giorno>
+      <time_label>04:17</time_label>
+      <ora>04</ora>
+      <minu>17</minu>
+      <sec>-9</sec>
+      <lat>44.8754</lat>
+      <lon>9.12</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>19</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05491</nterr>
+      <nperiod>000170</nperiod>
+      <datanum>18281009</datanum>
+      <data_label>1828 10 09</data_label>
+      <anno>1828</anno>
+      <mese>10</mese>
+      <giorno>09</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.8216</lat>
+      <lon>9.047</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>115</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>32</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Danni a 67 case valutati L.4764.00 $(000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650092</codbib>
+      <autore1>*</autore1>
+      <titolo1>Intervista a don Mario Braghieri parroco di Cecima sul terremoto del 29 giugno 1945 registrata a cura di SGA, Cecima 28 aprile 1984.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

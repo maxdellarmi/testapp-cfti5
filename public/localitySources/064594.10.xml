@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064594.10</nloc_cfti>
+      <desloc_cfti>Cerenzia Vecchia</desloc_cfti>
+      <provlet>KR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>39.2599</lat_wgs84>
+      <lon_wgs84>16.8142</lon_wgs84>
+      <notesito>La località ha cambiato sito nel 1860.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00958</nterr>
+      <nperiod>000107</nperiod>
+      <datanum>16380608</datanum>
+      <data_label>1638 06 08</data_label>
+      <anno>1638</anno>
+      <mese>06</mese>
+      <giorno>08</giorno>
+      <time_label>09:45</time_label>
+      <ora>09</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>39.2795</lat>
+      <lon>16.8123</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>41</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa dell’8 giugno causò il crollo della Cattedrale e del campanile, del quale è attestata la ricostruzione nel 1659 $(635111)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635111</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.187 A, Cariatensis et Geruntina I, Relazione del vescovo Agazio Di Somma alla Congregazione del Concilio sullo stato delle diocesi, Cariati 16 novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

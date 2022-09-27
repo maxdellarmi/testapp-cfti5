@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>020410.00</nloc_cfti>
+      <desloc_cfti>Chiusa</desloc_cfti>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>46.6414</lat_wgs84>
+      <lon_wgs84>11.5687</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il terremoto fu avvertito $(010041)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08704</nterr>
+      <nperiod>003209</nperiod>
+      <datanum>18590120</datanum>
+      <data_label>1859 01 20</data_label>
+      <anno>1859</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>07:55</time_label>
+      <ora>07</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>45.8909</lat>
+      <lon>12.1012</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>35</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Trevigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(700053)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>010041</codbib>
+      <autore1>Schorn J.</autore1>
+      <titolo1>Die Erdbeben von Tirol und Vorarlberg, in "Zeitschrift des Ferdinandeums für Tirol und Vorarlberg", s.III, a.1902, fasc.46, pp.99-282.</titolo1>
+      <luogoed>Innsbruck</luogoed>
+      <datacompl>1902</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700053</codbib>
+      <autore1>Mahlknecht B.</autore1>
+      <titolo1>Kleine Südtiroler Erdbebenchronik, in "Der Schlern. Zeitschrift für Südtiroler Landeskunde", a.50, n.10, pp.644-650.</titolo1>
+      <luogoed>Bolzano</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

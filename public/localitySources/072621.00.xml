@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072621.00</nloc_cfti>
+      <desloc_cfti>Il Baciuccheto</desloc_cfti>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>43.6042</lat_wgs84>
+      <lon_wgs84>12.38</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00304</nterr>
+      <nperiod>003243</nperiod>
+      <datanum>13891018</datanum>
+      <data_label>1389 10 18</data_label>
+      <anno>1389</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.536</lat>
+      <lon>12.3587</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>7</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395371</codbib>
+      <autore1>Cerboni Angelo</autore1>
+      <titolo1>Cronica latina [1369-1483], in "Due cronache quattrocentesche", ed. A.Ascani, pp.3-53.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395372</codbib>
+      <autore1>Laurenzi Cesare e Pietro</autore1>
+      <titolo1>Cronaca dei Laurenzi [1323-1486], in "Due cronache quattrocentesche", ed. A.Ascani, pp.57-137.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395674</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Riformanze, reg.23, Verbale della seduta del Consiglio cittadino del 20 ottobre 1389.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1389</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395675</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Riformanze, reg.23, Verbale della seduta del Consiglio cittadino del 4 novembre 1389.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1389</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

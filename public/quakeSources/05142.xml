@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>05142</nterr>
+      <nperiod>003197</nperiod>
+      <datanum>18121025</datanum>
+      <data_label>1812 10 25</data_label>
+      <anno>1812</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.0285</lat>
+      <lon>12.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>34</npun>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Cellina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata sul catalogo di Iaccarino e Molin (1978) $(080271)$, a sua volta basato sul catalogo di Baratta (1901) $(000001)$. Baratta, per questo evento sismico, usò materiali di un suo precedente studio (Baratta 1897) $(071265)$, le cui fonti sono costituite da stampa coeva $(870015,870016,870017,870018)$ e dallo studio di Taramelli (1887) $(745152)$. A questi testi la ricerca ha aggiunto vari approfondimenti: presso le biblioteche comunali di Vicenza e di Ferrara e presso l’archivio parrocchiale di Ostiglia sono state reperite fonti memorialistiche manoscritte $(500001,500005,500163,692010,810003)$ che hanno fornito vari dettagli sugli effetti. Sono state inoltre analizzate osservazioni meteorologiche coeve relative all’area veneta: Filiasi (1813) $(380076)$ e Tommaselli (1815) $(380021)$, le cui osservazioni furono riprese da Goiran (1880) $(050397)$ e da Sormani Moretti (1904) $(080001)$, e Piovene (1888) $(050398)$.&lt;br&gt;Per l’area friulana sono stati utilizzati il catalogo di Tommasi (1888) $(775041)$ e un periodico triestino $(745242)$, già citato da De Rossi nel materiale pubblicato da Baratta (1899) $(060008)$. Per gli effetti nell’area del lago di Garda sono state reperite informazioni in Bettoni (1888, 1908) $(160059,160061)$ e nel Bollettino della Società Metereologica (1907) $(000101)$. Sono stati utilizzati inoltre gli studi di Höfer (1880) $(110422)$ e Schorn (1902) $(010041)$ riguardanti gli effetti in Carinzia, Tirolo e Baviera meridionale. Recentemente l’evento è stato revisionato da Barbano (1993) $(095042)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>Non vi furono vittime; 30 famiglie di Cavasso Nuovo furono costrette ad abbandonare le proprie case, che erano state gravemente danneggiate. Non si conoscono interventi amministrativi di soccorso ai danneggiati. L’ammontare dei danni, individuato solo per i paesi di Sequals e di Fanna, fu rispettivamente di lire 60.000 e 40.000.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Nel 1812, in seguito alla pace di Presburgo (1805), Veneto e Trieste erano parte del Regno d’Italia di Napoleone. Il Tirolo settentrionale apparteneva alla Baviera, anch’essa satellite francese. Slovenia e Carinzia erano parte dell’Impero d’Austria. Il periodo 1805-1814 è caratterizzato da forte instabilità amministrativa sia in Italia, parte del dominio napoleonico in continua espansione, sia nei territori tra Austria e Baviera, i cui nuovi confini erano stati tracciati nel 1809.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 25 ottobre 1812 alle ore 7:00 GMT ca. e colpì la valle del torrente Cellina al confine fra le attuali province di Treviso e di Pordenone. Gli effetti più gravi furono riscontrati a Cavasso Nuovo, dove vi furono crolli e varie case divennero inabitabili. Nei paesi situati ai piedi del Monte Cansiglio e dei contrafforti carnici crollarono vecchi edifici e cadde qualche comignolo. L’area di risentimento fu ampia: da Rohrsdorf a Ferrara, da Lubiana a Verona.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Nei dintorni di Sarmede si staccarono massi dalle cime dei monti. Sul monte Atzwang, vicino a Bolzano, si aprì una profonda e lunga spaccatura, da cui il 26 ottobre 1812 si staccò una grande frana che interruppe la via di comunicazione con la Baviera $(870016,870018)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>010041</codbib>
+      <autore1>Schorn J.</autore1>
+      <titolo1>Die Erdbeben von Tirol und Vorarlberg, in "Zeitschrift des Ferdinandeums für Tirol und Vorarlberg", s.III, a.1902, fasc.46, pp.99-282.</titolo1>
+      <luogoed>Innsbruck</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050398</codbib>
+      <autore1>Piovene G.</autore1>
+      <titolo1>Cronaca dei terremoti a Vicenza, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.45-57.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080272</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Atlante macrosismico dell’Italia nord orientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 8.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095042</codbib>
+      <autore1>Barbano M.S.</autore1>
+      <titolo1>Reassessing intensity of some Friuli earthquakes at the turn of the eighteenth century, in "Terra Nova", vol.5, pp.467-474.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110421</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Dipartimento del Basso Po, 1812.10.30, n.87.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1812</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110422</codbib>
+      <autore1>Höfer H.</autore1>
+      <titolo1>Die Erdbeben Kärtens und deren Stosslinien, in "Denkschriften der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", vol.42 (1880), pp.1-90.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160059</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Note storiche su terremoti, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.209-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380021</codbib>
+      <autore1>Tommaselli G.</autore1>
+      <titolo1>Osservazioni meteorologiche, per l’anno 1812, in "Memorie dell’Accademia di Agricoltura, Commercio ed Arti di Verona", vol.7.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1815</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380076</codbib>
+      <autore1>Filiasi J.</autore1>
+      <titolo1>Relazione meteorologica che comincia dal settembre 1811 e termina con ottobre 1812, in "Giornale astro-meteorologico per l’anno 1813".</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1813</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455152</codbib>
+      <autore1>Giorgetti F.</autore1>
+      <titolo1>Perché tanti castelli sono stati distrutti dai terremoti. Considerazioni sulla sismicità del Friuli, in "Castelli del Friuli", vol.5 (Storia ed evoluzione dell’arte delle fortificazioni in Friuli), a cura di T.Miotti, pp.323-346.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1981</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Bertoliana di Vicenza, Manoscritti Gonzati, 22.10.13, A.Arnaldi Tornieri, Memorie di Vicenza, del conte Arnaldo I.º Arnaldi Tornieri, che cominciano dall’anno 1767 18 giugno, e terminano nel 1822, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1767 - 1822</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500005</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Bertoliana di Vicenza, Manoscritti Gonzati, 23.10.15-17 (=1673-1675), G.Favetta, Memorie di quanto successe nella città di Vicenza dall’anno 1702 sino all’anno 1816, 3 voll, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec. - XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500163</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Bertoliana di Vicenza, Manoscritti, 2957-2965, Giuseppe Dian, Notizie delli due secoli XVIII e XIX spettanti alla città di Vicenza, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691270</codbib>
+      <autore1>Davia E.</autore1>
+      <titolo1>Cronistoria del terremoto a Ferrara, in "Il Duca", a.2, n.3, pp.1-2, n.5, pp.6-7, n.6, pp.6-7.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 596, Guido Pozzati, Memorie patrie ferraresi dal 1007 a tutto il 1835, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700053</codbib>
+      <autore1>Mahlknecht B.</autore1>
+      <titolo1>Kleine Südtiroler Erdbebenchronik, in "Der Schlern. Zeitschrift für Südtiroler Landeskunde", a.50, n.10, pp.644-650.</titolo1>
+      <luogoed>Bolzano</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745152</codbib>
+      <autore1>Taramelli T.</autore1>
+      <titolo1>Note illustrative alla Carta geologica della provincia di Belluno rilevata negli anni 1877-81.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745242</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti, in "L’Archeografo Triestino. Raccolta di opuscoli e notizie per Trieste e per l’Istria", vol.1, p.20.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1829</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775041</codbib>
+      <autore1>Tommasi A.</autore1>
+      <titolo1>I terremoti nel Friuli dal 1116 al 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.183-205.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>810003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio parrocchiale di Ostiglia, G.Boccalletti, Cronache Ostigliesi, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.04, n.89.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.07, n.90.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.11, n.91.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.18, n.93.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Cavasso Nuovo</desloc>
+      <lat_wgs84>46.1965</lat_wgs84>
+      <lon_wgs84>12.7712</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030288.00</nloc_cfti>
+      <desloc_cfti>Cavasso Nuovo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò alcuni crolli di abitazioni e rese pericolanti altre case: 30 famiglie rimasero senza tetto $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Aviano</desloc>
+      <lat_wgs84>46.0651</lat_wgs84>
+      <lon_wgs84>12.5843</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030191.00</nloc_cfti>
+      <desloc_cfti>Aviano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di case vecchie o malcostruite, la caduta di molti comignoli e diffuse fenditure nei muri $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Caneva</desloc>
+      <lat_wgs84>45.967</lat_wgs84>
+      <lon_wgs84>12.4427</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030250.00</nloc_cfti>
+      <desloc_cfti>Caneva</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di case vecchie o malcostruite, la caduta di molti comignoli e diffuse fenditure nei fabbricati $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Fanna</desloc>
+      <lat_wgs84>46.1868</lat_wgs84>
+      <lon_wgs84>12.752</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030348.00</nloc_cfti>
+      <desloc_cfti>Fanna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò caduta di comignoli, fenditure nei muri e il crollo di case vecchie o malcostruite. I danni ammontarono a 40.000 lire $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Polcenigo</desloc>
+      <lat_wgs84>46.0307</lat_wgs84>
+      <lon_wgs84>12.5011</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030454.00</nloc_cfti>
+      <desloc_cfti>Polcenigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di case vecchie o malcostruite, la caduta di molti comignoli e diffuse fenditure nei fabbricati $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>San Cassiano</desloc>
+      <lat_wgs84>45.6577</lat_wgs84>
+      <lon_wgs84>12.1604</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>027311.00</nloc_cfti>
+      <desloc_cfti>San Cassiano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo delle case vecchie o malcostruite, la caduta di molti comignoli e diffuse fenditure nei fabbricati $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pordenone</desloc>
+      <lat_wgs84>45.9643</lat_wgs84>
+      <lon_wgs84>12.6603</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030470.00</nloc_cfti>
+      <desloc_cfti>Pordenone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nelle case e la caduta di molti comignoli. La torre dell’orologio divenne pericolante e fu necessario demolirla immediatamente $(870015,870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sacile</desloc>
+      <lat_wgs84>45.9542</lat_wgs84>
+      <lon_wgs84>12.4987</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030517.00</nloc_cfti>
+      <desloc_cfti>Sacile</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo della cima del campanile e grandi danni non specificati $(870018,500001)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sarmede</desloc>
+      <lat_wgs84>45.9788</lat_wgs84>
+      <lon_wgs84>12.3859</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>027514.00</nloc_cfti>
+      <desloc_cfti>Sarmede</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di molti comignoli e fenditure nelle case. Nei dintorni di Sarmede, dalle cime dei monti si staccarono enormi massi $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sequals</desloc>
+      <lat_wgs84>46.165</lat_wgs84>
+      <lon_wgs84>12.8288</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030555.00</nloc_cfti>
+      <desloc_cfti>Sequals</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nei muri, il crollo di molti comignoli e di una casa. I danni ammontarono a più di 60.000 lire $(870018)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Conegliano</desloc>
+      <lat_wgs84>45.8875</lat_wgs84>
+      <lon_wgs84>12.2978</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>026894.00</nloc_cfti>
+      <desloc_cfti>Conegliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò danni non specificati $(870016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Valvasone</desloc>
+      <lat_wgs84>45.9961</lat_wgs84>
+      <lon_wgs84>12.8677</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030622.00</nloc_cfti>
+      <desloc_cfti>Valvasone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò danni non specificati $(870016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Belluno</desloc>
+      <lat_wgs84>46.1465</lat_wgs84>
+      <lon_wgs84>12.2216</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>025935.00</nloc_cfti>
+      <desloc_cfti>Belluno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di circa 40 comignoli e l’apertura di fenditure nei fabbricati; si aprì una lunga lesione nella volta della chiesa di San Rocco e si rovesciò la vasca dell’acqua santa $(745152,071265)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Friesach</desloc>
+      <lat_wgs84>46.9528</lat_wgs84>
+      <lon_wgs84>14.4052</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080445.00</nloc_cfti>
+      <desloc_cfti>Friesach</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nella chiesa dei Domenicani cadde sabbia e intonaco dalla volta, sui muri comparvero crepe e si temette il crollo della volta $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Palmanova</desloc>
+      <lat_wgs84>45.9054</lat_wgs84>
+      <lon_wgs84>13.3102</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>031248.00</nloc_cfti>
+      <desloc_cfti>Palmanova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò danni leggeri $(095042)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto forte e fece cadere alcuni comignoli $(870017)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Puos d'Alpago</desloc>
+      <lat_wgs84>46.1412</lat_wgs84>
+      <lon_wgs84>12.3623</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>026401.00</nloc_cfti>
+      <desloc_cfti>Puos d’Alpago</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, nelle case caddero i piatti $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu forte. Sulla piazza della prefettura una grossa pietra si staccò da un edificio $(870015)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bolzano</desloc>
+      <lat_wgs84>46.4978</lat_wgs84>
+      <lon_wgs84>11.3542</lon_wgs84>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>020302.00</nloc_cfti>
+      <desloc_cfti>Bolzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortemente avvertita $(870016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto forte. Le persone che si trovavano nella chiesa di San Francesco fuggirono spaventate $(870017,692010)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ostiglia</desloc>
+      <lat_wgs84>45.0668</lat_wgs84>
+      <lon_wgs84>11.1364</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>019806.00</nloc_cfti>
+      <desloc_cfti>Ostiglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortemente avvertita $(810003)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Spilimbergo</desloc>
+      <lat_wgs84>46.1112</lat_wgs84>
+      <lon_wgs84>12.8986</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>030587.00</nloc_cfti>
+      <desloc_cfti>Spilimbergo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu forte $(775041)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(745242)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Udine</desloc>
+      <lat_wgs84>46.0641</lat_wgs84>
+      <lon_wgs84>13.2357</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>031830.00</nloc_cfti>
+      <desloc_cfti>Udine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu forte $(775041,071265)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vicenza</desloc>
+      <lat_wgs84>45.5499</lat_wgs84>
+      <lon_wgs84>11.549</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>025814.00</nloc_cfti>
+      <desloc_cfti>Vicenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu forte: fece rintoccare alcune volte la campana della torre, fece battere molte campane delle chiese; alcuni campanelli nelle case suonarono; cadde qualche candeliere dagli altari. Non ci furono danni $(870016,500001,500005)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Ljubljana</desloc>
+      <lat_wgs84>46.0588</lat_wgs84>
+      <lon_wgs84>14.5032</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080076.00</nloc_cfti>
+      <desloc_cfti>Ljubljana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(870017)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Salzburg</desloc>
+      <lat_wgs84>47.8044</lat_wgs84>
+      <lon_wgs84>13.0549</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080002.00</nloc_cfti>
+      <desloc_cfti>Salzburg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(095042)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Trento</desloc>
+      <lat_wgs84>46.065</lat_wgs84>
+      <lon_wgs84>11.1242</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>022075.00</nloc_cfti>
+      <desloc_cfti>Trento</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(870016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Feltre</desloc>
+      <lat_wgs84>46.0201</lat_wgs84>
+      <lon_wgs84>11.9057</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>026108.00</nloc_cfti>
+      <desloc_cfti>Feltre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(095042)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Innsbruck</desloc>
+      <lat_wgs84>47.2674</lat_wgs84>
+      <lon_wgs84>11.4035</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080100.00</nloc_cfti>
+      <desloc_cfti>Innsbruck</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Klagenfurt</desloc>
+      <lat_wgs84>46.6191</lat_wgs84>
+      <lon_wgs84>14.3089</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080101.00</nloc_cfti>
+      <desloc_cfti>Klagenfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Rohrsdorf</desloc>
+      <lat_wgs84>47.8683</lat_wgs84>
+      <lon_wgs84>12.1374</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>080446.00</nloc_cfti>
+      <desloc_cfti>Rohrsdorf</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(110422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>05142</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(380021)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

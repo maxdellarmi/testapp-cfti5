@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067511.00</nloc_cfti>
+      <desloc_cfti>Camastra</desloc_cfti>
+      <provlet>AG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>37.2517</lat_wgs84>
+      <lon_wgs84>13.7942</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di III grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40169</nterr>
+      <nperiod>003048</nperiod>
+      <datanum>19780415</datanum>
+      <data_label>1978 04 15</data_label>
+      <anno>1978</anno>
+      <mese>04</mese>
+      <giorno>15</giorno>
+      <time_label>23:33:47</time_label>
+      <ora>23</ora>
+      <minu>33</minu>
+      <sec>47</sec>
+      <lat>38.1251</lat>
+      <lon>15.022</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>331</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Golfo di Patti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Barbano et al. (1979) hanno valutato l’intensità della scossa di II grado MCS $(035248,035275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Il terremoto non causò danni $(035236)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035248</codbib>
+      <autore1>Barbano M.S., Bottari A., Carveni P., Cosentino M., Federico B., Fonte G., Lo Giudice E., Lombardo G. e Patané G.</autore1>
+      <titolo1>Macroseismic study of the gulf of Patti earthquake in the geostructural frame of North-Eastern Sicily, in "Bollettino della Società Geologica Italiana", vol.98, pp.155-174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035236</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.14, a.46, n.342.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

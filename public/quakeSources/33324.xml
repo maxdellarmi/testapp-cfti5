@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>33324</nterr>
+      <nperiod>003036</nperiod>
+      <datanum>19541123</datanum>
+      <data_label>1954 11 23</data_label>
+      <anno>1954</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>13:00:04</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>04</sec>
+      <lat>38.5</lat>
+      <lon>14.9</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Basso Tirreno</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La ricerca relativa al terremoto del 23 novembre 1954, compiuta sulla bibliografia scientifica e sulle principali fonti giornalistiche siciliane e nazionali, ha consentito di evidenziare con certezza l’errore di valutazione relativo all’intensità macrosismica attribuita all’evento, derivante da un non corretto procedimento di trasformazione del valore di magnitudo in valore di intensità MCS.&lt;br&gt;Il Catalogo PFG per questo evento rimanda a Carozzo et al. (1975) $(050843)$, che a loro volta ripresero le notizie pubblicate nel "Bulletin of the Seismological Society of America" (BSSA) e nel saggio di Riuscetti e Schick (1975). Il BSSA (1955) segnala alle ore 12:59:30 GMT del 23 novembre 1954 una scossa avvenuta nei pressi della costa settentrionale della Sicilia, con epicentro localizzato nell’entroterra del golfo di Patti $(051277)$; lo studio di Riuscetti e Schick, condotto su 19 terremoti superficiali e 8 terremoti profondi avvenuti in Italia meridionale dal 1905 al 1973, segnala che la scossa del 23 novembre ebbe una profondità ipocentrale di 283 km e una magnitudo 5.9 $(051273)$; gli autori evidenziano giustamente l’assenza di risentimenti macrosismici, dei quali non si hanno segnalazioni neppure negli altri studi in cui è ricordato questo evento (Girlanda 1955 $(051274)$; Peterschmitt 1956 $(051276)$; Marcelli e Pannocchia 1971 $(051275)$).&lt;br&gt;Il vaglio della stampa siciliana e nazionale $(055026,055027,071253,450112)$ (complessivamente 4 testate) ha confermato che la scossa non produsse effetti macrosismici in nessuna località della Sicilia o della Calabria, né altrove.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa del 23 novembre 1954, registrata in numerosi osservatori italiani e stranieri, fu localizzata nell’area del Tirreno meridionale, ma non causò effetti macrosismici in nessuna località.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>050843</codbib>
+      <autore1>Carrozzo M.T., Cosentino M., Ferlito A., Giorgetti F., Patané G. e Riuscetti M.</autore1>
+      <titolo1>Earthquakes catalogue of Calabria and Sicily (1783-1973), CNR, Quaderni de «La Ricerca Scientifica», vol.93.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051273</codbib>
+      <autore1>Riuscetti M. e Schick R.</autore1>
+      <titolo1>Earthquakes and Tectonics in Southern Italy, in "Bollettino di Geofisica teorica ed applicata", vol.17, n.65, pp.59-78.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051274</codbib>
+      <autore1>Girlanda A.</autore1>
+      <titolo1>Sul terremoto profondo delle isole Eolie del 23 novembre 1954, in "Annali di Geofisica", vol.8, n.4, pp.439-455.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051275</codbib>
+      <autore1>Marcelli L. e Pannocchia G.</autore1>
+      <titolo1>Uno studio analitico sui dati ipocentrali di 10 terremoti avvenuti in Sicilia occidentale nel Gennaio 1968, in "Annali di Geofisica", vol.24, n.2, pp.287-306.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051276</codbib>
+      <autore1>Peterschmitt E.</autore1>
+      <titolo1>Quelques données nouvelles sur les seismes profonds de la mer Tyrrhenienne, in "Annali di Geofisica", vol.9, n.3, pp.305-334.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1956</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051277</codbib>
+      <autore1>*</autore1>
+      <titolo1>Seismological Notes, in "Bulletin of the Seismological Society of America", vol.45, pp.149-166.</titolo1>
+      <luogoed>Berkeley</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051278</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel de l’Union Geodesique et Geophysique Internationale, 1954, Mois de Novembre, pp.603-658.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1954</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055026</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ora.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1941 - 1954</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1941 - 1954</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071253</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1909-1985.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1909 - 1985</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450112</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1909-1985.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1909 - 1975</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>950731</codbib>
+      <autore1>Boschi E., Ferrari G., Gasperini P., Guidoboni E., Smriglio G. e Valensise G.</autore1>
+      <titolo1>Catalogo dei forti terremoti in Italia dal 461 a.C. al 1980, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

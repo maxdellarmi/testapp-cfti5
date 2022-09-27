@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00412</nterr>
+      <nperiod>002016</nperiod>
+      <datanum>14560822</datanum>
+      <data_label>1456 08 22</data_label>
+      <anno>1456</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.333</lat>
+      <lon>11.333</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Siena</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti memorialistiche edite e manoscritte. Base informativa del Catalogo è Baratta (1901) $(000001)$ che citò come unica fonte Pilla (1846) $(630005)$. Pilla ricordò che nel 1456 avvennero due scosse: la prima "arrecò grave disastro" a Siena il 22 agosto; la seconda fu avvertita il 9 dicembre a Sansepolcro. Per entrambi gli eventi Pilla rimanda a Sarti (1783) $(092027)$, il quale però ricorda soltanto il terremoto di Sansepolcro.&lt;br&gt;In realtà questo terremoto non è menzionato in nessuna delle fonti cronachistiche di area senese del XV secolo o successive terremoto, quali l’opera manoscritta di Sigismondo Tizio (Biblioteca Apostolica Vaticana, Chigiani, G.I.31-35, G.II.36-40) $(092019)$, le cronache di Allegretti (inizi sec.XVI) $(760013)$ e di Fecini (fine sec.XV) $(090027)$, né nelle opere erudite settecentesche di Gigli (1716) $(395273)$ e di Soldani (1798) $(350022)$. Appare pertanto evidente che Pilla incorse in un errore di "sdoppiamento" del terremoto del 22 agosto 1467, ampiamente documentato dalle fonti quattrocentesche senesi. Una revisione di questo evento (Castelli 1991 $(092194)$) ha ipotizzato che all’origine di questo errore possa esserci stata una lettura affrettata delle notizie relative a una tromba d’aria, che colpì la Toscana il 22 agosto 1456.&lt;br&gt;La revisione svolta consente di affermare che questo terremoto non si è verificato; l’evento è stato pertanto eliminato.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090027</codbib>
+      <autore1>Fecini Tommaso</autore1>
+      <titolo1>Cronaca senese (1431-1479), ed. A.Lisini e F.Iacometti, in "Rerum Italicarum Scriptores", 2ª ed., tomo 15, parte 6, vol.2, pp.841-74.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1939</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, G.I.31-35, G.II.36-40, Sigismondo Tizio, Historiarum Senensium [origini-1528], 10 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092027</codbib>
+      <autore1>Sarti C.</autore1>
+      <titolo1>Saggio di congetture su i terremoti.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1783</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092194</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>La revisione dei maggiori terremoti medievali d’interesse per il territorio della Regione Toscana, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.47-58.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395273</codbib>
+      <autore1>Gigli G.</autore1>
+      <titolo1>La città diletta di Maria.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1716</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760013</codbib>
+      <autore1>Allegretti A.</autore1>
+      <titolo1>Ephemerides Senenses ab anno 1450 usque ad 1496 (sec.XV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 23, coll.767-860.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

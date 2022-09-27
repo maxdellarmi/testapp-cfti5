@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42277</nterr>
+      <nperiod>009262</nperiod>
+      <datanum>14730707</datanum>
+      <data_label>1473 07 07</data_label>
+      <anno>1473</anno>
+      <mese>07</mese>
+      <giorno>07</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.5408</lat>
+      <lon>13.8664</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Sant’Elia Fiumerapido (FR)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso e nel Catalogo PFG (1985).&lt;br&gt;Benché allo stato attuale non ci siano informazioni di danni, si è ritenuto di inserire ugualmente questo evento per conservare la data come indicatore cronologico che può guidare nuove ricerche. La località nota è palesemente solo un punto di risentimento di un terremoto il cui epicentro è ancora sconosciuto.&lt;br&gt;Questo terremoto è stato analizzato in un rapporto tecnico inedito riguardante la revisione del terremoto del 1456 (SGA 2003, RPT 255/03) $(093311)$.&lt;br&gt;La fonte è il notaio-cronista Angelo Tummolillo (1397 ­ c. 1480-1485) autore di una cronaca dal titolo "Notabilia temporum" (ed. 1890) $(220002)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 7 luglio 1473 alle ore 4:30 GMT ("all’aurora"): a Sant’Elia Fiumerapido (prov. di Frosinone) fu di moderata intensità ("remissus").&lt;br&gt;L’area epicentrale di questo evento è sconosciuta.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093311</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Integrazione di ricerca di archeologia e storia territoriale riguardante il terremoto del 1456 e l’area molisano-campana relativamente ai terremoti prima del Mille, RPT 255/03, Bologna maggio 2003 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>220002</codbib>
+      <autore1>Tummolillo Angelo</autore1>
+      <titolo1>Notabilia temporum di Angelo de Tummulillis da Sant’Elia, ed. C.Corvisieri, in "Fonti per la storia d’Italia" (Scrittori secolo XV), vol.7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sant'Elia Fiumerapido</desloc>
+      <lat_wgs84>41.5408</lat_wgs84>
+      <lon_wgs84>13.8664</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42277</nterr>
+      <nloc_cfti>055629.00</nloc_cfti>
+      <desloc_cfti>Sant’Elia Fiumerapido</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu di intensità moderata ("remissus") $(220002)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

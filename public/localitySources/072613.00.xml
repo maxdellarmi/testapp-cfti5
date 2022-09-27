@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072613.00</nloc_cfti>
+      <desloc_cfti>Sasso</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.9306</lat_wgs84>
+      <lon_wgs84>11.8217</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 29 giugno 1919 aggravò i danni causati dal precedente terremoto del 10 novembre 1918 alla torre dell’abbazia di S.Giacomo: cadde l’ultima parte rimanente della torre già ridotta a rudere $(410058)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Secondo Mambrini (1935), i terremoti del 10 novembre 1918 e del 29 giugno 1919 fecero cadere l’ultima parte rimanente della torre dell’abbazia di S.Giacomo già ridotta a rudere $(410058)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>410058</codbib>
+      <autore1>Mambrini D.</autore1>
+      <titolo1>Galeata nella storia e nell’arte.</titolo1>
+      <luogoed>Bagno di Romagna</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067412.00</nloc_cfti>
+      <desloc_cfti>Torregrotta</desloc_cfti>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>38.2001</lat_wgs84>
+      <lon_wgs84>15.3494</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40169</nterr>
+      <nperiod>003048</nperiod>
+      <datanum>19780415</datanum>
+      <data_label>1978 04 15</data_label>
+      <anno>1978</anno>
+      <mese>04</mese>
+      <giorno>15</giorno>
+      <time_label>23:33:47</time_label>
+      <ora>23</ora>
+      <minu>33</minu>
+      <sec>47</sec>
+      <lat>38.1251</lat>
+      <lon>15.022</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>331</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Golfo di Patti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Barbano et al. (1979) hanno valutato l’intensità della scossa di VI grado MSK-64 $(035248,035275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38578</nterr>
+      <nperiod>003046</nperiod>
+      <datanum>19750116</datanum>
+      <data_label>1975 01 16</data_label>
+      <anno>1975</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>00:09:45</time_label>
+      <ora>00</ora>
+      <minu>09</minu>
+      <sec>45</sec>
+      <lat>38.1148</lat>
+      <lon>15.6431</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>346</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Stretto di Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Bottari e Lo Giudice (1975) hanno valutato l’intensità della scossa di V-VI grado MCS $(035062)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito in modo forte.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14962</nterr>
+      <nperiod>003040</nperiod>
+      <datanum>18941116</datanum>
+      <data_label>1894 11 16</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>17:52:00</time_label>
+      <ora>17</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>38.2888</lat>
+      <lon>15.8701</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>303</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò il crollo di alcune vecchie casupole malcostruite $(056010)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035062</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Studio macrosismico del terremoto di Reggio Calabria del 16 Gennaio 1975, in "Annali di Geofisica", vol.28, pp.151-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056010</codbib>
+      <autore1>Riccò A.</autore1>
+      <titolo1>Il terremoto del 16 novembre 1894 in Calabria e Sicilia. Parte I: Relazione sismologica, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.19 (1897), parte I, pp.7-261.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035248</codbib>
+      <autore1>Barbano M.S., Bottari A., Carveni P., Cosentino M., Federico B., Fonte G., Lo Giudice E., Lombardo G. e Patané G.</autore1>
+      <titolo1>Macroseismic study of the gulf of Patti earthquake in the geostructural frame of North-Eastern Sicily, in "Bollettino della Società Geologica Italiana", vol.98, pp.155-174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048469.00</nloc_cfti>
+      <desloc_cfti>Butine</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.061</lat_wgs84>
+      <lon_wgs84>12.5371</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Fu gravemente danneggiato dalle scosse del 13 gennaio $(395726,395722,395725)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395726</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Lettera del governatore di Foligno Mariano Antonio Mariani al delegato apostolico relativa ai danni causati dal terremoto a Foligno e nel territorio del distretto, Foligno 28 aprile 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395722</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Copia di relazione del gonfaloniere di Foligno Tommaso Lezj Marchetti al governatore di Foligno sui danni causati dal terremoto nel territorio comunale, Foligno 22 maggio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395725</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Nota delle Comuni e loro Appodiati comprese nella Delegazione di Perugia danneggiate dal terremoto, Perugia maggio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

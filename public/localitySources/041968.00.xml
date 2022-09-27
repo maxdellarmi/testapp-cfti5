@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041968.00</nloc_cfti>
+      <desloc_cfti>Case Trebbio</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.9764</lat_wgs84>
+      <lon_wgs84>12.6724</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il Genio civile visitò 5 abitazioni danneggiate, 4 delle quali furono dichiarate inabitabili; la documentazione consultata non specifica quali scosse causarono i danni $(391571)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391571</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, b.1, Accertamenti dopo il terremoto 1916, Ufficio Speciale di Rimini per i lavori del terremoto, Elenco delle case visitate e di quelle dichiarate inabitabili in seguito ai danni subiti dal terremoto, Rimini 28 settembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

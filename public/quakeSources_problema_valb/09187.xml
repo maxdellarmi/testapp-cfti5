@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>09187</nterr>
+      <nperiod>003251</nperiod>
+      <datanum>18650921</datanum>
+      <data_label>1865 09 21</data_label>
+      <anno>1865</anno>
+      <mese>09</mese>
+      <giorno>21</giorno>
+      <time_label>20:50</time_label>
+      <ora>20</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>43.282</lat>
+      <lon>12.3124</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita da Baratta (1901) $(000001)$ e dal catalogo inedito di Peronaci (1974) $(130464)$, ed è stata condotta una ricerca bibliografica e una ricerca mirata sulle fonti amministrative.&lt;br&gt;Sono state rianalizzate le informazioni di Baratta, che utilizzò i lavori di Scarpellini (1867) e di Perrey (1867) $(060386)$. Sono stati utilizzati il "Bollettino Meteorologico" dell’Osservatorio di Urbino (1867) $(020947)$ e le osservazioni sismologiche di Serpieri (1888) $(020939)$. Sono state inoltre consultate 3 testate giornalistiche dell’epoca, che tuttavia non hanno fornito informazioni utili per precisare l’entità dei danni e l’area di risentimento.&lt;br&gt;Le ricerche condotte sulla documentazione amministrativa conservata negli Archivi storici comunali di Città di Castello e di Sansepolcro hanno dato esito negativo: sono stati consultati protocolli di corrispondenza e registri di deliberazioni $(775089,775090,396187)$. È stato inoltre effettuato un sondaggio nei fondi della Prefettura e del Genio civile dell’Archivio di Stato di Perugia, anche in questo caso con esito negativo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 21 settembre 1865 alle ore 20:50 GMT ed ebbe, a Perugia, una durata di 8 secondi. Gli effetti più gravi furono circoscritti a pochi centri dell’Umbria settentrionale: a Città di Castello vi furono lesioni e crolli in varie case; a Perugia caddero parecchi tetti e comignoli. L’area di risentimento si estese alla parte nord-orientale della Toscana e a quella nord-occidentale delle Marche.&lt;br&gt;Repliche di minore intensità furono avvertite nei giorni seguenti fino ai primi giorni di ottobre.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale avvenne il 21 settembre 1865 alle ore 20:50 GMT (ore 9:50 pomeridiane locali) ed ebbe una durata di 8 secondi. Fu seguita dopo qualche ora da alcune repliche di minore intensità: alle ore 2:15 GMT (ore3:15 antimeridiane), 3:15 GMT (ore 4:15 antimeridiane), alle ore 5:00 GMT (ore 6 antimeridiane), alle ore 12:52 GMT (ore 1:52 pomeridiane), alle ore 14:15 GMT (ore 3:15 pomeridiane), e alle ore 21:03 GMT (ore 10:03 pomeridiane) del giorno 22. Altre scosse furono avvertite nei giorni seguenti fino ai primi giorni di ottobre.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002129</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Rapporto delle osservazioni fatte sul terremoto avvenuto in Italia la sera del 12 marzo 1873, in "Supplemento alla Meteorologia Italiana", a.1872, pp.45-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1873</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020939</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Scritti di sismologia novamente raccolti e pubblicati da G.Giovannozzi, 2 voll.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1888 - 1889</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020947</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Meteorologico di Urbino, fasc.1 (1866).</titolo1>
+      <luogoed>Urbino</luogoed>
+      <datacompl>1867</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060302</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere dell’Emilia, 1865.09.25, n.265.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1865</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060386</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1865, avec supplément pour les années anterieures de 1843 à 1864, in "Mémoires Couronnés et Autres Mémoires publiés par l’Académie Royale des Sciences, des Lettres et des Beaux-Arts de Belgique", tomo 19 (1867).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1867</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095573</codbib>
+      <autore1>Conversini P., Lolli O., Molin D., Paciello A. e Pagliacci S.</autore1>
+      <titolo1>Ricerche sulla sismicità storica della provincia di Perugia, Quaderni Regione dell’Umbria, n.s., Collana Sismica, vol.1b.</titolo1>
+      <luogoed>Perugia</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095665</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sulla distribuzione topografica dei terremoti nell’Umbria, in "Bollettino della Società Geografica Italiana", s.III, vol.35, pp.488-499.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, Protocollo delle deliberazioni, 23 giugno 1864-24 maggio 1870.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1864 - 1870</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1865.09.25.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1865</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775089</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Protocollo della corrispondenza, 1865.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1865</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775090</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Registro delle deliberazioni del Consiglio e della Giunta municipale, 1865.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1865</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1865.09.26, n.225.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1865</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Città di Castello</desloc>
+      <lat_wgs84>43.4572</lat_wgs84>
+      <lon_wgs84>12.2385</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>09187</nterr>
+      <nloc_cfti>048680.00</nloc_cfti>
+      <desloc_cfti>Città di Castello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima e causò crolli in varie case e danni gravi al patrimonio edilizio $(000001,000002,060386)$. Le fonti non consentono di precisare la tipologia dei danni e il numero di case danneggiate.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Perugia</desloc>
+      <lat_wgs84>43.1068</lat_wgs84>
+      <lon_wgs84>12.3862</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>09187</nterr>
+      <nloc_cfti>049390.00</nloc_cfti>
+      <desloc_cfti>Perugia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima e durò 8 secondi. Nella parte alta della città causò la caduta di numerosi tetti e comignoli. Furono avvertite 4-5 repliche ravvicinate di moderata intensità. Gran parte della popolazione trascorse la notte all’aperto. Altre scosse leggere furono avvertite fra il giorno 1 e il 16 ottobre $(000001,000002,060386,060302,600133,870205)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Pierle</desloc>
+      <lat_wgs84>43.2583</lat_wgs84>
+      <lon_wgs84>12.1114</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>09187</nterr>
+      <nloc_cfti>047187.00</nloc_cfti>
+      <desloc_cfti>Pierle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Dal 21 al 24 settembre furono avvertite scosse violente, che causarono grande panico negli abitanti, che cercarono scampo all’aperto, dove rimasero fino al 5 ottobre: infatti le scosse, più leggere, continuarono fino a quella data $(000001,000002,060386)$. Non sono segnalati danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Urbino</desloc>
+      <lat_wgs84>43.7266</lat_wgs84>
+      <lon_wgs84>12.636</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>09187</nterr>
+      <nloc_cfti>051050.00</nloc_cfti>
+      <desloc_cfti>Urbino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 8 secondi, venne fortemente avvertita. Fu seguita da una seconda scossa, di breve durata, ma di forte intensità il giorno 24 settembre $(000001,000002,020939,020947)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Arezzo</desloc>
+      <lat_wgs84>43.4635</lat_wgs84>
+      <lon_wgs84>11.8791</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>09187</nterr>
+      <nloc_cfti>046638.00</nloc_cfti>
+      <desloc_cfti>Arezzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nella sera fra il 21 e il 22 settembre furono avvertite alcune scosse, la più forte delle quali durò 3 secondi $(600133,870205)$. Non ci furono danni.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

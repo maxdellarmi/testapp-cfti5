@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041812.00</nloc_cfti>
+      <desloc_cfti>Zollara</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.9014</lat_wgs84>
+      <lon_wgs84>12.5697</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Villaggio dipendente dal castello di Gemmano. Secondo la perizia effettuata per conto della Comunità, il terremoto danneggiò notevolmente l’abitato e le case rurali del territorio circostante, causando lesioni e crolli parziali di muri e tetti $(672983)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672983</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rimini III, b.3876 (1667-1678), Perizia dei danni causati dal terremoto del 14 aprile 1672 nel castello di Gemmano e suo territorio effettuata dai maestri muratori Luca Bedassi e Francesco Manenti redatta dal notaio Fabrizio Sensolini, Gemmano 13 maggio 1672.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

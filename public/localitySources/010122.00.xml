@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>010122.00</nloc_cfti>
+      <desloc_cfti>Bodio</desloc_cfti>
+      <provlet>VA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>45.7901</lat_wgs84>
+      <lon_wgs84>8.7516</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il 18 ottobre, alle 3:10 GMT circa, furono avvertite 2 scosse della durata di pochi secondi $(630045)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>630045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Prealpina, 1936.10.20.</titolo1>
+      <luogoed>Varese</luogoed>
+      <datacompl>1936</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072532.00</nloc_cfti>
+      <desloc_cfti>Camaro Superiore</desloc_cfti>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>38.193</lat_wgs84>
+      <lon_wgs84>15.5197</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38578</nterr>
+      <nperiod>003046</nperiod>
+      <datanum>19750116</datanum>
+      <data_label>1975 01 16</data_label>
+      <anno>1975</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>00:09:45</time_label>
+      <ora>00</ora>
+      <minu>09</minu>
+      <sec>45</sec>
+      <lat>38.1148</lat>
+      <lon>15.6431</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>346</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Stretto di Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Non sono note descrizioni degli effetti. Bottari e Lo Giudice (1975) hanno valutato l’intensità della scossa di VI-VII grado MCS $(035062)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Frazione del comune di Messina. Il terremoto fece crollare gran parte delle 450 case che componevano il centro abitato e rese inabitabili le rimanenti, esclusi pochi pianterreni. Ci furono circa 80 morti (4,7%) e 120 feriti, su un totale di 1679 abitanti $(145011,635473)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635473</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1909, rubrica 36 (Disastri), fasc.25, Relazione del delegato pontificio Emilio Cottafavi al papa Pio X sui lavori di ricostruzione degli edifici religiosi delle arcidiocesi di Reggio Calabria e Messina distrutti dal terremoto del 28 dicembre 1908, Reggio Emilia 25 marzo 1911.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1911</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035062</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Studio macrosismico del terremoto di Reggio Calabria del 16 Gennaio 1975, in "Annali di Geofisica", vol.28, pp.151-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

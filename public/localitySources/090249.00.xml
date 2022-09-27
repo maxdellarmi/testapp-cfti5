@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090249.00</nloc_cfti>
+      <desloc_cfti>Appennino pavese</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3.5</maxint>
+      <lat_wgs84>44.834</lat_wgs84>
+      <lon_wgs84>9.2496</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38214</nterr>
+      <nperiod>000698</nperiod>
+      <datanum>19740114</datanum>
+      <data_label>1974 01 14</data_label>
+      <anno>1974</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>08:46:50</time_label>
+      <ora>08</ora>
+      <minu>46</minu>
+      <sec>50</sec>
+      <lat>44.9137</lat>
+      <lon>9.1294</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>3.5</imax>
+      <npun>3</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Appennino pavese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50004</nterr>
+      <nperiod>005023</nperiod>
+      <datanum>-3220000</datanum>
+      <data_label>322 B. C. - -</data_label>
+      <anno>-322</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.867</lat>
+      <lon>14.133</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Campi Flegrei</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Aristotele, filosofo greco del IV secolo a.C., contenuta nel trattato "Meteorologica" $(630067)$, in cui l’autore esemplifica i tipi di eventi sismici, citando terremoti avvenuti in un’epoca a lui vicina. Aristotele si riferisce alla pianura Flegrea. L’evento potrebbe essersi verificato anche molti decenni prima, ma l’unico termine "ante quem" è quello della morte di Aristotele nel 322 a.C., dato che i "Meteorologica" non possono essere datati con precisione $(093043)$. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XVII secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Effetti sismici genericamente localizzati nell’area dei Campi Flegrei. Il terremoto fece affiorare in superficie numerose pietre $(630067)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093138</codbib>
+      <autore1>Louis P. (ed.)</autore1>
+      <titolo1>Aristote. Météorologiques, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093157</codbib>
+      <autore1>Oberhummer E.</autore1>
+      <titolo1>Phlegra, in "Paulys Realencyclopädie der classischen Altertumswissenschaft", vol.20/1, coll.264-265.</titolo1>
+      <luogoed>Stuttgart</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093160</codbib>
+      <autore1>Panessa G.</autore1>
+      <titolo1>Fonti greche e latine per la storia dell’ambiente e del clima nel mondo greco, 2 voll.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630067</codbib>
+      <autore1>Aristoteles</autore1>
+      <titolo1>Meteorologica, ed. P.Louis, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630174</codbib>
+      <autore1>Capelle W.</autore1>
+      <titolo1>Erdbebenforschung, in "Paulys Realencyclopädie der classischen Altertumswissenschaft", Suppl.4, coll.344-374.</titolo1>
+      <luogoed>Stuttgart</luogoed>
+      <datacompl>1924</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Campi Flegrei</desloc>
+      <lat_wgs84>40.8673</lat_wgs84>
+      <lon_wgs84>14.1332</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50004</nterr>
+      <nloc_cfti>090206.00</nloc_cfti>
+      <desloc_cfti>Campi Flegrei</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Effetti sismici genericamente localizzati, secondo i "Meteorologica" di Aristotele $(630067)$, nell’area dei Campi Flegrei. Il terremoto fece affiorare in superficie numerose pietre.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

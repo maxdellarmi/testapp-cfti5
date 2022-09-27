@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056519.00</nloc_cfti>
+      <desloc_cfti>Paterno</desloc_cfti>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.7527</lat_wgs84>
+      <lon_wgs84>13.7182</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01291</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030202</datanum>
+      <data_label>1703 02 02</data_label>
+      <anno>1703</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>11:05</time_label>
+      <ora>11</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.4351</lat>
+      <lon>13.2917</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>69</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 2 febbraio danneggiò gravemente il paese e i casali rurali della campagna circostante, alcuni dei quali crollarono; non furono segnalate vittime. La comunità ottenne l’esenzione fiscale per 1 anno $(645114,095214)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>645114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 144, c.1033 e sgg. n.n., Nota relativa alla stesura dell’elenco delle università del ripartimento di Penne alle quali vanno concesse esenzioni fiscali in seguito ai danni causati dal terremoto del 1703, Napoli 1 ottobre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Frammenti della corrispondenza tenuta tra il dottore Filippantonio Mancini procurator fiscale presso la Regia Udienza dell’Aquila, e l’illustrissimo signore Marco Garofalo marchese della Rocca vicario generale nella provincia di Abruzzo Ultra, intorno a’ danni prodotti dal terremoto de’ 2 febbraio 1703, ed altre notizie che vi hanno relazione, in F.Cappa, "Sul terremoto che a’ 2 di febbraio 1703 rovinò L’Aquila e molti paesi di Abruzzo", pp.21-50.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

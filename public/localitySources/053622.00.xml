@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053622.00</nloc_cfti>
+      <desloc_cfti>Ardea</desloc_cfti>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>41.6096</lat_wgs84>
+      <lon_wgs84>12.5464</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05593</nterr>
+      <nperiod>003139</nperiod>
+      <datanum>18290601</datanum>
+      <data_label>1829 06 01</data_label>
+      <anno>1829</anno>
+      <mese>06</mese>
+      <giorno>01</giorno>
+      <time_label>09:00</time_label>
+      <ora>09</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.7552</lat>
+      <lon>12.6802</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>25</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Le scosse del periodo sismico furono leggermente avvertite $(745083)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04919</nterr>
+      <nperiod>003138</nperiod>
+      <datanum>18060826</datanum>
+      <data_label>1806 08 26</data_label>
+      <anno>1806</anno>
+      <mese>08</mese>
+      <giorno>26</giorno>
+      <time_label>07:35</time_label>
+      <ora>07</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>41.7191</lat>
+      <lon>12.7253</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>35</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita sul litorale, vi furono danni non specificati $(002139,071265,672741)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002139</codbib>
+      <autore1>Galli I.</autore1>
+      <titolo1>I terremoti nel Lazio.</titolo1>
+      <luogoed>Velletri</luogoed>
+      <datacompl>1906</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672741</codbib>
+      <autore1>Gilii F.L.</autore1>
+      <titolo1>Risultati delle osservazioni meteorologiche fatte l’anno 1806 da Filippo Luigi Gilii nella Specola pontificia vaticana.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1807</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745083</codbib>
+      <autore1>Bassanelli L.</autore1>
+      <titolo1>Sopra il tremuoto che ha sofferto la città di Albano con le sue vicinanze dal giorno 21 di maggio a tutto il dì 6 dicembre 1829. Lettera del dottor fisico Luigi Bassanelli all’ecc.mo sig. dottor Giacomo Folchi pubblico professore di medicina nell’archiginnasio romano, in "Giornale Arcadico", vol.44, pp.37-74.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1829</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

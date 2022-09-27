@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072133.00</nloc_cfti>
+      <desloc_cfti>Torricella</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.928</lat_wgs84>
+      <lon_wgs84>11.5076</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00831</nterr>
+      <nperiod>002026</nperiod>
+      <datanum>15970803</datanum>
+      <data_label>1597 08 03</data_label>
+      <anno>1597</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9879</lat>
+      <lon>11.4286</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>24</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto danneggiò la chiesa di San Nicolò dei monaci della Badia di Firenze e alcune abitazioni, come si evince dalla supplica indirizzata ai Capitani di parte guelfa, per ottenere l’autorizzazione a tagliare alberi e utilizzare il legname per il restauro degli edifici danneggiati $(350045)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, numeri neri, filza 427, n.163, Attestazione dei danni causati alla chiesa di Sant’Alessandro a Vitigliano, alla chiesa e alle abitazioni di San Martino a Rossoio e alla chiesa di San Niccolò a Torricella dal terremoto del 3 agosto 1597, Vicchio 5 agosto 1599.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1599</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

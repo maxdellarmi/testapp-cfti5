@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>05993</nterr>
+      <nperiod>000176</nperiod>
+      <datanum>18330119</datanum>
+      <data_label>1833 01 19</data_label>
+      <anno>1833</anno>
+      <mese>01</mese>
+      <giorno>19</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.4</lat>
+      <lon>19.4</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>7</imax>
+      <npun>11</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021198</codbib>
+      <autore1>Magnani M.</autore1>
+      <titolo1>Tettonica e sismicità nella regione albanese, in "Geofisica pura e applicata", vol.8, n.1-2, pp.1-42.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1946</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021199</codbib>
+      <autore1>Mihailovic D.J.</autore1>
+      <titolo1>Catalogue des tremblements de terre Épiro-Albanais.</titolo1>
+      <luogoed>Zagreb</luogoed>
+      <datacompl>1951</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030166</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>Ricerche su i terremoti avvenuti in Terra d’Otranto dall’XI al secolo XIX, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.15, pp.95-154.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030729</codbib>
+      <autore1>Morelli C.</autore1>
+      <titolo1>Carta sismica dell’Albania, Pubblicazioni della "Commissione Italiana di Studio per i Problemi del Soccorso alle Popolazioni", Accademia Nazionale dei Lincei, vol.10.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1942</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050396</codbib>
+      <autore1>Sulstarova E. e Kociaj S.</autore1>
+      <titolo1>Katalogu i termeteve te Shqiperise [Catalogo dei terremoti dell’Albania].</titolo1>
+      <luogoed>Tirane</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051002</codbib>
+      <autore1>Schmidt J.F.J.</autore1>
+      <titolo1>Studien über Vulkane und Erdbeben, 2 voll.</titolo1>
+      <luogoed>Leipzig</luogoed>
+      <datacompl>1881</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071432</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale dell’Intendenza di Terra di Bari, 1810-1864.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1810 - 1864</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080294</codbib>
+      <autore1>Comninakis P.E. e Papazachos B.C.</autore1>
+      <titolo1>A catalogue of historical earthquakes in Greece and surrounding area: 479 B.C.-1900 A.D.</titolo1>
+      <luogoed>Thessaloniki</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093210</codbib>
+      <autore1>Ambraseys N.N.</autore1>
+      <titolo1>Data for the investigation of the seismic sea-waves in the Eastern Mediterranean, in "Bulletin of the Seismological Society of America", vol.52, pp.895-913.</titolo1>
+      <luogoed>El Cerrito</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093230</codbib>
+      <autore1>Papazachos B.C. e Papazachou C.B.</autore1>
+      <titolo1>The earthquakes of Greece.</titolo1>
+      <luogoed>Thessaloniki</luogoed>
+      <datacompl>1997</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093232</codbib>
+      <autore1>Shebalin N.V., Kárník V. e Hadzievski D.</autore1>
+      <titolo1>Catalogue of Earthquakes. Part I, 1901-1970. Part II, prior to 1901.</titolo1>
+      <luogoed>Skopje</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093255</codbib>
+      <autore1>Antonopoulos J.</autore1>
+      <titolo1>Data from investigation on seismic sea waves events in the Eastern Mediterranean from 1800 to 1900 A.D. (part 5), in "Annali di Geofisica", vol.33, n.unico, pp.215-230.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093257</codbib>
+      <autore1>Soloviev S.L., Solovieva O.N., Chan N. Go, Khen S. Kim e Shchetnikov N.A.</autore1>
+      <titolo1>Tsunamis in the Mediterranean Sea 2000 B.C. ­ 2000 A.D.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095103</codbib>
+      <autore1>De Simone E.</autore1>
+      <titolo1>Vicende sismiche salentine.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110111</codbib>
+      <autore1>Vincenti G.</autore1>
+      <titolo1>La vita di Sant’Oronzo Vescovo e martire patrono provinciale della provincia Salentina.</titolo1>
+      <luogoed>Ostuni</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110114</codbib>
+      <autore1>Berarducci Vives G.L.</autore1>
+      <titolo1>Memorie leccesi, in "Lecce: città chiesa", a cura di M.Paone.</titolo1>
+      <luogoed>Galatina</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110115</codbib>
+      <autore1>Bozzi C.</autore1>
+      <titolo1>I primi martiri di Lecce Giusto Oronzio e Fortunato. Storia scritta nel 1672.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110151</codbib>
+      <autore1>Panza G.F. e Calcagnile G.</autore1>
+      <titolo1>Rischio sismico in Puglia, in "Continuità", a.11 (1977), fasc.1, pp.35-40.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300090</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Alessano, Atti Decurionali, sec.XIX, a.1833, Delibera del Decurionato di Alessano, 24 maggio 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310041</codbib>
+      <autore1>De Sanctis S.</autore1>
+      <titolo1>Tradizione e culto sui martiri leccesi Oronzio, Fortunato e T.Giusto.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310066</codbib>
+      <autore1>De Simone L.G.</autore1>
+      <titolo1>Note di climatologia salentina.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1875</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310101</codbib>
+      <autore1>Cirelli F.</autore1>
+      <titolo1>Galatina, in "Il Regno delle Due Sicilie descritto e illustrato", vol.3, pp.33-59.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1853</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310103</codbib>
+      <autore1>Castiglione G.</autore1>
+      <titolo1>Gallipoli, in "Il Regno delle Due Sicilie descritto e illustrato", vol.3, pp.1-22.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1853</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310263</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Taranto, Archivi notarili, Manduria, vol.7567, Libro del protocollo del notaio Agostino Barbieri per l’anno 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310265</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Taranto, Archivi notarili, Sava, vol.7773, Libro del protocollo del notaio Pietro Sbavaglia per l’anno 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310266</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Taranto, Archivi notarili, Maruggio, vol.7750, Libro del protocollo del notaio Giovanni Cagnazzo per l’anno 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310268</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Taranto, Archivi notarili, Avetrana, vol.7672, Libro del protocollo del notaio Claudio Biasco per l’anno 1833.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.1, Sancta pastoralis visitatio terrae Cilii, luglio 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310382</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.4, Sancta pastoralis visitatio terrae Francavillae, 19 ottobre 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310383</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.5, Sancta pastoralis visitatio terrae Lateani, 1º gennaio 1842.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1842</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310384</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.5, Sancta pastoralis visitatio terrae Lateani, 12 settembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310385</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.6, Sancta pastoralis visitatio terrae Casalynovi, 3 maggio 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310386</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.7, Sancta pastoralis visitatio terrae Maruggii, 28 aprile 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310387</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.9, Sancta pastoralis visitatio terrae Savae, 16 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310388</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.10, Sancta pastoralis visitatio terrae Turris Sanctae Susannae, 21 agosto 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310389</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Vetranae, 17 novembre 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Maruggii, 27 dicembre 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310391</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12., Sancta pastoralis visitatio terrae Casalynovi, 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310392</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio castri Uggiani, 20 aprile 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310393</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Savae, 3 dicembre 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310394</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Francavillae, 11 gennaio 1841.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1841</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310395</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Francavillae, 18 novembre 1843.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1843</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310396</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Maruggii, 20 novembre 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310397</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Hercularum, 1º dicembre 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310398</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Turris Sanctae Susannae, 2 dicembre 1840.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1840</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310399</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Oria, Visite pastorali del vescovo Guida, fasc.12, Sancta pastoralis visitatio terrae Cilii, 1º giugno 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600589</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1833.01.31, n.25.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600590</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1833.02.09, n.32.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>910113</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Milano, 1833.02.21, n.52.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>910114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Milano, 1833.02.05, n.36.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1833</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Galatina</desloc>
+      <lat_wgs84>40.1757</lat_wgs84>
+      <lon_wgs84>18.1682</lon_wgs84>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062698.00</nloc_cfti>
+      <desloc_cfti>Galatina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Francavilla Fontana</desloc>
+      <lat_wgs84>40.53</lat_wgs84>
+      <lon_wgs84>17.5833</lon_wgs84>
+      <provlet>BR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062580.00</nloc_cfti>
+      <desloc_cfti>Francavilla Fontana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Lecce</desloc>
+      <lat_wgs84>40.3518</lat_wgs84>
+      <lon_wgs84>18.169</lon_wgs84>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062720.00</nloc_cfti>
+      <desloc_cfti>Lecce</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Monteparano</desloc>
+      <lat_wgs84>40.4439</lat_wgs84>
+      <lon_wgs84>17.4144</lon_wgs84>
+      <provlet>TA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062477.00</nloc_cfti>
+      <desloc_cfti>Monteparano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Alessano</desloc>
+      <lat_wgs84>39.89</lat_wgs84>
+      <lon_wgs84>18.331</lon_wgs84>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062648.00</nloc_cfti>
+      <desloc_cfti>Alessano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Martignano</desloc>
+      <lat_wgs84>40.2386</lat_wgs84>
+      <lon_wgs84>18.2561</lon_wgs84>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062732.00</nloc_cfti>
+      <desloc_cfti>Martignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gallipoli</desloc>
+      <lat_wgs84>40.056</lat_wgs84>
+      <lon_wgs84>17.9884</lon_wgs84>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062703.00</nloc_cfti>
+      <desloc_cfti>Gallipoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bari</desloc>
+      <lat_wgs84>41.1072</lat_wgs84>
+      <lon_wgs84>16.8467</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062294.00</nloc_cfti>
+      <desloc_cfti>Bari</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Foggia</desloc>
+      <lat_wgs84>41.4609</lat_wgs84>
+      <lon_wgs84>15.5525</lon_wgs84>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062146.00</nloc_cfti>
+      <desloc_cfti>Foggia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Potenza</desloc>
+      <lat_wgs84>40.6386</lat_wgs84>
+      <lon_wgs84>15.8053</lon_wgs84>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>063228.00</nloc_cfti>
+      <desloc_cfti>Potenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Taranto</desloc>
+      <lat_wgs84>40.4592</lat_wgs84>
+      <lon_wgs84>17.2465</lon_wgs84>
+      <provlet>TA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>05993</nterr>
+      <nloc_cfti>062526.00</nloc_cfti>
+      <desloc_cfti>Taranto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

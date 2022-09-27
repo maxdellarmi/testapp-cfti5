@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064284.00</nloc_cfti>
+      <desloc_cfti>Roseto Capo Spulico</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>39.9865</lat_wgs84>
+      <lon_wgs84>16.6019</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(145255)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13002</nterr>
+      <nperiod>003029</nperiod>
+      <datanum>18871203</datanum>
+      <data_label>1887 12 03</data_label>
+      <anno>1887</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>03:45:00</time_label>
+      <ora>03</ora>
+      <minu>45</minu>
+      <sec>00</sec>
+      <lat>39.5644</lat>
+      <lon>16.2213</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>142</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145447)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09450</nterr>
+      <nperiod>003027</nperiod>
+      <datanum>18701004</datanum>
+      <data_label>1870 10 04</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>16:55</time_label>
+      <ora>16</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>39.2202</lat>
+      <lon>16.331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>18</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Il terremoto fu appena avvertito $(300340)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145447</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Il terremoto nel Vallo Cosentino del 3 dicembre 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8 (1886), pp.271-329.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300340</codbib>
+      <autore1>Conti D.</autore1>
+      <titolo1>Memoria e statistica sui terremoti della provincia di Cosenza nel 1870.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

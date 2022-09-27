@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051204.00</nloc_cfti>
+      <desloc_cfti>Fabriano</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>31</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.3362</lat_wgs84>
+      <lon_wgs84>12.905</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00144</nterr>
+      <nperiod>003060</nperiod>
+      <datanum>12790430</datanum>
+      <data_label>1279 04 30</data_label>
+      <anno>1279</anno>
+      <mese>04</mese>
+      <giorno>30</giorno>
+      <time_label>14:00</time_label>
+      <ora>14</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.1049</lat>
+      <lon>12.9326</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>16</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42059</nterr>
+      <nperiod>009019</nperiod>
+      <datanum>17250417</datanum>
+      <data_label>1725 04 17</data_label>
+      <anno>1725</anno>
+      <mese>04</mese>
+      <giorno>17</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.4547</lat>
+      <lon>12.4282</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>4</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Alta Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni alle abitazioni $(450180,200093)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02525</nterr>
+      <nperiod>002048</nperiod>
+      <datanum>17810603</datanum>
+      <data_label>1781 06 03</data_label>
+      <anno>1781</anno>
+      <mese>06</mese>
+      <giorno>03</giorno>
+      <time_label>06:25</time_label>
+      <ora>06</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>43.5763</lat>
+      <lon>12.5482</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>147</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Danni $(060359)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa fu fortissima $(020942)$. Causò qualche ferito e molto spavento tra la popolazione che trascorse la notte all’aperto. Entro le mura della città crollarono 30 comignoli. L’orologio della torre comunale suonò continuamente, anche le campane piccole e i campanelli nelle case suonarono. Caddero alcune case coloniche. La volta della chiesa di Santa Caterina divenne pericolante, in alcune cappelle si aprirono lesioni, e in seguito divenne necessario chiudere la chiesa. Il palazzo vescovile e il monastero delle Benedettine di Santa Margherita riportarono lesioni così come i piani elevati di quasi tutti gli edifici $(060384)$. Nelle loggie di San Francesco la scossa causò alcune fenditure. La chiesa di San Nicolò riportò danni non specificati. La cattedrale di San Venanzio riportò danni all’esterno: dai cornicioni caddero alcuni ornamenti, inoltre, sulle scale caddero alcuni macigni $(600153,600152)$. Nei muri di tutte le case si aprirono fenditure $(002129,020547)$. Successivamente, anche per effetto di altre scosse, in piazza Garibaldi, a causa del cedimento del muro di sostegno dell’orto delle monache di San Luca, la casa di un artiere crollò $(600152)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01952</nterr>
+      <nperiod>003249</nperiod>
+      <datanum>17470417</datanum>
+      <data_label>1747 04 17</data_label>
+      <anno>1747</anno>
+      <mese>04</mese>
+      <giorno>17</giorno>
+      <time_label>16:20</time_label>
+      <ora>16</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.2184</lat>
+      <lon>12.7455</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>24</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 17 aprile causò danni notevoli, aggravando quelli causati dal terremoto del 1741 al palazzo Priorale, il cui restauro era stato interrotto per mancanza di fondi; subirono danni le mura castellane tra porta Cervara e porta del Piano, che crollarono parzialmente, e una torre in piazza S.Nicola, che minacciava di crollare in parte $(020547,395361,673141)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02001</nterr>
+      <nperiod>003095</nperiod>
+      <datanum>17510727</datanum>
+      <data_label>1751 07 27</data_label>
+      <anno>1751</anno>
+      <mese>07</mese>
+      <giorno>27</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.2252</lat>
+      <lon>12.7391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò pochi danni alle case; il palazzo vescovile fu invece danneggiato più gravemente e divenne temporaneamente inabitabile $(673144,700340,700342)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Una epigrafe, posta nel 1703 tra i due ingressi della chiesa di S.Venanzo, attesta che la scossa fu avvertita fortemente, ma non causò danni $(095216)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa di V grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30094</nterr>
+      <nperiod>003119</nperiod>
+      <datanum>19301030</datanum>
+      <data_label>1930 10 30</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>07:13:06</time_label>
+      <ora>07</ora>
+      <minu>13</minu>
+      <sec>06</sec>
+      <lat>43.674</lat>
+      <lon>13.2738</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>249</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche settentrionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cavasino attribuisce il V grado della scala Mercalli $(050098)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10615</nterr>
+      <nperiod>000720</nperiod>
+      <datanum>18750317</datanum>
+      <data_label>1875 03 17</data_label>
+      <anno>1875</anno>
+      <mese>03</mese>
+      <giorno>17</giorno>
+      <time_label>23:51</time_label>
+      <ora>23</ora>
+      <minu>51</minu>
+      <sec>-9</sec>
+      <lat>44.0625</lat>
+      <lon>12.5467</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>144</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa, accompagnata da rombo avvertito dalle persone sveglie, fu forte. Causò prolungato tintinnio di campanelli, piccole screpolature nei muri e caduta di calcinacci in quasi tutti i fabbricati. La campana della torre comunale suonò. Fu notato spavento negli animali $(020940,000065)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa causò molto panico tra la popolazione; non si verificarono danni $(146429)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01291</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030202</datanum>
+      <data_label>1703 02 02</data_label>
+      <anno>1703</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>11:05</time_label>
+      <ora>11</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.4351</lat>
+      <lon>13.2917</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>69</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il 14 gennaio fu avvertita una forte scossa mentre era radunato il pubblico Consiglio; il Comune aveva indetto per il 2 febbraio una cerimonia religiosa nella chiesa di San Venanzo, in quello stesso giorno una violentissima scossa fece fuggire dalla chiesa la folla in preda al panico $(020546)$; l’evento è ricordato in un’epigrafe posta sul medesimo edificio religioso $(095216)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25486</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160517</datanum>
+      <data_label>1916 05 17</data_label>
+      <anno>1916</anno>
+      <mese>05</mese>
+      <giorno>17</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0111</lat>
+      <lon>12.6226</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>132</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 17 maggio fu avvertita fortemente, ma non causò danni $(120423)$.&lt;br&gt;La scossa del 16 agosto fu avvertita $(120381)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42854</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970903</datanum>
+      <data_label>1997 09 03</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>03</giorno>
+      <time_label>22:07</time_label>
+      <ora>22</ora>
+      <minu>07</minu>
+      <sec>-9</sec>
+      <lat>43.0663</lat>
+      <lon>12.9666</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>171</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01284</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030114</datanum>
+      <data_label>1703 01 14</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7091</lat>
+      <lon>13.0705</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>197</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il 14 gennaio fu avvertita una forte scossa mentre era radunato il pubblico Consiglio; il Comune aveva indetto per il 2 febbraio una cerimonia religiosa nella chiesa di San Venanzo, in quello stesso giorno una violentissima scossa fece fuggire dalla chiesa la folla in preda al panico $(020546)$; l’evento è ricordato in un’epigrafe posta sul medesimo edificio religioso $(095216)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di IV grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III-IV grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37405</nterr>
+      <nperiod>003232</nperiod>
+      <datanum>19720204</datanum>
+      <data_label>1972 02 04</data_label>
+      <anno>1972</anno>
+      <mese>02</mese>
+      <giorno>04</giorno>
+      <time_label>02:42:53</time_label>
+      <ora>02</ora>
+      <minu>42</minu>
+      <sec>53</sec>
+      <lat>43.5911</lat>
+      <lon>13.2947</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>75</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Alla scossa del 25 gennaio delle ore 20:25 GMT fu avvertita leggermente $(050280)$. Alla scossa del 4 febbraio delle ore 2:42 GMT fu attribuito il IV grado di intensità $(060306)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27930</nterr>
+      <nperiod>003223</nperiod>
+      <datanum>19240102</datanum>
+      <data_label>1924 01 02</data_label>
+      <anno>1924</anno>
+      <mese>01</mese>
+      <giorno>02</giorno>
+      <time_label>08:55:13</time_label>
+      <ora>08</ora>
+      <minu>55</minu>
+      <sec>13</sec>
+      <lat>43.7367</lat>
+      <lon>13.1405</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>76</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa fu di media intensità e durò pochi secondi $(050399)$. Ingrao (1924) nel "Bollettino sismico" $(000027)$ attribuì agli effetti il III-IV grado di intensità della scala Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42013</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840511</datanum>
+      <data_label>1984 05 11</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>10:42:00</time_label>
+      <ora>10</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41.7152</lat>
+      <lon>14.0759</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>342</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di IV grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III-IV grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37391</nterr>
+      <nperiod>003232</nperiod>
+      <datanum>19720125</datanum>
+      <data_label>1972 01 25</data_label>
+      <anno>1972</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>20:25:11</time_label>
+      <ora>20</ora>
+      <minu>25</minu>
+      <sec>11</sec>
+      <lat>43.6147</lat>
+      <lon>13.3546</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>24</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Alla scossa del 25 gennaio delle ore 20:25 GMT fu avvertita leggermente $(050280)$. Alla scossa del 4 febbraio delle ore 2:42 GMT fu attribuito il IV grado di intensità $(060306)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16769</nterr>
+      <nperiod>000746</nperiod>
+      <datanum>18980912</datanum>
+      <data_label>1898 09 12</data_label>
+      <anno>1898</anno>
+      <mese>09</mese>
+      <giorno>12</giorno>
+      <time_label>14:14:10</time_label>
+      <ora>14</ora>
+      <minu>14</minu>
+      <sec>10</sec>
+      <lat>42.9082</lat>
+      <lon>12.9746</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>16</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alta Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 12 settembre 1898, avvenuta alle ore 14:14 GMT, fu leggermente avvertita $(110841)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di III grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32553</nterr>
+      <nperiod>003255</nperiod>
+      <datanum>19480613</datanum>
+      <data_label>1948 06 13</data_label>
+      <anno>1948</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>06:33:36</time_label>
+      <ora>06</ora>
+      <minu>33</minu>
+      <sec>36</sec>
+      <lat>43.5823</lat>
+      <lon>12.1401</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>144</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Il terremoto fu sentito solo da qualche persona che si trovava in casa e non causò movimento di oggetti $(143782)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa durata 3s fu quasi inavvertita $(385501)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04204</nterr>
+      <nperiod>003285</nperiod>
+      <datanum>17850503</datanum>
+      <data_label>1785 05 03</data_label>
+      <anno>1785</anno>
+      <mese>05</mese>
+      <giorno>03</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.0732</lat>
+      <lon>12.9549</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>11</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Alta valle del Chienti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Le scosse non furono avvertite $(095486)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01800</nterr>
+      <nperiod>003094</nperiod>
+      <datanum>17410424</datanum>
+      <data_label>1741 04 24</data_label>
+      <anno>1741</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4262</lat>
+      <lon>13.0046</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>87</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto causò danni molto gravi: numerosi edifici crollarono o furono resi inagibili e la maggior parte dei rimanenti subirono danni più o meno gravi; ci furono 7 morti (di cui uno a distanza di circa un mese durante i lavori di demolizione) e 22 feriti.&lt;br&gt;Secondo la perizia redatta per conto della Comunità da vari mastri muratori e periti, all’interno delle mura cittadine le case comuni danneggiate furono complessivamente 752, di cui 42 crollarono totalmente, 374 subirono danni molto gravi e furono rese pericolanti o inabitabili e altre 336 subirono danni di varia entità; risultarono inoltre danneggiate in modo più o meno grave 71 abitazioni o residenze di famiglie benestanti. La spesa complessiva necessaria per le riparazioni fu stimata in oltre 44.713 scudi, di cui 5308 per il quartiere della Cervara, 5147 per quello della Pisana, 2518 per il quartiere del Piano, 7693 per il quartiere del Borgo; il resto per gli edifici pubblici (circa 1600), chiese, conventi e monasteri (circa 15.000) e per gli edifici dei castelli e delle ville del contado $(020547,395361)$.&lt;br&gt;Subì danni gravi il patrimonio ecclesiastico. Nella chiesa di S.Venanzio crollò la parte superiore del campanile le cui macerie causarono il crollo della volta del presbiterio e la distruzione dell’altare maggiore sottostante; si aprirono inoltre gravi lesioni in alcune cappelle e in diversi punti della volta e furono danneggiate le stanze della canonica attigue alla chiesa e al campanile. Gravi danni riportarono pure la chiesa e il campanile di S.Nicolò; la chiesa subì danni a causa del crollo del campanile e per altri crolli parziali che si verificarono in diverse parti dell’edificio, specialmente nell’atrio; danni vi furono pure alle annesse camere dei canonici. Subì gravi danni e crolli parziali la chiesa dei Ss.Biagio e Romualdo; l’unica parte dell’edificio che rimase agibile fu il presbiterio. La chiesa di S.Caterina riportò molteplici gravi lesioni in tutta la sua struttura. Danni di varia entità subirono il monastero di S.Margherita, la chiesa di S.Agostino, la chiesa e il convento di S.Lucia (o S.Domenico), il convento e la chiesa di S.Francesco dei Minori Conventuali, il convento dell’Annunziata, il collegio dei Gesuiti, la chiesa e il convento dei padri della Congregazione dell’Oratorio di S.Filippo Neri, la chiesa e il monastero di S.Giuseppe, il monastero di S.Luca, la chiesa e il monastero di S.Sebastiano delle monache Camaldolesi, il monastero e la chiesa di S.Tommaso, il monastero di S.Onofrio, la chiesa e l’oratorio della compagnia della Carità, la chiesa della compagnia della Misericordia, la chiesa di S.Maria Maddalena situata fuori della Porta del Piano, la chiesa di S.Savino, situata a poca distanza dall’abitato in località Burrano. Nella chiesa dei Cappuccini (situata sulla collina della Tomba che sovrasta la città in direzione sud) crollò totalmente la volta travolgendo varie persone $(020547,395361,060366,395407,395408)$.&lt;br&gt;Furono gravemente danneggiati la chiesa e il monastero di S.Benedetto. Un lungo e minuzioso diario redatto da un monaco del monastero descrive con straordinaria precisione i danni subiti dal complesso e i successivi lavori di consolidamento eseguiti nell’arco di vari mesi (fino al luglio 1743) $(130392)$. Nella chiesa furono rilevati crolli parziali della volta, in particolare nella cappella della SS.Trinità, in quella dei Ss.Claudio e compagni martiri, sopra l’altare maggiore e nella zona del coro, sul lato sinistro; inoltre, si staccarono e caddero a terra diversi stucchi ornamentali dell’organo; la facciata principale subì un’inclinazione. I crolli della volta danneggiarono seriamente la cancellata ferrea dell’altare maggiore e due delle tre inferriate della tomba del Beato Giovanni di Bonello (detto dal Bastone); distrussero anche i gradini dell’altare maggiore e sfondarono la pietra sepolcrale che si trovava davanti all’altare della cappella della SS.Trinità. Durante i lavori di ripristino della volta, fu constatato che alcune travi della stessa erano prive delle catene di ferro la cui mancanza fu ritenuta la causa principale dei gravi danni che la struttura aveva riportato. In occasione del ripristino della volta furono messe quattro catene di ferro per rinforzarla. Nella sagrestia crollò la volta affrescata con la caduta di molti mattoni. I danni riportati resero la chiesa inagibile per diverso tempo e così le funzioni liturgiche furono celebrate nel vicino oratorio del Gonfalone che non aveva subito danni gravi. Nell’annesso monastero il tetto, a causa di un’errata costruzione, finì per spingere fuori sede i muri portanti, in modo particolare la facciata verso la chiesa che fu resa pericolante. In questo modo, danni notevoli e diffusi riportarono numerosi muri tramezzi e la maggior parte delle volte dell’edificio. Presso una delle porte si spostò una colonna che sosteneva due archi, i quali riportarono numerose crepe. Tra le zone più danneggiate del monastero, vi fu l’appartamento del padre generale, dalla parte della foresteria. L’appartamento del padre abate, al contrario, non subì danni gravi: solo l’architrave della porta d’ingresso fu ritenuto pericolante. Le stanze al pianterreno subirono danni minori, con leggere fenditure nelle pareti e crolli limitati, come nel caso della caduta della cappa di un camino o di alcuni calcinacci nel refettorio. Nella sala dietro il refettorio cadde l’architrave della porta e si constatarono numerose crepe. In molti casi, durante i lavori di ripristino dei diversi locali del monastero, si ricorse all’impiego di catene di ferro per consolidare pareti e volte. Il campanile fu gravemente lesionato soprattutto nella cella campanaria: tre dei quattro archi che la costituivano furono, infatti, danneggiati a tal punto che la volta soprastante risultò pericolante. Le lesioni riportate dalla struttura ne resero necessario l’abbattimento e la ricostruzione. Secondo una perizia redatta dall’architetto Pietro Maria Loni, nell’intero complesso risultarono 8 stanze inagibili e altre 32 gravemente danneggiate; la spesa necessaria per le riparazioni fu stimata in circa 3000 scudi. Una successiva perizia del dicembre 1742, redatta dall’architetto Francesco Nicoletti, valutò che fossero necessari altri 2400 scudi per completare i lavori di restauro.&lt;br&gt;Gravi danni furono riportati pure dall’edilizia civile. Nel palazzo Comunale crollò la sala maggiore e fu reso inabitabile il lato della piazza. Nel palazzo Vescovile (che all’epoca del terremoto ospitava anche il seminario, il Monte di pietà e i magazzini dell’Abbondanza) si verificarono lesioni in quasi tutte le sale, tranne che in una situata nell’appartamento inferiore; rimase inoltre seriamente lesionata la volta sopra le scale. Crolli e lesioni di varia entità si verificarono pure nella Torre civica; nel Loggiato S.Francesco (all’epoca occupato da 38 botteghe di fabbri che erano già prima in pessime condizioni a causa della cattiva manutenzione); nella rocca situata presso la porta del Piano; nelle mura e porte cittadine; nella polveriera, situata a circa 3 km dalla città; nella maggior parte dei ponti delle strade della campagna limitrofa $(020547,395361)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>385501</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Fabriano 15 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020940</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Documenti, nuove note e riflessioni sul terremoto della notte 17-18 marzo 1875, in "Supplemento alla Meteorologia Italiana", a.1875, fasc.4, pp.3-51.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1876</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000065</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [1 dicembre 1874 ­ 15 marzo 1876], in "Bullettino del Vulcanismo Italiano", a.4, pp.78-96, 122-136.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110841</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1898.09.14, a.15, n.256.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060359</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul terremoto di Cagli del 3 giugno 1781, in "Memorie della Società Geografica Italiana", vol.5, pp.363-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020942</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Sul terremoto avvenuto in Italia il 12 marzo 1873, in "Rendiconti del Regio Istituto Lombardo", s.II, vol.6, fasc.10.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060384</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Sulla continuazione del periodo sismico vulcanico-apennino dal 3 febraio al 30 aprile 1873, in "Atti della Pontificia Accademia de’ Nuovi Lincei", vol.26, pp.262-299.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600153</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1873.03.15.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1873.03.18.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002129</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Rapporto delle osservazioni fatte sul terremoto avvenuto in Italia la sera del 12 marzo 1873, in "Supplemento alla Meteorologia Italiana", a.1872, pp.45-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020547</codbib>
+      <autore1>Sassi R.</autore1>
+      <titolo1>Documenti fabrianesi sul terremoto del 1741, in "Studia Picena", vol.17 (1942), pp.139-160.</titolo1>
+      <luogoed>Fano</luogoed>
+      <datacompl>1942</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090244</codbib>
+      <autore1>Salimbene de Adam</autore1>
+      <titolo1>Cronica [1171-1287] (sec.XIII), ed. O.Holder-Egger, in "Monumenta Germaniae Historica", SS., tomo 32, pp.1-652.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090243</codbib>
+      <autore1>Miliolus Albertus</autore1>
+      <titolo1>Liber de temporibus et aetatibus (1-1286), ed. O.Holder-Egger, in "Monumenta Germaniae Historica", SS., tomo 31, pp.353-572.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1903</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680019</codbib>
+      <autore1>Anonymus Regiensis</autore1>
+      <titolo1>Memoriale potestatum Regiensium [1154-1290] (sec.XIII), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 8, coll.1073-1174.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1726</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020546</codbib>
+      <autore1>Sassi R.</autore1>
+      <titolo1>Il culto della Madonna del Buon Gesù a Fabriano.</titolo1>
+      <luogoed>Fabriano</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe posta fra i due ingressi della chiesa di S.Venanzo di Fabriano a ricordo della liberazione della città dai terremoti del 14 aprile 1672 e del 2 febbraio 1703 e da altre calamità naturali, 1703, in R.Sassi, "Il culto della Madonna del Buon Gesù a Fabriano", pp.33-35.</titolo1>
+      <luogoed>Fabriano</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395361</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Gli effetti dei terremoti del 1741, 1747, 1751 sul territorio della Comunità Montana dell’alta Valle dell’Esino, OGS Macerata.</titolo1>
+      <luogoed>Fabriano</luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060366</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione dell’orribile Terremoto seguito nello scaduto Mese di Aprile del corrente Anno 1741 nelle Città di Camerino, Urbino, Pesaro, Jesi, e Fabriano. Con la descrizzione della mortalità delle Persone, e danni recati nelle Chiese, Palazzi, e Case delle dette Città.</titolo1>
+      <luogoed>Roma-Palermo</luogoed>
+      <datacompl>1741</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395407</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 48/I, Carlo Zanelli, Croniche del signor cavaliere Zanelli, in "Annali della città di Faenza, tratti per lo più da croniche contemporanee. Raccolta fatta da me Giovanni Battista Borsieri nel 1767", vol.2.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1767</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395408</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 73, Carlo Zanelli, Libro di varie notizie, e successi della città di Faenza principiato dall’anno 1700, copia C.A.Mengolini 1775.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1775</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130392</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Convento di San Silvestro di Montefano, Memoria sui danni arrecati dal terremoto del 1741, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.261, Lettera del governatore di Fabriano Giambattista Mirelli al segretario di Stato cardinale Silvio Valenti Gonzaga, Fabriano 30 luglio 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700340</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, c.1155-1156, Lettera del governatore di Fabriano Giambattista Mirelli al prefetto della Sacra Congregazione del Buon Governo, Fabriano 14 febbraio 1752.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1752</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700342</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, c.1159, Copia di relazione del governatore di Fabriano Giambattista Mirelli al segretario di Stato cardinale Valenti Gonzaga sui danni causati dal terremoto nel Castello di Belvedere, Fabriano 30 luglio 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146429</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.14.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050098</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1930, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120423</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1916.05.18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 16 agosto 1916 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Fabriano 16 agosto 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000027</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1924, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1928</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050280</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1972.01, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060306</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline Macrosismiche, Tabella riassuntiva delle cartoline macrosismiche relative al terremoto del 4 febbraio 1972 pervenute all’Ufficio Centrale di Meteorologia e di Ecologia Agraria.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1972</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673141</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.252, Lettera del governatore di Fabriano Emerico Bolognini al segretario di Stato cardinale Silvio Valenti Gonzaga, Fabriano 21 aprile 1747.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1747</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143782</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 giugno 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Fabriano 8 luglio 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095486</codbib>
+      <autore1>Augusti M.</autore1>
+      <titolo1>Lettera del padre Lettore Don Michele Augusti monaco Ulivetano diretta al Padre Don Piermaria Rosini suo correligioso sopra i terremoti, ed aeremoti di Camerino, e di Seravalle, in data di Roma dei 10 maggio 1785, in "Antologia Romana", vol.11, n.49, pp.393-399, n.50, pp.401-407.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1785</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450180</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1725.05.15, n.20.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1725</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1725.05.11, n.19.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1725</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

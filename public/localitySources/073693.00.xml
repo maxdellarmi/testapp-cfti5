@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073693.00</nloc_cfti>
+      <desloc_cfti>Frenfano</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.7309</lat_wgs84>
+      <lon_wgs84>13.0623</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00838</nterr>
+      <nperiod>003281</nperiod>
+      <datanum>15991106</datanum>
+      <data_label>1599 11 06</data_label>
+      <anno>1599</anno>
+      <mese>11</mese>
+      <giorno>06</giorno>
+      <time_label>01:25</time_label>
+      <ora>01</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>42.7246</lat>
+      <lon>13.0213</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>20</npun>
+      <mm>6</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa fece crollare la torre del castello, nonostante le sue 40 chiavi di ferro; si trattava, però di un vecchio edificio di epoca medioevale $(190074)$</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>190074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Vaticani Latini, 7934, cc.38-44, [Paolo Rocchi], Narratio Terremotus in Districtu Spoleti, Comitatus Nursiae et in Terra Cassiae die V Novem[bris] A[nno] MDXCIX, copia P.L.Galletti, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

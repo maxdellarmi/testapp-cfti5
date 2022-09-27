@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044803.00</nloc_cfti>
+      <desloc_cfti>Limite sull’Arno</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>43.7441</lat_wgs84>
+      <lon_wgs84>10.9785</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12993</nterr>
+      <nperiod>002071</nperiod>
+      <datanum>18871114</datanum>
+      <data_label>1887 11 14</data_label>
+      <anno>1887</anno>
+      <mese>11</mese>
+      <giorno>14</giorno>
+      <time_label>05:48:05</time_label>
+      <ora>05</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>43.7516</lat>
+      <lon>11.2178</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>101</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34402</nterr>
+      <nperiod>002092</nperiod>
+      <datanum>19601029</datanum>
+      <data_label>1960 10 29</data_label>
+      <anno>1960</anno>
+      <mese>10</mese>
+      <giorno>29</giorno>
+      <time_label>00:08:39</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>39</sec>
+      <lat>43.9994</lat>
+      <lon>11.3851</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa del 10 novembre 1918 fu avvertita da una parte della popolazione; non vi fu panico $(090521)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090521</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1918.11.15.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1918</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

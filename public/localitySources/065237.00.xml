@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>065237.00</nloc_cfti>
+      <desloc_cfti>Serro</desloc_cfti>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>38.1992</lat_wgs84>
+      <lon_wgs84>15.7217</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14962</nterr>
+      <nperiod>003040</nperiod>
+      <datanum>18941116</datanum>
+      <data_label>1894 11 16</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>17:52:00</time_label>
+      <ora>17</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>38.2888</lat>
+      <lon>15.8701</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>303</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò lesioni gravi a 7 case e ne danneggiò in modo molto grave 5, 3 delle quali furono rese inabitabili $(056010,575658)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>056010</codbib>
+      <autore1>Riccò A.</autore1>
+      <titolo1>Il terremoto del 16 novembre 1894 in Calabria e Sicilia. Parte I: Relazione sismologica, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.19 (1897), parte I, pp.7-261.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575658</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Reggio Calabria, Prefettura, Atti del terremoto del 1894, b.1, fasc.44, Relazione dell’Ingegnere Capo del Genio Civile al Prefetto sui danni causati dal terremoto del 16 novembre nel Comune di Calanna, Reggio Calabria 9 dicembre 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

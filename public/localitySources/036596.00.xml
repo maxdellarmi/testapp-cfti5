@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036596.00</nloc_cfti>
+      <desloc_cfti>Vicopò</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.8142</lat_wgs84>
+      <lon_wgs84>10.3671</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Fu lesionata la chiesa $(020291)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05934</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320313</datanum>
+      <data_label>1832 03 13</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>13</giorno>
+      <time_label>03:30</time_label>
+      <ora>03</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.7654</lat>
+      <lon>10.4935</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>97</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò danni alla canonica e alla chiesa parrocchiale, già in cattivo stato e bisognosa di riparazione prima del terremoto.&lt;br&gt;Furono richieste sovvenzioni per restauri; la spesa preventivata fu di 838 lire $(490340)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>490340</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Parma, Segreteria di Stato e di Gabinetto, Presidenza dell’Interno, b.215 (1832), Relazione del presidente dell’Interno Francesco Cocchi alla duchessa Maria Luigia sulle spese necessarie per la riparazione della chiesa parrocchiale e della canonica di Vicopò danneggiate dal terremoto del 13 marzo 1832, Parma 23 luglio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020291</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale di Vicenza, 1971.07.16, a.26, n.167.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058497.99</nloc_cfti>
+      <desloc_cfti>Rocchetta a Volturno</desloc_cfti>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.6234</lat_wgs84>
+      <lon_wgs84>14.0877</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni diffusi non meglio specificati e il ferimento di due persone $(035052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò danni lievissimi $(583216)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>B0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5327</lat>
+      <lon>14.508</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>89</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Area di Isernia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700173</codbib>
+      <autore1>Sant’Antonino Pierozzi</autore1>
+      <titolo1>Chronicorum opus in tres partes divisum ab orbe condito, annum usque 1459, 3 voll.</titolo1>
+      <luogoed>Lyon</luogoed>
+      <datacompl>1586</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.1131, Telegramma del Prefetto di Campobasso al Ministero dell’Interno relativo ai danni causati in alcuni Comuni della provincia dal terremoto del 13 gennaio 1915, Campobasso 14 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

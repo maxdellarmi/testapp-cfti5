@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080800.00</nloc_cfti>
+      <desloc_cfti>Saint-Martin-de-Queyrières</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.834</lat_wgs84>
+      <lon_wgs84>6.5828</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18958</nterr>
+      <nperiod>003217</nperiod>
+      <datanum>19040712</datanum>
+      <data_label>1904 07 12</data_label>
+      <anno>1904</anno>
+      <mese>07</mese>
+      <giorno>12</giorno>
+      <time_label>05:32</time_label>
+      <ora>05</ora>
+      <minu>32</minu>
+      <sec>-9</sec>
+      <lat>44.8927</lat>
+      <lon>6.8156</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>27</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò la caduta di alcuni camini $(050077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

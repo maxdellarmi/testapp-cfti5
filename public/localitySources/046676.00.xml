@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>046676.00</nloc_cfti>
+      <desloc_cfti>Chiassa</desloc_cfti>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.5339</lat_wgs84>
+      <lon_wgs84>11.8974</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04741</nterr>
+      <nperiod>003250</nperiod>
+      <datanum>17960205</datanum>
+      <data_label>1796 02 05</data_label>
+      <anno>1796</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>02:05</time_label>
+      <ora>02</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.5474</lat>
+      <lon>11.877</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Aretino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa principale, avvenuta il 5 febbraio alle ore 2:05 GMT, causò danni rilevanti $(000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

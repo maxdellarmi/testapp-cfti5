@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00095</nterr>
+      <nperiod>005289</nperiod>
+      <datanum>12280700</datanum>
+      <data_label>1228 07 -</data_label>
+      <anno>1228</anno>
+      <mese>07</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.726</lat>
+      <lon>13.911</lon>
+      <rel>D</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso benché sia noto da tempo alla tradizione sismologica italiana, a partire dai repertori di Filippo da Secinara (1652) $(080937)$ e Bonito (1691) $(000003)$, fino ai cataloghi di Mercalli (1883) $(000002)$ e Baratta (1901) $(000001)$, per arrivare al catalogo parametrico PFG (1985), nel quale è classificato con intensità epicentrale di VII grado MCS.&lt;br&gt;Proprio perché di VII grado non è stato selezionato per gli studi del "Catalogo dei Forti Terremoti in Italia" (Boschi et al. 1995, 1997, 2000), la cui soglia d’intensità epicentrale è il grado VIII-IX per l’Italia meridionale. È poi probabile che questo evento sia stato ritenuto falso o dubbio dai compilatori del catalogo NT4 (Camassi e Stucchi 1997) e come tale cancellato. Per questa ragione tale evento manca anche nel catalogo CPTI (1999). È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte che lo attesta è l’autorevole cronaca coeva del notaio Riccardo di San Germano, antico nome di Cassino (provincia di Frosinone) sua città natale $(090007)$. Nella seconda redazione della sua "Chronica", scritta quando entrò al servizio dell’imperatore Federico II, l’autore narra gli eventi avvenuti tra il 1189 e il 1243, riguardanti il regno di Sicilia, che all’epoca comprendeva tutta l’Italia meridionale.&lt;br&gt;Il testo non è del tutto privo di alcune oscurità, perché la menzione del grande franamento del monte Epomeo ("mons Isclae") non è esplicitamente correlato a un terremoto: tuttavia questo elemento è ragionevolmente inferito dal verbo "rovesciare" ("subvertere"). Come già osservava Mercalli (1884) $(051282)$, tale verbo era spesso usato nei testi medievali per menzionare terremoti. Guidoboni e Comastri (2005) $(091411)$ rilevano tuttavia che molte narrazioni medievali non erano interessate a distinguere le cause naturali degli eventi narrati. A questi autori sembra più rilevante osservare che nella fonte è usata la forma passiva del verbo ("fu rovesciato"; "subversus est"), che di per sé implica l’azione di un soggetto logico, anche se non espresso. Resta comunque un ragionevole dubbio per il fatto che nel monte Epomeo sono storicamente accaduti grandi frane. Tuttavia Buchner (1986) $(027004)$, che conosce tale carattere dell’Epomeo, interpreta come un terremoto distruttivo il fenomeno menzionato da questa fonte, e ritiene che sia localizzabile sul versante nord-occidentale dell’Epomeo, tra le odierne Casamicciola e Forio.&lt;br&gt;È d’altra parte noto che i grandi terremoti che hanno colpito l’isola d’Ischia sono stati quasi sempre accompagnati da estesi movimenti franosi (si veda il caso del terremoto del 1275 e quelli più recenti del 1828 e 1883). Resta tuttavia un ragionevole dubbio.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Nel luglio 1228 nell’isola d’Ischia ci fu una estesa frana dai fianchi del monte Epomeo, forse innescato da un terremoto. I materiali franati travolsero i villaggi sottostanti causando la morte di circa 700 persone. Secondo Mercalli (1884) $(051282)$, il terremoto e la frana riguardarono l’area settentrionale dell’isola, in vicinanza della parte alta dell’abitato di Casamicciola Terme, dove i versanti del monte Epomeo mostrano le tracce di antichi movimenti franosi. Per Buchner (1986) $(027004)$, la zona colpita fu il versante nordoccidentale dell’Epomeo, tra gli odierni centri abitati di Casamicciola e Forio.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Ci fu una estesa frana che riguardò i fianchi del monte Epomeo, sull’isola d’Ischia. I materiali franati travolsero i villaggi sottostanti causando la morte di circa 700 persone. La zona colpita fu verosimilmente l’area settentrionale e nord-occidentale dell’isola, tra gli odierni centri abitati di Casamicciola e Forio.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>027004</codbib>
+      <autore1>Buchner G.</autore1>
+      <titolo1>Eruzioni vulcaniche e fenomeni vulcano-tettonici di età preistorica e storica nell’isola d’Ischia, in "Tremblements de terre, éruptions volcaniques et vie des hommes dans la Campanie antique", a cura di C.A.Livadie , pp.145-188.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030604</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti dell’isola d’Ischia, in "Atti della Società Italiana di Scienze Naturali", vol.24, fasc.1, pp.20-37.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051282</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>L’isola d’Ischia ed il terremoto del 28 luglio 1883, in "Memorie del Regio Istituto Lombardo di Scienze e Lettere", s.III, vol.6, pp.99-154.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1884</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052444</codbib>
+      <autore1>Cubellis E. e Luongo G.</autore1>
+      <titolo1>Sismicità storica dell’isola d’Ischia, in "Il terremoto del 28 luglio 1883 a Casamicciola nell’Isola d’Ischia", pt.3 (Il contesto fisico), pp.49-57, 312-313.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080937</codbib>
+      <autore1>Filippo da Secinara</autore1>
+      <titolo1>Trattato universale di tutti li terremoti occorsi, e noti nel mondo, con li casi infausti, ed infelici pressagiti da tali terremoti. Ove si fà mentione de Prencipi, e Monarchi, che regnorono in quei tempi, accennandosi le loro qualità, ed’altre cose memorabile, e curiose.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1652</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090007</codbib>
+      <autore1>Ryccardus de Sancto Germano</autore1>
+      <titolo1>Chronica (1189-1243), ed. C.A.Garufi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 7, parte 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1936 - 1938</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Ischia (isola)</desloc>
+      <lat_wgs84>40.7256</lat_wgs84>
+      <lon_wgs84>13.911</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>00095</nterr>
+      <nloc_cfti>090240.00</nloc_cfti>
+      <desloc_cfti>Ischia (isola)</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel luglio 1228 ci fu un esteso franamento dai fianchi del monte Epomeo, forse innescato da un forte terremoto. I materiali franati travolsero i villaggi sottostanti causando la morte di circa 700 persone $(090007)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

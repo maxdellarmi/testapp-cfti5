@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072379.00</nloc_cfti>
+      <desloc_cfti>Zerbate</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>37.6387</lat_wgs84>
+      <lon_wgs84>15.1213</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14902</nterr>
+      <nperiod>003039</nperiod>
+      <datanum>18940808</datanum>
+      <data_label>1894 08 08</data_label>
+      <anno>1894</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>05:16:00</time_label>
+      <ora>05</ora>
+      <minu>16</minu>
+      <sec>00</sec>
+      <lat>37.6564</lat>
+      <lon>15.1138</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La scossa causò la distruzione di gran parte delle abitazioni e rese inabitabili le rimanenti; la chiesa subì il crollo del tetto e del campanile; vi furono 4 morti e 10 feriti $(575820,575843,056035,575804)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Secondo quanto attesta la perizia ufficiale del Genio Civile di Catania, gli edifici quasi completamente crollati furono 10, quelli crollati in parte 15, i fortemente lesionati 25; si segnalarono crolli completi di muretti paraterra o di recinzione e di cisterne $(145257,145415)$. I danneggiati ai quali venne concesso un sussidio furono 2 $(145509)$. La località Zerbate era, nel 1914, il maggiore agglomerato di edifici della contrada Pennisi; secondo Venturino Sabatini i danni a Zerbate, in particolare quelli subiti dalla chiesa Madre, furono dovuti alle due scosse del 7 e 8 maggio 1914 $(145257)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145257</codbib>
+      <autore1>Sabatini V.</autore1>
+      <titolo1>Note sul terremoto di Linera dell’8 maggio 1914, in "Bollettino del Regio Comitato Geologico d’Italia", vol.44, fasc.3, pp.3-52.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145415</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 43 (1915-43), b.27, Richieste di contributo per danni terremoto 1914, Certificati previsti dagli art.31 e 33 regolamento 6 gennaio 1916 n.140, riguardanti alcuni edifici del comune di Acireale.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145509</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Registro dei sussidî da corrispondersi ai danneggiati dal terremoto 8 Maggio 1914, II.a distribuzione.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575820</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1894.08.10.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575843</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1894.08.9/10.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056035</codbib>
+      <autore1>Patanè A.</autore1>
+      <titolo1>Note sui terremoti etnei del 7 e 8 agosto 1894 nel territorio di Acireale, in "Memorie e Rendiconti dell’Accademia di Scienze Lettere e Belle Arti degli Zelanti e dei Dafnici di Acireale", s.IV, vol.2, pp.237-265.</titolo1>
+      <luogoed>Acireale</luogoed>
+      <datacompl>1992</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575804</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1894, n.58, Relazione del direttore dell’Osservatorio Geodinamico di Catania A.Riccò al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa ai terremoti del 7 e 8 agosto 1894, Catania 22 settembre 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

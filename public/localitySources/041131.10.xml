@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041131.10</nloc_cfti>
+      <desloc_cfti>Cervia Vecchia</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>44.2493</lat_wgs84>
+      <lon_wgs84>12.3317</lon_wgs84>
+      <notesito>La località ha cambiato sito nel XVII secolo.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00197</nterr>
+      <nperiod>003166</nperiod>
+      <datanum>13080125</datanum>
+      <data_label>1308 01 25</data_label>
+      <anno>1308</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>17:15</time_label>
+      <ora>17</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.06</lat>
+      <lon>12.5666</lon>
+      <rel>?</rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>4</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Rimini</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00468</nterr>
+      <nperiod>003176</nperiod>
+      <datanum>14830811</datanum>
+      <data_label>1483 08 11</data_label>
+      <anno>1483</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>19:40</time_label>
+      <ora>19</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.1564</lat>
+      <lon>12.2293</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>14</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395275</codbib>
+      <autore1>Bernardi Andrea (Novacula)</autore1>
+      <titolo1>Cronache Forlivesi dal 1476 al 1517 (sec.XVI), ed. G.Mazzatinti, in "Dei Monumenti istorici pertinenti alle Provincie della Romagna", s.III (Cronache), tomo 3, 3 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1895 - 1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395276</codbib>
+      <autore1>Fantaguzzi Giuliano</autore1>
+      <titolo1>Caos. Cronache Cesenati del Sec.XV [1460-1521] (sec.XVI), ed. D.Bazzocchi.</titolo1>
+      <luogoed>Cesena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700055</codbib>
+      <autore1>Sanudo Marino</autore1>
+      <titolo1>Vitæ ducum Venetorum italice scriptæ ab origine Urbis, sive ab Anno 421 usque ad Annum 1493 (sec.XVI), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 22, coll.405-1252.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395274</codbib>
+      <autore1>Fantuzzi M.</autore1>
+      <titolo1>Monumenti Ravennati de’ secoli di mezzo per la maggior parte inediti, 6 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1801 - 1804</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

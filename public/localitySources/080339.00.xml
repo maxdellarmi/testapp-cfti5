@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080339.00</nloc_cfti>
+      <desloc_cfti>Neuchâtel</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>46.9932</lat_wgs84>
+      <lon_wgs84>6.9255</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05210</nterr>
+      <nperiod>003199</nperiod>
+      <datanum>18170311</datanum>
+      <data_label>1817 03 11</data_label>
+      <anno>1817</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>21:10</time_label>
+      <ora>21</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>46.2455</lat>
+      <lon>6.6424</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>17</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu molto violenta. Non vi sono segnalazioni di danni $(910014)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa fu forte e causò il distacco dei pennini delle componenti di un apparecchio sismologico $(095085)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11384</nterr>
+      <nperiod>003212</nperiod>
+      <datanum>18800704</datanum>
+      <data_label>1880 07 04</data_label>
+      <anno>1880</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>19:55</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.2736</lat>
+      <lon>8.059</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>86</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa causò oscillazioni di oggetti all’interno delle abitazioni $(070296)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02067</nterr>
+      <nperiod>003192</nperiod>
+      <datanum>17551209</datanum>
+      <data_label>1755 12 09</data_label>
+      <anno>1755</anno>
+      <mese>12</mese>
+      <giorno>09</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.316</lat>
+      <lon>7.9849</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>73</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita violentemente; non furono segnalati danni $(052146)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>910014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1817.03.22, n.81.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1817</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095085</codbib>
+      <autore1>Andreotti G.</autore1>
+      <titolo1>Il terremoto del 18 Ottobre 1936, in "Memorie del Reale Istituto Veneto di Scienze, Lettere ed Arti", vol.30, n.3, pp.3-24, con una carta delle isosisme e 15 foto.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1937</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070296</codbib>
+      <autore1>Forel F.-A.</autore1>
+      <titolo1>Terremoto del 4 luglio 1880, in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.1 (1880-81), p.74.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

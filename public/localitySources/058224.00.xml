@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058224.00</nloc_cfti>
+      <desloc_cfti>Acquasanta</desloc_cfti>
+      <provlet>CH</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>42.2994</lat_wgs84>
+      <lon_wgs84>14.2404</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30838</nterr>
+      <nperiod>003120</nperiod>
+      <datanum>19330926</datanum>
+      <data_label>1933 09 26</data_label>
+      <anno>1933</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>03:33:29</time_label>
+      <ora>03</ora>
+      <minu>33</minu>
+      <sec>29</sec>
+      <lat>42.08</lat>
+      <lon>14.0929</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>325</npun>
+      <mm>6</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Nel "Bollettino sismico", curato da Cavasino (1935), l’intensità della scossa fu valutata di IV grado della scala Mercalli $(000034)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000034</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1933, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

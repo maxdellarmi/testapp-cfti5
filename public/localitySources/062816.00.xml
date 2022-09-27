@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062816.00</nloc_cfti>
+      <desloc_cfti>Trepuzzi</desloc_cfti>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>5</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>40.4058</lat_wgs84>
+      <lon_wgs84>18.0738</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31508</nterr>
+      <nperiod>000553</nperiod>
+      <datanum>19380304</datanum>
+      <data_label>1938 03 04</data_label>
+      <anno>1938</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>40.4058</lat>
+      <lon>18.0738</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Trepuzzi (LE)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31294</nterr>
+      <nperiod>001039</nperiod>
+      <datanum>19360909</datanum>
+      <data_label>1936 09 09</data_label>
+      <anno>1936</anno>
+      <mese>09</mese>
+      <giorno>09</giorno>
+      <time_label>00:46</time_label>
+      <ora>00</ora>
+      <minu>46</minu>
+      <sec>-9</sec>
+      <lat>40.4058</lat>
+      <lon>18.0738</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>1</npun>
+      <mm>3.5</mm>
+      <earthquakelocation>Trepuzzi (LE)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>La scossa del 22 agosto (ore 23:16 GMT) fu sentita da poche persone; causò leggero e breve tremolio degli oggetti $(143935)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16970</nterr>
+      <nperiod>000317</nperiod>
+      <datanum>18990329</datanum>
+      <data_label>1899 03 29</data_label>
+      <anno>1899</anno>
+      <mese>03</mese>
+      <giorno>29</giorno>
+      <time_label>21:54</time_label>
+      <ora>21</ora>
+      <minu>54</minu>
+      <sec>-9</sec>
+      <lat>40.3518</lat>
+      <lon>18.169</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>2.5</io>
+      <imax>2.5</imax>
+      <npun>6</npun>
+      <mm>3.2</mm>
+      <earthquakelocation>Lecce</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001068</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Sismico Settimanale, 1936.09.09-15, n.984, a cura di A.Cavasino, Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1936</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021248</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Puglia, Area costiera salentina ionica. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143935</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 22 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, San Pancrazio Salentino 26 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

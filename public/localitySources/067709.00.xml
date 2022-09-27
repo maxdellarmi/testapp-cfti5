@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067709.00</nloc_cfti>
+      <desloc_cfti>Aci San Filippo</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>10.5</maxint>
+      <lat_wgs84>37.5883</lat_wgs84>
+      <lon_wgs84>15.1408</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La scossa del 20 febbraio 1818 fu disastrosa: le perizie ufficiali riportano la cifra di 27 case di indigenti riparate completamente a spese dell’Erario $(575408)$. Risultarono danneggiate le carceri $(575411)$, la località fu inserita nel quadro riassuntivo delle perizie tra quelle in cui si verificarono i danni maggiori $(145356,525152,145443,145457,145409,575157)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.1</intpqnum>
+      <intpq>D</intpq>
+      <D1>Il terremoto danneggiò la chiesa madre: caddero alcuni cornicioni e pezzi della cupola $(035237)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01148</nterr>
+      <nperiod>003011</nperiod>
+      <datanum>16930111</datanum>
+      <data_label>1693 01 11</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>37.1407</lat>
+      <lon>15.013</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>179</npun>
+      <mm>7.4</mm>
+      <earthquakelocation>Sicilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>23</ee_nt>
+      <ee_np>33</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10.5</intpqnum>
+      <intpq>X-XI</intpq>
+      <D1>Eccetto poche case, il paese fu distrutto. Insieme ad Aci Sant’Antonio ebbe 1335 morti su 6700 abitanti circa $(665112)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>665112</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretarías Provinciales, Sicilia, legajo 1222 (1693), Correspondencia de virreyes y ministros con S.M., Relazione delle città e luoghi devastati in Sicilia, a causa dei terremoti [del 9 e 11 gennaio]; numero antico dei vivi, numero dei morti nelle rovine e rendite che pagavano ogni anno, Palermo maggio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575408</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Lettera della Commissione per i terremoti di Catania, all’Intendente della Valle di Catania, Duca di San Martino, relativa al piano dettagliato delle spese necessarie ai ripari di alcuni paesi della provincia di Catania danneggiati dal terremoto del febbraio 1818, Catania 15 marzo 1819.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1819</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575411</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Carteggio relativo al trasferimento dei detenuti dalle carceri di alcuni paesi siciliani danneggiate dai terremoti del febbraio 1818, Catania 10 marzo 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145356</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Quadro de’ danni sofferti nel distretto di Catania pe’ tremuoti de 20 e 28 febbraro 1818, Tavola necrologica causata da’ tremuoti, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Palermo, Ministero e segreteria di Stato per gli affari di Sicilia presso S.M. in Napoli, Ripartimento dell’Interno, b.38 (1823-25), Rapporto dell’intendente di Catania al luogotenente generale sui danni causati in Sicilia dai terremoti del 20 e 28 febbraio 1818 e sui soccorsi accordati e proposti, Catania 16 maggio 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145443</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Quadro primo e secondo per le restaurazioni, puntellature, ed altro delle fabbriche danneggiate in Catania e nei paesi affidati alla Commissione pei tremuoti, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Piano di spese delle liberazioni, e de’ ristori degli Edificj danneggiati dai tremuoti nei Comuni affidati alla Commissione di Catania, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145409</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Elenco dei Comuni affidati alla Commissione di Acireale pei tremuoti del 20 e 28 febbraio 1818, secondo l’ordinanza del 12 marzo 1818, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Lettera e relative suppliche del Segretario di Stato, Ministro per gli Affari di Sicilia, all’Intendente della Valle di Catania circa gli aiuti per restaurare la chiesa di Aci Santi Antonio e Filippo lesionata dai terremoti del 1818, Palermo 8 febbraio 1819.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1819</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035237</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.15, a.46, n.343.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

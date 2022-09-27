@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42803</nterr>
+      <nperiod>009736</nperiod>
+      <datanum>14690327</datanum>
+      <data_label>1469 03 27</data_label>
+      <anno>1469</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>16:10</time_label>
+      <ora>16</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.1398</lat>
+      <lon>12.243</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Cesena</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questa breve sequenza sismica è sconosciuta ai cataloghi sismici in uso. È analizzata in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;Benché allo stato attuale non ci siano informazioni di danni, si è ritenuto di inserire ugualmente questo evento per conservare la data come indicatore cronologico che può guidare nuove ricerche. La località nota è palesemente solo un punto di risentimento di un terremoto il cui epicentro è ancora sconosciuto.&lt;br&gt;La fonte è una notula del XV secolo, in volgare, scritta in margine al fol.95v. del manoscritto 3727 del fondo dei "Manuscrits latins" conservato alla Bibliothèque Nationale de France $(091381)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Tra il 27 marzo e il 2 aprile 1469 a Cesena furono sentite 6 scosse di terremoto: furono leggere e di breve durata. La prima scossa avvenne il 27 marzo alle ore 16.10 GMT (le 22 in orario "all’italiana") durò circa 4 secondi; la seconda avvenne il 29 marzo, alle ore 3.15 GMT (le 9 in orario "all’italiana"); le altre quattro avvennero il 2 aprile tra le 22.15 e le 23.15 (tra le 4 e le 5 in orario "all’italiana") e furono leggere.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>Tra il 27 marzo e il 2 aprile 1469 a Cesena furono sentite 6 scosse di terremoto $(091381)$:&lt;br&gt;­ la prima avvenne il 27 marzo alle ore 16:10 GMT (le 22 in orario "all’italiana") durò circa 4 secondi (mezza "Ave Maria");&lt;br&gt;­ la seconda avvenne il 29 marzo, alle ore 3:15 GMT (le 9 in orario "all’italiana");&lt;br&gt;­ le altre quattro avvennero il 2 aprile tra le 22:15 e le 23:15 (tra le 4 e le 5 in orario "all’italiana") e furono leggere.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>091381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bibliothèque Nationale de France, Manuscrits latins, 3727, c.95r, Notula sui terremoti del 27 e 28 marzo e del 2 aprile 1469 sentiti a Cesena.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1469</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cesena</desloc>
+      <lat_wgs84>44.1398</lat_wgs84>
+      <lon_wgs84>12.243</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>42803</nterr>
+      <nloc_cfti>041569.00</nloc_cfti>
+      <desloc_cfti>Cesena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Tra il 27 marzo e il 2 aprile 1469 a Cesena furono sentite 6 scosse di terremoto: furono leggere e di breve durata e non causarono danni.&lt;br&gt;La prima scossa avvenne il 27 marzo alle ore 16:10 GMT (le 22 in orario "all’italiana") durò circa 4 secondi (mezza "Ave Maria"); la seconda avvenne il 29 marzo, alle ore 3:15 GMT (le 9 in orario "all’italiana"); le altre quattro avvennero il 2 aprile tra le 22:15 e le 23:15 (tra le 4 e le 5 in orario "all’italiana") e furono leggere $(091381)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

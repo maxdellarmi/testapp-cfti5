@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>068103.00</nloc_cfti>
+      <desloc_cfti>Priolo Gargallo</desloc_cfti>
+      <provlet>SR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>37.1575</lat_wgs84>
+      <lon_wgs84>15.1857</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07281</nterr>
+      <nperiod>003236</nperiod>
+      <datanum>18480111</datanum>
+      <data_label>1848 01 11</data_label>
+      <anno>1848</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>37.5434</lat>
+      <lon>15.0947</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>41</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Golfo di Catania</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40169</nterr>
+      <nperiod>003048</nperiod>
+      <datanum>19780415</datanum>
+      <data_label>1978 04 15</data_label>
+      <anno>1978</anno>
+      <mese>04</mese>
+      <giorno>15</giorno>
+      <time_label>23:33:47</time_label>
+      <ora>23</ora>
+      <minu>33</minu>
+      <sec>47</sec>
+      <lat>38.1251</lat>
+      <lon>15.022</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>331</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Golfo di Patti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Barbano et al. (1979) hanno valutato l’intensità della scossa di IV grado MCS $(035248,035275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni lievi in edifici di vecchia costruzione e danni molto lievi in edifici di buona costruzione $(035058)$. La situazione nella zona industriale fu definita tranquillizzante; fu ordinata la chiusura del complesso petrolchimico per precauzione $(035055)$. La provincia di Siracusa dispose per questa località uno stanziamento di 150 milioni $(035057)$. Secondo una stima effettuata in gennaio dalla Protezione Civile, gli edifici privati inagibili furono 24 e quelli pubblici 2 $(052156)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035248</codbib>
+      <autore1>Barbano M.S., Bottari A., Carveni P., Cosentino M., Federico B., Fonte G., Lo Giudice E., Lombardo G. e Patané G.</autore1>
+      <titolo1>Macroseismic study of the gulf of Patti earthquake in the geostructural frame of North-Eastern Sicily, in "Bollettino della Società Geologica Italiana", vol.98, pp.155-174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035058</codbib>
+      <autore1>De Rubeis V., Gasparini C., Maramai A. e Anzidei A.</autore1>
+      <titolo1>Il terremoto siciliano del 13 dicembre 1990, in "Contributi allo studio del terremoto della Sicilia orientale del 13 dicembre 1990", a cura di E.Boschi e A.Basili, ING, pubblicazione n.537, pp.9-44.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035055</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1990.12.13.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035057</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1990.12.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Secolo d’Italia, 1991.01.03.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

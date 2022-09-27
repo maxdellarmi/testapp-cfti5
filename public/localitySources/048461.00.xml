@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048461.00</nloc_cfti>
+      <desloc_cfti>Tordandrea</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.0357</lat_wgs84>
+      <lon_wgs84>12.5549</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni alla chiesa di S.Bernardino $(672883)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto danneggiò gravemente l’abitato: su un totale di 68 case, 7 crollarono, 18 furono giudicate inabitabili, 9 abitabili in parte, 9 "in stato mediocre", 25 "in stato sufficiente". Crollarono la chiesa parrocchiale e la canonica, sotto le cui rovine morì il parroco $(600049,395772,095516)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672883</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1984.04.30, a.126, n.119.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Milano, 1832.02.01, n.32.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395772</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Copia del rapporto del comandante della stazione di polizia di Assisi al Comando della compagnia di Perugia, Assisi 15 gennaio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095516</codbib>
+      <autore1>Conversini P.</autore1>
+      <titolo1>Il terremoto di Foligno del 1832, in "Bollettino Storico della città di Foligno", vol.13, pp.417-448.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1989</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090019.00</nloc_cfti>
+      <desloc_cfti>Sicilia</desloc_cfti>
+      <provlet>CL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>37.5</lat_wgs84>
+      <lon_wgs84>14</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42025</nterr>
+      <nperiod>009055</nperiod>
+      <datanum>12950901</datanum>
+      <data_label>1295 09 01</data_label>
+      <anno>1295</anno>
+      <mese>09</mese>
+      <giorno>01</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>37.5</lat>
+      <lon>14</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Sicilia</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto causò il crollo di mura in località non precisate della regione $(130704)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130704</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notula sul terremoto del 1º settembre 1295-31 agosto 1296, in F.Evangelatou-Notara, "Raccolta di note datate dei manoscritti greci del XIII secolo" (in greco), n.571, p.173.</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

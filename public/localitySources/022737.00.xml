@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022737.00</nloc_cfti>
+      <desloc_cfti>Isola della Scala</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>12</risentimenti>
+      <maxint>9.1</maxint>
+      <lat_wgs84>45.273</lat_wgs84>
+      <lon_wgs84>11.0078</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20434</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>04:52</time_label>
+      <ora>04</ora>
+      <minu>52</minu>
+      <sec>-9</sec>
+      <lat>45.3184</lat>
+      <lon>11.0727</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>122</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Il terremoto fu abbastanza forte e causò panico nella popolazione $(000577,020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita e durò 8s $(000004,001321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27240</nterr>
+      <nperiod>000478</nperiod>
+      <datanum>19201006</datanum>
+      <data_label>1920 10 06</data_label>
+      <anno>1920</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>22:47</time_label>
+      <ora>22</ora>
+      <minu>47</minu>
+      <sec>-9</sec>
+      <lat>45.1251</lat>
+      <lon>10.8186</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>19</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Mantovano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa durò parecchi secondi, fu avvertita da molte persone all’interno delle case; tremarono mobili e oggetti sospesi; non si verificarono lesioni agli edifici $(385532,385533)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23756</nterr>
+      <nperiod>003220</nperiod>
+      <datanum>19110219</datanum>
+      <data_label>1911 02 19</data_label>
+      <anno>1911</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>07:18:30</time_label>
+      <ora>07</ora>
+      <minu>18</minu>
+      <sec>30</sec>
+      <lat>44.118</lat>
+      <lon>12.0755</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>181</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa fu avvertita da pochissime persone in stato di riposo $(000317)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20745</nterr>
+      <nperiod>000391</nperiod>
+      <datanum>19080203</datanum>
+      <data_label>1908 02 03</data_label>
+      <anno>1908</anno>
+      <mese>02</mese>
+      <giorno>03</giorno>
+      <time_label>13:36:26</time_label>
+      <ora>13</ora>
+      <minu>36</minu>
+      <sec>26</sec>
+      <lat>45.5608</lat>
+      <lon>11.1753</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa del 29 giugno 1919 non fu avvertita $(095851)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20792</nterr>
+      <nperiod>000391</nperiod>
+      <datanum>19080315</datanum>
+      <data_label>1908 03 15</data_label>
+      <anno>1908</anno>
+      <mese>03</mese>
+      <giorno>15</giorno>
+      <time_label>07:38:38</time_label>
+      <ora>07</ora>
+      <minu>38</minu>
+      <sec>38</sec>
+      <lat>45.6236</lat>
+      <lon>11.2066</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>28</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Valle del Chiampo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22936</nterr>
+      <nperiod>000407</nperiod>
+      <datanum>19091224</datanum>
+      <data_label>1909 12 24</data_label>
+      <anno>1909</anno>
+      <mese>12</mese>
+      <giorno>24</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.5721</lat>
+      <lon>10.3486</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>39</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Garda bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110496)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00035</nterr>
+      <nperiod>000007</nperiod>
+      <datanum>11170103</datanum>
+      <data_label>1117 01 03</data_label>
+      <anno>1117</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3665</lat>
+      <lon>11.1673</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>55</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.1</intpqnum>
+      <intpq>A</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>040914</codbib>
+      <autore1>D’Arcais F. F.</autore1>
+      <titolo1>Per una lettura dell’architettura chiesastica nel territorio veronese, in "Chiese e Monasteri nel Territorio Veronese", a cura di G. Borelli.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380008</codbib>
+      <autore1>Chiappa B.</autore1>
+      <titolo1>Santo Stefano di Isola della Scala, una parrocchia attraverso i tempi.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000577</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [53], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.191 (10 luglio 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095851</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Isola della Scala luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385532</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Isola della Scala 8 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385533</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Isola della Scala 16 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110496</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.196, Cartolina macrosismica relativa al terremoto del 16 gennaio 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Isola della Scala 16 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000317</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1911, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.18 (1914).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1923</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

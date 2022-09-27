@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>034171.00</nloc_cfti>
+      <desloc_cfti>Luni</desloc_cfti>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>-1</maxint>
+      <lat_wgs84>44.0757</lat_wgs84>
+      <lon_wgs84>10.0152</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50013</nterr>
+      <nperiod>005002</nperiod>
+      <datanum>-1330000</datanum>
+      <data_label>133 B. C. - -</data_label>
+      <anno>-133</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.076</lat>
+      <lon>10.015</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <mm>0</mm>
+      <earthquakelocation>Luni (SP)</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1>Sprofondamento di circa 10.000 mq di terreno e formazione di un lago. Ossequente non specifica se questo fenomeno sia stato causato da un terremoto $(630110)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>630110</codbib>
+      <autore1>Obsequens Iulius</autore1>
+      <titolo1>Prodigiorum liber, in "T. Livi Periochae omnium librorum. Fragmenta Oxyrhynchi reperta. Iulii Obsequentis Prodigiorum liber", ed. O.Rossbach, pp.149-181, «Bibliotheca scriptorum Graecorum et Romanorum Teubneriana».</titolo1>
+      <luogoed>Leipzig</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

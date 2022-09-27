@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062536.00</nloc_cfti>
+      <desloc_cfti>Brindisi</desloc_cfti>
+      <provlet>BR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>22</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.6372</lat_wgs84>
+      <lon_wgs84>17.9455</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01667</nterr>
+      <nperiod>001011</nperiod>
+      <datanum>17310320</datanum>
+      <data_label>1731 03 20</data_label>
+      <anno>1731</anno>
+      <mese>03</mese>
+      <giorno>20</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.2743</lat>
+      <lon>15.7567</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>49</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Foggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto fu forte e causò danni alla Cattedrale $(510320,310001,310065)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08672</nterr>
+      <nperiod>000203</nperiod>
+      <datanum>18581010</datanum>
+      <data_label>1858 10 10</data_label>
+      <anno>1858</anno>
+      <mese>10</mese>
+      <giorno>10</giorno>
+      <time_label>08:30</time_label>
+      <ora>08</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.1</lat>
+      <lon>19.9</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>C0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.1844</lat>
+      <lon>14.8742</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>82</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Samnio-Irpinia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di V grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito fortemente, ma non causò danni $(040203,310001,310052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa avvertita nella provincia, non arrecò alcun danno $(671589)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36369</nterr>
+      <nperiod>000656</nperiod>
+      <datanum>19690403</datanum>
+      <data_label>1969 04 03</data_label>
+      <anno>1969</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>22:12:22</time_label>
+      <ora>22</ora>
+      <minu>12</minu>
+      <sec>22</sec>
+      <lat>40.483</lat>
+      <lon>19.95</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>5</imax>
+      <npun>46</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42043</nterr>
+      <nperiod>009058</nperiod>
+      <datanum>19090120</datanum>
+      <data_label>1909 01 20</data_label>
+      <anno>1909</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>19:58</time_label>
+      <ora>19</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>40.1787</lat>
+      <lon>18.0312</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>32</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Salento</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32473</nterr>
+      <nperiod>001040</nperiod>
+      <datanum>19471006</datanum>
+      <data_label>1947 10 06</data_label>
+      <anno>1947</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>19:55:36</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>36</sec>
+      <lat>36.717</lat>
+      <lon>21.783</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4.5</imax>
+      <npun>33</npun>
+      <mm>0</mm>
+      <earthquakelocation>Grecia meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Greece</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30151</nterr>
+      <nperiod>000530</nperiod>
+      <datanum>19301202</datanum>
+      <data_label>1930 12 02</data_label>
+      <anno>1930</anno>
+      <mese>12</mese>
+      <giorno>02</giorno>
+      <time_label>13:28:51</time_label>
+      <ora>13</ora>
+      <minu>28</minu>
+      <sec>51</sec>
+      <lat>40.3</lat>
+      <lon>19.6</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4</imax>
+      <npun>10</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30648</nterr>
+      <nperiod>000538</nperiod>
+      <datanum>19320803</datanum>
+      <data_label>1932 08 03</data_label>
+      <anno>1932</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>11:42:39</time_label>
+      <ora>11</ora>
+      <minu>42</minu>
+      <sec>39</sec>
+      <lat>40</lat>
+      <lon>19.5</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4</imax>
+      <npun>4</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07138</nterr>
+      <nperiod>001048</nperiod>
+      <datanum>18460328</datanum>
+      <data_label>1846 03 28</data_label>
+      <anno>1846</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>35.8</lat>
+      <lon>25</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>6</imax>
+      <npun>15</npun>
+      <mm>0</mm>
+      <earthquakelocation>Grecia meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Greece</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Furono sentite due scosse leggere $(600775)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34117</nterr>
+      <nperiod>000594</nperiod>
+      <datanum>19590901</datanum>
+      <data_label>1959 09 01</data_label>
+      <anno>1959</anno>
+      <mese>09</mese>
+      <giorno>01</giorno>
+      <time_label>11:37:40</time_label>
+      <ora>11</ora>
+      <minu>37</minu>
+      <sec>40</sec>
+      <lat>40.95</lat>
+      <lon>19.967</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4</imax>
+      <npun>6</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di III grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>28610</nterr>
+      <nperiod>000506</nperiod>
+      <datanum>19261214</datanum>
+      <data_label>1926 12 14</data_label>
+      <anno>1926</anno>
+      <mese>12</mese>
+      <giorno>14</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>40.6372</lat>
+      <lon>17.9455</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>1</npun>
+      <mm>3.5</mm>
+      <earthquakelocation>Brindisi</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>Il terremoto fu lievemente avvertito da alcune persone $(081939)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27168</nterr>
+      <nperiod>000469</nperiod>
+      <datanum>19200816</datanum>
+      <data_label>1920 08 16</data_label>
+      <anno>1920</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>14:43:30</time_label>
+      <ora>14</ora>
+      <minu>43</minu>
+      <sec>30</sec>
+      <lat>39.7</lat>
+      <lon>20.8</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4</imax>
+      <npun>4</npun>
+      <mm>0</mm>
+      <earthquakelocation>Grecia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Greece</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000021)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(145255)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24440</nterr>
+      <nperiod>003041</nperiod>
+      <datanum>19130628</datanum>
+      <data_label>1913 06 28</data_label>
+      <anno>1913</anno>
+      <mese>06</mese>
+      <giorno>28</giorno>
+      <time_label>08:53:02</time_label>
+      <ora>08</ora>
+      <minu>53</minu>
+      <sec>02</sec>
+      <lat>39.5316</lat>
+      <lon>16.2391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>151</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000225)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(235474)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto fu percepito come una sequenza di tre scosse ravvicinate durate circa due minuti; danneggiò quasi tutti gli edifici della città e causò la morte di 5 persone. Diverse abitazioni crollarono totalmente o dovettero essere demolite, molte altre furono gravemente lesionate e rese inabitabili, soprattutto nei piani alti. La chiesa cattedrale fu gravemente danneggiata e resa inagibile; gran parte dell’edificio e il monumentale campanile crollarono poi nel giugno successivo durante i lavori di riparazione. Il palazzo vescovile e il seminario furono gravemente lesionati e crollarono in parte. Nel convento di S.Paolo dei Minori Conventuali risultarono danneggiati la chiesa, il campanile e il dormitorio. Nei conventi dei Cappuccini e degli Agostiniani crollarono i campanili causando danni agli edifici sottostanti. Nel monastero di S.Benedetto ci furono danni notevoli alla chiesa e al dormitorio; danni analoghi furono rilevati in un altro monastero non precisato. Fu gravemente lesionata la chiesa di S.Giovanni dei Greci, ora non più esistente. Il castello di terra (o castello Svevo) fu reso quasi inabitabile: crollò totalmente l’alloggio della guarnigione con le scuderie e il deposito dei viveri; l’alloggio del governatore e il deposito delle armi furono gravemente lesionati; danni minori furono rilevati negli alloggi dei soldati. Risultarono danneggiate anche la torre del castello a mare (o castello Aragonese) e la torretta situata all’imboccatura del porto; fu abbattuta la torre dell’orologio $(030809,030810,082600,130083,130130,130132,300058,310001,510318,560214,560215,560221,560223,900313)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030809</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Brindisi, Archivi notarili, Brindisi, vol.16, Atti del notaio Antonio Carrasco per gli anni 1744-1745, Attestatio facta per Michaelem Leone, et Marcum Martucci de Brundusio, Brindisi 24 marzo 1745.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1745</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030810</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Brindisi, Archivi notarili, Brindisi, vol.6, Atti del notaio Giovanni L.Bifaro per l’anno 1745, Attestatio pro venerabili Monasterio Sancti Benedicti huius civitatis Brundusii, Brindisi 25 febbraio 1745.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1745</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082600</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata a destra dell’entrata del palazzo Bono di Brindisi in memoria della riparazione della chiesa di S.Giovanni dei Greci danneggiata dal terremoto del 1743, 1752, in N.Vacca, "Brindisi ignorata...", p.211.</titolo1>
+      <luogoed>Trani</luogoed>
+      <datacompl>1954</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130083</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.804, Supplica dell’arcivescovo di Brindisi Antonino Sersale al consigliere di Stato duca di Salas, Brindisi ante 27 luglio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Ruote, Consultationum, vol.200, Consulta della Regia Camera della Sommaria al presidente della Giunta di Marina Michele Reggio, Napoli 30 maggio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130132</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Ruote, Consultationum, vol.198, Consulta della Regia Camera della Sommaria al re Carlo VII, Napoli 17 settembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300058</codbib>
+      <autore1>Del Sordo A.</autore1>
+      <titolo1>Vecchia Brindisi tra cronaca e storia.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1978</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310001</codbib>
+      <autore1>Cagnes P. e Scalese N.</autore1>
+      <titolo1>Cronaca dei sindaci di Brindisi: 1529-1787, a cura di R.Jurlaro.</titolo1>
+      <luogoed>Brindisi</luogoed>
+      <datacompl>1978</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510318</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.244, Lettera dell’arcivescovo di Brindisi Antonino Sersale al segretario di Stato cardinale Valenti Gonzaga, Napoli 28 settembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Lettera del governatore dei castelli di Brindisi Julio Cayafa al consigliere di Stato duca di Salas, Brindisi 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560215</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Lettera del governatore politico di Brindisi Melchiorre Vischi al re di Napoli Carlo VII, Brindisi 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560221</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Relazione del consigliere di Stato duca di Salas al re Carlo VII sui danni causati dal terremoto del 20 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560223</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Lettera del preside e dei membri della Regia Udienza di Lecce al consigliere di Stato duca di Salas, Lecce 1º marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900313</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata nella chiesa cattedrale di Brindisi in memoria della ricostruzione dell’edificio danneggiato dal terremoto del 20 febbraio 1743 (1745), Archivi Fotografici SGA.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1745</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070408</codbib>
+      <autore1>*</autore1>
+      <titolo1>Ansa, notiziario per la stampa, 1947.10.06, servizio italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1947</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021050</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta del Mezzogiorno, 1947.10.07.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1947</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040203</codbib>
+      <autore1>Pacichelli G.B.</autore1>
+      <titolo1>Tremuoto di Napoli, e del Regno à puntino spiegato (Al Signor Abate Francesco Battistini Maestro di Camera dell’Eminentiss. Negrone, Roma), in "Lettere Familiari, Istoriche, &amp; Erudite, tratte dalle Memorie Recondite dell’Abate D. Gio. Battista Pacichelli in occasione de’ suoi Studj, Viaggi, e Ministeri", ed. D.A.Parrino, vol.2, pp.353-363.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310052</codbib>
+      <autore1>Ascoli F.</autore1>
+      <titolo1>La storia di Brindisi scritta da un marino.</titolo1>
+      <luogoed>Rimini</luogoed>
+      <datacompl>1886</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1858.10.14, n.225.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000152</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1920, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000029</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1926, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000813</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Macrosismi avvertiti in Italia e Colonie nell’anno 1926, in "Bollettino della Società Sismologica Italiana", vol.26, n.1, pp.25-40.</titolo1>
+      <luogoed>Selci</luogoed>
+      <datacompl>1927</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340383</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1930.12.03.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021038</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta del Mezzogiorno, 1932.08.04.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000033</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1932, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1959.09.02.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050264</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico mensile, 1959.09, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021056</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta del Mezzogiorno, 1969.04.04.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030422</codbib>
+      <autore1>Magri G. e Molin D.</autore1>
+      <titolo1>The earthquake of December 1456 in Central-Southern Italy, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.20-23.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692040</codbib>
+      <autore1>Figliuolo B.</autore1>
+      <titolo1>Il terremoto napoletano del 1456, il mito, in "Quaderni Storici ­ Terremoti e storia", a cura di E.Guidoboni, n.s., n.60, a.20, fasc.3, pp.771-801.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510320</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.150 A, Brundusina I, Relatio Status Diocesis Brundusinae, Brindisi 21 novembre 1732.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1732</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310065</codbib>
+      <autore1>Camassa P.</autore1>
+      <titolo1>Guida di Brindisi.</titolo1>
+      <luogoed>Brindisi</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600775</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1846.04.06, n.74.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000225</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1913, Regio Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671589</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 23 luglio al 27 luglio, n.35002, Telegramma del prefetto di Brindisi al Ministero dell’Interno Pubblica Sicurezza, Brindisi 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021030</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere delle Puglie, 1909.01.22.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180120</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire, 1909.01.22, a.11, n.18.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340475</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1909.01.22.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770179</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Democrazia, 1909.01.23, n.4.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770396</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1909.01.21.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

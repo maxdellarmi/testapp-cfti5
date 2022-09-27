@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>031623.99</nloc_cfti>
+      <desloc_cfti>Socchieve</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>46.4037</lat_wgs84>
+      <lon_wgs84>12.8227</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29040</nterr>
+      <nperiod>003117</nperiod>
+      <datanum>19280327</datanum>
+      <data_label>1928 03 27</data_label>
+      <anno>1928</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>08:32:30</time_label>
+      <ora>08</ora>
+      <minu>32</minu>
+      <sec>30</sec>
+      <lat>46.3801</lat>
+      <lon>12.9843</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>214</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Secondo il Bollettino Sismico $(050097)$, la scossa del 26.3 non fu avvertita in questa località. A causa della scossa del 27.3 si ebbero numerose lesioni leggere, la caduta di qualche soffito e di camini $(050399)$.Il Bollettino Sismico 1928 $(050097)$ attribuisce alla scossa del 27.3 in questa località il grado VII MCS.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050097</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1928, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

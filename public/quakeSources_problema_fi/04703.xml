@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>04703</nterr>
+      <nperiod>003134</nperiod>
+      <datanum>17940612</datanum>
+      <data_label>1794 06 12</data_label>
+      <anno>1794</anno>
+      <mese>06</mese>
+      <giorno>12</giorno>
+      <time_label>22:30</time_label>
+      <ora>22</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.1088</lat>
+      <lon>14.9241</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>16</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.2</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021279</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studio speditivo di tre terremoti vesuviani e delle correlate eruzioni, RPT 138/95, Bologna dicembre 1995 (rapporto inedito ING).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1995</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051373</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuova istoria di una grazia particolare ottenuta da Dio la città di Napoli, per intercessione di Maria SS., ed il glorioso S.Gennaro per il terramuoto sortito la sera de’ 12. giugno, e la grande eruzione del monte Vissuvio la sera de’ 15. del sudetto mese; giorno di domenica alle ore 2. della notte del 1794. A qual’effetto allagò di foco molti villaggi intorno stendendosi sino al mare con rovinare la gran terra della Torra del Greco.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1794.07.05, n.54.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071872</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Bologna, 1794.07.01, n.52.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080262</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, zweiter Theil vom Jahre 1760 bis 1805, und von 1821 bis 1832 n. Chr. geb., in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 5.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1841</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095120</codbib>
+      <autore1>Stoppa G.</autore1>
+      <titolo1>Memorie fisico-istoriche sulle vesuvian’eruzioni con una breve appendice fisico-topografica de’ più celebri vulcani della terra.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095122</codbib>
+      <autore1>Giros S.</autore1>
+      <titolo1>Veridica relazione circa l’ultima eruzione del Vesuvio accaduta ai 15 giugno per tutto Luglio 1794.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095124</codbib>
+      <autore1>D’Urso M.</autore1>
+      <titolo1>Seconda lettera di un legista napolitano ad un suo fratello in provincia, in cui li dà distinto ragguaglio di quanto è avvvenuto in Napoli. In occasione dell’orribile eruzione del Vesuvio avvenuta a 15 giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095127</codbib>
+      <autore1>*</autore1>
+      <titolo1>Dettaglio su l’antico stato, ed eruzioni del Vesuvio. Colla ragionata relazione della grande eruzione accaduta a 15. giugno 1794.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095138</codbib>
+      <autore1>Luongo G. e Nazzaro A.</autore1>
+      <titolo1>I sismografi di Ascanio Filomarino e di Luigi Palmieri nella storia degli studi vesuviani, in "Gli strumenti sismici storici. Italia e contesto europeo. Historical seismic instruments. Italy and the european framework", a cura di G.Ferrari, pp.97-108.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095139</codbib>
+      <autore1>Filomarino A. (Duca della Torre)</autore1>
+      <titolo1>Lettera prima sull’eruzione del Vesuvio de’ 15 giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095140</codbib>
+      <autore1>Filomarino A. (Duca della Torre)</autore1>
+      <titolo1>Lettera seconda sull’eruzione del Vesuvio de’ 15 giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095149</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione ragionata della eruzione del Vesuvio di Napoli accaduta a’ 15. giugno 1794. Con la Storia di tutte le eruzioni memorabili fino al presente avvenute.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095150</codbib>
+      <autore1>Tadini F.</autore1>
+      <titolo1>L’eruzione del Vesuvio della notte de’ 15. giugno 1794. Poeticamente descritta.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095151</codbib>
+      <autore1>Barba A.</autore1>
+      <titolo1>Ragionamento fisico-chimico sull’eruzione ultima del Vesuvio accaduta a’ 15. giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095152</codbib>
+      <autore1>Breislak S. e Winspeare A.</autore1>
+      <titolo1>Memoria sull’eruzione del Vesuvio accaduta la sera de’ 15 giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095153</codbib>
+      <autore1>Olivieri G.M.</autore1>
+      <titolo1>Breve descrizione istorico-fisica dell’eruzione del Vesuvio, avvenuta il dì 15 giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095154</codbib>
+      <autore1>Santoli V.M.</autore1>
+      <titolo1>Narrazione de’ fenomeni osservati nel suolo irpino contemporanei all’ultimo incendio del Vesuvio accaduto a giugno di questo anno 1794. Coll’aggiunta di varie importantissime osservazioni della stessa classe.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1795</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110044</codbib>
+      <autore1>Tata D.</autore1>
+      <titolo1>Relazione dell’ultima eruzione del Vesuvio della sera de’ 15 Giugno.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110045</codbib>
+      <autore1>Scotti E.</autore1>
+      <titolo1>Della eruzione del Vesuvio accaduta il dì 15 Giugno 1794.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110050</codbib>
+      <autore1>Antonio da Petrizzi</autore1>
+      <titolo1>Lettera a Sua Eccellenza il Signor D. Francesco Antonio Maringola duchino di Petrizzi sulla lava eruttata dal fianco, o pendice del Vesuvio ad ore due, e minuti 10 di notte circa, del dì 15. giugno 1794.</titolo1>
+      <luogoed>[Napoli]</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130531</codbib>
+      <autore1>Pisano G.</autore1>
+      <titolo1>Un’inedita cronaca irpina del Settecento, in "Economia Irpina", a.9 (1968), n.7-9, pp.55-62.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca dell’Accademia delle Scienze di Torino, Manoscritti, 315, G.A.De Morani, Notizie cronologiche degli anni che sono stati molto piovosi, secchi e freddi all’eccesso e ne’ quali si sono sentite scosse di terremoti successi incendi ed occorsi accidenti molto rimarchevoli in diverse parti del mondo sino al presente ricavati con somma diligenza da varii classici scrittori di cronologia e di storia, 1795.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1795</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240153</codbib>
+      <autore1>Parente G.</autore1>
+      <titolo1>Origini e vicende ecclesiastiche della città di Aversa, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857 - 1858</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1794.07.12, n.56.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470121</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1794.07.26, n.60.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470293</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1794.06.25, n.52.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470294</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1794.07.02, n.54.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470607</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Estero, 1794.06.27, n.2033.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Milanese, 1794.06.30, n.52.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900321</codbib>
+      <autore1>Pescatori S.</autore1>
+      <titolo1>I terremoti dell’Irpinia, in "Rivista economica della provincia di Avellino", a.8, n.3, pp.15-18, n.4, pp.3-10, n.5, pp.3-10, n.6, pp.3-11, n.7, pp.3-7.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900321</codbib>
+      <autore1>Pescatori S.</autore1>
+      <titolo1>I terremoti dell’Irpinia, in "Rivista economica della provincia di Avellino", a.8, n.3, pp.15-18, n.4, pp.3-10, n.5, pp.3-10, n.6, pp.3-11, n.7, pp.3-7.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Dentecane</desloc>
+      <lat_wgs84>41.0366</lat_wgs84>
+      <lon_wgs84>14.8939</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060913.00</nloc_cfti>
+      <desloc_cfti>Dentecane</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Montecalvo Irpino</desloc>
+      <lat_wgs84>41.1966</lat_wgs84>
+      <lon_wgs84>15.0338</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060819.00</nloc_cfti>
+      <desloc_cfti>Montecalvo Irpino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Paduli</desloc>
+      <lat_wgs84>41.1648</lat_wgs84>
+      <lon_wgs84>14.8798</lon_wgs84>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>059682.00</nloc_cfti>
+      <desloc_cfti>Paduli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pietradefusi</desloc>
+      <lat_wgs84>41.0371</lat_wgs84>
+      <lon_wgs84>14.8889</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060914.99</nloc_cfti>
+      <desloc_cfti>Pietradefusi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Ariano</desloc>
+      <lat_wgs84>41.1538</lat_wgs84>
+      <lon_wgs84>15.0896</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060620</nloc_cfti>
+      <desloc_cfti>Ariano Irpino (Ariano di Puglia, Ariano)</desloc_cfti>
+      <notesito>Assunse la denominazione di Ariano di Puglia il 9 ottobre 1868 e quella di Ariano Irpino il 5 giugno 1930.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Avellino</desloc>
+      <lat_wgs84>40.9148</lat_wgs84>
+      <lon_wgs84>14.7907</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060627.00</nloc_cfti>
+      <desloc_cfti>Avellino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Atripalda</desloc>
+      <lat_wgs84>40.9194</lat_wgs84>
+      <lon_wgs84>14.835</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060621.00</nloc_cfti>
+      <desloc_cfti>Atripalda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Benevento</desloc>
+      <lat_wgs84>41.1297</lat_wgs84>
+      <lon_wgs84>14.777</lon_wgs84>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>059438.00</nloc_cfti>
+      <desloc_cfti>Benevento</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Sant'Agata de' Goti</desloc>
+      <lat_wgs84>41.0892</lat_wgs84>
+      <lon_wgs84>14.5042</lon_wgs84>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>059892.00</nloc_cfti>
+      <desloc_cfti>Sant’Agata de’ Goti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Caserta</desloc>
+      <lat_wgs84>41.0718</lat_wgs84>
+      <lon_wgs84>14.3331</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>058948.00</nloc_cfti>
+      <desloc_cfti>Caserta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Montefredane</desloc>
+      <lat_wgs84>40.9599</lat_wgs84>
+      <lon_wgs84>14.8138</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060847.00</nloc_cfti>
+      <desloc_cfti>Montefredane</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Torre del Greco</desloc>
+      <lat_wgs84>40.7871</lat_wgs84>
+      <lon_wgs84>14.3669</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060510.00</nloc_cfti>
+      <desloc_cfti>Torre del Greco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Aversa</desloc>
+      <lat_wgs84>40.9743</lat_wgs84>
+      <lon_wgs84>14.2068</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>058878.00</nloc_cfti>
+      <desloc_cfti>Aversa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ottaviano</desloc>
+      <lat_wgs84>40.8493</lat_wgs84>
+      <lon_wgs84>14.4779</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060255.00</nloc_cfti>
+      <desloc_cfti>Ottaviano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Rocca San Felice</desloc>
+      <lat_wgs84>40.9519</lat_wgs84>
+      <lon_wgs84>15.1641</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>04703</nterr>
+      <nloc_cfti>060962.00</nloc_cfti>
+      <desloc_cfti>Rocca San Felice</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01160</nterr>
+      <nperiod>003311</nperiod>
+      <datanum>16940408</datanum>
+      <data_label>1694 04 08</data_label>
+      <anno>1694</anno>
+      <mese>04</mese>
+      <giorno>08</giorno>
+      <time_label>10:15</time_label>
+      <ora>10</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>43.6208</lat>
+      <lon>12.0908</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Alta Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>050847</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Centrale di Firenze, Manoscritti, Fondo Nuove Accessioni, 1155, Giovanni Paolo Lucardesi, Descrizione del terremoto, venuto alla Pieve di Santo Stefano il dì 8. aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051383</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>Between Tevere and Arno. A preliminary revision of seismicity in the Casentino-Sansepolcro (Tuscany, Italy) area, in "Bollettino di Geofisica Teorica ed Applicata", vol.45 (2004), n.1-2, pp.35-49.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070518</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1694.04.27, [n.17].</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1694</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350137</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Suppliche, filza 875 (1696), n.115, Supplica di Bonifazio Zabagli di Pieve Santo Stefano al granduca Cosimo III, ante 26 gennaio 1696.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1696</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350138</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Giustificazioni, filza 554 (1695), n.182, Istanza di Bonifazio Zabagli di Pieve Santo Stefano ai Capitani di parte, 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Suppliche, filza 875 (1696), n.92, Supplica di Pietro Paolo Muglioni di Sansepolcro al granduca Cosimo III, ante 5 maggio 1696.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1696</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350141</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Suppliche, filza 874 (1695), n.107, Supplica di Francesco Bertini di Sansepolcro al granduca Cosimo III, ante 23 agosto 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350142</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Suppliche, filza 874 (1695), n.12, Supplica degli abati e monaci Camaldolesi della provincia Toscana al granduca Cosimo III, ante 5 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350143</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, Numeri neri, Suppliche, filza 873 (1694), n.72, Supplica di Carlo Muglioni di Sansepolcro al granduca Cosimo III, ante 24 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395362</codbib>
+      <autore1>Agnoletti E.</autore1>
+      <titolo1>Le memorie di Sansepolcro.</titolo1>
+      <luogoed>Sansepolcro</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395373</codbib>
+      <autore1>Agnoletti E.</autore1>
+      <titolo1>Piccole storie di Sansepolcro e altrove, vol.1.</titolo1>
+      <luogoed>Sansepolcro</luogoed>
+      <datacompl>1984</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Nove conservatori del dominio e della giurisdizione fiorentina, Lettere, filza 2864 (marzo-maggio 1694), Lettera del sindaco del Pio Monte di Sansepolcro Antonio Cattani al soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri, Sansepolcro 27 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Nove conservatori del dominio e della giurisdizione fiorentina, Lettere, filza 2864 (marzo-maggio 1694), Lettera del cancelliere della comunità di Sansepolcro Giuliano Pescetti ai Nove conservatori del dominio e della giurisdizione fiorentina, Sansepolcro 30 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396056</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Nove conservatori del dominio e della giurisdizione fiorentina, Lettere, filza 2864 (marzo-maggio 1694), Lettera del cancelliere della podesteria di Pieve Santo Stefano Benedetto Puccini ai Nove conservatori del dominio e della giurisdizione fiorentina, Pieve Santo Stefano 14 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396057</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Nove conservatori del dominio e della giurisdizione fiorentina, Lettere, filza 2864 (marzo-maggio 1694), Lettera del cancelliere della podesteria di Pieve Santo Stefano Benedetto Puccini ai Nove conservatori del dominio e della giurisdizione fiorentina, Pieve Santo Stefano 20 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396063</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.33 (1692-1708), Annotazione relativa alla partecipazione del Magistrato della comunità alla celebrazione della terza domenica del mese, 25 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396064</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.33 (1692-1708), Deliberazione del Magistrato della comunità, 30 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396065</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.33 (1692-1708), Proposizione del Magistrato della comunità, 26 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396066</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.33 (1692-1708), Verbale della seduta del Consiglio della comunità, 28 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.33 (1692-1708), Deliberazione del Magistrato della comunità, 28 marzo 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396069</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.34 (1708-1724), Attestazione del Magistrato della comunità sul terremoto dell’8 aprile 1694, 11 novembre 1722.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1722</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021295</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Indagini di sismologia storica in zone "silenziose": l’area di Sansepolcro, RPT 218/99, Bologna dicembre 1999 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1999</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396088</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie II, Riforme, provvisioni e deliberazioni dei consigli, reg.41 (1776-1786), Nota sulla partecipazione del Magistrato della comunità alla processione in memoria del terremoto dell’8 aprile 1694, 8 aprile 1782.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1782</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396125</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei deputati dei Monti Pii del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 4 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 18 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396127</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 26 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396128</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 26 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 15 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 31 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396131</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 31 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396132</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 30 marzo 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei Nove conservatori del dominio e della giurisdizione fiorentina al cancelliere Giuliano Pescetti, Firenze 13 aprile 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 17 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396135</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 22 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396136</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 30 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396137</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 8 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396138</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 14 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 21 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396140</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 27 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396141</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 4 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396142</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 1º luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396143</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 7 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 28 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396145</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 4 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396146</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 11 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396147</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera del soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri al cancelliere Giuliano Pescetti, Firenze 18 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 17 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396149</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 22 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396150</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti ai rappresentanti del Magistrato, Firenze 22 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396151</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 1º maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 8 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396153</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 14 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396154</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 22 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396155</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 29 maggio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 5 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 26 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 17 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396159</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 31 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 14 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396161</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 7 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396162</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 21 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396163</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 28 agosto 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396164</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 4 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396165</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dell’agente della comunità Bernardino Dotti al cancelliere Giuliano Pescetti, Firenze 25 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396166</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie VII, Corrispondenza dei cancellieri, filza 7 (1690-1697), Lettera dei deputati sulla nuova colletta universale al cancelliere Giuliano Pescetti, Firenze 17 luglio 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie XXX, Memorie della Comunità, reg.1 (1567-1781).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1567 - 1781</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396179</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie XXX, Memorie della Comunità, reg.3 (1589-1795), Lettera del cancelliere Giuliano Pescetti ai pubblici rappresentanti della comunità, Firenze 19 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396180</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie XXX, Memorie della Comunità, reg.3 (1589-1795), Diario del cancelliere della Comunità Giuliano Pescetti sull’attività svolta durante la sua missione a Firenze per sollecitare provvedimenti in favore della comunità danneggiata dal terremoto dell’8 aprile 1694, 12-19 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396181</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie XXX, Memorie della Comunità, reg.3 (1589-1795), Copia di promemoria del cancelliere Giuliano Pescetti al soprassindaco dei Nove conservatori del dominio e della giurisdizione fiorentina Andrea Poltri sui provvedimenti in favore della comunità danneggiata dal terremoto dell’8 aprile 1694, ante 19 giugno 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396184</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Sansepolcro, serie XXX, Memorie della Comunità, reg.4 (1441-1699), Memoria dei pubblici rappresentanti della comunità sulla concessione del parziale condono del debito originato dalla sospensione quinquennale delle contribuzioni daziarie in seguito al terremoto dell’8 aprile 1694, 30 agosto 1699.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1699</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396203</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Riformanze, reg.117 (1694-1698), Annotazione sul terremoto dell’8 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Lettere, tomo 5 (1680-1699).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1680 - 1699</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400112</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Archivio Segreto Estense, Cancelleria ducale, Estero, Avvisi e notizie dall’estero, b.71 (1694), fasc. Roma, Avvisi di Roma, 17 aprile 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520021</codbib>
+      <autore1>Amiani P.M.</autore1>
+      <titolo1>Memorie istoriche della città di Fano, 2 voll. (ristampa anastatica, Bologna 1967).</titolo1>
+      <luogoed>Fano</luogoed>
+      <datacompl>1751</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Sansepolcro, Manoscritti, J.109, Francesco Giuseppe Pignani, Annotazioni estratte dal compendio istorico di memorie fedelmente raccolte intorno all’origine, fondazione e proseguimento della città di Borgo San Sepolcro, 1767.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1767</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Sansepolcro, Manoscritti, J.109, Francesco Giuseppe Pignani, Compendio istorico di memorie fedelmente raccolte intorno alla origine, fondazione e proseguimento della città di Sansepolcro diviso in memorie, 1758.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1758</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Borgo San Sepolcro</desloc>
+      <lat_wgs84>43.5707</lat_wgs84>
+      <lon_wgs84>12.1411</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>047428</nloc_cfti>
+      <desloc_cfti>Sansepolcro (Borgo San Sepolcro)</desloc_cfti>
+      <notesito>Assunse la denominazione di San Sepolcro o Sansepolcro dopo l’Unità d’Italia.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pieve Santo Stefano</desloc>
+      <lat_wgs84>43.6709</lat_wgs84>
+      <lon_wgs84>12.0406</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>047353.00</nloc_cfti>
+      <desloc_cfti>Pieve Santo Stefano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Città di Castello</desloc>
+      <lat_wgs84>43.4572</lat_wgs84>
+      <lon_wgs84>12.2385</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>048680.00</nloc_cfti>
+      <desloc_cfti>Città di Castello</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Pesaro</desloc>
+      <lat_wgs84>43.9052</lat_wgs84>
+      <lon_wgs84>12.9049</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>050783.00</nloc_cfti>
+      <desloc_cfti>Pesaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Urbino</desloc>
+      <lat_wgs84>43.7266</lat_wgs84>
+      <lon_wgs84>12.636</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>051050.00</nloc_cfti>
+      <desloc_cfti>Urbino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fano</desloc>
+      <lat_wgs84>43.8376</lat_wgs84>
+      <lon_wgs84>13.0174</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>01160</nterr>
+      <nloc_cfti>050450.00</nloc_cfti>
+      <desloc_cfti>Fano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

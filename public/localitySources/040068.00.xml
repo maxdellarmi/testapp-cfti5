@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040068.00</nloc_cfti>
+      <desloc_cfti>Pian di Macina</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.3976</lat_wgs84>
+      <lon_wgs84>11.3416</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>I dati del censimento ISTAT del 1931 riportano che la (frazione insieme con Musiano) aveva una popolazione di 1683 abitanti di cui 639 vivevano accentrati e 1044 nelle campagne $(391553,391560)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT rese pericolanti due case di vecchia costruzione, già in precedenza in cattive condizioni di stabilità, che furono fatte sgomberare. Per l’alloggio dei senzatetto furono fornite 10 tende $(672956,071565)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29727</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290422</datanum>
+      <data_label>1929 04 22</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>22</giorno>
+      <time_label>08:25:33</time_label>
+      <ora>08</ora>
+      <minu>25</minu>
+      <sec>33</sec>
+      <lat>44.4776</lat>
+      <lon>11.1281</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>35</npun>
+      <mm>5</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>I dati del censimento ISTAT del 1931 riportano che la (frazione insieme con Musiano) aveva una popolazione di 1683 abitanti di cui 639 vivevano accentrati e 1044 nelle campagne $(391553,391560)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT rese pericolanti due case di vecchia costruzione, già in precedenza in cattive condizioni di stabilità, che furono fatte sgomberare. Per l’alloggio dei senzatetto furono fornite 10 tende $(672956,071565)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391553</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.1 (Italia Settentrionale).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391560</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.7 (Centri Abitati).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672956</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1929, Telegrammi in arrivo dal 19 aprile al 24 aprile, n.18850, Telegramma del prefetto di Bologna Guadagnini al Ministero dell’Interno, Bologna 23 aprile 1929.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071565</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.23, a.45, n.97.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>009373.99</nloc_cfti>
+      <desloc_cfti>Ayas</desloc_cfti>
+      <provlet>AO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.8126</lat_wgs84>
+      <lon_wgs84>7.6881</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34256</nterr>
+      <nperiod>003231</nperiod>
+      <datanum>19600323</datanum>
+      <data_label>1960 03 23</data_label>
+      <anno>1960</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>23:08:49</time_label>
+      <ora>23</ora>
+      <minu>08</minu>
+      <sec>49</sec>
+      <lat>46.3473</lat>
+      <lon>7.9799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>179</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Il Bollettino (1960) valutò l’intensità della scossa di IV grado MCS $(095111)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08304</nterr>
+      <nperiod>000819</nperiod>
+      <datanum>18550725</datanum>
+      <data_label>1855 07 25</data_label>
+      <anno>1855</anno>
+      <mese>07</mese>
+      <giorno>25</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.8385</lat>
+      <lon>7.7044</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>51</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Distrutte molte case in legno $(450004)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095111</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1960.03, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1960</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Feuille d’Aoste, 1855.08.02, a.1.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

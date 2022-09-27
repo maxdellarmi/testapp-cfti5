@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080997</nloc_cfti>
+      <desloc_cfti>Angelokastro (Castel Sant’Angelo)</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Greece</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>39.6952</lat_wgs84>
+      <lon_wgs84>19.683</lon_wgs84>
+      <notesito>Nota con la denominazione di Castel Sant’Angelo all’epoca del dominio della Repubblica di Venezia.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò danni gravi alla fortezza anche a causa della vetustà della costruzione. Crollarono la porta d’entrata e la porta del rivellino, caddero parte delle mura di cinta e parte del torrione e tutto il resto delle strutture militari e degli alloggi risultò danneggiato e squassato. La chiesa di S.Michele subì gravi lesioni in tutte le murature $(500283,500319,510391,510424)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>500283</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Corfù, filza 877, Dispaccio del provveditore e capitano di Corfù Vincenzo Balbi al Senato veneziano, Corfù 27 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500319</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Corfù, filza 877, Dispaccio del provveditore e capitano di Corfù Vincenzo Balbi al Senato veneziano, Corfù 24 luglio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510391</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Provveditori generali da mar, filza 988 (1742-43), Dispaccio del provveditore generale da mar Antonio Loredan al Senato veneziano, Corfù 16 marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510424</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Provveditori generali da mar, filza 988 (1742-43), Copia di lettera del castellano di Castel Sant’Angelo Stefano Theotochi al provveditore generale da mar Antonio Loredan, Castel Sant’Angelo 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510424</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Provveditori generali da mar, filza 988 (1742-43), Copia di lettera del castellano di Castel Sant’Angelo Stefano Theotochi al provveditore generale da mar Antonio Loredan, Castel Sant’Angelo 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

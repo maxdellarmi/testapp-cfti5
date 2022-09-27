@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074126.00</nloc_cfti>
+      <desloc_cfti>Sant’Anna di Massanova</desloc_cfti>
+      <provlet>KR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>39.0154</lat_wgs84>
+      <lon_wgs84>17.0703</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42071</nterr>
+      <nperiod>009038</nperiod>
+      <datanum>17440321</datanum>
+      <data_label>1744 03 21</data_label>
+      <anno>1744</anno>
+      <mese>03</mese>
+      <giorno>21</giorno>
+      <time_label>20:00</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>39.0404</lat>
+      <lon>16.7814</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>29</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò notevolmente la chiesa. Due anni dopo fu iniziata la ricostruzione dell’edificio, che risultava angusto e deteriorato anche a causa delle piogge $(051371)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>051371</codbib>
+      <autore1>Pesavento A.</autore1>
+      <titolo1>Il santuario di Sant’Anna di Massanova, in "La Provincia KR" [http://www.laprovinciakr.it/viaggiando/Crotone/chieseconventi/sant’anna.htm].</titolo1>
+      <luogoed>Crotone</luogoed>
+      <datacompl>2006</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

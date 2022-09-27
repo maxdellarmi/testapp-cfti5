@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056056.00</nloc_cfti>
+      <desloc_cfti>Celano</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>14</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.0843</lat_wgs84>
+      <lon_wgs84>13.5454</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il paese fu molto danneggiato $(470004)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30838</nterr>
+      <nperiod>003120</nperiod>
+      <datanum>19330926</datanum>
+      <data_label>1933 09 26</data_label>
+      <anno>1933</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>03:33:29</time_label>
+      <ora>03</ora>
+      <minu>33</minu>
+      <sec>29</sec>
+      <lat>42.08</lat>
+      <lon>14.0929</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>325</npun>
+      <mm>6</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Nel "Bollettino sismico", curato da Cavasino (1935), l’intensità della scossa fu valutata di VI grado della scala Mercalli $(000034)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa del 7 maggio di V-VI grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40785</nterr>
+      <nperiod>003256</nperiod>
+      <datanum>19790919</datanum>
+      <data_label>1979 09 19</data_label>
+      <anno>1979</anno>
+      <mese>09</mese>
+      <giorno>19</giorno>
+      <time_label>21:35:37</time_label>
+      <ora>21</ora>
+      <minu>35</minu>
+      <sec>37</sec>
+      <lat>42.7173</lat>
+      <lon>13.0752</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>9.1</imax>
+      <npun>694</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Favali et al. (1980) hanno valutato l’intensità della scossa di V grado MCS $(035274)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18754</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040224</datanum>
+      <data_label>1904 02 24</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>15:53:26</time_label>
+      <ora>15</ora>
+      <minu>53</minu>
+      <sec>26</sec>
+      <lat>42.0975</lat>
+      <lon>13.3162</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>56</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa venne avvertita da molte persone, sia in quiete che in movimento $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18757</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>00:29:04</time_label>
+      <ora>00</ora>
+      <minu>29</minu>
+      <sec>04</sec>
+      <lat>41.9875</lat>
+      <lon>13.2532</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>22</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa venne avvertita da molte persone, sia in quiete che in movimento $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33920</nterr>
+      <nperiod>003267</nperiod>
+      <datanum>19580624</datanum>
+      <data_label>1958 06 24</data_label>
+      <anno>1958</anno>
+      <mese>06</mese>
+      <giorno>24</giorno>
+      <time_label>06:07:04</time_label>
+      <ora>06</ora>
+      <minu>07</minu>
+      <sec>04</sec>
+      <lat>42.3405</lat>
+      <lon>13.4783</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>152</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>L’Aquila</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Di Filippo e Peronaci (1964) valutarono l’intensità della scossa di IV grado MCS $(052073)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34545</nterr>
+      <nperiod>003268</nperiod>
+      <datanum>19611031</datanum>
+      <data_label>1961 10 31</data_label>
+      <anno>1961</anno>
+      <mese>10</mese>
+      <giorno>31</giorno>
+      <time_label>13:37:18</time_label>
+      <ora>13</ora>
+      <minu>37</minu>
+      <sec>18</sec>
+      <lat>42.3962</lat>
+      <lon>13.0422</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>71</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Velino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Nel "Bollettino Sismico Definitivo" dell’ING l’intensità della scossa principale (31 ottobre, ore 13:37 GMT) fu valutata di IV grado MCS $(095187)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25849</nterr>
+      <nperiod>003347</nperiod>
+      <datanum>19161116</datanum>
+      <data_label>1916 11 16</data_label>
+      <anno>1916</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>06:35:30</time_label>
+      <ora>06</ora>
+      <minu>35</minu>
+      <sec>30</sec>
+      <lat>42.6462</lat>
+      <lon>13.1683</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>40</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Il terremoto fu molto leggero $(050399)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto, della durata di 18 secondi, causò il crollo di 700 delle 2000 case che componevano il centro abitato, 592 vennero giudicate riparabili, le rimanenti furono rese inabitabili; morirono 600 persone pari al 6,6% della popolazione totale $(593130,235474,050399)$. I crolli distrussero gran parte dei rioni alti e interessarono in modo particolare le volte e i solai, risparmiando i muri perimetrali; nella parte nuova del paese, situata in terreni di minore acclività, si verificarono gravi lesioni nella maggioranza degli edifici $(146388,146448,146449,146595)$. Particolari dei gravissimi danni vennero documentati dalle fotografie comparse su alcuni periodici dell’epoca $(146434,146435,096002,146463)$; alcune di queste immagini attestano la quasi completa distruzione dell’antico castello e del borgo che lo circondava e i gravissimi danni subiti dalla chiesa di S.Giovanni; crolli di varia entità si verificarono anche nelle chiese di S.Angelo, di S.Francesco, della Madonna del Carmine e in altri edifici di culto; il convento di S.Maria di Valleverde fu distrutto $(146428,593129,593053,635045)$. Le autorità comunali che risposero al questionario inviato dall’Ufficio Centrale di Meteorologia e di Geodinamica dichiararono che il terremoto aveva causato la morte di 2000 persone $(143326)$. Il Corpo Reale del Genio Civile dichiarò, nel 1917, di avere demolito 240 case, puntellato 232 edifici e riparato altri 179. Il numero complessivo, a tutto il maggio 1917, delle baracche costruite fu di 1768 $(593117)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>470004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione del danno cagionato dal Terremoto succeduto à dì 3 Novembre 1706 secondo le notizie venute à questo Eccellentissimo Marchese di Vigliena &amp;c. ed altre raccolte da varie lettere particolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1706</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235476</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto nella Marsica del 24 febbraio 1904, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.411-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.22, fasc.136, Elenco delle famiglie abitanti nel Comune di Celano capoluogo le cui case sono state distrutte o danneggiate dal terremoto del 13 gennaio 1915, Celano 25 luglio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146388</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1915.01.16.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146448</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.17.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146449</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146595</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1915.01.19.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146434</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna Illustrata, 1915.02.28-03.07.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146435</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna Illustrata, 1915.04.11-18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096002</codbib>
+      <autore1>Muñoz A.</autore1>
+      <titolo1>I monumenti della Marsica danneggiati dal terremoto, in "Nuova Antologia di Lettere, Scienze ed Arti", s.V, vol.176, pp.420-437.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146463</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.01.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146428</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.02.02.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.22, fasc.136, Lettera dei Confratelli dell’opera pia del Gonfalone di Celano al Commissario Civile di Avezzano relativa al restauro della chiesa della Madonna del Carmine danneggiata dal terremoto del 13 gennaio 1915, Celano 26 dicembre 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.9, fasc.62, Elenco di Chiese danneggiate dal terremoto del 13 Gennaio 1915 come da denunzie pervenute all’Intendenza di Finanza, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi dei Marsi. Elenco delle chiese parrocchiali e delle case religiose danneggiate o distrutte dal terremoto del 13 gennaio 1915, Tagliacozzo 10 aprile 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143326</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Questionario macrosismico compilato dal Comune di Celano sugli effetti causati dal terremoto del 13 gennaio 1915 nelle località del territorio comunale, Celano febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.13, fasc.74, Stato di avanzamento dei lavori delle opere dipendenti dal terremoto del 13 gennaio 1915 a tutto il 29 aprile 1917, Avezzano 6 maggio 1917.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000034</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1933, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035274</codbib>
+      <autore1>Favali P., Giovani L., Spadea M.C. e Vecchi M.</autore1>
+      <titolo1>Il terremoto della Valnerina del 19 Settembre 1979, in "Annali di Geofisica", vol.33, pp.67-100.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052073</codbib>
+      <autore1>Di Filippo D. e Peronaci F.</autore1>
+      <titolo1>La sismicità del «Campo fagliato» dell’Aterno (Terremoto de L’Aquila del 24.VI.1958), in "Annali di Geofisica", vol.17 (1964), pp.195-210.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1961.10, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146422</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.01.19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044777.00</nloc_cfti>
+      <desloc_cfti>Rocca Cerbaia</desloc_cfti>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.0044</lat_wgs84>
+      <lon_wgs84>11.1394</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17022</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:17:22</time_label>
+      <ora>23</ora>
+      <minu>17</minu>
+      <sec>22</sec>
+      <lat>43.9588</lat>
+      <lon>11.117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>140</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Località della Valle di Bisenzio. Subirono notevoli danni alcune ville $(001327,672762)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672762</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.30, a.41, n.181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

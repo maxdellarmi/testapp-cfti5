@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080399.00</nloc_cfti>
+      <desloc_cfti>Cres</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>44.9621</lat_wgs84>
+      <lon_wgs84>14.4141</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Secondo Cavasino $(000037)$ l’intensità della scossa fu del III grado della scala Mercalli.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000037</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1936, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

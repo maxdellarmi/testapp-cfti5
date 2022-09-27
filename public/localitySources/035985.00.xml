@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>035985.00</nloc_cfti>
+      <desloc_cfti>Tiedoli</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.5301</lat_wgs84>
+      <lon_wgs84>9.8245</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00697</nterr>
+      <nperiod>000748</nperiod>
+      <datanum>15450609</datanum>
+      <data_label>1545 06 09</data_label>
+      <anno>1545</anno>
+      <mese>06</mese>
+      <giorno>09</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.4735</lat>
+      <lon>9.8245</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>8</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Valle del Taro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Una casa subì gravissimi danni e fu "spaccata" in due parti $(320009,094052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06009</nterr>
+      <nperiod>000758</nperiod>
+      <datanum>18340214</datanum>
+      <data_label>1834 02 14</data_label>
+      <anno>1834</anno>
+      <mese>02</mese>
+      <giorno>14</giorno>
+      <time_label>13:15</time_label>
+      <ora>13</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.4328</lat>
+      <lon>9.851</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>112</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle del Taro-Lunigiana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò tutte le case, soprattutto quelle poste in direzione di Borgo Val di Taro. La chiesa parrocchiale subì crepe nelle volte e nei muri; la statua di S.Giovanni Battista posta a ornamento della facciata crollò a terra $(094024)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>320009</codbib>
+      <autore1>Franchi Giorgio</autore1>
+      <titolo1>Nove. Diario di un paese dell’Appennino (1544-1557), ed. G.Petrolini.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094052</codbib>
+      <autore1>Franchi Giorgio</autore1>
+      <titolo1>Poveri homini. Cronaca parmense del sec.XVI 1543/1557, ed. G.Bertozzi.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094024</codbib>
+      <autore1>Peschieri I.</autore1>
+      <titolo1>Ragguaglio particolareggiato delle ruine cagionate nel Valtarese dal terremoto dei giorni 14 Febbraio e susseguenti insino a tutto il dì 4 Marzo 1834.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

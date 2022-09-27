@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>046688.00</nloc_cfti>
+      <desloc_cfti>Borgo a Giovi</desloc_cfti>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.5326</lat_wgs84>
+      <lon_wgs84>11.8633</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Le scosse delle 0:22 e 0:30 GMT furono avvertite molto fortemente $(000020,672912)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04741</nterr>
+      <nperiod>003250</nperiod>
+      <datanum>17960205</datanum>
+      <data_label>1796 02 05</data_label>
+      <anno>1796</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>02:05</time_label>
+      <ora>02</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.5474</lat>
+      <lon>11.877</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Aretino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa principale, avvenuta il 5 febbraio alle ore 2:05 GMT, causò danni rilevanti $(000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672912</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1909.08.26, a.51, n.238.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042071.00</nloc_cfti>
+      <desloc_cfti>Sant’Ansovino</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.8835</lat_wgs84>
+      <lon_wgs84>12.653</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 16 agosto causò gravi danni alle scuole: è documentata la somma concessa per il restauro degli edifici scolastici $(671170)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>671170</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Divisione per le amministrazioni comunali e provinciali, Comuni, b.1224 (1916-1918), tit.15827.2 (Saludecio), Copia di relazione del Regio commissario del Comune di Saludecio A.Persani al Consiglio comunale, Saludecio 6 gennaio 1918.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1918</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

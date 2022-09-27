@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>055341.00</nloc_cfti>
+      <desloc_cfti>Anitrella</desloc_cfti>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.6366</lat_wgs84>
+      <lon_wgs84>13.5485</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Delle 600 case che costituivano gli abitati di Anitrella e Chiaiamari, la scossa, della durata di 39 secondi, ne fece crollare 250, ne rese inabitabili altre 250 e danneggiò leggermente le 100 rimanenti; a causa del terremoto morirono 2 persone. Furono parzialmente distrutti gli stabilimenti industriali delle cartiere Lucernari e l’edificio della centrale elettrica $(146452,143344,146424,146446)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>146452</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.21.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143344</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Questionario macrosismico compilato dal Comune di Monte San Giovanni Campano sugli effetti causati dal terremoto del 13 gennaio 1915 nelle località del territorio comunale, Monte San Giovanni Campano febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146424</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.01.22.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146446</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

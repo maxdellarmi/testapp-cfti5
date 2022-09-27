@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073656.00</nloc_cfti>
+      <desloc_cfti>Paganelli</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>11</maxint>
+      <lat_wgs84>42.7329</lat_wgs84>
+      <lon_wgs84>13.128</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01284</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030114</datanum>
+      <data_label>1703 01 14</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7091</lat>
+      <lon>13.0705</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>197</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>11</intpqnum>
+      <intpq>XI</intpq>
+      <D1>Villaggio del territorio di Norcia; la scossa del 14 gennaio causò la distruzione totale del paese; crollò la chiesa parrocchiale; morirono 27 persone (73%) su una popolazione censita di 37 abitanti $(470002,095176,095177)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>470002</codbib>
+      <autore1>De Carolis P.</autore1>
+      <titolo1>Relazione generale delle ruine, e mortalità cagionate dalle scosse del Terremoto de’ 14 Gennaro, e 2 Febbraro 1703 in Norcia, e Cascia, e loro contadi, compresi li Castelli delle Rocchette, e Ponte, Giurisdizione di Spoleto.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Series Urbium, Pagorum, &amp; Oppidorum Ditionis Ecclesiastica in Umbria &amp; Sabinis, qua his terræmotibus aut diruta sunt, aut fere devastata, anno 1703, in G.Baglivi, "Opera Omnia medico-practica et anatomica", pp.280-283.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1754</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095177</codbib>
+      <autore1>*</autore1>
+      <titolo1>Serie delle città, dei villaggi e dei castelli del Dominio Ecclesiastico nell’Umbria e nei Sabini che da questi terremuoti o furono rovinati o quasi devastati nell’anno 1703, in G.Baglivi, "Opere complete medico-pratiche ed anatomiche", tradotte per la prima volta in italiano e commentate da R.Pellegrini, pp.628-635.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1842</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

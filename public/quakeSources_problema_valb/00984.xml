@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00984</nterr>
+      <nperiod>000833</nperiod>
+      <datanum>16440215</datanum>
+      <data_label>1644 02 15</data_label>
+      <anno>1644</anno>
+      <mese>02</mese>
+      <giorno>15</giorno>
+      <time_label>09:20</time_label>
+      <ora>09</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.9933</lat>
+      <lon>7.3172</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>26</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6</mm>
+      <earthquakelocation>Alpi Marittime</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state reperite varie fonti memorialistiche coeve. Mercalli (1897) $(000014)$ utilizzò i registri parrocchiali del comune di Belvédère e le opere degli storici coevi Bouche (sec.XVII) e Gioffredo (1619-1692). A questi testi sono state aggiunte fonti memorialistiche di ambito italiano, come il "Diario" Di V.De Conti (Biblioteca Civica di Casale Monferrato) $(210002)$; gli "Annali ecclesiastici" di Schiaffino (Biblioteca Civica di Genova) $(280022)$; le cronache coeve di Ghilini (sec.XVII) per Alessandria $(250016)$ e di Verzellino (sec.XVII) per Savona $(280025)$. È stata inoltre analizzata la recente revisione di Lambert (1993) relativa all’area francese $(745821)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>Le vittime furono numerose, ma il numero non viene precisato dalle fonti. Si ricordano reazioni di fuga della popolazione, che a causa del prolungarsi delle repliche soggiornò a lungo all’aperto in ricoveri di fortuna.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Secondo la maggioranza delle fonti, la scossa avvenne alle ore 16 italiane (9:20 GMT ca.) e colpì in particolare l’entroterra nizzardo, causando crolli e vittime in alcune località delle Alpi marittime: Belvédère, La Bollene-Vésubie, Lantosque, Roquebillière, Toudon. L’area di risentimento fu molto ampia: si estese a Marsiglia e Arles verso sud-ovest; a Gap e forse a Ginevra a nord. In area italiana la scossa fu avvertita fortemente in alcuni centri della costa ligure fino a Genova e in alcune località dell’alessandrino. In particolare, a Cassine un testo ottocentesco, allo stato attuale della revisione non supportato da fonti coeve, segnala leggeri danni.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Una frana non localizzabile seppellì un gregge di 400 pecore.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095079</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre dans le bassin du Rhine, in "Memoires Couronnés et Mémoires des savants Étrangers de l’Académie Royale de Belgique", tomo 19.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl></datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095638</codbib>
+      <autore1>Laurenti A.</autore1>
+      <titolo1>Les tremblements de terre des Alpes-Maritimes. Histoire et sensibilization.</titolo1>
+      <luogoed>Nice</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>210002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica "G.Canna" di Casale Monferrato, Archivio De Conti, G-6/13, V.De Conti, Diario, notizie, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240068</codbib>
+      <autore1>Persoglio V.</autore1>
+      <titolo1>Cenni storici del paese di Cassine.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240069</codbib>
+      <autore1>Arditi S. e Cuttica G.F.</autore1>
+      <titolo1>Un testo dell’Ottocento e le vicende di S.Francesco oltre il periodo gotico, in "Francesco di Cassine: sopravvivenza di un monumento gotico".</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240070</codbib>
+      <autore1>Guerici V.</autore1>
+      <titolo1>Il restauro del tempio di S.Francesco in Cassine, in "Bollettino Storico Bibliografico Subalpino", a.27, pp.139-156.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1925</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>250016</codbib>
+      <autore1>Ghilini G.</autore1>
+      <titolo1>Annali di Alessandria, sec.XVII, ed. A.Bossola e G.Sachino, 4 voll.</titolo1>
+      <luogoed>Alessandria</luogoed>
+      <datacompl>1903 - 1915</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260011</codbib>
+      <autore1>Rossi G.</autore1>
+      <titolo1>Storia della città di Ventimiglia. Edizione riveduta ed ampliata (ristampa anastatica, Bologna 1973).</titolo1>
+      <luogoed>Oneglia</luogoed>
+      <datacompl>1886</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Berio di Genova, Sezione conservazione, M.R.3.1.5, A.Schiaffino, Annali Ecclesiastici della Liguria (origini-sec.XVII), 5 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1641</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280025</codbib>
+      <autore1>Verzellino G.V.</autore1>
+      <titolo1>Delle memorie particolari e specialmente degli uomini illustri della città di Savona, a cura di A.Astengo, 2 voll.</titolo1>
+      <luogoed>Savona</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Novellari di Genova (Avvisi del 12 marzo 1644).</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1644</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280701</codbib>
+      <autore1>Gioffredo P.</autore1>
+      <titolo1>Storia delle Alpi Marittime [-1662], ed. C.Gazzera, in "Monumenta Historiae Patriae", Scriptores.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1839</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450087</codbib>
+      <autore1>Galeani Napione G.</autore1>
+      <titolo1>Ricerche storiche intorno agli antichi terremoti del Piemonte, in "Memoires de l’Académie de Sciences, Littérature et Beaux-Arts de Turin", vol.19 (1809-1810), pp.143-159.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1811</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745146</codbib>
+      <autore1>Prost O.</autore1>
+      <titolo1>Notice sur les tremblements de terre du 29 décembre 1854 comparé a ceux des siecles prècedents.</titolo1>
+      <luogoed>Nice</luogoed>
+      <datacompl>1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745821</codbib>
+      <autore1>Lambert J.</autore1>
+      <titolo1>The Catalonian (1428) and Alpine (1564, 1644) Earthquakes: Review of Research in France, in "Historical Investigation of European Earthquakes", vol.1 (Materials of the CEC Project «Review of Historical Seismicity in Europe»), a cura di M.Stucchi, pp.145-159.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870304</codbib>
+      <autore1>Cerisola N.</autore1>
+      <titolo1>Storia di Savona.</titolo1>
+      <luogoed>Savona</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870356</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annali dell’Osservatorio Meteorologico di Porto Maurizio. Riassunto delle osservazioni meteorologiche eseguite negli anni 1886-87 e 1887-88.</titolo1>
+      <luogoed>Porto Maurizio</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Belvédère</desloc>
+      <lat_wgs84>44.013</lat_wgs84>
+      <lon_wgs84>7.326</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080135.00</nloc_cfti>
+      <desloc_cfti>Belvédère</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico ligure seicentesco Gioffredo $(280701)$, la scossa causò crolli diffusi e vittime; nei registri parrocchiali, citati da Mercalli $(000014)$, sono ricordati 3 morti.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>La Bollene-Vésubie</desloc>
+      <lat_wgs84>43.9829</lat_wgs84>
+      <lon_wgs84>7.3345</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080172.00</nloc_cfti>
+      <desloc_cfti>La Bollene-Vésubie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alcune persone morirono a causa del terremoto $(000014)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Lantosque</desloc>
+      <lat_wgs84>43.984</lat_wgs84>
+      <lon_wgs84>7.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080046.00</nloc_cfti>
+      <desloc_cfti>Lantosque</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico ligure seicentesco Gioffredo $(280701)$, la scossa causò crolli diffusi e vittime.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Roquebillière</desloc>
+      <lat_wgs84>44.0138</lat_wgs84>
+      <lon_wgs84>7.3094</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080197.00</nloc_cfti>
+      <desloc_cfti>Roquebillière</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico ligure seicentesco Gioffredo $(280701)$, la scossa causò crolli diffusi e vittime.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Toudon</desloc>
+      <lat_wgs84>43.9007</lat_wgs84>
+      <lon_wgs84>7.1162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080218.00</nloc_cfti>
+      <desloc_cfti>Toudon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, la scossa causò gravi danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Venanson</desloc>
+      <lat_wgs84>44.0456</lat_wgs84>
+      <lon_wgs84>7.2417</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080223.00</nloc_cfti>
+      <desloc_cfti>Venanson</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, la scossa causò il crollo della chiesa $(745821)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Aups</desloc>
+      <lat_wgs84>43.6264</lat_wgs84>
+      <lon_wgs84>6.2197</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080022.00</nloc_cfti>
+      <desloc_cfti>Aups</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, un documento coevo attesta che la scossa causò numerose lesioni nella chiesa.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Saint-Paul</desloc>
+      <lat_wgs84>43.7007</lat_wgs84>
+      <lon_wgs84>7.1162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080353.00</nloc_cfti>
+      <desloc_cfti>Saint-Paul</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, la scossa causò leggeri danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Vence</desloc>
+      <lat_wgs84>43.72</lat_wgs84>
+      <lon_wgs84>7.1061</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080224.00</nloc_cfti>
+      <desloc_cfti>Vence</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, la scossa causò leggeri danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cassine</desloc>
+      <lat_wgs84>44.7511</lat_wgs84>
+      <lon_wgs84>8.5267</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>008393.00</nloc_cfti>
+      <desloc_cfti>Cassine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo un testo di storia locale ottocentesco $(240068)$, la scossa fece cadere parte del cornicione della torre del castello e causò una fessurazione nel secondo arco della navata centrale della chiesa di S.Francesco.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Fréjus</desloc>
+      <lat_wgs84>43.4411</lat_wgs84>
+      <lon_wgs84>6.7376</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080038.00</nloc_cfti>
+      <desloc_cfti>Fréjus</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico coevo Bouche, riportato da Mercalli $(000014)$, il terremoto scosse violentemente la chiesa, spaventando la popolazione, che uscì all’aperto. Uno studio recente rileva l’assenza di riscontri relativi a effetti di danno $(745821)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Nice</desloc>
+      <lat_wgs84>43.6916</lat_wgs84>
+      <lon_wgs84>7.2516</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080055.00</nloc_cfti>
+      <desloc_cfti>Nice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico coevo Bouche, riportato da Mercalli $(000014)$, la scossa fu avvertita violentemente; non sono, tuttavia, descritti effetti specifici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>S</intpq>
+      <desloc>Châteauneuf-de-Contes</desloc>
+      <lat_wgs84>43.8075</lat_wgs84>
+      <lon_wgs84>7.296</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.1</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080268.00</nloc_cfti>
+      <desloc_cfti>Châteauneuf-de-Contes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico coevo Bouche, riportato da Mercalli $(000014)$, la scossa e le successive repliche furono avvertite violentemente e costrinsero la popolazione ad abbandonare le abitazioni e a vivere in rifugi di fortuna.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Alessandria</desloc>
+      <lat_wgs84>44.9134</lat_wgs84>
+      <lon_wgs84>8.6142</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>008062.00</nloc_cfti>
+      <desloc_cfti>Alessandria</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo il cronista coevo Ghilini $(250016)$, la scossa fu avvertita fortemente, ma non causò danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Genova</desloc>
+      <lat_wgs84>44.42</lat_wgs84>
+      <lon_wgs84>8.8971</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>033336.00</nloc_cfti>
+      <desloc_cfti>Genova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il cronista coevo Schiaffino $(280022)$ ricorda che la scossa fu avvertita con timore dalla popolazione.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Grasse</desloc>
+      <lat_wgs84>43.6559</lat_wgs84>
+      <lon_wgs84>6.9276</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080041.00</nloc_cfti>
+      <desloc_cfti>Grasse</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Mercalli $(000014)$, la scossa fu avvertita; uno studio recente rileva l’assenza di riscontri relativi a effetti di danno $(745821)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Oneglia</desloc>
+      <lat_wgs84>43.8885</lat_wgs84>
+      <lon_wgs84>8.0513</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>072001.00</nloc_cfti>
+      <desloc_cfti>Oneglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(000014)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Porto Maurizio</desloc>
+      <lat_wgs84>43.8752</lat_wgs84>
+      <lon_wgs84>8.0143</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>072564.00</nloc_cfti>
+      <desloc_cfti>Porto Maurizio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(000014)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Savona</desloc>
+      <lat_wgs84>44.3079</lat_wgs84>
+      <lon_wgs84>8.4799</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>032907.00</nloc_cfti>
+      <desloc_cfti>Savona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una cronaca coeva $(280025)$, la scossa fu avvertita fortemente, ma senza danni.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Taggia</desloc>
+      <lat_wgs84>43.8617</lat_wgs84>
+      <lon_wgs84>7.8497</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>032360.00</nloc_cfti>
+      <desloc_cfti>Taggia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo un manoscritto del XIX secolo, riportato da Mercalli $(000014)$, la scossa fu avvertita violentemente e causò la caduta di una pietra dal muro della chiesa.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Gap</desloc>
+      <lat_wgs84>44.5623</lat_wgs84>
+      <lon_wgs84>6.0796</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080039.00</nloc_cfti>
+      <desloc_cfti>Gap</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(000014)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Genève</desloc>
+      <lat_wgs84>46.2062</lat_wgs84>
+      <lon_wgs84>6.1516</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080009.00</nloc_cfti>
+      <desloc_cfti>Genève</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Von Hoff $(080239)$, ripreso da Perrey $(095079)$ e Rothé $(050077)$, la scossa fu avvertita in città e nel circondario.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Casale Monferrato</desloc>
+      <lat_wgs84>45.133</lat_wgs84>
+      <lon_wgs84>8.4497</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>008343.00</nloc_cfti>
+      <desloc_cfti>Casale Monferrato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo un testo manoscritto del XVIII secolo $(210002)$, la scossa fu avvertita con notevole intensità.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Marseille</desloc>
+      <lat_wgs84>43.2805</lat_wgs84>
+      <lon_wgs84>5.3763</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080052.00</nloc_cfti>
+      <desloc_cfti>Marseille</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico coevo Bouche, riportato da Mercalli $(000014)$, la scossa fu avvertita sensibilmente.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Aix-en-Provence</desloc>
+      <lat_wgs84>43.524</lat_wgs84>
+      <lon_wgs84>5.4492</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080126.00</nloc_cfti>
+      <desloc_cfti>Aix-en-Provence</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo lo storico coevo Bouche, riportato da Mercalli $(000014)$, la scossa fu avvertita leggermente.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Arles</desloc>
+      <lat_wgs84>43.6729</lat_wgs84>
+      <lon_wgs84>4.6137</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>00984</nterr>
+      <nloc_cfti>080265.00</nloc_cfti>
+      <desloc_cfti>Arles</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo una recente revisione $(745821)$, la scossa fu avvertita leggermente.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

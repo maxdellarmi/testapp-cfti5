@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062106.00</nloc_cfti>
+      <desloc_cfti>Candela</desloc_cfti>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>11</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>41.1366</lat_wgs84>
+      <lon_wgs84>15.5151</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07534</nterr>
+      <nperiod>001034</nperiod>
+      <datanum>18510814</datanum>
+      <data_label>1851 08 14</data_label>
+      <anno>1851</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9531</lat>
+      <lon>15.6667</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>103</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>17</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni alle abitazioni, all’ospedale e alla chiesa di S.Maria; una casa rurale crollò causando 3 morti e altre 14 case dovettero essere demolite $(300191,900035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di VII grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00928</nterr>
+      <nperiod>001033</nperiod>
+      <datanum>16270730</datanum>
+      <data_label>1627 07 30</data_label>
+      <anno>1627</anno>
+      <mese>07</mese>
+      <giorno>30</giorno>
+      <time_label>10:50</time_label>
+      <ora>10</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>41.7381</lat>
+      <lon>15.3419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>64</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa danneggiò le abitazioni e non causò morti; non sono note descrizioni dettagliate degli effetti $(030727,680048)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò notevolmente l’abitato $(055150)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò alcune lesioni alle abitazioni; non ci furono danni né alla chiesa madre né agli altri edifici ecclesiastici $(030461,700149)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono state reperite descrizioni degli effetti, l’abitato subì tuttavia dei danni e il comune fu inserito nell’elenco delle località danneggiate a cui erano applicabili le disposizioni della legge 14 febbraio 1949, n.39 $(672607,672616,672617)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il censimento del 1911 riporta che il paese aveva una popolazione di 7539 abitanti $(391567)$.&lt;br&gt;La scossa causò lesioni in poche case $(470686,770332)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42013</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840511</datanum>
+      <data_label>1984 05 11</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>10:42:00</time_label>
+      <ora>10</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41.7152</lat>
+      <lon>14.0759</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>342</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di III grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di III grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11712</nterr>
+      <nperiod>003141</nperiod>
+      <datanum>18820606</datanum>
+      <data_label>1882 06 06</data_label>
+      <anno>1882</anno>
+      <mese>06</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.5584</lat>
+      <lon>14.2034</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>50</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Monti del Matese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il corrispondente della stazione pluviometrica locale riferì al direttore dell’Osservatorio Meteorico di Foggia che la scossa non fu avvertita da nessuno $(770146,770139)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Dalla documentazione amministrativa afferente all’archivio del Ministero degli Interni risulta che il paese aveva una popolazione di 8259 abitanti $(671859,671881)$.&lt;br&gt;La scossa principale fu preceduta da una scossa avvertita fra le ore 22:30 GMT e le ore 22:55 GMT del giorno 22 luglio $(090462)$. Essa causò gravi danni $(420288)$. Secondo Alfano (1931) i morti furono 6, ossia lo 0,1% della popolazione; le case crollate furono 54 e quelle lesionate 1120, rispettivamente il 3% e il 62% del costruito $(090462)$. Secondo Majo (1931) vi fu 1 morto e le case lesionate furono il 65% del costruito $(130532)$.&lt;br&gt;Altre fonti riportano dati diversi riguardo al numero dei morti e dei feriti $(671634,671727,671857,671881,671859,671859)$ e delle case crollate $(671857)$. Un elenco ufficiale dei morti riporta per questo comune 6 nomi $(671896)$.&lt;br&gt;Fra i fabbricati rurali con abitazione permanente situati nel territorio del comune ne furono censiti 6 distrutti, 39 gravemente lesionati, 43 riparabili provvisoriamente ed utilizzabili nell’inverno successivo, fra quelli d’uso vario ne furono censiti 2 distrutti, 32 gravemente lesionati, 42 provvisoriamente riparabili ed utilizzabili nell’inverno successivo $(671770,671771)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030461</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Doria-Pamphilj di Roma, Corrispondenza da Napoli e Melfi, scaff.19, b.4 (agosto-dicembre 1694), Lettera del governatore dello Stato di Melfi Antonio Maria Maineri al principe Giovanni Andrea III Doria, Melfi 11 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700149</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.81 A, Asculana et Ceriniolensis I, Relazione del vescovo di Ascoli Satriano Francesco Antonio Ponzi alla Congregazione del Concilio sullo stato della diocesi, Ascoli Satriano 24 novembre 1696.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1696</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030727</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera relatione delli danni fatti dal terremoto nel Regno di Napoli con l’estirpatione di molte Città, &amp; luoghi, &amp; mortalità grandissima di gente.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1627</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680048</codbib>
+      <autore1>Molin D. e Margottini C.</autore1>
+      <titolo1>Il terremoto del 1627 nella Capitanata settentrionale, in "Contributo alla caratterizzazione della sismicità del terremoto italiano". Memorie presentate al Convegno annuale del Progetto Finalizzato "Geodinamica" del C.N.R. sul tema: "Sismicità dell’Italia: stato delle conoscenze scientifiche e qualità della normativa sismica", Udine 12-14 maggio 1981. Commissione ENEA-ENEL per lo studio dei problemi sismici connessi con la realizzazione di impianti nucleari, pp.251-279.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300191</codbib>
+      <autore1>Paci G.M.</autore1>
+      <titolo1>Relazione dei tremuoti di Basilicata del 1851.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1853</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Foggia, Intendenza di Capitanata, fascio 1712, fasc.3, Riassunto di quanto si riferisce dalle diverse autorità di questa provincia [di Capitanata] intorno al tremuoto [del 14 agosto 1851], per mezzo di rapporti giunti nella Intendenza, oggi 21 agosto 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391567</codbib>
+      <autore1>*</autore1>
+      <titolo1>Ministero di Agricoltura, Industria e Commercio, Ufficio del Censimento, Censimento della popolazione del Regno d’Italia 1911, vol.1 (Tav.I, II, III).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470686</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Puglie, 1910.06.08.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770332</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico provinciale di Foggia, Sezione sismica "V.Nigri", s.s., Lettera del direttore dell’Osservatorio di Foggia al Regio Ufficio Centrale di Meteorologia, Foggia, 11 giugno 1910.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671859</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Atti amministrativi, b.49 (1930), 20000.A, Terremoto del 23 luglio 1930 del Vulture, sottofasc.11, Rapporti da Druetti, Provincia di Foggia: i servizi igienico-sanitari in relazione col terremoto del 23 luglio 1930, Relazione dell’ispettore generale medico Druetti alla Direzione Generale della Sanità, Roma 14 agosto 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671881</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Atti amministrativi, b.49 (1930), 20000.A, Terremoto del 23 luglio 1930 del Vulture, sottofasc.20, Provincie, Provincia di Foggia, Specchio riassuntivo delle vittime e dei danni.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090462</codbib>
+      <autore1>Alfano G.B.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930 (Pubblicazione dell’Osservatorio di Pompei).</titolo1>
+      <luogoed>Pompei</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Emiliano. Gazzetta di Parma, 1930.07.24, a.175, n.174.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130532</codbib>
+      <autore1>Majo E.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930-VIII, in "Bollettino della Società dei Naturalisti in Napoli", vol.43 (1931), pp.377-391.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671634</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 23 luglio al 27 luglio, n.35112, Telegramma del prefetto di Foggia al Ministero dell’Interno, Foggia 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671727</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.1B, Prime notizie, Relazioni delle Autorità sui danni del terremoto, sullo stato dei lavori di sgombero, sui morti e feriti, Segnalazioni telegrafiche alla Casa di Sua Maestà il Re sui morti, feriti e sui danni, Telegramma del sottosegretario alla Presidenza del Consiglio dei Ministri al ministro della Real Casa, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671857</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Atti amministrativi, b.49 (1930), 20000.A, Terremoto del 23 luglio 1930 del Vulture, sottofasc.9, Rapporti dal comm. Crisafulli, Accertamenti al 25.7.30, Specchio riassuntivo delle vittime e dei danni nei comuni colpiti dal terremoto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671896</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo di Roma, 1930.08.24, a.7, n.201.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671770</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.12C, Pubblicazioni, Relazione della Confederazione Nazionale Fascista degli Agricoltori riguardante il censimento delle abitazioni rurali danneggiate o distrutte dal terremoto del 23 luglio u.s., Lettera del presidente della Confederazione Nazionale Fascista degli Agricoltori al Ministero dei Lavori Pubblici Ispettorato Generale Servizi Speciali, Roma settembre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671771</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.12C, Pubblicazioni, Relazione della Confederazione Nazionale Fascista degli Agricoltori riguardante il censimento delle abitazioni rurali danneggiate o distrutte dal terremoto del 23 luglio u.s., Elenco dei fabbricati rurali distrutti nei comuni delle provincie di Foggia e Potenza colpiti dal terremoto, Roma settembre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055150</codbib>
+      <autore1>Cavallo R. e Penta F.</autore1>
+      <titolo1>Qualche insegnamento tratto dal terremoto irpino del 1962, in "La Ricerca Scientifica", a.34, s.II, parte II (Rendiconti), sezione A (Abiologica), vol.6, n.1 (ottobre 1964), pp.93-128.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770146</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico Provinciale di Foggia, Sezione Sismica V.Nigri, cc.n.n., Cartoline Macrosismiche pervenute all’Osservatorio di Foggia, 8 giugno 1882.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1882</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico Provinciale di Foggia, Sezione Sismica V.Nigri, cc.n.n., Minuta della Lettera del Direttore dell’Osservatorio di Foggia V.Nigri alle stazioni termo-pluviometriche della Provincia, Foggia 7 giugno 1882.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1882</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672607</codbib>
+      <autore1>*</autore1>
+      <titolo1>Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana, a.1949, vol.1, n.39, Legge 14 febbraio 1949, Autorizzazione della spesa di lire 500 milioni per i danni causati dal terremoto del 18-23 agosto 1948 nelle Puglie.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672616</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino ufficiale del Ministero dei Lavori Pubblici, a.50 (1949), parte prima (Leggi, decreti e regolamenti), Decreto interministeriale 22 giugno 1949, n.2323, Approvazione dell’elenco dei Comuni danneggiati dal terremoto del 1948 nelle Puglie.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672617</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino ufficiale del Ministero dei Lavori Pubblici, a.50 (1949), parte prima (Leggi, decreti e regolamenti), Decreto ministeriale 22 giugno 1949, Elenco dei Comuni danneggiati dal terremoto 1948 ai quali sono applicabili le disposizioni della legge 14 febbraio 1949, n.39.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

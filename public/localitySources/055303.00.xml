@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>055303.00</nloc_cfti>
+      <desloc_cfti>Rosanisco</desloc_cfti>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>2.5</maxint>
+      <lat_wgs84>41.6392</lat_wgs84>
+      <lon_wgs84>13.8095</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09928</nterr>
+      <nperiod>000718</nperiod>
+      <datanum>18730712</datanum>
+      <data_label>1873 07 12</data_label>
+      <anno>1873</anno>
+      <mese>07</mese>
+      <giorno>12</giorno>
+      <time_label>06:06</time_label>
+      <ora>06</ora>
+      <minu>06</minu>
+      <sec>-9</sec>
+      <lat>41.6869</lat>
+      <lon>13.7781</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>61</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Monti della Meta</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>La scossa fu sentita assai poco $(745051)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745051</codbib>
+      <autore1>Marinoni G.</autore1>
+      <titolo1>Il terremoto nel circondario Sorano nel luglio 1873 (Relazione della Commissione scientifica inviata sul luogo dall’Autorità provinciale).</titolo1>
+      <luogoed>Caserta</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

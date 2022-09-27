@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073712.00</nloc_cfti>
+      <desloc_cfti>Colmone</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.1</maxint>
+      <lat_wgs84>43.2737</lat_wgs84>
+      <lon_wgs84>13.1953</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04785</nterr>
+      <nperiod>003103</nperiod>
+      <datanum>17990728</datanum>
+      <data_label>1799 07 28</data_label>
+      <anno>1799</anno>
+      <mese>07</mese>
+      <giorno>28</giorno>
+      <time_label>22:05</time_label>
+      <ora>22</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.2189</lat>
+      <lon>13.1472</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>70</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.1</intpqnum>
+      <intpq>D</intpq>
+      <D1>Il terremoto causò l’apertura di lesioni nella chiesa di S.Bartolomeo $(095622)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095622</codbib>
+      <autore1>Paciaroni R.</autore1>
+      <titolo1>Memorie sismiche sanseverinati.</titolo1>
+      <luogoed>San Severino Marche</luogoed>
+      <datacompl>1989</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

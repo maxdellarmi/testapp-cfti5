@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>016966.99</nloc_cfti>
+      <desloc_cfti>Tignale</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.7384</lat_wgs84>
+      <lon_wgs84>10.7203</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non è stata avvertita.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30545</nterr>
+      <nperiod>000527</nperiod>
+      <datanum>19320219</datanum>
+      <data_label>1932 02 19</data_label>
+      <anno>1932</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>12:57:11</time_label>
+      <ora>12</ora>
+      <minu>57</minu>
+      <sec>11</sec>
+      <lat>45.6327</lat>
+      <lon>10.7288</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>21</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cavasino (1933) nel "Bollettino sismico" valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000033)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000033</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1932, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

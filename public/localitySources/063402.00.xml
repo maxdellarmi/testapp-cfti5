@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063402.00</nloc_cfti>
+      <desloc_cfti>Calciano</desloc_cfti>
+      <provlet>MT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>40.5883</lat_wgs84>
+      <lon_wgs84>16.1933</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13002</nterr>
+      <nperiod>003029</nperiod>
+      <datanum>18871203</datanum>
+      <data_label>1887 12 03</data_label>
+      <anno>1887</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>03:45:00</time_label>
+      <ora>03</ora>
+      <minu>45</minu>
+      <sec>00</sec>
+      <lat>39.5644</lat>
+      <lon>16.2213</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>142</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145447)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto danneggiò la chiesa madre $(030065)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030065</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relatione del Terremoto accaduto in Napoli, e parte del suo Regno il giorno 8 di Settembre 1694. Dove si dà raguaglio delli danni, che il medesimo hà caggionato in molte parti del medesimo Regno. Et in particolare nelle tré Provincie di Principato Citra, Ultra, e Basilicata. Con il numero de’ morti, e feriti che nelle medesime sono restati sotto delle Pietre.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145447</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Il terremoto nel Vallo Cosentino del 3 dicembre 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8 (1886), pp.271-329.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

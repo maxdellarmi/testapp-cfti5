@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>039303.00</nloc_cfti>
+      <desloc_cfti>Gaibola</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.4622</lat_wgs84>
+      <lon_wgs84>11.3183</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04824</nterr>
+      <nperiod>000158</nperiod>
+      <datanum>18011008</datanum>
+      <data_label>1801 10 08</data_label>
+      <anno>1801</anno>
+      <mese>10</mese>
+      <giorno>08</giorno>
+      <time_label>07:52:53</time_label>
+      <ora>07</ora>
+      <minu>52</minu>
+      <sec>53</sec>
+      <lat>44.4681</lat>
+      <lon>11.4199</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa aggravò le condizioni statiche della chiesa di S.Michele di Gaibola, che aveva molte carenze preesistenti. In particolare, dopo il terremoto si rese necessaria la riparazione del tetto; il parroco chiese all’agente della famiglia Malvezzi, che aveva il patronato della chiesa, di provvedere economicamete alle riparazioni $(385819)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06030</nterr>
+      <nperiod>000180</nperiod>
+      <datanum>18341004</datanum>
+      <data_label>1834 10 04</data_label>
+      <anno>1834</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4805</lat>
+      <lon>11.3188</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>12</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>385819</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Archivio Malvezzi-Campeggi, serie III (Lettere), 119/641 (1801), Lettera di Gaetano Magli a Pietro Minghetti, Bologna 16 ottobre 1801.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1801</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385200</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti della Magistratura Comunale, 1834, Verbale della sessione del 7 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

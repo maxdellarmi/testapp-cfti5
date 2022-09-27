@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>27240</nterr>
+      <nperiod>000478</nperiod>
+      <datanum>19201006</datanum>
+      <data_label>1920 10 06</data_label>
+      <anno>1920</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>22:47</time_label>
+      <ora>22</ora>
+      <minu>47</minu>
+      <sec>-9</sec>
+      <lat>45.1251</lat>
+      <lon>10.8186</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>19</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.4</mm>
+      <earthquakelocation>Mantovano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000152</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1920, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000300</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Sismico Settimanale, 1920.10.05-09, n.154, a cura di G.Martinelli, Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000814</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Macrosismi avvertiti in Italia nell’anno 1920, in "Bollettino della Società Sismologica Italiana", vol.24 (1922-1923), n.3-4, pp.111-119.</titolo1>
+      <luogoed>Selci</luogoed>
+      <datacompl>1924</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020130</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1885-1922.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1885 - 1922</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1891-1926.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1891 - 1926</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020273</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Quotidiano della regione, 1920.10.07.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020309</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Vicenza, 1882-1927.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1882 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021244</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area San Benedetto Po. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071043</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1920.10.08.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071064</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo di Brescia, 1923-1943.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1923 - 1943</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071136</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1920.10.07.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071196</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1920.10.07.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150362</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Voce di Mantova, 1920-1945.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1920 - 1945</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460044</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.10.07.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1848-1929.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1848 - 1929</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740008</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Perseveranza. Giornale del Mattino, 1920.10.08, a.61, n.241.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1878-1970.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1878 - 1970</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771116</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale, 1920.10.07.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale, 1920.10.08.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1920.10.08.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Mantova</desloc>
+      <lat_wgs84>45.1527</lat_wgs84>
+      <lon_wgs84>10.7748</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019701.00</nloc_cfti>
+      <desloc_cfti>Mantova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Isola della Scala</desloc>
+      <lat_wgs84>45.273</lat_wgs84>
+      <lon_wgs84>11.0078</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>022737.00</nloc_cfti>
+      <desloc_cfti>Isola della Scala</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Borgoforte</desloc>
+      <lat_wgs84>45.0502</lat_wgs84>
+      <lon_wgs84>10.7498</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019397.00</nloc_cfti>
+      <desloc_cfti>Borgoforte</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Goito</desloc>
+      <lat_wgs84>45.2558</lat_wgs84>
+      <lon_wgs84>10.6739</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019614.00</nloc_cfti>
+      <desloc_cfti>Goito</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Gonzaga</desloc>
+      <lat_wgs84>44.9547</lat_wgs84>
+      <lon_wgs84>10.8205</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019663.00</nloc_cfti>
+      <desloc_cfti>Gonzaga</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>San Benedetto Po</desloc>
+      <lat_wgs84>45.0416</lat_wgs84>
+      <lon_wgs84>10.9294</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>020017.00</nloc_cfti>
+      <desloc_cfti>San Benedetto Po</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Robecco d'Oglio</desloc>
+      <lat_wgs84>45.2606</lat_wgs84>
+      <lon_wgs84>10.0764</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019134.00</nloc_cfti>
+      <desloc_cfti>Robecco d’Oglio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sospiro</desloc>
+      <lat_wgs84>45.1073</lat_wgs84>
+      <lon_wgs84>10.1581</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019228.00</nloc_cfti>
+      <desloc_cfti>Sospiro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Canneto sull'Oglio</desloc>
+      <lat_wgs84>45.1508</lat_wgs84>
+      <lon_wgs84>10.3787</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>019421.00</nloc_cfti>
+      <desloc_cfti>Canneto sull’Oglio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pisa</desloc>
+      <lat_wgs84>43.7167</lat_wgs84>
+      <lon_wgs84>10.4005</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>046303.00</nloc_cfti>
+      <desloc_cfti>Pisa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>27240</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

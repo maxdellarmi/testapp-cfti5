@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017577.00</nloc_cfti>
+      <desloc_cfti>Godiasco</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>7</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.8968</lat_wgs84>
+      <lon_wgs84>9.057</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32312</nterr>
+      <nperiod>000565</nperiod>
+      <datanum>19450629</datanum>
+      <data_label>1945 06 29</data_label>
+      <anno>1945</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:37:13</time_label>
+      <ora>15</ora>
+      <minu>37</minu>
+      <sec>13</sec>
+      <lat>44.8306</lat>
+      <lon>9.1304</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>31</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fu forte e causò il crollo di camini e calcinacci e leggere crepe nei muri $(080130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14943</nterr>
+      <nperiod>000268</nperiod>
+      <datanum>18941017</datanum>
+      <data_label>1894 10 17</data_label>
+      <anno>1894</anno>
+      <mese>10</mese>
+      <giorno>17</giorno>
+      <time_label>04:17</time_label>
+      <ora>04</ora>
+      <minu>17</minu>
+      <sec>-9</sec>
+      <lat>44.8754</lat>
+      <lon>9.12</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>19</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30519</nterr>
+      <nperiod>000536</nperiod>
+      <datanum>19320120</datanum>
+      <data_label>1932 01 20</data_label>
+      <anno>1932</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>05:58</time_label>
+      <ora>05</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>44.9329</lat>
+      <lon>8.966</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>12</npun>
+      <mm>4</mm>
+      <earthquakelocation>Tortonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17502</nterr>
+      <nperiod>000336</nperiod>
+      <datanum>19010123</datanum>
+      <data_label>1901 01 23</data_label>
+      <anno>1901</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>00:17:10</time_label>
+      <ora>00</ora>
+      <minu>17</minu>
+      <sec>10</sec>
+      <lat>45.0346</lat>
+      <lon>8.9978</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>90</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Vogherese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa del 29 giugno 1919 non fu avvertita $(095839)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23012</nterr>
+      <nperiod>000411</nperiod>
+      <datanum>19100123</datanum>
+      <data_label>1910 01 23</data_label>
+      <anno>1910</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>01:50</time_label>
+      <ora>01</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.8578</lat>
+      <lon>9.6584</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>118</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05491</nterr>
+      <nperiod>000170</nperiod>
+      <datanum>18281009</datanum>
+      <data_label>1828 10 09</data_label>
+      <anno>1828</anno>
+      <mese>10</mese>
+      <giorno>09</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.8216</lat>
+      <lon>9.047</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>115</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>32</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni non molto gravi: caddero molti comignoli e fu lesionata la stazione dei carabinieri $(080129,850002)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080129</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto vogherese del 17 ottobre 1894 e sulla attività sismica nell’appennino pavese, in "Rendiconti del Regio Istituto Lombardo di Scienze, Lettere ed Arti", s.II, vol.28, pp.178-193.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>850002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Torino, Sezione I, Paesi per A e B, mazzo 36, Relazione del sottintendente di Voghera Dattili alla Segreteria di Stato sui danni causati dal terremoto del 9 ottobre 1828, Voghera 12 ottobre 1828.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095839</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Godiasco 24 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080130</codbib>
+      <autore1>Boni A.</autore1>
+      <titolo1>I terremoti dell’Appennino vogherese-tortonese e la geologia della regione, in "Geofisica Pura e Applicata", vol.10, pp.114-143.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1947</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

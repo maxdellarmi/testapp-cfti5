@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072670.00</nloc_cfti>
+      <desloc_cfti>Tomba Bianca</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.9884</lat_wgs84>
+      <lon_wgs84>12.6565</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò molto gravemente il palazzo della famiglia Agolanti $(635508)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635508</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Legazione di Romagna, vol.13, "Relatione del terremoto seguito in Rimino alli 14 d’aprile 1672 tra l’hore 21, e 22" allegata alla lettera del vice legato di Romagna Carlo Anguisciola al cardinale nipote Paluzzo Paluzzi Altieri, [Rimini 21 aprile 1672].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

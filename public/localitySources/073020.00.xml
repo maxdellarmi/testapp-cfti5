@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073020.00</nloc_cfti>
+      <desloc_cfti>Sant’Andrea in Patrignano</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.9871</lat_wgs84>
+      <lon_wgs84>12.6234</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04475</nterr>
+      <nperiod>003194</nperiod>
+      <datanum>17861225</datanum>
+      <data_label>1786 12 25</data_label>
+      <anno>1786</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.9918</lat>
+      <lon>12.5644</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>90</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La perizia Valadier attesta danni al 93% degli edifici, di cui: nessun crollo totale, nessun crollo parziale, 19% danni gravi, 74% danni lievi. La chiesa parrocchiale subirono molti danni, che furono valutati 300 scudi. Subì inoltre qualche lieve danno, valutato 11,50 scudi, la chiesa dei Ss.Sebastiano e Rocco. I danni all’intero paese furono stimati 1150,50 scudi $(130372,130357)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò notevolmente l’abitato e le case rurali del territorio circostante; sono documentati danni alla casa della Comunità e alle mura castellane $(672993)$. Per quanto riguarda le abitazioni, le fonti non riportano descrizioni delle tipologie di danno, ma soltanto la stima economica: secondo la perizia effettuata per conto della Comunità i danni ammontarono complessivamente a 1.288 scudi $(672993)$; i periti della Legazione stimarono un danno di 1.003 scudi $(395671)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672993</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rimini III, b.3876 (1667-1678), Perizia dei danni causati dal terremoto del 14 aprile 1672 nel castello di Sant’Andrea in Patrignano e suo territorio redatta dal notaio Francesco Roggi, Sant’Andrea in Patrignano 9 maggio 1672.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395671</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato Rimini, Carte Tosi, b.1, Perizia generale de risarcimenti alle ruine della città ed infrascritti castelli di Rimino ordinata da monsignor Anguisciola vice legato di Romagna per parte dell’e.mo e rev.mo signor cardinale Gabrielli legato della medesima provincia in esecuzione degli ordini della Santità di Clemente X sommo pontefice e fatta dal signor Pier Matteo Angeloni architetto di Cesena coll’assistenza del signor dottore Gian Domenico Vermiglj deputato dal signor vice legato, copia sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130372</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato Rimini, Comune, AP 618-620, Giuseppe Valadier, Perizie dei danni causati alla città di Rimino, alle case delle venticinque parrocchie del Bargellato e alli castelli del Contado dal tremuoto nella notte delli 24 decembre dell’anno MDCCLXXXVI, distese per ordine della Santità di Nostro Signore papa Pio Sesto felicemente regnante ed alla medesima umiliate dall’architetto Giuseppe Valadier, 3 voll., 1787.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130357</codbib>
+      <autore1>Ferrari G.</autore1>
+      <titolo1>Le perizie Morigia e Valadier, in "Il terremoto di Rimini e della costa romagnola: 25 dicembre 1786. Analisi e interpretazione", a cura di E.Guidoboni e G.Ferrari, pp.103-122.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

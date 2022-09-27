@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064657.00</nloc_cfti>
+      <desloc_cfti>Cuturella</desloc_cfti>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>38.9873</lat_wgs84>
+      <lon_wgs84>16.7785</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42071</nterr>
+      <nperiod>009038</nperiod>
+      <datanum>17440321</datanum>
+      <data_label>1744 03 21</data_label>
+      <anno>1744</anno>
+      <mese>03</mese>
+      <giorno>21</giorno>
+      <time_label>20:00</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>39.0404</lat>
+      <lon>16.7814</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>29</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni non precisati $(140103)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>03120</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830328</datanum>
+      <data_label>1783 03 28</data_label>
+      <anno>1783</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>38.7861</lat>
+      <lon>16.4636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>323</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 28 marzo 1783 fu molto forte e causò leggere lesioni alla chiesa parrocchiale e alle case $(680031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu sentito fortemente $(145011)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05907</nterr>
+      <nperiod>000173</nperiod>
+      <datanum>18320308</datanum>
+      <data_label>1832 03 08</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>08</giorno>
+      <time_label>18:30</time_label>
+      <ora>18</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>39.0797</lat>
+      <lon>16.9188</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>99</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa danneggiò fortemente l’abitato; 30 case vennero ricostruite con il contributo statale $(540019)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>540019</codbib>
+      <autore1>Zuccaro A.M.</autore1>
+      <titolo1>Memoria che riguarda i tremuoti del 1832 letta nel giorno onomastico di Sua Maestà Ferdinando II dal Rettore del Real Liceo Presidente della Società Economica di Catanzaro.</titolo1>
+      <luogoed>Catanzaro</luogoed>
+      <datacompl>1833</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140103</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4876 (1744), Relazione del vicario generale delle Calabrie conte James Joseph Mahony al consigliere di Stato duca di Salas, Catanzaro 30 marzo 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

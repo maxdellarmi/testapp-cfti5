@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42846</nterr>
+      <nperiod>009758</nperiod>
+      <datanum>12220323</datanum>
+      <data_label>1222 03 23</data_label>
+      <anno>1222</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.6478</lat>
+      <lon>10.9251</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Modena</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>091482</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notula in margine a un manoscritto della cattedrale di Modena su un terremoto avvenuto il 23 marzo 1222, in "Scriptores rerum Prussicarum", vol.2, p.117.</titolo1>
+      <luogoed>Leipzig</luogoed>
+      <datacompl>1863</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093071</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>Les séismes en Europe occidentale de 394 à 1259. Nouveau catalogue critique.</titolo1>
+      <luogoed>Brussels</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>42846</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

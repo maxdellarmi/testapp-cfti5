@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00445</nterr>
+      <nperiod>003339</nperiod>
+      <datanum>14680606</datanum>
+      <data_label>1468 06 06</data_label>
+      <anno>1468</anno>
+      <mese>06</mese>
+      <giorno>06</giorno>
+      <time_label>10:30</time_label>
+      <ora>10</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.2059</lat>
+      <lon>12.3359</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è inserito nei cataloghi sismici in uso perché è sotto la soglia del danno. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda. Benché allo stato attuale non ci siano informazioni di danni, si è ritenuto di inserire ugualmente questo evento per conservare la data come indicatore cronologico che può guidare nuove ricerche.&lt;br&gt;Il Catalogo PFG (1985) elenca alla data 6 luglio 1468 un terremoto, classificato con intensità epicentrale di grado VII MCS, localizzato a Montescudo (nei pressi di San Marino). L’informazione è tratta dal catalogo di Baratta (1901) $(000001)$ secondo il quale a Rimini ci sarebbero stati "danni gravissimi". Baratta aveva utilizzato, male interprentandolo, un articolo del sismologo Serpieri (1888-1889, II, p.166) $(020975)$. Infatti, secondo questo autore il terremoto causò solo "grandissimo spavento", come sostiene, con le stesse parole, Clementini (1617-27) $(400017)$, storico di Rimini vissuto tra il 1561 e il 1624, riferimento bibliografico di Serpieri. In Postpischl (1991) questo terremoto è riclassificato con intensità epicentrale di grado VI e intensità massima di grado V (MCS) e rilocalizzato nell’Alto Adriatico.&lt;br&gt;In Guidoboni e Comastri (2005) $(091411)$ sono state pubblicate due nuove preziose fonti, riguardanti Cesena e Ravenna, sconosciute alla tradizione dei cataloghi sismici. Queste fonti permettono di correggere la data del terremoto, da 6 luglio a 6 giugno 1468. Che si tratti del medesimo evento riportato nei cataloghi sismici è suggerito dal fatto che Clementini (1617-27, II, p.491) $(400017)$ indica la stessa ora (le 15) delle due nuove fonti reperite. Non sono state invece individuate fonti coeve per Rimini.&lt;br&gt;Le fonti sono due notule coeve scritte in margine a due codici conservati alla Bibliothèque Nationale de France.&lt;br&gt;La breve notula che si riferisce a Cesena (ms. latins 3727, fol.95v.) $(091378)$ è scritta in italiano e riporta solo la durata del terremoto.&lt;br&gt;La notula che si riferisce a Ravenna è scritta in ebraico (ms. hébr. 1185/1), era segnalata in Busi (1995, p.475), ma non trascritta. Il testo presenta alcune difficoltà di lettura, ma è complessivamente chiaro e consente di confermare la datazione del terremoto al 6 giugno 1468, grazie alle precise indicazioni cronologiche che fornisce. La notula utilizza insieme elmenti del calendario ebraico e cristiano (giuliano); si trova scritto infatti che il terremoto avvenne il 6 giugno, secondo giorno della settimana (cioè lunedì), dell’anno ebraico 5228, corrispondente al 1468, nel mese ebraico di Sivan, corrispondente ai giorni 22 maggio ­ 20 giugno. Tutti elementi che collimano perfettamente per il 6 giugno 1468.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 6 giugno 1468 alle 10.30 GMT (le 15 in orario "all’italiana") a Cesena ci fu un terremoto di breve durata (circa tra 3 e 4 secondi); fu sentito anche a Ravenna. Le fonti non riportano altre informazioni sugli effetti.&lt;br&gt;Se prendiamo in considerazione anche le informazioni fornite da Clementini (1617-27, II, p.491), che forse attingeva a fonti locali ora perdute, possiamo aggiungere alle località colpite da questo terremoto anche Rimini, dove la scossa fu forte.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020975</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Il terremoto di Rimini della notte 17-18 marzo 1875 e considerazioni generali sopra varie teorie sismologiche. Discorso letto nella Università di Urbino per l’apertura dell’anno scolastico 1877-78.</titolo1>
+      <luogoed>Urbino</luogoed>
+      <datacompl>1878</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091378</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bibliothèque Nationale de France, Manuscrits latins, 3727, c.95v, Notula sul terremoto del 6 giugno 1468 sentito a Cesena.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1468</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091379</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bibliothèque Nationale de France, Manuscrits hébreux, 1185/1, Notula sul terremoto del 6 giugno 1468 sentito a Ravenna.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1468</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091380</codbib>
+      <autore1>Postpischl D. (a cura di)</autore1>
+      <titolo1>San Marino e il terremoto.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400017</codbib>
+      <autore1>Clementini C.</autore1>
+      <titolo1>Raccolto istorico della fondazione di Rimino, e dell’origine e vite de’ Malatesti, 2 voll.</titolo1>
+      <luogoed>Rimini</luogoed>
+      <datacompl>1617 - 1627</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>910514</codbib>
+      <autore1>Busi G.</autore1>
+      <titolo1>The seismic history of Italy in the Hebrew sources, in Earthquakes in the past. Multidisciplinary approaches, a cura di E.Boschi, R.Funiciello, E.Guidoboni e A.Rovelli, "Annali di Geofisica", vol.38 (1995), pp.473-478.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rimini</desloc>
+      <lat_wgs84>44.06</lat_wgs84>
+      <lon_wgs84>12.5666</lon_wgs84>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00445</nterr>
+      <nloc_cfti>041984.00</nloc_cfti>
+      <desloc_cfti>Rimini</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò grandissimo spavento a tutta la popolazione $(400017)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cesena</desloc>
+      <lat_wgs84>44.1398</lat_wgs84>
+      <lon_wgs84>12.243</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00445</nterr>
+      <nloc_cfti>041569.00</nloc_cfti>
+      <desloc_cfti>Cesena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu sentita una scossa di breve durata (circa tra 3 e 4 secondi; mezza, o un terzo di "Ave Maria") $(091378)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Ravenna</desloc>
+      <lat_wgs84>44.4178</lat_wgs84>
+      <lon_wgs84>12.1982</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>00445</nterr>
+      <nloc_cfti>041374.00</nloc_cfti>
+      <desloc_cfti>Ravenna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu sentita una scossa; non sono riportati altri dettagli sugli effetti $(091379)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

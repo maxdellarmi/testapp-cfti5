@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072719.00</nloc_cfti>
+      <desloc_cfti>Libbiano</desloc_cfti>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.4793</lat_wgs84>
+      <lon_wgs84>10.9838</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09332</nterr>
+      <nperiod>002067</nperiod>
+      <datanum>18690926</datanum>
+      <data_label>1869 09 26</data_label>
+      <anno>1869</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.4539</lat>
+      <lon>11.1053</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>9</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle dell’Elsa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni considerevoli alla chiesa parrocchiale di San Pietro e alla canonica annessa $(775054,775055)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>775054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Affari (1869), serie III, n.81, Lettera del subeconomo della diocesi di Volterra L.Marchi al sindaco di San Gimignano relativa ai danni causati dal terremoto del 26 settembre 1869 alla chiesa di San Pietro di Libbiano, Volterra 18 novembre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di San Gimignano, Affari (1869), serie III, n.80, Lettera della Prefettura di Siena al sindaco di San Gimignano relativa ai danni causati dal terremoto del 26 settembre 1869 alla chiesa di San Pietro di Libbiano, Siena 14 ottobre 1869.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1869</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

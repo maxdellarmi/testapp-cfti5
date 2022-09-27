@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074092.00</nloc_cfti>
+      <desloc_cfti>San Pellegrino</desloc_cfti>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>44.6832</lat_wgs84>
+      <lon_wgs84>10.6264</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26562</nterr>
+      <nperiod>000459</nperiod>
+      <datanum>19180506</datanum>
+      <data_label>1918 05 06</data_label>
+      <anno>1918</anno>
+      <mese>05</mese>
+      <giorno>06</giorno>
+      <time_label>08:05</time_label>
+      <ora>08</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>44.6906</lat>
+      <lon>10.6287</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

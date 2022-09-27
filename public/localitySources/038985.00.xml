@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>038985.00</nloc_cfti>
+      <desloc_cfti>Groppo</desloc_cfti>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.2352</lat_wgs84>
+      <lon_wgs84>10.6419</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01781</nterr>
+      <nperiod>003093</nperiod>
+      <datanum>17400306</datanum>
+      <data_label>1740 03 06</data_label>
+      <anno>1740</anno>
+      <mese>03</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.0748</lat>
+      <lon>10.489</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>32</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò gravi fenditure nella chiesa parrocchiale $(000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

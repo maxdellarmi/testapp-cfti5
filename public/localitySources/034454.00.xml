@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>034454.00</nloc_cfti>
+      <desloc_cfti>Alseno</desloc_cfti>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>44.8965</lat_wgs84>
+      <lon_wgs84>9.9674</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19963</nterr>
+      <nperiod>000363</nperiod>
+      <datanum>19060611</datanum>
+      <data_label>1906 06 11</data_label>
+      <anno>1906</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>05:10</time_label>
+      <ora>05</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.956</lat>
+      <lon>10.0709</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4.5</imax>
+      <npun>37</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, della durata di 5-10s, fu avvertita generalmente in casa e da pochi all’aperto, con vibrazioni di porte e finestre, leggera oscillazione di oggetti sospesi, di liquidi in recipienti e di rami e cespugli $(035298)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

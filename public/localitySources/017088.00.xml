@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017088.00</nloc_cfti>
+      <desloc_cfti>Vobarno</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.6447</lat_wgs84>
+      <lon_wgs84>10.4998</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Margottini et al. (1984) $(035061)$ hanno valutato l’intensità della scossa di V grado MCS; Spadea et al. (1984) $(052130)$ di IV grado MCS.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Si verificarono gravi danni a parecchie case: caddero dei camini e delle torrette, sprofondarono dei pavimenti e dei soffitti, rimasero ferite diverse persone. Nella frazione di Pompegnino crollarono due case, la chiesa risultò pericolante e dovette essere chiusa, alcune abitazioni furono sgomberate $(071038,170142,771030,870560,880014)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>071038</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1901.10.31-11.01.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170142</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.11.10, n.310.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771030</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1901.10.31.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870560</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1901.11.01-02, n.303.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880014</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1901.11.07/08.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035061</codbib>
+      <autore1>Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Il terremoto di Parma del novembre 1983, ENEA, RT/PAS/84/4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

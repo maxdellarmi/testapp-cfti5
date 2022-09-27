@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42066</nterr>
+      <nperiod>009033</nperiod>
+      <datanum>17400330</datanum>
+      <data_label>1740 03 30</data_label>
+      <anno>1740</anno>
+      <mese>03</mese>
+      <giorno>30</giorno>
+      <time_label>12:10</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>38.9149</lat>
+      <lon>16.5859</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Catanzaro</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso e ignorato dalla tradizione sismologica italiana.&lt;br&gt;Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati oggetto di un rapporto inedito disponibile presso INGV (SGA 2000) $(021296)$.&lt;br&gt;L’evento è ricordato nel "Diario" degli avvenimenti di Catanzaro di Gregorio Susanna, una fonte memorialistica coeva di notevole valore informativo. L’autore, testimone diretto del terremoto, continuò, tra il 1733 e il 1769, l’opera iniziata nel 1710 dallo zio Giovanni Battista Moio $(055094)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questa sequenza sismica cominciò il 26 marzo 1740 e si protrasse per diversi giorni. La prima scossa avvenne alle ore 11:35 GMT circa (ore 18 in orario "all’italiana") del 26 marzo e fu sentita fortemente da tutti gli abitanti di Catanzaro che, impressionati, organizzarono immediatamente un rito religioso. La scossa più forte avvenne il 30 marzo verso le ore 12:10 GMT (le 18 in orario "all’italiana"): a Catanzaro causò l’apertura di crepe o lesioni nelle murature di varie chiese. Un’altra scossa più leggera fu sentita il 3 aprile verso le ore 16:45 GMT (ore 23 in orario "all’italiana").</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055094</codbib>
+      <autore1>Moio G.B. e Susanna G.</autore1>
+      <titolo1>Diario di quanto successe in Catanzaro dal 1710 al 1769, ed. U.Ferrari.</titolo1>
+      <luogoed>Chiaravalle Centrale</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Catanzaro</desloc>
+      <lat_wgs84>38.9149</lat_wgs84>
+      <lon_wgs84>16.5859</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>42066</nterr>
+      <nloc_cfti>064567.00</nloc_cfti>
+      <desloc_cfti>Catanzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La prima scossa avvenne il 26 marzo 1740 alle ore 11:35 GMT circa (ore 18 in orario "all’italiana"); fu sentita da tutti gli abitanti che, impressionati, organizzarono immediatamente un rito religioso. La scossa più forte avvenne il 30 marzo alle ore 12:10 GMT circa (le 18 in orario "all’italiana") e causò l’apertura di crepe o lesioni nelle murature di varie chiese. Un’altra scossa più leggera fu sentita il 3 aprile verso le ore 16:45 GMT (ore 23 in orario "all’italiana") $(055094)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

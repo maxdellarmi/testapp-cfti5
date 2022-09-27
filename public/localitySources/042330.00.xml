@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042330.00</nloc_cfti>
+      <desloc_cfti>Casola in Lunigiana</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>44.2013</lat_wgs84>
+      <lon_wgs84>10.1743</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il paese fu gravemente danneggiato: tutte le abitazioni subirono lesioni più o meno gravi; in particolare, su un totale di 118 edifici, 15 (13%) subirono gravi danni; di questi 11 (9,5%) crollarono o furono resi del tutto inabitabili e 4 (3,5%) furono resi parzialmente inabitabili.&lt;br&gt;Nella chiesa parrocchiale si aprirono varie crepe nella volta e si ruppe la chiave di una catena di ferro; crollò parzialmente il campanile le cui macerie cadendo sfondarono il tetto di un sottostante "metato" (seccatoio per le castagne); nella canonica i muri subirono lesioni molto gravi che resero l’edificio inabitabile, cadde inoltre il camino danneggiando il tetto e crollò parzialmente un piccolo campanile sovrastante la canonica sul lato orientale. Nella chiesa della Madonna del Carmine furono rilevate numerose larghe crepe, ma l’edificio fu ritenuto agibile.&lt;br&gt;I danni nei paesi di Casola, Montefiore e Vigneta furono complessivamente valutati 13.360 lire $(890059,890075,890099,470740)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto danneggiò molto gravemente l’abitato; quasi tutti gli edifici si resero inabitabili, molti crollarono; il castelletto e la torre subirono lesioni gravissime e se ne ritenne necessaria la demolizione; i morti furono 19 e i feriti 60 su 375 abitanti $(030126,030130,030133,080093,080096,080100,080104,340467,460179,870137,020069,020072)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.10, a.48, n.212.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.19, a.48, n.220.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.09, a.48, n.211.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.08, a.43, n.191.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080096</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.11, a.43, n.194.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080100</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.10, a.62, n.217.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080104</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.12, a.62, n.219.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340467</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1920.09.09, a.45, n.217.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460179</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Affari generali, 1910-1920, b.4/bis, Telegramma del prefetto di Massa De Berardinis al Ministero dell’Interno, Massa 8 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870137</codbib>
+      <autore1>Raddi A.</autore1>
+      <titolo1>Breve cenno sommario sul terremoto della Lunigiana del 7 settembre 1920, in "Politecnico", n.2.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1921</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020069</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1920.09.09.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1920.09.15.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Copia di relazione dell’ingegnere Francesco Guasti alla Segreteria di Stato sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 6 maggio 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890075</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Nota dei danni causati dal terremoto dell’11 aprile 1837 nel paese di Casola redatta dal gonfaloniere Ambrogio Ambrosi, Casola in Lunigiana aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.116 B, Sezione registri, Copia rapporti, 1831-1837, Relazione dell’aiuto ingegnere Antonio Giuliani al vicario regio sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 14 aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470740</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.25, n.33.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

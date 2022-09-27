@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072636.00</nloc_cfti>
+      <desloc_cfti>Badia di San Pietro</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.5506</lat_wgs84>
+      <lon_wgs84>13.6215</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01124</nterr>
+      <nperiod>003247</nperiod>
+      <datanum>16901223</datanum>
+      <data_label>1690 12 23</data_label>
+      <anno>1690</anno>
+      <mese>12</mese>
+      <giorno>23</giorno>
+      <time_label>00:20</time_label>
+      <ora>00</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.5473</lat>
+      <lon>13.5925</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>16</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Anconetano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto danneggiò gravemente la chiesa e il convento dei frati Camaldolesi, che subirono gravi lesioni e crolli parziali $(000003,470013)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Veridica, e distinta Relatione del terribile Terremoto seguito nella Città d’Ancona, &amp; suo Territorio, alle otto hore, &amp; un quarto di Notte delli 22 di Decembre dell’Anno 1690.</titolo1>
+      <luogoed>Ancona</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

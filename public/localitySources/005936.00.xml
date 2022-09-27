@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>005936.00</nloc_cfti>
+      <desloc_cfti>Marene</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>44.662</lat_wgs84>
+      <lon_wgs84>7.7273</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08669</nterr>
+      <nperiod>003207</nperiod>
+      <datanum>18580830</datanum>
+      <data_label>1858 08 30</data_label>
+      <anno>1858</anno>
+      <mese>08</mese>
+      <giorno>30</giorno>
+      <time_label>14:30</time_label>
+      <ora>14</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.3241</lat>
+      <lon>7.3408</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita dalla popolazione, in particolare da coloro che abitavano nei piani superiori $(672763)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672763</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1858.09.07, a.15, n.204.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080137</codbib>
+      <autore1>Vassalli-Eandi A.M.</autore1>
+      <titolo1>Rapport sur le tremblement de terre qui a commencé le 2 avril 1808 dans les vallées de Pélis, de Cluson, de Pô, etc. Fait à la Classe des Sciences Physiques et Mathématiques de l’Académie Impériale de Turin dan sa Séance du 2 mai 1808.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1808</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

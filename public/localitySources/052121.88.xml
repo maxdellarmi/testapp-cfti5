@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052121.88</nloc_cfti>
+      <desloc_cfti>Cesi</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.0052</lat_wgs84>
+      <lon_wgs84>12.8992</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25025</nterr>
+      <nperiod>003292</nperiod>
+      <datanum>19150315</datanum>
+      <data_label>1915 03 15</data_label>
+      <anno>1915</anno>
+      <mese>03</mese>
+      <giorno>15</giorno>
+      <time_label>11:23</time_label>
+      <ora>11</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>43.0123</lat>
+      <lon>12.8927</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>24</npun>
+      <mm>5</mm>
+      <earthquakelocation>Alta valle del Chienti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa avvertita il 15 marzo 1915 fu molto forte; causò la fuga all’aperto della popolazione e varie lesioni leggere negli edifici $(050399)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

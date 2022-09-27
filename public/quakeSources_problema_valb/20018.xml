@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>20018</nterr>
+      <nperiod>000383</nperiod>
+      <datanum>19060802</datanum>
+      <data_label>1906 08 02</data_label>
+      <anno>1906</anno>
+      <mese>08</mese>
+      <giorno>02</giorno>
+      <time_label>03:48</time_label>
+      <ora>03</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>45.5523</lat>
+      <lon>10.3609</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>16</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000019</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1906, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.13 (1908-1909).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020130</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1885-1922.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1885 - 1922</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1891-1926.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1891 - 1926</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020309</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Vicenza, 1882-1927.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1882 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021244</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area San Benedetto Po. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071061</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Mantova, 1896-1919.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1896 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071066</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1866-1927.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1866 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071094</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1906.08.03-04.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600500</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1886-1907.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1886 - 1907</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Pavia, 1903-1907.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1903 - 1907</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1848-1929.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1848 - 1929</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771040</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1906.08.02.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Nuvolera</desloc>
+      <lat_wgs84>45.5334</lat_wgs84>
+      <lon_wgs84>10.3725</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016537.00</nloc_cfti>
+      <desloc_cfti>Nuvolera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rezzato</desloc>
+      <lat_wgs84>45.5131</lat_wgs84>
+      <lon_wgs84>10.318</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016795.00</nloc_cfti>
+      <desloc_cfti>Rezzato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vallio Terme</desloc>
+      <lat_wgs84>45.6105</lat_wgs84>
+      <lon_wgs84>10.3922</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>017027.00</nloc_cfti>
+      <desloc_cfti>Vallio Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Castenedolo</desloc>
+      <lat_wgs84>45.4704</lat_wgs84>
+      <lon_wgs84>10.2997</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>015967.00</nloc_cfti>
+      <desloc_cfti>Castenedolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Montichiari</desloc>
+      <lat_wgs84>45.4133</lat_wgs84>
+      <lon_wgs84>10.3924</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016465.00</nloc_cfti>
+      <desloc_cfti>Montichiari</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bagnolo Mella</desloc>
+      <lat_wgs84>45.4303</lat_wgs84>
+      <lon_wgs84>10.1841</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>015703.00</nloc_cfti>
+      <desloc_cfti>Bagnolo Mella</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Carpenedolo</desloc>
+      <lat_wgs84>45.3635</lat_wgs84>
+      <lon_wgs84>10.4301</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>015929.00</nloc_cfti>
+      <desloc_cfti>Carpenedolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Corzano</desloc>
+      <lat_wgs84>45.4443</lat_wgs84>
+      <lon_wgs84>10.0079</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016090.00</nloc_cfti>
+      <desloc_cfti>Corzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Gussago</desloc>
+      <lat_wgs84>45.5873</lat_wgs84>
+      <lon_wgs84>10.1557</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016239.99</nloc_cfti>
+      <desloc_cfti>Gussago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Monzambano</desloc>
+      <lat_wgs84>45.3868</lat_wgs84>
+      <lon_wgs84>10.6929</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>019781.00</nloc_cfti>
+      <desloc_cfti>Monzambano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Nave</desloc>
+      <lat_wgs84>45.5877</lat_wgs84>
+      <lon_wgs84>10.2853</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016520.00</nloc_cfti>
+      <desloc_cfti>Nave</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ospitaletto</desloc>
+      <lat_wgs84>45.5557</lat_wgs84>
+      <lon_wgs84>10.0751</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016586.00</nloc_cfti>
+      <desloc_cfti>Ospitaletto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Padenghe sul Garda</desloc>
+      <lat_wgs84>45.5066</lat_wgs84>
+      <lon_wgs84>10.5072</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016590.00</nloc_cfti>
+      <desloc_cfti>Padenghe sul Garda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>San Zeno Naviglio</desloc>
+      <lat_wgs84>45.4906</lat_wgs84>
+      <lon_wgs84>10.2151</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016894.00</nloc_cfti>
+      <desloc_cfti>San Zeno Naviglio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Travagliato</desloc>
+      <lat_wgs84>45.5242</lat_wgs84>
+      <lon_wgs84>10.0792</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20018</nterr>
+      <nloc_cfti>016997.00</nloc_cfti>
+      <desloc_cfti>Travagliato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

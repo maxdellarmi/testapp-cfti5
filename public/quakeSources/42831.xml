@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42831</nterr>
+      <nperiod>009745</nperiod>
+      <datanum>15171231</datanum>
+      <data_label>1517 12 31</data_label>
+      <anno>1517</anno>
+      <mese>12</mese>
+      <giorno>31</giorno>
+      <time_label>03:55</time_label>
+      <ora>03</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>37.5024</lat>
+      <lon>15.0873</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Catania</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso e alla tradizione sismologica italiana, ma è noto alla storiografia siciliana (Ligresti 1992 $(052184)$; 1996 $(052204)$).&lt;br&gt;L’evento è ricordato dalla "Cronaca siciliana del secolo XVI" (ed. 1902), scritta da un anonimo monaco benedettino del monastero di S.Nicolò l’Arena, molto attento alla storia della città di Catania e testimone diretto del terremoto $(052229)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 31 dicembre 1517, alle ore 3:55 GMT circa (le ore 11 e mezza in orario "all’italiana"), a Catania fu sentita una forte scossa di terremoto, della durata di circa 8 secondi ("una avemmaria"), che fece suonare le campane della città e spaventò la popolazione.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>052184</codbib>
+      <autore1>Ligresti D.</autore1>
+      <titolo1>Terremoto e società in Sicilia (1501-1800).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052204</codbib>
+      <autore1>Ligresti D.</autore1>
+      <titolo1>Tra medioevo ed età moderna: i terremoti siciliani del ’500 nella descrizione degli autori coevi, in "La Sicilia dei terremoti. Lunga durata e dinamiche sociali", Atti del Convegno, Catania 11-13 dicembre 1995, a cura di G.Giarrizzo, pp.167-176.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052229</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca siciliana del secolo XVI, ed. V.Epifanio e A.Gulli, in "Fonti per la storia di Sicilia", SS., secolo XVI.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091318</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti a Catania: sintesi e parametri, in E.Boschi e E.Guidoboni, "Catania: terremoti e lave dal mondo antico alla fine del Novecento", pp.239-253.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Catania</desloc>
+      <lat_wgs84>37.5024</lat_wgs84>
+      <lon_wgs84>15.0873</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42831</nterr>
+      <nloc_cfti>067809.00</nloc_cfti>
+      <desloc_cfti>Catania</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il 31 dicembre 1517, alle ore 3:55 GMT circa (le ore 11 e mezza in orario "all’italiana"), fu sentita una forte scossa di terremoto, della durata di circa 8 secondi ("una avemmaria"), che fece suonare le campane della città e spaventò la popolazione $(052229)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

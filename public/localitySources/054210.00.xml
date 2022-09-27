@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>054210.00</nloc_cfti>
+      <desloc_cfti>Prima Porta</desloc_cfti>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>-1</maxint>
+      <lat_wgs84>42</lat_wgs84>
+      <lon_wgs84>12.4929</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50032</nterr>
+      <nperiod>005048</nperiod>
+      <datanum>-0170000</datanum>
+      <data_label>17 B. C. - -</data_label>
+      <anno>-17</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42</lat>
+      <lon>12.493</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <mm>0</mm>
+      <earthquakelocation>Prima Porta?</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1>Grande terremoto dove si trovava una, non meglio precisata, "villa di Livia" (moglie di Augusto), ai piedi dell’Appennino $(630110)$. La villa più celebre di Livia si trovava a Prima Porta, a circa 20 km a nord di Roma; tuttavia, la menzione dell’Appennino resta alquanto dubbia.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>630110</codbib>
+      <autore1>Obsequens Iulius</autore1>
+      <titolo1>Prodigiorum liber, in "T. Livi Periochae omnium librorum. Fragmenta Oxyrhynchi reperta. Iulii Obsequentis Prodigiorum liber", ed. O.Rossbach, pp.149-181, «Bibliotheca scriptorum Graecorum et Romanorum Teubneriana».</titolo1>
+      <luogoed>Leipzig</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

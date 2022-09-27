@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>066639.00</nloc_cfti>
+      <desloc_cfti>Ficarazzelli</desloc_cfti>
+      <provlet>PA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>38.0875</lat_wgs84>
+      <lon_wgs84>13.4518</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31722</nterr>
+      <nperiod>003237</nperiod>
+      <datanum>19400115</datanum>
+      <data_label>1940 01 15</data_label>
+      <anno>1940</anno>
+      <mese>01</mese>
+      <giorno>15</giorno>
+      <time_label>13:19:24</time_label>
+      <ora>13</ora>
+      <minu>19</minu>
+      <sec>24</sec>
+      <lat>38.076</lat>
+      <lon>13.4283</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>60</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Golfo di Palermo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto colpì notevolmente l’abitato: quasi tutti gli edifici furono danneggiati; i fabbricati all’esterno non presentavano lesioni rilevanti, ma nell’interno delle case furono riscontrati danni molto gravi $(095184,460161,671381,671380,671378)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095184</codbib>
+      <autore1>Dalmasso F.</autore1>
+      <titolo1>Sul terremoto Palermitano del 15 Gennaio 1940, in "Geofisica Pura e Applicata", vol.2, fasc.1, pp.42-55.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460161</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della pubblica sicurezza, Divisione affari generali e riservati, 1940, b.28/M, Lettera del prefetto di Palermo Enrico Cavalieri al Ministero dell’Interno (Direzione generale pubblica sicurezza), Palermo 18 gennaio 1940.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Palermo. Terremoto 15 gennaio 1940, Relazione del direttore dell’Unione provinciale degli industriali Santi Cutore e del presidente del Sindacato proprietari di fabbricati di Palermo Francesco Briguglia alla Federazione nazionale fascista proprietari di fabbricati sui danni causati dal terremoto del 15 gennaio 1940, Palermo 1º febbraio 1940.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671380</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Palermo. Terremoto 15 gennaio 1940, Copia di relazione del presidente del Sindacato proprietari di fabbricati Francesco Briguglia al segretario federale di Palermo del Partito nazionale fascista sui danni causati dal terremoto del 15 gennaio 1940, Palermo 24 gennaio 1940.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671378</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Palermo. Terremoto 15 gennaio 1940, Lettera del presidente dell’Unione provinciale degli industriali di Palermo Pietro Leone alla Federazione nazionale fascista proprietari di fabbricati, Palermo 20 gennaio 1940.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1940</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

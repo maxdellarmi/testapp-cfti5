@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053170.00</nloc_cfti>
+      <desloc_cfti>Canetra</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.3943</lat_wgs84>
+      <lon_wgs84>13.0304</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34545</nterr>
+      <nperiod>003268</nperiod>
+      <datanum>19611031</datanum>
+      <data_label>1961 10 31</data_label>
+      <anno>1961</anno>
+      <mese>10</mese>
+      <giorno>31</giorno>
+      <time_label>13:37:18</time_label>
+      <ora>13</ora>
+      <minu>37</minu>
+      <sec>18</sec>
+      <lat>42.3962</lat>
+      <lon>13.0422</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>71</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Velino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto danneggiò notevolmente l’abitato: crollarono alcuni cornicioni e gran parte degli edifici furono lesionati. I Vigili del Fuoco di Rieti intervennero per verificare la stabilità dei fabbricati danneggiati, alcuni dei quali furono dichiarati pericolanti. Furono fatti sgomberare un albergo e la farmacia del paese, nelle cui mura maestre si aprì una fenditura larga ca. 8 cm; la chiesa di San Sebastiano subì lesioni $(331006,672626,672691,691156)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>331006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1961.11.01.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672626</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1961.10.31, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672691</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1961.11.01, a.83, n.303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1961.11.01, n.259.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

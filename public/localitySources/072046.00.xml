@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072046.00</nloc_cfti>
+      <desloc_cfti>Scavignano</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.2243</lat_wgs84>
+      <lon_wgs84>11.8358</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01103</nterr>
+      <nperiod>003083</nperiod>
+      <datanum>16880411</datanum>
+      <data_label>1688 04 11</data_label>
+      <anno>1688</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>12:20</time_label>
+      <ora>12</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.3911</lat>
+      <lon>11.9417</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>39</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò forti danni alle abitazioni e il crollo del campanile della chiesa di S.Maria Maddalena $(410125)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02503</nterr>
+      <nperiod>002049</nperiod>
+      <datanum>17810404</datanum>
+      <data_label>1781 04 04</data_label>
+      <anno>1781</anno>
+      <mese>04</mese>
+      <giorno>04</giorno>
+      <time_label>21:20</time_label>
+      <ora>21</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.2522</lat>
+      <lon>11.7977</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>96</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Paese composto da 19 case e 130 abitanti. La scossa del 4 aprile causò il ferimento di una persona; 2 case crollarono, 7 subirono crolli parziali e furono abbandonate, 8 subirono danni minori. Chiesa parrocchiale e canonica subirono danni non meglio specificati $(391603,673765)$. I danni furono stimati complessivamente 2.072 scudi $(673842)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391603</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 273, Perizia dei danni causati alla Città, Diocesi e Territorio di Faenza dal Terremoto delli 4 Aprile 1781, Perizia sommaria degli edifici dei paesi della diocesi di Faenza redatta sulla base delle relazioni dei parroci, Faenza aprile 1781.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1781</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673765</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale II, 64 (Terremoti 1747-1834), b.1, n.2, Danni cagionati dai terremoti nella Provincia di Romagna, e nel Ducato d’Urbino nell’anno 1781, Ristretto dei danni causati dal terremoto del 4 aprile 1781 nei paesi del vicariato foraneo di San Giorgio in Ceparano.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1781</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673842</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale II, 64 (Terremoti 1747-1834), b.1, n.2, Danni cagionati dai terremoti nella Provincia di Romagna, e nel Ducato d’Urbino nell’anno 1781, Stima dei danni causati dal terremoto del 4 aprile 1781 nella terra di Brisighella e nei paesi del suo territorio redatta dai maestri muratori Antonio Sangiorgi e Gaspare Cometti, Brisighella 6 giugno 1781.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1781</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410125</codbib>
+      <autore1>Metelli A.</autore1>
+      <titolo1>Storia di Brisighella e della Valle di Amone, 4 voll.</titolo1>
+      <luogoed>Faenza</luogoed>
+      <datacompl>1869 - 1872</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

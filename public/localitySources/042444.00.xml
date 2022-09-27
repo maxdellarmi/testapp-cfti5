@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042444.00</nloc_cfti>
+      <desloc_cfti>San Terenzo</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.1738</lat_wgs84>
+      <lon_wgs84>10.0488</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il paese fu notevolmente danneggiato: alcune case furono lesionate e rese parzialmente inabitabili; subì danni la chiesa parrocchiale $(890059)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>890059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Copia di relazione dell’ingegnere Francesco Guasti alla Segreteria di Stato sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 6 maggio 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

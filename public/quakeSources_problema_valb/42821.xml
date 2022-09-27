@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42821</nterr>
+      <nperiod>009030</nperiod>
+      <datanum>17350126</datanum>
+      <data_label>1735 01 26</data_label>
+      <anno>1735</anno>
+      <mese>01</mese>
+      <giorno>26</giorno>
+      <time_label>03:10</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>41.0387</lat>
+      <lon>14.3867</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Maddaloni (CE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200137</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1735.02.18, n.7.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1735</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200138</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1735.02.25, n.8.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1735</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450252</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1735.02.15, n.7.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1735</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Maddaloni</desloc>
+      <lat_wgs84>41.0387</lat_wgs84>
+      <lon_wgs84>14.3867</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42821</nterr>
+      <nloc_cfti>059101.00</nloc_cfti>
+      <desloc_cfti>Maddaloni</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42821</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

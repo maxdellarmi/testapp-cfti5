@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>035208.00</nloc_cfti>
+      <desloc_cfti>San Michele</desloc_cfti>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.759</lat_wgs84>
+      <lon_wgs84>9.7002</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41860</nterr>
+      <nperiod>000835</nperiod>
+      <datanum>19801223</datanum>
+      <data_label>1980 12 23</data_label>
+      <anno>1980</anno>
+      <mese>12</mese>
+      <giorno>23</giorno>
+      <time_label>12:01:06</time_label>
+      <ora>12</ora>
+      <minu>01</minu>
+      <sec>06</sec>
+      <lat>44.8023</lat>
+      <lon>9.7565</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>38</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

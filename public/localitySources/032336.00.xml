@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>032336.00</nloc_cfti>
+      <desloc_cfti>San Lorenzo</desloc_cfti>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.8201</lat_wgs84>
+      <lon_wgs84>7.7433</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05824</nterr>
+      <nperiod>003107</nperiod>
+      <datanum>18310526</datanum>
+      <data_label>1831 05 26</data_label>
+      <anno>1831</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>10:30</time_label>
+      <ora>10</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.8557</lat>
+      <lon>7.8488</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>33</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 26 maggio 1831 procurò qualche danno alle chiese $(210053)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>210053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Torino, Sezioni riunite, Ministero di finanze, Archivio sistemato, Sanità, mazzo 1684, Relazione dell’intendente della provincia di San Remo Alberto Nota sul terremoto del 26 maggio 1831, San Remo 19 giugno 1831.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1831</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045570.00</nloc_cfti>
+      <desloc_cfti>Vallombrosa</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>17</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>43.7322</lat_wgs84>
+      <lon_wgs84>11.5574</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Una recente revisione scientifica attribuisce al terremoto del 10 novembre 1918 un valore d’intensità pari al V grado MCS senza fornire descrizione degli effetti $(060275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07062</nterr>
+      <nperiod>002058</nperiod>
+      <datanum>18431025</datanum>
+      <data_label>1843 10 25</data_label>
+      <anno>1843</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>03:30</time_label>
+      <ora>03</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.0035</lat>
+      <lon>11.2606</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>17</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24014</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:35:10</time_label>
+      <ora>22</ora>
+      <minu>35</minu>
+      <sec>10</sec>
+      <lat>43.5472</lat>
+      <lon>11.2433</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>13</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07160</nterr>
+      <nperiod>000920</nperiod>
+      <datanum>18460814</datanum>
+      <data_label>1846 08 14</data_label>
+      <anno>1846</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4708</lat>
+      <lon>10.5621</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>121</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(020483)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06038</nterr>
+      <nperiod>002057</nperiod>
+      <datanum>18350206</datanum>
+      <data_label>1835 02 06</data_label>
+      <anno>1835</anno>
+      <mese>02</mese>
+      <giorno>06</giorno>
+      <time_label>18:50</time_label>
+      <ora>18</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>43.9624</lat>
+      <lon>11.4157</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>5</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti; la cartolina macrosismica riporta un’intensità del IV grado della scala Mercalli $(385658)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, della durata di circa 4s, causò movimento di orologi e suono di campanelli $(002117)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26054</nterr>
+      <nperiod>002079</nperiod>
+      <datanum>19170426</datanum>
+      <data_label>1917 04 26</data_label>
+      <anno>1917</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>09:35:59</time_label>
+      <ora>09</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>43.4678</lat>
+      <lon>12.129</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>134</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Il Bollettino attribuisce il IV grado di intensità della Scala Mercalli e una durata di 4s $(000149)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29794</nterr>
+      <nperiod>002082</nperiod>
+      <datanum>19290718</datanum>
+      <data_label>1929 07 18</data_label>
+      <anno>1929</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>21:01:58</time_label>
+      <ora>21</ora>
+      <minu>01</minu>
+      <sec>58</sec>
+      <lat>43.9892</lat>
+      <lon>11.5071</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>57</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33063</nterr>
+      <nperiod>000773</nperiod>
+      <datanum>19510515</datanum>
+      <data_label>1951 05 15</data_label>
+      <anno>1951</anno>
+      <mese>05</mese>
+      <giorno>15</giorno>
+      <time_label>22:54:24</time_label>
+      <ora>22</ora>
+      <minu>54</minu>
+      <sec>24</sec>
+      <lat>45.2521</lat>
+      <lon>9.6005</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>154</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Le scosse delle 0:22 e delle 0:30 GMT furono avvertite leggermente, la prima causò tremolio di piccoli oggetti $(000020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12993</nterr>
+      <nperiod>002071</nperiod>
+      <datanum>18871114</datanum>
+      <data_label>1887 11 14</data_label>
+      <anno>1887</anno>
+      <mese>11</mese>
+      <giorno>14</giorno>
+      <time_label>05:48:05</time_label>
+      <ora>05</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>43.7516</lat>
+      <lon>11.2178</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>101</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33610</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560603</datanum>
+      <data_label>1956 06 03</data_label>
+      <anno>1956</anno>
+      <mese>06</mese>
+      <giorno>03</giorno>
+      <time_label>01:45:57</time_label>
+      <ora>01</ora>
+      <minu>45</minu>
+      <sec>57</sec>
+      <lat>44.0037</lat>
+      <lon>11.8752</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 26 maggio 1956, la località è nell’area di II grado MCS $(092007)$.&lt;br&gt;Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 3 giugno 1956, la località è nell’area di II grado MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33599</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560526</datanum>
+      <data_label>1956 05 26</data_label>
+      <anno>1956</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9392</lat>
+      <lon>11.8962</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 26 maggio 1956, la località è nell’area di II grado MCS $(092007)$.&lt;br&gt;Nella mappa disegnata da De Panfilis (1959), relativa alla scossa del 3 giugno 1956, la località è nell’area di II grado MCS $(092007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26973</nterr>
+      <nperiod>003116</nperiod>
+      <datanum>19190910</datanum>
+      <data_label>1919 09 10</data_label>
+      <anno>1919</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>16:57:37</time_label>
+      <ora>16</ora>
+      <minu>57</minu>
+      <sec>37</sec>
+      <lat>42.8224</lat>
+      <lon>11.7641</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>57</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(002166)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa del 29 giugno 1919 fu avvertita da tutti, sia in casa sia all’aperto; non causò gravi danni; fu classificata del VI grado della scala Mercalli $(095976)$; la replica dell’8 luglio, avvenuta circa alle ore 8 locali, fu avvertita $(190144)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>385658</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Vallombrosa 7 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020483</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Lettera dell’incaricato delle osservazioni meteorologiche di Vallombrosa all’incaricato dell’Osservatorio Meteorologico di Roma, Vallombrosa 22 gennaio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095976</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Vallombrosa 30 giugno 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Manoscritti, Giovanni Agamennone, Itinerario per il viaggio in Toscana dal 1.o al 18 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, maggio 1895, n.66, Cartolina macrosismica relativa al terremoto del 18 maggio 1895 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vallombrosa 18 maggio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000149</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1917, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092007</codbib>
+      <autore1>De Panfilis M.</autore1>
+      <titolo1>Attività sismica in Italia dal 1953 al 1957, in "Annali di Geofisica", vol.12, pp.21-148.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060275</codbib>
+      <autore1>Ferrari G.</autore1>
+      <titolo1>I terremoti dell’Appennino forlivese del 1917-1918, in "Atti del 4.o Convegno", Roma 29-31 ottobre 1985, CNR-GNGTS, vol.1, pp.313-327.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002166</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Piancastagnaio earthquake of September 10, 1919, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.128-129.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095975</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Lettera dell’Osservatorio meteorologico di Vallombrosa al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica relativa al terremoto del 29 giugno 1919, Vallombrosa 1 luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

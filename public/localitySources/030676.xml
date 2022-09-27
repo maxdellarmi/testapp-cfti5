@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>030676</nloc_cfti>
+      <desloc_cfti>Arta Terme (Arta)</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>46.4725</lat_wgs84>
+      <lon_wgs84>13.0255</lon_wgs84>
+      <notesito>Già Arta, assunse la denominazione attuale il 26 giugno 1965.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38902</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760506</datanum>
+      <data_label>1976 05 06</data_label>
+      <anno>1976</anno>
+      <mese>05</mese>
+      <giorno>06</giorno>
+      <time_label>20:00:13</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>13</sec>
+      <lat>46.235</lat>
+      <lon>13.0572</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>525</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 6 maggio, delle 21:00 (20:00 GMT), causò gravi danni a numerosi hotel e scuole, e nella località capoluogo il 30% delle abitazioni divenne inagibile $(002144)$. A Rinch, l’edificio che ospitava l’asilo infantile fu evacuato $(002144)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21142</nterr>
+      <nperiod>003219</nperiod>
+      <datanum>19080710</datanum>
+      <data_label>1908 07 10</data_label>
+      <anno>1908</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:13:35</time_label>
+      <ora>02</ora>
+      <minu>13</minu>
+      <sec>35</sec>
+      <lat>46.4655</lat>
+      <lon>13.1904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>120</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu molto forte, qualche mobile venne rovesciato e danneggiò qualche edificio $(455101,455105)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29040</nterr>
+      <nperiod>003117</nperiod>
+      <datanum>19280327</datanum>
+      <data_label>1928 03 27</data_label>
+      <anno>1928</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>08:32:30</time_label>
+      <ora>08</ora>
+      <minu>32</minu>
+      <sec>30</sec>
+      <lat>46.3801</lat>
+      <lon>12.9843</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>214</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Secondo il Bollettino Sismico 1928 $(050097)$, la scossa del 26.3 fu avvertita in questa località con intensità corrispondente al grado IV MCS. A causa della scossa del 27.3 si ebbero lesioni non gravi in alcune case $(050399)$. Il Bollettino Sismico 1928 $(050097)$ attribuisce agli effetti della seconda scossa in questa località il grado VI-VII MCS.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050097</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1928, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002144</codbib>
+      <autore1>Ambraseys N.N.</autore1>
+      <titolo1>The Gemona di Friuli Earthquake of 6 May 1976, in "The Gemona di Friuli Earthquake of 6 May 1976", UNESCO, Restricted Technical Report, RP/1975-76/2.222.3, pt.2.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455101</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Crociato, 1908.07.11, a.9, n.155.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Crociato, 1908.07.25, a.9, n.167.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

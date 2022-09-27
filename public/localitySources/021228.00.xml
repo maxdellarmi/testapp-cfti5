@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>021228.00</nloc_cfti>
+      <desloc_cfti>Brentonico</desloc_cfti>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.8182</lat_wgs84>
+      <lon_wgs84>10.9557</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09230</nterr>
+      <nperiod>000210</nperiod>
+      <datanum>18660811</datanum>
+      <data_label>1866 08 11</data_label>
+      <anno>1866</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.7375</lat>
+      <lon>10.797</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>33</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10753</nterr>
+      <nperiod>000234</nperiod>
+      <datanum>18760429</datanum>
+      <data_label>1876 04 29</data_label>
+      <anno>1876</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>10:49</time_label>
+      <ora>10</ora>
+      <minu>49</minu>
+      <sec>-9</sec>
+      <lat>45.7493</lat>
+      <lon>10.7851</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>25</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30545</nterr>
+      <nperiod>000527</nperiod>
+      <datanum>19320219</datanum>
+      <data_label>1932 02 19</data_label>
+      <anno>1932</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>12:57:11</time_label>
+      <ora>12</ora>
+      <minu>57</minu>
+      <sec>11</sec>
+      <lat>45.6327</lat>
+      <lon>10.7288</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>21</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente $(500066)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14476</nterr>
+      <nperiod>003344</nperiod>
+      <datanum>18920809</datanum>
+      <data_label>1892 08 09</data_label>
+      <anno>1892</anno>
+      <mese>08</mese>
+      <giorno>09</giorno>
+      <time_label>07:58</time_label>
+      <ora>07</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>45.5671</lat>
+      <lon>11.2041</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>160</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle d’Alpone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500066</codbib>
+      <autore1>Andreotti G.</autore1>
+      <titolo1>Sismicità del Garda. Studio del terremoto 19 Febbraio 1932-X, in "Atti del Reale Istituto Veneto di Scienze, Lettere ed Arti", vol.95 (1935-1936), pt.2, pp.141-160.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1936</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

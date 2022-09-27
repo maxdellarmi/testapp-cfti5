@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049618.00</nloc_cfti>
+      <desloc_cfti>Vio</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.9087</lat_wgs84>
+      <lon_wgs84>12.9192</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04615</nterr>
+      <nperiod>003286</nperiod>
+      <datanum>17911011</datanum>
+      <data_label>1791 10 11</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.9508</lat>
+      <lon>12.8611</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>54</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Villaggio del territorio di Sellano. Il terremoto colpì gravemente l’abitato: secondo la perizia effettuata dall’architetto Amadio, 11 case furono danneggiate da gravi lesioni, spaccature, distacchi e spiombi delle murature.&lt;br&gt;I lavori di restauro necessari consistevano nella riedificazione di parti di muri, di architravi di porte e finestre, di volte e solai, nell’apposizione di catene e nella costruzione di speroni di sostegno delle murature esterne; in un caso si doveva demolire il "palombaro" rialzato sul tetto della casa.&lt;br&gt;Complessivamente, per il ripristino degli edifici fu valutata necessaria la spesa di 281,50 scudi $(673438)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>673438</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Sellano III, b.4425 (1785-1794), Perizia dei danni causati dal terremoto dell’11 ottobre 1791 nella terra di Sellano, nei castelli di Orsano e Apagni, e nei rispettivi territori redatta dall’architetto Francesco Amadio, Spoleto 12 dicembre 1791.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1791</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

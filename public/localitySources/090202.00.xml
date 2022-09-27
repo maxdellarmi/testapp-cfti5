@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090202.00</nloc_cfti>
+      <desloc_cfti>Basso Bresciano</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>45.4174</lat_wgs84>
+      <lon_wgs84>10.2497</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00089</nterr>
+      <nperiod>000013</nperiod>
+      <datanum>12221225</datanum>
+      <data_label>1222 12 25</data_label>
+      <anno>1222</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>12:30</time_label>
+      <ora>12</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.481</lat>
+      <lon>10.2319</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>18</npun>
+      <mm>6</mm>
+      <earthquakelocation>Basso bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

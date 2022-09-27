@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>32364</nterr>
+      <nperiod>000568</nperiod>
+      <datanum>19470226</datanum>
+      <data_label>1947 02 26</data_label>
+      <anno>1947</anno>
+      <mese>02</mese>
+      <giorno>26</giorno>
+      <time_label>05:42:00</time_label>
+      <ora>05</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41</lat>
+      <lon>17.5</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Basso Adriatico</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo. Per la scossa del 26 febbraio 1947 il Catalogo PFG fa riferimento al "Bollettino sismico mensile" dell’Istituto Nazionale di Geofisica e al catalogo della sismicità europea di Kárník (1968-71) $(081939)$. Il BSM non riporta alcuna notizia relativa a questa data $(051281)$; Kárník, riprendendo un lavoro di Peterschmitt (1956) $(051276)$, segnala una scossa avvenuta alle ore 5:42 GMT con epicentro in mare, in prossimità di Monopoli; lo stesso Kárník dà anche notizia di una diversa localizzazione epicentrale fornita dall’International Seismological Summary (ISS), che localizza l’evento nel Basso Tirreno, al largo dell’isola di Stromboli $(081939)$. Né Kárník, né l’ISS danno indicazioni relative all’intensità macrosismica della scossa, alla quale viene attribuito un valore di magnitudo 5.0.&lt;br&gt;Nessuna notizia sulla scossa del 26 febbraio compare tra i materiali pervenuti durante il 1947 all’Ufficio Centrale di Meteorologia e Geofisica, vagliati da Agamennone (1948) $(145255)$. Né la stampa periodica locale $(071387,071389,071390,071392,071403,071429,071448,071463,071473,071474,071492)$, né i quotidiani nazionali $(021120,021122,060105,060107,071253)$ forniscono alcuna informazione sulla scossa. Gli elementi raccolti nel corso della ricerca fanno ritenere che la scossa non produsse effetti macrosismici in nessuna località del litorale della Puglia, né altrove. L’evento ebbe solo carattere strumentale e risulta, pertanto, ingiustificata l’attribuzione di intensità riportata nel Catalogo PFG. Per quanto riguarda la localizzazione epicentrale, va tenuto presente che sia Kárník, sia l’ISS si avvalsero di registrazioni strumentali fornite da stazioni molto lontane dal presunto epicentro: tale circostanza può avere dato luogo a errori rilevanti.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1905-1962.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1905 - 1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1899-1979.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1899 - 1979</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051276</codbib>
+      <autore1>Peterschmitt E.</autore1>
+      <titolo1>Quelques données nouvelles sur les seismes profonds de la mer Tyrrhenienne, in "Annali di Geofisica", vol.9, n.3, pp.305-334.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1956</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051281</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico mensile, 1947.02, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1946</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1899-1975.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899 - 1975</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Tempo, 1947-1970.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1947 - 1970</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070407</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, notiziario per la stampa, 1947.02.26, servizio estero.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1947</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071253</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1909-1985.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1909 - 1985</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071387</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Italia del Popolo, 1943-1947.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1943 - 1947</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071389</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Disfida, 1946-1967.</titolo1>
+      <luogoed>Corato</luogoed>
+      <datacompl>1946 - 1967</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Eco di Molfetta, 1947-1949.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1947 - 1949</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071392</codbib>
+      <autore1>*</autore1>
+      <titolo1>Luce e Vita, 1925-1985.</titolo1>
+      <luogoed>Molfetta</luogoed>
+      <datacompl>1925 - 1985</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071403</codbib>
+      <autore1>*</autore1>
+      <titolo1>Voce del Popolo, 1884-1976.</titolo1>
+      <luogoed>Taranto</luogoed>
+      <datacompl>1884 - 1976</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071429</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Puglia, 1947-1951.</titolo1>
+      <luogoed>Trani</luogoed>
+      <datacompl>1947 - 1951</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071448</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Freccia, 1945-1951.</titolo1>
+      <luogoed>Brindisi</luogoed>
+      <datacompl>1945 - 1951</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071463</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terra d’Otranto, 1947-1968.</titolo1>
+      <luogoed>Lecce-Galatina</luogoed>
+      <datacompl>1947 - 1968</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071473</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libera Voce, 1943-1947.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1943 - 1947</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071474</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ordine, 1915-1953.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1915 - 1953</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071492</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere di Foggia, 1945-1972.</titolo1>
+      <luogoed>Foggia</luogoed>
+      <datacompl>1945 - 1972</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072591.00</nloc_cfti>
+      <desloc_cfti>Vipera</desloc_cfti>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.1375</lat_wgs84>
+      <lon_wgs84>14.8222</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50081</nterr>
+      <nperiod>005098</nperiod>
+      <datanum>09891025</datanum>
+      <data_label>989 10 25</data_label>
+      <anno>989</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.0068</lat>
+      <lon>15.173</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>10</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Crollo di molte case. Morirono 150 persone $(530001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>530001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Beneventani monasterii Sanctae Sophiae, ed. O.Bertolini, in "Bullettino dell’Istituto Storico Italiano e Archivio Muratoriano", vol.42, pp.101-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1923</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048947.00</nloc_cfti>
+      <desloc_cfti>Caprara</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>43.2554</lat_wgs84>
+      <lon_wgs84>12.6975</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02001</nterr>
+      <nperiod>003095</nperiod>
+      <datanum>17510727</datanum>
+      <data_label>1751 07 27</data_label>
+      <anno>1751</anno>
+      <mese>07</mese>
+      <giorno>27</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.2252</lat>
+      <lon>12.7391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Centro fortificato del territorio di Gualdo Tadino. Il terremoto causò il crollo di tutte le 49 case del paese (100%); la chiesa divenne inagibile $(700304,700306)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, c.1009, Relazione di Stefano Coppari al segretario della Sacra Congregazione del Buon Governo monsignor Conti sullo stato dei Castelli e delle Ville del Territorio di Gualdo Tadino, Gualdo Tadino ottobre 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700306</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, cc.1022-1030, Relazione del segretario della Sacra Congregazione del Buon Governo monsignor Pietro Paolo Conti al papa Benedetto XIV sullo stato di Gualdo Tadino e del suo Contado, Roma ottobre 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

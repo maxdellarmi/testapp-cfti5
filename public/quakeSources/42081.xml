@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42081</nterr>
+      <nperiod>009050</nperiod>
+      <datanum>17990222</datanum>
+      <data_label>1799 02 22</data_label>
+      <anno>1799</anno>
+      <mese>02</mese>
+      <giorno>22</giorno>
+      <time_label>05:45</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.7719</lat>
+      <lon>10.7788</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Correggio (RE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Parma, B.V.1/2, Ubaldo Bianchi, Osservazioni meteorologiche dal 1772 al 1821.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1772 - 1821</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440063</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.1, Pietro Vellani, Diario Correggese (1794-1804), 2 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.2, Pietro Vellani, Diario dell’anno 1799.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1799</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Correggio</desloc>
+      <lat_wgs84>44.7719</lat_wgs84>
+      <lon_wgs84>10.7788</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42081</nterr>
+      <nloc_cfti>037489.00</nloc_cfti>
+      <desloc_cfti>Correggio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>42081</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

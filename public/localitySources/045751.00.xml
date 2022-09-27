@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045751.00</nloc_cfti>
+      <desloc_cfti>Convento di Monte Senario</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.8952</lat_wgs84>
+      <lon_wgs84>11.3332</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il convento fu gravemente danneggiato dal terremoto $(350015)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350015</codbib>
+      <autore1>Chini L.</autore1>
+      <titolo1>Storia antica e moderna del Mugello, 4 voll. (ristampa anastatica, Roma 1969).</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1875 - 1876</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>026395.00</nloc_cfti>
+      <desloc_cfti>Bastia</desloc_cfti>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>46.1326</lat_wgs84>
+      <lon_wgs84>12.335</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Si verificarono danni leggeri $(410281)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>410281</codbib>
+      <autore1>Pirona G. A. e Taramelli T.</autore1>
+      <titolo1>Sul terremoto del Bellunese del 29 giugno 1873, in "Atti del Regio Istituto Veneto di Scienze, Lettere ed Arti", serie IV, tomo 2, novembre 1872 e ottobre 1873, dispensa IX, pp.1523-74.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>008850.00</nloc_cfti>
+      <desloc_cfti>Costa</desloc_cfti>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>44.6179</lat_wgs84>
+      <lon_wgs84>8.6382</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17473</nterr>
+      <nperiod>000333</nperiod>
+      <datanum>19001230</datanum>
+      <data_label>1900 12 30</data_label>
+      <anno>1900</anno>
+      <mese>12</mese>
+      <giorno>30</giorno>
+      <time_label>23:36:20</time_label>
+      <ora>23</ora>
+      <minu>36</minu>
+      <sec>20</sec>
+      <lat>44.6512</lat>
+      <lon>8.447</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>36</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Alto Monferrato</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

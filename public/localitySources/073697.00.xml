@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073697.00</nloc_cfti>
+      <desloc_cfti>Santuario di Macereto</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.9778</lat_wgs84>
+      <lon_wgs84>13.1165</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01656</nterr>
+      <nperiod>003091</nperiod>
+      <datanum>17300512</datanum>
+      <data_label>1730 05 12</data_label>
+      <anno>1730</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7533</lat>
+      <lon>13.1196</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>115</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Sono attestati danni alla chiesa della Madonna Santissima non meglio specificati $(672361,672362)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672361</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie XI (Conti e tasse diverse), Terremoti e incasati, b.300, Terremoto del 1730 in Norcia, Cascia, Visso, Cerreto, Sellano di Spoleto e Montesanto, Lettera del vice governatore di Visso Francesco Baraschi al prefetto della Sacra Congregazione del Buon Governo, Visso 5 giugno 1734.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1734</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672362</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie XI (Conti e tasse diverse), Terremoti e incasati, b.300, Terremoto del 1730 in Norcia, Cascia, Visso, Cerreto, Sellano di Spoleto e Montesanto, Supplica dei sacerdoti, cappellani e ministri del Santuario della Madonna SS.ma di Macereto di Visso al prefetto della Sacra Congregazione del Buon Governo cardinale Riviera, Visso s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

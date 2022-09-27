@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50005</nterr>
+      <nperiod>005030</nperiod>
+      <datanum>-3220000</datanum>
+      <data_label>322 B. C. - -</data_label>
+      <anno>-322</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44</lat>
+      <lon>8</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Aristotele, filosofo greco del IV secolo a.C., contenuta nel trattato "Meteorologica" $(630067)$, in cui l’autore esemplifica i tipi di eventi sismici, citando terremoti avvenuti in un’epoca a lui vicina. Aristotele si riferisce alla cosiddetta "Ligustica". L’evento potrebbe essersi verificato anche molti decenni prima, ma l’unico termine "ante quem" è quello della morte di Aristotele nel 322 a.C., dato che i "Meteorologica" non possono essere datati con precisione. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XVII secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Effetti sismici genericamente localizzati nella "Ligustica", termine geografico che designava un ampio territorio, comprendente l’attuale Liguria e la Provenza. Il terremoto fece affiorare in superficie numerose pietre $(630067)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630067</codbib>
+      <autore1>Aristoteles</autore1>
+      <titolo1>Meteorologica, ed. P.Louis, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630174</codbib>
+      <autore1>Capelle W.</autore1>
+      <titolo1>Erdbebenforschung, in "Paulys Realencyclopädie der classischen Altertumswissenschaft", Suppl.4, coll.344-374.</titolo1>
+      <luogoed>Stuttgart</luogoed>
+      <datacompl>1924</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Liguria occidentale</desloc>
+      <lat_wgs84>44</lat_wgs84>
+      <lon_wgs84>8</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50005</nterr>
+      <nloc_cfti>090207.00</nloc_cfti>
+      <desloc_cfti>Liguria occidentale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Effetti sismici genericamente localizzati, secondo i "Meteorologica" di Aristotele $(630067)$, in "Ligustica", termine geografico che designava un ampio territorio, comprendente anche l’attuale Liguria e la Provenza. Il terremoto fece affiorare in superficie numerose pietre.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

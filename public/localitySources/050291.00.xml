@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>050291.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo</desloc_cfti>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.8651</lat_wgs84>
+      <lon_wgs84>12.5783</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto danneggiò gravemente il paese, causando il crollo quasi totale del castello $(635108,410287,052042,052043)$. Secondo quanto attestato dalla lettera del capitano B.Pagliaccini al legato di Urbino cardinale Cerri del 20 aprile 1672, riportata in Camassi et al. (1991) $(052125)$, nel castello rimase illesa soltanto la chiesa e nel territorio circostante 4 case crollarono parzialmente, causando il ferimento di 4 persone.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635108</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Ottoboniani Latini, 2481, cc.673-674, Relazione sul terremoto del 14 aprile 1672, Pesaro 28 aprile 1672.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410287</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.324, n.42, Relatione del Terremoto sucesso nella Città di Rimini, Rimini 17 aprile 1672, copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera Relatione del Terremoto seguito nella Romagna, e Marca il Giovedì Santo à 14 Aprile del corrente Anno 1672 à hore 22.</titolo1>
+      <luogoed>Bracciano</luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052043</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, succinta Relatione del Terremoto seguito nella Romagna, e Marca, posto in ottava rima, con il lamento che fà la Città de Rimini, con l’altre Città offese, e l’avertimento, che danno le dette Città à i Peccatori ad emendarsi.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052125</codbib>
+      <autore1>Camassi R., Postpischl D. e Sangiorgi A.</autore1>
+      <titolo1>Il terremoto riminese del 14 Aprile 1672, in "San Marino e il Terremoto", a cura di D.Postpischl, pp.115-137.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

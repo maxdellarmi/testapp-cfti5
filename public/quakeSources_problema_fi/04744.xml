@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>04744</nterr>
+      <nperiod>003102</nperiod>
+      <datanum>17960318</datanum>
+      <data_label>1796 03 18</data_label>
+      <anno>1796</anno>
+      <mese>03</mese>
+      <giorno>18</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.7469</lat>
+      <lon>13.9089</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Casamicciola Terme (NA)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo. La ricerca non ha reperito nuove testimonianze coeve dell’evento, che è ricordato soltanto da Mercalli (1884) $(051282)$, senza alcuna indicazione della fonte primaria.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Gli effetti furono distruttivi in una sola zona di Casamicciola; nel resto dell’abitato e negli altri paesi dell’isola di Ischia non vi furono danni.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051282</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>L’isola d’Ischia ed il terremoto del 28 luglio 1883, in "Memorie del Regio Istituto Lombardo di Scienze e Lettere", s.III, vol.6, pp.99-154.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1884</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052444</codbib>
+      <autore1>Cubellis E. e Luongo G.</autore1>
+      <titolo1>Sismicità storica dell’isola d’Ischia, in "Il terremoto del 28 luglio 1883 a Casamicciola nell’Isola d’Ischia", pt.3 (Il contesto fisico), pp.49-57, 312-313.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Casamicciola</desloc>
+      <lat_wgs84>40.7469</lat_wgs84>
+      <lon_wgs84>13.9089</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>04744</nterr>
+      <nloc_cfti>060014</nloc_cfti>
+      <desloc_cfti>Casamicciola Terme (Casamicciola)</desloc_cfti>
+      <notesito>Assunse la denominazione di Casamicciola Terme il 14 giugno 1956.</notesito>
+      <COMM>La scossa causò il crollo di alcune case, situate presso la parrocchia, provocando la morte di 7 persone, nelle altre zone del paese non vi furono danni $(051282)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

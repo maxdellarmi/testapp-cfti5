@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048500.00</nloc_cfti>
+      <desloc_cfti>Campello Alto</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>42.8281</lat_wgs84>
+      <lon_wgs84>12.7848</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42019</nterr>
+      <nperiod>003288</nperiod>
+      <datanum>18380805</datanum>
+      <data_label>1838 08 05</data_label>
+      <anno>1838</anno>
+      <mese>08</mese>
+      <giorno>05</giorno>
+      <time_label>17:15</time_label>
+      <ora>17</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>42.8775</lat>
+      <lon>12.8842</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>10</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 5 agosto fu fortemente avvertita e causò danni agli edifici $(635600,395908,395916)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635600</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1838, rubrica 110 (Esteri), b.270, Lettera del delegato apostolico di Spoleto monsignor L.Lucciardi al segretario di Stato cardinale Lambruschini, Spoleto 8 agosto 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395908</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Spoleto, Delegazione Apostolica di Spoleto, b.255, Memorie della Segreteria generale sulle scosse di terremoto avvertite da gennaio a novembre 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395916</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Spoleto, Delegazione Apostolica di Spoleto, b.917, Minuta di lettera del delegato apostolico monsignor L.Lucciardi ai segretari di Stato, Spoleto 8 agosto 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

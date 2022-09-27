@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00867</nterr>
+      <nperiod>002029</nperiod>
+      <datanum>16110908</datanum>
+      <data_label>1611 09 08</data_label>
+      <anno>1611</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>22:10</time_label>
+      <ora>22</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.0109</lat>
+      <lon>11.359</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Scarperia (FI)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo ed è stata sviluppata una ricerca bibliografica. Presso l’Archivio di Stato di Firenze, sono state individuate due nuove fonti manoscritte coeve $(350112,350025)$, che confermano l’immagine generale degli effetti di danno limitati a due paesi del Mugello, desumibile dalla tradizione sismologica (Giovannozzi 1895 $(060021)$). Le testimonianze narrative sono complessivamente piuttosto povere di dettagli descrittivi.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>Le scosse causarono grande panico tra gli abitanti delle valli del Mugello, che fuggirono nelle campagne e pernottarono all’aria aperta per diverse settimane.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C7</codtab>
+      <testocomm>A Scarperia si effettuarono lavori di restauro il cui costo è indicato nella somma di oltre 1.000 scudi $(060021)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>L’area dei massimi effetti comprende i paesi di Scarperia e Cerliano nel Mugello, dove furono segnalate gravi lesioni agli edifici e crolli di comignoli; non ci furono vittime. La scossa fu sentita a Firenze e Lucca.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Le acque di alcune sorgenti e di alcuni fiumi nell’area del Mugello subirono un notevole aumento di livello, mentre alcune vene risultarono impoverite; nella stessa area furono osservate fenditure nel terreno $(060021)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>La scossa principale avvenne nella notte dell’8 settembre 1611 alle 4, ora italiana (22:10 GMT ca.). A questa seguirono tre scosse di minore intensità nella stessa notte e altre scosse fino al gennaio 1612.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052122</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica dal 1500 al 1965 in Garfagnana, Mugello e Forlivese, CNEN, RT/GEO (68) 19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060021</codbib>
+      <autore1>Giovannozzi G.</autore1>
+      <titolo1>I terremoti storici mugellani, in "Le Serate Italiane", a.2, fasc.15, 4 agosto 1895.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092000</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata nell’atrio del Palazzo Pretorio di Scarperia in memoria del terremoto dell’8 settembre 1611, 1612, in G.Giovannozzi, I terremoti storici mugellani, "Le Serate Italiane", a.2, 4 agosto 1895, p.7.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092090</codbib>
+      <autore1>Moriconi A.</autore1>
+      <titolo1>Cronologia dei terremoti mugellani dal 1542 ad oggi, in "La Nazione della Sera", 2 luglio 1919, n.179, p.2.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350014</codbib>
+      <autore1>Grandini M. (a cura di)</autore1>
+      <titolo1>Scarperia: il paese dei coltelli.</titolo1>
+      <luogoed>Scarperia</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350015</codbib>
+      <autore1>Chini L.</autore1>
+      <titolo1>Storia antica e moderna del Mugello, 4 voll. (ristampa anastatica, Roma 1969).</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1875 - 1876</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350089</codbib>
+      <autore1>Guidi P.</autore1>
+      <titolo1>I terremoti lucchesi (anni 1112-1915), Pubblicazioni dell’Osservatorio Ximeniano dei PP. Scolopi, n.120.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350112</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Carte Strozziane, serie I, 108, Diario di ser Francesco d’Abramo Can[onic]o di S.Friano dal anno 1587 al 1619, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Scarperia</desloc>
+      <lat_wgs84>43.9957</lat_wgs84>
+      <lon_wgs84>11.3551</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00867</nterr>
+      <nloc_cfti>045701.00</nloc_cfti>
+      <desloc_cfti>Scarperia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto danneggiò fortemente gli edifici, ma non causò crolli totali. In particolare, subirono gravi lesioni e sconnessioni il palazzo del vicario, il campanile di una chiesa e un convento; per restaurarli furono spesi più di 1.000 scudi $(060021)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Cerliano</desloc>
+      <lat_wgs84>44.026</lat_wgs84>
+      <lon_wgs84>11.3628</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00867</nterr>
+      <nloc_cfti>072066.00</nloc_cfti>
+      <desloc_cfti>Cerliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terrremoto causò fenditure alle pareti della chiesa parrocchiale, caduta di grondaie, danni al campanile che, benché mal costruito, non cadde; crollo di comignoli. Alcune persone furono leggermente ferite $(060021)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00867</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito $(350112)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Lucca</desloc>
+      <lat_wgs84>43.8438</lat_wgs84>
+      <lon_wgs84>10.5049</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00867</nterr>
+      <nloc_cfti>043402.00</nloc_cfti>
+      <desloc_cfti>Lucca</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu nettamente avvertito $(350089)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

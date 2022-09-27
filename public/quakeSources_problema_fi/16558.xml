@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>16558</nterr>
+      <nperiod>000746</nperiod>
+      <datanum>18980423</datanum>
+      <data_label>1898 04 23</data_label>
+      <anno>1898</anno>
+      <mese>04</mese>
+      <giorno>23</giorno>
+      <time_label>18:22:08</time_label>
+      <ora>18</ora>
+      <minu>22</minu>
+      <sec>08</sec>
+      <lat>42.6202</lat>
+      <lon>12.9184</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>14</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Alta Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalologo PFG (1985), basata su Agamennone (1899-1900) $(000007)$ e su Baratta (1901) $(000001)$, limitatamente alle scosse del 25 agosto e del 12 settembre 1898.&lt;br&gt;La ricerca archivistica svolta ha portato al reperimento delle fonti di Agamennone: le cartoline macrosismiche inviate all’Ufficio Centrale di Meteorologia e Geodinamica di Roma conservate presso l’Ufficio Centrale di Ecologia Agraria. Di queste, 18 sono relative alla scossa del 23 aprile 1898, ore 18:22 GMT; 66 sono relative alla scossa del 25 agosto 1898, ore 16:37 GMT e 12 alla scossa del 12 settembre 1898, ore 14:14 GMT.&lt;br&gt;Le informazionie riguardanti le scosse del 25 agosto e del 12 settembre 1898 riportate in Baratta (1901) $(000001)$ sono basate su una corrispondenza giornalistica pubblicata dal "Resto del Carlino" del 27 settembre 1898 $(095505)$.&lt;br&gt;Complessivamente sono state vagliate 9 corrispondenze afferenti a 4 testate giornalistiche $(095505,095588,110839,110840,110841,110985,110986,110987,110988)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questa sequenza sismica iniziò in aprile e terminò nel settembre 1898. La scossa più violenta avvenne 4 mesi dopo le prime scosse.&lt;br&gt;La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, fu fortemente avvertita senza danni a Sellano e, più lievemente, a Leonessa, a Monteleone di Spoleto e a Rieti. L’area di risentimento fu compresa tra Sellano a nord e Rieti a sud, distanti 50 chilometri circa l’una dall’altra.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, causò danni gravi a Chiusita, Mevale, Rasenna e Renaro, e diffuse fessurazioni a Preci, località poste tra Visso e Sellano.&lt;br&gt;A Sellano, Visso, Cerreto di Spoleto e Foligno fu fortemente avvertita. L’area di risentimento fu compresa tra Magliano Sabina a sud-ovest e Cupramontana a nord-est.&lt;br&gt;La scossa del 12 settembre 1898, avvenuta alle ore 14:14 GMT, aggravò i danni causati dalla precedente scossa del 25 agosto a Chiusita, a Mevale, dove cadde il castello, a Rasenna e a Renaro e causò nuove fessurazioni negli edifici di Preci.&lt;br&gt;L’area di risentimento fu compresa tra Foligno a nord-ovest, Sarnano a est e Norcia a sud-est.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>Il periodo sismico umbro-marchigiano del 1898 fu caratterizzato da numerose scosse avvenute tra la fine di febbraio e la fine di marzo, da qualche scossa tra aprile e maggio, e da un’intensa ripresa dell’attività sismica tra agosto e settembre.&lt;br&gt;Le tre scosse principali avvennero il 23 aprile alle ore 18:22 GMT, il 25 agosto alle ore 16:37 GMT e il 12 settembre alle 14:14 GMT.&lt;br&gt;La scossa del 25 agosto fu seguita da una forte replica alle 19:39 GMT circa. La scossa del 12 settembre fu preceduta da numerose scosse. A Sellano durante la notte del 9 ne furono avvertite 20 nel giro di 15 minuti.&lt;br&gt;A Trevi furono avvertite scosse leggere il 9 settembre, circa alle 10:30 GMT; il 10 settembre, verso le 6:50 GMT e l’11 settembre, alle 3:00 GMT circa.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053003</codbib>
+      <autore1>Boschi E., Guidoboni E., Ferrari G. e Valensise G.</autore1>
+      <titolo1>I terremoti dell’Appennino umbro-marchigiano ­ area sud orientale dal 99 a.C. al 1984, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095505</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1898.09.27, n.269.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095588</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1898.08.27, n.239.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095622</codbib>
+      <autore1>Paciaroni R.</autore1>
+      <titolo1>Memorie sismiche sanseverinati.</titolo1>
+      <luogoed>San Severino Marche</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095665</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sulla distribuzione topografica dei terremoti nell’Umbria, in "Bollettino della Società Geografica Italiana", s.III, vol.35, pp.488-499.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110839</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1898.08.28, a.15, n.239.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110840</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1898.08.29, a.15, n.240.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110841</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1898.09.14, a.15, n.256.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110856</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.224, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sellano 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110857</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.225, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Monteleone di Spoleto 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110858</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.226, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Leonessa 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110859</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.227, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rieti 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110860</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.228, Lettera di Adolfo Cancani relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rocca di Papa 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110861</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.229, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cittareale 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110862</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.230, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Posta 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110863</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.231, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Micigliano 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110864</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.232, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Castel Sant’Angelo 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110865</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.233, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Labro 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110866</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.234, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Monte San Giovanni 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110867</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.235, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montasola 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110868</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.236, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fara in Sabina 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110869</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.237, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Piediluco 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110870</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.238, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Stroncone 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110871</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.239, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Nerola 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110872</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.240, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Moricone 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110873</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.242, Lettera di Adolfo Cancani relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rocca di Papa 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110874</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.258, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cerreto di Spoleto 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110875</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.259, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Magliano Sabino 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110876</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.260, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Foligno 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110877</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.261, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Preci 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110878</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.262, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rieti 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110879</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.263, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sellano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110880</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.264, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Spoleto 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110881</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.265, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Trevi 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110882</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.266, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bolognola 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110883</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.267, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Caldarola 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110884</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.268, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Macerata 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110885</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.269, Telegramma relativo al terremoto del 25 agosto 1898 inviato all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Macerata 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110886</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.270, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Severino Marche 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110887</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.271, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sarnano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110888</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.272, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Visso 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110889</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.276, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cantalice 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110890</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.278, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Civitella del Tronto 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110891</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.280, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Velletri 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110892</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.282, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Roma 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110893</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.283, Telegramma relativo al terremoto del 25 agosto 1898 inviato all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rocca di Papa 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110894</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.285, Telegramma relativo al terremoto del 25 agosto 1898 inviato all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ischia 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110895</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.274, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cerreto d’Esi 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110896</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.287, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Monte San Giovanni 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110897</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.288, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Labro 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110898</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.290, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montasola 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110899</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.289, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Torgiano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110937</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.291, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Stroncone 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110938</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.292, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Contigliano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110939</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.293, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Magione 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110940</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.294, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ficulle 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110941</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.295, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Monte Castello di Vibbio 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110942</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.296, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Gualdo Tadino 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110943</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.297, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fara in Sabina 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110944</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.298, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Arrone 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110945</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.299, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Castel Sant’Angelo 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110946</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.300, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Antrodoco 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110947</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.301, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Posta 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110948</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.302, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Paganica 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110949</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.303, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Micigliano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110950</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.304, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montereale 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110951</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.305, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Ginesio 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110952</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.306, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fiamignano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110953</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.307, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Potenza Picena 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110954</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.308, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montorio al Vomano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110955</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.309, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Atri 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110956</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.310, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Notaresco 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110957</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.311, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Farindola 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110958</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.312, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Benedetto del Tronto 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110959</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.313, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Porto San Giorgio 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110960</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.314, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Pedaso 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110961</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.315, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Grottazzolina 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110962</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.316, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ostra 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110963</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.317, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Filottrano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110964</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.318, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Camerano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110965</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.319, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Senigallia 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110966</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.320, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Corinaldo 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110967</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.321, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Falconara Marittima 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110968</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.322, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Acqualagna 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110969</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.323, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fossombrone 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110970</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.324, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Falconara Marittima 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110971</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.325, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Pergola 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110972</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.326, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Costanzo 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110973</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.327, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cantiano 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110974</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.117, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montecastello di Vibbio 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110975</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.118, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vallo di Mura 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110976</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.119, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Baschi 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110977</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.121, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Preci 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110978</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.122, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Todi 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110979</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.123, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sarnano 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110980</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.124, Cartolina macrosismica relativa al terremoto del 12 settembre 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Foligno 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110981</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1898, n.315, Lettera di G.Robbi all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa alle scosse di terremoto avvertite a Sellano e nei dintorni durante l’anno 1898, Sellano 27 febbraio 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110982</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.120, Lettera di P.F.Corradi all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa alle scosse avvertite a Trevi tra il 9 e il 12 settembre 1898, Trevi 13 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110983</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.115, Nota di Adolfo Cancani relativa alle rilevazioni strumentali del terremoto del 12 settembre 1898 effettuate presso l’Osservatorio di Rocca di Papa, Rocca di Papa settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110984</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.284, Nota di Adolfo Cancani relativa alle rilevazioni strumentali del terremoto del 25 agosto 1898 effettuate presso l’Osservatorio di Rocca di Papa, Rocca di Papa agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110985</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1898.09.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110986</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1898.09.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110987</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1898.09.18.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110988</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1898.08.27.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110989</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.286, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Lubiana 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110990</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.275, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Leonessa 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110991</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, aprile 1898, n.241, Cartolina macrosismica relativa al terremoto del 23 aprile 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Roma 23 aprile 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110992</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.281, Appunti di rilevazioni strumentali relative al terremoto del 25 agosto 1898 effettuate all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Roma 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110993</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, settembre 1898, n.116, Appunti di rilevazioni strumentali relative al terremoto del 12 settembre 1898 effettuate all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Roma 12 settembre 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Sellano</desloc>
+      <lat_wgs84>42.889</lat_wgs84>
+      <lon_wgs84>12.9264</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>049610.00</nloc_cfti>
+      <desloc_cfti>Sellano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, fu fortemente avvertita, rovesciò alcuni mobili e fece suonare le campane dell’orologio comunale $(110856,110981)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, fu fortemente avvertita e causò rovesciamento di mobili $(110879,110981)$.&lt;br&gt;La scossa del 12 settembre 1898, avvenuta alle ore 14:14 GMT, fu avvertita e la popolazione, spaventata anche a causa delle repliche, lasciò le case e si trasferì nelle campagne $(110986)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Leonessa</desloc>
+      <lat_wgs84>42.5669</lat_wgs84>
+      <lon_wgs84>12.9621</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053339.00</nloc_cfti>
+      <desloc_cfti>Leonessa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, fu avvertita da molte persone in stato di quiete e causò il tremolio di piccoli oggetti, vetrate e pareti $(110858)$.&lt;br&gt;La scossa del 25 agosto 1898, che il compilatore della cartolina forse per errore segnala essere avvenuta circa alle ore 13 GMT, fu avvertita da molte persone, ma non causò danni $(110990)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rieti</desloc>
+      <lat_wgs84>42.4048</lat_wgs84>
+      <lon_wgs84>12.8667</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053515.00</nloc_cfti>
+      <desloc_cfti>Rieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, causò forte scricchiolio dei soffitti $(110859,110860)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, fu di media intensità e causò tremolio di tavolini e oscillazione di mobili $(110878)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Monteleone di Spoleto</desloc>
+      <lat_wgs84>42.6525</lat_wgs84>
+      <lon_wgs84>12.9529</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>049159.00</nloc_cfti>
+      <desloc_cfti>Monteleone di Spoleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, fu avvertita da poche persone in stato di quiete e causò tremolio di vetrate $(110857)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castel Sant'Angelo</desloc>
+      <lat_wgs84>42.3941</lat_wgs84>
+      <lon_wgs84>13.0227</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053176.00</nloc_cfti>
+      <desloc_cfti>Castel Sant’Angelo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110864)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110945)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cittareale</desloc>
+      <lat_wgs84>42.6179</lat_wgs84>
+      <lon_wgs84>13.1596</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053197.00</nloc_cfti>
+      <desloc_cfti>Cittareale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110861)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Labro</desloc>
+      <lat_wgs84>42.5259</lat_wgs84>
+      <lon_wgs84>12.8002</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053317.00</nloc_cfti>
+      <desloc_cfti>Labro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110865)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110897)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Micigliano</desloc>
+      <lat_wgs84>42.4516</lat_wgs84>
+      <lon_wgs84>13.0545</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053369.00</nloc_cfti>
+      <desloc_cfti>Micigliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110863)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110949)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Monte San Giovanni in Sabina</desloc>
+      <lat_wgs84>42.3285</lat_wgs84>
+      <lon_wgs84>12.7773</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053399.00</nloc_cfti>
+      <desloc_cfti>Monte San Giovanni in Sabina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110866)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110896)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Moricone</desloc>
+      <lat_wgs84>42.1173</lat_wgs84>
+      <lon_wgs84>12.7709</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053930.00</nloc_cfti>
+      <desloc_cfti>Moricone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110872)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Nerola</desloc>
+      <lat_wgs84>42.1604</lat_wgs84>
+      <lon_wgs84>12.7866</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053946.00</nloc_cfti>
+      <desloc_cfti>Nerola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110871)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Piediluco</desloc>
+      <lat_wgs84>42.5365</lat_wgs84>
+      <lon_wgs84>12.7552</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>050233.00</nloc_cfti>
+      <desloc_cfti>Piediluco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110869)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Posta</desloc>
+      <lat_wgs84>42.5244</lat_wgs84>
+      <lon_wgs84>13.0968</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>053484.00</nloc_cfti>
+      <desloc_cfti>Posta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110862)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110947)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Stroncone</desloc>
+      <lat_wgs84>42.4982</lat_wgs84>
+      <lon_wgs84>12.6622</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16558</nterr>
+      <nloc_cfti>050200.00</nloc_cfti>
+      <desloc_cfti>Stroncone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 23 aprile 1898, avvenuta alle ore 18:22 GMT, non fu avvertita $(110870)$.&lt;br&gt;La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110937)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

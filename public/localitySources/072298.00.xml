@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072298.00</nloc_cfti>
+      <desloc_cfti>Macchisi</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>39.292</lat_wgs84>
+      <lon_wgs84>16.3444</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00953</nterr>
+      <nperiod>000107</nperiod>
+      <datanum>16380327</datanum>
+      <data_label>1638 03 27</data_label>
+      <anno>1638</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>15:05</time_label>
+      <ora>15</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>39.0483</lat>
+      <lon>16.2879</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>27</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 27 marzo causò il crollo di 9 case e ne rese inabitabili altre 35 $(770415)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>770415</codbib>
+      <autore1>Capecelatro E.</autore1>
+      <titolo1>Breve relatione fatta dal Consigliere Hettorre Capecelatro, Delegato per l’Illustriss. &amp;t Eccellentiss. Sig. Duca di Medina de las Torres, e di Sabioneta, Principe di Stigliano, &amp;tc. Viceré, Luogotenente, e Capitan Generale in questo Regno di Napoli, e suo Collateral Consiglio: à rivedere i danni nelle Provincie di Calavria, cagionati dal terremoto succeduto a 27 di Marzo 1638 per applicarci i remedij necessarij, per la sollevatione di quelle Città, Terre, e Castelli, che hanno patito, in appendice a L.D’Orsi, "I terremoti delle due Calavrie fedelissimamente descritti".</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1640</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

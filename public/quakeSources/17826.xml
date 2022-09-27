@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>17826</nterr>
+      <nperiod>003143</nperiod>
+      <datanum>19010731</datanum>
+      <data_label>1901 07 31</data_label>
+      <anno>1901</anno>
+      <mese>07</mese>
+      <giorno>31</giorno>
+      <time_label>10:38:30</time_label>
+      <ora>10</ora>
+      <minu>38</minu>
+      <sec>30</sec>
+      <lat>41.7192</lat>
+      <lon>13.7496</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.2</mm>
+      <earthquakelocation>Monti della Meta</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) costituita dal catalogo inedito ma disponibile di Dell’Olio e Molin (1980) $(745088)$, nel quale le informazioni sono sintetizzate in una carta delle intensità senza descrizione degli effetti. È stata condotta una ricerca sulla letteratura sismologica e sulla stampa quotidiana coeva.&lt;br&gt;Per quanto concerne le fonti sismologiche, è stata analizzato il catalogo di Cavasino (1935) $(050399)$, il quale utilizzò per la sua sintesi le "Notizie sui terremoti... 1901", curate da Cancani (1902-1903) $(000012)$. Le "Notizie" furono redatte sulla base delle cartoline macrosismiche inviate all’Ufficio Centrale di Meteorologia e Geodinamica dai relatori locali; questi ultimi fornirono poche informazioni descrittive sugli effetti della scossa, limitandosi generalmente alla stima dell’intensità osservata. È stato inoltre utilizzato il "Bollettino mensuale" dell’Osservatorio di Moncalieri (1901) $(000076)$. Le informazioni prodotte in ambito sismologico sono state integrate dal vaglio delle fonti giornalistiche, che ha consentito di utilizzare 10 corrispondenze afferenti a 5 testate $(170095,170137,672674,672675,672676,672677,672678,672679,672680,672682)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>All’epoca del terremoto, il territorio di Sora, attualmente in provincia di Frosinone, faceva parte della provincia di Caserta, o Terra di Lavoro; Sora era capoluogo di circondario retto da un sottoprefetto.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>La scossa causò grande panico fra gli abitanti delle località più colpite. A Sora e a Colle San Magno la popolazione si rifugiò in campagna per timore di repliche; a Cassino la fuga precipitosa dalle abitazioni fu causa di numerosi ferimenti $(672674,672675,672676)$.&lt;br&gt;Ad Alvito, secondo quanto riportato da una corrispondenza giornalistica, l’ammontare dei danni alla chiesa Madre ascese a 50.000 lire $(672677)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 31 luglio 1901 alle 10:38 GMT e colpì l’area dei Monti della Meta, al confine tra il Lazio meridionale e l’Abruzzo. I paesi più danneggiati furono Alvito, Pescosolido, Settefrati, Sora e Villetta Barrea dove numerose abitazioni ed edifici pubblici subirono lesioni. Danni più lievi furono riscontrati in una ventina di altre località delle attuali province di Frosinone, L’Aquila, Caserta e Isernia. La scossa fu avvertita in una vasta area dell’Italia centro-meridionale, compresa fra Spoleto a nord e Napoli a sud.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>A Pescosolido e a Villetta Barrea fu rilevato l’intorbidamento delle acque delle fontane pubbliche.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>La scossa principale, avvenuta alle ore 10:38 GMT del 31 luglio 1901, era stata preceduta da altre due scosse: la prima di media intensità avvertita a Settefrati alle ore 6:15 GMT; la seconda avvenuta alle ore 8:11 GMT e sentita fortemente nel Sorano e nella Marsica meridionale.&lt;br&gt;Vi furono numerose repliche; le più rilevanti furono le seguenti:&lt;br&gt;31 luglio, ore 12:25 GMT, scossa avvertita sensibilmente ad Alvito, Settefrati e Villetta Barrea, e più leggermente ad Atina, Picinisco, San Pietro Infine e Veroli.&lt;br&gt;1 agosto 1901, ore 16:04 GMT, scossa avvertita a Pescosolido, San Pietro Infine e Settefrati.&lt;br&gt;14 agosto 1901, ore 1:16 GMT, scossa avvertita fortemente a Isola del Liri, Opi, Pescosolido, Settefrati e Venafro, e più leggermente ad Alvito, Montecassino, Scanno e Villetta Barrea $(000012,050399)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1901, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.8 (1902-1903)-9 (1903-1904).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1902 - 1903</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.21.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170095</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.08.02, n.211.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170137</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.08.01, n.210.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672674</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1901.08.01-02, a.10, n.212.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672675</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1901.08.02-03, a.10, n.213.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672676</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1901.08.01, a.23, n.212.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672677</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1901.08.03, a.23, n.214.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672678</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1901.08.01, a.19, n.212.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672679</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1901.08.02, a.19, n.213.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672680</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Roma, 1901.08.01, a.40, n.212.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672682</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Roma, 1901.08.02, a.40, n.213.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745088</codbib>
+      <autore1>Dell’Olio A. e Molin D.</autore1>
+      <titolo1>Catalogo macrosismico del Lazio dall’anno 1000 al 1975, ENEA (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Alvito</desloc>
+      <lat_wgs84>41.6893</lat_wgs84>
+      <lon_wgs84>13.7424</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054775.00</nloc_cfti>
+      <desloc_cfti>Alvito</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò notevolmente l’abitato; il convitto dei Salesiani e la chiesa Madre subirono danni valutati in circa 50.000 lire $(000012,672677)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pescosolido</desloc>
+      <lat_wgs84>41.7493</lat_wgs84>
+      <lon_wgs84>13.6563</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055465.00</nloc_cfti>
+      <desloc_cfti>Pescosolido</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un rombo sotterraneo, fu avvertita con spavento generale e fuga dalle case; vi furono caduta di fumaioli e tegole e numerose lesioni negli edifici $(000012,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Settefrati</desloc>
+      <lat_wgs84>41.6707</lat_wgs84>
+      <lon_wgs84>13.85</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055675.00</nloc_cfti>
+      <desloc_cfti>Settefrati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita con spavento generale e fuga dalle case; vi furono caduta di fumaioli e tegole e numerose lesioni negli edifici $(000012,050399,672680)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sora</desloc>
+      <lat_wgs84>41.719</lat_wgs84>
+      <lon_wgs84>13.613</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055710.00</nloc_cfti>
+      <desloc_cfti>Sora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita con spavento generale e fuga dalle case; la chiesa Madre e molte abitazioni furono lesionate $(000012,050399,672676)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Villetta Barrea</desloc>
+      <lat_wgs84>41.7765</lat_wgs84>
+      <lon_wgs84>13.9344</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056441.00</nloc_cfti>
+      <desloc_cfti>Villetta Barrea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rumori sotterranei, fu avvertita con spavento generale e fuga dalle case; vi furono caduta di fumaioli e tegole e numerose lesioni negli edifici $(000012,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Anversa degli Abruzzi</desloc>
+      <lat_wgs84>41.994</lat_wgs84>
+      <lon_wgs84>13.8035</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055929.00</nloc_cfti>
+      <desloc_cfti>Anversa degli Abruzzi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da forti boati e rumori sotterranei, causò la caduta di alcuni muri; vi furono 2 feriti $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Atina</desloc>
+      <lat_wgs84>41.6198</lat_wgs84>
+      <lon_wgs84>13.7997</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054873.00</nloc_cfti>
+      <desloc_cfti>Atina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Casale</desloc>
+      <lat_wgs84>42.0141</lat_wgs84>
+      <lon_wgs84>13.7873</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056079.00</nloc_cfti>
+      <desloc_cfti>Casale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da forti boati e rumori sotterranei, causò la caduta di alcuni muri e di una tettoia $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Cocullo</desloc>
+      <lat_wgs84>42.0309</lat_wgs84>
+      <lon_wgs84>13.7758</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056080.00</nloc_cfti>
+      <desloc_cfti>Cocullo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1935) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Filignano</desloc>
+      <lat_wgs84>41.5448</lat_wgs84>
+      <lon_wgs84>14.055</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058337.00</nloc_cfti>
+      <desloc_cfti>Filignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Monte San Giovanni Campano</desloc>
+      <lat_wgs84>41.64</lat_wgs84>
+      <lon_wgs84>13.5143</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055390.00</nloc_cfti>
+      <desloc_cfti>Monte San Giovanni Campano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(000012,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Opi</desloc>
+      <lat_wgs84>41.7808</lat_wgs84>
+      <lon_wgs84>13.8299</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056261.00</nloc_cfti>
+      <desloc_cfti>Opi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1935) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Pescasseroli</desloc>
+      <lat_wgs84>41.8089</lat_wgs84>
+      <lon_wgs84>13.7891</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056279.00</nloc_cfti>
+      <desloc_cfti>Pescasseroli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1935) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>San Pietro Infine</desloc>
+      <lat_wgs84>41.4457</lat_wgs84>
+      <lon_wgs84>13.9597</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059244.00</nloc_cfti>
+      <desloc_cfti>San Pietro Infine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI-VII grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Avezzano</desloc>
+      <lat_wgs84>41.2166</lat_wgs84>
+      <lon_wgs84>13.9315</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059275.00</nloc_cfti>
+      <desloc_cfti>Avezzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cassino</desloc>
+      <lat_wgs84>41.4891</lat_wgs84>
+      <lon_wgs84>13.8304</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055019</nloc_cfti>
+      <desloc_cfti>Cassino (San Germano)</desloc_cfti>
+      <notesito>Già San Germano, assunse la denominazione attuale il 26 luglio 1863.</notesito>
+      <COMM>La scossa causò grande panico nella popolazione, che si riversò nelle strade; nella fuga dalla abitazione alcune persone si ferirono. La croce di ferro situata sulla facciata della chiesa Madre oscillò per molti secondi e da una colonnina ornamentale adiacente si staccò e precipitò una grossa pietra. Non vi furono danni di rilievo alle abitazioni del centro abitato; fu danneggiata soltanto la sala d’attesa della stazione ferroviaria. Lungo la linea ferroviaria furono danneggiate numerose case cantoniere $(672674,672676)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Castellone al Volturno</desloc>
+      <lat_wgs84>41.6564</lat_wgs84>
+      <lon_wgs84>14.0656</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>072499.00</nloc_cfti>
+      <desloc_cfti>Castellone al Volturno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Colle San Magno</desloc>
+      <lat_wgs84>41.551</lat_wgs84>
+      <lon_wgs84>13.6937</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055166.00</nloc_cfti>
+      <desloc_cfti>Colle San Magno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 8s, fu avvertita molto fortemente e causò grandissimo panico nella popolazione, che abbandonò le case rifugiandosi all’aperto. Furono riscontrate lesioni in pochi edifici $(672675,672679)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Frosinone</desloc>
+      <lat_wgs84>41.6362</lat_wgs84>
+      <lon_wgs84>13.3403</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055292.00</nloc_cfti>
+      <desloc_cfti>Frosinone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò leggermente alcuni edifici; in particolare, furono lesionati alcuni vani della caserma dei Carabinieri $(672676)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Isernia</desloc>
+      <lat_wgs84>41.5943</lat_wgs84>
+      <lon_wgs84>14.2307</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058385.00</nloc_cfti>
+      <desloc_cfti>Isernia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli, e riferisce che la scossa fu accompagnata da un forte rombo $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Montecassino</desloc>
+      <lat_wgs84>41.4905</lat_wgs84>
+      <lon_wgs84>13.8137</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055053.00</nloc_cfti>
+      <desloc_cfti>Montecassino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Picinisco</desloc>
+      <lat_wgs84>41.6459</lat_wgs84>
+      <lon_wgs84>13.868</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055480.00</nloc_cfti>
+      <desloc_cfti>Picinisco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Roccamonfina</desloc>
+      <lat_wgs84>41.289</lat_wgs84>
+      <lon_wgs84>13.9832</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059208.00</nloc_cfti>
+      <desloc_cfti>Roccamonfina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1935) valutò l’intensità della scossa di VI grado della scala Mercalli $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Sulmona</desloc>
+      <lat_wgs84>42.0476</lat_wgs84>
+      <lon_wgs84>13.9283</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056390.00</nloc_cfti>
+      <desloc_cfti>Sulmona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Veroli</desloc>
+      <lat_wgs84>41.6924</lat_wgs84>
+      <lon_wgs84>13.4186</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055889.00</nloc_cfti>
+      <desloc_cfti>Veroli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Venafro</desloc>
+      <lat_wgs84>41.486</lat_wgs84>
+      <lon_wgs84>14.0438</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058563.00</nloc_cfti>
+      <desloc_cfti>Venafro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V-VI grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Alatri</desloc>
+      <lat_wgs84>41.7264</lat_wgs84>
+      <lon_wgs84>13.3439</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054764.00</nloc_cfti>
+      <desloc_cfti>Alatri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò molto spavento nella popolazione; non vi furono danni $(672676)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Castel di Sangro</desloc>
+      <lat_wgs84>41.7841</lat_wgs84>
+      <lon_wgs84>14.1077</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056047.00</nloc_cfti>
+      <desloc_cfti>Castel di Sangro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ceccano</desloc>
+      <lat_wgs84>41.5691</lat_wgs84>
+      <lon_wgs84>13.3342</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055110.00</nloc_cfti>
+      <desloc_cfti>Ceccano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cisterna di Latina</desloc>
+      <lat_wgs84>41.5916</lat_wgs84>
+      <lon_wgs84>12.8294</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054515.00</nloc_cfti>
+      <desloc_cfti>Cisterna di Latina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Civita d'Antino</desloc>
+      <lat_wgs84>41.8856</lat_wgs84>
+      <lon_wgs84>13.4723</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056059.00</nloc_cfti>
+      <desloc_cfti>Civita d’Antino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 12s, fu avvertita molto fortemente e causò grande panico nella popolazione $(672679)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Formia</desloc>
+      <lat_wgs84>41.2618</lat_wgs84>
+      <lon_wgs84>13.6167</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054533.00</nloc_cfti>
+      <desloc_cfti>Formia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4-5s, fu avvertita molto fortemente; causò panico nella popolazione, ma nessun danno. Le campane dell’orologio della chiesa di S.Teresa batterono 8-9 tocchi $(672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Paliano</desloc>
+      <lat_wgs84>41.806</lat_wgs84>
+      <lon_wgs84>13.0564</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055415.00</nloc_cfti>
+      <desloc_cfti>Paliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pontecorvo</desloc>
+      <lat_wgs84>41.4568</lat_wgs84>
+      <lon_wgs84>13.6668</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055505.00</nloc_cfti>
+      <desloc_cfti>Pontecorvo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Teano</desloc>
+      <lat_wgs84>41.2513</lat_wgs84>
+      <lon_wgs84>14.0677</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059343.00</nloc_cfti>
+      <desloc_cfti>Teano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vico nel Lazio</desloc>
+      <lat_wgs84>41.7778</lat_wgs84>
+      <lon_wgs84>13.3422</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055898.00</nloc_cfti>
+      <desloc_cfti>Vico nel Lazio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Maddaloni</desloc>
+      <lat_wgs84>41.0387</lat_wgs84>
+      <lon_wgs84>14.3867</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059101.00</nloc_cfti>
+      <desloc_cfti>Maddaloni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Marcianise</desloc>
+      <lat_wgs84>41.0341</lat_wgs84>
+      <lon_wgs84>14.2948</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059104.00</nloc_cfti>
+      <desloc_cfti>Marcianise</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Agnone</desloc>
+      <lat_wgs84>41.808</lat_wgs84>
+      <lon_wgs84>14.3732</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058260.00</nloc_cfti>
+      <desloc_cfti>Agnone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Esperia</desloc>
+      <lat_wgs84>41.3846</lat_wgs84>
+      <lon_wgs84>13.6803</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055177.99</nloc_cfti>
+      <desloc_cfti>Esperia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Monterotondo</desloc>
+      <lat_wgs84>41.515</lat_wgs84>
+      <lon_wgs84>13.8276</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055010.00</nloc_cfti>
+      <desloc_cfti>Monterotondo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Segni</desloc>
+      <lat_wgs84>41.6907</lat_wgs84>
+      <lon_wgs84>13.0217</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054432.00</nloc_cfti>
+      <desloc_cfti>Segni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Subiaco</desloc>
+      <lat_wgs84>41.9259</lat_wgs84>
+      <lon_wgs84>13.0946</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054435.00</nloc_cfti>
+      <desloc_cfti>Subiaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Vallecorsa</desloc>
+      <lat_wgs84>41.445</lat_wgs84>
+      <lon_wgs84>13.4047</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055806.00</nloc_cfti>
+      <desloc_cfti>Vallecorsa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Aversa</desloc>
+      <lat_wgs84>40.9743</lat_wgs84>
+      <lon_wgs84>14.2068</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058878.00</nloc_cfti>
+      <desloc_cfti>Aversa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4s, fu avvertita sensibilmente $(000076,672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Capracotta</desloc>
+      <lat_wgs84>41.8335</lat_wgs84>
+      <lon_wgs84>14.2642</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058286.00</nloc_cfti>
+      <desloc_cfti>Capracotta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Capriati a Volturno</desloc>
+      <lat_wgs84>41.4679</lat_wgs84>
+      <lon_wgs84>14.1483</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058922.00</nloc_cfti>
+      <desloc_cfti>Capriati a Volturno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cocuruzzo</desloc>
+      <lat_wgs84>41.3604</lat_wgs84>
+      <lon_wgs84>13.9103</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059186.00</nloc_cfti>
+      <desloc_cfti>Cocuruzzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Guarcino</desloc>
+      <lat_wgs84>41.7994</lat_wgs84>
+      <lon_wgs84>13.3134</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>055316.00</nloc_cfti>
+      <desloc_cfti>Guarcino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lama dei Peligni</desloc>
+      <lat_wgs84>42.0422</lat_wgs84>
+      <lon_wgs84>14.1877</lon_wgs84>
+      <provlet>CH</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>057845.00</nloc_cfti>
+      <desloc_cfti>Lama dei Peligni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Portici</desloc>
+      <lat_wgs84>40.8199</lat_wgs84>
+      <lon_wgs84>14.3415</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>060318.00</nloc_cfti>
+      <desloc_cfti>Portici</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da varie persone, anche in movimento; oscillarono gli oggetti sospesi e vi fu tremolio di vetrate $(000012,672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rieti</desloc>
+      <lat_wgs84>42.4048</lat_wgs84>
+      <lon_wgs84>12.8667</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>053515.00</nloc_cfti>
+      <desloc_cfti>Rieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rionero Sannitico</desloc>
+      <lat_wgs84>41.7122</lat_wgs84>
+      <lon_wgs84>14.1403</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058492.00</nloc_cfti>
+      <desloc_cfti>Rionero Sannitico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vallepietra</desloc>
+      <lat_wgs84>41.9262</lat_wgs84>
+      <lon_wgs84>13.2309</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054458.00</nloc_cfti>
+      <desloc_cfti>Vallepietra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Caserta</desloc>
+      <lat_wgs84>41.0718</lat_wgs84>
+      <lon_wgs84>14.3331</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058948.00</nloc_cfti>
+      <desloc_cfti>Caserta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, durata pochi secondi, fu avvertita in genere in modo leggero; soltanto nell’ufficio dell’Intendenza di Finanza causò allarme tra gli impiegati che si trovavano al terzo piano dell’edificio, i quali abbandonarono precipitosamente i locali $(672674,672680)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Elena</desloc>
+      <lat_wgs84>41.2251</lat_wgs84>
+      <lon_wgs84>13.5706</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>072585</nloc_cfti>
+      <desloc_cfti>Porto Salvo (Elena)</desloc_cfti>
+      <notesito>Già Porto Salvo, borgo di Gaeta, tra il 18 febbraio 1897 e il 17 febbraio 1927 costituì Comune autonomo con la denominazione di Elena.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III-IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>L'Aquila</desloc>
+      <lat_wgs84>42.3565</lat_wgs84>
+      <lon_wgs84>13.3956</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056142.00</nloc_cfti>
+      <desloc_cfti>L’Aquila</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III-IV grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita soprattutto nelle zone più alte della città (in particolare a Capodimonte) da persone in stato di quiete e nei piani superiori delle case, dove lampade e oggetti appesi oscillarono sensibilmente $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Rocca di Papa</desloc>
+      <lat_wgs84>41.761</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054017.00</nloc_cfti>
+      <desloc_cfti>Rocca di Papa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita soprattutto dalle persone in stato di quiete, in particolare dai numerosi villeggianti; passò quasi inosservata dalle persone in attività; vi fu cigolio di travi $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da numerose persone $(672674)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Belmonte del Sannio</desloc>
+      <lat_wgs84>41.825</lat_wgs84>
+      <lon_wgs84>14.4239</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058274.00</nloc_cfti>
+      <desloc_cfti>Belmonte del Sannio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Borgocollefegato</desloc>
+      <lat_wgs84>42.194</lat_wgs84>
+      <lon_wgs84>13.2342</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>053124</nloc_cfti>
+      <desloc_cfti>Borgorose (Borgocollefegato)</desloc_cfti>
+      <notesito>Assunse la denominazione di Borgorose il 4 settembre 1960.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Campobasso</desloc>
+      <lat_wgs84>41.5574</lat_wgs84>
+      <lon_wgs84>14.6671</lon_wgs84>
+      <provlet>CB</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058607.00</nloc_cfti>
+      <desloc_cfti>Campobasso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Carpinone</desloc>
+      <lat_wgs84>41.5926</lat_wgs84>
+      <lon_wgs84>14.3252</lon_wgs84>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>058294.00</nloc_cfti>
+      <desloc_cfti>Carpinone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fondi</desloc>
+      <lat_wgs84>41.3589</lat_wgs84>
+      <lon_wgs84>13.427</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054525.00</nloc_cfti>
+      <desloc_cfti>Fondi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Procida</desloc>
+      <lat_wgs84>40.7591</lat_wgs84>
+      <lon_wgs84>14.0165</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>060335.00</nloc_cfti>
+      <desloc_cfti>Procida</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 10s, fece oscillare leggermente l’edificio del semaforo $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Velletri</desloc>
+      <lat_wgs84>41.6889</lat_wgs84>
+      <lon_wgs84>12.778</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054464.00</nloc_cfti>
+      <desloc_cfti>Velletri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, fu avvertita leggermente $(672678,672680)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Chieti</desloc>
+      <lat_wgs84>42.352</lat_wgs84>
+      <lon_wgs84>14.1684</lon_wgs84>
+      <provlet>CH</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>057660.00</nloc_cfti>
+      <desloc_cfti>Chieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II-III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Marino</desloc>
+      <lat_wgs84>41.7705</lat_wgs84>
+      <lon_wgs84>12.6609</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>053873.00</nloc_cfti>
+      <desloc_cfti>Marino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II-III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Rocca Priora</desloc>
+      <lat_wgs84>41.7904</lat_wgs84>
+      <lon_wgs84>12.7551</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054021.00</nloc_cfti>
+      <desloc_cfti>Rocca Priora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II-III grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Montesanto</desloc>
+      <lat_wgs84>40.8961</lat_wgs84>
+      <lon_wgs84>14.4601</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>060458.00</nloc_cfti>
+      <desloc_cfti>Montesanto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochissime persone $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Nemi</desloc>
+      <lat_wgs84>41.7173</lat_wgs84>
+      <lon_wgs84>12.7167</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>053940.00</nloc_cfti>
+      <desloc_cfti>Nemi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Pietramelara</desloc>
+      <lat_wgs84>41.2717</lat_wgs84>
+      <lon_wgs84>14.1873</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>059143.00</nloc_cfti>
+      <desloc_cfti>Pietramelara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sezze</desloc>
+      <lat_wgs84>41.4988</lat_wgs84>
+      <lon_wgs84>13.0596</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>054692.00</nloc_cfti>
+      <desloc_cfti>Sezze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Spoleto</desloc>
+      <lat_wgs84>42.7326</lat_wgs84>
+      <lon_wgs84>12.7357</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>049693.00</nloc_cfti>
+      <desloc_cfti>Spoleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Teramo</desloc>
+      <lat_wgs84>42.6593</lat_wgs84>
+      <lon_wgs84>13.704</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17826</nterr>
+      <nloc_cfti>056978.00</nloc_cfti>
+      <desloc_cfti>Teramo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di II grado della scala Mercalli $(000012)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

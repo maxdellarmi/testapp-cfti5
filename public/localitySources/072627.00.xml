@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072627.00</nloc_cfti>
+      <desloc_cfti>Castel Guelfo</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>43.5288</lat_wgs84>
+      <lon_wgs84>12.4344</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16303</nterr>
+      <nperiod>003253</nperiod>
+      <datanum>18971218</datanum>
+      <data_label>1897 12 18</data_label>
+      <anno>1897</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>07:24:20</time_label>
+      <ora>07</ora>
+      <minu>24</minu>
+      <sec>20</sec>
+      <lat>43.4966</lat>
+      <lon>12.3781</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>132</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò il crollo del campanile e rese inagibile la chiesa e la casa parrocchiale; alcune case coloniche divennero inabitabili $(110551,000006)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Monachesi et al. (1984) hanno valutato l’intensità della scossa di IV-V grado MCS $(035315)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00304</nterr>
+      <nperiod>003243</nperiod>
+      <datanum>13891018</datanum>
+      <data_label>1389 10 18</data_label>
+      <anno>1389</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.536</lat>
+      <lon>12.3587</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>7</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395371</codbib>
+      <autore1>Cerboni Angelo</autore1>
+      <titolo1>Cronica latina [1369-1483], in "Due cronache quattrocentesche", ed. A.Ascani, pp.3-53.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395372</codbib>
+      <autore1>Laurenzi Cesare e Pietro</autore1>
+      <titolo1>Cronaca dei Laurenzi [1323-1486], in "Due cronache quattrocentesche", ed. A.Ascani, pp.57-137.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395674</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Riformanze, reg.23, Verbale della seduta del Consiglio cittadino del 20 ottobre 1389.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1389</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395675</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Città di Castello, Riformanze, reg.23, Verbale della seduta del Consiglio cittadino del 4 novembre 1389.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1389</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110551</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.32, Relazione del direttore dell’Osservatorio di Città di Castello A.Bini sul periodo sismico degli anni 1897-98 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Città di Castello 16 febbraio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035315</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Il terremoto umbro del 29.4.1984: indagine macrosismica dell’area più colpita, CNR-GNDT, Pubblicazione n.2.</titolo1>
+      <luogoed>Milano-Macerata</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

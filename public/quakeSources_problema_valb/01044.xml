@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01044</nterr>
+      <nperiod>003010</nperiod>
+      <datanum>16690310</datanum>
+      <data_label>1669 03 10</data_label>
+      <anno>1669</anno>
+      <mese>03</mese>
+      <giorno>10</giorno>
+      <time_label>23:25</time_label>
+      <ora>23</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>37.6143</lat>
+      <lon>15.0256</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9.5</imax>
+      <npun>18</npun>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.3</mm>
+      <earthquakelocation>Nicolosi (CT)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo ed è stata sviluppata una ricerca bibliografica e archivistica. Il vaglio delle fonti amministrative è stato condotto all’Archivio di Stato di Catania e all’Archivo General de Simancas. La ricerca presso l’Archivio di Stato di Catania ha dato esito negativo per il vuoto documentario piuttosto esteso dovuto a varie distruzioni che riguarda proprio il periodo in oggetto. Presso l’Archivo General de Simancas è stata, invece, reperita una lettera del viceré di Sicilia, duca di Albuquerque, alla regina di Spagna, datata 4 giugno 1669, che informa la corte spagnola delle devastazioni causate dall’eruzione dell’Etna senza accennare ai terremoti che avevano colpito i paesi alle pendici del vulcano. Nell’Archivio Segreto Vaticano (Segreteria di Stato) è stata individuata una lettera del vescovo di Catania, Michelangelo Bonadies, al Segretario di Stato cardinale Azzolini, che descrive gli effetti del terremoto a Nicolosi e i gravi danni causati dalla successiva eruzione nei paesi etnei e a Catania. Altre fonti inedite di notevole rilievo informativo sono state reperite all’Archivio della chiesa Madre di Trecastagni, alla Biblioteca Zelantea di Acireale e alla Biblioteca Comunale di Palermo.&lt;br&gt;È stata analizzata la vasta e autorevole memorialistica coeva (Mancino 1669 $(145069)$; Monaco 1669 $(185023)$; Morabito 1669 $(145209)$; Squillaci 1669 $(110135)$; Tedeschi Paternò 1669 $(145081)$; Borelli 1670 $(185021)$) che si occupò diffusamente della grande eruzione etnea, descrivendo dettagliatamente la successione delle scosse che ne segnarono l’inizio. È stata inoltre vagliata la produzione di storici e naturalisti che si occuparono dell’evento tra XVIII e XIX secolo. In particolare, Recupero (1815) $(145252)$ pubblicò la testimonianza del sacerdote di Nicolosi, Vincenzo Macrì, testimone diretto dell’evento. Il manoscritto di Macrì, già segnalato da Recupero in pessimo stato, appartenne negli anni alle famiglie Recupero e Gemmellaro; ricerche specifiche per reperire il documento originale sono state condotte presso l’Archivio della chiesa Madre e la Biblioteca comunale di Nicolosi e presso la Biblioteca Ursino Recupero di Catania, con risultati negativi.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C2</codtab>
+      <testocomm>Le numerose fonti analizzate durante la ricerca evidenziano, più o meno direttamente, la correlazione tra le scosse che caratterizzarono il periodo sismico e la contemporanea eruzione dell’Etna $(145069,145093,185021,185023,525173,110101,110135,145038,145081,145082,635007)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>L’area faceva parte del regno di Sicilia, uno dei tre domini diretti spagnoli (gli altri erano il regno di Napoli e il regno di Sardegna), governati ognuno da un viceré. Tale assetto, determinato nel 1559 dalla pace di Chateau-Cambrésis, restò invariato fino al 1713 (pace di Utrecht e Rastad).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C7</codtab>
+      <testocomm>Nicolosi: il paese, distrutto dal terremoto e dall’eruzione di lava; venne ricostruito ad un centinaio di metri di distanza verso sud rispetto alla ubicazione precedente. Negli anni seguenti, piantando le vigne nella zona periferica del paese. si trovarono tracce del vecchio abitato $(145072)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>Alcune fonti documentano che a Pedara e a Nicolosi, prima dell’inizio del terremoto, l’atmosfera si oscurò come durante le eclissi parziali di sole, e l’aria si riscaldò $(145026,185021,145252,350217)$. Secondo un cronista anonimo, a Trecastagni l’inizio del periodo sismico fu annunciato alla popolazione da "l’aera tutta infuocata" $(145038)$. I terremoti iniziarono contemporaneamente a "rumori" sotterranei prodotti dall’Etna $(145081,145082,185023)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il paese di Nicolosi fu pressocché distrutto e venne in seguito ricostruito a qualche centinaio di metri a sud del vecchio sito; Pedara e Trecastagni furono gravemente danneggiati; in numerosi altri paesi del versante orientale etneo le scosse causarono spavento, ma le distruzioni avvennero in seguito all’eruzione. Le fonti non forniscono informazioni sul numero dei morti e dei feriti.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Le scosse sismiche precedettero l’inizio di una delle più devastanti eruzioni dell’Etna. Dal cratere apertosi nella zona dei monti Rossi fuoriuscì una colata di lava che, dopo avere sommerso numerosi centri abitati e campi coltivati, danneggiò i quartieri nord-occidentali di Catania e si versò quindi in mare, a oltre 15 km dalla bocca eruttiva, modificando la linea di costa.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>Numerose fonti concordano nell’indicare l’8 marzo 1669 come la data d’inizio del periodo sismico $(145252,145038,185021,635007,525173)$. Alcune altre fonti anticipano di un giorno la data iniziale dei terremoti $(110135,145090)$. Le scosse più gravi, che determinarono le distruzioni a Nicolosi, vengono datate, a seconda delle fonti, al 10 o 11 marzo 1669 $(145252,145038,145069,145081,635007,525173)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>185023</codbib>
+      <autore1>Monaco F.</autore1>
+      <titolo1>Cataclysmus Ætnæus sivè inundatio ignea Ætnæ montis Anni 1669.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>215001</codbib>
+      <autore1>Longo G.</autore1>
+      <titolo1>Chronicon siculum, ab anno 1555. abdicationis Caroli Quinti cæsaris: quo desiit Maurolycus, usquè ad faustissimam coronationem Victorii Amedei Siciliæ, Hierusalem et Cypri regis, in Maurolico F., "Sicanicarum rerum compendium", editio secunda correctior, pp.251-297.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1716</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>215034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Regionale di Messina, Sala Rari, F.V. 94-96, Memorie istoriche di Sicilia, 3 voll, ms. sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>215036</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Regionale di Messina, Sala Rari, F.V. 176, Scritture sulla monarchia e il governo di Sicilia, ms. sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>225001</codbib>
+      <autore1>Brydone P.</autore1>
+      <titolo1>Voyage en Sicile et a Malthe, 2 voll.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1775</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>225002</codbib>
+      <autore1>Houël J.</autore1>
+      <titolo1>Voyage pittoresque des isles de Sicile, de Malte et de Lipari, où l’on traite des Antiquités qui s’y trouvent encore; des principaux Phénomènes que la Nature y offre; du Costume des Hanbitans, &amp; de quelques Ufages, 4 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1782 - 1787</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310141</codbib>
+      <autore1>Magnati V.</autore1>
+      <titolo1>Notitie istoriche de’ terremoti succeduti ne’ secoli trascorsi, e nel presente.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1688</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350217</codbib>
+      <autore1>Botta V.C.</autore1>
+      <titolo1>Storia d’Italia continuata da quella del Guicciardini sino al 1789, 10 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1832</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350218</codbib>
+      <autore1>Rezzadore P.</autore1>
+      <titolo1>Il mondo ne’ suoi fulgori e tremori.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525173</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Palermo, Manoscritti, Qq E 16, cc.118-119, Copia d’una lettera del foco di Mongibello nell’anno 1669 (Lettera del vicario generale di Catania V.Bonadies al vicario generale di Agrigento, Catania 2 aprile 1669), copia sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>540030</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Catalogo dei terremoti disastrosi avvertiti nel bacino del Mediterraneo dal 1501 al 1929, Pubblicazioni della Commissione Italiana per lo studio delle grandi calamità, vol.2, pp.25-60.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1931</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Manoscritti Albertoni, 236/1-2, G.F.Dati, Compendio universale historico degl’avvenimenti più memorabili della città di Cremona, ed altri del mondo, 2 voll., 1735.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1735</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.55, Lettera del vescovo di Catania Michelangelo Bonadies al segretario di Stato cardinale Decio Azzolini, Catania 5 maggio 1669.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635050</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.55, Lettera del vescovo di Catania Michelangelo Bonadies al papa Clemente IX, Catania 17 giugno 1669.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretaría de Estado, Negociación de Sicilia, legajo 3496 (1673), Consultas decretos y notas, n.41, Lettera del viceré Claudio Lamoral principe di Ligne alla regina Maria Anna d’Austria, Messina 1º febbraio 1673.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1673</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretaría de Estado, Negociación de Sicilia, legajo 3496 (1673), Consultas decretos y notas, n.43, Relazione del viceré Claudio Lamoral principe di Ligne alla regina Maria Anna d’Austria sullo stato delle fortificazioni di Catania, [Messina 1º febbraio 1673].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1673</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665341</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretaría de Estado, Negociación de Sicilia, legajo 3492 (1669), Consultas decretos y notas, n.88, Lettera del viceré Francisco Fernàndez de la Cueva duca di Alburquerque alla regina Maria Anna d’Austria, Palermo 4 giugno 1669.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680036</codbib>
+      <autore1>Spallanzani L.</autore1>
+      <titolo1>Viaggi alle Due Sicilie e in alcune parti dell’Appennino.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1795</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>950731</codbib>
+      <autore1>Boschi E., Ferrari G., Gasperini P., Guidoboni E., Smriglio G. e Valensise G.</autore1>
+      <titolo1>Catalogo dei forti terremoti in Italia dal 461 a.C. al 1980, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050908</codbib>
+      <autore1>Ferrara F.</autore1>
+      <titolo1>Descrizione dell’Etna con la storia delle eruzioni e il catalogo dei prodotti.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1818</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052028</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relatione del grande Incendio e desolatione fatta dal Monte Etna, overo Mongibello in Sicilia alli 8. di Marzo del 1669.</titolo1>
+      <luogoed>Roma-Rimini-Bologna</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052029</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e nuova Relatione venuta da Catania de’ grandi incendij, e desolationi fatte dal Monte Etna, overo Mongibello dagli undeci, fino alli 30 Marzo del presente anno 1669.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052048</codbib>
+      <autore1>Castorina P.</autore1>
+      <titolo1>Sulla eruzione dell’Etna del 1669 e su d’uno ignoto documento relativo alla stessa, in "Archivio Storico Siciliano", n.s., a.16, pp.392-409.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1891</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052059</codbib>
+      <autore1>Uberte Balaguer A.M.</autore1>
+      <titolo1>Los estragos del temblor, y subterranea conspiracion.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1697</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052184</codbib>
+      <autore1>Ligresti D.</autore1>
+      <titolo1>Terremoto e società in Sicilia (1501-1800).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052206</codbib>
+      <autore1>Dollo C.</autore1>
+      <titolo1>Vulcanismo e terremoti nei neoterici siciliani del XVII secolo, in "La Sicilia dei terremoti. Lunga durata e dinamiche sociali", Atti del Convegno, Catania 11-13 dicembre 1995, a cura di G.Giarrizzo, pp.199-223.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055132</codbib>
+      <autore1>Rasà Napoli G.</autore1>
+      <titolo1>Guida e breve illustrazione delle Chiese di Catania e sobborghi (ristampa anastatica, Catania 1984).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055136</codbib>
+      <autore1>Biondo L.</autore1>
+      <titolo1>Eruzione del 1669, in "Enciclopedia di Catania", diretta da V.Consoli, 2 voll. + 1 di indici, vol.1, pp.317-320.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1987</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055141</codbib>
+      <autore1>Pagnano G.</autore1>
+      <titolo1>Il disegno delle difese. L’eruzione del 1669 e il riassetto delle fortificazioni di Catania.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055154</codbib>
+      <autore1>Faccioli E.</autore1>
+      <titolo1>The Catania Project: studies for an earthquake scenario, in "Journal of Seismology", vol.3, n.3, special issue.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1999</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082589</codbib>
+      <autore1>Mongitore A.</autore1>
+      <titolo1>Istoria cronologica de’ terremoti di Sicilia, in Id., "Della Sicilia ricercata nelle cose più memorabili", tomo 2, pp.345-445.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1743</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091026</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti in Italia, Pubblicazioni della Commissione Italiana per lo studio delle grandi calamità, vol.6.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1936</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096079</codbib>
+      <autore1>Policastro G.</autore1>
+      <titolo1>Catania prima del 1693.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110101</codbib>
+      <autore1>*</autore1>
+      <titolo1>Eruzione dell’Etna nel 1669. Di alcuni mercatanti inglesi. Anno 1669. N.51, in "Compendio delle Transazioni Filosofiche della Società Reale di Londra. Opera compilata, divisa per materie, ed illustrata dal signor Gibelin", vol.1 (Storia naturale, pt.1ª Vulcani e tremuoti), art.2, pp.4-13.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1793</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110135</codbib>
+      <autore1>Squillaci P.</autore1>
+      <titolo1>Relatione del fuoco di Mongibello, e di quel che seguì.</titolo1>
+      <luogoed>Catania-Messina-Roma</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145026</codbib>
+      <autore1>Gemmellaro C.</autore1>
+      <titolo1>La vulcanologia dell’Etna che comprende la topografia, la geologia, la storia delle sue eruzioni, non che la descrizione e lo esame de’ fenomeni vulcanici (ristampa anastatica, Catania 1989).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145030</codbib>
+      <autore1>Aprile F.</autore1>
+      <titolo1>Della cronologia universale della Sicilia.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1725</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145035</codbib>
+      <autore1>Cunsolo A. e Rapisarda A.</autore1>
+      <titolo1>Note storiche su Paternò, 2 voll.</titolo1>
+      <luogoed>Paternò</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145038</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale della Chiesa Madre di Trecastagni, Quinterno dove si nota l’introito et exito della matrice ecclesia di Trecastagni sub titolo di San Nicolò (1617-1690).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145061</codbib>
+      <autore1>Maravigna C.</autore1>
+      <titolo1>Tavole sinottiche dell’Etna che comprendono la Topografia, la Storia delle eruzioni, la descrizione delle materie eruttate, e di alquanti fenomeni di questo vulcano dietro le recenti fisico-chimiche scoverte.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1811</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145069</codbib>
+      <autore1>Mancino C.</autore1>
+      <titolo1>Narrativa del fuoco uscito da Mongibello il dì undici di Marzo del 1669. Con li Miracoli esatti da S.D.M. ad intercessione della Gloriosa S.Agata per la totale liberatione della sua Patria Catania. Con li progressi, e ruine fatte, delle Terre, Habitationi, Poderi, Vigne, Giardini, Chiese, &amp; Luochi incendiati. Con gli ripari sperimentati per buoni per divertirlo dal naturale suo corso, e Camino.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145070</codbib>
+      <autore1>Gemmellaro C.</autore1>
+      <titolo1>Saggio di storia fisica di Catania, in "Atti dell’Accademia Gioenia di Scienze Naturali in Catania", s.II, vol.4, pp.1-181.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1849</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145072</codbib>
+      <autore1>Borzì G.</autore1>
+      <titolo1>L’Etna nella sua topografia, mitologia, vulcanologia.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145081</codbib>
+      <autore1>Tedeschi Paternò T.</autore1>
+      <titolo1>Breve raguaglio degl’incendi di Mongibello avvenuti in quest’anno 1669.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145082</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relatione del nuovo Incendio fatto da Mongibello, con rovina di molti Casali della Città di Catania e de’ Miracoli, e prodigij operati dal Sacro Velo dell’Invittissima Vergine, e Martire Catanese S.Agata, à dì 11. del mese di Marzo del presente anno 1669.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145090</codbib>
+      <autore1>Auria V.</autore1>
+      <titolo1>Historia cronologica delli signori Viceré di Sicilia dal tempo che mancò la Personale assistenza de’ Serenissimi Ré di quella. Cioè dall’Anno 1409 fino al 1697 presente.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1697</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145091</codbib>
+      <autore1>Massa G.A.</autore1>
+      <titolo1>La Sicilia in prospettiva, 2 voll. (ristampa anastatica, Milano 1977).</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1709</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145092</codbib>
+      <autore1>Caruso G.B.</autore1>
+      <titolo1>Memorie istoriche di quanto è accaduto in Sicilia dal tempo de’ suoi primeri abitatori sino alla coronazione del Re Vittorio Amedeo, 6 voll.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1737 - 1745</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Zelantea di Acireale, Manoscritti, III.6.11, P.Calcerano, Cronaca dal 1656 26 settembre al 1670 19 settembre, copia 1752.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1752</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145095</codbib>
+      <autore1>Crinò S.</autore1>
+      <titolo1>Un nuovo documento sull’eruzione dell’Etna del 1669 (Lettera di P.Valentino Bonadies al Vicario Generale di Girgenti), in "Archivio Storico Siciliano", n.s., a.30, pp.128-134.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1905</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145149</codbib>
+      <autore1>Amico V.M.</autore1>
+      <titolo1>Siciliæ sacræ, libri quarti.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145159</codbib>
+      <autore1>Savasta G.</autore1>
+      <titolo1>Memorie storiche della città di Paternò, parte 1 (Paternò civile).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1905</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145164</codbib>
+      <autore1>Gentile B.</autore1>
+      <titolo1>Sulla eruzione dell’Etna di maggio-giugno 1886.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1886</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145186</codbib>
+      <autore1>Imbò G.</autore1>
+      <titolo1>I terremoti etnei, Pubblicazioni della Commissione Italiana per lo studio delle grandi calamità, vol.5, pt.1.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145209</codbib>
+      <autore1>Morabito F.</autore1>
+      <titolo1>Catania liberata.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1669</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145219</codbib>
+      <autore1>Sanfilippo P.</autore1>
+      <titolo1>Compendio della Storia di Sicilia.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1843</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145235</codbib>
+      <autore1>Cucuzza Silvestri S.</autore1>
+      <titolo1>Il periodo sismico di Pedara (Etna) del febbraio 1955, in "Bollettino delle Sedute dell’Accademia Gioenia di Scienze Naturali in Catania", s.IV, vol.3 (1957), pp.357-371.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1957</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145252</codbib>
+      <autore1>Recupero G.</autore1>
+      <titolo1>Storia naturale e generale dell’Etna del canonico Giuseppe Recupero; opera postuma arricchita di moltissime interessanti annotazioni del suo nipote tesoriere Agatino Recupero, 2 voll.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1815</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145297</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Zelantea di Acireale, Manoscritti, III.3.8, P.Grassi Gambino, Abbozzo di storia di Aci, ms. sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832 - 1835</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145304</codbib>
+      <autore1>Arcidiacono G.</autore1>
+      <titolo1>Nicolosi: vicende storiche e urbanistiche di un paese etneo.</titolo1>
+      <luogoed>Sarzana</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145640</codbib>
+      <autore1>Amico V.M.</autore1>
+      <titolo1>Dizionario topografico della Sicilia, tradotto dal latino ed annotato da Gioacchino di Marzo, 2 voll.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1855 - 1856</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>185021</codbib>
+      <autore1>Borelli G.A.</autore1>
+      <titolo1>Historia et meteorologia incendii ætnæi anni 1669.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>1670</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX-X</intpq>
+      <desloc>Nicolosi</desloc>
+      <lat_wgs84>37.6143</lat_wgs84>
+      <lon_wgs84>15.0256</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067877.00</nloc_cfti>
+      <desloc_cfti>Nicolosi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse susseguitesi dall’8 all’11 marzo distrussero pressoché completamente il paese; crollarono tutti gli edifici a eccezione di due case e della chiesa Madre, della quale cadde il tetto; vi furono alcuni morti $(145093,110135,145081,145252,110101)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Pedara</desloc>
+      <lat_wgs84>37.6186</lat_wgs84>
+      <lon_wgs84>15.0615</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067886.00</nloc_cfti>
+      <desloc_cfti>Pedara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di qualche abitazione; a causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(110135,110101,145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Trecastagni</desloc>
+      <lat_wgs84>37.6152</lat_wgs84>
+      <lon_wgs84>15.0811</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067951.00</nloc_cfti>
+      <desloc_cfti>Trecastagni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di qualche abitazione; a causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(110135,110101,145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Aci Catena</desloc>
+      <lat_wgs84>37.6032</lat_wgs84>
+      <lon_wgs84>15.1414</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067705.00</nloc_cfti>
+      <desloc_cfti>Aci Catena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Aci Santa Lucia</desloc>
+      <lat_wgs84>37.6083</lat_wgs84>
+      <lon_wgs84>15.1432</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>072345.00</nloc_cfti>
+      <desloc_cfti>Aci Santa Lucia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Camporotondo Etneo</desloc>
+      <lat_wgs84>37.567</lat_wgs84>
+      <lon_wgs84>15.0047</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067780.00</nloc_cfti>
+      <desloc_cfti>Camporotondo Etneo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito distrutto dall’eruzione vulcanica $(110135,350217)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Malpasso</desloc>
+      <lat_wgs84>37.5985</lat_wgs84>
+      <lon_wgs84>15.0158</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067754.12</nloc_cfti>
+      <desloc_cfti>Malpasso</desloc_cfti>
+      <notesito>Cambiò sito e assunse la denominazione di Fenicia Moncada dopo l’eruzione del 1669; cambiò di nuovo sito e assunse la denominazione di Belpasso dopo il terremoto del 1693.</notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito distrutto dall’eruzione vulcanica $(110135)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Mascalucia</desloc>
+      <lat_wgs84>37.5747</lat_wgs84>
+      <lon_wgs84>15.0495</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067857.00</nloc_cfti>
+      <desloc_cfti>Mascalucia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse vennero avvertite fortemente $(145252)$; il paese fu in seguito parzialmente distrutto dall’eruzione vulcanica $(110135,350217)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Misterbianco</desloc>
+      <lat_wgs84>37.5188</lat_wgs84>
+      <lon_wgs84>15.0088</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067874.00</nloc_cfti>
+      <desloc_cfti>Misterbianco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse vennero avvertite fortemente $(145252)$; il paese fu in seguito distrutto dall’eruzione vulcanica $(110135,350217)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Mompilieri</desloc>
+      <lat_wgs84>37.5999</lat_wgs84>
+      <lon_wgs84>15.0214</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>072365.00</nloc_cfti>
+      <desloc_cfti>Mompilieri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito distrutto dall’eruzione vulcanica $(110135)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>San Giovanni Galermo</desloc>
+      <lat_wgs84>37.5515</lat_wgs84>
+      <lon_wgs84>15.0502</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067812.00</nloc_cfti>
+      <desloc_cfti>San Giovanni Galermo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito parzialmente distrutto dall’eruzione vulcanica $(110135,350217)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>San Pietro Clarenza</desloc>
+      <lat_wgs84>37.5702</lat_wgs84>
+      <lon_wgs84>15.0223</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067935.00</nloc_cfti>
+      <desloc_cfti>San Pietro Clarenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$. Il paese fu in seguito distrutto dall’eruzione vulcanica $(110135,350217)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Viagrande</desloc>
+      <lat_wgs84>37.6104</lat_wgs84>
+      <lon_wgs84>15.0975</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067969.00</nloc_cfti>
+      <desloc_cfti>Viagrande</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Villa Casalotto</desloc>
+      <lat_wgs84>37.6</lat_wgs84>
+      <lon_wgs84>15.1279</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>072378.00</nloc_cfti>
+      <desloc_cfti>Villa Casalotto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>A causa della violenza e della frequenza delle scosse, la popolazione abbandonò le abitazioni e si accampò all’aperto $(145093)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Catania</desloc>
+      <lat_wgs84>37.5024</lat_wgs84>
+      <lon_wgs84>15.0873</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067809.00</nloc_cfti>
+      <desloc_cfti>Catania</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse furono avvertite fortemente, ma non causarono alcun danno; la città fu invece danneggiata dall’eruzione vulcanica $(145093,110135,635007)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Aci Sant'Antonio</desloc>
+      <lat_wgs84>37.6063</lat_wgs84>
+      <lon_wgs84>15.1261</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067744.00</nloc_cfti>
+      <desloc_cfti>Aci Sant’Antonio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il paese fu distrutto dall’eruzione vulcanica $(110135)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Gravina di Catania</desloc>
+      <lat_wgs84>37.5606</lat_wgs84>
+      <lon_wgs84>15.0652</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067836</nloc_cfti>
+      <desloc_cfti>Gravina di Catania (Plachi)</desloc_cfti>
+      <notesito>Già Plachi, assunse la denominazione attuale nel XVIII secolo.</notesito>
+      <COMM>Il magma prodotto dall’eruzione vulcanica passò accanto al paese (ricordato col nome di Prache) senza danneggiarlo $(110135)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Massa Annunziata</desloc>
+      <lat_wgs84>37.5918</lat_wgs84>
+      <lon_wgs84>15.0388</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>01044</nterr>
+      <nloc_cfti>067859.00</nloc_cfti>
+      <desloc_cfti>Massa Annunziata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il paese (ricordato col nome di Torre del Grifo) fu distrutto dall’eruzione vulcanica $(350217)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

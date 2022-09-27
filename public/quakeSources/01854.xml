@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01854</nterr>
+      <nperiod>005200</nperiod>
+      <datanum>17431207</datanum>
+      <data_label>1743 12 07</data_label>
+      <anno>1743</anno>
+      <mese>12</mese>
+      <giorno>07</giorno>
+      <time_label>00:05</time_label>
+      <ora>00</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>38.6948</lat>
+      <lon>16.3715</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>25</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021277</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Revisione e integrazione di ricerca riguardante il massimo terremoto storico della Puglia: 20 febbraio 1743, RPT 272A/05, Bologna ottobre 2005 (rapporto inedito per INGV ­ Sezione di Milano).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030404</codbib>
+      <autore1>Spanò Bolani D.</autore1>
+      <titolo1>Storia di Reggio Calabria da’ tempi primitivi sino all’anno di Cristo 1797, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051362</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>Spigolature documentarie sul terremoto del 1783 nel distretto di Monteleone, in "Rivista Storica Calabrese", n.s., vol.22 (2001), nn.1-2, pp.297-319.</titolo1>
+      <luogoed>Reggio di Calabria</luogoed>
+      <datacompl>2001</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051364</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>Momenti di storia religiosa a Monteleone, in "Pronto? Qui Calabria", vol.16 (1988), n.13.</titolo1>
+      <luogoed>Vibo Valentia</luogoed>
+      <datacompl>1988</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051365</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>Il mezzo busto argenteo di San Leoluca protettore di Monteleone, in "Brutium", vol.65 (1986), n.4, pp.3-4.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051367</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>La tragedia del 26 dicembre 1784 in Arena, in "Historica", a.39 (1986), n.2, pp.91-93.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051368</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>Società e fede a Dasà tra ’700 e ’800, in Atti del Convegno "Salimbeni Pier Giovanni: notaio, filosofo, poeta nella Dasà del XVIII secolo", Vibo Valentia 4 novembre 2002 [http://www.comunedasa.it/dasa/altrenotizie.asp].</titolo1>
+      <luogoed>Dasà</luogoed>
+      <datacompl>2006</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051382</codbib>
+      <autore1>Scionti V., Galli P. e Chiodo G.</autore1>
+      <titolo1>The Calabrian seismicity during the Viceroyalty of Naples: sources silence or silent sources? The case of the strong 1744 earthquake, in "Bollettino di Geofisica Teorica ed Applicata", vol.47 (2006), n.1-2, pp.53-72.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>2006</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055094</codbib>
+      <autore1>Moio G.B. e Susanna G.</autore1>
+      <titolo1>Diario di quanto successe in Catanzaro dal 1710 al 1769, ed. U.Ferrari.</titolo1>
+      <luogoed>Chiaravalle Centrale</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070746</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1744.01.07, n.2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1744</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070747</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1744.01.28, n.5.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1744</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130108</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.191, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 6 gennaio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130109</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.191, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 9 gennaio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4875 (1743-1744), Minuta di dispacci del consigliere di Stato duca di Salas al vicario generale delle Calabrie e al preside della Regia Udienza di Cosenza, Napoli 11 gennaio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140098</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4875 (1743-1744), Dispaccio del vicario generale delle Calabrie conte James Joseph Mahony al consigliere di Stato duca di Salas, Catanzaro 2 febbraio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4875 (1743-1744), Lettera di Giuseppe Emanuele Ventimiglia e Statella principe di Belmonte al consigliere di Stato duca di Salas, Palermo 27 dicembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4875 (1743-1744), Dispaccio del vicario generale delle Calabrie conte James Joseph Mahony al consigliere di Stato duca di Salas, Catanzaro 14 febbraio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Archivi dei 4 consolati del Regno di Napoli, Affari diversi, fascio 4875 (1743-1744), Copia di relazione del preside di Calabria ultra Domenico Basta barone di Monteparano al vicario generale delle Calabrie conte James Joseph Mahony, ante 14 febbraio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145052</codbib>
+      <autore1>Taramelli T.</autore1>
+      <titolo1>Dei terremoti di Calabria e Sicilia, in "Rivista di Fisica Matematica, e Scienze Naturali", a.10, n.109 (gennaio 1909), pp.1-28.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145181</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I danni prodotti dai terremoti nella Basilicata e nelle Calabrie, in "Relazione della Sotto Giunta Parlamentare d’Inchiesta sulle condizioni dei contadini nelle provincie meridionali e nella Sicilia", vol.5, tomo 3 (Basilicata e Calabria).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145218</codbib>
+      <autore1>Meli R.</autore1>
+      <titolo1>Notizie sismo-geologiche su Soriano Calabro, in "Atti della Pontificia Accademia Romana dei Nuovi Lincei", a.71 (1917-1918), pp.184-188.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1918</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145234</codbib>
+      <autore1>Alfano G.B.</autore1>
+      <titolo1>Alcune osservazioni sugli epicentri sismici della Calabria e del Messinese, in "Rivista di Fisica, Matematica e Scienze Naturali", a.10, n.110 (febbraio 1909).</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200173</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1744.01.10, n.2.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1744</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200174</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1744.01.24, n.4.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1744</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300597</codbib>
+      <autore1>Naccari C.</autore1>
+      <titolo1>Cenni storici intorno alla città di Mileto.</titolo1>
+      <luogoed>Laureana di Borrello</luogoed>
+      <datacompl>1931</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410357</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.213, Foglio di avvisi allegato al dispaccio del nunzio apostolico Ludovico Gualtieri arcivescovo di Mira al segretario di Stato cardinale Silvio Valenti Gonzaga, Napoli 24 dicembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>505125</codbib>
+      <autore1>Tripodi A.</autore1>
+      <titolo1>La Madonna della Consolazione. Dasà: storia di cinque secoli di devozione mariana.</titolo1>
+      <luogoed>Vibo Valentia</luogoed>
+      <datacompl>1983</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510207</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.523 A, Miletensis I, Relazione del vescovo di Mileto Marcello Filomarini alla Congregazione del Concilio sullo stato della diocesi, Mileto 15 maggio 1746.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1746</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510557</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.764 A, Squillacensis I, Relazione del vescovo di Squillace Nicolò Abate alla Congregazione del Concilio sullo stato della diocesi, Squillace 22 ottobre 1745.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1745</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>540045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Affari esteri, Segreteria degli Affari esteri, Legazioni, Polonia, vol.2197 (1743-1744), Lettera del conte Gabriele Bolognini al residente a Stoccolma conte del Porto, Dresda 22 gennaio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560323</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Patrimonio, Conti delle università, Calabria ultra, fascio 187, fasc.8, Attestato di Giacchino Scamardi, Francesco Rainieri e dell’arciprete Antonino Montagnese, Dasà 9 maggio 1746.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1746</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680030</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Calabria meridionale e del messinese, in "Memorie della Società Italiana delle Scienze (detta dei XL)", s.III, tomo 11, pp.117-266.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Olivadi</desloc>
+      <lat_wgs84>38.7251</lat_wgs84>
+      <lon_wgs84>16.4236</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064945.00</nloc_cfti>
+      <desloc_cfti>Olivadi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Capistrano</desloc>
+      <lat_wgs84>38.6924</lat_wgs84>
+      <lon_wgs84>16.2894</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064552.00</nloc_cfti>
+      <desloc_cfti>Capistrano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Chiaravalle Centrale</desloc>
+      <lat_wgs84>38.6809</lat_wgs84>
+      <lon_wgs84>16.4124</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064618.00</nloc_cfti>
+      <desloc_cfti>Chiaravalle Centrale</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>San Vito sullo Ionio</desloc>
+      <lat_wgs84>38.7111</lat_wgs84>
+      <lon_wgs84>16.4078</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065033.00</nloc_cfti>
+      <desloc_cfti>San Vito sullo Ionio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Vallelonga</desloc>
+      <lat_wgs84>38.6466</lat_wgs84>
+      <lon_wgs84>16.2943</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065138.00</nloc_cfti>
+      <desloc_cfti>Vallelonga</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Castelmonardo</desloc>
+      <lat_wgs84>38.7711</lat_wgs84>
+      <lon_wgs84>16.3033</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064736.00</nloc_cfti>
+      <desloc_cfti>Castelmonardo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Dasà</desloc>
+      <lat_wgs84>38.565</lat_wgs84>
+      <lon_wgs84>16.1961</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064689.00</nloc_cfti>
+      <desloc_cfti>Dasà</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Gagliato</desloc>
+      <lat_wgs84>38.6761</lat_wgs84>
+      <lon_wgs84>16.4621</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064779.00</nloc_cfti>
+      <desloc_cfti>Gagliato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Mileto Vecchio</desloc>
+      <lat_wgs84>38.5939</lat_wgs84>
+      <lon_wgs84>16.0801</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064908.10</nloc_cfti>
+      <desloc_cfti>Mileto Vecchio</desloc_cfti>
+      <notesito>La località ha cambiato sito dopo il terremoto del 1783.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Monterosso Calabro</desloc>
+      <lat_wgs84>38.7174</lat_wgs84>
+      <lon_wgs84>16.2888</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064921.00</nloc_cfti>
+      <desloc_cfti>Monterosso Calabro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Nicastrello</desloc>
+      <lat_wgs84>38.6814</lat_wgs84>
+      <lon_wgs84>16.2885</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064551.00</nloc_cfti>
+      <desloc_cfti>Nicastrello</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>San Giorgio Morgeto</desloc>
+      <lat_wgs84>38.3866</lat_wgs84>
+      <lon_wgs84>16.1071</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065729.00</nloc_cfti>
+      <desloc_cfti>San Giorgio Morgeto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>San Nicola da Crissa</desloc>
+      <lat_wgs84>38.6633</lat_wgs84>
+      <lon_wgs84>16.2849</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065014.00</nloc_cfti>
+      <desloc_cfti>San Nicola da Crissa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Sant'Anna</desloc>
+      <lat_wgs84>38.7443</lat_wgs84>
+      <lon_wgs84>16.5153</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>072412.00</nloc_cfti>
+      <desloc_cfti>Sant’Anna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Terranova Sappo Minulio</desloc>
+      <lat_wgs84>38.3212</lat_wgs84>
+      <lon_wgs84>16.0067</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065842.00</nloc_cfti>
+      <desloc_cfti>Terranova Sappo Minulio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Arena</desloc>
+      <lat_wgs84>38.563</lat_wgs84>
+      <lon_wgs84>16.2089</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064520.00</nloc_cfti>
+      <desloc_cfti>Arena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Certosa di Santo Stefano del Bosco</desloc>
+      <lat_wgs84>38.565</lat_wgs84>
+      <lon_wgs84>16.3188</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065055.00</nloc_cfti>
+      <desloc_cfti>Certosa di Santo Stefano del Bosco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Nicotera</desloc>
+      <lat_wgs84>38.552</lat_wgs84>
+      <lon_wgs84>15.9377</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064934.00</nloc_cfti>
+      <desloc_cfti>Nicotera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Soriano Calabro</desloc>
+      <lat_wgs84>38.5981</lat_wgs84>
+      <lon_wgs84>16.2299</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065090.00</nloc_cfti>
+      <desloc_cfti>Soriano Calabro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Stilo</desloc>
+      <lat_wgs84>38.4774</lat_wgs84>
+      <lon_wgs84>16.4681</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065836.00</nloc_cfti>
+      <desloc_cfti>Stilo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Squillace</desloc>
+      <lat_wgs84>38.7812</lat_wgs84>
+      <lon_wgs84>16.5191</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065105.00</nloc_cfti>
+      <desloc_cfti>Squillace</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Reggio di Calabria</desloc>
+      <lat_wgs84>38.1087</lat_wgs84>
+      <lon_wgs84>15.6471</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065695.00</nloc_cfti>
+      <desloc_cfti>Reggio di Calabria</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Messina</desloc>
+      <lat_wgs84>38.1877</lat_wgs84>
+      <lon_wgs84>15.5493</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>066973.00</nloc_cfti>
+      <desloc_cfti>Messina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Catanzaro</desloc>
+      <lat_wgs84>38.9149</lat_wgs84>
+      <lon_wgs84>16.5859</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>064567.00</nloc_cfti>
+      <desloc_cfti>Catanzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monteleone</desloc>
+      <lat_wgs84>38.6755</lat_wgs84>
+      <lon_wgs84>16.1023</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01854</nterr>
+      <nloc_cfti>065154</nloc_cfti>
+      <desloc_cfti>Vibo Valentia (Monteleone di Calabria, Monteleone)</desloc_cfti>
+      <notesito>Assunse la denominazione di Monteleone di Calabria il 22 gennaio 1863 e quella di Vibo Valentia l’8 dicembre 1927 (r.d. n.2449).</notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

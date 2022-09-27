@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052892.00</nloc_cfti>
+      <desloc_cfti>Montalto di Castro</desloc_cfti>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>6</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>42.3518</lat_wgs84>
+      <lon_wgs84>11.6073</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non si conoscono descrizioni degli effetti. Secondo Martinelli $(235474)$ la scossa ebbe una intensità del IV grado MCS.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27011</nterr>
+      <nperiod>002001</nperiod>
+      <datanum>19191022</datanum>
+      <data_label>1919 10 22</data_label>
+      <anno>1919</anno>
+      <mese>10</mese>
+      <giorno>22</giorno>
+      <time_label>06:06:04</time_label>
+      <ora>06</ora>
+      <minu>06</minu>
+      <sec>04</sec>
+      <lat>41.5381</lat>
+      <lon>12.6839</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>134</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Litorale pontino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17066</nterr>
+      <nperiod>003142</nperiod>
+      <datanum>18990719</datanum>
+      <data_label>1899 07 19</data_label>
+      <anno>1899</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>13:18:54</time_label>
+      <ora>13</ora>
+      <minu>18</minu>
+      <sec>54</sec>
+      <lat>41.7982</lat>
+      <lon>12.6857</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>122</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110748,000008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36932</nterr>
+      <nperiod>003125</nperiod>
+      <datanum>19710206</datanum>
+      <data_label>1971 02 06</data_label>
+      <anno>1971</anno>
+      <mese>02</mese>
+      <giorno>06</giorno>
+      <time_label>18:09:08</time_label>
+      <ora>18</ora>
+      <minu>09</minu>
+      <sec>08</sec>
+      <lat>42.4428</lat>
+      <lon>11.8464</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>31</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Tuscania (VT)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita $(330304,691787)$. Secondo Dell’Olio e Molin l’intensità fu del V grado della scala MCS.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>330304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1971.02.07.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691787</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Ferrara, 1971.02.07, n.32.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110748</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, luglio 1899, n.317, Cartolina macrosismica relativa al terremoto del 19 luglio 1899 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montalto di Castro 19 luglio 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

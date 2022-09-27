@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058607.00</nloc_cfti>
+      <desloc_cfti>Campobasso</desloc_cfti>
+      <provlet>CB</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>18</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.5574</lat_wgs84>
+      <lon_wgs84>14.6671</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>B0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5327</lat>
+      <lon>14.508</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>89</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Area di Isernia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Masciotta (1952) $(640109)$ riporta genericamente notizia di danni gravi alla chiesa di S.Bonaventura.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di VI grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1985) hanno valutato l’intensità della scossa di VI grado MCS $(002133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa, della durata di 8-10 secondi, fu avvertita da tutta la popolazione, causò il risveglio dei dormienti, la caduta di soprammobili e calcinacci e leggere lesioni in diversi edifici $(143085,583123)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di V-VI grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di V grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa causò la caduta di una grande pietra da un campanile $(470004)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11712</nterr>
+      <nperiod>003141</nperiod>
+      <datanum>18820606</datanum>
+      <data_label>1882 06 06</data_label>
+      <anno>1882</anno>
+      <mese>06</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.5584</lat>
+      <lon>14.2034</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>50</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Monti del Matese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita alle ore 5:57 GMT $(820054)$ ed ebbe direzione E-W fu accompagnata da rombo sotterraneo che Perrella paragonò al rumore di un treno in marcia affrettata $(746437)$. Essa causò panico nella popolazione che fuggì all’aperto, fece vacillare le case e scuotere gli alberi.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42013</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840511</datanum>
+      <data_label>1984 05 11</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>10:42:00</time_label>
+      <ora>10</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41.7152</lat>
+      <lon>14.0759</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>342</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di V-VI grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di V grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa durò 10s $(090462)$. Le case lesionate furono il 21% $(130532)$. La popolazione si svegliò e si riversò in strada. Non furono segnalati danni $(120018,120016,420288,671519,671535,671730,671731)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa, durata 3-5s, fu avvertita da molti; tremarono porte, vetri e piccoli oggetti; si fermarono alcuni orologi a pendolo $(000021,050399)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto fu avvertito in modo abbastanza forte $(070842,040178)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17826</nterr>
+      <nperiod>003143</nperiod>
+      <datanum>19010731</datanum>
+      <data_label>1901 07 31</data_label>
+      <anno>1901</anno>
+      <mese>07</mese>
+      <giorno>31</giorno>
+      <time_label>10:38:30</time_label>
+      <ora>10</ora>
+      <minu>38</minu>
+      <sec>30</sec>
+      <lat>41.7192</lat>
+      <lon>13.7496</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Monti della Meta</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III grado della scala Mercalli $(000012)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 22 agosto (ore 23:16 GMT) fu leggera $(672890,672896)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Il terremoto fu molto leggero $(050399)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>28415</nterr>
+      <nperiod>003144</nperiod>
+      <datanum>19250924</datanum>
+      <data_label>1925 09 24</data_label>
+      <anno>1925</anno>
+      <mese>09</mese>
+      <giorno>24</giorno>
+      <time_label>13:33:46</time_label>
+      <ora>13</ora>
+      <minu>33</minu>
+      <sec>46</sec>
+      <lat>41.72</lat>
+      <lon>14.1884</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>50</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Molise occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa, avvertita molto leggermente, durò 2s $(050399)$. Ingrao (1930) nel "Bollettino sismico" attribuì agli effetti il II grado di intensità della scala Mercalli $(000028)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(001319)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04869</nterr>
+      <nperiod>003104</nperiod>
+      <datanum>18050726</datanum>
+      <data_label>1805 07 26</data_label>
+      <anno>1805</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5009</lat>
+      <lon>14.4738</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>220</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>36</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto causò il crollo di circa un terzo degli edifici e la maggior parte dei rimanenti fu reso inabitabile; lesionata la chiesa arcipretale di Santa Maria Maggiore, gravemente danneggiati la chiesa e il convento di Santa Maria delle Grazie e quello di Santa Maria della Libera, distrutta la confraternita della SS.Trinità, la chiesa di San Rocco e il convento di San Pietro Celestino. Il carcere subì gravi danni: fu reso inabitabile. Le tombe di un antico cimitero furono scoperchiate. Si registrarono 39 vittime e 60 feriti $(080262,110143,110092,110062,900345,900346,090410,090409)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>520029</codbib>
+      <autore1>Chartier Jean</autore1>
+      <titolo1>Chronique de Charles VII roi de France, ed. A.Vallet de Viriville, 3 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410450</codbib>
+      <autore1>Astesano Antonio</autore1>
+      <titolo1>De admirabili terremotu qui in regno neapolitano accidit Anno Christi Millesimo quadringentesimo quinquagesimo sexto die quarto decembris. Nec non de apparitione crucifixi apud Capuam dicti Regni Civitatem, in A.Tallone, ‘Un poemetto storico inedito di Antonio Astesano sul terremoto del 1456’, "Archivio Muratoriano", vol.1, pp.205-217.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070842</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Omnibus, 1857.12.19, n.101.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040178</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1857.12.18, n.277.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001319</codbib>
+      <autore1>Bottari A., Federico B., Lo Giudice E. e Pandolfo C.</autore1>
+      <titolo1>The Gulf of Squillace earthquake of May 11, 1947, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.146-147.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640109</codbib>
+      <autore1>Masciotta G.</autore1>
+      <titolo1>Il Molise dalle origini ai nostri giorni, 4 voll.</titolo1>
+      <luogoed>Napoli Cava Tirreni</luogoed>
+      <datacompl>1952</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione del danno cagionato dal Terremoto succeduto à dì 3 Novembre 1706 secondo le notizie venute à questo Eccellentissimo Marchese di Vigliena &amp;c. ed altre raccolte da varie lettere particolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1706</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080262</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, zweiter Theil vom Jahre 1760 bis 1805, und von 1821 bis 1832 n. Chr. geb., in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 5.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1841</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110143</codbib>
+      <autore1>Mancini A.</autore1>
+      <titolo1>Campobasso nel 1732.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1942</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110092</codbib>
+      <autore1>De Jacobis A.</autore1>
+      <titolo1>Cronaca degli avvenimenti in Teramo ed altri luoghi d’Abruzzo 1777-1822, in L.Coppa-Zuccari, "L’Invasione Francese negli Abruzzi (1798-1815)", vol.3.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110062</codbib>
+      <autore1>Pepe G.</autore1>
+      <titolo1>Ragguaglio istorico-fisico del tremuoto accaduto nel Regno di Napoli la sera de’ 26 luglio 1805.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900345</codbib>
+      <autore1>Poli G.S.</autore1>
+      <titolo1>Memoria sul tremuoto de’ 26 luglio del corrente anno 1805.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900346</codbib>
+      <autore1>Capozzi G.</autore1>
+      <titolo1>Memoria sul tremuoto avvenuto nel contado di Molise nella sera de’ 26 luglio dell’anno 1805.</titolo1>
+      <luogoed>Benevento</luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090410</codbib>
+      <autore1>Esposito E., Laurelli L. e Porfido S.</autore1>
+      <titolo1>Il terremoto del 26 luglio 1805. Lo scenario dei danni nella città di Isernia.</titolo1>
+      <luogoed>Isernia</luogoed>
+      <datacompl>1992</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090409</codbib>
+      <autore1>Esposito E., Luongo G., Marturano A. e Porfido S.</autore1>
+      <titolo1>Il terremoto di S.Anna del 26 luglio 1805, in "Memorie della Società Geologica Italiana" vol.37 (1987), pp.171-191.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143085</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 gennaio 1915 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Campobasso 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583123</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dall’1 gennaio al 13 gennaio, n.886, Telegramma del Prefetto di Campobasso al Ministero dell’Interno relativo ai danni causati in provincia dal terremoto del 13 gennaio 1915, Campobasso 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090462</codbib>
+      <autore1>Alfano G.B.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930 (Pubblicazione dell’Osservatorio di Pompei).</titolo1>
+      <luogoed>Pompei</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130532</codbib>
+      <autore1>Majo E.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930-VIII, in "Bollettino della Società dei Naturalisti in Napoli", vol.43 (1931), pp.377-391.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma numero 8 dell’Agenzia Stefani sulle prime notizie relative ai danni e morti a seguito del terremoto notte 23 luglio 1930, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma numero 10 dell’Agenzia Stefani sulle conseguenze del terremoto del 23 luglio 1930 in Italia meridionale, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Emiliano. Gazzetta di Parma, 1930.07.24, a.175, n.174.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671519</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 18 luglio al 23 luglio, n.34863, Telegramma del prefetto di Campobasso al Ministero dell’Interno Gabinetto e Pubblica Sicurezza, Campobasso 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671535</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 18 luglio al 23 luglio, n.34880, Telegramma del comandante interinale la Compagnia Carabinieri di Campobasso al Ministero dell’Interno, Campobasso 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671730</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.1D, Prime notizie, Relazioni delle Autorità sui danni del terremoto, sullo stato dei lavori di sgombero, sui morti e feriti, Comunicati all’Agenzia Stefani, Comunicato n.4, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671731</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.1D, Prime notizie, Relazioni delle Autorità sui danni del terremoto, sullo stato dei lavori di sgombero, sui morti e feriti, Comunicati all’Agenzia Stefani, Comunicato n.5, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002133</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Irpinia earthquake of August 21, 1962, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.148-149.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820054</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Riviste sismiche e quadri sinottici delle osservazioni sui fenomeni endogeni col confronto di altri fenomeni [1 aprile 1882 ­ 30 giugno 1883], in "Bullettino del Vulcanismo Italiano", a.10, pp.145-174, 177-267.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1883</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>746437</codbib>
+      <autore1>Perrella A.</autore1>
+      <titolo1>Terremoto, in "La nuova Provincia di Molise", a.2, n.17, p.1.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1882</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1901, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.8 (1902-1903)-9 (1903-1904).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1902 - 1903</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000028</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1925, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672890</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1948, b.22 (Telegrammi in arrivo dal 15 agosto al 30 agosto), fasc.21500, n.21534, Telegramma del prefetto di Campobasso Umberto Sciorilli Borrelli al Ministero dell’Interno, Campobasso 23 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672896</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1948, b.22 (Telegrammi in arrivo dal 15 agosto al 30 agosto), fasc.21600, n.21619, Telegramma del prefetto di Campobasso Umberto Sciorilli Borrelli al Ministero dell’Interno, Campobasso 23 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

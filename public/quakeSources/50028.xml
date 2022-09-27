@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50028</nterr>
+      <nperiod>005044</nperiod>
+      <datanum>-0490000</datanum>
+      <data_label>49 B. C. - -</data_label>
+      <anno>-49</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.896</lat>
+      <lon>12.482</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Roma?</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Cassio Dione $(790008)$, storico greco del III secolo d.C., che pur scrivendo circa due secoli e mezzo dopo l’evento, è autore informato e fededegno. Tuttavia, a causa del frangente politico (la guerra tra Cesare e Pompeo), l’evento fu conservato alla memoria unicamente per la sua natura prodigiosa. Difficile stabilire la localizzazione: Cassio Dione, infatti, attesta che vi furono frequenti terremoti con "muggiti", ma è solo dal contesto della notizia, riferita esclusivamente a prodigi avvenuti a Roma, che si desume un risentimento delle varie scosse nell’area urbana. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XIX secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Frequenti terremoti probabilmente sentiti a Roma $(093043)$: viene ricordato anche un incendio nel tempio di Quirino e in altri edifici $(790008)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093075</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Catalogo dei principali fenomeni sismici avvenuti a Roma, in «Il terremoto laziale del 22 gennaio 1892», "Bollettino della Società Geologica Italiana", vol.11, pp.38-41.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1892</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093151</codbib>
+      <autore1>Millar F.</autore1>
+      <titolo1>A Study of Cassius Dio.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1964</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680025</codbib>
+      <autore1>Ligorio Pirro</autore1>
+      <titolo1>Libro di diversi terremoti, a cura di E.Guidoboni (Edizione nazionale delle opere di Pirro Ligorio, Libri delle antichità, Torino, volume 28, codice Ja.II.15).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>790008</codbib>
+      <autore1>Dio Cassius Cocceianus</autore1>
+      <titolo1>Historia Romana, ed. E.Cary.</titolo1>
+      <luogoed>London-Cambridge (Mass.)</luogoed>
+      <datacompl>1914 - 1927</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50028</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Vi furono frequenti terremoti con "muggiti" $(790008)$. È dal contesto della notizia che si desume un probabile risentimento delle varie scosse a Roma.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

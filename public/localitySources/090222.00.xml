@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090222.00</nloc_cfti>
+      <desloc_cfti>Castelli dell’Aquilano</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>42.284</lat_wgs84>
+      <lon_wgs84>13.5332</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00201</nterr>
+      <nperiod>003158</nperiod>
+      <datanum>13151203</datanum>
+      <data_label>1315 12 03</data_label>
+      <anno>1315</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.3203</lat>
+      <lon>13.4644</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9.5</imax>
+      <npun>13</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Castelli dell’Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>640108</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Ufficio della Ricostruzione Angioina, Notamenti e repertori vari, arm.1b, C.De Lellis, Notamenta ex registris Caroli II Roberti et Caroli ducis Calabriae, 4 voll., sec.XVII, vol.4, p.902, Mandato di Roberto d’Angiò al Capitano di L’Aquila, 9 marzo 1317.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

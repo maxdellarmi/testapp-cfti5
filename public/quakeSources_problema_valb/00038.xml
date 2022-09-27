@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00038</nterr>
+      <nperiod>003050</nperiod>
+      <datanum>11200000</datanum>
+      <data_label>1120 - -</data_label>
+      <anno>1120</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.8</lat>
+      <lon>14.833</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Larino (CB)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e svolta una ricerca sulle cronache coeve di ambiente monastico. Il catalogo si basa su Baratta (1901) $(000001)$, che elenca due terremoti in quell’anno, localizzati rispettivamente a Montecassino e a Larino: l’informazione di base deriva dallo sdoppiamento della notizia del terremoto conservata dalla "Chronica monasterii Casinensis", che Baratta attribuì a Leone Ostiense $(090248)$ per Larino e a Pietro Diacono $(090179)$ per Montecassino. In realtà, Leone Ostiense è autore soltanto di una parte della cronaca, che rimase incompiuta all’anno della sua morte (1115); Pietro Diacono ne riprese il lavoro, proseguendo la narrazione dall’abate Desiderio, cioè dal 1057, fino all’anno 1138. È quindi impossibile che Leone Ostiense e Pietro Diacono siano entrambi fonti di informazione per terremoti avvenuti nel 1120. La ricerca ha evidenziato che si tratta della duplicazione del terremoto avvenuto nel periodo compreso tra il 25 marzo 1120 e il 24 marzo 1121, localizzato ad Alvito. Il toponimo Larino è stato inserito dalla storiografia successiva, forse per una analogia con Camino, località ricordata dalle fonti coeve fra quelle danneggiate.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090179</codbib>
+      <autore1>Petrus diaconus Casinensis</autore1>
+      <titolo1>Chronica monasterii Casinensis [-1138] (sec.XII), ed. H.Hoffmann, in "Monumenta Germaniae Historica", SS., tomo 34.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090248</codbib>
+      <autore1>Leo Marsicanus</autore1>
+      <titolo1>Chronica monasterii Casinensis, ed. H.Hoffmann, in "Monumenta Germaniae Historica", SS, vol.34.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090471</codbib>
+      <autore1>De Marco G.</autore1>
+      <titolo1>Montecassino illustrato nei tre regni della natura con altre descrizioni riguardanti lo stesso luogo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090475</codbib>
+      <autore1>Piedimonte G.</autore1>
+      <titolo1>Notizie civili e religiose di Lucito.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096027</codbib>
+      <autore1>Molin D.</autore1>
+      <titolo1>Considerazioni sulla sismicità storica della zona di Larino-Termoli, in "Memorie della Società Geologica Italiana", vol.37 (1987), pp.557-63.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Larino. La città prima diocesi prima cattedrale.</titolo1>
+      <luogoed>Larino</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900218</codbib>
+      <autore1>Tria G.A.</autore1>
+      <titolo1>Memorie storiche civili ed ecclesiastiche della città, e diocesi di Larino metropoli degli antichi Frentani.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1744</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900341</codbib>
+      <autore1>Magliano G.</autore1>
+      <titolo1>Larino: considerazioni storiche sulla città di Larino. Manoscritti del barone Giandomenico Magliano completati, annotati e pubblicati da da suo nipote Alberto Magliano.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

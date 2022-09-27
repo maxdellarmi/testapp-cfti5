@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>055658.00</nloc_cfti>
+      <desloc_cfti>San Vittore del Lazio</desloc_cfti>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>41.4611</lat_wgs84>
+      <lon_wgs84>13.9315</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò danni a pochi edifici $(035052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00239</nterr>
+      <nperiod>002002</nperiod>
+      <datanum>13490909</datanum>
+      <data_label>1349 09 09</data_label>
+      <anno>1349</anno>
+      <mese>09</mese>
+      <giorno>09</giorno>
+      <time_label>08:15</time_label>
+      <ora>08</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>41.5818</lat>
+      <lon>13.907</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>20</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Lazio meridionale-Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>100013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Note sul terremoto del 9 settembre 1349 in margine al codice cassinese 47, in A.Caravita, "I Codici e le arti a Montecassino", vol.2, pp.121 e 123-124.</titolo1>
+      <luogoed>Montecassino</luogoed>
+      <datacompl>1870</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680002</codbib>
+      <autore1>Anonymus monachus Casinensis</autore1>
+      <titolo1>Rerum in regno Neapolitano gestarum breve chronicon [1000-1212], in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 5, pp.55-78 (appendice alla chronica per l’anno 1349).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1724</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

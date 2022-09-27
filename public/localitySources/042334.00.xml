@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042334.00</nloc_cfti>
+      <desloc_cfti>Vigneta</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>44.2119</lat_wgs84>
+      <lon_wgs84>10.1821</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il paese fu gravemente danneggiato: su un totale di 36 edifici, 8 (22%) furono gravemente danneggiati; di questi 2 (5,5%) crollarono o furono resi del tutto inabitabili e 6 (16,5%) furono resi parzialmente inabitabili.&lt;br&gt;I danni nei paesi di Casola, Montefiore e Vigneta furono complessivamente valutati 13.360 lire $(890059,890099,470740)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il terremoto causò la distruzione pressoché completa dell’abitato; vi furono 12-13 morti e 15 feriti su circa 200 abitanti $(020148,020274,030126,030127,030130,030133,030134,080093,080094,080095,080096,080100,080104,340467,870190)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Vicentino, 1920.09.08, a.6, n.201.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020274</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Quotidiano della regione, 1920.09.08, a.33, n.214.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.10, a.48, n.212.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030127</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.11, a.48, n.213.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.19, a.48, n.220.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.09, a.48, n.211.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.08, a.48, n.210.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.08, a.43, n.191.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080094</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.09, a.43, n.192.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080095</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.10, a.43, n.193.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080096</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.11, a.43, n.194.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080100</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.10, a.62, n.217.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080104</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.12, a.62, n.219.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340467</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1920.09.09, a.45, n.217.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870190</codbib>
+      <autore1>De Stefani C.</autore1>
+      <titolo1>Il terremoto del settembre 1920 nella provincia di Massa, in "Memorie della Società Lunigianese G.Capellini per la storia naturale della regione", vol.2 (1920), pp.40-61.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Copia di relazione dell’ingegnere Francesco Guasti alla Segreteria di Stato sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 6 maggio 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.116 B, Sezione registri, Copia rapporti, 1831-1837, Relazione dell’aiuto ingegnere Antonio Giuliani al vicario regio sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 14 aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470740</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.25, n.33.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

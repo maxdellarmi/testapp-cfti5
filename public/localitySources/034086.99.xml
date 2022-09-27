@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>034086.99</nloc_cfti>
+      <desloc_cfti>Beverino</desloc_cfti>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3.5</maxint>
+      <lat_wgs84>44.1951</lat_wgs84>
+      <lon_wgs84>9.7678</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34811</nterr>
+      <nperiod>003350</nperiod>
+      <datanum>19630719</datanum>
+      <data_label>1963 07 19</data_label>
+      <anno>1963</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>05:45:28</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>28</sec>
+      <lat>43.9233</lat>
+      <lon>8.0648</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>463</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052487</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1963.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1963</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

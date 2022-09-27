@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067974.00</nloc_cfti>
+      <desloc_cfti>Passopomo</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>37.6757</lat_wgs84>
+      <lon_wgs84>15.1187</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11257</nterr>
+      <nperiod>003028</nperiod>
+      <datanum>18790617</datanum>
+      <data_label>1879 06 17</data_label>
+      <anno>1879</anno>
+      <mese>06</mese>
+      <giorno>17</giorno>
+      <time_label>06:50</time_label>
+      <ora>06</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>37.687</lat>
+      <lon>15.1457</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>27</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni. Il totale dei proprietari danneggiati fu di 7 $(145298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il terremoto fu distruttivo; secondo quanto attestò la perizia ufficiale del Genio Civile di Catania nel centro abitato gli edifici quasi completamente crollati furono 30, quelli crollati in parte ed in seguito demoliti 20, i fortemente lesionati 10 $(145257)$. Un proprietario danneggiato ricevette un sussidio urgente $(145510)$. Le testimonianze giornalistiche riportarono la notizie che tutte le case della località erano rase al suolo $(145646)$. Nelle contrade di Pietralunga e Passopomo le famiglie indigenti danneggiate in varia misura furono 44, secondo la documentazione prodotta dalla Commissione nominata dal Sottoprefetto di Acireale; di queste 41 usufruirono di sussidi $(145531)$. Sulla base dei dati raccolti dal Genio Civile, sommando il numero delle case totalmente o parzialmente crollate e riferendolo la somma a 1000 abitanti, per questa località fu calcolato il numero indice di 170 $(145137)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 14 (1865-86), b.490, Richieste di esenzioni da imposta terremoto 1879, Elenco degli individui danneggiati dal tremuoto del 17 giugno 1879 ai quali possa applicarsi la sospensione del pagamento delle imposte pel comune di Zafferana Etnea, Mascalucia 28 agosto 1879.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145257</codbib>
+      <autore1>Sabatini V.</autore1>
+      <titolo1>Note sul terremoto di Linera dell’8 maggio 1914, in "Bollettino del Regio Comitato Geologico d’Italia", vol.44, fasc.3, pp.3-52.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Elenco dei sussidi urgenti corrisposti ai danneggiati e Registro generale dei sussidi ordinari pagati ai danneggiati nella distribuzione di agosto-settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145646</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ora, 1914.05.09/10, a.15, n.129.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145531</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comuni di Zafferana Etnea e Giarre, Relazione del lavoro compiuto dal 27 Maggio 1914 dalla Commissione nominata dal Sig. Sottoprefetto di Acireale per l’accertamento dei danni subiti dalle famiglie povere, Giarre 27-29 agosto 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145137</codbib>
+      <autore1>Ghersi A., Platania G. e Sabatini V.</autore1>
+      <titolo1>Relazione della Commissione per la determinazione delle aree sismiche sulle quali debbono vietarsi le nuove costruzioni nella regione colpita dal terremoto dell’8 maggio 1914 in provincia di Catania.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145021</codbib>
+      <autore1>Platania G.</autore1>
+      <titolo1>Sul periodo sismico del maggio 1914 nella regione orientale dell’Etna, in "Rendiconti e memorie della Regia Accademia di Scienze, Lettere ed Arti degli Zelanti", s.III, vol.7-8 (1912-1915), pp.105-122.</titolo1>
+      <luogoed>Acireale</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

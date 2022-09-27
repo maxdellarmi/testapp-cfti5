@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051515.00</nloc_cfti>
+      <desloc_cfti>Scapezzano</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.7204</lat_wgs84>
+      <lon_wgs84>13.1674</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27930</nterr>
+      <nperiod>003223</nperiod>
+      <datanum>19240102</datanum>
+      <data_label>1924 01 02</data_label>
+      <anno>1924</anno>
+      <mese>01</mese>
+      <giorno>02</giorno>
+      <time_label>08:55:13</time_label>
+      <ora>08</ora>
+      <minu>55</minu>
+      <sec>13</sec>
+      <lat>43.7367</lat>
+      <lon>13.1405</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>76</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Furono danneggiate gravemente alcune case. La scossa causò il crollo di una casa colonica $(420457)$ e dei muri interni ed esterni di vecchie abitazioni in cattivo stato. Vi furono 2 feriti. Ad alcune famiglie fu proibito il ritorno nelle abitazioni pericolanti. Subì gravi danni la villa del Seminario $(050399,270094,420457,672700)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30094</nterr>
+      <nperiod>003119</nperiod>
+      <datanum>19301030</datanum>
+      <data_label>1930 10 30</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>07:13:06</time_label>
+      <ora>07</ora>
+      <minu>13</minu>
+      <sec>06</sec>
+      <lat>43.674</lat>
+      <lon>13.2738</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>249</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche settentrionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Una recente revisione scientifica attribuisce, sulla base di documentazione archivistica, di opere di storia locale e di testate giornalistiche, un valore di intensità pari all’VIII MCS senza fornire descrizioni degli effetti $(095049)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095049</codbib>
+      <autore1>Molin D. e Mucci L.</autore1>
+      <titolo1>Il terremoto di Senigallia del 30 ottobre 1930. Risposta sismica dell’area urbana di Ancona, in "Atti del 9.o Convegno", Roma 13-15 novembre 1990, CNR-GNGTS, vol.1, pp.31-45.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1924.01.03.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1924</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>270094</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto sulla costa marchigiana del 2 gennaio 1924, in "Bollettino della Società Sismologica Italiana", vol.26 (1926), pp.17-34.</titolo1>
+      <luogoed>Selci</luogoed>
+      <datacompl>1926</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672700</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1924.01.04, a.29, n.4.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1924</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

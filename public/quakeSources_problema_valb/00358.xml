@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00358</nterr>
+      <nperiod>003172</nperiod>
+      <datanum>14100810</datanum>
+      <data_label>1410 08 10</data_label>
+      <anno>1410</anno>
+      <mese>08</mese>
+      <giorno>10</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.4383</lat>
+      <lon>12.3351</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Venezia</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti memorialistiche edite e manoscritte. La bibliografia del Catalogo è basata su Iaccarino e Molin (1978) $(080271)$, che probabilmente fecero riferimento all’appendice, non esplicitamente indicata, di Baratta (1901) $(000001)$, che utilizzò Gallicciolli (1795) $(500024)$. Nella parte principale del catalogo di Baratta (1901), la menzione di questo evento, ripresa da Sanuto (ed. 1733) $(700055)$, è associata alla scheda sul terremoto di Verona del 10 giugno dello stesso anno. Bonito (1691) $(000003)$ ignorò questo evento, che entrò nella tradizione sismologica attraverso Perrey (1848) $(050007)$, che aveva utilizzato anch’egli Sanuto, ripreso in seguito da Mercalli (1883) $(000002)$.&lt;br&gt;Nell’opera di Marino Sanuto (sec.XVI, ed. 1733) $(700055)$, riguardante la storia di Venezia scandita sulla vita dei dogi, generalmente autorevole per quanto riguarda la menzione di eventi sismici, si trova scritto che il 10 agosto, verso il tramonto, a Venezia ci fu un fortissimo uragano che danneggiò gravemente edifici e campanili, causando la morte per annegamento di 45 persone. Sanuto aggiunse che "prima" c’era stato "un poco di tremuoto la notte". Egli diede questa notizia come dubbia e indicò la mancanza di un’esperienza diretta dell’evento. In ogni caso, Sanuto puntualizzò che il terremoto era stato debole individuando la causa dei danni nel fenomeno meteorologico (forse una tromba d’aria, non rara in quest’area).&lt;br&gt;La fonte veneziana più vicina agli eventi del 10 agosto 1410 è la cronaca di Pietro Dolfin (1427-1506), uno dei più autorevoli cronachisti veneziani (Biblioteca Nazionale Marciana di Venezia, Italiani, VII, 2557-2558) $(510101)$. Dolfin ricordò con molti particolari l’uragano ma, a differenza di Sanuto, definì "grandissimo" il terremoto sentito alcuni giorni prima ("alguni dì avanti"), senza tuttavia attribuirgli alcun effetto di danno.&lt;br&gt;Gli storici successivi (Gallicciolli 1795 $(500024)$; Zanotto 1859 $(455018)$; Zanon 1937 $(500082)$) attinsero o a Dolfin o a Sanuto, ma ignorarono la distinzione operata dagli autori coevi tra i due eventi, così che il fenomeno meteorologico passò in second’ordine rispetto al terremoto come causa di danni.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Una sensibile scossa fu sentita a Venezia nella notte tra il 9 e il 10 agosto 1410: non vi fu alcun danno. Il quadro di danni recepito dalla tradizione sismologica si riferisce, invece, agli effetti di un uragano o tromba d’aria avvenuto verso il tramonto del giorno successivo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095046</codbib>
+      <autore1>Bellettati D., Camassi R. e Molin D.</autore1>
+      <titolo1>Fake quakes in Italy through parametric catalogues and seismological compilations: case histories and typologies, in "Terra Nova", vol.5, pp.488-495.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455018</codbib>
+      <autore1>Zanotto F.</autore1>
+      <titolo1>Tavola Cronologica della Storia Veneta.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1859</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500024</codbib>
+      <autore1>Gallicciolli G.</autore1>
+      <titolo1>Delle memorie venete antiche, profane ed ecclesiastiche, libri tre, 8 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1795</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510101</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Marciana di Venezia, Manoscritti Italiani, VII, 2557-2558 (=12449-12450), Pietro Dolfin, Cronaca Veneta (fino al 1422), sec.XV, copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700055</codbib>
+      <autore1>Sanudo Marino</autore1>
+      <titolo1>Vitæ ducum Venetorum italice scriptæ ab origine Urbis, sive ab Anno 421 usque ad Annum 1493 (sec.XVI), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 22, coll.405-1252.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>00358</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una sensibile scossa fu sentita a Venezia tra il 9 e il 10 agosto 1410, durante la notte: non vi fu alcun danno. Il quadro di danni recepito dalla tradizione sismologica si riferisce, invece, agli effetti di un uragano o tromba d’aria avvenuto verso il tramonto del giorno successivo; le testimonianze, molto chiare, sono contenute nella cronaca di Dolfin $(510101)$ e nell’opera di Sanuto $(700055)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

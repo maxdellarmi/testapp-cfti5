@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42036</nterr>
+      <nperiod>009006</nperiod>
+      <datanum>15170329</datanum>
+      <data_label>1517 03 29</data_label>
+      <anno>1517</anno>
+      <mese>03</mese>
+      <giorno>29</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.0122</lat>
+      <lon>15.2101</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto era già incluso nelle precedenti versioni del "Catalogo dei Forti Terremoti" (Boschi et al. 1995, 1997, 2000); era datato 17 marzo 1517 ed era incluso in una scheda che comprendeva anche la discussione di un falso evento datato 25 agosto 1550. In questa nuova versione, per maggior chiarezza, si è preferito considerare questo terremoto del 1517 come un evento a sé stante.&lt;br&gt;La data 17 marzo 1517 deriva da un’epigrafe incisa nel 1736, oltre due secolo dopo il terremoto, attualmente conservata nella cattedrale di Ariano Irpino $(095057)$. Questa epigrafe ricorda la lunga serie di terremoti che colpirono l’edificio dalla metà del IX secolo al 1732 (Pantosti e Valensise 1989) $(093162)$.&lt;br&gt;Nuove informazioni attinte da una fonte coeva hanno permesso di correggere la data del terremoto (da 17 a 29 marzo) e di avere un quadro degli effetti che, per quanto ancora parziale, lascia intendere che si sia trattato di un importante terremoto dell’area irpina, sia per la lunga durata percepita a Napoli (circa un minuto, "un miserere"), sia per gli effetti di danneggiamento subiti dalla città di Conza, dove furono "rovinate" 116 case e morirono 26 persone.&lt;br&gt;Da prima, le nuove informazioni erano state reperite nei "Diarii" di Marin Sanudo (1466-1536), grande erudito veneziano, autore di una monumentale raccolta di notizie dal 1496 al 1533 $(130305)$. Successivamente, è stato possibile risalire alla fonte stessa utilizzata da Sanudo, un dispaccio dell’ambasciatore veneziano a Roma, Marco Minio. Il dispaccio, datato 10 aprile 1517, è conservato all’Archivio di Stato di Venezia (Archivi propri degli ambasciatori, Archivio proprio Roma, reg.4) $(091480)$. La consultazione diretta di questa fonte ha permesso di correggere alcune imprecisioni che si trovano nel testo dei "Diarii" di Sanudo. Secondo Marco Minio, a Napoli non ci fu alcun danno, a Conza le case "rovinate" furono 116 (e non 120) e i morti 26 (e non 16).&lt;br&gt;Un accenno a questo terremoto compare nell’opera di Vitale (1794) $(900318)$, storico locale di Ariano.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 29 marzo 1517 alle ore 19:00 GMT (l’una di notte in orario "all’italiana"). A Conza della Campania furono "rovinate" 116 case e il palazzo comunale, morirono 26 persone, ad Ariano Irpino fu danneggiata la cattedrale; a Napoli la scossa, della durata di circa 65 secondi, non causò alcun danno.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>091480</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Archivi propri degli ambasciatori, Archivio proprio Roma, reg.4, n.37, Dispaccio dell’ambasciatore Marco Minio al Senato veneziano, Roma 10 aprile 1517.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1517</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093162</codbib>
+      <autore1>Pantosti D. e Valensise G.</autore1>
+      <titolo1>Riconoscere il ‘terremoto caratteristico’: il caso dell’Appennino centro-meridionale, in "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, pp.536-553.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095057</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe posta nella cattedrale di Ariano Irpino in memoria dei danni causati dai terremoti dell’847, 1349, 1456, 1517, 1688, 1694, 1702 e 1732 (1736), in D.Pantosti e G.Valensise, Riconoscere il ‘terremoto caratteristico’: il caso dell’Appennino centro-meridionale, "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, p.547.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130305</codbib>
+      <autore1>Sanudo Marino</autore1>
+      <titolo1>I Diarii, tomo 24 (1516-1517), ed. F.Stefani, G.Berchet e N.Barozzi.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900318</codbib>
+      <autore1>Vitale T.</autore1>
+      <titolo1>Storia della regia città di Ariano e sua diocesi.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Conza della Campania</desloc>
+      <lat_wgs84>40.8707</lat_wgs84>
+      <lon_wgs84>15.3305</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>42036</nterr>
+      <nloc_cfti>060691.00</nloc_cfti>
+      <desloc_cfti>Conza della Campania</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto "rovinò" 116 case e il palazzo comunale e causò la morte di 26 persone $(091480)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Ariano</desloc>
+      <lat_wgs84>41.1538</lat_wgs84>
+      <lon_wgs84>15.0896</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>42036</nterr>
+      <nloc_cfti>060620</nloc_cfti>
+      <desloc_cfti>Ariano Irpino (Ariano di Puglia, Ariano)</desloc_cfti>
+      <notesito>Assunse la denominazione di Ariano di Puglia il 9 ottobre 1868 e quella di Ariano Irpino il 5 giugno 1930.</notesito>
+      <COMM>Un’epigrafe del 1736, conservata nella cattedrale, ricorda che l’edificio fu molto danneggiato $(095057)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42036</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di circa 65 secondi (un "miserere") che non causò alcun danno $(091480)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

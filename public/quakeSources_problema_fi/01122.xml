@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01122</nterr>
+      <nperiod>003085</nperiod>
+      <datanum>16901204</datanum>
+      <data_label>1690 12 04</data_label>
+      <anno>1690</anno>
+      <mese>12</mese>
+      <giorno>04</giorno>
+      <time_label>14:00</time_label>
+      <ora>14</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.6349</lat>
+      <lon>13.8816</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>60</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6.5</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state reperite nuove fonti memorialistiche, che ampliano l’area di risentimento in territorio italiano. Presso l’Archivio di Stato di Vicenza è stata reperita una nota marginale dell’archivista del tempo, che annotò gli effetti locali della scossa $(510118)$; notizie inedite sono state individuate anche per Bondeno (Bib. Ariostea di Ferrara, ms. sec.XVIII) e per Ravenna (Bib. Classense di Ravenna, B.Fiandrini, ms. sec.XVIII). È stata analizzata anche la recente produzione scientifica (Degasperi et al. 1991; Cergol e Slejko 1991; Eisinger et al. 1992; Barbano et al. 1994; Eisinger e Gutdeutsch 1994).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Secondo la maggioranza delle fonti, la scossa avvenne alle ore 22 italiane (14:00 GMT ca.). Colpì la regione austriaca della Carinzia, causando distruzioni e vittime a Villach e nei vicini villaggi di Töbring e Wernberg; gravi danni si ebbero a Klagenfurt e in altri paesi. L’area di risentimento fu molto ampia e si estese fino alla Germania settentrionale e ad alcune località della Polonia, della Cecoslovacchia e della Slovenia. In area italiana la scossa fu molto forte a Trieste e a Venezia, dove causò leggeri danni, e fu avvertita in Veneto, nel ferrarese e nel ravennate.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La discrepanza nell’indicazione cronologica da parte delle fonti tedesche, che datano il terremoto al 24 novembre, si spiega in riferimento agli stili di datazione in uso all’epoca nei diversi paesi europei. L’introduzione del calendario gregoriano creò, rispetto a quello giuliano, un salto di 10 giorni, che corrispondono esattamente alla discrepanza in questione $(092196)$. Il terremoto, quindi, secondo il calendario gregoriano, avvenne il 4 dicembre 1690.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>Fonti veneziane, riprese da Bonito $(000003)$, ricordano una replica della scossa principale attorno alle ore 3 italiane della notte (19:00 GMT ca.).</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002144</codbib>
+      <autore1>Ambraseys N.N.</autore1>
+      <titolo1>The Gemona di Friuli Earthquake of 6 May 1976, in "The Gemona di Friuli Earthquake of 6 May 1976", UNESCO, Restricted Technical Report, RP/1975-76/2.222.3, pt.2.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052136</codbib>
+      <autore1>Suess E.</autore1>
+      <titolo1>Die Erdbeben Nieder Österreich’s, in "Denkschriften der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", vol.33, pp.61-98.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1873</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070493</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1690.12.19.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1690</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070494</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1690.12.30.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1690</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070496</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1691.01.09.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090444</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Classense di Ravenna, Manoscritti, 3.4.C, Benedetto Fiandrini, Annali ravennati dalla fondazione della città sino alla fine del secolo XVIII [...] compilati da don Benedetto Fiandrini monaco casinense di San Vitale di Ravenna, 4 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092196</codbib>
+      <autore1>Cergol M. e Slejko D.</autore1>
+      <titolo1>I terremoti del 1511 e del 1690 nelle alpi orientali, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.69-91.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095071</codbib>
+      <autore1>Barbano M.S., Bellettati D. e Slejko D.</autore1>
+      <titolo1>Sources for the study of the Eastern Alps earthquakes in the turn of the 17th century, in "Historical Investigation of European Earthquakes", vol.2 Materials of the CEC Project "Review of Historical Seismicity in Europe" and further contributions, edited by P.Albini and A.Moroni, pp.115-132.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095072</codbib>
+      <autore1>Eisinger U. e Gutdeutsch R.</autore1>
+      <titolo1>The Villach Earthquake of December 4th, 1690 in the German Sources, in "Historical Investigation of European Earthquakes", vol.2 Materials of the CEC Project "Review of Historical Seismicity in Europe" and further contributions, edited by P.Albini and A.Moroni, pp.133-137.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Riccardiana e Moreniana di Firenze, Manoscritti, 2695-2697, G.B.Fagiuoli, Diario (1672-1705), 3 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672 - 1705</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410061</codbib>
+      <autore1>Uccellini P.</autore1>
+      <titolo1>Dizionario storico di Ravenna e di altri luoghi di Romagna (ristampa anastatica, Bologna 1968).</titolo1>
+      <luogoed>Ravenna</luogoed>
+      <datacompl>1855</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455016</codbib>
+      <autore1>Garzoni P.</autore1>
+      <titolo1>Istoria della Repubblica di Venezia in tempo della Sacra Lega contra Maometto IV.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1705</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510118</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Vicenza, Ufficio del Registro, b.174 (anno 1452), D.Garzadori, Nota manoscritta sul terremoto del 4 dicembre 1690 sulla copertina del I volume dell’anno 1452 dell’Ufficio del Registro del comune di Vicenza.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1690</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 704, Giacinto Bonatti, Memorie di Bondeno libro primo, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775038</codbib>
+      <autore1>Degasperi C., Slejko D., Rebez A. e Cergol M.</autore1>
+      <titolo1>Earthquakes felt in Trieste from the Middle Ages to the 18th century, in "Tectonophysics", vol.193 (1991), pp.53-63.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775039</codbib>
+      <autore1>Eisinger U., Gutdeutsch R. e Hammerl C.</autore1>
+      <titolo1>Historical Earthquakes Research ­ An example of Interdisciplinary Cooperation between Geophysicists and Historians, in "Historical Earthquakes in Central Europe", vol.1, a cura di R.Gutdeutsch, pp.33-50.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Töbring</desloc>
+      <lat_wgs84>46.6622</lat_wgs84>
+      <lon_wgs84>13.8563</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080388.00</nloc_cfti>
+      <desloc_cfti>Töbring</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VIII-IX grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Villach</desloc>
+      <lat_wgs84>46.6174</lat_wgs84>
+      <lon_wgs84>13.8487</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080105.00</nloc_cfti>
+      <desloc_cfti>Villach</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di numerose abitazioni e la morte di circa 30 persone $(070493,000003)$. Crollarono la chiesa parrocchiale di S.Giacomo e la torre dell’orologio; gravi danni subirono la chiesa del S.Spirito e la cappella di S.Michele $(095071)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Wernberg</desloc>
+      <lat_wgs84>46.6251</lat_wgs84>
+      <lon_wgs84>13.9397</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080242.00</nloc_cfti>
+      <desloc_cfti>Wernberg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VIII-IX grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Gmünd</desloc>
+      <lat_wgs84>46.9055</lat_wgs84>
+      <lon_wgs84>13.5312</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080366.00</nloc_cfti>
+      <desloc_cfti>Gmünd</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Klagenfurt</desloc>
+      <lat_wgs84>46.6191</lat_wgs84>
+      <lon_wgs84>14.3089</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080101.00</nloc_cfti>
+      <desloc_cfti>Klagenfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Millstadt</desloc>
+      <lat_wgs84>46.8033</lat_wgs84>
+      <lon_wgs84>13.5739</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080375.00</nloc_cfti>
+      <desloc_cfti>Millstadt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Nöring</desloc>
+      <lat_wgs84>46.8901</lat_wgs84>
+      <lon_wgs84>13.5993</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080379.00</nloc_cfti>
+      <desloc_cfti>Nöring</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Radenthein</desloc>
+      <lat_wgs84>46.8013</lat_wgs84>
+      <lon_wgs84>13.7061</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080383.00</nloc_cfti>
+      <desloc_cfti>Radenthein</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Spittal an der Drau</desloc>
+      <lat_wgs84>46.8007</lat_wgs84>
+      <lon_wgs84>13.5012</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080385.00</nloc_cfti>
+      <desloc_cfti>Spittal an der Drau</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VII-VIII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Chiusa</desloc>
+      <lat_wgs84>46.4085</lat_wgs84>
+      <lon_wgs84>13.3092</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>030798</nloc_cfti>
+      <desloc_cfti>Chiusaforte (Chiusa)</desloc_cfti>
+      <notesito>Assunse la denominazione di Chiusaforte il 18 agosto 1867.</notesito>
+      <COMM>Danni alle mura, al portello del corpo di guardia e al tetto dell’abitazione del castellano sono attestati in una lettera del castellano al luogotenente di Udine. Il Senato di Venezia decretò di inviare un perito per la valutazione dei danni $(092196)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Graz</desloc>
+      <lat_wgs84>47.0716</lat_wgs84>
+      <lon_wgs84>15.4496</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080001.00</nloc_cfti>
+      <desloc_cfti>Graz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(070494)$. Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Ljubljana</desloc>
+      <lat_wgs84>46.0588</lat_wgs84>
+      <lon_wgs84>14.5032</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080076.00</nloc_cfti>
+      <desloc_cfti>Ljubljana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Sankt Paul</desloc>
+      <lat_wgs84>46.7015</lat_wgs84>
+      <lon_wgs84>14.8718</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080386.00</nloc_cfti>
+      <desloc_cfti>Sankt Paul</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Völkermarkt</desloc>
+      <lat_wgs84>46.6678</lat_wgs84>
+      <lon_wgs84>14.6355</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080344.00</nloc_cfti>
+      <desloc_cfti>Völkermarkt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Wels</desloc>
+      <lat_wgs84>48.1386</lat_wgs84>
+      <lon_wgs84>14.0306</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080392.00</nloc_cfti>
+      <desloc_cfti>Wels</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Wien</desloc>
+      <lat_wgs84>48.2007</lat_wgs84>
+      <lon_wgs84>16.3609</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080005.00</nloc_cfti>
+      <desloc_cfti>Wien</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(070494)$. Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di VI-VII grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò ulteriori danni al palazzo municipale, già devastato da un incendio avvenuto nel febbraio 1690 $(775038)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo le notizie pubblicate dagli "Avvisi di Venezia", riprese da Bonito $(000003)$, la scossa fece cadere alcuni comignoli e causò leggeri danni in alcune chiese, fra cui quella dei SS.Giovanni e Paolo.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Admont</desloc>
+      <lat_wgs84>47.5732</lat_wgs84>
+      <lon_wgs84>14.4634</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080354.00</nloc_cfti>
+      <desloc_cfti>Admont</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Borna</desloc>
+      <lat_wgs84>51.1276</lat_wgs84>
+      <lon_wgs84>12.5059</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080359.00</nloc_cfti>
+      <desloc_cfti>Borna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Görlitz</desloc>
+      <lat_wgs84>51.162</lat_wgs84>
+      <lon_wgs84>15.0016</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Poland</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080368.00</nloc_cfti>
+      <desloc_cfti>Görlitz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Jena</desloc>
+      <lat_wgs84>50.9378</lat_wgs84>
+      <lon_wgs84>11.5859</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080370.00</nloc_cfti>
+      <desloc_cfti>Jena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Leipzig</desloc>
+      <lat_wgs84>51.3456</lat_wgs84>
+      <lon_wgs84>12.3697</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080372.00</nloc_cfti>
+      <desloc_cfti>Leipzig</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Luban</desloc>
+      <lat_wgs84>51.1244</lat_wgs84>
+      <lon_wgs84>15.2897</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Poland</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080371.00</nloc_cfti>
+      <desloc_cfti>Luban</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Mauterndorf</desloc>
+      <lat_wgs84>47.1028</lat_wgs84>
+      <lon_wgs84>13.6482</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080374.00</nloc_cfti>
+      <desloc_cfti>Mauterndorf</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Moravská Trebová</desloc>
+      <lat_wgs84>49.7428</lat_wgs84>
+      <lon_wgs84>16.6747</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Czechia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080373.00</nloc_cfti>
+      <desloc_cfti>Moravská Trebová</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Naumburg</desloc>
+      <lat_wgs84>51.1586</lat_wgs84>
+      <lon_wgs84>11.8067</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080376.00</nloc_cfti>
+      <desloc_cfti>Naumburg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Neundorf</desloc>
+      <lat_wgs84>51.8163</lat_wgs84>
+      <lon_wgs84>11.5744</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080377.00</nloc_cfti>
+      <desloc_cfti>Neundorf</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Nürnberg</desloc>
+      <lat_wgs84>49.4457</lat_wgs84>
+      <lon_wgs84>11.0813</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080380.00</nloc_cfti>
+      <desloc_cfti>Nürnberg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Porec</desloc>
+      <lat_wgs84>45.2214</lat_wgs84>
+      <lon_wgs84>13.6071</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080084.00</nloc_cfti>
+      <desloc_cfti>Porec</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo le notizie apparse negli "Avvisi di Venezia" del 16 dicembre, pubblicati a Napoli e ripresi da Bonito $(000003)$, la scossa fece crollare alcune case causando la morte di 20 persone. Queste informazioni, non confermate da altre fonti coeve, potrebbero essere il risultato di un errore, non infrequente nelle gazzette dell’epoca, di estensione a Porec degli effetti causati dal terremoto a Villach. Le notizie provenienti da Venezia, pubblicate in una gazzetta bolognese, attribuiscono, infatti, correttamente le distruzioni e le vittime alla città austriaca.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Praha</desloc>
+      <lat_wgs84>50.0838</lat_wgs84>
+      <lon_wgs84>14.4207</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Czechia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080382.00</nloc_cfti>
+      <desloc_cfti>Praha</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Rakovnik</desloc>
+      <lat_wgs84>50.1025</lat_wgs84>
+      <lon_wgs84>13.7245</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Czechia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080384.00</nloc_cfti>
+      <desloc_cfti>Rakovnik</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Rovinj</desloc>
+      <lat_wgs84>45.082</lat_wgs84>
+      <lon_wgs84>13.643</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080087.00</nloc_cfti>
+      <desloc_cfti>Rovinj</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo le notizie pubblicate dagli "Avvisi di Venezia", riprese da Bonito $(000003)$, la scossa fu avvertita molto fortemente.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Salzburg</desloc>
+      <lat_wgs84>47.8044</lat_wgs84>
+      <lon_wgs84>13.0549</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080002.00</nloc_cfti>
+      <desloc_cfti>Salzburg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Varnsdorf</desloc>
+      <lat_wgs84>50.9205</lat_wgs84>
+      <lon_wgs84>14.4973</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Czechia</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080389.00</nloc_cfti>
+      <desloc_cfti>Varnsdorf</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vicenza</desloc>
+      <lat_wgs84>45.5499</lat_wgs84>
+      <lon_wgs84>11.549</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>025814.00</nloc_cfti>
+      <desloc_cfti>Vicenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Effetti di forte risentimento registrati dall’archivista pubblico Gorzadori, testimone diretto dell’evento $(510118)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Bondeno</desloc>
+      <lat_wgs84>44.8893</lat_wgs84>
+      <lon_wgs84>11.4164</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>040365.00</nloc_cfti>
+      <desloc_cfti>Bondeno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Effetti di risentimento, senza danni, sono ricordati in una cronaca anonima $(691097)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Ravenna</desloc>
+      <lat_wgs84>44.4178</lat_wgs84>
+      <lon_wgs84>12.1982</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>041374.00</nloc_cfti>
+      <desloc_cfti>Ravenna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Effetti di risentimento ricordati dal cronista settecentesco Fiandrini $(410061)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(080001)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Augsburg</desloc>
+      <lat_wgs84>48.3677</lat_wgs84>
+      <lon_wgs84>10.9257</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080018.00</nloc_cfti>
+      <desloc_cfti>Augsburg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bad Düben</desloc>
+      <lat_wgs84>51.593</lat_wgs84>
+      <lon_wgs84>12.5913</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080355.00</nloc_cfti>
+      <desloc_cfti>Bad Düben</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bautzen</desloc>
+      <lat_wgs84>51.1825</lat_wgs84>
+      <lon_wgs84>14.4345</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080356.00</nloc_cfti>
+      <desloc_cfti>Bautzen</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bischofswerda</desloc>
+      <lat_wgs84>51.128</lat_wgs84>
+      <lon_wgs84>14.1815</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080357.00</nloc_cfti>
+      <desloc_cfti>Bischofswerda</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bopfinger</desloc>
+      <lat_wgs84>48.843</lat_wgs84>
+      <lon_wgs84>10.3639</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080358.00</nloc_cfti>
+      <desloc_cfti>Bopfinger</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Buttstädt</desloc>
+      <lat_wgs84>51.1269</lat_wgs84>
+      <lon_wgs84>11.4145</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080360.00</nloc_cfti>
+      <desloc_cfti>Buttstädt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Calbe</desloc>
+      <lat_wgs84>51.9067</lat_wgs84>
+      <lon_wgs84>11.7701</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080361.00</nloc_cfti>
+      <desloc_cfti>Calbe</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Dresden</desloc>
+      <lat_wgs84>51.0582</lat_wgs84>
+      <lon_wgs84>13.7445</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080363.00</nloc_cfti>
+      <desloc_cfti>Dresden</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Eisenberg</desloc>
+      <lat_wgs84>50.9742</lat_wgs84>
+      <lon_wgs84>11.8931</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080362.00</nloc_cfti>
+      <desloc_cfti>Eisenberg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Erfurt</desloc>
+      <lat_wgs84>50.976</lat_wgs84>
+      <lon_wgs84>11.0249</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080119.00</nloc_cfti>
+      <desloc_cfti>Erfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Frankfurt</desloc>
+      <lat_wgs84>50.1149</lat_wgs84>
+      <lon_wgs84>8.6834</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080364.00</nloc_cfti>
+      <desloc_cfti>Frankfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Gera</desloc>
+      <lat_wgs84>50.868</lat_wgs84>
+      <lon_wgs84>12.1824</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080365.00</nloc_cfti>
+      <desloc_cfti>Gera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Guben</desloc>
+      <lat_wgs84>51.948</lat_wgs84>
+      <lon_wgs84>14.7039</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080367.00</nloc_cfti>
+      <desloc_cfti>Guben</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Halle</desloc>
+      <lat_wgs84>51.4916</lat_wgs84>
+      <lon_wgs84>11.9732</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080369.00</nloc_cfti>
+      <desloc_cfti>Halle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Nördlingen</desloc>
+      <lat_wgs84>48.8406</lat_wgs84>
+      <lon_wgs84>10.5184</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080378.00</nloc_cfti>
+      <desloc_cfti>Nördlingen</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Pegau</desloc>
+      <lat_wgs84>51.1699</lat_wgs84>
+      <lon_wgs84>12.237</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080381.00</nloc_cfti>
+      <desloc_cfti>Pegau</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Torgau</desloc>
+      <lat_wgs84>51.5642</lat_wgs84>
+      <lon_wgs84>13</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080387.00</nloc_cfti>
+      <desloc_cfti>Torgau</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Weimar</desloc>
+      <lat_wgs84>50.988</lat_wgs84>
+      <lon_wgs84>11.3369</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080390.00</nloc_cfti>
+      <desloc_cfti>Weimar</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Weissenfels</desloc>
+      <lat_wgs84>51.1961</lat_wgs84>
+      <lon_wgs84>11.9809</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080391.00</nloc_cfti>
+      <desloc_cfti>Weissenfels</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Wittenberg</desloc>
+      <lat_wgs84>51.8787</lat_wgs84>
+      <lon_wgs84>12.625</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080394.00</nloc_cfti>
+      <desloc_cfti>Wittenberg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Zittau</desloc>
+      <lat_wgs84>50.8525</lat_wgs84>
+      <lon_wgs84>14.8472</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Czechia</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01122</nterr>
+      <nloc_cfti>080395.00</nloc_cfti>
+      <desloc_cfti>Zittau</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di IV-V grado MCS $(095072)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

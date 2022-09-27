@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064050.00</nloc_cfti>
+      <desloc_cfti>Lattarico</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>39.4579</lat_wgs84>
+      <lon_wgs84>16.1347</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13002</nterr>
+      <nperiod>003029</nperiod>
+      <datanum>18871203</datanum>
+      <data_label>1887 12 03</data_label>
+      <anno>1887</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>03:45:00</time_label>
+      <ora>03</ora>
+      <minu>45</minu>
+      <sec>00</sec>
+      <lat>39.5644</lat>
+      <lon>16.2213</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>142</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni non molto gravi all’abitato: alcune case subirono lesioni più o meno estese, ma non furono ritenute pericolanti; soltanto 4 abitazioni risultarono danneggiate in modo grave: 2 furono fatte sgomberare e dovettero essere parzialmente demolite a causa delle deformazioni e strapiombi subiti dalle murature e degli avvallamenti e distacchi rilevati nei pavimenti; nelle altre 2 furono riscontrate forti lesioni e furono ritenuti necessari immediati lavori di riparazione. Il Genio civile stimò i danni a 49 abitazioni private in 16.926 lire circa. Subirono danni notevoli la chiesa parrocchiale di S.Nicola e la chiesa del convento dei Riformati. Nella prima, già da tempo in cattivo stato di conservazione, fu ritenuta necessaria la demolizione e la ricostruzione del muro dietro l’altare maggiore e di parte della soffitta; nella seconda, che funzionava da cappella del vicino cimitero, oltre a varie riparazioni minori, dovette essere demolita e ricostruita la parte superiore della facciata $(475071,465017)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto produsse danni. Furono demolite parzialmente 12 case, puntellate 34 e riparate 131. Danneggiata gravemente anche la chiesa dell’Immacolata e quella di San Nicola di Bari $(525295,635325,635327,635399)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>475071</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Cosenza, Prefettura, Affari diversi, cat.27, pacco 2572 (1887-1891), Relazione del Genio civile sui danni causati dal terremoto del 3 dicembre 1887 a Lattarico, San Martino di Finita e Cervicati, Cosenza 21 gennaio 1888.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>465017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Cosenza, Prefettura, Affari diversi, cat.27, pacco 2572 (1887-1891), Relazione sulle quote di sussidio spettanti ai comuni danneggiati dal terremoto del 3 dicembre 1887, Cosenza 16 febbraio 1890.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1890</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525295</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.3, b.20, fasc.25000.3.50 (1907-10), Terremoto 1905 ­ Stato dei lavori e situazione di spesa, Prefettura di Cosenza, Rendiconto generale delle somme erogate a favore dei danneggiati dal terremoto dell’8 settembre 1905, Cosenza 11 luglio 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635325</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.5, Telegramma del sindaco di Lattarico al papa Pio X, Lattarico 16 settembre 1905.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.5, Telegramma del parroco di Lattarico al papa Pio X, Lattarico 16 settembre 1905.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635399</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.7, Lettera del parroco della chiesa di S.Nicola di Bari di Lattarico Vincenzo Massari al papa Pio X, Lattarico 4 ottobre 1905.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

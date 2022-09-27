@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>32435</nterr>
+      <nperiod>000571</nperiod>
+      <datanum>19470611</datanum>
+      <data_label>1947 06 11</data_label>
+      <anno>1947</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>22:44</time_label>
+      <ora>22</ora>
+      <minu>44</minu>
+      <sec>-9</sec>
+      <lat>44.7649</lat>
+      <lon>8.7879</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>4</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.5</mm>
+      <earthquakelocation>Novi Ligure (AL)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>020300</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale di Vicenza, 1943-1982.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1943 - 1982</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale dell’Emilia, 1945-1953.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1945 - 1953</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691293</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere del Po, 1945 - 1951.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl></datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Novi Ligure</desloc>
+      <lat_wgs84>44.7649</lat_wgs84>
+      <lon_wgs84>8.7879</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>32435</nterr>
+      <nloc_cfti>008811.00</nloc_cfti>
+      <desloc_cfti>Novi Ligure</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Pavia</desloc>
+      <lat_wgs84>45.19</lat_wgs84>
+      <lon_wgs84>9.1597</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>32435</nterr>
+      <nloc_cfti>017853.00</nloc_cfti>
+      <desloc_cfti>Pavia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

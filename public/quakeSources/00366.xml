@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00366</nterr>
+      <nperiod>002099</nperiod>
+      <datanum>14130808</datanum>
+      <data_label>1413 08 08</data_label>
+      <anno>1413</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.333</lat>
+      <lon>11.333</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Siena</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Il Catalogo PFG (1985) elenca un terremoto datato 8 agosto 1413, con intensità epicentrale di grado VII MCS, localizzato a Siena. Il riferimento bibliografico utilizzato è Baratta (1901) $(000001)$, secondo cui a Siena caddero il palazzo di Montingegnoli e molte case.&lt;br&gt;Baratta utilizzò come riferimento bibliografico Soldani (1798, pp.56-57) $(350022)$. Quest’ultimo citava due diverse fonti per le proprie informazioni: le carte dell’Archivio dello Spedale, ora conservate all’Archivio di Stato di Siena, e il cronista senese cinquecentesco Sigismondo Tizio. Almeno per quanto si riferisce a quest’ultimo, si è potuto verificare che Soldani ha compiuto un errore di lettura della data del terremoto. Infatti, l’opera manoscritta di Sigismondo Tizio conservata in copia alla Biblioteca Apostolica Vaticana (Chigiani, G.I.31-35, G.II.36-40, cc.82v-83r) $(092019)$ data chiaramente il brano con le notizie del terremoto all’anno 1414. In effetti, lo stesso Soldani (1798) $(350022)$, in un passo successivo della sua opera (p.84), data correttamente al 1414 le scosse sentite a Siena, e oltre ai danni già segnalati a Montingegnoli, ricorda che il terremoto danneggiò anche i vicini paesi di Radicondoli e Belforte. Baratta (1901) $(000001)$, nella sua scheda sull’"evento" del 1413, cita anche Bonito (1691), e sostiene che quest’ultimo autore daterebbe questo terremoto al "1514"; si tratta in realtà di un refuso per "1414", infatti Bonito si riferisce al vero terremoto del 7 agosto 1414.&lt;br&gt;Si può pertanto affermare che l’evento datato 8 agosto 1413 è una duplicazione del terremoto avvenuto in realtà il 7 agosto 1414, e deve essere cancellato dal catalogo dei terremoti italiani. Alla stessa conclusione erano giunti anche Castelli et al. (1989) $(092092)$, Castelli (1991) $(092194)$ e Guidoboni e Comastri (2005) $(091411)$ nell’ambito dell’analisi del terremoto di area senese del 7 agosto 1414.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, G.I.31-35, G.II.36-40, Sigismondo Tizio, Historiarum Senensium [origini-1528], 10 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092092</codbib>
+      <autore1>Castelli V., Stucchi M. e Moriani A.</autore1>
+      <titolo1>Doubtful earthquakes and historical seismicity in Central Italy, in "Proceedings of the Symposium on calibration of historical earthquakes in Europe and recent developments in intensity interpretation", European Seismological Commission, Sofia, 23rd-28th August 1989, pp.155-67.</titolo1>
+      <luogoed>Madrid</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092194</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>La revisione dei maggiori terremoti medievali d’interesse per il territorio della Regione Toscana, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.47-58.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

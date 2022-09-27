@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080835.00</nloc_cfti>
+      <desloc_cfti>Savines-le-Lac</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.3995</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12128</nterr>
+      <nperiod>000731</nperiod>
+      <datanum>18841127</datanum>
+      <data_label>1884 11 27</data_label>
+      <anno>1884</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>22:15</time_label>
+      <ora>22</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.9346</lat>
+      <lon>6.6222</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>63</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu violenta $(050077)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31547</nterr>
+      <nperiod>003227</nperiod>
+      <datanum>19380718</datanum>
+      <data_label>1938 07 18</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>00:57</time_label>
+      <ora>00</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>44.5932</lat>
+      <lon>6.7347</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>260</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò fenditure negli edifici e il crollo di 5 camini $(050077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

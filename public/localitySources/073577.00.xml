@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073577.00</nloc_cfti>
+      <desloc_cfti>Abissinia</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.0489</lat_wgs84>
+      <lon_wgs84>12.6026</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il Genio civile visitò 24 abitazioni danneggiate, 5 delle quali furono dichiarate inabitabili; la documentazione consultata non specifica quali scosse causarono i danni $(391571)$. La casa dei fratelli Saponi fu tra le più danneggiate. Si riscontrarono lesioni ai muri esterni ed interni, cadute di soffitti, intonaci, comignoli, e sconnessioni dei tetti $(050399)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391571</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, b.1, Accertamenti dopo il terremoto 1916, Ufficio Speciale di Rimini per i lavori del terremoto, Elenco delle case visitate e di quelle dichiarate inabitabili in seguito ai danni subiti dal terremoto, Rimini 28 settembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

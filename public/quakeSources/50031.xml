@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50031</nterr>
+      <nperiod>005047</nperiod>
+      <datanum>-0430000</datanum>
+      <data_label>43 B. C. - -</data_label>
+      <anno>-43</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.896</lat>
+      <lon>12.4822</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Roma?</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Cassio Dione $(790008)$, storico greco del III secolo d.C., da considerare attendibile perché attingeva le sue informazioni da fonti fededegne. La localizzazione è desunta dal contesto: Cassio Dione non specifica che il terremoto si verificò a Roma e lo include genericamente in un contesto di prodigi avvenuti in quell’anno. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XIX secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Forte scossa sentita a Roma con grande panico manifestato dalla popolazione; non sono menzionati danni $(790008)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630165</codbib>
+      <autore1>Nissen H.</autore1>
+      <titolo1>Italische Landeskunde. I Land und Leute.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>790008</codbib>
+      <autore1>Dio Cassius Cocceianus</autore1>
+      <titolo1>Historia Romana, ed. E.Cary.</titolo1>
+      <luogoed>London-Cambridge (Mass.)</luogoed>
+      <datacompl>1914 - 1927</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>50031</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Forte scossa che causò panico alla popolazione; non sono menzionati danni $(790008)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

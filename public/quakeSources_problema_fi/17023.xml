@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>17023</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:20</time_label>
+      <ora>23</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.967</lat>
+      <lon>11.133</lon>
+      <rel>N</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita dalle "Notizie sui terremoti... 1899", curate da Cancani (1900) $(000008)$, e dai cataloghi di Cavasino (1935) $(050399)$ e di Peronaci (1974) $(130464)$.&lt;br&gt;Per integrare le informazioni disponibili è stata condotta una ricerca sulle fonti sismologiche e giornalistiche. Nell’Archivio dell’Ufficio Centrale di Ecologia Agraria sono state reperite e analizzate 114 cartoline macrosismiche, inviate da sindaci e osservatori locali all’Ufficio Centrale di Meteorologia e Geodinamica $(001327)$. È stato inoltre utilizzato il "Bollettino Mensuale" dell’Osservatorio di Moncalieri (1899) $(000078)$.&lt;br&gt;Ulteriori informazioni sugli effetti della scossa e sulle reazioni della popolazione sono state tratte dalla stampa quotidiana nazionale e locale; sono state complessivamente utilizzate 13 cronache giornalistiche afferenti a 9 testate $(052192,052193,052194,052195,052196,420379,600422,600423,672759,672760,672761,672762,690673)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C3</codtab>
+      <testocomm>Nelle fonti analizzate si fa più volte riferimento alla caduta di "volterrane": si tratta di un tipo di volta costruita con mattoni messi di taglio, caratteristica dell’architettura di Volterra $(001327)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>A Prato, la popolazione, presa da grande spavento, si riversò all’aperto per trascorrere la notte nelle piazze del Comune, del Duomo, Venti Settembre, Vittorio Emanuele e San Niccolò. A Tizzana alcune famiglie abbandonarono le abitazioni per trascorrere la notte in campagna. A Cantagallo, Vernio, Casellina e Torri la popolazione trascorse la notte all’aperto $(001327,050399,672760)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>Quasi ovunque la scossa fu preceduta da un rombo, di intensità variabile a seconda delle zone. A Prato e nei dintorni la scossa fu preceduta anche da un bagliore, dallo schiamazzo di uccelli e dall’abbaiare dei cani $(001327)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 27 giugno 1899 alle ore 23:17 GMT e colpì la zona pedeappenninica della Toscana centrale, al confine tra le province di Firenze e Pistoia. Gli effetti maggiori furono riscontrati in alcuni centri della valle del fiume Bisenzio: nei paesi di Cantagrilli, Cerbaia, Popigliano, Schignano e Usella vi furono notevoli danni nelle chiese e in varie ville di campagna. A Montemurlo alcuni edifici, anche ben costruiti, subirono gravi lesioni nei muri e molti altri furono lesionati in modo più leggero; caddero fumaioli e solai. A Prato vi furono leggere fenditure nei muri, caduta di calcinacci, di fumaioli, di alcuni solai; nella chiesa del Soccorso cadde una volta, nel palazzo Pretorio crollò un fumaiolo. Leggere lesioni nelle pareti e nei soffitti, caduta di alcuni comignoli e solai furono riscontrate in una decina di altre località.&lt;br&gt;La scossa fu avvertita fortemente, ma senza danni a Pistoia e a Firenze. L’area di risentimento si estese a quasi tutta la Toscana e a parte dell’Emilia.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale avvenne il 26 giugno 1899 alle ore 23:17 GMT; fu seguita da varie repliche leggere nella notte fra il 26 e il 27 giugno $(000008,050399)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.19.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Fieramosca, 1899.06.28.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052193</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Fieramosca, 1899.06.29.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052194</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1899.06.28.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052195</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1899.07.01.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052196</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Penna, 1899.07.02.</titolo1>
+      <luogoed>Pistoia</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052331</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Toscano, 1899.06.27.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052332</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Esare, 1899.06.28.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052333</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Garfagnana, 1899.06.29.</titolo1>
+      <luogoed>Castelnuovo di Garfagnana</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052334</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Operaio, 1899.06.29.</titolo1>
+      <luogoed>Prato</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410054</codbib>
+      <autore1>Mengozzi G.</autore1>
+      <titolo1>Cronache di Castrocaro e dintorni (dalle origini al 1920), 2ª ed.</titolo1>
+      <luogoed>Castel Bolognese</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420379</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1899.06.28.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600422</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.06.27-28.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600423</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.06.28-29.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672759</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.27, a.41, n.178.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672760</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.28, a.41, n.179.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672761</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.29-30, a.41, n.180-181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672762</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.30, a.41, n.181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690673</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1899.06.29, n.177.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

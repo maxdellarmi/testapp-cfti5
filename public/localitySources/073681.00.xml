@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073681.00</nloc_cfti>
+      <desloc_cfti>Tempio del Clitunno</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>42.8442</lat_wgs84>
+      <lon_wgs84>12.7575</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01656</nterr>
+      <nperiod>003091</nperiod>
+      <datanum>17300512</datanum>
+      <data_label>1730 05 12</data_label>
+      <anno>1730</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7533</lat>
+      <lon>13.1196</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>115</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>In seguito al terremoto cadde un pezzo del cornicione del lato meridionale del tempietto o chiesa di S.Salvatore $(095630)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095630</codbib>
+      <autore1>Venuti R.</autore1>
+      <titolo1>Osservazioni sopra il fiume Clitunno detto in oggi Le Vene situato tra Spoleto, e Fuligno. Del suo Culto, e Antichissimo Tempio, e dello stato suo presente.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1753</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

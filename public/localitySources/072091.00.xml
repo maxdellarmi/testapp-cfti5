@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072091.00</nloc_cfti>
+      <desloc_cfti>Malnome</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9812</lat_wgs84>
+      <lon_wgs84>11.4852</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34402</nterr>
+      <nperiod>002092</nperiod>
+      <datanum>19601029</datanum>
+      <data_label>1960 10 29</data_label>
+      <anno>1960</anno>
+      <mese>10</mese>
+      <giorno>29</giorno>
+      <time_label>00:08:39</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>39</sec>
+      <lat>43.9994</lat>
+      <lon>11.3851</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa avvenuta il 29 giugno 1919 alle 10.16 locali causò la caduta di calcinacci; in una vecchia casa si aprì una larga fenditura, che si richiuse al termine della scossa $(681104)$.&lt;br&gt;La scossa principale danneggiò gravemente tutte le abitazioni: non ci furono crolli totali, ma tutte le case divennero inabitabili; il forno fu danneggiato e divenne inutilizzabile. La popolazione fu alloggiata in baracche dove rimase per qualche anno. Una persona fu ferita dalla caduta di una pietra $(681104)$</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>681104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio privato Cecchini di Malnome di Vicchio, Memorie manoscritte della famiglia Cecchini relative al terremoto del 29 giugno 1919, sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

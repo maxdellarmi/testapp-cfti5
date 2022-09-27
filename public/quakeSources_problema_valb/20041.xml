@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>20041</nterr>
+      <nperiod>000384</nperiod>
+      <datanum>19060825</datanum>
+      <data_label>1906 08 25</data_label>
+      <anno>1906</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>03:11</time_label>
+      <ora>03</ora>
+      <minu>11</minu>
+      <sec>-9</sec>
+      <lat>44.8133</lat>
+      <lon>10.079</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>31</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000019</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1906, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.13 (1908-1909).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Interessi Cremonesi, 1882-1920.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1882 - 1920</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020130</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1885-1922.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1885 - 1922</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020231</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Torrazzo di Crema, 1899-1918.</titolo1>
+      <luogoed>Crema</luogoed>
+      <datacompl>1899 - 1918</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1891-1926.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1891 - 1926</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020309</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Vicenza, 1882-1927.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1882 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021243</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area Viadana. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071061</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Mantova, 1896-1919.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1896 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071063</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Mantova, 1904-1920.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1904 - 1920</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071066</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1866-1927.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1866 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071211</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1902-1968.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1902 - 1968</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340433</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1906.08.25.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Parma, 645/65, Osservazioni giornaliere dell’anno 1906.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1906</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420391</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1906.08.26.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600500</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1886-1907.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1886 - 1907</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1848-1929.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1848 - 1929</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1878-1970.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1878 - 1970</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771048</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Bergamo, 1880-1919.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1880 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771069</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Po. Gazzetta di Codogno e mandamenti limitrofi, 1885-1914.</titolo1>
+      <luogoed>Codogno</luogoed>
+      <datacompl>1885 - 1914</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780090</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Corriere di Padova, 1892-1919.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1892 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Noceto</desloc>
+      <lat_wgs84>44.8102</lat_wgs84>
+      <lon_wgs84>10.1795</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036498.00</nloc_cfti>
+      <desloc_cfti>Noceto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Salsomaggiore Terme</desloc>
+      <lat_wgs84>44.8164</lat_wgs84>
+      <lon_wgs84>9.9784</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036733.00</nloc_cfti>
+      <desloc_cfti>Salsomaggiore Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bardi</desloc>
+      <lat_wgs84>44.6312</lat_wgs84>
+      <lon_wgs84>9.7295</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035770.00</nloc_cfti>
+      <desloc_cfti>Bardi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Cannetolo</desloc>
+      <lat_wgs84>44.8843</lat_wgs84>
+      <lon_wgs84>10.145</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036193.00</nloc_cfti>
+      <desloc_cfti>Cannetolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Carpaneto Piacentino</desloc>
+      <lat_wgs84>44.916</lat_wgs84>
+      <lon_wgs84>9.7867</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034671.00</nloc_cfti>
+      <desloc_cfti>Carpaneto Piacentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Colorno</desloc>
+      <lat_wgs84>44.9303</lat_wgs84>
+      <lon_wgs84>10.3766</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036052.00</nloc_cfti>
+      <desloc_cfti>Colorno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fontanellato</desloc>
+      <lat_wgs84>44.8818</lat_wgs84>
+      <lon_wgs84>10.1717</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036200.00</nloc_cfti>
+      <desloc_cfti>Fontanellato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Piacenza</desloc>
+      <lat_wgs84>45.053</lat_wgs84>
+      <lon_wgs84>9.6923</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035341.00</nloc_cfti>
+      <desloc_cfti>Piacenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Soragna</desloc>
+      <lat_wgs84>44.9285</lat_wgs84>
+      <lon_wgs84>10.1237</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036800.00</nloc_cfti>
+      <desloc_cfti>Soragna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Zibello</desloc>
+      <lat_wgs84>45.0194</lat_wgs84>
+      <lon_wgs84>10.1309</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>037051.00</nloc_cfti>
+      <desloc_cfti>Zibello</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Fiorenzuola d'Arda</desloc>
+      <lat_wgs84>44.9291</lat_wgs84>
+      <lon_wgs84>9.9105</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034991.00</nloc_cfti>
+      <desloc_cfti>Fiorenzuola d’Arda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Agazzano</desloc>
+      <lat_wgs84>44.9471</lat_wgs84>
+      <lon_wgs84>9.5199</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034442.00</nloc_cfti>
+      <desloc_cfti>Agazzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bedonia</desloc>
+      <lat_wgs84>44.504</lat_wgs84>
+      <lon_wgs84>9.6284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035833.00</nloc_cfti>
+      <desloc_cfti>Bedonia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Berceto</desloc>
+      <lat_wgs84>44.5109</lat_wgs84>
+      <lon_wgs84>9.9886</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035889.00</nloc_cfti>
+      <desloc_cfti>Berceto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Borgo Val di Taro</desloc>
+      <lat_wgs84>44.4887</lat_wgs84>
+      <lon_wgs84>9.7665</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035943.00</nloc_cfti>
+      <desloc_cfti>Borgo Val di Taro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Borgonovo Val Tidone</desloc>
+      <lat_wgs84>45.0168</lat_wgs84>
+      <lon_wgs84>9.4438</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034592.00</nloc_cfti>
+      <desloc_cfti>Borgonovo Val Tidone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Calestano</desloc>
+      <lat_wgs84>44.6011</lat_wgs84>
+      <lon_wgs84>10.1216</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>036001.00</nloc_cfti>
+      <desloc_cfti>Calestano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Canneto sull'Oglio</desloc>
+      <lat_wgs84>45.1508</lat_wgs84>
+      <lon_wgs84>10.3787</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>019421.00</nloc_cfti>
+      <desloc_cfti>Canneto sull’Oglio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Casalmaggiore</desloc>
+      <lat_wgs84>44.9884</lat_wgs84>
+      <lon_wgs84>10.4205</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>018614.00</nloc_cfti>
+      <desloc_cfti>Casalmaggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Codogno</desloc>
+      <lat_wgs84>45.1613</lat_wgs84>
+      <lon_wgs84>9.7043</lon_wgs84>
+      <provlet>LO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>012992.00</nloc_cfti>
+      <desloc_cfti>Codogno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cortemaggiore</desloc>
+      <lat_wgs84>44.9963</lat_wgs84>
+      <lon_wgs84>9.9314</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034835.00</nloc_cfti>
+      <desloc_cfti>Cortemaggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Corteolona</desloc>
+      <lat_wgs84>45.157</lat_wgs84>
+      <lon_wgs84>9.3697</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>017480.00</nloc_cfti>
+      <desloc_cfti>Corteolona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cremona</desloc>
+      <lat_wgs84>45.1367</lat_wgs84>
+      <lon_wgs84>10.0236</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>018772.00</nloc_cfti>
+      <desloc_cfti>Cremona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ferriere</desloc>
+      <lat_wgs84>44.6454</lat_wgs84>
+      <lon_wgs84>9.4967</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>034937.00</nloc_cfti>
+      <desloc_cfti>Ferriere</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Lodi</desloc>
+      <lat_wgs84>45.315</lat_wgs84>
+      <lon_wgs84>9.5011</lon_wgs84>
+      <provlet>LO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>013310.00</nloc_cfti>
+      <desloc_cfti>Lodi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Montecchio Emilia</desloc>
+      <lat_wgs84>44.6995</lat_wgs84>
+      <lon_wgs84>10.4477</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>037615.00</nloc_cfti>
+      <desloc_cfti>Montecchio Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Peschiera Borromeo</desloc>
+      <lat_wgs84>45.4379</lat_wgs84>
+      <lon_wgs84>9.3293</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>013618.00</nloc_cfti>
+      <desloc_cfti>Peschiera Borromeo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rivergaro</desloc>
+      <lat_wgs84>44.9081</lat_wgs84>
+      <lon_wgs84>9.5972</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>035484.00</nloc_cfti>
+      <desloc_cfti>Rivergaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Stradella</desloc>
+      <lat_wgs84>45.0776</lat_wgs84>
+      <lon_wgs84>9.2981</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>018177.00</nloc_cfti>
+      <desloc_cfti>Stradella</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Viadana</desloc>
+      <lat_wgs84>44.9294</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20041</nterr>
+      <nloc_cfti>020194.00</nloc_cfti>
+      <desloc_cfti>Viadana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

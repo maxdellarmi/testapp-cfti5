@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022535.00</nloc_cfti>
+      <desloc_cfti>Cerea</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.2</maxint>
+      <lat_wgs84>45.1942</lat_wgs84>
+      <lon_wgs84>11.2131</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto fu di mediocre intensità e causò la caduta di fumaioli $(000578,020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita distintamente $(880013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00035</nterr>
+      <nperiod>000007</nperiod>
+      <datanum>11170103</datanum>
+      <data_label>1117 01 03</data_label>
+      <anno>1117</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3665</lat>
+      <lon>11.1673</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>55</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.2</intpqnum>
+      <intpq>B</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000578</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [54], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.201 (20 luglio 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880013</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1901.10.31/11.01.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040914</codbib>
+      <autore1>D’Arcais F. F.</autore1>
+      <titolo1>Per una lettura dell’architettura chiesastica nel territorio veronese, in "Chiese e Monasteri nel Territorio Veronese", a cura di G. Borelli.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380009</codbib>
+      <autore1>Arslan W.</autore1>
+      <titolo1>L’Architettura romanica veronese.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040970</codbib>
+      <autore1>Romanini A. M.</autore1>
+      <titolo1>L’arte romanica in Verona e il suo territorio.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040936</codbib>
+      <autore1>Bresciani B.</autore1>
+      <titolo1>Cerea, Casaleone, San Pietro di Morubio.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1957</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

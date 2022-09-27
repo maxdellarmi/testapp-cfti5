@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049134.00</nloc_cfti>
+      <desloc_cfti>Madonna della Stella</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.1</maxint>
+      <lat_wgs84>42.8562</lat_wgs84>
+      <lon_wgs84>12.684</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11132</nterr>
+      <nperiod>000724</nperiod>
+      <datanum>18780915</datanum>
+      <data_label>1878 09 15</data_label>
+      <anno>1878</anno>
+      <mese>09</mese>
+      <giorno>15</giorno>
+      <time_label>07:20</time_label>
+      <ora>07</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>42.8461</lat>
+      <lon>12.6762</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.1</imax>
+      <npun>34</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Clitunno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.1</intpqnum>
+      <intpq>C</intpq>
+      <D1>Una lettera inviata dall’arcivescovo di Spoleto al papa descrive quanto accaduto in questa località. Il Santuario subì notevoli danni alle navate laterali: fessure nelle volte degli altari e alcuni crolli parziali. Anche la navata centrale fu danneggiata. Caddero dorature, stucchi e capitelli. Quasi tutti gli affreschi furono danneggiati. L’immagine sacra della Madonna venerata nel santuario rimase illesa. La casa annessa al Santuario divenne inabitabile. Il 21 settembre 1878 fu necessario provvedere alla riparazione del tetto del Santuario per evitare che l’acqua peggiorasse i danni $(635639)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635639</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1878, rubrica 1, fasc.6, Lettera dell’arcivescovo di Spoleto Domenico Cavallini Spadoni al papa Leone XIII, Cingoli 21 settembre 1878.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1878</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

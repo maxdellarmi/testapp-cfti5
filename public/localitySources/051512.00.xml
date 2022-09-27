@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051512.00</nloc_cfti>
+      <desloc_cfti>Sant’Angelo</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.6758</lat_wgs84>
+      <lon_wgs84>13.2194</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37460</nterr>
+      <nperiod>003232</nperiod>
+      <datanum>19720205</datanum>
+      <data_label>1972 02 05</data_label>
+      <anno>1972</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>07:08:42</time_label>
+      <ora>07</ora>
+      <minu>08</minu>
+      <sec>42</sec>
+      <lat>43.656</lat>
+      <lon>13.3291</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>6</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Per i danni causati dalla scossa del 5 febbraio delle ore 7:08 GMT alcune case furono giudicate inabitabili $(060345)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060345</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1972.02.06, n.31.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1972</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072413.00</nloc_cfti>
+      <desloc_cfti>Molochiello</desloc_cfti>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>11</maxint>
+      <lat_wgs84>38.311</lat_wgs84>
+      <lon_wgs84>16.028</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02700</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830205</datanum>
+      <data_label>1783 02 05</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.2974</lat>
+      <lon>15.9703</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>357</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>11</intpqnum>
+      <intpq>XI</intpq>
+      <D1>Il terremoto del 5 febbraio 1783 fu catastrofico: causò la completa distruzione degli edifici $(680031,570001,300336,350217)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>570001</codbib>
+      <autore1>Sarconi M.</autore1>
+      <titolo1>Istoria de’ fenomeni del tremoto avvenuto nelle Calabrie, e nel Valdemone nell’anno 1783 posta in luce dalla Reale Accademia delle Scienze, e delle Belle Lettere di Napoli.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300336</codbib>
+      <autore1>De Dolomieu D.</autore1>
+      <titolo1>Memoria sopra i tremuoti della Calabria dell’anno 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1785</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350217</codbib>
+      <autore1>Botta V.C.</autore1>
+      <titolo1>Storia d’Italia continuata da quella del Guicciardini sino al 1789, 10 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081897</codbib>
+      <autore1>Galimi P.</autore1>
+      <titolo1>Lettera di Procopio Galimi al signor D.Giuseppe Vairo sui tremuoti di Calabria dell’anno 1783.</titolo1>
+      <luogoed>s.l.</luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

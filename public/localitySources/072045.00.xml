@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072045.00</nloc_cfti>
+      <desloc_cfti>Scaldino</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.3125</lat_wgs84>
+      <lon_wgs84>11.9535</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02562</nterr>
+      <nperiod>002049</nperiod>
+      <datanum>17810717</datanum>
+      <data_label>1781 07 17</data_label>
+      <anno>1781</anno>
+      <mese>07</mese>
+      <giorno>17</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.2665</lat>
+      <lon>11.9894</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>46</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 17 luglio causò fessure alle pareti della chiesa e della canonica; 3 case divennero inabitabile e 6 furono gravemente danneggiate $(673787)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>673787</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale II, 64 (Terremoti 1747-1834), b.1, n.2, Danni cagionati dai terremoti nella Provincia di Romagna, e nel Ducato d’Urbino nell’anno 1781, Perizia dei danni causati dal terremoto del 17 luglio 1781 nei paesi del territorio di Faenza redatta dai maestri muratori Domenico Menchini e Simone Menchini, Faenza 21 luglio 1781.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1781</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

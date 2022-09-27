@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>020545.99</nloc_cfti>
+      <desloc_cfti>La Valle</desloc_cfti>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>46.6585</lat_wgs84>
+      <lon_wgs84>11.9238</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09230</nterr>
+      <nperiod>000210</nperiod>
+      <datanum>18660811</datanum>
+      <data_label>1866 08 11</data_label>
+      <anno>1866</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.7375</lat>
+      <lon>10.797</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>33</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080208.00</nloc_cfti>
+      <desloc_cfti>Saint-Paul</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.5174</lat_wgs84>
+      <lon_wgs84>6.7495</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34010</nterr>
+      <nperiod>003123</nperiod>
+      <datanum>19590405</datanum>
+      <data_label>1959 04 05</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>10:48:00</time_label>
+      <ora>10</ora>
+      <minu>48</minu>
+      <sec>00</sec>
+      <lat>44.4884</lat>
+      <lon>6.7117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>65</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle dell’Ubaye</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Una parte della chiesa del capoluogo crollò; l’80% dei camini caddero; la cappella di Des Gleyzolles resa pericolante dalla scossa dovette essere demolita; gravi danni non meglio specificati si verificarono nei casali della Grand Serenne e della Petit Serenne $(050085)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

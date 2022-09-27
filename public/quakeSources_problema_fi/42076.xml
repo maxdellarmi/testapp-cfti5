@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42076</nterr>
+      <nperiod>009043</nperiod>
+      <datanum>17480725</datanum>
+      <data_label>1748 07 25</data_label>
+      <anno>1748</anno>
+      <mese>07</mese>
+      <giorno>25</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.1133</lat>
+      <lon>12.788</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Nocera Umbra (PG)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso. Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati oggetto di un rapporto inedito disponibile presso INGV (SGA 2000) $(021296)$.&lt;br&gt;L’evento era noto alla tradizione sismologica italiana, è infatti compreso nel repertorio di materiali raccolti dal conte Malvasia e pubblicati da De Rossi (1889) $(030123)$, che include anche uno spoglio delle antiche gazzette bolognesi. Il terremoto è segnalato nel numero del 13 agosto 1748 della gazzetta "Bologna" che riporta una corrispondenza da Roma datata 7 agosto $(070759)$. In modo pressoché identico il terremoto è descritto in una corrispondenza romana dell’8 agosto pubblicata nella "Gazzetta di Milano" del 21 agosto 1748 $(180178)$. In entrambe le corrispondenze il terremoto è ricordato, senza indicazione precisa della data, in concomitanza con una eclissi di sole. Questo evento astronomico ha permesso di datare il terremoto alla mattina del 25 luglio 1748 (Oppolzer 1887) $(093158)$.&lt;br&gt;Recentemente la notizia è stata ripresa da Camassi e Castelli (2005) in uno studio dedicato all’analisi delle fonti giornalistiche del Sei-Settecento $(051384)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Nocera Umbra faceva parte dello Stato Pontificio.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne nella mattina del 25 luglio 1748 e colpì Nocera Umbra, già gravemente danneggiata poco più di un anno prima dal terremoto del 17 aprile 1747. La scossa fu molto forte e causò qualche danno agli edifici; alcuni nobili e prelati romani che si trovavano a Nocera per le cure termali abbandonarono le abitazioni e si rifugiarono all’aperto.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051384</codbib>
+      <autore1>Camassi R. e Castelli V.</autore1>
+      <titolo1>Journalistic communication in the 17th-18th centuries and its influence on the completeness of parametric catalogues, in "Bollettino di Geofisica Teorica ed Applicata", vol.46 (2005), n.2-3, pp.99-110.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070759</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1748.08.13, n.33.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1748</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093158</codbib>
+      <autore1>Oppolzer Th.R. von</autore1>
+      <titolo1>Canon der Finsternisse ("Canon of eclipses", ristampa anastatica e traduzione inglese di O.Gingerich, New York-London 1962).</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1887</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180178</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1748.08.21, n.34.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1748</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Nocera Umbra</desloc>
+      <lat_wgs84>43.1133</lat_wgs84>
+      <lon_wgs84>12.788</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42076</nterr>
+      <nloc_cfti>049206.00</nloc_cfti>
+      <desloc_cfti>Nocera Umbra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto forte e causò qualche danno all’abitato, già gravemente danneggiato dal terremoto del 17 aprile 1747. Alcuni nobili e prelati romani che si trovavano a Nocera per le cure termali abbandonarono le abitazioni e si rifugiarono all’aperto $(070759,180178)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

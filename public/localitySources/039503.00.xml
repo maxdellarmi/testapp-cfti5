@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>039503.00</nloc_cfti>
+      <desloc_cfti>Tintoria</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.4096</lat_wgs84>
+      <lon_wgs84>11.0893</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Dai documenti del Genio Civile risulta che una casa fu danneggiata: furono rilevati danni al muro esterno del lato sud-ovest e lesioni di varia gravità nelle altre murature, il tetto e la grondaia risultarono dissestati $(391145)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391145</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.945 (1929), Terremoto nel bolognese del 1929, Comune di Castel di Serravalle, Liquidazione finale dei lavori, frazione Ponzano, località Tintoria.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

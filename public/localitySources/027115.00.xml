@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027115.00</nloc_cfti>
+      <desloc_cfti>Mogliano Veneto</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.5616</lat_wgs84>
+      <lon_wgs84>12.2342</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa, della durata di 15s, causò notevoli fenditure in alcune vecchie case; dopo 8 giorni crollò il tetto di un fienile $(000004,001321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu abbastanza forte e causò panico tra la popolazione $(000578,020717)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38902</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760506</datanum>
+      <data_label>1976 05 06</data_label>
+      <anno>1976</anno>
+      <mese>05</mese>
+      <giorno>06</giorno>
+      <time_label>20:00:13</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>13</sec>
+      <lat>46.235</lat>
+      <lon>13.0572</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>525</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Secondo l’Istituto Nazionale di Geofisica, l’intensità della scossa del 6 maggio fu del VII grado della scala MCS $(002151)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000578</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [54], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.201 (20 luglio 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020717</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Lettera del Sindaco di Mogliano Veneto A.Norno al Direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Mogliano Veneto 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002151</codbib>
+      <autore1>Gasparini C.</autore1>
+      <titolo1>Parametri ipocentrali dai dati macrosismici del terremoto del Friuli, Maggio 1976, in "Annali di Geofisica", vol.29 (1976), pp.159-64.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

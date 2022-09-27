@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072483.00</nloc_cfti>
+      <desloc_cfti>Santa Maria delle Grazie di Fornò</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.2289</lat_wgs84>
+      <lon_wgs84>12.1135</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00468</nterr>
+      <nperiod>003176</nperiod>
+      <datanum>14830811</datanum>
+      <data_label>1483 08 11</data_label>
+      <anno>1483</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>19:40</time_label>
+      <ora>19</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.1564</lat>
+      <lon>12.2293</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>14</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09548</nterr>
+      <nperiod>000714</nperiod>
+      <datanum>18701030</datanum>
+      <data_label>1870 10 30</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>18:34</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>-9</sec>
+      <lat>44.1334</lat>
+      <lon>12.0623</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>41</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa fece crollare il quattrocentesco campanile dell’ex monastero che, cadendo, causò a sua volta il crollo di buona parte del tempio annesso $(060310,071265,092003,745617)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060310</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta dell’Emilia, 1870.11.02, n.304.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1870</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092003</codbib>
+      <autore1>Guarini F.</autore1>
+      <titolo1>I terremoti a Forlì in varie epoche.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1880</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745617</codbib>
+      <autore1>Michez J.</autore1>
+      <titolo1>Sui recenti terremoti nella Romagna. Relazione della Commissione costituita dei signori senatore Scarabelli d’Imola, prof. Bombicci, dott. Palagi e dott. Michez, della Università, in "Gazzetta Ufficiale del Regno d’Italia", n.339, 10 dicembre 1870, pp.1-2.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1870</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Raccolta Piancastelli, O.IV.18, Cronaca Albertina, Miscellanea di cronache dei secc.XIV-XVI raccolte e copiate da B.Albicini (1720), copia A.Balducci 1807-1808.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1807 - 1808</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

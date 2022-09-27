@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080310.00</nloc_cfti>
+      <desloc_cfti>Koper</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.5405</lat_wgs84>
+      <lon_wgs84>13.7306</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>39414</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760915</datanum>
+      <data_label>1976 09 15</data_label>
+      <anno>1976</anno>
+      <mese>09</mese>
+      <giorno>15</giorno>
+      <time_label>09:21:18</time_label>
+      <ora>09</ora>
+      <minu>21</minu>
+      <sec>18</sec>
+      <lat>46.2587</lat>
+      <lon>13.1101</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>L’11 settembre, alle 18:37 (16:37 GMT), furono avvertite 2 scosse $(090503)$.&lt;br&gt;Le scosse del 15 settembre causarono panico nella popolazione $(090503)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>39344</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760911</datanum>
+      <data_label>1976 09 11</data_label>
+      <anno>1976</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>16:35:01</time_label>
+      <ora>16</ora>
+      <minu>35</minu>
+      <sec>01</sec>
+      <lat>46.273</lat>
+      <lon>13.1758</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>L’11 settembre, alle 18:37 (16:37 GMT), furono avvertite 2 scosse $(090503)$.&lt;br&gt;Le scosse del 15 settembre causarono panico nella popolazione $(090503)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31050</nterr>
+      <nperiod>003225</nperiod>
+      <datanum>19341130</datanum>
+      <data_label>1934 11 30</data_label>
+      <anno>1934</anno>
+      <mese>11</mese>
+      <giorno>30</giorno>
+      <time_label>02:58:23</time_label>
+      <ora>02</ora>
+      <minu>58</minu>
+      <sec>23</sec>
+      <lat>44.5562</lat>
+      <lon>13.7224</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>51</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di V grado della scala Mercalli $(000035)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090503</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA Documentazione Elettronica, Notiziario italiano, maggio-settembre 1976.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000035</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1934, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1937</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

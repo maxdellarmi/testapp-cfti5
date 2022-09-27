@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01529</nterr>
+      <nperiod>003090</nperiod>
+      <datanum>17241211</datanum>
+      <data_label>1724 12 11</data_label>
+      <anno>1724</anno>
+      <mese>12</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.1891</lat>
+      <lon>10.9956</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Colline Metallifere</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo costituita dalla relazione di Soldani (1798) $(350022)$, fonte remota di Baratta (1901) $(000001)$, integrata da un manoscritto anonimo del XIX secolo, conservato presso la Biblioteca Marucelliana di Firenze $(350241)$. Entrambe queste relazioni derivano da una fonte manoscritta coeva, allo stato attuale non reperibile. È stata vagliata anche la revisione scientifica di Spadea et al. (1985).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto causò gravi danni in alcune località (Travale, Fosini, Montingegnoli) situate nell’area delle Colline Metallifere a sud-ovest di Siena. Danni leggeri furono rilevati a Siena $(350022)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090416</codbib>
+      <autore1>Benucci V.</autore1>
+      <titolo1>Notizie relative ai terremoti dal 1294 al 1900 del territorio senese, in Id., "Siena città di terremoti? Rispondono la storia, la letteratura e la scienza", pp.216-223.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092167</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Travale earthquake of December 1724, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, p.163.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350241</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Marucelliana di Firenze, Manoscritti, D.9/18, Parallelo dei tremuoti di Napoli e di Siena, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Travale</desloc>
+      <lat_wgs84>43.1673</lat_wgs84>
+      <lon_wgs84>11.0073</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>01529</nterr>
+      <nloc_cfti>048271.00</nloc_cfti>
+      <desloc_cfti>Travale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di 26 case e della chiesa principale e gravi lesioni alle restanti abitazioni, senza danni alle persone. È ricordata come la località più danneggiata $(350022)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Fosini</desloc>
+      <lat_wgs84>43.1729</lat_wgs84>
+      <lon_wgs84>10.937</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01529</nterr>
+      <nloc_cfti>072580.00</nloc_cfti>
+      <desloc_cfti>Fosini</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò gravi danni alle chiese e alle abitazioni $(350022)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Montingegnoli</desloc>
+      <lat_wgs84>43.2271</lat_wgs84>
+      <lon_wgs84>11.0425</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>01529</nterr>
+      <nloc_cfti>072143.00</nloc_cfti>
+      <desloc_cfti>Montingegnoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò gravi danni alle chiese e alle abitazioni $(350022)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01529</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò in generale leggeri danni in città, con lesioni a qualche camino e l’apertura di fenditure in alcuni muri; in particolare, nel convento dei Padri Carmelitani Scalzi $(350022,350241)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

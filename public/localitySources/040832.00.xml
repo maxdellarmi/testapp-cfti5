@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040832.00</nloc_cfti>
+      <desloc_cfti>Lagosanto</desloc_cfti>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.7632</lat_wgs84>
+      <lon_wgs84>12.1394</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa, quasi insensibile, fu avvertita dalle persone in stato di quiete $(110453)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa fu avvertita ad pochi, sia in casa che all’aperto, con vibrazioni di porte e finestre, leggera oscillazione di oggetti sospesi e blocco di orologi a pendolo $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30221</nterr>
+      <nperiod>000532</nperiod>
+      <datanum>19310327</datanum>
+      <data_label>1931 03 27</data_label>
+      <anno>1931</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>02:46:57</time_label>
+      <ora>02</ora>
+      <minu>46</minu>
+      <sec>57</sec>
+      <lat>44.8212</lat>
+      <lon>11.7641</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>7</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Ferrarese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa durò circa 5s $(000004,001321)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110453</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.151, Cartolina macrosismica relativa al terremoto del 16 gennaio 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Lagosanto 16 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

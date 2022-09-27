@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044733.00</nloc_cfti>
+      <desloc_cfti>San Giovanni Maggiore</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9756</lat_wgs84>
+      <lon_wgs84>11.3973</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 29 giugno 1919 causò gravi danni a molte case coloniche, alcune delle quali crollarono; solo 2-3 rimasero abitabili; vi furono 2 feriti $(020031)$. La pieve fu danneggiata: furono rilevati danni alla parte superiore della facciata; la loggia frontale, aggiunta nei primi anni del Novecento, si staccò notevolmente dal corpo del fabbricato; nell’interno, il soffitto a cassettoni risultò sconnesso, l’intradosso dell’arco trionfale e le volte degli archi lesionate. I danni più gravi furono comunque rilevati nel campanile: mentre le possenti murature del basamento, a base quadrata, e del primo ordine di monofore non presentavano lesioni, all’altezza del secondo ordine si aprirono crepe e spaccature che partivano da sopra gli archivolti delle monofore ramificandosi lungo le pareti esterne ottagonali e in quelle interne cilindriche; fu inoltre rilevata una lesione elicoidale che saliva lungo tre degli otto lati raggiungendo il terzo ordine di monofore e la cella campanaria, che risultava fortemente sconnessa e pericolante $(020054)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò gravi danni alle case e 8 morti $(030110)$. Danneggiato anche il campanile $(350117)$ ed aperta la chiesa $(130413)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Una lettera de la discriptione del Terremotto che è stato in Toscana, la qual narra particolarmente tutte le terre che son ruinate &amp; le persone morte, &amp; li fuochi apparsi in aere, &amp; la terra ap[er]ta, &amp; de un Lago fatto di acqua spuzolente di Solfere, la quantità, e il numero delle Case ruinate le qualcose furno a dì III Luio MDXXXXII.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Carte Strozziane, serie I, 353, cc.104-105, Nota d’un Tremoto venuto nel Mugello sotto dì 12 di giugno lo anno 1542, e le rovine da quello fatte.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130413</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Corporazioni Religiose (Patrimonio Ecclesiastico), vol.270 F, cc.98-99, Resoconto del padre S.Vongeschi di Cutigliano sul terremoto del Mugello del 13 giugno 1542, giugno 1542.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020031</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1919.07.03, a.61, n.184.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero del Mugello, 1919.08.10, a.37, n.32.</titolo1>
+      <luogoed>Borgo San Lorenzo</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060772.00</nloc_cfti>
+      <desloc_cfti>Pignano</desloc_cfti>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>40.8735</lat_wgs84>
+      <lon_wgs84>14.6181</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Danni a molte case $(021078,310141)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Casale della "terra" di Lauro. Il terremoto causò danni gravi in numerose abitazioni $(030067)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relatione dello spaventoso, e funesto Terremoto accaduto in Napoli, e parte del suo Regno, il giorno 8 Settembre 1694. Dove si dà raguaglio delli danni, che il medesimo hà caggionato in molte parti del Regno. Et in particolare nelle tré Provincie di Principato Citra, Ultra, e Basilicata. Con il danno notabilissimo delle medesime, restando numero grande delle sue Terre intieramente distrutte. Con il numero de’ morti, che nelle medesime sono restati sotto delle Pietre.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera fedele, e distintissima relazione di tutti i danni, così delle fabriche come delle Persone morte per cagione dell’occorso Terremoto accaduto alli 5 di Giugno 1688, tanto in questa Città di Napoli, quanto nel suo Regno.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310141</codbib>
+      <autore1>Magnati V.</autore1>
+      <titolo1>Notitie istoriche de’ terremoti succeduti ne’ secoli trascorsi, e nel presente.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

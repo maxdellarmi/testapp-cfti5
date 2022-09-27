@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42022</nterr>
+      <nperiod>009052</nperiod>
+      <datanum>12551117</datanum>
+      <data_label>1255 11 17</data_label>
+      <anno>1255</anno>
+      <mese>11</mese>
+      <giorno>17</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.1877</lat>
+      <lon>15.5493</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Messina</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso, ma non è del tutto ignoto agli studi sismologici; è citato infatti nel catalogo di Evangelatou-Notara (1993) $(130706)$ e nello studio sui terremoti medievali della Sicilia di Guidoboni e Traina (1997) $(190098)$. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte è costituita da una notula in margine al codice 103 (fol.55v) della Biblioteca Universitaria di Messina, proveniente dal monastero del SS.Salvatore di Messina, pubblicata in Evangelatou-Notara (1984) $(130703)$. Questa notula riporta la notizia generica di un terremoto molto forte avvenuto un mercoledì 17 della quattordicesima indizione, periodo corrispondente all’arco cronologico 1º settembre 1255 ­ 31 agosto 1256. Nella notula non vi sono espliciti elementi utili per la localizzazione dell’evento; si può ipotizzare tuttavia, sulla base della provenienza del manoscritto, che il terremoto abbia colpito Messina. Per quanto riguarda la datazione occorre rilevare che nell’arco cronologico coperto dalla quattordicesima indizione (1 settembre 1255-31 agosto 1256) solo il 17 novembre 1255 e il 17 maggio 1256 cadevano di mercoledì.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 17 novembre 1255, o il 17 maggio 1256, verso le 10:00 UT (l’ora "quinta", secondo il computo delle ore canoniche) un terremoto molto forte, definito "grande e spaventoso", colpì probabilmente Messina; non sono riportate informazioni sugli effetti.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051424</codbib>
+      <autore1>Comastri A. e Mariotti D.</autore1>
+      <titolo1>I terremoti e i maremoti dello Stretto di Messina dal mondo antico alla fine del XX secolo: descrizioni e parametri, in "Il terremoto e il maremoto del 28 dicembre 1908: analisi sismologica, impatto, prospettive, a cura di G.Bertolaso, E.Boschi, E.Guidoboni e G.Valensise, DPC-INGV, pp.215-254.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2008</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091334</codbib>
+      <autore1>Valensise G. e Guidoboni E.</autore1>
+      <titolo1>Towards new research strategies: silent seismogenic areas or silent sources?, in Catalogue of Strong Italian Earthquakes from 461 B.C. to 1997, ed. E.Boschi, E.Guidoboni, G.Ferrari, D.Mariotti, G.Valensise and P.Gasperini, "Annali di Geofisica", vol.43, n.4, pp.797-812.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130703</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notula sul terremoto del 17 novembre 1255 o 17 maggio 1256, in F.Evangelatou-Notara, "Raccolta di note datate dei manoscritti greci del XIII secolo" (in greco), n.203, p.63.</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1984</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130706</codbib>
+      <autore1>Evangelatou-Notara F.</autore1>
+      <titolo1>I terremoti di Bisanzio dal 13º secolo al 15º. Ricerca storica (in greco).</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190098</codbib>
+      <autore1>Guidoboni E. e Traina G.</autore1>
+      <titolo1>Earthquakes in medieval Sicily. A historical revision (7th-13th century), in "Annali di Geofisica", vol.39, pp.1201-1225.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1997</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Messina</desloc>
+      <lat_wgs84>38.1877</lat_wgs84>
+      <lon_wgs84>15.5493</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>42022</nterr>
+      <nloc_cfti>066973.00</nloc_cfti>
+      <desloc_cfti>Messina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Un terremoto molto forte, definito "grande e spaventoso", colpì probabilmente la città; non sono riportate informazioni sugli effetti $(130703)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>059970.00</nloc_cfti>
+      <desloc_cfti>Barano d’Ischia</desloc_cfti>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.7095</lat_wgs84>
+      <lon_wgs84>13.9188</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11516</nterr>
+      <nperiod>000726</nperiod>
+      <datanum>18810304</datanum>
+      <data_label>1881 03 04</data_label>
+      <anno>1881</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>12:15</time_label>
+      <ora>12</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.7476</lat>
+      <lon>13.895</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>22</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Furono lesionati parecchi edifici, tra cui il municipio $(001328,052489,051320,030604)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11949</nterr>
+      <nperiod>000730</nperiod>
+      <datanum>18830728</datanum>
+      <data_label>1883 07 28</data_label>
+      <anno>1883</anno>
+      <mese>07</mese>
+      <giorno>28</giorno>
+      <time_label>20:25</time_label>
+      <ora>20</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>40.7398</lat>
+      <lon>13.8714</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>32</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò gravi lesioni nel municipio, nella chiesa di S.Rocco e in alcuni palazzi signorili; il campanile risultò sbilanciato $(001330,340115)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001328</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Il terremoto di Casamicciola del 4 marzo 1881 esaminato sul luogo, in "Bullettino del Vulcanismo Italiano", a.8, pp.5-12 + 2 tav. f.t.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052489</codbib>
+      <autore1>Guiscardi G.</autore1>
+      <titolo1>Il terremoto di Casamicciola del 4 marzo 1881, in "Atti dell’Accademia Pontaniana", vol.14, pp.253-259 + 1 tav. f.t.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051320</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Sulla natura del terremoto ischiano del 28 luglio 1883, in "Rendiconti del Regio Istituto Lombardo di Scienze e Lettere", s.II, vol.17, pp.842-856.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1884</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030604</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti dell’isola d’Ischia, in "Atti della Società Italiana di Scienze Naturali", vol.24, fasc.1, pp.20-37.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001330</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Raccolta di fatti, relazioni, bibliografie sul terremoto di Casamicciola del 28 Luglio 1883 con brevi osservazioni, in "Bullettino del Vulcanismo Italiano", a.11, pp.65-131.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1884</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340115</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1883.08.04-05.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062580.00</nloc_cfti>
+      <desloc_cfti>Francavilla Fontana</desloc_cfti>
+      <provlet>BR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>7</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.53</lat_wgs84>
+      <lon_wgs84>17.5833</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò qualche danno agli edifici $(310011)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05993</nterr>
+      <nperiod>000176</nperiod>
+      <datanum>18330119</datanum>
+      <data_label>1833 01 19</data_label>
+      <anno>1833</anno>
+      <mese>01</mese>
+      <giorno>19</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.4</lat>
+      <lon>19.4</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>7</imax>
+      <npun>11</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32473</nterr>
+      <nperiod>001040</nperiod>
+      <datanum>19471006</datanum>
+      <data_label>1947 10 06</data_label>
+      <anno>1947</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>19:55:36</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>36</sec>
+      <lat>36.717</lat>
+      <lon>21.783</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4.5</imax>
+      <npun>33</npun>
+      <mm>0</mm>
+      <earthquakelocation>Grecia meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Greece</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, durata 15s in due fasi, fu avvertita da pochissime persone; tremarono leggermente gli infissi e i piccoli oggetti $(000021)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di II grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(145255)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò danni gravi: molte abitazioni crollarono totalmente o furono gravemente danneggiate e rese inabitabili; ci furono una decina di morti (nelle fonti la cifra varia da 7 a 11). Subì danni gravissimi la chiesa collegiata di cui crollarono totalmente il campanile, il coro e il presbiterio e il resto dell’edificio fu lesionato così gravemernte da risultare irreparabile. Crollarono in gran parte le chiese di S.Biagio, S.Francesco e S.Eligio; la chiesa del Salvatore crollò totalmente. Il santuario di Maria SS. della Croce subì danni notevoli alla chiesa e al convento che dovettero essere consolidati con l’apposizione di numerose catene di ferro. Fu danneggiato il convento dei Cappuccini la cui chiesa fu resa pericolante anche a causa di cattive fondazioni. Le Scuole pie e il monastero di S.Chiara risultarono lesionati; il monastero di S.Carlo subì danni non gravi che furono prontamente riparati. Crollò il piano superiore del palazzo Imperiali, gravi danni subirono il piano inferiore e le scuderie; cadde il camminamento coperto che collegava il palazzo al convento dei Cappuccini. Il palazzo Marucci fu gravemente danneggiato e dovette essere ricostruito in gran parte. Crollò l’arco della porta Roccella (detta anche di S.Carlo) $(030879,030900,030901,110116,110161,110183,130130,310004,310011,310037,410377,560223,692042,900365)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030879</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Capitolare della chiesa Collegiata di Francavilla Fontana, Libro dei morti grandi della chiesa Collegiata di Francavilla Fontana, 1740-1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1740 - 1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030900</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Capitolare della chiesa Collegiata di Francavilla Fontana, Suppliche e proteste, cart. unica, 7, Supplica del capitolo e del clero della chiesa Collegiata di Francavilla Fontana alla Sacra Congregazione dei Vescovi e Regolari, Francavilla Fontana 29 marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030901</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Capitolare della chiesa Collegiata di Francavilla Fontana, Suppliche e proteste, cart. unica, 7, Testimonianza giurata del mastro muratore Antonio Candida al vicario foraneo di Francavilla Fontana, Francavilla Fontana 11 giugno 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110116</codbib>
+      <autore1>Palumbo P.</autore1>
+      <titolo1>Storia di Francavilla Fontana, 2 voll.</titolo1>
+      <luogoed>Noci</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110161</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata a sinistra dell’altare maggiore del Duomo di Francavilla Fontana in memoria della ricostruzione dell’edificio danneggiato dal terremoto del 20 febbraio 1743 (1760), Archivi Fotografici SGA.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1760</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110183</codbib>
+      <autore1>Argentina F.</autore1>
+      <titolo1>L’onomastica stradale di Francavilla Fontana.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1954</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Ruote, Consultationum, vol.200, Consulta della Regia Camera della Sommaria al presidente della Giunta di Marina Michele Reggio, Napoli 30 maggio 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310004</codbib>
+      <autore1>Coco A.P.</autore1>
+      <titolo1>La città di Francavilla Fontana nella luce della storia. Fonti materiali e studi per la storia nostrana.</titolo1>
+      <luogoed>Taranto</luogoed>
+      <datacompl>1941</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310011</codbib>
+      <autore1>Coco A.P.</autore1>
+      <titolo1>Il santuario di S.Maria della Croce presso Francavilla Fontana: appunti e documenti.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310037</codbib>
+      <autore1>Argentina N.</autore1>
+      <titolo1>Culto e chiesa di Maria della Fontana dalle origini al secentenario (1310-1910).</titolo1>
+      <luogoed>Taranto</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410377</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Memoriali e biglietti, vol.93, Relazione della Segreteria di Stato su una supplica dell’abadessa e delle monache del monastero di S.Carlo di Francavilla Fontana al papa Benedetto XIV, Roma 26 marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560223</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Lettera del preside e dei membri della Regia Udienza di Lecce al consigliere di Stato duca di Salas, Lecce 1º marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata nella facciata del palazzo Marucci di Francavilla Fontana in memoria della riparazione dell’edificio danneggiato dal terremoto del 20 febbraio 1743, in F.Argentina, "L’onomastica stradale di Francavilla Fontana", p.59.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1954</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900365</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Arcivescovile "A.De Leo" di Brindisi, s.s., Francesco Saverio Leo, Raccolta di molte memorie trovate scritte e notate in diversi libri ed in questo da me trascritti nel 1792.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1792</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095103</codbib>
+      <autore1>De Simone E.</autore1>
+      <titolo1>Vicende sismiche salentine.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

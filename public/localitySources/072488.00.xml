@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072488.00</nloc_cfti>
+      <desloc_cfti>Pondo</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9464</lat_wgs84>
+      <lon_wgs84>11.9259</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01026</nterr>
+      <nperiod>003082</nperiod>
+      <datanum>16610322</datanum>
+      <data_label>1661 03 22</data_label>
+      <anno>1661</anno>
+      <mese>03</mese>
+      <giorno>22</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0218</lat>
+      <lon>11.8979</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>79</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò il crollo di alcune case e di parte della rocca; tutte le altre abitazioni furono danneggiate. Ci furono alcune vittime $(300131,470005)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00804</nterr>
+      <nperiod>003180</nperiod>
+      <datanum>15840910</datanum>
+      <data_label>1584 09 10</data_label>
+      <anno>1584</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>20:30</time_label>
+      <ora>20</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.8626</lat>
+      <lon>11.9916</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>17</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa principale causò il crollo di una abitazione e la morte di una persona $(775034)$. Una violenta replica avvenuta il 16 settembre alle ore 10:55 GMT ca. (ore 17 italiane) causò il crollo di 6 case, probabilmente già gravemente danneggiate dalla scossa precedente, e la morte di 4 persone $(775042)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>300131</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera relatione e ragguaglio dato con lettere del spaventoso terremoto successo in Romagna il dì 22 marzo 1661.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1661</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470005</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera relatione, e ragguaglio dato con littere del spaventoso Terremoto successo in Romagna il dì 22 Marzo 1661.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1661</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo del Principato, filza 769, Lettera del cancelliere di Galeata Baccio Francolini al fratello Giovanni Francolini relativa ai danni causati dal terremoto del 10 settembre 1584, Galeata 14 settembre 1584.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1584</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo del Principato, filza 769, Lettera del cancelliere di Galeata Baccio Francolini al cognato Benedetto Maccanti relativa ai danni causati dal terremoto del 10 settembre 1584, Galeata 16 settembre 1584.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1584</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relatione dello spaventoso Terremoto, sentitosi li 22 Marzo 1661 in Romagna, dove distintamente si descrivono le particolarità delle Case ruinate, morti, e feriti, &amp; altri danni da quello causati; diligentemente il tutto raccolto da persone, che furono presenti.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1661</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395433</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 48/I, Niccolò Tosetti, Storia delle cose della città di Faenza dall’anno 1601 sino a tutto il 1661 inclusive scritta di Niccolò Tosetti faentino contemporaneo, in "Annali della città di Faenza, tratti per lo più da croniche contemporanee. Raccolta fatta da me Giovanni Battista Borsieri nel 1767", vol.1, copia G.Ballanti, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

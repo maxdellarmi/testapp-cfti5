@@ -1,0 +1,250 @@
+<script src="js/MapLayers_Strum.js"></script>
+<script src="js/toggleWMS.js"></script>
+<script src="slider/nouislider.js"></script>
+<link rel="stylesheet" href="slider/nouislider.css" />
+<script>
+    $( function() {
+        $( ".datepicker" ).datepicker({
+            dateFormat: "yy-mm-dd",
+            minDate: '1985-01-01',
+            maxDate: '0',
+            changeMonth: false,
+            changeYear: false
+        });
+
+    })
+</script>
+
+
+
+
+<!--   ====================================      OVERLAYS MAP    ======================================    -->
+
+<div id="WMSlayersIcon">
+    <abbr id="abbrWMSlayers"><a href="#"><img src="images/layersWMS.png" height="29px"></a></abbr>
+</div>
+<div id="warningWMS">
+    <a href="#" id="closeWMSwarning"></a>
+    <span id="warningWMSsentence"></span>
+</div>
+
+<div id="refDISS">
+    <a href="#" id="closeDISSref"></a>
+    <span id="refDISSsentence"></span>
+</div>
+
+
+
+<div id="WMS">
+    <a href="#" id="WMSclose"></a><div id="titlelayer"></div>
+    <div id="layers">
+    	 <p> <input type="checkbox" onClick="ToggleLayer0();" name="COM"><span id="confCom"></span> (<a href="https://www.istat.it/it/archivio/124086" target="_blank">ISTAT</a>)
+  		  <br>
+
+  	  <input type="checkbox" onClick="ToggleLayer1();" name="PROV"><span id="confProv"></span> (<a href="https://www.istat.it/it/archivio/124086" target="_blank">ISTAT</a>)
+  		  <br>
+
+  	  <input type="checkbox" onClick="ToggleLayer2();" name="REG"><span id="confReg"></span> (<a href="https://www.istat.it/it/archivio/124086" target="_blank">ISTAT</a>)
+  		 <br></p>
+
+  	  <p><input type="checkbox" onClick="ToggleLayer3();" name="IGM25" id="IGM25" disabled ><span id="TopoIGM25"></span> (<a href="http://www.pcn.minambiente.it/mattm/servizio-wms/" onerror="displayWMSerror()" target="_blank">PCN</a>)
+  		  <br>
+
+  	  <input type="checkbox" onClick="ToggleLayer4();" name="IGM100" id="IGM100" disabled><span id="TopoIGM100"></span> (<a href="http://www.pcn.minambiente.it/mattm/servizio-wms/" target="_blank">PCN</a>)
+  		  <br></p>
+
+  	  <p><input type="checkbox" onClick="ToggleLayer6();" name="ISS"><abbr title="Database of Individual Seismogenic Sources vers. 3.2.1 &#013;&#013;DISS Working Group (2018). Database of Individual Seismogenic Sources (DISS), Version 3.2.1: A compilation of potential sources for earthquakes larger than M 5.5 in Italy and surrounding areas. http://diss.rm.ingv.it/diss/, Istituto Nazionale di Geofisica e Vulcanologia; DOI:10.6092/INGV.IT-DISS3.2.1"><a href="http://diss.rm.ingv.it/diss/" target="_blank">DISS 3.2.1</abbr> <a href="http://diss.rm.ingv.it/diss/index.php/help/15-individual-seismogenic-sources" target="_blank">Individual Seismogenic Sources</a> (<a href="http://www.seismofaults.eu/index.php/services/diss-services/diss-321-services" target="_blank">INGV</a>)
+  	      <br>
+
+  	  <input type="checkbox" onClick="ToggleLayer7();" name="CSS"><abbr title="Database of Individual Seismogenic Sources vers. 3.2.1 &#013;&#013;DISS Working Group (2018). Database of Individual Seismogenic Sources (DISS), Version 3.2.1: A compilation of potential sources for earthquakes larger than M 5.5 in Italy and surrounding areas. http://diss.rm.ingv.it/diss/, Istituto Nazionale di Geofisica e Vulcanologia; DOI:10.6092/INGV.IT-DISS3.2.1"><a href="http://diss.rm.ingv.it/diss/" target="_blank">DISS 3.2.1</abbr> <a href="http://diss.rm.ingv.it/diss/index.php/help/16-composite-seismogenic-source" target="_blank">Composite Seismogenic Sources</a> (<a href="http://www.seismofaults.eu/index.php/services/diss-services/diss-321-services" target="_blank">INGV</a>)
+  	      <br>
+
+  	  <input type="checkbox" onClick="ToggleLayer8();" name="CSS"><abbr title="Database of Individual Seismogenic Sources vers. 3.2.1 &#013;&#013;DISS Working Group (2018). Database of Individual Seismogenic Sources (DISS), Version 3.2.1: A compilation of potential sources for earthquakes larger than M 5.5 in Italy and surrounding areas. http://diss.rm.ingv.it/diss/, Istituto Nazionale di Geofisica e Vulcanologia; DOI:10.6092/INGV.IT-DISS3.2.1"><a href="http://diss.rm.ingv.it/diss/" target="_blank">DISS 3.2.1</abbr> <a href="http://diss.rm.ingv.it/diss/index.php/help/58-definition-of-subduction-source" target="_blank">Subduction Zones</a> (<a href="http://www.seismofaults.eu/index.php/services/diss-services/diss-321-services" target="_blank">INGV</a>)
+  	      <br></p>
+
+  	   <p><input type="checkbox" onClick="ToggleLayer9();" name="GEO100"><span id="Geomap"></span> (<a href="http://sgi.isprambiente.it/geoportal/catalog/content/OGC/wmservice.page" target="_blank">ISPRA</a>)
+  		<br></p>
+
+		<p><span id="FranelayerTitle"></span></abbr> (<a href="http://www.pcn.minambiente.it/mattm/servizio-wms/" target="_blank">PCN</a>) - <a href="#" id="open_FraneLegend" style="vertical-align:middle;" > <span id="FranelayerLegTitle"></span></a><br>
+  	  <input type="checkbox" onClick="ToggleLayer11a();" name="FL" id="FL"><span id="FraneLin"></span><br>
+  	  <input type="checkbox" onClick="ToggleLayer11b();" name="FP" id="FP"><span id="FranePol"></span><br>
+  	  <input type="checkbox" onClick="ToggleLayer11c();" name="FD" id="FD"><span id="FraneDiff"></span><br>
+  	  <input type="checkbox" onClick="ToggleLayer11d();" name="DGPV" id="DGPV"><span id="FraneDGPV"></span><br>
+
+  	<br></p>
+
+    </div>
+</div>
+
+<div id="WindowlegendaFrane" class="ui-widget-content">
+    <a href="#" id="LEGWMSclose"></a>
+
+	<div id="dragpartLegFrane" onmouseover="$( '#WindowlegendaFrane' ).draggable('enable');" onmouseout="$( '#WindowlegendaFrane' ).draggable('disable');">
+    </div>
+	<div id="legendFrane" onmouseover="$( '#WindowlegendaFrane' ).draggable('disable');">
+	</div>
+</div>
+
+
+
+
+<!-- ================================ GOOGLE SEARCH BAR   ================================   -->
+
+<!-- <div id="GoogleSearch"> -->
+<!--    <input id="pac-input" type="text" placeholder="Search (GoogleMaps)" class="SearchBoxGoogle">-->
+<!-- </div> -->
+
+<script>
+    var input = document.getElementById('pac-input');
+    // alert('tuttook')
+    var options = {
+      types: ['(regions)'],
+      componentRestrictions: {country: 'it'}
+    };
+
+    // alert(options)
+    var searchBox = new google.maps.places.SearchBox(input, options);
+
+    var markers = [];
+    // Listen for the event fired when the user selects a prediction and retrieve
+    // more details for that place.
+    searchBox.addListener('places_changed', function() {
+      var places = searchBox.getPlaces();
+
+      if (places.length == 0) {
+        return;
+      }
+
+      // Clear out the old markers.
+      markers.forEach(function(marker) {
+        marker.setMap(null);
+      });
+      markers = [];
+
+      // For each place, get the icon, name and location.
+      var bounds = new google.maps.LatLngBounds();
+      places.forEach(function(place) {
+        if (!place.geometry) {
+          console.log("Returned place contains no geometry");
+          return;
+        }
+        var icon = {
+          url: place.icon,
+          size: new google.maps.Size(71, 71),
+          origin: new google.maps.Point(0, 0),
+          anchor: new google.maps.Point(17, 34),
+          scaledSize: new google.maps.Size(25, 25),
+
+        };
+
+        // Create a marker for each place.
+        markers.push(new google.maps.Marker({
+          map: map,
+          icon: icon,
+          title: place.name,
+          position: place.geometry.location,
+          visible: false,
+        }));
+
+        if (place.geometry.viewport) {
+          // Only geocodes have viewport.
+          bounds.union(place.geometry.viewport);
+        } else {
+          bounds.extend(place.geometry.location);
+        }
+      });
+      map.fitBounds(bounds);
+      //map.setZoom(6);
+    });
+</script>
+
+
+
+
+
+
+
+
+<!--    ======================================       SISMICITA' STRUMENTALE       ======================================-->
+
+<div id="STRUMeqIcon">
+    <abbr id="STRUMeqtitle"><a href="#"><img src="images/STRUMeq_icon.png" height="30px"></a></abbr>
+</div>
+<div id="STRUMeqMenu">
+    <div id="titleSTRUM"></div><a href="#" id="STRUMclose"></a>
+    <div id="STRUMmenuContent">
+
+
+        <div id="periodSTRUM" class="TitleMenuSTRUM"></div>
+        <div class="inputdiv"><label id="fromDateSTRUM">Dal </label> <input type="text" id="StartDateSTRUM" class="datepicker"><label id="toDateSTRUM"> al </label> <input type="text" id="StopDateSTRUM" class="datepicker"></div><br>
+
+        <div class="TitleMenuSTRUM" id="CoordSTRUM">Area</div>
+        <div class="inputdiv">
+            <label>Lat.</label> <input type="text" id="StartLatSTRUM" size="4px" maxlength="5" onchange="resizeRectSTRUM()"> <label>-</label> <input type="text" id="StopLatSTRUM" size="4px" maxlength="5" onchange="resizeRectSTRUM()">
+            <label> Lon.</label> <input type="text" id="StartLonSTRUM" size="4px" maxlength="5" onchange="resizeRectSTRUM()"> <label>-</label> <input type="text" id="StopLonSTRUM" size="4px" maxlength="5" onchange="resizeRectSTRUM()">
+            <div id="selAreaSTRUM" onclick="CreateRectSTRUM();"><abbr id="selAreaAbbrSTRUM"><img src="./images/area_selection.png" width = "25px" ></abbr></div>
+            <div id="NoselAreaSTRUM"><img src="./images/area_selection_gray.png" width = "25px" ></div><br>
+        </div>
+
+
+
+        <div id="magSTRUM" class="TitleMenuSTRUM"></div>
+        <div class="inputdiv"><label id="fromMMSTRUM">Min. </label> <input type="text" id="StartMagSTRUM" size="5px" maxlength="4"/>
+        <label id="toMMSTRUM">Max. </label><input type="text" id="StopMagSTRUM" size="5px;" maxlength="4"/><div id="sliderMSTRUM"></div></div>
+
+        <div id="depSTRUM" class="TitleMenuSTRUM"></div>
+        <div class="inputdiv"><label id="fromDDSTRUM">Min. </label> <input type="text" id="StartDepSTRUM" size="5px" maxlength="4"/>
+        <label id="toDDSTRUM">Max. </label><input type="text" id="StopDepSTRUM" size="5px" maxlength="4"/><div id="sliderDSTRUM"></div></div>
+
+
+
+
+        <div id="resultSTRUM">
+
+            <abbr class="OKbutton" title=""><input type="button" id="FilterByKindSTRUM" value="OK" onclick="$('#loading').show(); getSTRUMeq(document.getElementById('StartDateSTRUM').value, document.getElementById('StopDateSTRUM').value, document.getElementById('StartLatSTRUM').value, document.getElementById('StopLatSTRUM').value, document.getElementById('StartLonSTRUM').value, document.getElementById('StopLonSTRUM').value, document.getElementById('StartMagSTRUM').value, document.getElementById('StopMagSTRUM').value, document.getElementById('StartDepSTRUM').value, document.getElementById('StopDepSTRUM').value)"/></abbr>
+            <div id="numSTRUM"></div>
+            <div id="warningSTRUM"></div>
+        </div>
+
+        <div id="legSTRUM" class="TitleLegendSTRUM"></div>
+        <table id="legendSTRUM">
+            <tr>
+                <td class="empty"></td>
+                <td class="legSTRUMcol">
+                    <img src="images/strum_quake_icon_blue5.png" height="30px">
+                </td>
+                <td class="legSTRUMcol">
+                    <img src="images/strum_quake_icon_blue4.png" height="23px">
+                </td>
+                <td class="legSTRUMcol">
+                    <img src="images/strum_quake_icon_blue3.png" height="17px">
+                </td>
+                <td class="legSTRUMcol">
+                    <img src="images/strum_quake_icon_blue2.png" height="13px">
+                </td>
+                <td class="legSTRUMcol">
+                    <img src="images/strum_quake_icon_blue1.png" height="8px">
+                </td>
+            </tr>
+            <tr>
+                <td class="legSTRUMcol">Mag.</td>
+                <td class="legSTRUMcol"> &ge;6</td>
+                <td class="legSTRUMcol">5.9-5</td>
+                <td class="legSTRUMcol">4.9-4</td>
+                <td class="legSTRUMcol">3.9-3</td>
+                <td class="legSTRUMcol"> &#60;3</td>
+
+
+            </tr>
+        </table>
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+</div>

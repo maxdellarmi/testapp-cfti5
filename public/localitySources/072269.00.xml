@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072269.00</nloc_cfti>
+      <desloc_cfti>Torre di Fortore</desloc_cfti>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9.1</maxint>
+      <lat_wgs84>41.9173</lat_wgs84>
+      <lon_wgs84>15.3</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00928</nterr>
+      <nperiod>001033</nperiod>
+      <datanum>16270730</datanum>
+      <data_label>1627 07 30</data_label>
+      <anno>1627</anno>
+      <mese>07</mese>
+      <giorno>30</giorno>
+      <time_label>10:50</time_label>
+      <ora>10</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>41.7381</lat>
+      <lon>15.3419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>64</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.1</intpqnum>
+      <intpq>A</intpq>
+      <D1>La scossa causò il crollo di gran parte della fortezza; causando la morte di diverse persone $(680048,900053,030728,000003)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680048</codbib>
+      <autore1>Molin D. e Margottini C.</autore1>
+      <titolo1>Il terremoto del 1627 nella Capitanata settentrionale, in "Contributo alla caratterizzazione della sismicità del terremoto italiano". Memorie presentate al Convegno annuale del Progetto Finalizzato "Geodinamica" del C.N.R. sul tema: "Sismicità dell’Italia: stato delle conoscenze scientifiche e qualità della normativa sismica", Udine 12-14 maggio 1981. Commissione ENEA-ENEL per lo studio dei problemi sismici connessi con la realizzazione di impianti nucleari, pp.251-279.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Lettera di Giovan Jacono Cerqua, Lucera 8 agosto 1627, in G.Mercalli, Ragguaglio del terremoto successo in Puglia a’ 30 luglio 1627, "Archivio Storico per le Province Napoletane", a.22, fasc.1, pp.120-123.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030728</codbib>
+      <autore1>De Poardi G.V.</autore1>
+      <titolo1>Nuova relatione del grande e spaventoso terremoto successo nel Regno di Napoli, nella Provincia di Puglia, in Venerdì li 30 luglio 1627.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1627</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

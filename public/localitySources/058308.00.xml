@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058308.00</nloc_cfti>
+      <desloc_cfti>Castelpizzuto</desloc_cfti>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>41.5215</lat_wgs84>
+      <lon_wgs84>14.2918</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò danni diffusi non meglio specificati $(035052)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04869</nterr>
+      <nperiod>003104</nperiod>
+      <datanum>18050726</datanum>
+      <data_label>1805 07 26</data_label>
+      <anno>1805</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5009</lat>
+      <lon>14.4738</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>220</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>36</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto causò danni gravissimi all’abitato: diverse case crollarono e le rimanenti rimasero gravemente danneggiate $(900345,090410)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>900345</codbib>
+      <autore1>Poli G.S.</autore1>
+      <titolo1>Memoria sul tremuoto de’ 26 luglio del corrente anno 1805.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090410</codbib>
+      <autore1>Esposito E., Laurelli L. e Porfido S.</autore1>
+      <titolo1>Il terremoto del 26 luglio 1805. Lo scenario dei danni nella città di Isernia.</titolo1>
+      <luogoed>Isernia</luogoed>
+      <datacompl>1992</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820054</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Riviste sismiche e quadri sinottici delle osservazioni sui fenomeni endogeni col confronto di altri fenomeni [1 aprile 1882 ­ 30 giugno 1883], in "Bullettino del Vulcanismo Italiano", a.10, pp.145-174, 177-267.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1883</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

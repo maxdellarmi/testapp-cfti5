@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051185.00</nloc_cfti>
+      <desloc_cfti>Attiggio</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.3062</lat_wgs84>
+      <lon_wgs84>12.9195</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01800</nterr>
+      <nperiod>003094</nperiod>
+      <datanum>17410424</datanum>
+      <data_label>1741 04 24</data_label>
+      <anno>1741</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4262</lat>
+      <lon>13.0046</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>87</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò il crollo di un casino di campagna $(020547,395361)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020547</codbib>
+      <autore1>Sassi R.</autore1>
+      <titolo1>Documenti fabrianesi sul terremoto del 1741, in "Studia Picena", vol.17 (1942), pp.139-160.</titolo1>
+      <luogoed>Fano</luogoed>
+      <datacompl>1942</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395361</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Gli effetti dei terremoti del 1741, 1747, 1751 sul territorio della Comunità Montana dell’alta Valle dell’Esino, OGS Macerata.</titolo1>
+      <luogoed>Fabriano</luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

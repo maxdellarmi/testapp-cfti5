@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073647.00</nloc_cfti>
+      <desloc_cfti>Dismano</desloc_cfti>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.2372</lat_wgs84>
+      <lon_wgs84>10.9234</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00367</nterr>
+      <nperiod>003338</nperiod>
+      <datanum>14140803</datanum>
+      <data_label>1414 08 03</data_label>
+      <anno>1414</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>17:35</time_label>
+      <ora>17</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>43.9326</lat>
+      <lon>10.6096</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>6</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Secondo uno storico locale dell’inizio dell’Ottocento crollò in parte la torre del castello, causando gravi danni ai fabbricati sottostanti $(385824)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00318</nterr>
+      <nperiod>000048</nperiod>
+      <datanum>13990720</datanum>
+      <data_label>1399 07 20</data_label>
+      <anno>1399</anno>
+      <mese>07</mese>
+      <giorno>20</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4425</lat>
+      <lon>10.9243</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>440113</codbib>
+      <autore1>Banorri A.</autore1>
+      <titolo1>Montese e suo territorio.</titolo1>
+      <luogoed>Formigine</luogoed>
+      <datacompl>2000</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385824</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del gruppo culturale "il Trebbo" di Montese, Pellegrino Giacobazzi, Storia del territorio di Montese, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

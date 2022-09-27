@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>019901.00</nloc_cfti>
+      <desloc_cfti>Quistello</desloc_cfti>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>45.0072</lat_wgs84>
+      <lon_wgs84>10.9827</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV-V grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35633</nterr>
+      <nperiod>000632</nperiod>
+      <datanum>19670403</datanum>
+      <data_label>1967 04 03</data_label>
+      <anno>1967</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>16:36:18</time_label>
+      <ora>16</ora>
+      <minu>36</minu>
+      <sec>18</sec>
+      <lat>44.7272</lat>
+      <lon>10.5904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>47</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40436</nterr>
+      <nperiod>000934</nperiod>
+      <datanum>19781225</datanum>
+      <data_label>1978 12 25</data_label>
+      <anno>1978</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>22:53:41</time_label>
+      <ora>22</ora>
+      <minu>53</minu>
+      <sec>41</sec>
+      <lat>44.8457</lat>
+      <lon>10.9899</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>28</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Bassa mantovana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa, di entità moderata, fu avvertita con spavento dalla popolazione e causò danni alla chiesa che fu chiusa al culto $(071122,071123,000581)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>071122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1971.07.16.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071123</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1971.07.17.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

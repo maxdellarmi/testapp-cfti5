@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>047372.00</nloc_cfti>
+      <desloc_cfti>Eremo di Camaldoli</desloc_cfti>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.8112</lat_wgs84>
+      <lon_wgs84>11.8162</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23794</nterr>
+      <nperiod>002075</nperiod>
+      <datanum>19110326</datanum>
+      <data_label>1911 03 26</data_label>
+      <anno>1911</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>20:20:50</time_label>
+      <ora>20</ora>
+      <minu>20</minu>
+      <sec>50</sec>
+      <lat>43.8112</lat>
+      <lon>11.8162</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>8</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Eremo di Camaldoli (AR)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

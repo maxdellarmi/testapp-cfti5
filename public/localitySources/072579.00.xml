@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072579.00</nloc_cfti>
+      <desloc_cfti>La Magione</desloc_cfti>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.5934</lat_wgs84>
+      <lon_wgs84>12.089</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01199</nterr>
+      <nperiod>003086</nperiod>
+      <datanum>16950611</datanum>
+      <data_label>1695 06 11</data_label>
+      <anno>1695</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>42.6254</lat>
+      <lon>12.1074</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>37</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Lazio settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Località della diocesi di Bagnorea infeudata ai cavalieri dell’ordine di Malta; contava 12 fuochi per 60 abitanti. Il terremoto causò il crollo di un quarto delle case; morirono o furono ferite poche persone $(095671)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095671</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Viterbo, II.E.1.20, Registro di lettere ed informazioni scritto per affari ed interessi dell’Ill.ma Città di Viterbo, Relazione del vescovo di Bagnorea Vincenzo degli Atti al segretario di Stato cardinale Spada sui danni causati dal terremoto dell’11 giugno 1695, Bagnorea 22 giugno 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

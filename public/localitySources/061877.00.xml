@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>061877.00</nloc_cfti>
+      <desloc_cfti>San Mango Piemonte</desloc_cfti>
+      <provlet>SA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>40.704</lat_wgs84>
+      <lon_wgs84>14.8336</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni rilevanti: in tutto il territorio comunale le unità edilizie danneggiate più o meno gravemente furono 288; le persone rimaste senzatetto furono 327 (25%) su un totale di 1317 abitanti. Furono danneggiate le chiese di S.Maria e di S.Nicola $(052281)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052281</codbib>
+      <autore1>Ministero per i Beni Culturali e Ambientali ­ Soprintendenza generale agli interventi post-sismici in Campania e Basilicata</autore1>
+      <titolo1>Dopo la polvere. Rilevazione degli interventi di recupero post-sismico del patrimonio archeologico, architettonico ed artistico delle regioni Campania e Basilicata danneggiato dal terremoto del 23 novembre 1980 e del 14 febbraio 1981 (anni 1985-1989), a cura di G.Proietti, 5 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

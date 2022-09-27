@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017027.00</nloc_cfti>
+      <desloc_cfti>Vallio Terme</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.6105</lat_wgs84>
+      <lon_wgs84>10.3922</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20018</nterr>
+      <nperiod>000383</nperiod>
+      <datanum>19060802</datanum>
+      <data_label>1906 08 02</data_label>
+      <anno>1906</anno>
+      <mese>08</mese>
+      <giorno>02</giorno>
+      <time_label>03:48</time_label>
+      <ora>03</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>45.5523</lat>
+      <lon>10.3609</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>16</npun>
+      <mm>4</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

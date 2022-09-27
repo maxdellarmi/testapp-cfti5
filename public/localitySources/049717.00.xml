@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049717.00</nloc_cfti>
+      <desloc_cfti>Valle San Martino</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>42.6218</lat_wgs84>
+      <lon_wgs84>12.7234</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04275</nterr>
+      <nperiod>003099</nperiod>
+      <datanum>17851009</datanum>
+      <data_label>1785 10 09</data_label>
+      <anno>1785</anno>
+      <mese>10</mese>
+      <giorno>09</giorno>
+      <time_label>03:15</time_label>
+      <ora>03</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>42.5367</lat>
+      <lon>12.7879</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>33</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Umbria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Danni a tre case $(092154)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092154</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti umbri del 1785, in "Rivista Geografica Italiana", vol.3, pp.288-295.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

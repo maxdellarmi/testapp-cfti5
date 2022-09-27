@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062675.00</nloc_cfti>
+      <desloc_cfti>Castrignano del Capo</desloc_cfti>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>39.8337</lat_wgs84>
+      <lon_wgs84>18.3482</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36369</nterr>
+      <nperiod>000656</nperiod>
+      <datanum>19690403</datanum>
+      <data_label>1969 04 03</data_label>
+      <anno>1969</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>22:12:22</time_label>
+      <ora>22</ora>
+      <minu>12</minu>
+      <sec>22</sec>
+      <lat>40.483</lat>
+      <lon>19.95</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>5</imax>
+      <npun>46</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò gravemente la chiesa parrocchiale di S.Michele Arcangelo, che già prima si trovava in precarie condizioni statiche. Fu in particolare rilevata un’estesa lesione nell’arco maggiore e varie sconnessioni nella facciata. L’edificio fu ritenuto inagibile e chiuso al culto $(082616,082617,082618,300056,300057)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>082616</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Castrignano del Capo, Atti diversi (1600-1800), Ordinanza del vicario generale della diocesi di Alessano Ignazio Orlandi all’arciprete e al vicario foraneo di Castrignano del Capo, Alessano 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082617</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Castrignano del Capo, Atti diversi (1600-1800), Relazione dell’arciprete Giovanni Patese e del vicario foraneo Liborio Marzo al vicario generale della diocesi di Alessano sullo stato della chiesa parrocchiale di San Michele Arcangelo, Castrignano del Capo 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082618</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Castrignano del Capo, Atti diversi (1600-1800), Decreto del vicario generale della diocesi di Alessano Ignazio Orlandi per la chiusura della chiesa parrocchiale di S.Michele Arcangelo di Castrignano del Capo, Alessano 23 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300056</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Castrignano del Capo, Atti diversi (1600-1800), Memoriale del sindaco di Castrignano del Capo Alessandro Marzo al vicario generale della diocesi di Alessano, Alessano 22 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300057</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Castrignano del Capo, Libro dei battezzati 1705-1780.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria di Roma, Tabella riassuntiva delle cartoline macrosismiche riguardanti il terremoto del 3 aprile 1969 pervenute all’Ufficio Centrale di Meteorologia e di Ecologia Agraria di Roma, aprile-giugno 1969.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030422</codbib>
+      <autore1>Magri G. e Molin D.</autore1>
+      <titolo1>The earthquake of December 1456 in Central-Southern Italy, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.20-23.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692040</codbib>
+      <autore1>Figliuolo B.</autore1>
+      <titolo1>Il terremoto napoletano del 1456, il mito, in "Quaderni Storici ­ Terremoti e storia", a cura di E.Guidoboni, n.s., n.60, a.20, fasc.3, pp.771-801.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

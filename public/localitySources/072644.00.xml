@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072644.00</nloc_cfti>
+      <desloc_cfti>Monte Tauro</desloc_cfti>
+      <provlet>SR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>37.2705</lat_wgs84>
+      <lon_wgs84>15.2143</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Secondo uno studio macrosismico condotto dall’Istituto Nazionale di Geofisica, basato su questionari e sopralluoghi tecnici, gli effetti sono stati stimati di un’intensità di VI grado MCS $(035058)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035058</codbib>
+      <autore1>De Rubeis V., Gasparini C., Maramai A. e Anzidei A.</autore1>
+      <titolo1>Il terremoto siciliano del 13 dicembre 1990, in "Contributi allo studio del terremoto della Sicilia orientale del 13 dicembre 1990", a cura di E.Boschi e A.Basili, ING, pubblicazione n.537, pp.9-44.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

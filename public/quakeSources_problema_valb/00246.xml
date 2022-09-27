@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00246</nterr>
+      <nperiod>000038</nperiod>
+      <datanum>13530300</datanum>
+      <data_label>1353 03 -</data_label>
+      <anno>1353</anno>
+      <mese>03</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.5</lat>
+      <lon>11.5</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Il Catalogo PFG (1985) elenca un terremoto datato marzo 1353, con intensità epicentrale di grado VII MCS, localizzato in Romagna. Il riferimento bibliografico utilizzato da questo catalogo è Baratta (1901) $(000001)$. Questo autore sostiene che agli inizi di marzo in Romagna ci sarebbero state fortissime scosse. Questo "evento" era entrato a far parte della tradizione dei cataloghi sismici già a partire da Perrey (1848) $(050007)$, secondo il quale questo terremoto si sarebbe esteso dalla Romagna (Italia) fino a Costantinopoli (Turchia); successivamente fu elencato in Mallet (1853-1855) $(060028)$ e Mercalli (1883) $(000002)$. La fonte alla quale tutti i precedenti cataloghi citati (direttamente o indirettamente) attingevano era una sola, ossia la cronaca di Matteo Villani $(680011)$ (morto nel 1363), continuatore della cronaca del fratello Giovanni.&lt;br&gt;La notizia di un terremoto in Romagna si basa però su un fraintendimento del termine "Romania/Romagna", usato da Villani, che in questo contesto designa l’impero bizantino e non la regione italiana omonima. Inoltre, tutti i cataloghi, non considerando l’uso dello stile di datazione detto "incarnazione fiorentina", retrodatano perciò di un anno l’evento. Il 1º marzo 1354, infatti, un violentissimo terremoto colpì la regione del Mar di Marmara, nell’odierna Turchia nord-occidentale. Questo terremoto è attestato, oltre che da Villani, da numerose fonti bizantine ed è analizzato in Guidoboni e Comastri (2005) $(091411)$.&lt;br&gt;Si può pertanto concludere che nel marzo 1353, o meglio nel marzo 1354, non è avvenuto alcun terremoto in Italia e che la scossa riportata dal Catalogo PFG (1985) non va localizzata nella regione italiana della Romagna, bensì nella regione del Mar di Marmara; pertanto l’evento è stato cancellato dal catalogo dei terremoti dell’area italiana. Alla stessa conclusione erano giunti anche Bellettati et al. (1993) $(095046)$ e Guidoboni e Comastri (2005) $(091411)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095046</codbib>
+      <autore1>Bellettati D., Camassi R. e Molin D.</autore1>
+      <titolo1>Fake quakes in Italy through parametric catalogues and seismological compilations: case histories and typologies, in "Terra Nova", vol.5, pp.488-495.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680011</codbib>
+      <autore1>Villani Matteo</autore1>
+      <titolo1>Cronica, con la continuazione di Filippo Villani, ed. G.Porta, 2 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

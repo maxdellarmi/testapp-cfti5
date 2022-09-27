@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080111.00</nloc_cfti>
+      <desloc_cfti>La Chaux-de-Fonds</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>47.103</lat_wgs84>
+      <lon_wgs84>6.8302</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto fu di mediocre intensità e provocò l’arresto di alcuni orologi $(146026)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>146026</codbib>
+      <autore1>Forel F.-A.</autore1>
+      <titolo1>Sur les effets du tremblement de terre du 23 février 1887 dans la Suisse orientale, in "Comptes Rendus de l’Académie des Sciences", vol.104 (gennaio-giugno 1887), pp.608-610.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1887</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

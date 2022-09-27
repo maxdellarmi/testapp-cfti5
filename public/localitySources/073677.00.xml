@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073677.00</nloc_cfti>
+      <desloc_cfti>La Spiazza</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.9737</lat_wgs84>
+      <lon_wgs84>12.837</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04615</nterr>
+      <nperiod>003286</nperiod>
+      <datanum>17911011</datanum>
+      <data_label>1791 10 11</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.9508</lat>
+      <lon>12.8611</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>54</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Località del territorio di Foligno. L’architetto Neri nel corso della sua perizia visitò un casino signorile, nel quale riscontrò gravi sconnessioni nel "palombaro", che doveva essere demolito; doveva inoltre essere ricostruito un muro del granaio, completamente scollegato dalle altre pareti, che a loro volta avrebbero dovute essere rinforzate con una catena di ferro e con la costruzione di 2 speroni. Nell’interno dell’edificio principale dovevano essere ricostruite le volte della galleria, della chiesa e di una stanza, che erano cadute, così come 3 pareti divisorie, 3 architravi e la cappa di un camino. Dovevano, inoltre, essere demolite 2 capanne annesse all’edificio, rese inservibili. Per questi lavori fu stimata necessaria la spesa di 239,70 scudi $(395944)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395944</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Foligno, Priorale, serie VII (Corrispondenza e carte diverse), cat.IV (Lettere e carte diverse), b.796, fasc. "1791 ­ Perizie, Fogli e Lettere risguardanti le spese a cagione del Terremoto seguito in Ottobre detto Anno", Perizia dei danni causati dal terremoto dell’11 ottobre 1791 nei castelli e nelle ville del territorio di Foligno redatta dall’architetto Filippo Neri, Foligno 19 novembre 1791.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1791</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

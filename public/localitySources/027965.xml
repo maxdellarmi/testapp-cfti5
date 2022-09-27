@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027965</nloc_cfti>
+      <desloc_cfti>Eraclea (Grisolera)</desloc_cfti>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>2</maxint>
+      <lat_wgs84>45.578</lat_wgs84>
+      <lon_wgs84>12.6739</lon_wgs84>
+      <notesito>Già Grisolera, assunse la denominazione attuale il 4 novembre 1950.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16153</nterr>
+      <nperiod>000743</nperiod>
+      <datanum>18970715</datanum>
+      <data_label>1897 07 15</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>05:57</time_label>
+      <ora>05</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>46.0588</lat>
+      <lon>14.5032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>53</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa, della durata di 1s, fu avvertita molto leggermente da pochi in quiete $(000006)$. Non si avvertirono rumori sotterranei $(001323)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001323</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche relative al terremoto del 15 luglio 1897 pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

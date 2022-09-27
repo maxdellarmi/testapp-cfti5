@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>15894</nterr>
+      <nperiod>003214</nperiod>
+      <datanum>18970116</datanum>
+      <data_label>1897 01 16</data_label>
+      <anno>1897</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:10</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>10</sec>
+      <lat>44.65</lat>
+      <lon>11.833</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Argenta (FE)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>L’unico riferimento bibliografico del Catalogo PFG (1985) è costituito dalle "Notizie sui terremoti... 1897" curate da Agamennone (1897-1898) $(000006)$, che però non menzionano questa scossa. Ugualmente negativa è risultata la verifica effettuata sul catalogo di Baratta (1901) $(000001)$.&lt;br&gt;È stata riscontrata una coincidenza di data e ora con il terremoto avvenuto, in realtà, il 16 gennaio 1898 (si veda in questo catalogo). Si tratta di una duplicazione di quell’evento dovuta a un refuso nella data dell’anno del Catalogo PFG. Questo terremoto è stato pertanto eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

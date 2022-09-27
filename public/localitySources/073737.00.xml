@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073737.00</nloc_cfti>
+      <desloc_cfti>Cerreta</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>43.9036</lat_wgs84>
+      <lon_wgs84>11.9449</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02196</nterr>
+      <nperiod>003098</nperiod>
+      <datanum>17681019</datanum>
+      <data_label>1768 10 19</data_label>
+      <anno>1768</anno>
+      <mese>10</mese>
+      <giorno>19</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.9401</lat>
+      <lon>11.9007</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>45</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Podere compreso nella parrocchia di Crocedevoli. Il terremoto fece crollare le abitazioni $(130458)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130458</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Montegranelli, Pietro Antonio Sampaoli, Memorie storiche, ms. sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

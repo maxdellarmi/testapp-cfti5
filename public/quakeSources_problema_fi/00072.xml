@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00072</nterr>
+      <nperiod>003001</nperiod>
+      <datanum>11840524</datanum>
+      <data_label>1184 05 24</data_label>
+      <anno>1184</anno>
+      <mese>05</mese>
+      <giorno>24</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>39.3951</lat>
+      <lon>16.1933</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>6</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6.7</mm>
+      <earthquakelocation>Valle del Crati</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 24 maggio 1184 un terremoto colpì in modo distruttivo alcuni centri della valle del fiume Crati, nella Calabria settentionale. A Cosenza e Bisignano il terremoto causò dei crolli nelle rispettive cattedrali. Subirono distruzioni anche le abbazie della Sambucina e di Matina; crollarono le mura del borgo fortificato di San Lucido. Fu danneggiato inoltre il monastero benedettino di S.Maria di Valle Josaphat, menzionato in un diploma regio di Guglielmo II il Buono (1166-1189) del 1185: nei crolli era andato perduto un documento che attestava un privilegio concesso in precedenza da Ruggero II. Questo monastero, ora conosciuto come S.Maria di Monte Persano, era situato nella diocesi di Cosenza, 3 km a est del villaggio di San Lucido. L’abbazia della Sambucina era un antico monastero in origine appartenente ai benedettini, passato ai cistercensi nel XII secolo.&lt;br&gt;La tradizione storiografica ha conservato un’ambiguità nel ricordo dell’area colpita, per cui un’indicazione nelle fonti più antiche dell’area degli effetti ("valle de Sinu") è stata estesa alla valle del Sinni. Una ricerca toponomastica ha evidenziato che i nomi antichi dell’attuale fiume Sinni erano "Siris" e "Semnus", e quindi estranei alla radice di "Sinus", che avrebbe successivamente attratto "Sinni". L’area indicata è perciò il "Sinus Tarentinus", ossia l’attuale golfo di Taranto, dove sfocia il fiume Crati.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030166</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>Ricerche su i terremoti avvenuti in Terra d’Otranto dall’XI al secolo XIX, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.15, pp.95-154.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030404</codbib>
+      <autore1>Spanò Bolani D.</autore1>
+      <titolo1>Storia di Reggio Calabria da’ tempi primitivi sino all’anno di Cristo 1797, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030569</codbib>
+      <autore1>Arcovito S.</autore1>
+      <titolo1>Memoria de’ fenomeni meteorologici, che ebbero luogo in Reggio nel corso dell’anno 1841, con un’appendice de tremuoti, in "Atti della Società Economica della Prima Calabria Ulteriore", vol.3, fasc.5, pp.17-37.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>1843</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030579</codbib>
+      <autore1>Roscitano P.</autore1>
+      <titolo1>Memoria istorico-filosofica de’ terremoti della città di Reggio di Calabria in occasione dello smisurato terremoto di quest’anno 1783.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1783</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030587</codbib>
+      <autore1>Salfi F.S.</autore1>
+      <titolo1>Saggio di fenomeni antropologici relativi al terremoto ovvero riflessioni sopra alcune opinioni pregiudiziali alla pubblica o privata felicità fatte per occasione de tremuoti avvenuti nelle Calabrie l’anno 1783 e seguenti.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1787</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030608</codbib>
+      <autore1>Caruso L.</autore1>
+      <titolo1>Storia di Cosenza, 2 voll.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1969 - 1970</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050921</codbib>
+      <autore1>Rohlfs G.</autore1>
+      <titolo1>Dizionario toponomastico ed onomastico della Calabria.</titolo1>
+      <luogoed>Ravenna</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050922</codbib>
+      <autore1>Toaldo G.</autore1>
+      <titolo1>Giornale astrometeorologico.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1785</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052059</codbib>
+      <autore1>Uberte Balaguer A.M.</autore1>
+      <titolo1>Los estragos del temblor, y subterranea conspiracion.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1697</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052137</codbib>
+      <autore1>Suess E.</autore1>
+      <titolo1>Die Erdbeben des südlichen Italien, in "Denkschriften der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", vol.34, pp.1-32.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1874</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060057</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Calabria sismica, in "Bollettino della Società Geografica Italiana", a.39, vol.42, pp.1074-1081.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1905</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>075420</codbib>
+      <autore1>Garufi C.A.</autore1>
+      <titolo1>I documenti inediti dell’epoca normanna in Sicilia.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>075421</codbib>
+      <autore1>Pratesi A.</autore1>
+      <titolo1>Carte latine di abbazie calabresi provenienti dall’Archivio Aldobrandini (Studi e Testi, 197).</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090127</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Casinenses (1000-1212), ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, vol.19, pp.303-320.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1866</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090322</codbib>
+      <autore1>Villola Pietro e Floriano</autore1>
+      <titolo1>Chronaca [1163-1372], in Corpus chronicorum Bononiensium, ed A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091026</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti in Italia, Pubblicazioni della Commissione Italiana per lo studio delle grandi calamità, vol.6.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1936</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093101</codbib>
+      <autore1>De Stefano D.</autore1>
+      <titolo1>I terremoti in Calabria e nel Messinese.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1987</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110056</codbib>
+      <autore1>Rossi A.A.</autore1>
+      <titolo1>Storia dei tremuoti di Calabria negli anni 1835 e 1836.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1837</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145181</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I danni prodotti dai terremoti nella Basilicata e nelle Calabrie, in "Relazione della Sotto Giunta Parlamentare d’Inchiesta sulle condizioni dei contadini nelle provincie meridionali e nella Sicilia", vol.5, tomo 3 (Basilicata e Calabria).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145241</codbib>
+      <autore1>Montanari G.</autore1>
+      <titolo1>Note alla carta delle frane della provincia di Cosenza, in "Annali dei Lavori Pubblici", a.79 (1941), fasc.1, pp.1-27.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145370</codbib>
+      <autore1>Aceti T.</autore1>
+      <titolo1>Prolegomena, additiones, &amp; notae, in "Gabrielis Barrii Franciscani De antiquitate et situ Calabriae libri quinque".</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1737</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146498</codbib>
+      <autore1>Gallo G.</autore1>
+      <titolo1>Cronistoria della città di Bisignano.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146502</codbib>
+      <autore1>Dito D.</autore1>
+      <titolo1>La storia calabrese e la dimora degli ebrei in Calabria dal secolo V alla seconda metà del secolo XVI.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>185015</codbib>
+      <autore1>Di Blasi G.E.</autore1>
+      <titolo1>Storia del Regno di Sicilia, 3 voll.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1972</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240068</codbib>
+      <autore1>Persoglio V.</autore1>
+      <titolo1>Cenni storici del paese di Cassine.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240179</codbib>
+      <autore1>Girardi F.</autore1>
+      <titolo1>Diario delle cose più illustri seguite nel mondo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1663</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300004</codbib>
+      <autore1>Maggiulli L.</autore1>
+      <titolo1>Otranto ricordi.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300016</codbib>
+      <autore1>Di Meo A.</autore1>
+      <titolo1>Annali critico-diplomatici del Regno di Napoli della mezzana età, 14 tomi.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1795</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300066</codbib>
+      <autore1>Camera M.</autore1>
+      <titolo1>Annali delle due Sicilie dall’origine e fondazione della monarchia fino a tutto il Regno dell’Augusto Sovrano Carlo III Borbone, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1841 - 1860</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300129</codbib>
+      <autore1>Galli L.</autore1>
+      <titolo1>Storia di Laterza.</titolo1>
+      <luogoed>Palo del Colle</luogoed>
+      <datacompl>1940</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350194</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Centrale di Firenze, Manoscritti, Fondo conventi soppressi, E.1.593, Historia monasterii Cassinensis.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350218</codbib>
+      <autore1>Rezzadore P.</autore1>
+      <titolo1>Il mondo ne’ suoi fulgori e tremori.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Privilegio del re Guglielmo II a favore della comunità monastica di Santa Maria di Josaphat, Messina 2 aprile 1185, in G.A.Garufi, "Documenti inediti dell’epoca normanna in Sicilia", pp.201-202.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450267</codbib>
+      <autore1>Moschitti D.</autore1>
+      <titolo1>De’ tremuoti della Calabria Citeriore nel febbraio del 1854, in "Annali Civili del Regno delle Due Sicilie", vol.54, fasc.107-108, pp.11-32, 126-137, 152-153.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>465084</codbib>
+      <autore1>Pagano L.</autore1>
+      <titolo1>Studi sulla Calabria, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1892</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>465117</codbib>
+      <autore1>De Luca B.</autore1>
+      <titolo1>La città di Cosenza. Aspetti di geografia urbana.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1972</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475004</codbib>
+      <autore1>Fonte F.</autore1>
+      <titolo1>Rende nella sua cronistoria.</titolo1>
+      <luogoed>Chiaravalle Centrale</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475010</codbib>
+      <autore1>Marchese G.</autore1>
+      <titolo1>Tebe Lucana, Val del Crati e l’odierna Luzzi.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1957</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475053</codbib>
+      <autore1>Borretti M.</autore1>
+      <titolo1>La cattedrale di Cosenza. Monografia storica-artistica.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1933</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475083</codbib>
+      <autore1>Gagliardi F.</autore1>
+      <titolo1>Storia di San Pietro in Amantea. Origine, storia, leggende, vita, personaggi noti e meno noti di un piccolo paese di provincia.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1983</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>475091</codbib>
+      <autore1>Valente G.</autore1>
+      <titolo1>Dizionario dei luoghi della Calabria, 2 voll.</titolo1>
+      <luogoed>Catanzaro</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Atto di concessione di Goffredo di Carbonara signore feudale di Luzzi di una tenuta in favore del monastero della Sambucina, Luzzi settembre 1196, in A.Pratesi "Carte latine di abbazie calabresi provenienti dall’Archivio Aldobrandini", n.48, pp.112-115.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Mandato di papa Onorio III di trasferimento della comunità monastica della Sambucina, Roma 29 ottobre 1221, in A.Pratesi "Carte latine di abbazie calabresi provenienti dall’Archivio Aldobrandini", n.127, pp.298-300.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diploma dell’imperatore Federico II di autorizzazione del trasferimento della comunità monastica della Sambucina, Cassano allo Ionio febbraio 1222, in A.Pratesi "Carte latine di abbazie calabresi provenienti dall’Archivio Aldobrandini", n.128, pp.300-302.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Privilegio di papa Onorio III di conferma dei possedimenti della comunità monastica della Sambucina, Alatri 3 giugno 1222, in A.Pratesi "Carte latine di abbazie calabresi provenienti dall’Archivio Aldobrandini", n.130, pp.305-307.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>530016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Casinensis, in F.Ughelli, "Italia Sacra", 2a ed. a cura di N.Coleti, tomo 9 (ristampa anastatica, Nendeln-Liechtenstein, 1970).</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1721</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560108</codbib>
+      <autore1>Faggiotto A.</autore1>
+      <titolo1>La separazione della Sicilia dalla Calabria. Studio storico e geologico.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625006</codbib>
+      <autore1>Guillou A.</autore1>
+      <titolo1>Saint-Nicodème de Kellarana (1023/1024-1232).</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625009</codbib>
+      <autore1>Guillou A., Mercati S.G. e Giannelli C.</autore1>
+      <titolo1>Saint-Jean-Théristès (1054-1264).</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625051</codbib>
+      <autore1>Russo F.</autore1>
+      <titolo1>Regesto vaticano per la Calabria.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1974 - 1980</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625054</codbib>
+      <autore1>Rougeris P.</autore1>
+      <titolo1>Ricerca bibliografica sui "Turkà" italo-greci, in "Bollettino della Badia greca di Grottaferrata", n.s., vol.27, pp.11-42.</titolo1>
+      <luogoed>Grottaferrata</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625056</codbib>
+      <autore1>Petta M.</autore1>
+      <titolo1>Saggio bibliografico sui monasteri basiliani d’Italia, "Bollettino della Badia greca di Grottaferrata", n.s., vol.5, pp.46-76.</titolo1>
+      <luogoed>Grottaferrata</luogoed>
+      <datacompl>1951</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625063</codbib>
+      <autore1>Garufi C.A.</autore1>
+      <titolo1>Il Tabulario di S.Maria di Valle Giosafat nel tempo Normanno-Svevo e la data delle sue falsificazioni, in "Archivio Storico per la Sicilia Orientale", a.5, fasc.1 (1908), pp.161-83, 315-49.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625064</codbib>
+      <autore1>Garufi C.A.</autore1>
+      <titolo1>Un contratto agrario in Sicilia nel secolo XII per la fondazione del casale di Mesepe presso Paternò, in "Archivio Storico per la Sicilia Orientale", a.5, fasc.1 (1908), pp.11-22.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625075</codbib>
+      <autore1>Kehr K.A.</autore1>
+      <titolo1>Die Urkunden der Normannisch-Sicilischen Könige. Eine diplomatische Untersuchung.</titolo1>
+      <luogoed>Innsbruck</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625080</codbib>
+      <autore1>Cilento N.</autore1>
+      <titolo1>Insediamento demico e organizzazione monastica, in "Potere, società e popolo nell’età dei due Guglielmi", Atti delle quarte giornate normanno-sveve. Bari - Gioia del Colle, 8-10 ottobre 1979, pp.173-199.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1981</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625087</codbib>
+      <autore1>Russo F.</autore1>
+      <titolo1>L’Ordine di Valle Josaphat in Calabria, in F.Russo, "Scritti Storici Calabresi", pp.357-79.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1957</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>625088</codbib>
+      <autore1>Kehr P.F.</autore1>
+      <titolo1>Italia Pontificia, vol.10, Calabria-Insulae, a cura di D.Girgensohn.</titolo1>
+      <luogoed>Zürich</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680001</codbib>
+      <autore1>Monachus Casinensis</autore1>
+      <titolo1>Rerum in regno Neapolitano gestarum breve chronicon [1000-1212] (sec.XIII), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 5, pp.55-78.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1724</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680027</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti di Calabria, in "Rivista Geografica Italiana", a.2, pp.4-20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680030</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Calabria meridionale e del messinese, in "Memorie della Società Italiana delle Scienze (detta dei XL)", s.III, tomo 11, pp.117-266.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680041</codbib>
+      <autore1>Grimaldi F.A.</autore1>
+      <titolo1>Descrizione de’ tremuoti nelle Calabrie nel 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900309</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>La cattedrale di Nardò, in "Archivio Salentino di Scienze, Lettere ed Arti", a.1, fasc.1.</titolo1>
+      <luogoed>Lecce</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Bisignano</desloc>
+      <lat_wgs84>39.5131</lat_wgs84>
+      <lon_wgs84>16.2852</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>063660.00</nloc_cfti>
+      <desloc_cfti>Bisignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Cosenza</desloc>
+      <lat_wgs84>39.3035</lat_wgs84>
+      <lon_wgs84>16.2516</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>063872.00</nloc_cfti>
+      <desloc_cfti>Cosenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Matina</desloc>
+      <lat_wgs84>39.5762</lat_wgs84>
+      <lon_wgs84>16.1497</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>064374.00</nloc_cfti>
+      <desloc_cfti>Matina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Sambucina</desloc>
+      <lat_wgs84>39.4448</lat_wgs84>
+      <lon_wgs84>16.32</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>064083.00</nloc_cfti>
+      <desloc_cfti>Sambucina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>San Lucido</desloc>
+      <lat_wgs84>39.3075</lat_wgs84>
+      <lon_wgs84>16.0488</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>064367.00</nloc_cfti>
+      <desloc_cfti>San Lucido</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Santa Maria di Monte Persano</desloc>
+      <lat_wgs84>39.315</lat_wgs84>
+      <lon_wgs84>16.0868</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00072</nterr>
+      <nloc_cfti>072357.00</nloc_cfti>
+      <desloc_cfti>Santa Maria di Monte Persano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

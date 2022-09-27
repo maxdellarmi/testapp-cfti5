@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072231.00</nloc_cfti>
+      <desloc_cfti>Abbazia di San Vincenzo al Volturno</desloc_cfti>
+      <provlet>IS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9.1</maxint>
+      <lat_wgs84>41.6512</lat_wgs84>
+      <lon_wgs84>14.0884</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50076</nterr>
+      <nperiod>005091</nperiod>
+      <datanum>08470600</datanum>
+      <data_label>847 06 -</data_label>
+      <anno>847</anno>
+      <mese>06</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.6227</lat>
+      <lon>14.1595</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>6</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Distruzione degli edifici non meglio specificata $(093058)$. Durante la campagna di scavi del 1990-1993, svolta dalla British School at Rome, è stata individuata una frattura nell’angolo sud-est della chiesa abbaziale; questo danno è stato interpretato come un effetto del terremoto dell’847 $(093201)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00239</nterr>
+      <nperiod>002002</nperiod>
+      <datanum>13490909</datanum>
+      <data_label>1349 09 09</data_label>
+      <anno>1349</anno>
+      <mese>09</mese>
+      <giorno>09</giorno>
+      <time_label>08:15</time_label>
+      <ora>08</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>41.5818</lat>
+      <lon>13.907</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>20</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Lazio meridionale-Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.1</intpqnum>
+      <intpq>A</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>370114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Memoria sul terremoto del 9 settembre 1349, in A.Viti, "Note di diplomatica ecclesiastica sulla contea di Molise dalle fonti delle pergamene capitolari di Isernia. Città e diocesi dall’età longobarda alla aragonese", doc.XVII, app.I, p.384.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1972</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronicae Sancti Benedicti Casinensis, edizione critica e traduzione di L.A.Berto, con un’appendice di W.Pohl (Edizione Nazionale dei testi mediolatini, 15, serie II, 7) [precedente ed. a cura di G.Waitz, intitolata Chronica S.Benedicti Casinensis, in "Monumenta Germaniae Historica", Scriptores rerum Langobardicarum et Italicarum saec. VI-IX, Hannover 1878, pp.467-488].</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>2006</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

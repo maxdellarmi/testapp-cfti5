@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42044</nterr>
+      <nperiod>009041</nperiod>
+      <datanum>16310225</datanum>
+      <data_label>1631 02 25</data_label>
+      <anno>1631</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.0549</lat>
+      <lon>12.8569</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Annifo (PG)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso e ignorato dalla tradizione sismologica italiana.&lt;br&gt;Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati pubblicati all’interno dello studio di Boschi et al. (1998) dedicato alla sismicità storica dell’area sudorientale dell’Appennino umbro-marchigiano $(053003)$.&lt;br&gt;L’evento è ricordato in un "Libro di Memorie" (1591-1780) $(396006)$ conservato nell’Archivio parrocchiale di Annifo, frazione del comune di Foligno.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 25 febbraio 1631. Nel paese di Annifo, piccolo centro montano dell’Appennino umbro al confine tra il territorio di Foligno e quello di Nocera Umbra, sono attestati gravi danni a una casa di proprietà della parrocchia situata all’interno del castello.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053003</codbib>
+      <autore1>Boschi E., Guidoboni E., Ferrari G. e Valensise G.</autore1>
+      <titolo1>I terremoti dell’Appennino umbro-marchigiano ­ area sud orientale dal 99 a.C. al 1984, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>396006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Annifo, Libro di memorie (1591-1780).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1591 - 1780</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Annifo</desloc>
+      <lat_wgs84>43.0549</lat_wgs84>
+      <lon_wgs84>12.8569</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>42044</nterr>
+      <nloc_cfti>048784.88</nloc_cfti>
+      <desloc_cfti>Annifo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò gravi danni a una casa di proprietà della parrocchia situata all’interno del castello $(396006)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,3785 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>31547</nterr>
+      <nperiod>003227</nperiod>
+      <datanum>19380718</datanum>
+      <data_label>1938 07 18</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>00:57</time_label>
+      <ora>00</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>44.5932</lat>
+      <lon>6.7347</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>260</npun>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata le bibliografia del Catalogo PFG (1985), basata sul catalogo parametrico di Eva et al. (1984) $(051295)$, ed è stata condotta una ricerca bibliografica. Sono stati utilizzati lo studio specifico di Rothé (1941) $(050077)$, il catalogo di Lambert et al. (1996) $(052185)$ e l’atlante macrosismico di Levret et al. (1996), pubblicato a cura dell’Institut de Protection et de Sûreté Nucléaire (Francia) e basato sulla banca dati "Sirene" $(052123)$. Per gli effetti nell’area italiana, sono stati analizzati, presso l’archivio dell’Ufficio Centrale di Meteorologia e Geodinamica (UCEA), un dattiloscritto anonimo che riassume le notizie sismiche pervenute all’UCEA dagli osservatori locali (Archivio dell’UCEA, 1938) $(020482)$ e il "Bollettino Sismico Settimanale" (n.1079, 1938) $(001160)$. Sono state inoltre vagliate le cronache pubblicate dai maggiori quotidiani piemontesi (3 testate) $(672832,672833,672834)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 18 luglio 1938 alle ore 0:57 GMT; colpì il dipartimento dell’Hautes-Alpes, nel versante francese delle Alpi Cozie, danneggiando alcuni paesi delle vallate del Guil e dell’Ubaye. A Ceillac, Guillestre, Pont de l’Estrech e Saint-Paul vi furono numerose lesioni nei muri e nei soffitti degli edifici e caduta di camini. Danni minori furono registrati in una ventina di altre località.&lt;br&gt;In Italia la scossa fu avvertita, più o meno fortemente, in Piemonte e in Liguria, ma non vi fu alcun danno.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>A Ceillac, a ca. 200 m dal paese, si formò un’ampia cavità circolare di 8 m di diametro e di 20 m di profondità, che si riempì rapidamente d’acqua. Nei dintorni di Vars caddero dei massi rocciosi, che ostruirono le strade e si intorbidirono le sorgenti. A Saint-Paul diminuì la portata delle sorgenti e l’acqua divenne torbida; a Reotier si riattivò una fonte disseccata da molti anni.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>001160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Sismico Settimanale, 1938.07.16-22, n.1079, a cura di A.Cavasino, Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1938</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020482</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Notizie sismiche pervenute all’Ufficio Centrale di Meteorologia durante l’anno 1938.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1938</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051295</codbib>
+      <autore1>Eva C., Capponi G., Cattaneo M. e Merlanti F.</autore1>
+      <titolo1>Catalogo dei terremoti per le Alpi Occidentali (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052123</codbib>
+      <autore1>Levret A., Cushing M. e Peyridieu G.</autore1>
+      <titolo1>Recherche des caractéristiques de séismes historiques en France. Atlas de 140 cartes macrosismiques, IPSN, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052185</codbib>
+      <autore1>Lambert J., Levret-Albaret A., Cushing M. e Durouchoux C.</autore1>
+      <titolo1>Mille ans de séismes en France. Catalogue d’épicentres paramètres et références, AFPS-BRGM-EDF-IPSN.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080147</codbib>
+      <autore1>*</autore1>
+      <titolo1>Osservatorio Meteorico-sismico del Santuario di N.S. d’Oropa. Registrazioni sismiche 1930-1939, secondo decennio di osservazioni.</titolo1>
+      <luogoed>Biella</luogoed>
+      <datacompl>1940</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672832</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1938.07.19, a.72, n.170.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1938</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672833</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Popolo, 1938.07.19, a.91, n.170.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1938</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672834</codbib>
+      <autore1>*</autore1>
+      <titolo1>Sentinella d’Italia, 1938.07.18-19, a.9, n.169.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1938</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Ceillac</desloc>
+      <lat_wgs84>44.6759</lat_wgs84>
+      <lon_wgs84>6.7698</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080147.00</nloc_cfti>
+      <desloc_cfti>Ceillac</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò caduta di oggetti, fenditure negli edifici di costruzione recente, lesioni nella chiesa e nel municipio $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Guillestre</desloc>
+      <lat_wgs84>44.656</lat_wgs84>
+      <lon_wgs84>6.6547</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080170.00</nloc_cfti>
+      <desloc_cfti>Guillestre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò spostamento di mobili, caduta di camini, fenditure nei soffitti e lesioni alle murature $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pont de l'Estrech</desloc>
+      <lat_wgs84>44.5233</lat_wgs84>
+      <lon_wgs84>6.7648</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080937.00</nloc_cfti>
+      <desloc_cfti>Pont de l’Estrech</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò numerose lesioni nei muri e nei soffitti degli edifici, crollo di un muro e danni ai camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Saint-Paul</desloc>
+      <lat_wgs84>44.5174</lat_wgs84>
+      <lon_wgs84>6.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080811.00</nloc_cfti>
+      <desloc_cfti>Saint-Paul</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò lesioni in diversi edifici e il crollo di 2 camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Eygliers</desloc>
+      <lat_wgs84>44.7983</lat_wgs84>
+      <lon_wgs84>6.8611</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080166.00</nloc_cfti>
+      <desloc_cfti>Eygliers</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nei soffitti e lesioni nei muri $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Les Prads</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080667.00</nloc_cfti>
+      <desloc_cfti>Les Prads</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò lesioni nei muri e la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Melezen</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.7329</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080687.00</nloc_cfti>
+      <desloc_cfti>Melezen</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò lesioni nei soffitti, nelle volte e nei muri di alcuni edifici $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Petite Serenne</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.7662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080733.00</nloc_cfti>
+      <desloc_cfti>Petite Serenne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò lo strapiombamento del muro di un edificio, rendendolo inabitabile $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Baratier</desloc>
+      <lat_wgs84>44.537</lat_wgs84>
+      <lon_wgs84>6.4989</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080266.00</nloc_cfti>
+      <desloc_cfti>Baratier</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nei soffitti e caduta di pietre dai camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Champcella</desloc>
+      <lat_wgs84>44.7242</lat_wgs84>
+      <lon_wgs84>6.5715</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080267.00</nloc_cfti>
+      <desloc_cfti>Champcella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di lastre di ardesia dai tetti e fenditure negli edifici $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Châteauroux</desloc>
+      <lat_wgs84>44.6253</lat_wgs84>
+      <lon_wgs84>6.519</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080150.00</nloc_cfti>
+      <desloc_cfti>Châteauroux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di tegole e di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Crévoux</desloc>
+      <lat_wgs84>44.5465</lat_wgs84>
+      <lon_wgs84>6.6097</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080270.00</nloc_cfti>
+      <desloc_cfti>Crévoux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nei soffitti $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Crots</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.4662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080558.00</nloc_cfti>
+      <desloc_cfti>Crots</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Embrun</desloc>
+      <lat_wgs84>44.5643</lat_wgs84>
+      <lon_wgs84>6.4876</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080162.00</nloc_cfti>
+      <desloc_cfti>Embrun</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di oggetti, fenditure negli edifici e caduta di alcuni camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Fressinières</desloc>
+      <lat_wgs84>44.7507</lat_wgs84>
+      <lon_wgs84>6.5328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080576.00</nloc_cfti>
+      <desloc_cfti>Fressinières</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado VI MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Froges</desloc>
+      <lat_wgs84>45.284</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080577.00</nloc_cfti>
+      <desloc_cfti>Froges</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado VI MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>L'Argentière-la-Bessée</desloc>
+      <lat_wgs84>44.8007</lat_wgs84>
+      <lon_wgs84>6.5662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080634.00</nloc_cfti>
+      <desloc_cfti>L’Argentière-la-Bessée</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>La Roche-de-Rame</desloc>
+      <lat_wgs84>44.7493</lat_wgs84>
+      <lon_wgs84>6.5817</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080277.00</nloc_cfti>
+      <desloc_cfti>La Roche-de-Rame</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Molines-en-Queyras</desloc>
+      <lat_wgs84>44.7299</lat_wgs84>
+      <lon_wgs84>6.8445</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080284.00</nloc_cfti>
+      <desloc_cfti>Molines-en-Queyras</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò qualche nuova fessura nei muri o l’allargamento di quelle preesistenti $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Reallon</desloc>
+      <lat_wgs84>44.6007</lat_wgs84>
+      <lon_wgs84>6.3662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080754.00</nloc_cfti>
+      <desloc_cfti>Reallon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di calcinacci e fenditure in diversi edifici $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Reotier</desloc>
+      <lat_wgs84>44.6674</lat_wgs84>
+      <lon_wgs84>6.5995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080758.00</nloc_cfti>
+      <desloc_cfti>Reotier</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Saint-Apollinaire</desloc>
+      <lat_wgs84>44.5507</lat_wgs84>
+      <lon_wgs84>6.3662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080772.00</nloc_cfti>
+      <desloc_cfti>Saint-Apollinaire</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò leggere lesioni $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Savines-le-Lac</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.3995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080835.00</nloc_cfti>
+      <desloc_cfti>Savines-le-Lac</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure negli edifici e il crollo di 5 camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Vars</desloc>
+      <lat_wgs84>44.6111</lat_wgs84>
+      <lon_wgs84>6.6846</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080222.00</nloc_cfti>
+      <desloc_cfti>Vars</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò fenditure nei muri e nei soffitti e la caduta di camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Pelvoux</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>6.4828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080732.00</nloc_cfti>
+      <desloc_cfti>Pelvoux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V-VI MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Pontis</desloc>
+      <lat_wgs84>44.5007</lat_wgs84>
+      <lon_wgs84>6.3495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080742.00</nloc_cfti>
+      <desloc_cfti>Pontis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V-VI MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Venosc</desloc>
+      <lat_wgs84>44.984</lat_wgs84>
+      <lon_wgs84>6.1162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080881.00</nloc_cfti>
+      <desloc_cfti>Venosc</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V-VI MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Abriès</desloc>
+      <lat_wgs84>44.7925</lat_wgs84>
+      <lon_wgs84>6.9289</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080124.00</nloc_cfti>
+      <desloc_cfti>Abriès</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Briançon</desloc>
+      <lat_wgs84>44.9057</lat_wgs84>
+      <lon_wgs84>6.6312</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080028.00</nloc_cfti>
+      <desloc_cfti>Briançon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Chabottonnes</desloc>
+      <lat_wgs84>44.6674</lat_wgs84>
+      <lon_wgs84>6.1995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080524.00</nloc_cfti>
+      <desloc_cfti>Chabottonnes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Château-Ville-Vieille</desloc>
+      <lat_wgs84>44.7507</lat_wgs84>
+      <lon_wgs84>6.7995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080531.00</nloc_cfti>
+      <desloc_cfti>Château-Ville-Vieille</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Corps</desloc>
+      <lat_wgs84>44.8254</lat_wgs84>
+      <lon_wgs84>5.9469</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080155.00</nloc_cfti>
+      <desloc_cfti>Corps</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Crissolo</desloc>
+      <lat_wgs84>44.6994</lat_wgs84>
+      <lon_wgs84>7.1565</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>005459.99</nloc_cfti>
+      <desloc_cfti>Crissolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gap</desloc>
+      <lat_wgs84>44.5623</lat_wgs84>
+      <lon_wgs84>6.0796</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080039.00</nloc_cfti>
+      <desloc_cfti>Gap</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Grenoble</desloc>
+      <lat_wgs84>45.1813</lat_wgs84>
+      <lon_wgs84>5.7076</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080042.00</nloc_cfti>
+      <desloc_cfti>Grenoble</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>La Condamine-Châtelard</desloc>
+      <lat_wgs84>44.4674</lat_wgs84>
+      <lon_wgs84>6.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080605.00</nloc_cfti>
+      <desloc_cfti>La Condamine-Châtelard</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>La Fare-en-Champsaur</desloc>
+      <lat_wgs84>44.6674</lat_wgs84>
+      <lon_wgs84>6.0662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080606.00</nloc_cfti>
+      <desloc_cfti>La Fare-en-Champsaur</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>La Grave</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>6.2995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080610.00</nloc_cfti>
+      <desloc_cfti>La Grave</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>La Motte-en-Champsaur</desloc>
+      <lat_wgs84>44.734</lat_wgs84>
+      <lon_wgs84>6.0662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080613.00</nloc_cfti>
+      <desloc_cfti>La Motte-en-Champsaur</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Laval</desloc>
+      <lat_wgs84>45.2507</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080635.00</nloc_cfti>
+      <desloc_cfti>Laval</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Les Vigneaux</desloc>
+      <lat_wgs84>44.8174</lat_wgs84>
+      <lon_wgs84>6.5495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080670.00</nloc_cfti>
+      <desloc_cfti>Les Vigneaux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Livet-et-Gavet</desloc>
+      <lat_wgs84>45.1174</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080673.00</nloc_cfti>
+      <desloc_cfti>Livet-et-Gavet</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Mizoen</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>6.1495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080691.00</nloc_cfti>
+      <desloc_cfti>Mizoen</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Noyers-sur-Jabron</desloc>
+      <lat_wgs84>44.1673</lat_wgs84>
+      <lon_wgs84>5.8328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080716.00</nloc_cfti>
+      <desloc_cfti>Noyers-sur-Jabron</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Orcières</desloc>
+      <lat_wgs84>44.6967</lat_wgs84>
+      <lon_wgs84>6.3358</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080188.00</nloc_cfti>
+      <desloc_cfti>Orcières</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pont-en-Royans</desloc>
+      <lat_wgs84>45.0674</lat_wgs84>
+      <lon_wgs84>5.3494</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080741.00</nloc_cfti>
+      <desloc_cfti>Pont-en-Royans</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ristolas</desloc>
+      <lat_wgs84>44.7627</lat_wgs84>
+      <lon_wgs84>6.9569</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080195.00</nloc_cfti>
+      <desloc_cfti>Ristolas</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Saint-Firmin</desloc>
+      <lat_wgs84>44.784</lat_wgs84>
+      <lon_wgs84>6.0328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080784.00</nloc_cfti>
+      <desloc_cfti>Saint-Firmin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Saint-Véran</desloc>
+      <lat_wgs84>44.7021</lat_wgs84>
+      <lon_wgs84>6.8721</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080212.00</nloc_cfti>
+      <desloc_cfti>Saint-Véran</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Villar-d'Arêne</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>6.3328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080889.00</nloc_cfti>
+      <desloc_cfti>Villar-d’Arêne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Giaveno</desloc>
+      <lat_wgs84>45.0439</lat_wgs84>
+      <lon_wgs84>7.3522</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>001098.00</nloc_cfti>
+      <desloc_cfti>Giaveno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672833)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Pinerolo</desloc>
+      <lat_wgs84>44.8857</lat_wgs84>
+      <lon_wgs84>7.3268</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>001689.00</nloc_cfti>
+      <desloc_cfti>Pinerolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672833)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Allemond</desloc>
+      <lat_wgs84>45.134</lat_wgs84>
+      <lon_wgs84>6.0328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080459.00</nloc_cfti>
+      <desloc_cfti>Allemond</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Beaufin</desloc>
+      <lat_wgs84>44.784</lat_wgs84>
+      <lon_wgs84>5.9661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080490.00</nloc_cfti>
+      <desloc_cfti>Beaufin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Borgo San Dalmazzo</desloc>
+      <lat_wgs84>44.332</lat_wgs84>
+      <lon_wgs84>7.4866</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>004980.00</nloc_cfti>
+      <desloc_cfti>Borgo San Dalmazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di alcuni secondi, fu avvertita fortemente; molte persone si risvegliarono; non vi furono danni $(672833)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cesana Torinese</desloc>
+      <lat_wgs84>44.9522</lat_wgs84>
+      <lon_wgs84>6.793</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>000601.00</nloc_cfti>
+      <desloc_cfti>Cesana Torinese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, fu avvertita da moltissimi; i dormienti si svegliarono. Essa causò sbattimento di porte, oscillazione e tremolio di infissi e vetri $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cuneo</desloc>
+      <lat_wgs84>44.3815</lat_wgs84>
+      <lon_wgs84>7.538</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>005501.00</nloc_cfti>
+      <desloc_cfti>Cuneo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di alcuni secondi, fu avvertita fortemente; molte persone si risvegliarono; non vi furono danni $(020482,672833,672834)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Diano Castello</desloc>
+      <lat_wgs84>43.925</lat_wgs84>
+      <lon_wgs84>8.0646</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032181.00</nloc_cfti>
+      <desloc_cfti>Diano Castello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo e seguita da replica, fu avvertita da gran parte della popolazione; alcune persone fuggirono all’aperto per lo spavento $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Domène</desloc>
+      <lat_wgs84>45.2007</lat_wgs84>
+      <lon_wgs84>5.8328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080564.00</nloc_cfti>
+      <desloc_cfti>Domène</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Enchastrayes</desloc>
+      <lat_wgs84>44.3674</lat_wgs84>
+      <lon_wgs84>6.6995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080565.00</nloc_cfti>
+      <desloc_cfti>Enchastrayes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Goncelin</desloc>
+      <lat_wgs84>45.3507</lat_wgs84>
+      <lon_wgs84>5.9828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080583.00</nloc_cfti>
+      <desloc_cfti>Goncelin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Imperia</desloc>
+      <lat_wgs84>43.8858</lat_wgs84>
+      <lon_wgs84>8.0265</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032205.00</nloc_cfti>
+      <desloc_cfti>Imperia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4s, fu avvertita fortemente, in particolare nel rione di Levante; gli abitanti presi dal panico si riversarono all’aperto. Non vi furono danni $(020482,672832)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>La Bréole</desloc>
+      <lat_wgs84>44.4507</lat_wgs84>
+      <lon_wgs84>6.2995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080600.00</nloc_cfti>
+      <desloc_cfti>La Bréole</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Larche</desloc>
+      <lat_wgs84>44.4509</lat_wgs84>
+      <lon_wgs84>6.8465</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080278.00</nloc_cfti>
+      <desloc_cfti>Larche</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Bourg-d'Oisans</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>6.0328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080640.00</nloc_cfti>
+      <desloc_cfti>Le Bourg-d’Oisans</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Noyer</desloc>
+      <lat_wgs84>44.7007</lat_wgs84>
+      <lon_wgs84>6.0161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080654.00</nloc_cfti>
+      <desloc_cfti>Le Noyer</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Perier</desloc>
+      <lat_wgs84>44.934</lat_wgs84>
+      <lon_wgs84>5.9661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080655.00</nloc_cfti>
+      <desloc_cfti>Le Perier</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Versoud</desloc>
+      <lat_wgs84>45.2174</lat_wgs84>
+      <lon_wgs84>5.8661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080661.00</nloc_cfti>
+      <desloc_cfti>Le Versoud</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Marcieu</desloc>
+      <lat_wgs84>44.9174</lat_wgs84>
+      <lon_wgs84>5.6828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080682.00</nloc_cfti>
+      <desloc_cfti>Marcieu</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Prazzo</desloc>
+      <lat_wgs84>44.4835</lat_wgs84>
+      <lon_wgs84>7.0539</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>006496.99</nloc_cfti>
+      <desloc_cfti>Prazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti, anche addormentati; causò tremolio di piccoli oggetti $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Rochebrune</desloc>
+      <lat_wgs84>44.4507</lat_wgs84>
+      <lon_wgs84>6.1828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080762.00</nloc_cfti>
+      <desloc_cfti>Rochebrune</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Saint-Bonnet</desloc>
+      <lat_wgs84>44.684</lat_wgs84>
+      <lon_wgs84>6.0662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080778.00</nloc_cfti>
+      <desloc_cfti>Saint-Bonnet</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Sousville</desloc>
+      <lat_wgs84>44.9007</lat_wgs84>
+      <lon_wgs84>5.7995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080848.00</nloc_cfti>
+      <desloc_cfti>Sousville</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Susa</desloc>
+      <lat_wgs84>45.137</lat_wgs84>
+      <lon_wgs84>7.0513</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>002347.00</nloc_cfti>
+      <desloc_cfti>Susa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti, anche addormentati; causò tremolio di oggetti, scricchiolamento di pavimenti, lieve oscillazione di oggetti sospesi $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Taggia</desloc>
+      <lat_wgs84>43.8617</lat_wgs84>
+      <lon_wgs84>7.8497</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032360.00</nloc_cfti>
+      <desloc_cfti>Taggia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(672832)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Uvernet-Fours</desloc>
+      <lat_wgs84>44.3674</lat_wgs84>
+      <lon_wgs84>6.6328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080864.00</nloc_cfti>
+      <desloc_cfti>Uvernet-Fours</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Val-des-Pres</desloc>
+      <lat_wgs84>44.9507</lat_wgs84>
+      <lon_wgs84>6.6828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080865.00</nloc_cfti>
+      <desloc_cfti>Val-des-Pres</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Valdieri</desloc>
+      <lat_wgs84>44.2777</lat_wgs84>
+      <lon_wgs84>7.3956</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>007023.00</nloc_cfti>
+      <desloc_cfti>Valdieri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di alcuni secondi, fu avvertita fortemente; molte persone si risvegliarono; non vi furono danni $(672833)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Valserres</desloc>
+      <lat_wgs84>44.484</lat_wgs84>
+      <lon_wgs84>6.1328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080875.00</nloc_cfti>
+      <desloc_cfti>Valserres</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Vinadio</desloc>
+      <lat_wgs84>44.3086</lat_wgs84>
+      <lon_wgs84>7.173</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>007191.00</nloc_cfti>
+      <desloc_cfti>Vinadio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta e accompagnata da rombo, fu avvertita da molti, anche addormentati $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Vinay</desloc>
+      <lat_wgs84>45.2174</lat_wgs84>
+      <lon_wgs84>5.3994</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080896.00</nloc_cfti>
+      <desloc_cfti>Vinay</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Vizille</desloc>
+      <lat_wgs84>45.084</lat_wgs84>
+      <lon_wgs84>5.7661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080900.00</nloc_cfti>
+      <desloc_cfti>Vizille</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV-V MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ancelle</desloc>
+      <lat_wgs84>44.6174</lat_wgs84>
+      <lon_wgs84>6.1995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080465.00</nloc_cfti>
+      <desloc_cfti>Ancelle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Arvillard</desloc>
+      <lat_wgs84>45.4507</lat_wgs84>
+      <lon_wgs84>6.1161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080451.00</nloc_cfti>
+      <desloc_cfti>Arvillard</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Auris</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>6.0828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080473.00</nloc_cfti>
+      <desloc_cfti>Auris</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Avançon</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>6.1828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080477.00</nloc_cfti>
+      <desloc_cfti>Avançon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Barcelonnette</desloc>
+      <lat_wgs84>44.3874</lat_wgs84>
+      <lon_wgs84>6.6433</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080132.00</nloc_cfti>
+      <desloc_cfti>Barcelonnette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Beuil</desloc>
+      <lat_wgs84>44.1007</lat_wgs84>
+      <lon_wgs84>6.9829</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080499.00</nloc_cfti>
+      <desloc_cfti>Beuil</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Brignoles</desloc>
+      <lat_wgs84>43.4007</lat_wgs84>
+      <lon_wgs84>6.0662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080513.00</nloc_cfti>
+      <desloc_cfti>Brignoles</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Centallo</desloc>
+      <lat_wgs84>44.5003</lat_wgs84>
+      <lon_wgs84>7.5839</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>005298.00</nloc_cfti>
+      <desloc_cfti>Centallo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molte persone sveglie che si trovavano nei piani superiori delle abitazioni o in edifici poco solidi $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Chambery</desloc>
+      <lat_wgs84>45.5618</lat_wgs84>
+      <lon_wgs84>5.9012</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080033.00</nloc_cfti>
+      <desloc_cfti>Chambery</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Châteauneuf-d'Oze</desloc>
+      <lat_wgs84>44.5174</lat_wgs84>
+      <lon_wgs84>5.8661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080533.00</nloc_cfti>
+      <desloc_cfti>Châteauneuf-d’Oze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Chauffayer</desloc>
+      <lat_wgs84>44.7507</lat_wgs84>
+      <lon_wgs84>5.9995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080537.00</nloc_cfti>
+      <desloc_cfti>Chauffayer</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cholonge</desloc>
+      <lat_wgs84>45.0007</lat_wgs84>
+      <lon_wgs84>5.7995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080510.00</nloc_cfti>
+      <desloc_cfti>Cholonge</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Chorges</desloc>
+      <lat_wgs84>44.5507</lat_wgs84>
+      <lon_wgs84>6.2828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080539.00</nloc_cfti>
+      <desloc_cfti>Chorges</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Claix</desloc>
+      <lat_wgs84>45.1174</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080541.00</nloc_cfti>
+      <desloc_cfti>Claix</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Contes</desloc>
+      <lat_wgs84>43.8173</lat_wgs84>
+      <lon_wgs84>7.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080154.00</nloc_cfti>
+      <desloc_cfti>Contes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Daluis</desloc>
+      <lat_wgs84>44.034</lat_wgs84>
+      <lon_wgs84>6.8162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080561.00</nloc_cfti>
+      <desloc_cfti>Daluis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Demonte</desloc>
+      <lat_wgs84>44.3155</lat_wgs84>
+      <lon_wgs84>7.2958</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>005581.00</nloc_cfti>
+      <desloc_cfti>Demonte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molte persone che si trovavano a letto $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Entraigues</desloc>
+      <lat_wgs84>44.9007</lat_wgs84>
+      <lon_wgs84>5.9495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080566.00</nloc_cfti>
+      <desloc_cfti>Entraigues</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fontaine</desloc>
+      <lat_wgs84>45.2007</lat_wgs84>
+      <lon_wgs84>5.6995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080572.00</nloc_cfti>
+      <desloc_cfti>Fontaine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Forcalquier</desloc>
+      <lat_wgs84>43.9673</lat_wgs84>
+      <lon_wgs84>5.7828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080573.00</nloc_cfti>
+      <desloc_cfti>Forcalquier</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fours Saint-Laurent</desloc>
+      <lat_wgs84>44.3199</lat_wgs84>
+      <lon_wgs84>6.6933</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080272.00</nloc_cfti>
+      <desloc_cfti>Fours Saint-Laurent</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Grasse</desloc>
+      <lat_wgs84>43.6559</lat_wgs84>
+      <lon_wgs84>6.9276</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080041.00</nloc_cfti>
+      <desloc_cfti>Grasse</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Batie-Neuve</desloc>
+      <lat_wgs84>44.5674</lat_wgs84>
+      <lon_wgs84>6.1995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080598.00</nloc_cfti>
+      <desloc_cfti>La Batie-Neuve</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Batie-Vieille</desloc>
+      <lat_wgs84>44.5507</lat_wgs84>
+      <lon_wgs84>6.1662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080599.00</nloc_cfti>
+      <desloc_cfti>La Batie-Vieille</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Motte-Saint-Martin</desloc>
+      <lat_wgs84>44.9507</lat_wgs84>
+      <lon_wgs84>5.7161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080614.00</nloc_cfti>
+      <desloc_cfti>La Motte-Saint-Martin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Mure</desloc>
+      <lat_wgs84>44.9007</lat_wgs84>
+      <lon_wgs84>5.7828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080616.00</nloc_cfti>
+      <desloc_cfti>La Mure</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Rochette</desloc>
+      <lat_wgs84>45.4674</lat_wgs84>
+      <lon_wgs84>6.1161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080619.00</nloc_cfti>
+      <desloc_cfti>La Rochette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Saulce</desloc>
+      <lat_wgs84>44.434</lat_wgs84>
+      <lon_wgs84>5.9995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080623.00</nloc_cfti>
+      <desloc_cfti>La Saulce</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>La Valette</desloc>
+      <lat_wgs84>44.934</lat_wgs84>
+      <lon_wgs84>5.8495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080627.00</nloc_cfti>
+      <desloc_cfti>La Valette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lanslebourg</desloc>
+      <lat_wgs84>45.2839</lat_wgs84>
+      <lon_wgs84>6.8733</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080298.00</nloc_cfti>
+      <desloc_cfti>Lanslebourg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lavaldens</desloc>
+      <lat_wgs84>44.984</lat_wgs84>
+      <lon_wgs84>5.8828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080636.00</nloc_cfti>
+      <desloc_cfti>Lavaldens</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Bar-sur-Loup</desloc>
+      <lat_wgs84>43.7002</lat_wgs84>
+      <lon_wgs84>6.983</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080175.00</nloc_cfti>
+      <desloc_cfti>Le Bar-sur-Loup</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Monestier-du-Percy</desloc>
+      <lat_wgs84>44.8007</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080651.00</nloc_cfti>
+      <desloc_cfti>Le Monestier-du-Percy</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Poet</desloc>
+      <lat_wgs84>44.3007</lat_wgs84>
+      <lon_wgs84>5.8995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080657.00</nloc_cfti>
+      <desloc_cfti>Le Poet</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Pont-de-Beauvoisin</desloc>
+      <lat_wgs84>45.534</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080658.00</nloc_cfti>
+      <desloc_cfti>Le Pont-de-Beauvoisin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Sauze</desloc>
+      <lat_wgs84>44.484</lat_wgs84>
+      <lon_wgs84>6.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080659.00</nloc_cfti>
+      <desloc_cfti>Le Sauze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Le Vernet</desloc>
+      <lat_wgs84>44.284</lat_wgs84>
+      <lon_wgs84>6.3828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080660.00</nloc_cfti>
+      <desloc_cfti>Le Vernet</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Les Mées</desloc>
+      <lat_wgs84>44.034</lat_wgs84>
+      <lon_wgs84>5.9828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080666.00</nloc_cfti>
+      <desloc_cfti>Les Mées</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Les Thuiles</desloc>
+      <lat_wgs84>44.4007</lat_wgs84>
+      <lon_wgs84>6.5662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080668.00</nloc_cfti>
+      <desloc_cfti>Les Thuiles</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mayres-Savel</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>5.7161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080685.00</nloc_cfti>
+      <desloc_cfti>Mayres-Savel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mens</desloc>
+      <lat_wgs84>44.8174</lat_wgs84>
+      <lon_wgs84>5.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080688.00</nloc_cfti>
+      <desloc_cfti>Mens</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Méolans</desloc>
+      <lat_wgs84>44.3968</lat_wgs84>
+      <lon_wgs84>6.51</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080282.00</nloc_cfti>
+      <desloc_cfti>Méolans</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Meyronnes</desloc>
+      <lat_wgs84>44.4765</lat_wgs84>
+      <lon_wgs84>6.8012</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080283.00</nloc_cfti>
+      <desloc_cfti>Meyronnes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Modane</desloc>
+      <lat_wgs84>45.2007</lat_wgs84>
+      <lon_wgs84>6.6828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080692.00</nloc_cfti>
+      <desloc_cfti>Modane</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Montauroux</desloc>
+      <lat_wgs84>43.6173</lat_wgs84>
+      <lon_wgs84>6.7662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080697.00</nloc_cfti>
+      <desloc_cfti>Montauroux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Montgardin</desloc>
+      <lat_wgs84>44.5507</lat_wgs84>
+      <lon_wgs84>6.2328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080703.00</nloc_cfti>
+      <desloc_cfti>Montgardin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Montgenèvre</desloc>
+      <lat_wgs84>44.934</lat_wgs84>
+      <lon_wgs84>6.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080704.00</nloc_cfti>
+      <desloc_cfti>Montgenèvre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Murianette</desloc>
+      <lat_wgs84>45.184</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080710.00</nloc_cfti>
+      <desloc_cfti>Murianette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Neffes</desloc>
+      <lat_wgs84>44.5007</lat_wgs84>
+      <lon_wgs84>6.0162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080712.00</nloc_cfti>
+      <desloc_cfti>Neffes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Nice</desloc>
+      <lat_wgs84>43.6916</lat_wgs84>
+      <lon_wgs84>7.2516</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080055.00</nloc_cfti>
+      <desloc_cfti>Nice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Oraison</desloc>
+      <lat_wgs84>43.9173</lat_wgs84>
+      <lon_wgs84>5.9162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080719.00</nloc_cfti>
+      <desloc_cfti>Oraison</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Orpierre</desloc>
+      <lat_wgs84>44.3174</lat_wgs84>
+      <lon_wgs84>5.6828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080723.00</nloc_cfti>
+      <desloc_cfti>Orpierre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Oz</desloc>
+      <lat_wgs84>45.134</lat_wgs84>
+      <lon_wgs84>6.0495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080727.00</nloc_cfti>
+      <desloc_cfti>Oz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Peyruis</desloc>
+      <lat_wgs84>44.034</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080736.00</nloc_cfti>
+      <desloc_cfti>Peyruis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Poligny</desloc>
+      <lat_wgs84>44.7007</lat_wgs84>
+      <lon_wgs84>6.0495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080740.00</nloc_cfti>
+      <desloc_cfti>Poligny</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rives</desloc>
+      <lat_wgs84>45.3507</lat_wgs84>
+      <lon_wgs84>5.4995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080761.00</nloc_cfti>
+      <desloc_cfti>Rives</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Chaffrey</desloc>
+      <lat_wgs84>44.925</lat_wgs84>
+      <lon_wgs84>6.6098</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080291.00</nloc_cfti>
+      <desloc_cfti>Saint-Chaffrey</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Crépin</desloc>
+      <lat_wgs84>44.7007</lat_wgs84>
+      <lon_wgs84>6.6162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080781.00</nloc_cfti>
+      <desloc_cfti>Saint-Crépin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Dalmas-le-Selvage</desloc>
+      <lat_wgs84>44.2895</lat_wgs84>
+      <lon_wgs84>6.8723</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080201.00</nloc_cfti>
+      <desloc_cfti>Saint-Dalmas-le-Selvage</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Étienne-de-Tinée</desloc>
+      <lat_wgs84>44.2547</lat_wgs84>
+      <lon_wgs84>6.9181</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080202.00</nloc_cfti>
+      <desloc_cfti>Saint-Étienne-de-Tinée</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Étienne-en-Devoluy</desloc>
+      <lat_wgs84>44.7007</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080557.00</nloc_cfti>
+      <desloc_cfti>Saint-Étienne-en-Devoluy</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Geoire-en-Valdaine</desloc>
+      <lat_wgs84>45.4584</lat_wgs84>
+      <lon_wgs84>5.6069</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080203.00</nloc_cfti>
+      <desloc_cfti>Saint-Geoire-en-Valdaine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Martin-d'Entraunes</desloc>
+      <lat_wgs84>44.1507</lat_wgs84>
+      <lon_wgs84>6.7662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080801.00</nloc_cfti>
+      <desloc_cfti>Saint-Martin-d’Entraunes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Martin-de-la-Porte</desloc>
+      <lat_wgs84>45.234</lat_wgs84>
+      <lon_wgs84>6.4495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080799.00</nloc_cfti>
+      <desloc_cfti>Saint-Martin-de-la-Porte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Martin-Vésubie</desloc>
+      <lat_wgs84>44.0662</lat_wgs84>
+      <lon_wgs84>7.2491</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080207.00</nloc_cfti>
+      <desloc_cfti>Saint-Martin-Vésubie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Michel-de-Maurienne</desloc>
+      <lat_wgs84>45.2174</lat_wgs84>
+      <lon_wgs84>6.4662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080808.00</nloc_cfti>
+      <desloc_cfti>Saint-Michel-de-Maurienne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Pierre-de-Mearoz</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080815.00</nloc_cfti>
+      <desloc_cfti>Saint-Pierre-de-Mearoz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Pierre-de-Mesage</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>5.7661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080816.00</nloc_cfti>
+      <desloc_cfti>Saint-Pierre-de-Mesage</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Pons</desloc>
+      <lat_wgs84>44.4007</lat_wgs84>
+      <lon_wgs84>6.6328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080209.00</nloc_cfti>
+      <desloc_cfti>Saint-Pons</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>San Remo</desloc>
+      <lat_wgs84>43.8192</lat_wgs84>
+      <lon_wgs84>7.7735</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032319.00</nloc_cfti>
+      <desloc_cfti>San Remo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(020482,672832)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sassenage</desloc>
+      <lat_wgs84>45.2007</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080832.00</nloc_cfti>
+      <desloc_cfti>Sassenage</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Savel</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>5.7161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080834.00</nloc_cfti>
+      <desloc_cfti>Savel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sechilienne</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>5.8328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080838.00</nloc_cfti>
+      <desloc_cfti>Sechilienne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Tencin</desloc>
+      <lat_wgs84>45.3174</lat_wgs84>
+      <lon_wgs84>5.9661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080855.00</nloc_cfti>
+      <desloc_cfti>Tencin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Tende</desloc>
+      <lat_wgs84>44.0829</lat_wgs84>
+      <lon_wgs84>7.5876</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080066.00</nloc_cfti>
+      <desloc_cfti>Tende</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Thorame-Haute</desloc>
+      <lat_wgs84>44.1007</lat_wgs84>
+      <lon_wgs84>6.5495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080860.00</nloc_cfti>
+      <desloc_cfti>Thorame-Haute</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Torre Pellice</desloc>
+      <lat_wgs84>44.8215</lat_wgs84>
+      <lon_wgs84>7.2193</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>002378.00</nloc_cfti>
+      <desloc_cfti>Torre Pellice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, fu avvertita da molte persone che si trovavano a letto $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Varces-Allieres-et-Risset</desloc>
+      <lat_wgs84>45.084</lat_wgs84>
+      <lon_wgs84>5.6828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080877.00</nloc_cfti>
+      <desloc_cfti>Varces-Allieres-et-Risset</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vaujany</desloc>
+      <lat_wgs84>45.1507</lat_wgs84>
+      <lon_wgs84>6.0828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080878.00</nloc_cfti>
+      <desloc_cfti>Vaujany</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vaulnaveys-le-Haut</desloc>
+      <lat_wgs84>45.1174</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080880.00</nloc_cfti>
+      <desloc_cfti>Vaulnaveys-le-Haut</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ventimiglia</desloc>
+      <lat_wgs84>43.7909</lat_wgs84>
+      <lon_wgs84>7.6074</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032411.00</nloc_cfti>
+      <desloc_cfti>Ventimiglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(020482,672832)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Veynes</desloc>
+      <lat_wgs84>44.534</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080886.00</nloc_cfti>
+      <desloc_cfti>Veynes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vif</desloc>
+      <lat_wgs84>45.0507</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080888.00</nloc_cfti>
+      <desloc_cfti>Vif</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Villard-Notre-Dame</desloc>
+      <lat_wgs84>45.0174</lat_wgs84>
+      <lon_wgs84>6.0495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080892.00</nloc_cfti>
+      <desloc_cfti>Villard-Notre-Dame</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Villars-sur-Var</desloc>
+      <lat_wgs84>43.934</lat_wgs84>
+      <lon_wgs84>7.0995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080895.00</nloc_cfti>
+      <desloc_cfti>Villars-sur-Var</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Aups</desloc>
+      <lat_wgs84>43.6264</lat_wgs84>
+      <lon_wgs84>6.2197</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080022.00</nloc_cfti>
+      <desloc_cfti>Aups</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Beauvezer</desloc>
+      <lat_wgs84>44.1507</lat_wgs84>
+      <lon_wgs84>6.5828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080492.00</nloc_cfti>
+      <desloc_cfti>Beauvezer</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Bourgoin-Jallieu</desloc>
+      <lat_wgs84>45.584</lat_wgs84>
+      <lon_wgs84>5.2828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080505.00</nloc_cfti>
+      <desloc_cfti>Bourgoin-Jallieu</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Castellane</desloc>
+      <lat_wgs84>43.8522</lat_wgs84>
+      <lon_wgs84>6.5161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080032.00</nloc_cfti>
+      <desloc_cfti>Castellane</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Colmars</desloc>
+      <lat_wgs84>44.184</lat_wgs84>
+      <lon_wgs84>6.6329</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080550.00</nloc_cfti>
+      <desloc_cfti>Colmars</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>La Garde</desloc>
+      <lat_wgs84>45.0674</lat_wgs84>
+      <lon_wgs84>6.0495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080609.00</nloc_cfti>
+      <desloc_cfti>La Garde</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>La Motte-Servolex</desloc>
+      <lat_wgs84>45.6007</lat_wgs84>
+      <lon_wgs84>5.8828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080615.00</nloc_cfti>
+      <desloc_cfti>La Motte-Servolex</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>La Salle-en-Beaumont</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>5.8661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080622.00</nloc_cfti>
+      <desloc_cfti>La Salle-en-Beaumont</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>La Tour-du-Pin</desloc>
+      <lat_wgs84>45.5674</lat_wgs84>
+      <lon_wgs84>5.4494</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080625.00</nloc_cfti>
+      <desloc_cfti>La Tour-du-Pin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>La Verpillière</desloc>
+      <lat_wgs84>45.634</lat_wgs84>
+      <lon_wgs84>5.1494</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080628.00</nloc_cfti>
+      <desloc_cfti>La Verpillière</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Laffrey</desloc>
+      <lat_wgs84>45.034</lat_wgs84>
+      <lon_wgs84>5.7661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080630.00</nloc_cfti>
+      <desloc_cfti>Laffrey</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Lettret</desloc>
+      <lat_wgs84>44.4674</lat_wgs84>
+      <lon_wgs84>6.0662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080672.00</nloc_cfti>
+      <desloc_cfti>Lettret</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Monêtier-Allemont</desloc>
+      <lat_wgs84>44.384</lat_wgs84>
+      <lon_wgs84>5.9495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080695.00</nloc_cfti>
+      <desloc_cfti>Monêtier-Allemont</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Montclar</desloc>
+      <lat_wgs84>44.4007</lat_wgs84>
+      <lon_wgs84>6.3328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080701.00</nloc_cfti>
+      <desloc_cfti>Montclar</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Riez</desloc>
+      <lat_wgs84>43.8173</lat_wgs84>
+      <lon_wgs84>6.0828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080759.00</nloc_cfti>
+      <desloc_cfti>Riez</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Saint-Cassin</desloc>
+      <lat_wgs84>45.534</lat_wgs84>
+      <lon_wgs84>5.8995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080779.00</nloc_cfti>
+      <desloc_cfti>Saint-Cassin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Saint-Genix-sur-Guiers</desloc>
+      <lat_wgs84>45.6174</lat_wgs84>
+      <lon_wgs84>5.6495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080787.00</nloc_cfti>
+      <desloc_cfti>Saint-Genix-sur-Guiers</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Saint-Marcellin</desloc>
+      <lat_wgs84>45.1507</lat_wgs84>
+      <lon_wgs84>5.3328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080063.00</nloc_cfti>
+      <desloc_cfti>Saint-Marcellin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Sausses</desloc>
+      <lat_wgs84>44.0173</lat_wgs84>
+      <lon_wgs84>6.7829</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080833.00</nloc_cfti>
+      <desloc_cfti>Sausses</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Sievoz</desloc>
+      <lat_wgs84>44.9007</lat_wgs84>
+      <lon_wgs84>5.8328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080843.00</nloc_cfti>
+      <desloc_cfti>Sievoz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Valbonnais</desloc>
+      <lat_wgs84>44.9007</lat_wgs84>
+      <lon_wgs84>5.8995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080868.00</nloc_cfti>
+      <desloc_cfti>Valbonnais</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Vence</desloc>
+      <lat_wgs84>43.72</lat_wgs84>
+      <lon_wgs84>7.1061</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080224.00</nloc_cfti>
+      <desloc_cfti>Vence</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Virieu</desloc>
+      <lat_wgs84>45.484</lat_wgs84>
+      <lon_wgs84>5.4828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080897.00</nloc_cfti>
+      <desloc_cfti>Virieu</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Volx</desloc>
+      <lat_wgs84>43.884</lat_wgs84>
+      <lon_wgs84>5.8495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080902.00</nloc_cfti>
+      <desloc_cfti>Volx</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III-IV MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Aiguebelette-le-Lac</desloc>
+      <lat_wgs84>45.534</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080454.00</nloc_cfti>
+      <desloc_cfti>Aiguebelette-le-Lac</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Albenga</desloc>
+      <lat_wgs84>44.0498</lat_wgs84>
+      <lon_wgs84>8.2125</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032432.00</nloc_cfti>
+      <desloc_cfti>Albenga</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Aspres-les-Corps</desloc>
+      <lat_wgs84>44.8007</lat_wgs84>
+      <lon_wgs84>5.9828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080469.00</nloc_cfti>
+      <desloc_cfti>Aspres-les-Corps</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Barjols</desloc>
+      <lat_wgs84>43.5507</lat_wgs84>
+      <lon_wgs84>6.0162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080483.00</nloc_cfti>
+      <desloc_cfti>Barjols</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Besse</desloc>
+      <lat_wgs84>45.0674</lat_wgs84>
+      <lon_wgs84>6.1662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080497.00</nloc_cfti>
+      <desloc_cfti>Besse</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bordighera</desloc>
+      <lat_wgs84>43.7824</lat_wgs84>
+      <lon_wgs84>7.6607</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032112.00</nloc_cfti>
+      <desloc_cfti>Bordighera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto sveglie $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Camporosso</desloc>
+      <lat_wgs84>43.8159</lat_wgs84>
+      <lon_wgs84>7.6268</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032142.00</nloc_cfti>
+      <desloc_cfti>Camporosso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto sveglie $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Champ-sur-Drac</desloc>
+      <lat_wgs84>45.0674</lat_wgs84>
+      <lon_wgs84>5.7328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080526.00</nloc_cfti>
+      <desloc_cfti>Champ-sur-Drac</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Corbières</desloc>
+      <lat_wgs84>43.7673</lat_wgs84>
+      <lon_wgs84>5.7495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080553.00</nloc_cfti>
+      <desloc_cfti>Corbières</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Courségoules</desloc>
+      <lat_wgs84>43.7946</lat_wgs84>
+      <lon_wgs84>7.0331</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080157.00</nloc_cfti>
+      <desloc_cfti>Courségoules</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Diano Arentino</desloc>
+      <lat_wgs84>43.9509</lat_wgs84>
+      <lon_wgs84>8.0393</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032176.00</nloc_cfti>
+      <desloc_cfti>Diano Arentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Diano Borello</desloc>
+      <lat_wgs84>43.9466</lat_wgs84>
+      <lon_wgs84>8.0486</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032177.00</nloc_cfti>
+      <desloc_cfti>Diano Borello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Draguignan</desloc>
+      <lat_wgs84>43.544</lat_wgs84>
+      <lon_wgs84>6.4664</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080037.00</nloc_cfti>
+      <desloc_cfti>Draguignan</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fayence</desloc>
+      <lat_wgs84>43.6173</lat_wgs84>
+      <lon_wgs84>6.6995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080571.00</nloc_cfti>
+      <desloc_cfti>Fayence</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Gigors</desloc>
+      <lat_wgs84>44.4174</lat_wgs84>
+      <lon_wgs84>6.1662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080582.00</nloc_cfti>
+      <desloc_cfti>Gigors</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>L'Escarène</desloc>
+      <lat_wgs84>43.8277</lat_wgs84>
+      <lon_wgs84>7.3374</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080171.00</nloc_cfti>
+      <desloc_cfti>L’Escarène</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>La Chambre</desloc>
+      <lat_wgs84>45.3674</lat_wgs84>
+      <lon_wgs84>6.2995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080601.00</nloc_cfti>
+      <desloc_cfti>La Chambre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Lavars</desloc>
+      <lat_wgs84>44.8507</lat_wgs84>
+      <lon_wgs84>5.6661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080637.00</nloc_cfti>
+      <desloc_cfti>Lavars</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Le Bourget-du-Lac</desloc>
+      <lat_wgs84>45.6507</lat_wgs84>
+      <lon_wgs84>5.8661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080641.00</nloc_cfti>
+      <desloc_cfti>Le Bourget-du-Lac</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Le Gua</desloc>
+      <lat_wgs84>45.0174</lat_wgs84>
+      <lon_wgs84>5.6161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080648.00</nloc_cfti>
+      <desloc_cfti>Le Gua</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Le Luc</desloc>
+      <lat_wgs84>43.4007</lat_wgs84>
+      <lon_wgs84>6.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080650.00</nloc_cfti>
+      <desloc_cfti>Le Luc</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Limone Piemonte</desloc>
+      <lat_wgs84>44.2006</lat_wgs84>
+      <lon_wgs84>7.5756</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>005890.00</nloc_cfti>
+      <desloc_cfti>Limone Piemonte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto sveglie $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Loriol</desloc>
+      <lat_wgs84>44.7511</lat_wgs84>
+      <lon_wgs84>4.811</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080177.00</nloc_cfti>
+      <desloc_cfti>Loriol</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Manosque</desloc>
+      <lat_wgs84>43.834</lat_wgs84>
+      <lon_wgs84>5.7828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080681.00</nloc_cfti>
+      <desloc_cfti>Manosque</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Marseille</desloc>
+      <lat_wgs84>43.2805</lat_wgs84>
+      <lon_wgs84>5.3763</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080052.00</nloc_cfti>
+      <desloc_cfti>Marseille</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Meolans-Revel</desloc>
+      <lat_wgs84>44.4007</lat_wgs84>
+      <lon_wgs84>6.5162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080689.00</nloc_cfti>
+      <desloc_cfti>Meolans-Revel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Moncalieri</desloc>
+      <lat_wgs84>45.0008</lat_wgs84>
+      <lon_wgs84>7.7018</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>001426.00</nloc_cfti>
+      <desloc_cfti>Moncalieri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da alcune persone $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montcel</desloc>
+      <lat_wgs84>45.7174</lat_wgs84>
+      <lon_wgs84>5.9828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080700.00</nloc_cfti>
+      <desloc_cfti>Montcel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montrond</desloc>
+      <lat_wgs84>45.2007</lat_wgs84>
+      <lon_wgs84>6.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080705.00</nloc_cfti>
+      <desloc_cfti>Montrond</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Morestel</desloc>
+      <lat_wgs84>45.684</lat_wgs84>
+      <lon_wgs84>5.4661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080706.00</nloc_cfti>
+      <desloc_cfti>Morestel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pélleautier</desloc>
+      <lat_wgs84>44.5174</lat_wgs84>
+      <lon_wgs84>6.0162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080731.00</nloc_cfti>
+      <desloc_cfti>Pélleautier</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pierre-Châtel</desloc>
+      <lat_wgs84>44.9507</lat_wgs84>
+      <lon_wgs84>5.7828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080738.00</nloc_cfti>
+      <desloc_cfti>Pierre-Châtel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Puget-Théniers</desloc>
+      <lat_wgs84>43.9673</lat_wgs84>
+      <lon_wgs84>6.8995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080746.00</nloc_cfti>
+      <desloc_cfti>Puget-Théniers</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Puy-Saint-André</desloc>
+      <lat_wgs84>44.884</lat_wgs84>
+      <lon_wgs84>6.5995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080748.00</nloc_cfti>
+      <desloc_cfti>Puy-Saint-André</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Racconigi</desloc>
+      <lat_wgs84>44.7682</lat_wgs84>
+      <lon_wgs84>7.68</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>006547.00</nloc_cfti>
+      <desloc_cfti>Racconigi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone che si trovavano a letto sveglie $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Remollon</desloc>
+      <lat_wgs84>44.4674</lat_wgs84>
+      <lon_wgs84>6.1662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080757.00</nloc_cfti>
+      <desloc_cfti>Remollon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Romette</desloc>
+      <lat_wgs84>44.584</lat_wgs84>
+      <lon_wgs84>6.0995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080764.00</nloc_cfti>
+      <desloc_cfti>Romette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Roussillon</desloc>
+      <lat_wgs84>45.3674</lat_wgs84>
+      <lon_wgs84>4.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080769.00</nloc_cfti>
+      <desloc_cfti>Roussillon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Agnan-en-Vercors</desloc>
+      <lat_wgs84>44.934</lat_wgs84>
+      <lon_wgs84>5.4328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080771.00</nloc_cfti>
+      <desloc_cfti>Saint-Agnan-en-Vercors</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Avre</desloc>
+      <lat_wgs84>45.3507</lat_wgs84>
+      <lon_wgs84>6.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080775.00</nloc_cfti>
+      <desloc_cfti>Saint-Avre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Honoré</desloc>
+      <lat_wgs84>44.9507</lat_wgs84>
+      <lon_wgs84>5.8161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080790.00</nloc_cfti>
+      <desloc_cfti>Saint-Honoré</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Michel-en-Beaumont</desloc>
+      <lat_wgs84>44.8674</lat_wgs84>
+      <lon_wgs84>5.8995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080809.00</nloc_cfti>
+      <desloc_cfti>Saint-Michel-en-Beaumont</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Sauveur-sur-Tinée</desloc>
+      <lat_wgs84>44.0823</lat_wgs84>
+      <lon_wgs84>7.1034</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080210.00</nloc_cfti>
+      <desloc_cfti>Saint-Sauveur-sur-Tinée</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Sorlin-d'Arves</desloc>
+      <lat_wgs84>45.2174</lat_wgs84>
+      <lon_wgs84>6.2328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080819.00</nloc_cfti>
+      <desloc_cfti>Saint-Sorlin-d’Arves</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Vallier-de-Thiey</desloc>
+      <lat_wgs84>43.7007</lat_wgs84>
+      <lon_wgs84>6.8495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080821.00</nloc_cfti>
+      <desloc_cfti>Saint-Vallier-de-Thiey</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saluzzo</desloc>
+      <lat_wgs84>44.6449</lat_wgs84>
+      <lon_wgs84>7.4892</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>006760.00</nloc_cfti>
+      <desloc_cfti>Saluzzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi che si trovavano a letto svegli; alcuni non capirono che si trattava di un terremoto $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Selonnet</desloc>
+      <lat_wgs84>44.3674</lat_wgs84>
+      <lon_wgs84>6.3162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080840.00</nloc_cfti>
+      <desloc_cfti>Selonnet</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sospel</desloc>
+      <lat_wgs84>43.884</lat_wgs84>
+      <lon_wgs84>7.4496</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080216.00</nloc_cfti>
+      <desloc_cfti>Sospel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Tavernes</desloc>
+      <lat_wgs84>43.6007</lat_wgs84>
+      <lon_wgs84>6.0162</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080854.00</nloc_cfti>
+      <desloc_cfti>Tavernes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Toulon</desloc>
+      <lat_wgs84>43.1332</lat_wgs84>
+      <lon_wgs84>5.9256</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080220.00</nloc_cfti>
+      <desloc_cfti>Toulon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Triora</desloc>
+      <lat_wgs84>43.9928</lat_wgs84>
+      <lon_wgs84>7.7654</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032371.00</nloc_cfti>
+      <desloc_cfti>Triora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nelle "Notizie sismiche" pervenute all’Ufficio Centrale di Meteorologia e Geodinamica $(020482)$ gli effetti sismici in questa località sono stati stimati di grado III.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Tullins</desloc>
+      <lat_wgs84>45.3007</lat_wgs84>
+      <lon_wgs84>5.4828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080862.00</nloc_cfti>
+      <desloc_cfti>Tullins</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Villefranche-sur-Mer</desloc>
+      <lat_wgs84>43.6989</lat_wgs84>
+      <lon_wgs84>7.2915</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080226.00</nloc_cfti>
+      <desloc_cfti>Villefranche-sur-Mer</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Oropa</desloc>
+      <lat_wgs84>45.6275</lat_wgs84>
+      <lon_wgs84>7.9805</lon_wgs84>
+      <provlet>BI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>002773.00</nloc_cfti>
+      <desloc_cfti>Oropa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto leggera $(020482,080147)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Thoiry</desloc>
+      <lat_wgs84>45.5841</lat_wgs84>
+      <lon_wgs84>6.0328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080858.00</nloc_cfti>
+      <desloc_cfti>Thoiry</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II-III MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Aix-les-Bains</desloc>
+      <lat_wgs84>45.7007</lat_wgs84>
+      <lon_wgs84>5.9161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080456.00</nloc_cfti>
+      <desloc_cfti>Aix-les-Bains</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Andora</desloc>
+      <lat_wgs84>43.9512</lat_wgs84>
+      <lon_wgs84>8.1426</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>032471.99</nloc_cfti>
+      <desloc_cfti>Andora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da una persona che si trovava a letto sveglia $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Antibes</desloc>
+      <lat_wgs84>43.5718</lat_wgs84>
+      <lon_wgs84>7.1168</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080021.00</nloc_cfti>
+      <desloc_cfti>Antibes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Barberaz</desloc>
+      <lat_wgs84>45.5674</lat_wgs84>
+      <lon_wgs84>5.9328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080481.00</nloc_cfti>
+      <desloc_cfti>Barberaz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Le Pilhon</desloc>
+      <lat_wgs84>44.6007</lat_wgs84>
+      <lon_wgs84>5.5995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080656.00</nloc_cfti>
+      <desloc_cfti>Le Pilhon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Lorgues</desloc>
+      <lat_wgs84>43.5007</lat_wgs84>
+      <lon_wgs84>6.3662</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080674.00</nloc_cfti>
+      <desloc_cfti>Lorgues</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Novi Ligure</desloc>
+      <lat_wgs84>44.7649</lat_wgs84>
+      <lon_wgs84>8.7879</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>008811.00</nloc_cfti>
+      <desloc_cfti>Novi Ligure</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da una persona che si trovava a letto sveglia $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Ormea</desloc>
+      <lat_wgs84>44.1538</lat_wgs84>
+      <lon_wgs84>7.9131</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>006312.00</nloc_cfti>
+      <desloc_cfti>Ormea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochissime persone sveglie $(020482)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Puy-Sanieres</desloc>
+      <lat_wgs84>44.5507</lat_wgs84>
+      <lon_wgs84>6.4328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080752.00</nloc_cfti>
+      <desloc_cfti>Puy-Sanieres</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Ruffieux</desloc>
+      <lat_wgs84>45.8507</lat_wgs84>
+      <lon_wgs84>5.8495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080770.00</nloc_cfti>
+      <desloc_cfti>Ruffieux</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Saint-Étienne</desloc>
+      <lat_wgs84>44.0507</lat_wgs84>
+      <lon_wgs84>5.7828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080782.00</nloc_cfti>
+      <desloc_cfti>Saint-Étienne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Saint-Georges-de-Commiers</desloc>
+      <lat_wgs84>45.034</lat_wgs84>
+      <lon_wgs84>5.6995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080788.00</nloc_cfti>
+      <desloc_cfti>Saint-Georges-de-Commiers</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sederon</desloc>
+      <lat_wgs84>44.2007</lat_wgs84>
+      <lon_wgs84>5.5328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080839.00</nloc_cfti>
+      <desloc_cfti>Sederon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Vienne</desloc>
+      <lat_wgs84>45.523</lat_wgs84>
+      <lon_wgs84>4.8792</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31547</nterr>
+      <nloc_cfti>080068.00</nloc_cfti>
+      <desloc_cfti>Vienne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II MSK $(052123)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42109</nterr>
+      <nperiod>009083</nperiod>
+      <datanum>14090817</datanum>
+      <data_label>1409 08 17</data_label>
+      <anno>1409</anno>
+      <mese>08</mese>
+      <giorno>17</giorno>
+      <time_label>00:35</time_label>
+      <ora>00</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 14 agosto 1409 alle 8:45 GMT circa (le ore 14 in uso orario "all’italiana") a Ferrara fu sentita una leggera scossa di terremoto.&lt;br&gt;Nella notte tra il 16 e il 17 agosto 1409 (alle ore 0:35 o alle 2:35 GMT circa, le ore 6 o le ore 8 in uso orario "all’italiana", le fonti a questo riguardo sono leggermente discordanti), sempre a Ferrara fu sentito un terremoto che fece cadere molti comignoli. Si trattò probabilmente di un terremoto di origine locale: le fonti sostengono infatti che non fu sentito in altre località dell’area ferrarese.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070036</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 534, Giacomo da Marano, Cronica, 2 voll., sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ferrarese dall’anno 1409 sino al 1502 di autori incerti, ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.1.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090402</codbib>
+      <autore1>Guidoboni E.</autore1>
+      <titolo1>The gaps of the Italian catalogue: a problem of method for the researches on historical seismicity. Examples in the Ferrara area (XIth-XVIth century), in "Atti del 4º Convegno", Roma 29-31 ottobre 1985, CNR-GNGTS, Roma, vol.1, pp.273-285.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Biblioteca, Manoscritti, 44, Frammenti di cronaca del 1409.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1409</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42109</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

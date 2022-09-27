@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060542.00</nloc_cfti>
+      <desloc_cfti>Villaricca</desloc_cfti>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>40.9212</lat_wgs84>
+      <lon_wgs84>14.1943</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1985) hanno valutato l’intensità della scossa di VI grado MCS $(002133)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002133</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Irpinia earthquake of August 21, 1962, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.148-149.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

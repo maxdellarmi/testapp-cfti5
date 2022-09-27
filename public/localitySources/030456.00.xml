@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>030456.00</nloc_cfti>
+      <desloc_cfti>Coltura</desloc_cfti>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>46.0354</lat_wgs84>
+      <lon_wgs84>12.491</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò il crollo del soffitto, di 2 altari e dell’estremità del campanile della chiesa parrocchiale $(600160,870213)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi lesioni e crolli parziali. Vi fu 1 morto $(095085)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>600160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1873.07.03.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1873.07.04, n.155.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095085</codbib>
+      <autore1>Andreotti G.</autore1>
+      <titolo1>Il terremoto del 18 Ottobre 1936, in "Memorie del Reale Istituto Veneto di Scienze, Lettere ed Arti", vol.30, n.3, pp.3-24, con una carta delle isosisme e 15 foto.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1937</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

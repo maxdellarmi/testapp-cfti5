@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058109.00</nloc_cfti>
+      <desloc_cfti>San Martino sulla Marrucina</desloc_cfti>
+      <provlet>CH</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>42.2249</lat_wgs84>
+      <lon_wgs84>14.2143</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30838</nterr>
+      <nperiod>003120</nperiod>
+      <datanum>19330926</datanum>
+      <data_label>1933 09 26</data_label>
+      <anno>1933</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>03:33:29</time_label>
+      <ora>03</ora>
+      <minu>33</minu>
+      <sec>29</sec>
+      <lat>42.08</lat>
+      <lon>14.0929</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>325</npun>
+      <mm>6</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni rilevanti: 61 case furono gravemente danneggiate e altre 43 subirono danni più leggerii; ci furono 2 feriti $(583303,671373,745067)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa del 7 maggio di V grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Furono distrutte 28 case, subì danni la chiesa $(645096,470004)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>645096</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 149, inc.3, c.24., Delibera della Regia Camera della Sommaria relativa alla relazione del tesoriere di Chieti sulle modalità di esazione dei pagamenti fiscali nelle terre danneggiate dal terremoto del 3 novembre 1706, Napoli 27 ottobre 1707.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1707</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione del danno cagionato dal Terremoto succeduto à dì 3 Novembre 1706 secondo le notizie venute à questo Eccellentissimo Marchese di Vigliena &amp;c. ed altre raccolte da varie lettere particolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1706</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583303</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1933, Telegrammi in arrivo dal 21 settembre al 27 settembre, n.45893, Telegramma del maresciallo dei Carabinieri Bortoloni al Ministero dell’Interno e al Ministero dei Lavori pubblici, Fara Filiorum Petri 26 settembre 1933.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671373</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Terremoto in Abruzzo 26 settembre 1933 X, Elenco dei comuni della provincia di Chieti danneggiati dal terremoto del 26 settembre 1933 redatto dall’Associazione della proprietà edilizia per gli Abruzzi e Molise, L’Aquila ottobre 1933.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1933.09.24, n.229.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

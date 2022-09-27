@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>31050</nterr>
+      <nperiod>003225</nperiod>
+      <datanum>19341130</datanum>
+      <data_label>1934 11 30</data_label>
+      <anno>1934</anno>
+      <mese>11</mese>
+      <giorno>30</giorno>
+      <time_label>02:58:23</time_label>
+      <ora>02</ora>
+      <minu>58</minu>
+      <sec>23</sec>
+      <lat>44.5562</lat>
+      <lon>13.7224</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>51</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.2</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata sul "Bollettino sismico" dell’Ufficio Centrale di Meteorologia e Geofisica, curato da Cavasino (1937) $(000035)$, sullo studio di Caloi (1942) $(745066)$ e sul catalogo di Kárník (1968-1971) $(081939)$.&lt;br&gt;Per integrare le informazioni note è stata condotta una ricerca bibliografica. Sono stati utilizzati gli studi di Andreotti (1934) $(780084)$ e di Caloi (1937) $(090447)$. Sono state inoltre utilizzate 3 cronache giornalistiche, afferenti a 3 testate $(130606,130607,940762)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 30 novembre 1934 alle ore 2:59 GMT e interessò l’alto bacino adriatico. Non vi furono danni. La scossa fu avvertita fortemente, con generale risveglio degli abitanti, in numerose località italiane e croate. L’area di risentimento si estese a tutta l’Italia nord-orientale da Bolzano a Elice, in provincia di Pescara.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>A bordo di una nave diretta da Ancona a Fiume, che si trovava in un punto imprecisato, a circa 90 km dalla costa, fu avvertito un violento sussulto, che causò un effetto simile a quello dell’urto della chiglia contro uno scoglio. Non furono segnalati effetti di maremoto sulle coste.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000035</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1934, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000928</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino Sismico Settimanale, 1934.11.26-12.02, n.891, a cura di A.Cavasino, Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090447</codbib>
+      <autore1>Caloi P.</autore1>
+      <titolo1>Il terremoto adriatico del 30 Novembre 1934, in "Bollettino della Società Sismologica Italiana", vol.35 (1937), pp.93-119.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090448</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie sismiche, in "Bollettino della Società Sismologica Italiana", vol.33 (1935), pp.80-87.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130606</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1934.12.01, n.285.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130607</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1934.12.01, n.285.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745066</codbib>
+      <autore1>Caloi P.</autore1>
+      <titolo1>Attività sismica in Italia nel decennio 1930-1939, Pubblicazioni della "Commissione Italiana di Studio per i Problemi del Soccorso alle Popolazioni", vol.9.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1942</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780084</codbib>
+      <autore1>Andreotti G.</autore1>
+      <titolo1>La zona epicentrale e la profondità del fuoco del terremoto dell’Alto Adriatico 30 Novembre 1934, in "Atti dell’Accademia Scientifica Veneto-Trentino-Istriana", vol.25 (1934), pp.119-120.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940762</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1934.12.01, n.334.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ancona</desloc>
+      <lat_wgs84>43.6038</lat_wgs84>
+      <lon_wgs84>13.5073</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051058.00</nloc_cfti>
+      <desloc_cfti>Ancona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 5s e accompagnata da rombo, fu avvertita fortemente; alcune persone uscirono all’aperto $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Faenza</desloc>
+      <lat_wgs84>44.2886</lat_wgs84>
+      <lon_wgs84>11.8809</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>041197.00</nloc_cfti>
+      <desloc_cfti>Faenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente da tutti e causò panico $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Fermo</desloc>
+      <lat_wgs84>43.1611</lat_wgs84>
+      <lon_wgs84>13.7155</lon_wgs84>
+      <provlet>FM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>052485.00</nloc_cfti>
+      <desloc_cfti>Fermo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di V grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Grado</desloc>
+      <lat_wgs84>45.6789</lat_wgs84>
+      <lon_wgs84>13.3975</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>031942.00</nloc_cfti>
+      <desloc_cfti>Grado</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò panico in parte della popolazione, che trascorse la notte all’aperto $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Koper</desloc>
+      <lat_wgs84>45.5405</lat_wgs84>
+      <lon_wgs84>13.7306</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080310.00</nloc_cfti>
+      <desloc_cfti>Koper</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di V grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Osimo</desloc>
+      <lat_wgs84>43.4861</lat_wgs84>
+      <lon_wgs84>13.4824</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051373.00</nloc_cfti>
+      <desloc_cfti>Osimo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di V grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pazin</desloc>
+      <lat_wgs84>45.2282</lat_wgs84>
+      <lon_wgs84>13.9399</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080082.00</nloc_cfti>
+      <desloc_cfti>Pazin</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da lungo boato, fu avvertita fortemente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pula</desloc>
+      <lat_wgs84>44.8548</lat_wgs84>
+      <lon_wgs84>13.8576</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080085.00</nloc_cfti>
+      <desloc_cfti>Pula</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu generalmente avvertita e allarmò la popolazione $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rijeka</desloc>
+      <lat_wgs84>45.3349</lat_wgs84>
+      <lon_wgs84>14.441</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080086.00</nloc_cfti>
+      <desloc_cfti>Rijeka</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 7s e accompagnata da boato fu avvertita fortemente e causò il risveglio della popolazione $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ripatransone</desloc>
+      <lat_wgs84>42.9997</lat_wgs84>
+      <lon_wgs84>13.7621</lon_wgs84>
+      <provlet>AP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>052703.00</nloc_cfti>
+      <desloc_cfti>Ripatransone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di V grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu generalmente avvertita e causò spavento soprattutto nella parte vecchia della città $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Zadar</desloc>
+      <lat_wgs84>44.1128</lat_wgs84>
+      <lon_wgs84>15.2287</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080094.00</nloc_cfti>
+      <desloc_cfti>Zadar</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò il risveglio di quasi tutta la popolazione $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Talacchio</desloc>
+      <lat_wgs84>43.8295</lat_wgs84>
+      <lon_wgs84>12.7114</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>050431.00</nloc_cfti>
+      <desloc_cfti>Talacchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita e venne accompagnata da un rombo $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Zagreb</desloc>
+      <lat_wgs84>45.8161</lat_wgs84>
+      <lon_wgs84>15.965</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080095.00</nloc_cfti>
+      <desloc_cfti>Zagreb</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Jesi</desloc>
+      <lat_wgs84>43.5229</lat_wgs84>
+      <lon_wgs84>13.2447</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051311.00</nloc_cfti>
+      <desloc_cfti>Jesi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV-V grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ljubljana</desloc>
+      <lat_wgs84>46.0588</lat_wgs84>
+      <lon_wgs84>14.5032</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080076.00</nloc_cfti>
+      <desloc_cfti>Ljubljana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente e causò il risveglio di gran parte della popolazione $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Pesaro</desloc>
+      <lat_wgs84>43.9052</lat_wgs84>
+      <lon_wgs84>12.9049</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>050783.00</nloc_cfti>
+      <desloc_cfti>Pesaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò leggero tremolio di vetri e qualche scricchiolio; in alcune abitazioni suonarono i campanelli. Vi fu panico in alcuni rioni della città: alcune persone uscirono all’aperto $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Comacchio</desloc>
+      <lat_wgs84>44.6952</lat_wgs84>
+      <lon_wgs84>12.1827</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>040475.00</nloc_cfti>
+      <desloc_cfti>Comacchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Giulianova</desloc>
+      <lat_wgs84>42.7521</lat_wgs84>
+      <lon_wgs84>13.9577</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>056757.00</nloc_cfti>
+      <desloc_cfti>Giulianova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Gorizia</desloc>
+      <lat_wgs84>45.9434</lat_wgs84>
+      <lon_wgs84>13.6197</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>031919.00</nloc_cfti>
+      <desloc_cfti>Gorizia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Monselice</desloc>
+      <lat_wgs84>45.24</lat_wgs84>
+      <lon_wgs84>11.7507</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>029029.00</nloc_cfti>
+      <desloc_cfti>Monselice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Montelupone</desloc>
+      <lat_wgs84>43.344</lat_wgs84>
+      <lon_wgs84>13.568</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051847.00</nloc_cfti>
+      <desloc_cfti>Montelupone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Porec</desloc>
+      <lat_wgs84>45.2214</lat_wgs84>
+      <lon_wgs84>13.6071</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080084.00</nloc_cfti>
+      <desloc_cfti>Porec</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Recanati</desloc>
+      <lat_wgs84>43.4036</lat_wgs84>
+      <lon_wgs84>13.5498</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051972.00</nloc_cfti>
+      <desloc_cfti>Recanati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rimini</desloc>
+      <lat_wgs84>44.06</lat_wgs84>
+      <lon_wgs84>12.5666</lon_wgs84>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>041984.00</nloc_cfti>
+      <desloc_cfti>Rimini</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Salò</desloc>
+      <lat_wgs84>45.6065</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>016874.00</nloc_cfti>
+      <desloc_cfti>Salò</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Senigallia</desloc>
+      <lat_wgs84>43.7146</lat_wgs84>
+      <lon_wgs84>13.2231</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051516.00</nloc_cfti>
+      <desloc_cfti>Senigallia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Udine</desloc>
+      <lat_wgs84>46.0641</lat_wgs84>
+      <lon_wgs84>13.2357</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>031830.00</nloc_cfti>
+      <desloc_cfti>Udine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita distintamente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Urbino</desloc>
+      <lat_wgs84>43.7266</lat_wgs84>
+      <lon_wgs84>12.636</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051050.00</nloc_cfti>
+      <desloc_cfti>Urbino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vittorio Veneto</desloc>
+      <lat_wgs84>45.9831</lat_wgs84>
+      <lon_wgs84>12.3046</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>027725.00</nloc_cfti>
+      <desloc_cfti>Vittorio Veneto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Macerata</desloc>
+      <lat_wgs84>43.3001</lat_wgs84>
+      <lon_wgs84>13.4523</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051792.00</nloc_cfti>
+      <desloc_cfti>Macerata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III-IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Rovinj</desloc>
+      <lat_wgs84>45.082</lat_wgs84>
+      <lon_wgs84>13.643</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080087.00</nloc_cfti>
+      <desloc_cfti>Rovinj</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III-IV grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, percepita in 2 riprese a distanza di 1s, fu leggera ma venne avvertita da gran parte della popolazione a causa della leggera oscillazione dei lampadari e del blando tremolio dei letti; non vi fu panico $(940762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Asolo</desloc>
+      <lat_wgs84>45.8021</lat_wgs84>
+      <lon_wgs84>11.9135</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>026705.00</nloc_cfti>
+      <desloc_cfti>Asolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bertinoro</desloc>
+      <lat_wgs84>44.1481</lat_wgs84>
+      <lon_wgs84>12.1342</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>041501.00</nloc_cfti>
+      <desloc_cfti>Bertinoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Breno</desloc>
+      <lat_wgs84>45.9573</lat_wgs84>
+      <lon_wgs84>10.3029</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>015787.00</nloc_cfti>
+      <desloc_cfti>Breno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Camerino</desloc>
+      <lat_wgs84>43.136</lat_wgs84>
+      <lon_wgs84>13.068</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051588.00</nloc_cfti>
+      <desloc_cfti>Camerino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Cepovan</desloc>
+      <lat_wgs84>46.0618</lat_wgs84>
+      <lon_wgs84>13.802</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080305.00</nloc_cfti>
+      <desloc_cfti>Cepovan</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Codroipo</desloc>
+      <lat_wgs84>45.9621</lat_wgs84>
+      <lon_wgs84>12.9813</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>030827.00</nloc_cfti>
+      <desloc_cfti>Codroipo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montecarotto</desloc>
+      <lat_wgs84>43.5267</lat_wgs84>
+      <lon_wgs84>13.0633</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051334.00</nloc_cfti>
+      <desloc_cfti>Montecarotto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montefano</desloc>
+      <lat_wgs84>43.4121</lat_wgs84>
+      <lon_wgs84>13.4381</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051845.00</nloc_cfti>
+      <desloc_cfti>Montefano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pollenza</desloc>
+      <lat_wgs84>43.2677</lat_wgs84>
+      <lon_wgs84>13.3479</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>051943.00</nloc_cfti>
+      <desloc_cfti>Pollenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ravenna</desloc>
+      <lat_wgs84>44.4178</lat_wgs84>
+      <lon_wgs84>12.1982</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>041374.00</nloc_cfti>
+      <desloc_cfti>Ravenna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>San Benedetto del Tronto</desloc>
+      <lat_wgs84>42.9343</lat_wgs84>
+      <lon_wgs84>13.8928</lon_wgs84>
+      <provlet>AP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>052745.00</nloc_cfti>
+      <desloc_cfti>San Benedetto del Tronto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Claut</desloc>
+      <lat_wgs84>46.2679</lat_wgs84>
+      <lon_wgs84>12.515</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>030307.00</nloc_cfti>
+      <desloc_cfti>Claut</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di II-III grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Locarno</desloc>
+      <lat_wgs84>46.171</lat_wgs84>
+      <lon_wgs84>8.7931</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>080314.00</nloc_cfti>
+      <desloc_cfti>Locarno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(090447)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Bolzano</desloc>
+      <lat_wgs84>46.4978</lat_wgs84>
+      <lon_wgs84>11.3542</lon_wgs84>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>020302.00</nloc_cfti>
+      <desloc_cfti>Bolzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di II grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Elice</desloc>
+      <lat_wgs84>42.5186</lat_wgs84>
+      <lon_wgs84>13.9683</lon_wgs84>
+      <provlet>PE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>057260.00</nloc_cfti>
+      <desloc_cfti>Elice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di II grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Riva del Garda</desloc>
+      <lat_wgs84>45.8881</lat_wgs84>
+      <lon_wgs84>10.8439</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>31050</nterr>
+      <nloc_cfti>021778.00</nloc_cfti>
+      <desloc_cfti>Riva del Garda</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cavasino (1937) nel "Bollettino sismico" valutò l’intensità della scossa di II grado della scala Mercalli $(000035)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

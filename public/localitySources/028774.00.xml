@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>028774.00</nloc_cfti>
+      <desloc_cfti>Cittadella</desloc_cfti>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>9</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.649</lat_wgs84>
+      <lon_wgs84>11.7838</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Margottini et al. (1984) hanno valutato l’intensità della scossa di III grado MCS $(035061)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20434</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>04:52</time_label>
+      <ora>04</ora>
+      <minu>52</minu>
+      <sec>-9</sec>
+      <lat>45.3184</lat>
+      <lon>11.0727</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>122</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(385683)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20792</nterr>
+      <nperiod>000391</nperiod>
+      <datanum>19080315</datanum>
+      <data_label>1908 03 15</data_label>
+      <anno>1908</anno>
+      <mese>03</mese>
+      <giorno>15</giorno>
+      <time_label>07:38:38</time_label>
+      <ora>07</ora>
+      <minu>38</minu>
+      <sec>38</sec>
+      <lat>45.6236</lat>
+      <lon>11.2066</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>28</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Valle del Chiampo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21142</nterr>
+      <nperiod>003219</nperiod>
+      <datanum>19080710</datanum>
+      <data_label>1908 07 10</data_label>
+      <anno>1908</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:13:35</time_label>
+      <ora>02</ora>
+      <minu>13</minu>
+      <sec>35</sec>
+      <lat>46.4655</lat>
+      <lon>13.1904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>120</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Martinelli, sulla scorta delle cartoline macrosismiche, riferisce che la scossa non fu avvertita $(000018)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17186</nterr>
+      <nperiod>000326</nperiod>
+      <datanum>18991115</datanum>
+      <data_label>1899 11 15</data_label>
+      <anno>1899</anno>
+      <mese>11</mese>
+      <giorno>15</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.4041</lat>
+      <lon>11.4399</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>25</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Vicentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110500)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(143195)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Sono documentati danni al palazzo del Podestà $(500077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>500077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Terra, reg.230, c.168v, Lettera del Senato veneziano al Podestà di Padova, Venezia 25 maggio 1695, relativa al restauro del Palazzo di Cittadella danneggiato dal terremoto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385683</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Cittadella settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110500</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.200, Lettera del Sindaco di Cittadella relativa al terremoto del 16 gennaio 1898 inviata al Direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cittadella 24 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143195</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 gennaio 1915 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Cittadella 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000018</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1908, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.15 (1911).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035061</codbib>
+      <autore1>Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Il terremoto di Parma del novembre 1983, ENEA, RT/PAS/84/4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

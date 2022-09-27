@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062424.00</nloc_cfti>
+      <desloc_cfti>Trani</desloc_cfti>
+      <provlet>BT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>12</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>41.2773</lat_wgs84>
+      <lon_wgs84>16.4185</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00928</nterr>
+      <nperiod>001033</nperiod>
+      <datanum>16270730</datanum>
+      <data_label>1627 07 30</data_label>
+      <anno>1627</anno>
+      <mese>07</mese>
+      <giorno>30</giorno>
+      <time_label>10:50</time_label>
+      <ora>10</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>41.7381</lat>
+      <lon>15.3419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>64</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni gravi alla metà delle abitazioni $(680048,030728,120137,000001,000002,000003)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1985) hanno valutato l’intensità della scossa di VI-VII grado MCS $(002133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07534</nterr>
+      <nperiod>001034</nperiod>
+      <datanum>18510814</datanum>
+      <data_label>1851 08 14</data_label>
+      <anno>1851</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9531</lat>
+      <lon>15.6667</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>103</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>17</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto causò qualche danno all’abitato; fu danneggiata la facciata del municipio e furono lesionati non gravemente il tribunale e le carceri $(120148,120026,310113)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto fu avvertito in modo molto forte e causò qualche lesione all’edificio della Procura Generale $(120027,120030,120035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò danni al monastero dei Carmelitani Scalzi $(030821)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di VI grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Furono sentite due scosse a distanza di pochi secondi, di cui la seconda più lunga della prima. Il terremoto causò molto spavento tra la popolazione, ma nessun danno agli edifici, tranne l’apertura di alcune crepe nelle murature della chiesa cattedrale $(560217,560221)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Il censimento ISTAT del 1931 riporta che il paese aveva una popolazione di 30.551 abitanti $(391568)$.&lt;br&gt;La scossa fu avvertita e provocò panico in molte persone che pernottarono all’aperto; causò lievi lesioni a 3 fabbricati e all’ospedale civile $(120053,120016,120045,120050,030354,300342,420288)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>D0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.0901</lat>
+      <lon>15.6615</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>18</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Puglia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, durata pochi secondi, fu avvertita da molti che, presi dal panico, fuggirono all’aperto; tremarono piccoli oggetti $(000021,470686)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14782</nterr>
+      <nperiod>000735</nperiod>
+      <datanum>18930810</datanum>
+      <data_label>1893 08 10</data_label>
+      <anno>1893</anno>
+      <mese>08</mese>
+      <giorno>10</giorno>
+      <time_label>20:52:00</time_label>
+      <ora>20</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>41.7136</lat>
+      <lon>16.0749</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>69</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa causò dei leggeri scricchiolii $(001352)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01667</nterr>
+      <nperiod>001011</nperiod>
+      <datanum>17310320</datanum>
+      <data_label>1731 03 20</data_label>
+      <anno>1731</anno>
+      <mese>03</mese>
+      <giorno>20</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.2743</lat>
+      <lon>15.7567</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>49</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Foggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa fu molto forte e causò lesioni di varia entità negli edifici $(000001,300118,300324)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>560217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Lettera del preside della Regia Udienza di Trani marchese Cavaselice al consigliere di Stato duca di Salas, Trani 23 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560221</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Casa Reale Borbonica, Casa Reale Antica, Diversi, vol.786, Relazione del consigliere di Stato duca di Salas al re Carlo VII sui danni causati dal terremoto del 20 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030821</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, ruota I, reg.139 (1694), Notamento della Regia Camera della Sommaria sui ripari necessari al monastero dei Carmelitani Scalzi di Trani danneggiato dal terremoto dell’8 settembre 1694, Napoli 28 settembre 1694.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001352</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 10 agosto 1893 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1893</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300118</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Capitolare di Bisceglie, Fondo Cattedrale, s.s., Memorie rilevate da un diario di monsignor Pacecco (1725-1738).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1725 - 1738</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300324</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta Relazione dell’orribile tremuoto accaduto in quasi tutto il Regno di Napoli, mà col danno maggiore nella Città di Foggia nella Puglia, con il miracoloso portento dello scoprimento della Sacra Imagine di Maria Santissima dell’Assunta, adorata in Foggia sotto il titolo di Icona vetere, con la notizia della invenzione di detta Sacra Imagine, &amp; altri portentosi successi.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Edifici Provinciali, b.28, fasc.65/16, Incarico dell’Intendente di Terra di Bari all’Ingegnere di ponti e strade Sergio Pansini per effettuare i lavori alla Gran Corte Civile di Trani per riparare i danni arrecati dal terremoto del 16 dicembre 1857, Bari 26 gennaio 1858.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120030</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Edifici Provinciali, b.36, fasc.85/9, Comunicazione del Presidente della Procura Generale all’Intendente di Terra di Bari sui danni provocati all’edificio della Procura Generale di Trani dal terremoto del 16 dicembre 1857, Trani 19 dicembre 1857.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Edifici provinciali, b.36, fasc.85/9, Perizia dell’Ingegnere Sergio Pansini sui danni provocati al Tribunale di Trani dal terremoto del 16 dicembre 1857, Trani 21 dicembre 1857.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680048</codbib>
+      <autore1>Molin D. e Margottini C.</autore1>
+      <titolo1>Il terremoto del 1627 nella Capitanata settentrionale, in "Contributo alla caratterizzazione della sismicità del terremoto italiano". Memorie presentate al Convegno annuale del Progetto Finalizzato "Geodinamica" del C.N.R. sul tema: "Sismicità dell’Italia: stato delle conoscenze scientifiche e qualità della normativa sismica", Udine 12-14 maggio 1981. Commissione ENEA-ENEL per lo studio dei problemi sismici connessi con la realizzazione di impianti nucleari, pp.251-279.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030728</codbib>
+      <autore1>De Poardi G.V.</autore1>
+      <titolo1>Nuova relatione del grande e spaventoso terremoto successo nel Regno di Napoli, nella Provincia di Puglia, in Venerdì li 30 luglio 1627.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1627</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120137</codbib>
+      <autore1>Antonellis L.</autore1>
+      <titolo1>Bianca Cicogna, storia, tradizioni e leggende di Cerignola.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Opere Pubbliche Comunali, b.81, fasc.407/25, Deliberazione del Decurionato di Trani per il restauro della casa comunale danneggiata dal terremoto del 14 agosto 1851, Trani 29 dicembre 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Edifici provinciali, b.28, fasc.65/8, Stato estimativo dei lavori necessari al Tribunale Civile di Trani danneggiato dal terremoto del 14 agosto 1851, Bari 1 settembre 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310113</codbib>
+      <autore1>*</autore1>
+      <titolo1>Lettera di un anonimo di Bisceglie ad un amico in terra d’Otranto sul terremoto del 14 agosto 1851, Bisceglie 18 agosto 1851, in A.Perotti, "Bari dei nostri nonni", pp.294-295.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470686</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Puglie, 1910.06.08.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Genio Civile, b.811, fasc.2385, Minuta dell’Ingegnere del Genio Civile circa i danni arrecati all’ospedale civile di Trani dal terremoto del 23 luglio 1930, a margine dell’istanza del presidente della Congregazione di Carità di Trani.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma numero 10 dell’Agenzia Stefani sulle conseguenze del terremoto del 23 luglio 1930 in Italia meridionale, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Genio Civile, b.680, Elenco dei comuni danneggiati dal terremoto 23 luglio 1930 cui sono applicabili i benefici del R.D. 20 novembre 1930 n.1759, Bari 27 febbraio 1931.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120050</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Genio Civile, b.680, Prima relazione settimanale sullo svolgimento delle opere che si eseguono in provincia di Bari a seguito del terremoto del Vulture del 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030354</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Genio Civile, b.811, fasc.2385, Istanza del Presidente della Congregazione di Carità di Trani al Genio Civile per sollecitare una perizia all’Ospedale Civile danneggiato dal terremoto del 23 luglio 1930, Trani 12 settembre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300342</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1930.07.24.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Emiliano. Gazzetta di Parma, 1930.07.24, a.175, n.174.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002133</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Irpinia earthquake of August 21, 1962, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.148-149.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

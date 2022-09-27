@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040307.00</nloc_cfti>
+      <desloc_cfti>Tombe</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.5256</lat_wgs84>
+      <lon_wgs84>11.2253</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>I dati del censimento ISTAT del 1931 riportano che la frazione aveva una popolazione di 1035 abitanti, di cui 230 persone vivevano accentrate e 805 nelle campagne $(391553,391560)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT causò i danni più gravi: secondo Salvanini (1932) ebbe effetti corrispondenti al VII grado della scala Mercalli; per oltre un mese a Tombe fu notato un tremolio quasi costante $(020790)$.&lt;br&gt;La chiesa del Cristo Re di Tombe, costruita nel 1925, subì lesioni orizzontali nelle calotte sferiche delle volte a vela $(020790)$.&lt;br&gt;Dalle perizie del Genio Civile, che descrivono i danni cumulativi delle scosse, furono danneggiate 5 case: tutte subirono dissesti al tetto, lesioni agli architravi, lesioni diffuse e crollo di fumaioli; in tre case ci furono anche gravi lesioni ai muri. Due delle case danneggiate erano ubicate in via Raggi, 2 in via Tombe e 1 in via Maestà del Corno $(391522)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391553</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.1 (Italia Settentrionale).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391560</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.7 (Centri Abitati).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020790</codbib>
+      <autore1>Salvanini C.</autore1>
+      <titolo1>Alcuni elementi per lo studio dei terremoti bolognesi e pei progetti delle costruzioni antisismiche.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391522</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.969 (1929), Terremoto nel bolognese del 1929, Comune di Zola Predosa, Liquidazione finale dei lavori. Zola Predosa, frazione Tombe.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

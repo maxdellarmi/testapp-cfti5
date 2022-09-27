@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080118.00</nloc_cfti>
+      <desloc_cfti>Visp</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>46.2849</lat_wgs84>
+      <lon_wgs84>7.8793</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11384</nterr>
+      <nperiod>003212</nperiod>
+      <datanum>18800704</datanum>
+      <data_label>1880 07 04</data_label>
+      <anno>1880</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>19:55</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.2736</lat>
+      <lon>8.059</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>86</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò lesioni in numerosi muri esterni e danni all’interno delle abitazioni; vi fu panico tra la popolazione $(052146)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02067</nterr>
+      <nperiod>003192</nperiod>
+      <datanum>17551209</datanum>
+      <data_label>1755 12 09</data_label>
+      <anno>1755</anno>
+      <mese>12</mese>
+      <giorno>09</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.316</lat>
+      <lon>7.9849</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>73</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò il crollo di 14 comignoli e della galleria esterna della chiesa di Saint-Martin $(052146,095109)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34256</nterr>
+      <nperiod>003231</nperiod>
+      <datanum>19600323</datanum>
+      <data_label>1960 03 23</data_label>
+      <anno>1960</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>23:08:49</time_label>
+      <ora>23</ora>
+      <minu>08</minu>
+      <sec>49</sec>
+      <lat>46.3473</lat>
+      <lon>7.9799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>179</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni $(050085)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08304</nterr>
+      <nperiod>000819</nperiod>
+      <datanum>18550725</datanum>
+      <data_label>1855 07 25</data_label>
+      <anno>1855</anno>
+      <mese>07</mese>
+      <giorno>25</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.8385</lat>
+      <lon>7.7044</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>51</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La quasi totalità delle case risultò gravemente danneggiata $(940599)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>940599</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1855.08.10, n.183.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095109</codbib>
+      <autore1>Bertrand E.</autore1>
+      <titolo1>Memoire sur les tremblemens de terre, nouvelle edition.</titolo1>
+      <luogoed>Vevey</luogoed>
+      <datacompl>1756</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940596</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1855.08.06, n.179.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870170</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1855.07.11, n.190.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940611</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1855.11.24, n.270.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080858.00</nloc_cfti>
+      <desloc_cfti>Thoiry</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>2.5</maxint>
+      <lat_wgs84>45.5841</lat_wgs84>
+      <lon_wgs84>6.0328</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31547</nterr>
+      <nperiod>003227</nperiod>
+      <datanum>19380718</datanum>
+      <data_label>1938 07 18</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>00:57</time_label>
+      <ora>00</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>44.5932</lat>
+      <lon>6.7347</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>260</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado II-III MSK $(052123)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052123</codbib>
+      <autore1>Levret A., Cushing M. e Peyridieu G.</autore1>
+      <titolo1>Recherche des caractéristiques de séismes historiques en France. Atlas de 140 cartes macrosismiques, IPSN, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

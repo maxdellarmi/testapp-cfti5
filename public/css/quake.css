@@ -1,0 +1,578 @@
+#google_translate_element{
+	position: absolute;
+	width: 100px;
+	height: 10px;
+	top: 10px;
+	left: 50px;
+	z-index: 10;
+}
+
+/*.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    }
+body {
+    top: 0px !important;
+    }*/
+
+#disclaimer {
+	display:none;
+}
+
+#locationString {
+	position: absolute;
+	padding-top:0px;
+	top: 50px;
+	width: 450px;
+	text-decoration: none !important;
+	color: var(--main-color);
+	background-color: transparent;
+	font-weight: bold;
+	/*font-size: 130%*/
+}
+#Intro{
+	position:absolute;
+	top: 52px;
+	padding-top:10px;
+	/*margin-top: 35px;*/
+	width: 450px;
+}
+#nperiodExplanation{
+	font-weight: bold;
+	color: var(--main-color);
+	position: relative;
+	top: 23px;
+	left: 5px;
+	width: 10px;
+	z-index: 10;
+	font-size: 130%;
+}
+
+#quake_info{
+	position:absolute;
+	margin-top: 10px;
+	/*top: 20px;*/
+	width: 450px;
+	float: left;
+	overflow-x: hidden;
+	/*overflow-y: auto;*/
+	/*height: 80px;*/
+}
+
+#PQ_info{
+	/*display: block;*/
+	overflow-x: hidden;
+	/*width: 446px;*/
+}
+#PQ_data{
+	/*display: block;*/
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+
+#quake_info tbody{
+	max-height: 75px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+#quake_data tr{
+	color: #959699;
+	/* background-color: blue; */
+}
+
+#D0{
+	position:absolute;
+	padding-right: 10px;
+	/*margin-top: 5px;*/
+	/*top: 165px;*/
+	/*top: 10px;*/
+	left: 2px;
+	width: 438px;
+	/*height: 118px;*/
+	float: left;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-size: 100%;
+	/*font-style: italic;*/
+	text-align: justify;
+	color: #3a3a3a;
+}
+
+#divLineTopTable{
+	position: absolute;
+	display: block;
+	left: 2px;
+	margin-top: 308px;
+	height: 30px;
+	width: 450px;
+}
+
+#openCOMM{
+	background-color: inherit;
+	position:relative;
+	width: 75px;
+	height: 26px;
+	padding-top: 2px;
+	float: left;
+	left: 2px;
+	/*margin-top: 297px;*/
+	border: 0.5px solid #1f708f;
+	z-index: 2;
+	border-radius: 3px;
+	cursor: pointer;
+	/*box-shadow: 2px 2px 2px 2px #888888;*/
+}
+#openCOMM:hover {
+    background-color: #ddd;
+	background-color: #e5e8e8;
+}
+
+#openCOMM.active {
+    background-color: #ddd;
+	background-color: #e5e8e8;
+}
+
+#readCOMM{
+	position:absolute;
+	/*width: 70px;*/
+	margin-left: 0px;
+	float: left;
+	padding-top: 4px;
+	font-size: 120%;
+}
+
+#commentsICON{
+	position:relative;
+	z-index: 3;
+	padding-left: 2px;
+}
+
+#level{
+	/*position:relative;*/
+	float: left;
+	margin-left: 10px;
+	margin-top: 3px;
+	z-index: 2;
+	cursor: help;
+}
+
+#morti{
+	/*position:relative;*/
+	float: left;
+	margin-left: 30px;
+	/*top: 2px;*/
+	z-index: 2;
+	cursor: help;
+}
+#NEW{
+	/*position:relative;*/
+	float: right;
+	margin-right: 5px;
+	z-index: 2;
+	cursor: help;
+}
+
+#ASMIlink{
+	/*position:absolute;*/
+	/*height: 26px;*/
+	padding-top: 0px;
+	float: right;
+	margin-right: 5px;
+	/*top: 5px;*/
+	/*border: 0.5px solid #1f708f;;*/
+	z-index: 2;
+	/*border-radius: 3px;*/
+	/*box-shadow: 2px 2px 2px 2px #888888;*/
+}
+#CPTIlink{
+	/*position:relative;*/
+	/*height: 26px;*/
+	padding-top: 0px;
+	float: right;
+	margin-right: 5px;
+	/*margin-top: 300px;*/
+	/*border: 0.5px solid #1f708f;;*/
+	z-index: 2;
+	/*border-radius: 3px;*/
+	/*box-shadow: 2px 2px 2px 2px #888888;*/
+}
+#export{
+	/*position:absolute;*/
+	/*width: 200px;*/
+	float: right;
+	margin-right: 6px;
+	/*margin-right:0px;*/
+	/*margin-top: 300px;*/
+	z-index: 10;
+}
+
+
+#commentsWindow {
+    position: absolute;
+	display: none;
+	padding-top:0px;
+    padding-bottom:15px;
+    padding-left: 10px;
+	padding-right: 10px;
+	background-color: rgba(255,255,255,0.92);
+	z-index: 3;
+	min-height: 500px;
+	min-width: 500px;
+	border: 2px;
+	border-color:#8d8d8e;
+	box-shadow: 2px 2px 2px 2px #888888;
+	border-radius: 3px;
+}
+#titleCommWin{
+	position:relative;
+	width:100%;
+	height:100%;
+	text-align:center;
+	vertical-align: middle;
+	/*margin-top: 20px;*/
+	padding-top: 5px;
+	height: 25px;
+	font-size: 120%;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: var(--main-color);
+}
+
+#closeCW{
+	position: absolute;
+	background: url(../images/close.png) no-repeat;
+	background-size: 15px 15px;
+	width: 15px;
+	height: 15px;
+	text-indent: -1000em;
+	top: 4px;
+	right: 4px;
+}
+
+#commentsText {
+	width: 100%; /* questo serve perchè tutte le finestre dei commenti abbiano dimensione 100%, altrim la prima vniene più piccola */
+	position: absolute;
+	bottom: 10px;
+	top: 35px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align:justify;
+}
+
+#commentsText a:link, a:visited {
+    text-decoration: none !important;
+    color: var(--main-color);
+    background-color: transparent;
+	font-weight: bold;
+}
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+	background-color: rgba(255,255,255,0);
+    /*background-color: #f1f1f1;*/
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+	height: 40px;
+    /*border: 1px solid #ccc;*/
+	border: none;
+
+	/*background-color: #f1f1f1;*/
+	background-color: #ddd;
+
+    outline: none;
+    cursor: pointer;
+    padding: 0px 10px;
+	padding-top: 0px;
+    transition: 0.3s;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-right:0.6px;
+	border-bottom: 0.5px solid #1f708f;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    /*background-color: #ddd;*/
+	background-color: #e8f7fc;
+	background-color: #edefef;
+
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    /*background-color: #ccc;*/
+	background-color: rgba(255,255,255,0.6);
+	border: 0.5px solid #1f708f;
+	border-bottom:none;
+	/*border-bottom: 10px solid #ffffff;*/
+}
+
+/* Style the tab content */
+.tabcontent {
+	display: none;
+	position:relative;
+	height: 90%;
+	width: 95%;
+	margin-top: 10px;
+	padding-right: 6px;
+	padding-left: 5px;
+    /*padding: 6px 12px;*/
+    /*border: 1px solid #ccc;*/
+	border-radius: 5px;
+	/*border-top-right-radius: 20px;*/
+	border-left: 0.5px solid #1f708f;
+	border-right: 0.5px solid #1f708f;
+	border-bottom: 0.5px solid #1f708f;
+	border-top: 0.5px solid #1f708f;
+	border: none;
+	overflow-x: auto;
+	overflow-y: auto;
+	/*font-size: 110%;*/
+	z-index: 1px;
+	color: #4c4c4c;
+}
+.tabcontent a:visited {
+    text-decoration: none !important;
+    color: var(--main-color);
+    background-color: transparent;
+	font-weight: bold;
+}
+
+.tablinks:hover .tooltiptext_COMM {
+    visibility: visible;
+	opacity: 1;
+	display: block;
+	z-index: 10px;
+   }
+
+.pdfobject-container{
+	/*min-width: 500px;*/
+	width: 95%;
+	height: 90%;
+	overflow: hidden;
+}
+
+#falseSentenceEQ{
+	color: var(--main-color);
+	/*text-align: center;*/
+	font-size: 150%;
+}
+
+#quakePQtable{
+	position:absolute;
+	margin-top: 345px;
+	width: 448px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	/*font-size: 12px;*/
+}
+
+.dateEQ {
+	width: 65px;
+	/*font-size: 11px;*/
+	text-align: center;
+	font-weight: bold;
+
+}
+.timeEQ {
+	width: 45px;
+	/*font-size: 11px;*/
+}
+.ioEQ {
+	width: 25px;
+	/*font-size: 11px;*/
+}
+.intEQ {
+	width: 30px;
+	/*font-size: 11px;*/
+}
+.imaxEQ{
+	width: 25px;
+	/*font-size: 11px;*/
+}
+.sitesEQ {
+	width: 30px;
+	text-align: right;
+	padding-right: 11px;
+	/*font-size: 11px;*/
+}
+.meEQ {
+	width: 25px;
+	/*font-size: 11px;*/
+}
+
+.latEQ {
+	width: 37px;
+	/*font-size: 11px;*/
+}
+.lonEQ {
+	width: 37px;
+	/*font-size: 11px;*/
+}
+.areaEQ {
+	width: 56px;
+	/*font-size: 11px;*/
+}
+.etypeEQ {
+	width: 30px;
+	/*font-size: 11px;*/
+	text-align: center;
+}
+.relEQ{
+	width: 30px;
+	/*font-size: 11px;*/
+	text-align: center;
+}
+
+.locality{
+	width: 140px;
+}
+.lat{
+	width: 45px;
+}
+.lon{
+	width: 45px;
+}
+.dist{
+	width: 75px;
+	text-align: right;
+}
+.natEQ{
+	width: 27px;
+	padding-left: 3px;
+	/*text-align: left;*/
+}
+
+/*  -----------    table D1 list*/
+#loc_D1table{
+	width: 140px;
+}
+#int_D1table{
+	width: 100px;
+}
+#D1_D1table{
+	/*width: 140px;*/
+}
+#D1table_title, #E1table_title{
+	font-family: Cambria;
+}
+/*  ------------     table E1 list*/
+#loc_E1table{
+	width: 140px;
+}
+#dot_D1table{
+	width: 50px;
+}
+.E1textE1table td{
+	border:none;
+}
+.E1dotE1table{
+	width: 50px;
+}
+
+
+/*  -----------    table BIBLIO  */
+/*#EQbiblio{
+	position:absolute;
+	width: 95%;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}*/
+#biblio{
+	/*width:95%;*/
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+/*#biblio_head{
+	position:relative;
+	width:100%;
+	display: block;
+}*/
+/*#biblio_data{
+	overflow-y: auto;
+	overflow-x: hidden;
+}*/
+
+.Bauth{
+	width: 10%;
+	/*font-size: 10px;*/
+}
+.Btitle{
+	width: 35%;
+	/*font-size: 10px;*/
+}
+.Btype{
+	width: 13%;
+	/*font-size: 10px;*/
+	padding-left: 10px;
+}
+.Byear{
+	width: 7%;
+	/*padding-right: 5px;*/
+	/*font-size: 10px;*/
+}
+.Bplace{
+	width: 7%;
+	padding-left: 5px;
+	/*font-size: 10px;*/
+}
+.Bpdf{
+	width: 9%;
+	/*font-size: 10px;*/
+	text-align: center;
+}
+.Bpdf2{
+	width: 9%;
+	/*font-size: 10px;*/
+	text-align: center;
+}
+
+.natEQ:hover .tooltiptext_EE {
+    visibility: visible;
+	opacity: 1;
+	display: block;
+	z-index: 10;
+}
+
+
+
+.COMMContainer {
+    position: relative;
+	text-align: center;
+}
+
+.COMMContainer .tooltiptext_COMM {
+    top: 30px;
+    left: 0px;
+	opacity: 0;
+    transition: opacity 1s;
+    visibility: hidden;
+    width: 155px;
+	/*height: 200px;*/
+    background-color: #eeeeee;
+    color: black;
+    text-align: justify;
+    border-radius: 3px;
+    padding: 5px 5px;
+	/*display: block;*/
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 10;
+	border: 1px dashed var(--main-color);
+
+}
+.COMMContainer:hover .tooltiptext_COMM {
+    visibility: visible;
+	opacity: 1;
+	display: block;
+	z-index: 10;
+	cursor: help;
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053540.00</nloc_cfti>
+      <desloc_cfti>Roccantica</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.3209</lat_wgs84>
+      <lon_wgs84>12.6928</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni di rilievo ad alcune case di campagna, al municipio e all’antico convento dei Francescani, molte altre costruzioni riportarono lesioni di lieve entità $(143322)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11018</nterr>
+      <nperiod>000723</nperiod>
+      <datanum>18770824</datanum>
+      <data_label>1877 08 24</data_label>
+      <anno>1877</anno>
+      <mese>08</mese>
+      <giorno>24</giorno>
+      <time_label>02:45</time_label>
+      <ora>02</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>41.7106</lat>
+      <lon>13.351</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>54</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Lazio meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita debolmente $(001296)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01284</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030114</datanum>
+      <data_label>1703 01 14</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7091</lat>
+      <lon>13.0705</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>197</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Nel 1703 la chiesa parrocchiale di S.Valentino era pericolante e per la sua riparazione era necessaria la costruzione di 2 muri laterali. Secondo quanto comunicato nel 1708 dalla comunità necessitavano di riparazioni anche i muri della mola da grano pericolanti e puntellati, alcuni punti delle mura castellane, il condotto dell’acqua che riforniva l’abitato e che partiva dalla montagna attigua, alcuni fontanili e abbeveratoi situati nei pressi della stessa montagna, le stade della comunità. Di tali emergenze non vengono specificate le cause $(672214,672215,672216)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001296</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [1 ottobre 1876-28 giugno 1878], in "Bullettino del Vulcanismo Italiano", a.6, pp.47-55, 99-108, 166-169, 182-184.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rocca Antica I, b.3936 (1657-1732), Lettera del luogotenente Gaetano Liberati al prefetto della Sacra Congregazione del Buon Governo, Collevecchio 16 gennaio 1704.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1704</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672215</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rocca Antica I, b.3936 (1657-1732), Lettera di Carlo Antonio Fiori alla Sacra Congregazione del Buon Governo, 27 giugno 1708.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1708</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rocca Antica I, b.3936 (1657-1732), Supplica dei priori della Comunità di Rocca Antica alla Sacra Congregazione del Buon Governo, giugno 1708.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1708</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143322</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Questionario macrosismico compilato dal Comune di Roccantica sugli effetti causati dal terremoto del 13 gennaio 1915 nelle località del territorio comunale, Roccantica febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

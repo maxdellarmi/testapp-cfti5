@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>039599.00</nloc_cfti>
+      <desloc_cfti>Pragatto</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.5124</lat_wgs84>
+      <lon_wgs84>11.1378</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>I dati del censimento ISTAT riportano che la frazione aveva una popolazione di 1289 abitanti (al censimento del 1931) di cui 271 vivevano accentrati e 1018 nelle campagne $(391553,391560)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT causò danni a case già lesionate $(672948)$.&lt;br&gt;Dalle perizie del Genio Civile risulta che 5 case furono danneggiate: furono rilevate lesioni più o meno gravi alle murature esterne e interne, forti danni e caduta parziale di muretti e solai ‘in foglio’, gravi lesioni agli architravi di porte e finestre, caduta dei comignoli con conseguente rottura di tegole $(391236,391309,391220)$.&lt;br&gt;Subì notevoli danni la villa Olimpia: al piano terra furono lesionati lo stipite d’ingresso e i muri della loggia; nel locale adibito a farmacia, ci fu un arco lesionato, un muro perimetrale sconnesso e strapiombato; si aprirono lesioni anche nel magazzino, nel laboratorio e nella cantina; al primo piano furono lesionate le volte dei rampanti delle scale, i muri, gli archi delle finestre e delle porte, una volta e un soffitto; al secondo piano crollarono parzialmente i soffitti e si aprirono lesioni nei muri e negli archi delle porte e delle finestre; al terzo piano fu danneggiato il bancale di una finestra, furono lesionati i soffitti e le pareti e crollò la canna fumaria $(391309)$.&lt;br&gt;Nella chiesa di Passavia crollarono alcuni archi e volte, furono lesionati i muri esterni, gli architravi, i soffitti in arelle, la volta centrale e la cappella del lato ovest $(391309)$.&lt;br&gt;Nella chiesa della Trinità si dissestò il tetto e ci furono lesioni diffuse; nel vicino porticato del vecchio cimitero crollarono le volte $(391309)$.&lt;br&gt;Nel cimitero comunale fu lesionato il muro soprastante l’arco d’ingresso e la camera mortuaria $(391309)$.&lt;br&gt;Risultarono inoltre danneggiate 6 case del territorio circostante di cui non è stato possibile stabilire l’esatta ubicazione. In località Osteria di Pragatto furono danneggiate 4 case: in 2 crollarono tratti di muro e ci furono gravi lesioni agli architravi di porte e finestre, lesioni diffuse e crollo dei fumaioli; nelle altre 2 ci furono lesioni agli architravi, lesioni diffuse e dissesti delle grondaie $(391232,391294)$. In località Segni 2 case subirono danni ai muri esterni, lesioni agli architravi e dissesti al tetto $(391220)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391553</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.1 (Italia Settentrionale).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391560</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.7 (Centri Abitati).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672948</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1929, Telegrammi in arrivo dal 19 aprile al 24 aprile, n.18524, Telegramma del prefetto di Bologna Guadagnini al ministro dell’Interno, Bologna 21 aprile 1929.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391236</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.950 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori, frazione Pragatto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391309</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.951 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori. Frazione Pragatto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391220</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.948 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori, frazione Pragatto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391232</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.949 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori, località Osteria di Pragatto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391294</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.951 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori, località Osteria di Pragatto.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

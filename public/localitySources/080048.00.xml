@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080048.00</nloc_cfti>
+      <desloc_cfti>Le Cannet</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>43.5799</lat_wgs84>
+      <lon_wgs84>7.0084</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34010</nterr>
+      <nperiod>003123</nperiod>
+      <datanum>19590405</datanum>
+      <data_label>1959 04 05</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>10:48:00</time_label>
+      <ora>10</ora>
+      <minu>48</minu>
+      <sec>00</sec>
+      <lat>44.4884</lat>
+      <lon>6.7117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>65</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle dell’Ubaye</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Gli "Annales de l’Institut de Physique du Globe" attribuiscono il grado V della scala Mercalli $(050085)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(020006,020007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34811</nterr>
+      <nperiod>003350</nperiod>
+      <datanum>19630719</datanum>
+      <data_label>1963 07 19</data_label>
+      <anno>1963</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>05:45:28</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>28</sec>
+      <lat>43.9233</lat>
+      <lon>8.0648</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>463</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020006</codbib>
+      <autore1>Monnet P.</autore1>
+      <titolo1>Sur le tremblement de terre italien du 7 septembre 1920, in "Compte Rendus de l’Academie des Sciences", vol.174, pp.475-477.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020007</codbib>
+      <autore1>Monnet P.</autore1>
+      <titolo1>Le tremblement de terre du 7 septembre 1920 dans le sud-est de la France (Epicentre en Italie), in "Annuaire de l’Institut de Physique du Globe", 1920, pp.36-38.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052488</codbib>
+      <autore1>BRGM (Bureau de Recherches Géologiques et Minières)</autore1>
+      <titolo1>SisFrance: histoire et caractéristiques des séismes ressentis en France métropolitaine et sur ses abords, BRGM-EDF-IPSN [indirizzo internet: http://www.sisfrance.net].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

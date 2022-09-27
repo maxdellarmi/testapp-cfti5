@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080511.00</nloc_cfti>
+      <desloc_cfti>Breziers</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>44.434</lat_wgs84>
+      <lon_wgs84>6.1995</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32360</nterr>
+      <nperiod>003228</nperiod>
+      <datanum>19470217</datanum>
+      <data_label>1947 02 17</data_label>
+      <anno>1947</anno>
+      <mese>02</mese>
+      <giorno>17</giorno>
+      <time_label>00:12:33</time_label>
+      <ora>00</ora>
+      <minu>12</minu>
+      <sec>33</sec>
+      <lat>44.4488</lat>
+      <lon>6.7609</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>283</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Alpi occidentali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado III MSK $(052123)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052123</codbib>
+      <autore1>Levret A., Cushing M. e Peyridieu G.</autore1>
+      <titolo1>Recherche des caractéristiques de séismes historiques en France. Atlas de 140 cartes macrosismiques, IPSN, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

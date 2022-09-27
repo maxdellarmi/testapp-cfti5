@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42098</nterr>
+      <nperiod>009076</nperiod>
+      <datanum>12910511</datanum>
+      <data_label>1291 05 11</data_label>
+      <anno>1291</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>19:20</time_label>
+      <ora>19</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.8014</lat>
+      <lon>10.3284</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Parma</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Parmense ab anno 1038 usque ad annum 1338, ed. G.Bonazzi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 9, parte 9.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1902 - 1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Manoscritti, 26, Cronaca di Parma (1038-1308), sec.XIV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42098</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

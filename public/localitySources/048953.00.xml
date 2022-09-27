@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048953.00</nloc_cfti>
+      <desloc_cfti>Crocicchio</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>43.2697</lat_wgs84>
+      <lon_wgs84>12.716</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Monachesi et al. (1984) hanno valutato l’intensità della scossa di V-VI grado MCS $(035315)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02001</nterr>
+      <nperiod>003095</nperiod>
+      <datanum>17510727</datanum>
+      <data_label>1751 07 27</data_label>
+      <anno>1751</anno>
+      <mese>07</mese>
+      <giorno>27</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.2252</lat>
+      <lon>12.7391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Centro fortificato del territorio di Gualdo Tadino. Il terremoto causò il crollo di 16 case (84,2%) su 19 di cui era formato il paese; le altre divennero inabitabili (15,8%); la chiesa parrocchiale divenne inagibile $(700304,700306)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, c.1009, Relazione di Stefano Coppari al segretario della Sacra Congregazione del Buon Governo monsignor Conti sullo stato dei Castelli e delle Ville del Territorio di Gualdo Tadino, Gualdo Tadino ottobre 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700306</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie I (Affari generali, memorie e massime), vol.42, cc.1022-1030, Relazione del segretario della Sacra Congregazione del Buon Governo monsignor Pietro Paolo Conti al papa Benedetto XIV sullo stato di Gualdo Tadino e del suo Contado, Roma ottobre 1751.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1751</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035315</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Il terremoto umbro del 29.4.1984: indagine macrosismica dell’area più colpita, CNR-GNDT, Pubblicazione n.2.</titolo1>
+      <luogoed>Milano-Macerata</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

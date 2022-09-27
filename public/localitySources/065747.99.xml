@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>065747.99</nloc_cfti>
+      <desloc_cfti>San Pietro di Caridà</desloc_cfti>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>38.5237</lat_wgs84>
+      <lon_wgs84>16.1347</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38578</nterr>
+      <nperiod>003046</nperiod>
+      <datanum>19750116</datanum>
+      <data_label>1975 01 16</data_label>
+      <anno>1975</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>00:09:45</time_label>
+      <ora>00</ora>
+      <minu>09</minu>
+      <sec>45</sec>
+      <lat>38.1148</lat>
+      <lon>15.6431</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>346</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Stretto di Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Bottari e Lo Giudice (1975) hanno valutato l’intensità della scossa di IV grado MCS $(035062)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035062</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Studio macrosismico del terremoto di Reggio Calabria del 16 Gennaio 1975, in "Annali di Geofisica", vol.28, pp.151-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

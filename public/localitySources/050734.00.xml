@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>050734.00</nloc_cfti>
+      <desloc_cfti>Cartoceto</desloc_cfti>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.6188</lat_wgs84>
+      <lon_wgs84>12.8214</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27930</nterr>
+      <nperiod>003223</nperiod>
+      <datanum>19240102</datanum>
+      <data_label>1924 01 02</data_label>
+      <anno>1924</anno>
+      <mese>01</mese>
+      <giorno>02</giorno>
+      <time_label>08:55:13</time_label>
+      <ora>08</ora>
+      <minu>55</minu>
+      <sec>13</sec>
+      <lat>43.7367</lat>
+      <lon>13.1405</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>76</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa, molto forte ed accompagnata da rombo, durò 12s. Fu avvertita da tutti e causò tremolio di vetri, di porte, di piccoli e grandi oggetti, suono di campanelli e lievi lesioni in edifici poco solidi $(000027,050399,270094)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa di V grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02525</nterr>
+      <nperiod>002048</nperiod>
+      <datanum>17810603</datanum>
+      <data_label>1781 06 03</data_label>
+      <anno>1781</anno>
+      <mese>06</mese>
+      <giorno>03</giorno>
+      <time_label>06:25</time_label>
+      <ora>06</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>43.5763</lat>
+      <lon>12.5482</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>147</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Danni $(060359)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060359</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul terremoto di Cagli del 3 giugno 1781, in "Memorie della Società Geografica Italiana", vol.5, pp.363-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000027</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1924, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1928</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>270094</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto sulla costa marchigiana del 2 gennaio 1924, in "Bollettino della Società Sismologica Italiana", vol.26 (1926), pp.17-34.</titolo1>
+      <luogoed>Selci</luogoed>
+      <datacompl>1926</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

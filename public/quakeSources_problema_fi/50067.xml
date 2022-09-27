@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50067</nterr>
+      <nperiod>005082</nperiod>
+      <datanum>05011009</datanum>
+      <data_label>501 10 09</data_label>
+      <anno>501</anno>
+      <mese>10</mese>
+      <giorno>09</giorno>
+      <time_label>06:30</time_label>
+      <ora>06</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4178</lat>
+      <lon>12.1982</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Ravenna?</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Le testimonianze sono costituite dai cosiddetti "Fasti Vindobonenses Posteriores" $(093054)$, anonima fonte annalistica del VI secolo confluita in cronache successive, e dai più tardi "Excerpta Sangallensia" $(760028)$ risalenti al IX secolo, conservati nel monastero di San Gallo in Svizzera e pubblicati per la prima volta da G.B. de Rossi (1867). Questo terremoto non era noto alla tradizione dei cataloghi sismici.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Poiché i "Fasti Vindobonenses Posteriores" sono annali scritti a Ravenna, è ragionevole ritenere che il terremoto abbia interessato questa città, sebbene la fonte non ne indichi esplicitamente la localizzazione $(093054)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Fasti Vindobonenses Posteriores [-387], ed. Th.Mommsen, in "Monumenta Germaniae Historica", AA., tomo 9 (Chronica minora saec. IV. V. VI. VII., vol.1), pp.274-298.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1892</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093071</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>Les séismes en Europe occidentale de 394 à 1259. Nouveau catalogue critique.</titolo1>
+      <luogoed>Brussels</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760028</codbib>
+      <autore1>*</autore1>
+      <titolo1>Excerpta Sangallensia = Excerptum ex chronica Horosii, ed. G.B.de Rossi, in "Bullettino di Archeologia Cristiana", vol.5, pp.17-23.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1867</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ravenna</desloc>
+      <lat_wgs84>44.4178</lat_wgs84>
+      <lon_wgs84>12.1982</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>50067</nterr>
+      <nloc_cfti>041374.00</nloc_cfti>
+      <desloc_cfti>Ravenna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito forse a Ravenna, la fonte non indica esplicitamente la localizzazione dell’evento; non sono indicati effetti particolari $(093054,760028)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

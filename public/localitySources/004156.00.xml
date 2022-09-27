@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>004156.00</nloc_cfti>
+      <desloc_cfti>Craveggia</desloc_cfti>
+      <provlet>VB</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>2.5</maxint>
+      <lat_wgs84>46.1413</lat_wgs84>
+      <lon_wgs84>8.4894</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26433</nterr>
+      <nperiod>000455</nperiod>
+      <datanum>19180113</datanum>
+      <data_label>1918 01 13</data_label>
+      <anno>1918</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.4456</lat>
+      <lon>9.068</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>25</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Milanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

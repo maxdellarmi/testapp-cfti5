@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062336.00</nloc_cfti>
+      <desloc_cfti>Gioia del Colle</desloc_cfti>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>9</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>40.7988</lat_wgs84>
+      <lon_wgs84>16.9229</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il censimento ISTAT del 1931 riporta che il paese aveva una popolazione di 23.999 abitanti $(391568)$.&lt;br&gt;La scossa fu avvertita da tutti $(120004)$ e causò lesioni alle chiese e al palazzo della Pretura, di cui fu necessario demolire e ricostruire la sala delle udienze $(110011,030157,030158,030159)$. Risultarono lievemente danneggiate le case cantoniere $(120008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01667</nterr>
+      <nperiod>001011</nperiod>
+      <datanum>17310320</datanum>
+      <data_label>1731 03 20</data_label>
+      <anno>1731</anno>
+      <mese>03</mese>
+      <giorno>20</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.2743</lat>
+      <lon>15.7567</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>49</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Foggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.1</intpqnum>
+      <intpq>S</intpq>
+      <D1>Il terremoto fu avvertito violentemente, ma non si hanno descrizioni degli effetti sugli edifici $(970002)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di V grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08672</nterr>
+      <nperiod>000203</nperiod>
+      <datanum>18581010</datanum>
+      <data_label>1858 10 10</data_label>
+      <anno>1858</anno>
+      <mese>10</mese>
+      <giorno>10</giorno>
+      <time_label>08:30</time_label>
+      <ora>08</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.1</lat>
+      <lon>19.9</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, in due fasi, fu avvertita da tutti; tremarono i quadri e gli oggetti $(000021)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36369</nterr>
+      <nperiod>000656</nperiod>
+      <datanum>19690403</datanum>
+      <data_label>1969 04 03</data_label>
+      <anno>1969</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>22:12:22</time_label>
+      <ora>22</ora>
+      <minu>12</minu>
+      <sec>22</sec>
+      <lat>40.483</lat>
+      <lon>19.95</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>5</imax>
+      <npun>46</npun>
+      <mm>0</mm>
+      <earthquakelocation>Albania meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Albania</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di III grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(235474)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò il crollo di una loggia nella caserma della Gendarmeria, lesioni alla cupola della chiesa della Congrega del Purgatorio, alla chiesa degli ex-Francescani e al Tempio di patronato comunale $(970009,970010,970011,120034)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>450273</codbib>
+      <autore1>Del Giudice F.</autore1>
+      <titolo1>Ragguaglio de’ principali fenomeni naturali avvenuti nel Regno durante il 1858, in "Annali Civili del Regno delle Due Sicilie", vol.65 (gennaio-aprile 1859), fasc.129, pp.29-35.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1859</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria di Roma, Tabella riassuntiva delle cartoline macrosismiche riguardanti il terremoto del 3 aprile 1969 pervenute all’Ufficio Centrale di Meteorologia e di Ecologia Agraria di Roma, aprile-giugno 1969.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970002</codbib>
+      <autore1>Carano Donvito G.</autore1>
+      <titolo1>Storia di Gioia del Colle dalle origini ai primi del secolo XX con una appendice e sette monografie, 2 voll.</titolo1>
+      <luogoed>Putignano</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Registro delle deliberazioni decurionali, vol.22 (1857-1859), Deliberazione del Decurionato di Gioia del Colle, Gioia del Colle maggio 1858.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Registro delle deliberazioni decurionali, vol.22 (1857-1859), Deliberazione del Decurionato di Gioia del Colle, Gioia del Colle 31 agosto 1858.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Gioia del Colle, Registro delle deliberazioni decurionali, vol.23 (1860-1862), Deliberazione del decurionato, Gioia del Colle 30 gennaio 1860.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1860</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Intendenza di Terra di Bari, Perizie, b.3, fasc.16/3, Perizia dell’Ingegnere Giovanni Fiorillo sui danni provocati alla Caserma della Gendarmeria di Gioia dal terremoto del 16 dicembre 1857, Gioia del Colle 28 dicembre 1857.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma del Brigadiere di Gioia del Colle Tucci al Prefetto circa la situazione in Gioia del Colle dopo la scossa del terremoto del 23 luglio 1930, Gioia del Colle 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Deliberazioni podestarili, vol.54, Deliberazione relativa alla demolizione della volta della sala di udienze della locale Pretura danneggiata dal terremoto del 23 luglio 1930, Gioia del Colle 25 novembre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Deliberazioni podestarili, vol.54, Deliberazione podestarile relativa a lavori di manutenzione nella sala di Udienza della Prefettura danneggiata dal terremoto del 23 luglio 1930, Gioia del Colle 17 gennaio 1931.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Deliberazioni podestarili, vol.54, Deliberazione podestarile di approvazione della misura finale di demolizione e ricostruzione della volta della sala di Udienza della Prefettura danneggiata dal terremoto del 23 luglio 1930, Gioia del Colle 6 febbraio 1931.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030159</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Gioia del Colle, Deliberazioni podestarili, vol.54, Deliberazione podestarile relativa a lavori di manutenzione nella sala di Udienza della Prefettura danneggiata dal terremoto del 23 luglio 1930, Gioia del Colle 27 agosto 1931.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma del Dirigente unico di Spinazzola al prefetto di Bari relativo ai danni causati dal terremoto del 23 luglio 1930 alle stazioni ferroviarie e alle case cantoniere del territorio di Spinazzola, Spinazzola 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

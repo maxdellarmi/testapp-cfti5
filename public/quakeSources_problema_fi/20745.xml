@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>20745</nterr>
+      <nperiod>000391</nperiod>
+      <datanum>19080203</datanum>
+      <data_label>1908 02 03</data_label>
+      <anno>1908</anno>
+      <mese>02</mese>
+      <giorno>03</giorno>
+      <time_label>13:36:26</time_label>
+      <ora>13</ora>
+      <minu>36</minu>
+      <sec>26</sec>
+      <lat>45.5608</lat>
+      <lon>11.1753</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.4</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000018</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1908, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.15 (1911).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000100</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana, s.III, vol.27 (1908).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021244</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area San Benedetto Po. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150148</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1908.02.06, a.39, n.32.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Osservazioni fatte nell’anno 1908 all’Osservatorio geofisico della R. Università di Modena, in "Memorie della R. Accademia di scienze, lettere ed arti in Modena", s.III, vol.9.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1910</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510255</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Berico, 1908.03.17, a.33, n.64.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510279</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Berico, 1908.02.05, a.33, n.29.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1848-1929.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1848 - 1929</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Corriere di Padova, 1908.03.15.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780076</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Padova, 1908.03.15.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Gazzettino, 1908.03.16.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880019</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1908.02.04-05.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880020</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1908.03.15-16.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880044</codbib>
+      <autore1>*</autore1>
+      <titolo1>Verona Fedele, 1900-1975.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1900 - 1975</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Crespadoro</desloc>
+      <lat_wgs84>45.6201</lat_wgs84>
+      <lon_wgs84>11.2264</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024413.00</nloc_cfti>
+      <desloc_cfti>Crespadoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Badia Calavena</desloc>
+      <lat_wgs84>45.5655</lat_wgs84>
+      <lon_wgs84>11.1537</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022243.00</nloc_cfti>
+      <desloc_cfti>Badia Calavena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Cogollo</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>11.1556</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023524.00</nloc_cfti>
+      <desloc_cfti>Cogollo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Tregnago</desloc>
+      <lat_wgs84>45.5128</lat_wgs84>
+      <lon_wgs84>11.1657</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023530.00</nloc_cfti>
+      <desloc_cfti>Tregnago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Valdagno</desloc>
+      <lat_wgs84>45.6521</lat_wgs84>
+      <lon_wgs84>11.3035</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>025575.00</nloc_cfti>
+      <desloc_cfti>Valdagno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Arzignano</desloc>
+      <lat_wgs84>45.5214</lat_wgs84>
+      <lon_wgs84>11.3373</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023972.00</nloc_cfti>
+      <desloc_cfti>Arzignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Bosco Chiesanuova</desloc>
+      <lat_wgs84>45.6222</lat_wgs84>
+      <lon_wgs84>11.029</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022305.00</nloc_cfti>
+      <desloc_cfti>Bosco Chiesanuova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cornedo Vicentino</desloc>
+      <lat_wgs84>45.6145</lat_wgs84>
+      <lon_wgs84>11.3442</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024348.00</nloc_cfti>
+      <desloc_cfti>Cornedo Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Erbezzo</desloc>
+      <lat_wgs84>45.64</lat_wgs84>
+      <lon_wgs84>11.0015</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022625.00</nloc_cfti>
+      <desloc_cfti>Erbezzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Grezzana</desloc>
+      <lat_wgs84>45.5204</lat_wgs84>
+      <lon_wgs84>11.017</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022696.00</nloc_cfti>
+      <desloc_cfti>Grezzana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Monte di Malo</desloc>
+      <lat_wgs84>45.6601</lat_wgs84>
+      <lon_wgs84>11.3619</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024840.00</nloc_cfti>
+      <desloc_cfti>Monte di Malo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Posina</desloc>
+      <lat_wgs84>45.7906</lat_wgs84>
+      <lon_wgs84>11.2615</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>025007.00</nloc_cfti>
+      <desloc_cfti>Posina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Trissino</desloc>
+      <lat_wgs84>45.5646</lat_wgs84>
+      <lon_wgs84>11.3706</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>025505.00</nloc_cfti>
+      <desloc_cfti>Trissino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bardolino</desloc>
+      <lat_wgs84>45.5425</lat_wgs84>
+      <lon_wgs84>10.726</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022259.00</nloc_cfti>
+      <desloc_cfti>Bardolino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Dolcé</desloc>
+      <lat_wgs84>45.6004</lat_wgs84>
+      <lon_wgs84>10.8527</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022600.00</nloc_cfti>
+      <desloc_cfti>Dolcé</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>San Pietro in Cariano</desloc>
+      <lat_wgs84>45.5205</lat_wgs84>
+      <lon_wgs84>10.8862</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023331.00</nloc_cfti>
+      <desloc_cfti>San Pietro in Cariano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Zevio</desloc>
+      <lat_wgs84>45.3738</lat_wgs84>
+      <lon_wgs84>11.1338</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023869.00</nloc_cfti>
+      <desloc_cfti>Zevio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Concamarise</desloc>
+      <lat_wgs84>45.215</lat_wgs84>
+      <lon_wgs84>11.1461</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022584.00</nloc_cfti>
+      <desloc_cfti>Concamarise</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Isola della Scala</desloc>
+      <lat_wgs84>45.273</lat_wgs84>
+      <lon_wgs84>11.0078</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022737.00</nloc_cfti>
+      <desloc_cfti>Isola della Scala</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Albaredo d'Adige</desloc>
+      <lat_wgs84>45.3174</lat_wgs84>
+      <lon_wgs84>11.2739</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022205.00</nloc_cfti>
+      <desloc_cfti>Albaredo d’Adige</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arcole</desloc>
+      <lat_wgs84>45.3586</lat_wgs84>
+      <lon_wgs84>11.2856</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022229.00</nloc_cfti>
+      <desloc_cfti>Arcole</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Asiago</desloc>
+      <lat_wgs84>45.875</lat_wgs84>
+      <lon_wgs84>11.5097</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024010.00</nloc_cfti>
+      <desloc_cfti>Asiago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Barbarano Vicentino</desloc>
+      <lat_wgs84>45.4101</lat_wgs84>
+      <lon_wgs84>11.5394</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024053.00</nloc_cfti>
+      <desloc_cfti>Barbarano Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bovolone</desloc>
+      <lat_wgs84>45.2578</lat_wgs84>
+      <lon_wgs84>11.1207</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022338.00</nloc_cfti>
+      <desloc_cfti>Bovolone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Caprino Veronese</desloc>
+      <lat_wgs84>45.6061</lat_wgs84>
+      <lon_wgs84>10.795</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022405.00</nloc_cfti>
+      <desloc_cfti>Caprino Veronese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Erbè</desloc>
+      <lat_wgs84>45.2426</lat_wgs84>
+      <lon_wgs84>10.9684</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022605.00</nloc_cfti>
+      <desloc_cfti>Erbè</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Grisignano di Zocco</desloc>
+      <lat_wgs84>45.4763</lat_wgs84>
+      <lon_wgs84>11.6993</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>024558.00</nloc_cfti>
+      <desloc_cfti>Grisignano di Zocco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Nogarole Rocca</desloc>
+      <lat_wgs84>45.2918</lat_wgs84>
+      <lon_wgs84>10.8844</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>022985.00</nloc_cfti>
+      <desloc_cfti>Nogarole Rocca</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Peschiera del Garda</desloc>
+      <lat_wgs84>45.4382</lat_wgs84>
+      <lon_wgs84>10.694</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023047.00</nloc_cfti>
+      <desloc_cfti>Peschiera del Garda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Quinto Vicentino</desloc>
+      <lat_wgs84>45.5734</lat_wgs84>
+      <lon_wgs84>11.6271</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>025030.00</nloc_cfti>
+      <desloc_cfti>Quinto Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Thiene</desloc>
+      <lat_wgs84>45.7077</lat_wgs84>
+      <lon_wgs84>11.478</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>025432.00</nloc_cfti>
+      <desloc_cfti>Thiene</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Torri del Benaco</desloc>
+      <lat_wgs84>45.613</lat_wgs84>
+      <lon_wgs84>10.6911</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023518.00</nloc_cfti>
+      <desloc_cfti>Torri del Benaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Villafranca di Verona</desloc>
+      <lat_wgs84>45.3548</lat_wgs84>
+      <lon_wgs84>10.8449</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>20745</nterr>
+      <nloc_cfti>023834.00</nloc_cfti>
+      <desloc_cfti>Villafranca di Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

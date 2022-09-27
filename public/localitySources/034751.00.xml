@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>034751.00</nloc_cfti>
+      <desloc_cfti>Castelvetro Piacentino</desloc_cfti>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.101</lat_wgs84>
+      <lon_wgs84>9.9877</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19963</nterr>
+      <nperiod>000363</nperiod>
+      <datanum>19060611</datanum>
+      <data_label>1906 06 11</data_label>
+      <anno>1906</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>05:10</time_label>
+      <ora>05</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.956</lat>
+      <lon>10.0709</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4.5</imax>
+      <npun>37</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

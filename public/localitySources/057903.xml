@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>057903</nloc_cfti>
+      <desloc_cfti>Montebello sul Sangro (Buonanotte)</desloc_cfti>
+      <provlet>CH</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>41.9873</lat_wgs84>
+      <lon_wgs84>14.3247</lon_wgs84>
+      <notesito>Già Buonanotte, assunse la denominazione attuale il 5 aprile 1969.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1>In seguito alla scossa, fu ordinata la sospensione dell’erogazione di acqua, che fu revocata due giorni dopo $(035052,035054)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>La maggior parte del paese fu distrutta $(470004)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>470004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione del danno cagionato dal Terremoto succeduto à dì 3 Novembre 1706 secondo le notizie venute à questo Eccellentissimo Marchese di Vigliena &amp;c. ed altre raccolte da varie lettere particolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1706</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035054</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.09.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073634.00</nloc_cfti>
+      <desloc_cfti>Gaminella</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.8786</lat_wgs84>
+      <lon_wgs84>9.0672</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05491</nterr>
+      <nperiod>000170</nperiod>
+      <datanum>18281009</datanum>
+      <data_label>1828 10 09</data_label>
+      <anno>1828</anno>
+      <mese>10</mese>
+      <giorno>09</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.8216</lat>
+      <lon>9.047</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>115</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle Staffora</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>32</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Frazione del comune di Godiasco. Il terremoto causò il crollo totale di 3 case sotto le cui macerie rimasero sepolte 10 persone, 3 delle quali morirono $(000001,000014,080129,150022,180190,260075,450014,450058)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080129</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto vogherese del 17 ottobre 1894 e sulla attività sismica nell’appennino pavese, in "Rendiconti del Regio Istituto Lombardo di Scienze, Lettere ed Arti", s.II, vol.28, pp.178-193.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Pavia, Manoscritti Ticinesi, 463, Giovanni Capsoni, Diarii, 2 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180190</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1828.10.21, n.295.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260075</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1828.10.18, n.84.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450014</codbib>
+      <autore1>Carena G.</autore1>
+      <titolo1>Sul terremoto sentito in Piemonte, specialmente nella provincia di Voghera, nell’ottobre del 1828, in "Memorie della Reale Accademia delle Scienze di Torino", vol.33, pp.XLIII-XLVII.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1829</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Piemontese, 1828.10.14, n.124.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

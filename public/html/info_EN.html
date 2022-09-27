@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<link rel="stylesheet" href="../css/help.css" />
+	<link rel="icon" type="image/x-icon" href="../favicon.ico">
+	<title>CFTI5Med - INFO</TITLE>
+	<link rel="stylesheet" type="text/css" href="../css/cookies.css" />
+	<script src="../js/cookieconsent.min.js"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7751503-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-7751503-2', { 'anonymize_ip': true });
+	</script>
+</head>
+
+<body>
+
+	<div id = "pageheader">
+		<div id="pagetitle">GENERAL INFORMATION</div>
+		<div id = "banner">
+			<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="../images/banner_CFTI_newG_thin_EN.png" alt="Header CFTI" height="32px" /></a><a href="http://www.ingv.it/" target = "_blank"><img src="../images/ingv-logo_small.png" alt="Header INGV" width= "30px" /></a>
+		</div>
+	</div>
+
+	<div id = "content">
+	    <script type="text/javascript" >
+	        function showTEXT(idname){
+	            document.getElementById(idname).style.display = "block";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "none";
+	        	document.getElementById(id2).style.display = "inline";
+	            // document.getElementById(idname).scrollIntoView(false);
+	        }
+
+	        function hideTEXT(idname){
+	        	document.getElementById(idname).style.display = "none";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "inline";
+	        	document.getElementById(id2).style.display = "none";
+	        }
+
+        </script>
+
+        <div>
+           <a onclick="showTEXT('intro'); return false" href="#" id="showTEXTintro" class="showTEXT">
+               <h1>A general introduction</h1><img src="../images/expand.png" width ="10px">
+           </a>
+       </div>
+       <div>
+           <a onclick="hideTEXT('intro'); return false" href="#" id="hideTEXTintro" class="hideTEXT">
+               <h1>A general introduction</h1><img src="../images/reduce.png" width ="10px">
+           </a>
+       </div>
+
+       <div id="intro" class="HELP-INFOtext">
+
+            <p>The <em>Catalogo dei Forti Terremoti in ltalia</em> (<em>Catalogue of Strong Italian Earthquakes</em>) is the most important outcome of a well-established collaboration between the Istituto Nazionale di Geofisica (ING; since 2000 Istituto Nazionale di Geofisica e Vulcanologia, INGV), the leading Italian institution for basic and applied research in seismology and solid earth geophysics, and SGA (Storia Geofisica Ambiente), a private firm specializing in the historical investigation and systematization of adverse natural phenomena. The collaboration with SGA came to an end in 2007, when part of its personnel became INGV permanent staff.</p>
+
+            <p>The <em>Catalogo dei Forti Terremoti in ltalia, 461 a.</em>C. - <em>1980 </em>was first published in Italian in 1995 by Boschi <em>et al. </em>(1995: CFTI 1). It was intended as a complete account of Italian "strong earthquakes", of their territorial impact and of the social and economic upheaval caused. The decision of focusing only on the largest earthquakes was dictated by the need to establish a priority among the vast number of events reported in traditional catalogues. Only earthquakes with a reported maximum intensity equal to or bigger than intensity VIII-IX on the MCS scale were considered in&nbsp; the first release of the catalogue, but this threshold was progressively relaxed for its subsequent versions. The second &nbsp;release, that appeared two years later, included more earthquakes, was based on more accurate research, and covered a longer time span (461 B.C. to 1990) (Boschi <em>et al., </em>1997: CFTI 2).</p>
+
+            <p>Knowing that the record of Italian historical seismicity is probably the most extensive of the whole world, and hence that the catalogue could be of interest for a wider international readership, Boschi <em>et al</em>. (2000) decided to share this experience with colleagues from foreign countries by preparing an English version of the catalogue. The new release (CFTI 3) entailed much additional research and fine tuning of methodologies and algorithms, including earthquakes up to 1997.</p>
+
+            <p>Following the publication of two large research bodies on the seismicity of the Mediterranean region up to the 10th century (Guidoboni <em>et al.</em>, 1994) and between the 11th and 15th century (Guidoboni and Comastri, 2005), the area of relevance of the catalogue was extended to the entire Mediterranean basin. The new contents, which included only basic seismological parameters (felt reports and epicentral location for Italian earthquakes, epicentral location only for the other Mediterranean earthquakes), appeared in a new version of the catalogue (CFTI4Med), published in 2007 as a web and web-GIS repository (Guidoboni et al., 2007).</p>
+        </div>
+        <hr>
+
+
+        <div>
+	        <a onclick="showTEXT('new'); return false" href="#" id="showTEXTnew" class="showTEXT">
+	            <h2>The new CFTI5Med catalogue: navigating between stability and innovation</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('new'); return false" href="#" id="hideTEXTnew" class="hideTEXT">
+	            <h2>The new CFTI5Med catalogue: navigating between stability and innovation</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="new" class="HELP-INFOtext">
+            <p>A decade later we are proud to present a new, largely revised and updated version of the catalogue, termed CFTI5Med. This new version features:</p>
+            <ul>
+            <li>the retrieval and formatting of over 23,000 <a href="help_IT.html#biblio" target="_blank">original bibliographic documents</a>, transcribed or printed, nearly 50% of those utilized in the CFTI5Med. These documents are now available on-line as fully searchable pdf files;</li>
+			<li>a full geological reinterpretation, georeferencing and reprocessing of over 2,300 descriptions of earthquake-induced environmental effects, which are now all available and searchable in a user-friendly web-GIS environment;</li>
+			<li>the elaboration of a number of texts and commentaries that were missing from the CFTI4Med version of the catalogue;</li>
+			<li>a totally re-designed and more efficient web- and web-GIS interface.</li>
+			</ul>
+
+            <p>The new <em>Catalogo dei Forti Terremoti in ltalia</em> includes 1,259 earthquakes that occurred in Italy (98 of which are currently considered false). No commentaries on the main earthquake effects were available in the previous version of the catalogue for&nbsp; 87 of such events as they had not been updated with respect to the information supplied in Guidoboni e Comastri (2005) for the 1000 AD-1500 AD time interval. The commentaries concerning the most significant effects of Italian medieval earthquakes have now been elaborated and are available along with the information on more recent events. For the remainder of the earthquakes first presented with the CFTI4Med - those that occurred in the general Mediterranean area away from the Italian coasts - the new catalogue provides only the felt reports and basic epicentral parameters.</p>
+            <p><strong>&nbsp;</strong></p>
+        </div>
+        <hr>
+
+
+        <div>
+	        <a onclick="showTEXT('why'); return false" href="#" id="showTEXTwhy" class="showTEXT">
+	            <h2>Yet another catalogue?</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('why'); return false" href="#" id="hideTEXTwhy" class="hideTEXT">
+	            <h2>Yet another catalogue?</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="why" class="HELP-INFOtext">
+
+            <p>While the Italian earthquake record is an outstanding source of information, it nonetheless carries the inherent danger - and perhaps the parodox - of generating a distorted picture of the seismogenic potential of any area. The result in most instances is an underestimation of the earthquake potential, but also often an overestimation; in both cases the misrepresentation of the earthquake potential may result in dire consequences, especially in areas of potential economic development. Until recently, the results of historical research have been summed up in traditional <em>parametric catalogues</em>, a form of presentation that indeed provides the basic information required by the elaboration of conventional seismic hazard models, but also inevitably impoverishes the available information, potentially introducing biases and misrepresentations of the earthquake activity. Basic principles or earthquake source physics show that two crustal earthquakes of a magnitude 6.0 and 7.0 may cause the same peak acceleration and the same maximum macroseismic effects, but the area of strongest ground shaking will be much smaller for the 6.0 magnitude quake with respect to the 7.0 event. In the absence of instrumental data, the relative importance of the two earthquakes can be understood only by compiling a complete picture of their dynamic effects, something that traditional earthquake catalogues, focusing only on epicentral intensity, failed to supply.</p>
+
+            <p>The <em>Catalogo dei Forti Terremoti in ltalia </em>reversed this trend, allowing for a more complete appreciation of the total energy released by any given earthquake and of the finest characteristics of its territorial impact. It is hence an <em>analytical catalogue</em>, supplying <u>all</u> the information available for any given earthquake in a pre-defined and easily accessible format, and including data and observations that may not be immediately relevant to seismic hazard applications but may be of interest for broader seismic risk analyses and for a number of other applications.</p>
+
+            <p>The basic principles of the <em>Catalogo dei Forti Terremoti in ltalia</em> were discussed at length in a special issue of <em>Annali di Geofisica</em> (later renamed <em>Annals of Geophysics</em>) that accompanied version 3 of the catalogue (<a href="http://www.annalsofgeophysics.eu/index.php/annals/issue/view/268"><em>Boschi <em>et al.</em>, 2000</em></a>). In the following we briefly describe the main features of the catalogue, referring the reader to specific articles from the special issue for further information on any given topic. Notice that the articles are available only in English.</p>
+
+        </div>
+         <hr>
+
+
+        <div>
+	        <a onclick="showTEXT('strutt'); return false" href="#" id="showTEXTstrutt" class="showTEXT">
+	            <h2>Rationale and structure</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('strutt'); return false" href="#" id="hideTEXTstrutt" class="hideTEXT">
+	            <h2>Rationale and structure</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="strutt" class="HELP-INFOtext">
+
+            <p>The motivations of the <em>Catalogo dei Forti Terremoti in ltalia</em> are discussed in detail in the contribution entitled <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3660"><em>"A 'new generation' earthquake catalogue"</em></a>, by Enzo Boschi. After drawing a history of earthquake catalogues throughout the 20th century, the paper discusses the reasons why Italy has long been known as "the cradle of historical seismology". The density of the population and the wealth of historical heritage on the one hand, and the frequency of destructive earthquakes and the youthful geology of Italy on the other hand formed the basis for developing the most accurate record of historical seismicity currently available worldwide.</p>
+
+            <p>The general framework of modern historical seismology and its complex relations with instrumental seismology and seismotectonics on the one hand and with historical research on the other hand are outlined in the contribution <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3661"><em>"Method of investigation, typology and taxonomy of the basic data: navigating between seismic effects and historical contexts"</em></a>, by Emanuela Guidoboni<em>. </em>But research on past earthquakes also requires developing a standardization that takes into account the semantic value and the hierarchy of the retrieved historical sources on the one hand, and their relations with the economic context and the building style on the other hand. In the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3663"><em>"Seismic scenarios and assessment of intensity: some criteria for the use of the MCS scale"</em></a> Graziano Ferrari and Emanuela Guidoboni elucidate all the difficulties involved in the use of any earthquake intensity scale.</p>
+
+            <p>In principle, the diversity of Italian landscape led to an ubiquitous presence of scholars and cultural centers meant that Earth tremors were witnessed and minutely recorded down the ages for subsequent generations living in any given area of Italy. In many instances, however, information flowed towards the main cultural centres, with certain areas probably being cut off from the rest of the landmass not only by mountain chains but also on account of wars, religious differences and other historical phenomena. The extent to which this isolation may have altered the "collective memory" of Italian earthquakes - and hence the perception of the associated hazard - is discussed by Gianluca Valensise and Emanuela Guidoboni in the article <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3672"><em>"Towards new research strategies: silent seismogenic areas or silent sources?"</em></a><em>. </em></p>
+
+            <p>When research on historical earthquakes is conducted also on a territorial basis one may encounter evidence for "unknown earthquakes", that is, real earthquakes that are not known to any current compilation. The paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3667"><em>"Unknown earthquakes: a growing contribution to the Catalogue of Strong Italian Earthquakes"</em></a> by Dante Mariotti, Alberto Comastri and Emanuela Guidoboni elucidates the main challenges involved in unearthing the evidence for earthquakes overshadowed by other larger events, or affected by chronological mistakes, loss of information or concomitance with other considerable natural phenomena.</p>
+
+            <p>One of the most significant features of historical seismology data down through history is their extremely high spatial resolving power. Mario Baratta, the compiler of the first modern earthquake catalogue of Italian history (Baratta, 1901), stated that "<em>research into past tremors, together with the monographic study of each single quake occurring in a given region up to modern times, allow us to identify various quake 'focuses' or 'radiants'</em>". Baratta identified over 250 'seismic centres' in Italy, one every 1200 km<sup>2</sup>, or in other words, one every 35 km along any cross-sectional line drawn across the peninsula. Indeed the accuracy with which the epicentres of quakes were determined by historical and more recent data was unrivalled until the first half of the seventies.</p>
+
+            <p>But turning historical data into quantitative seismological parameters involved the need to develop objective analytical techniques to assess earthquake intensities and subsequently obtain the main properties of the earthquakes source. The paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3669"><em>"Reducing the subjectivity of intensity estimates: the Fuzzy Sets approach"</em></a> by Gianfranco Vannucci, Paolo Gasperini and Graziano Ferrari outlines a method for the encoding and the computer analysis of the macroseismic effects derived from historical sources, allowing the process of seismic intensity assessment to be completely formalized using a multi-criteria decisions-support algorithm. In the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3670"><em>"Deriving numerical estimates from descriptive information: the computation of earthquake parameters"</em></a> Paolo Gasperini and Graziano Ferrari describe the long and meticulous development of what is now a widely accepted and consolidated approach for turning intensity data into robust numerical estimates: the <em>Boxer</em> computer code. Finally, in the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3671"><em>"From earthquake intensifies to earthquake sources: extending the contribution of historical seismology to seismotectonic studies"</em></a> Paolo Gasperini and Gianluca Valensise discuss how to turn the intensity data available for pre-instrumental into "equivalent earthquakes sources", a crucial step for building seismogenic models and obtaining more detailed and more reliable seismic hazard estimates.</p>
+
+            <p>A fundamental - yet often unappreciated - benefit from historical earthquake documentation is a greater understanding of the heterogeneous nature of widespread, small-scale property damage caused by local amplifications of ground motion. While the theory underlying these phenomena is well understood today, only the historical record can verify the existence of these repeated localized damage patterns. In recent years the seismic response of several important urban centres like Bologna, Catania, Palermo, Ferrara and Florence has been investigated by specific research programmes. Emanuela Guidoboni and Graziano Ferrari summarize the results of this research effort in their contribution <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3662"><em>"The effects of earthquakes in historical cities: the peculiarity of the Italian case"</em></a><em>. </em>But local site amplifications are not the only condition that may control the seismic response of the built enviroment. Other relevant variable were discussed in the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3663"><em>"Historical variables of seismic effects: economic levels, demographic scales and building techniques"</em></a>, also by Emanuela Guidoboni and Graziano Ferrari. In most cases, these studies entail detailed investigations of the huge body of information contained in the <em>Catalogo dei Forti Terremoti in ltalia. </em>The results of these studies are now becoming an integral part of the background knowledge available to town planners, architects and restorers, and therefore an indispensable means of reducing the vulnerability of Italy's historic architectural heritage.</p>
+
+            <p>Finally, the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3665"><em>"Earthquake effects on the environment: from historical descriptions to thematic cartography"</em></a><em>, </em>by Gianluca Valensise and Emanuela Guidoboni attempts to bridge the gap between earthquake history and geology. The effects of earthquakes on the environment may be subdivided into two categories: those effects related to shaking, and those which may be due directly to the seismogenic source. While the former include significant changes in the landscape and in the local hydrology - just think of the large earthquake-induced landlsides caused by Italian earthquakes, the latter generally have a lesser territorial impact yet they may entail a considerable scientific interest.</p>
+
+            <p>The <em>Catalogo dei Forti Terremoti in ltalia </em>is hence the vault that preserves for the present and future generations the wealth of information gathered through old and new research strategies over at least three decades. The data are presented in a uniform and formalized fashion, allowing the reader to navigate upstream from the parameters of a specific earthquake to the original sources that were used to investigate that event. For all these reasons we hope that the users will find it not only useful, but also interesting and stimulating.</p>
+
+            <p>The Authors</p>
+
+        </div>
+         <hr>
+
+
+
+		 <!-- <hr> -->
+
+ 		<br><br>
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('infomore'); return false" href="#" id="showTEXTinfomore" class="showTEXT">
+ 			   <h1>Finding out more</h1><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('infomore'); return false" href="#" id="hideTEXTinfomore" class="hideTEXT">
+ 			   <h1>Finding out more</h1><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <span style="color: #910000;">Text shown in red highlights significant improvements of the new version with respect to CFTI4Med.</span>
+
+ 	   <div id="infomore" class="HELP-INFOtext">
+
+ 		   <p>This section is meant to provide the reader with more detailed information on CFTI5Med. In particular, we supply details on the structure and organization of the information that was gathered through many years of investigation of the different earthquake sequences.
+ 		   </p>
+ 		</div>
+ 		<hr>
+
+<a id="INFOinfoEQ"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo0'); return false" href="#" id="showTEXTquakeinfo0" class="showTEXT">
+ 			  <h2 class="blue">Earthquake information</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('quakeinfo0'); return false" href="#" id="hideTEXTquakeinfo0" class="hideTEXT">
+ 			  <h2 class="blue">Earthquake information</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="quakeinfo0" class="HELP-INFOtext">
+
+			<p>Instrumental catalogues generally supply one record per earthquake. In contrast, the earthquake effects described by historical sources often refer to the combined effect of multiple shocks of a sequence. This is generally unavoidable, since it is always difficult to separate the effects of subsequent shocks, either because they occurred very close in space and time, or simply because of the limited resolution of historical sources.</p>
+
+			<p>In our Catalogue we present the data organized "by earthquake sequence", after aggregating shocks that appear reasonably clustered in both time and space. Occasionally this aggregation has been quite hard, in particular when two or more spatially and chronologically close sequences cannot be separated with confidence. The aggregation of multiple shocks into a single sequence has been crucial during the acquisition, filing and digitization of the retrieved historical information.</p>
+
+			<p>To make it easier to access the historical information and prevent any loss of data that are not directly used to describe the earthquake effects, but may be useful to reconstruct the seismic scenario from different viewpoints, we chose to describe each sequence through a set of synthetic historical-critical comments. Only in a few instances do these comments refer to individual shocks. Conversely, all maps describing the earthquake effects have been prepared for each individual shock, and so are the intensities reported at each locality.</p>
+
+			<p>For this new version of the Catalogue these comments have been organized following seven key-areas, from which we may derive up to 16 sub-areas, depending on the quality of the information available for each earthquake. In the following we provide basic guidelines for exploiting the CFTI5Med most effectively. For further details the reader is encouraged to refer to the paper <a href="http://www.annalsofgeophysics.eu/index.php/annals/article/view/3661"><em>"Method of investigation, typology and taxonomy of the basic data: navigating between seismic effects and historical contexts"</em></a>, by E. Guidoboni.</p>
+			<p>The historical-critical comments prepared for each individual earthquake sequence can always be consulted in the webpage describing the given event by hitting the "Comm." button.</p>
+ 		</div>
+
+
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo1'); return false" href="#" id="showTEXTquakeinfo1" class="showTEXT">
+ 			   <h3>Area 1. Main features of the earthquake sequence</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo1'); return false" href="#" id="hideTEXTquakeinfo1" class="hideTEXT">
+ 			   <h3>Area 1. Main features of the earthquake sequence</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo1" class="HELP-INFOtext">
+
+ 		   <p>1.1. <em>Chronological parameters</em>: this section describes the complete chronology of all tremors for which memory is preserved, including an indication of the place of observation/measurement, if this was clearly expressed by the sources, and a summary of the effects. Its aim is to supply all the information available about the given seismic sequence and show how this information contributes to the subsequent parameterization of the tremors.</p>
+ 		</div>
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo2'); return false" href="#" id="showTEXTquakeinfo2" class="showTEXT">
+ 			   <h3>Area 2. Information on the earthquake sequence</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo2'); return false" href="#" id="hideTEXTquakeinfo2" class="hideTEXT">
+ 			   <h3>Area 2. Information on the earthquake sequence</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo2" class="HELP-INFOtext">
+
+		   <p>2.1. <em>State of earthquake review</em>: describes the quality level of the revision made and the main types of basic data used, either bibliographic or archival; the general viewpoint of the revision is described, stating the selections made, even those with negative outcomes; the main scientific works available are also indicated.</p>
+		   <p>2.2. Development of earthquake review: this section highlights specific research problems, successful and unsuccessful archival selections made, and data typologies; it also discusses critical elements emerging with respect to the dating or the tradition of the texts, and any outstanding problems of toponymy.</p>
+ 		</div>
+
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo3'); return false" href="#" id="showTEXTquakeinfo3" class="showTEXT">
+ 			   <h3>Area 3. Social and institutional response</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo3'); return false" href="#" id="hideTEXTquakeinfo3" class="hideTEXT">
+ 			   <h3>Area 3. Social and institutional response</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo3" class="HELP-INFOtext">
+
+		   <p>3.1. <em>Elements of local demography</em></p>
+			<p>This section provides data on the population of the areas hit by the earthquake. The data can be used to evaluate both the incidence of earthquake victims relative to the entire population, and the social impact of the event in relation to the residential density.</p>
+			<p>3.2. <em>Characteristics of the local building styles</em></p>
+			<p>This section describes the main elements of the building heritage in relation to the materials used, the buidling techniques and the overall state of preservation of the building stock.</p>
+			<p>3.3. <em>Administrative/historical affiliations and boundaries</em></p>
+			<p>The main elements of the administrative hierarchies, which may clarify the adopted research strategy, motivate possible different institutional interventions during the evaluation of the damage and the reconstruction, and also provide elements for more detailed research at a later date.</p>
+			<p>3.4. <em>Social and economic response</em></p>
+			<p>A summary of the immediate circumstances exerting the greatest effects on the economic context: halting of the production activities, types of requests to the public administrations, migratory flows, prolonged abandonment of the epicentral, forms of regulation, etc.</p>
+			<p>3.5. <em>Institutional and administrative response</em></p>
+			<p>Main institutional and administrative dynamics which characterized the post-earthquake stage, both for evaluating the damage and for planning the reconstruction; projects for moving sites, for territorial or urban planning, for introducing tax exemptions.</p>
+			<p>3.6. <em>Reconstructions, relocations</em></p>
+			<p>Describes the main elements emerging during the stage of reconstruction; the decisions to rebuild towns or villages in a different location, the timing of the reconstruction, the quality of the interventions on surviving buildings. All of these elements affect considerably the performance of the building stock in later earthquakes.</p>
+ 		</div>
+
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo4'); return false" href="#" id="showTEXTquakeinfo4" class="showTEXT">
+ 			   <h3>Area 4. Scientific observations and theories</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo4'); return false" href="#" id="hideTEXTquakeinfo4" class="hideTEXT">
+ 			   <h3>Area 4. Scientific observations and theories</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo4" class="HELP-INFOtext">
+		   <p>4.1. <em>Scientific observations and theories</em></p>
+			<p>A summary of interpretations of the earthquake expressed by natural philosophers, naturalists and seismologists according to the ideas dominating the various historical periods. There are two main fields of interest in this information area: the composition of the cognitive framework, to which the historical descriptions of the seismic phenomena refer, and, more generally, the history of Seismology.</p>
+			<p>4.2. <em>Technical/scientific observations and surveys</em></p>
+			<p>A summary of indications from the reports of experts concerning technical assessments of damage, both as written descriptions and in the iconography; on-site seismological surveys; and specific descriptions regarding the technical, naturalistic and scientific context of the earthquake.</p>
+ 		</div>
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo5'); return false" href="#" id="showTEXTquakeinfo5" class="showTEXT">
+ 			   <h3>Area 5. Earthquake effects on the built environment</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo5'); return false" href="#" id="hideTEXTquakeinfo5" class="hideTEXT">
+ 			   <h3>Area 5. Earthquake effects on the built environment</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo5" class="HELP-INFOtext">
+		   <p>5.1.<em> Major earthquake effects</em></p>
+			<p>A summary of the main tremors, of the most damaged sites, of the extent of the area struck by the earthquake, of the typology of the most significant damage, and of the global extent of the felt area. It is indicated whether the data available allow the effects of the tremors to be differentiated or else if the overall damage pattern is cumulative for multiple shocks.</p>
+
+			<p>5.2. <em>Concurrent natural and man-induced destructive events</em></p>
+			<p>An indication was given of the concurrence of the earthquake with other destructive events (extreme events of natural origin or destructions caused by human activity) which may alter considerably the contemporary descriptions of the earthquake effects and the evaluation of the impact on the human environment.</p>
+
+			<p>5.3. <em>Effects on the built environment by individual locality</em></p>
+			<p>A descriptive summary of the effects for each identified locality, supplied along with the relative specific bibliographical references. Only intensity estimates from known sources have been used for earthquakes revised at the first and second level, when direct macroseismic information was not available. Every site was carefully located through its geographical coordinates and included in the list of locations that were assigned an intensity degree.</p>
+ 		</div>
+
+
+<a id="E1"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo6'); return false" href="#" id="showTEXTquakeinfo6" class="showTEXT">
+ 			   <h3>Area 6. Earthquake effects on the natural environment</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo6'); return false" href="#" id="hideTEXTquakeinfo6" class="hideTEXT">
+ 			   <h3>Area 6. Earthquake effects on the natural environment</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo6" class="HELP-INFOtext">
+		   <p>6.1. <em>Characteristics of the effects on the natural environment</em></p>
+			<p>A brief description of the effects of the earthquake on the natural environment: ground cracks, chasms, landslides, rockfalls, changes in the discharge rate of rivers and springs, tsunami effects, overflowing of lakes, etc.</p>
+
+			<p>6.2. <em>Associated natural phenomena</em></p>
+			<p>Indications are given about any phenomena associated with the earthquake based on contemporary witnesses: unusual animal behavior, light phenomena, electromagnetic variations etc.</p>
+
+			<p>6.3. <em>Effects on the natural environment by individual locality</em></p>
+			<p>A brief description of each effect of the earthquake on the natural environment at the given locality. <span style="color: #910000;">Whenever possible, the available witnesses were assigned to a specific shock of the earthquake sequence. In CFTI5Med all the observed effects have been better classified and geo-referenced.</span></p>
+ 		</div>
+
+<a id="INFObiblio"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('quakeinfo7'); return false" href="#" id="showTEXTquakeinfo7" class="showTEXT">
+ 			   <h3>Area 7. Bibliography</h3><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 	   </div>
+ 	   <div>
+ 		   <a onclick="hideTEXT('quakeinfo7'); return false" href="#" id="hideTEXTquakeinfo7" class="hideTEXT">
+ 			   <h3>Area 7. Bibliography</h3><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 	   </div>
+
+ 	   <div id="quakeinfo7" class="HELP-INFOtext">
+ 		   <p><a id="bibliografia"></a>For every investigated sequence CFTI5Med provides the relevant bibliography in an organized form. Each available witness has been filed individually to allow it to be more easily retrieved. The bibliography includes both published and unpublished sources: when listed by author the unpublished sources were ordered by the name of the site where they are kept (archives and libraries). All texts are classified based on the strength assigned to the witness(es) they contain with respect to the earthquake sequence being considered (see list below): notice that this classification refers to individual pieces of information relative to each sequence, not to the whole of the text. Next to each reference the Catalogue provides a link to one or more PDF files containing such texts, when available. For further details see <a href="#testi" onclick="showTEXT('testiPDF')" style="color: #910000;">Original texts in digital form</a>.</p>
+			<p>7.1. Classification of the strength of individual testimonies</p>
+			<p>All testimonies were ranked according to their characteristics, and ultimately according to their reliability. Each one was assigned a specific code that allows the reader to assess more easily their potential relevance. The codes are the following:</p>
+			<p><u>Direct source</u>. The text was written by a contemporary witness, both trustworthy and geographically close to the event described, whose testimony is hence deemed reliable and authoritative.</p>
+			<p><u>Source chronologically close to the event</u>. The author is chronologically close to the event (lifetime), but is geographically distant from the site to which the witness refers. It includes all cases where the witness was obtained indirectly from another text or by oral tradition, and it is impossible to trace back the path followed by the information.</p>
+			<u>Indirect source</u>. It may include:<br>
+			- texts of local historiography which are deemed especially authoritative and close to the event;<br>
+			- especially authoritative narrative sources;<br>
+			- journalistic texts of the time.</p>
+			<p><u>Apocryphal source</u>. It is said of a text that was deemed unreliable. Texts of this category are included in the bibliography only because they were used in previous studies and as such deserve to be re-considered.</p>
+			<p><u>Repertoire</u>. A list of earthquakes prepared according to the viewpoints of literary and naturalistic erudition. It also includes texts on the &ldquo;freak events&rdquo; that are typical of the beginning of the modern age, and in general all catalogues compiled before the nineteenth century.</p>
+			<p><u>Repertoire-type source</u>. This expression refers to direct sources of information contained in a Repertoire (see above), which in itself can not have the value of a true source since it is usually a collection of late and indirect information.</p>
+			<p><u>Catalogue</u>. List of earthquakes compiled from the nineteenth century onwards for scientific or naturalistic purposes. It may be based on selections of sources or works quoted, or may not report any indication of the sources used. It may be descriptive or parametric.</p>
+			<p><u>Catalogue-type source</u>. It is a direct testimony contained in an earthquake catalogue, chronologically contemporary to the author or drawn up from direct observations by the author in person or transcribed in full from original texts.</p>
+			<p><u>Bulletin</u>. A publication produced through observations or recordings by specialist centers; a table of measurements; a complete or even partial series of measurements taken within different contexts (deeds of academies, articles, etc.). Observations of earthquake effects reported in observatory registries have been considered direct or indirect sources, depending on each specific case.</p>
+			<p><u>Generic information</u>. This definition is used to define information taken from secondary historiographic sources (e.g. local social histories), in coveval memoirs or in antiquarian historiography, when the event described is very distant in time or when the information is so generic that is reasonable to assume that the data are not supported by sources known to the author. This code indicates that this information requires further verification, or that it may be interpreted only as a clue for further investigations.</p>
+			<p><u>Historiographic study</u>. This code includes studies by contemporary historians (but not necessarily conducted using the criteria of recent critical historiography), specific studies on past earthquakes or studies on relevant aspects of the economic, demographic and social history that were used to improve the understanding of the earthquake effects.</p>
+			<p><u>Scientific bibliography</u>. This code is assigned to coeval studies conducted within a specific theoretic interpretative and cognitive framework, starting with the beginning of the nineteenth century, or to recent studies on past earthquakes.</p
+			<p><u>Negative source</u>. Source that does not contain information on the earthquake sequence.</p>
+
+
+
+ 		</div>
+
+ 		<hr>
+<a id="testi"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('testiPDF'); return false" href="#" id="showTEXTtestiPDF" class="showTEXT">
+ 			  <h2 class="red">Original texts in digital form</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('testiPDF'); return false" href="#" id="hideTEXTtestiPDF" class="hideTEXT">
+ 			  <h2 class="red">Original texts in digital form</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="testiPDF" class="HELP-INFOtext">
+ 			<span style="color: #910000;"><p>About 23,000 of the 46,000 witnesses used for the Catalogue are now available as searchable PDF files. In most cases the files contain a transcript of excerpts that may be useful for further investigations, whereas in a limited number of cases they contain scanned images of the original sources, also provided as searchable PDF files for the texts that were originally in printed form. For texts written in languages other than Italian (Latin, Greek, Spanish, French, English, German) the transcripts contain a literal translation into Italian. The two types of PDF files - transcripts and scans - are indicated as PDF_T and PDF_R, respectively, and are referenced in different parts of the historical-critical comments (blbiography, notes to the comment etc.).</p>
+			<p>In some instances the Catalogue supplies both the PDF_T and the PDF_R files for the same witness: while the transcript contains an exact excerpt that may be useful for defining the full scenario of the macroseismic effects, the scanned version of the original source allows all historical-critical, geological and seismological contributions to be consulted in full (including for example a geological or seismological introduction, drawings, photos, maps, scientific interpretations and theories). Each PDF file contains the text and its exact bibliographical reference: information on how credit should be given is supplied in the PDF columning.</p>
+			<p>As we anticipated in the General Introduction section, the CFTI4Med version of the Catalogue did not supply comments on the main effects of 87 medieval earthquakes, as the relevant documentation had to be updated following the new data and analyses published by Guidoboni and Comastri (2005) for the period XI-XV century. In the current version of the Catalogue these earthquakes feature general comments on the <em>State of earthquake review</em> and on the <em>Major earthquake effects</em>, whereas for all the other comments we supplied a digital reproduction of the relevant text taken from Guidoboni and Comastri (2005). For all the other medieval earthquakes that occurred in the general Mediterranea region outside Italy we provide only a digital reproduction of the relevant text supplied in Guidoboni and Comastri (2005).</p></span>
+ 		</div>
+
+
+ 		<hr>
+
+ 		<div>
+ 		   <a onclick="showTEXT('aggcomm'); return false" href="#" id="showTEXTaggcomm" class="showTEXT">
+ 			 <h2 class="red">Update of historical-critical comments on medieval earthquakes</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('aggcomm'); return false" href="#" id="hideTEXTaggcomm" class="hideTEXT">
+ 			 <h2 class="red">Update of historical-critical comments on medieval earthquakes</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="aggcomm" class="HELP-INFOtext">
+ 		   <span style="color: #910000;"><p>As we anticipated in the General Introduction, the CFTI4Med version of the catalogue did not contain the usual comments on the main effects of the earthquakes for 87 medieval events that occurred in Italy. The materials available for these earthquakes required an update following the new data and analyses published by&nbsp;Guidoboni and Comastri (2005) for the interval between the 11th and the 15th century. For these earthquakes we prepared comments on the <em>State of earthquake review</em> and on <em>Major earthquake effects</em>, whereas for the other comments we provide the digital version of the relevant portion of text taken from&nbsp;Guidoboni and Comastri (2005). For all the other non-Italian medieval earthquakes we provide only the digital version of the text taken from&nbsp;Guidoboni and Comastri (2005).</p></span>
+ 		</div>
+
+ 		<hr>
+
+<a id="INFOlocalizeq"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('localizz'); return false" href="#" id="showTEXTlocalizz" class="showTEXT">
+ 			 <h2 class="red">Location of individual earthquakes: typologies and map representation</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('localizz'); return false" href="#" id="hideTEXTlocalizz" class="hideTEXT">
+ 			 <h2 class="red">Location of individual earthquakes: typologies and map representation</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="localizz" class="HELP-INFOtext">
+ 			<span style="color: #910000;"><p>One of the most critical steps in the parameterization of historical earthquakes is the assessment of their location. In simple words, the macroseismic epicenter can be calculated as lying in the middle of the spatial distribution of all sites that suffered the largest intensities.</p><p>To parameterize all earthquakes listed in CFTI5Med we used the Boxer computer code v. 3.3 (<a href="grazie%20agli%20strumenti%20di%20ricerca%20su%20base%20geografica%20attualmente%20disponibili%20online,">http://gaspy.df.unibo.it/paolo/boxer/boxer.html</a>; Gasperini, 2004), that had already been used in CFTI4Med for the earthquakes that occurred in the Italian area. The parameters of non-Italian earthquakes, and particularly their equivalent magnitude, may hence differ from those presented in CFTI4Med and in the reference compilations (Guidoboni et al., 1994; Guidoboni and Comastri, 2005), whose authors relied on a previous version of the Boxer code. In addition to that, in CFTI5Med all felt localities across the Mediterranean have been located with higher precision with respect to the previous versions, taking advantage of the more effective geographic tools currently available online. Also for this reason the location of the macroseismic epicenter of Mediterranean earthquakes may be different from that reported in CFTI4Med, Guidoboni et al. (1994) and Guidoboni and Comastri (2005). Notice that in CFTI5Med for all the earthquakes that occurred in the Mediterranean area the macroseismic intensity values assigned to each locality have not been modified with respect to the reference compilations (Guidoboni et al., 1994; Guidoboni and Comastri, 2005).</p>
+
+			<p>The very long chronological interval covered by our Catalogue - about 25 centuries - implies that earthquake locations may belong to different typologies, shown in the legend of the graphic interface and summarized in the following:</p>
+			<ul>
+			<li>earthquake location was calculated from a sufficient number of sites for which a microseismic intensity was assigned. It is shown in map with a solid star;</li>
+			<li>earthquake location from foreign catalogues. It is shown in map as the calculated location with an additional explicatory note;</li>
+			<li>hypotesized epicentral location: when the distribution of intensity observations does not allow a full calculation, the location is hypothesized. In CFTI5Med this happens only in four cases, corresponding to two distinct typologies: for the 1117 earthquake, and for three shocks of the December 1456 sequence. In thr first case the sources suggest the existence of a secondary shock possibly located in Garfagnana (northern Tuscany), whereas in the second case the locations are hypothesized based on tectonic inferences. They are shown in map with an empty star;</li>
+			<li>the location is set coincident with the location of a single site for which there exists an intensity assignment. It is shown in map as a solid circle;</li>
+			<li>the location is set as lying in the middle of a region identified by the historical sources as the area that suffered the largest effects, without specifying the names of individual localities. It is shown in map as an empty circle;</li>
+			<li>unparameterized: this condition refers to an earthquake for which the available information is insufficient or too generic for deriving analytical parameters. It is not shown in map.</li>
+		</ul></span>
+ 		</div>
+
+ 		<hr>
+
+<a id="INFOcptiasmi"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('cptiasmi'); return false" href="#" id="showTEXTcptiasmi" class="showTEXT">
+ 			 <h2 class="red">Relations of CFTI5Med with CPTI and ASMI</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('cptiasmi'); return false" href="#" id="hideTEXTcptiasmi" class="hideTEXT">
+ 			 <h2 class="red">Relations of CFTI5Med with CPTI and ASMI</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="cptiasmi" class="HELP-INFOtext">
+ 			<span style="color: #910000;"><p>The CFTI4Med comprises the reference study for many earthquakes listed the <em>Catalogo Parametrico dei Terremoti Italiani</em> (Italian parametric earthquake catalogue, CPTI: the current version is CPTI15) and in its corresponding database, the DataBase Macrosismico Italiano (DBMI). It is also listed as providing one of multiple studies for several earthquakes in the <em>Archivio Storico Macrosismico Italiano </em>(Italian historical macroseismic archive, ASMI). In CFTI5Med the two icons marked CPTI-DBMI and ASMI that appear in the in-depth description of each earthquake take the reader directly to the relevant pages CPTI-DBMI e ASMI. Four different conditions may apply depending on the various earthquakes:</p>
+			<ol type="a">
+			<li>CFTI4Med is the CPTI15 reference study for the given earthquake, and the parameters reported in CFTI5Med are exactly the same as in CFTI4Med. In this case by clicking the icon the reader is taken to the corresponding page of CPTI15;</li>
+			<li>CFTI4Med is the CPTI15 reference study for the given earthquake, but the distribution of intensities has been modified in CFTI5Med with respect to CFTI4Med. Under these circumstances the CPTI15-DBMI15 icon is crossed out and cannot be clicked;</li>
+			<li>CFTI4Med is not the CPTI15 reference study for a given earthquake. Under these circumstances the CPTI15-DBMI15 is shown in gray and cannot be clicked;</li>
+			<li>earthquakes not included in CPTI15-DBMI15: the icon is crossed out and cannot be clicked;</li>
+			<li>for all earthquakes that occurred prior to the year 1000 the CPTI15-DBMI15 icon is crossed out, indicating that the time interval spanned by CPTI15-DBMI15 does not extend to pre-1000 earthquakes.</li>
+			</ol>
+ 		</div>
+
+ 		<hr>
+
+
+<a id="INFOmorti"></a>
+ 		<div>
+ 		   <a onclick="showTEXT('morti'); return false" href="#" id="showTEXTmorti" class="showTEXT">
+ 			<h2 class="red">Data on the number of victims</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('morti'); return false" href="#" id="hideTEXTmorti" class="hideTEXT">
+ 			<h2 class="red">Data on the number of victims</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="morti" class="HELP-INFOtext">
+ 		   <span style="color: #910000;"><p>From the descriptive syntheses of all large earthquakes, both general and analytical, we extracted the information on the number of victims caused by each earthquake. Among all the parameters that can be derived from historical witnesses, the information on the number of victims of an earthquake is usually the most uncertain and variable, its accuracy being largely a function of the historical period considered and of the reliability of witnesses. For the oldest earthquakes these witnesses are often fraught with symbolic meanings and generally report unreliable estimates. In the absence of official estimates from specific surveys, witnesses are often discordant and return very large intervals for the actual number of victims. For all of these reasons we decided to subdivide the number of victims into five macro-categories (&lt;10, 11-100, 101-1000, 1001-10.000, &gt;10.000), attributing to each estimate a reliability class ranging from 1, low, to 3, high. A low reliability was attributed whenever the information was deemed very generic; a high reliability was attributed to cases where the data were derived from official estimates; an average reliability was attributed to all other cases. By rolling over the mouse on the icon describing the numerosity of victims the reader may access the window reporting the exact number - if derived from official estimates - or an interval or a descriptive estimate if this was deemed more realistic (e.g. "many victims"), followed by the legend of the symbols.</p></span>
+ 		</div>
+
+ 		<hr>
+
+ 		<div>
+ 		   <a onclick="showTEXT('tipieq'); return false" href="#" id="showTEXTtipieq" class="showTEXT">
+ 			<h2 class="red">Strong, Mediterranean, and false earthquakes</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('tipieq'); return false" href="#" id="hideTEXTtipieq" class="hideTEXT">
+ 			<h2 class="red">Strong, Mediterranean, and false earthquakes</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="tipieq" class="HELP-INFOtext">
+ 			<span style="color: #910000;"><p>In the section of the interface dedicated to the selection of a specific earthquake the reader will find different options that deserve some explanations.</p>
+			<p><em>Italian and Mediterranean earthquakes</em></p>
+			<p>As we anticipated in the presentation of the Catalogue, for the period from 760 b.C. to 1500 CFTI5Med reports also several large earthquakes that occurred in the general Mediterranea area. Notice however that by default at startup the Catalogue shows only Italian earthquakes.</p>
+			<p><em>Strong and false earthquakes</em></p>
+			<p>The first three versions of the Catalogue were based on a revision of large Italian earthquakes only (maximum intensity &gt; VIII MCS), that is to say, those earthquakes which had been reported as distructive. In some instances the revision has led to reducing the maximum intensity, whereas other earthquakes have been eliminated for being false (i.e. they never occurred). The reader may select all strong earthquakes, meaning all Italian earthquakes with epicentral intensity equal to or larger than VIII MCS - <u>the default choice on startup of the Catalogue &ndash;</u> and include also the events which are currently considered false.</p></span>
+ 		</div>
+
+ 		<hr>
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('local'); return false" href="#" id="showTEXTlocal" class="showTEXT">
+ 			<h2 class="red">Locality names and notes</h2><img src="../images/expand.png" width ="10px">
+ 		   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('local'); return false" href="#" id="hideTEXTlocal" class="hideTEXT">
+ 			<h2 class="red">Locality names and notes</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="local" class="HELP-INFOtext">
+ 			<span style="color: #910000;"><p>If a given locality has changed its name over time, in the list of the reported intensities we show it with the name it had at the time of the earthquake. In the complete list this locality will appear with its current name and with the historical name in parentheses. A note indicates the date of the name change: notice that in a few instances there are multiple changes. One of the most complex cases is that of Vibo Valentia, for which CFTI5Med reports three different denominations, two of which are historical. This is how its locality page appears:</p>
+			<p>Vibo Valentia (Monteleone, Monteleone di Calabria), with the note "Assunse la denominazione di Monteleone di Calabria il 22 gennaio 1863 e quella attuale l&rsquo;8 dicembre 1928 (previously called Monteleone, it took the name Monteleone di Calabria on 22 January 1863 and the current name on 8 December 1928)".</p>
+			<p>Hence, in the access by earthquake section of CFTI5Med we will find: Monteleone for earthquakes from 1638 to 1854; Monteleone di Calabria for earthquakes from 1870 to 1908; and Vibo Valentia for later earthquakes.</p></span>
+ 		</div>
+ 		<hr>
+
+ 		<div>
+ 		   <a onclick="showTEXT('EE'); return false" href="#" id="showTEXTEE" class="showTEXT">
+ 			<h2 class="red">Location of effects on the natural environment</h2><img src="../images/expand.png" width ="10px">
+ 			   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('EE'); return false" href="#" id="hideTEXTEE" class="hideTEXT">
+ 			<h2 class="red">Location of effects on the natural environment</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		<div id="EE" class="HELP-INFOtext">
+ 			<span style="color: #910000;">
+ 		<p>The effects induced by the earthquake on the environment, summarized in <a href="#E1" onclick="showTEXT('quakeinfo6')" style="color: #910000;">Effects on the natural environment by individual locality</a>, are generally located coincident with localities where these effects were observed. In some instances, where historical descriptions allowed us do so, the effects were precisely located on the geographical spots where they have been observed (mountains, rivers etc.).</p></span>
+ 	  </div>
+ 		<br>
+ 		<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 		<div>
+ 		   <a onclick="showTEXT('numeriCFTI'); return false" href="#" id="showTEXTnumeriCFTI" class="showTEXT">
+ 			<h1>Facts and numbers: what’s new in CFTI5Med?</h1><img src="../images/expand.png" width ="10px">
+ 			   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('numeriCFTI'); return false" href="#" id="hideTEXTnumeriCFTI" class="hideTEXT">
+ 			<h1>Facts and numbers: what’s new in CFTI5Med?</h1><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		 <div id="numeriCFTI" class="HELP-INFOtext">
+			 <p><strong>1,259</strong>  earthquakes that occurred in the Italian area (between 461 b.C. and 1997), including </span><strong>42,663</strong>  intensity datapoints obtained by analyzing and rating the effects on the built environment (macroseismic observations) and </span><strong>2,337</strong>  datapoints obtained by analyzing and rating the effects on the natural environment (earthquake-induced). </span></p>
+			 <p><strong>475 </strong> earthquakes that occurred between the years 760 b.C and 1500 in the Mediterranean area. For </span><strong>223</strong>  earthquakes that occurred up to the end of the 10th century we provide only the epicentral location, whereas for those that occurred between the 11th and 15th century we provide </span><strong>635</strong>  original intensity datapoints obtained by analyzing and rating the effects on the built environment (macroseismic observations) and </span><strong>68</strong>  datapoints obtained by analyzing and rating the effects on the natural environment (earthquake-induced environmental effects). </span></p>
+			 <p> In addition to boasting a new powerful interface and a number of new functionalities and improvements, the new CFTI5Med features many additional data</span></p>
+ 	   </div>
+ 		<hr>
+
+ 		<div>
+ 		   <a onclick="showTEXT('nuoviEQ'); return false" href="#" id="showTEXTnuoviEQ" class="showTEXT">
+ 			<h2>New earthquakes</h2><img src="../images/expand.png" width ="10px">
+ 			   </a>
+ 		</div>
+ 		<div>
+ 		   <a onclick="hideTEXT('nuoviEQ'); return false" href="#" id="hideTEXTnuoviEQ" class="hideTEXT">
+ 			<h2>New earthquakes</h2><img src="../images/reduce.png" width ="10px">
+ 		   </a>
+ 		</div>
+
+ 		 <div id="nuoviEQ" class="HELP-INFOtext">
+ 			 <p><strong>2</strong>  shocks that were not in CFTI4Med we added in the new version of the Catalogue: <br>
+ 				 <strong>1494 09 01 16:45</strong>  - Tortora (CS) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?42859EN"> link </a><br>
+ 				<strong>1708 03 03 22:40</strong>  - Messina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?01350EN"> link </a></p>
+ 	   </div>
+ 		<hr>
+
+
+ 		<div>
+ 		  <a onclick="showTEXT('eliminatiEQ'); return false" href="#" id="showTEXTeliminatiEQ" class="showTEXT">
+ 		   <h2>Deleted earthquakes</h2><img src="../images/expand.png" width ="10px">
+ 			  </a>
+ 	   </div>
+ 	   <div>
+ 		  <a onclick="hideTEXT('eliminatiEQ'); return false" href="#" id="hideTEXTeliminatiEQ" class="hideTEXT">
+ 		   <h2>Deleted earthquakes</h2><img src="../images/reduce.png" width ="10px">
+ 		  </a>
+ 	   </div>
+
+ 		<div id="eliminatiEQ" class="HELP-INFOtext">
+ 			<p><strong>2</strong>  shocks that appeared in CFTI4Med along with their parameters have been reconsidered and are now classified as “false earthquakes":  <br /> <strong>1183 12 -</strong>  - <strong> - </strong> -   Verona -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00070EN"> link </a><br>
+ 				<strong>1223 - - </strong> -  <strong>-</strong>  &nbsp;- Gargano -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00092EN"> link </a></p>
+ 	  </div>
+ 	   <hr>
+
+ 	   <div>
+ 		 <a onclick="showTEXT('modEQ'); return false" href="#" id="showTEXTmodEQ" class="showTEXT">
+ 		  <h2>Re-investigated or modified earthquakes </h2><img src="../images/expand.png" width ="10px">
+ 			 </a>
+ 	  </div>
+ 	  <div>
+ 		 <a onclick="hideTEXT('modEQ'); return false" href="#" id="hideTEXTmodEQ" class="hideTEXT">
+ 		  <h2>Re-investigated or modified earthquakes</h2><img src="../images/reduce.png" width ="10px">
+ 		 </a>
+ 	  </div>
+
+ 	   <div id="modEQ" class="HELP-INFOtext">
+ 		   <p><strong>6</strong>  independent earthquake sequences were re-investigated in detail. As a result, the following <strong>8</strong> shocks are now presented in a form that has been significantly updated with respect to the CFTI4Med:<br>
+ 			   <strong>1183 12 -</strong>  - <strong> - </strong> -   Verona -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00070EN"> link </a><br>
+ 			   <strong>1223 - - </strong> - <strong> - </strong> -   Gargano -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00092EN"> link </a><br>
+ 			   <strong>1732 11 29 </strong> - <strong> 07:40 </strong> -   Irpinia -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?01726EN"> link </a><br>
+ 			   <strong>1908 12 28 </strong> - <strong> 04:20:27 </strong> -   Calabria meridionale-Messina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?21318EN"> link </a><br>
+ 			   <strong>1948 06 13 </strong> - <strong> 06:33:36 </strong> -   Valtiberina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?32553EN"> link </a><br>
+ 			   <strong>1948 08 18 </strong> - <strong> 21:12:20 </strong> -   Puglia settentrionale -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?32584EN"> link </a><br>
+ 			   <strong>1948 08 21 </strong> - <strong> 08:44:47 </strong> -   Puglia settentrionale -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?32585EN"> link </a><br>
+ 			   <strong>1948 08 22 </strong> - <strong> 23:16:20 </strong> -   Puglia settentrionale -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?32586EN"> link </a></p>
+
+
+ 				<p><strong>35</strong> shocks have been thoroughly re-investigated an taken at a higher revision level. As a result, in CFTI5Med they feature updated parameters, updated locations for the main effects and updated associated intensitied:</span><br>
+				<strong>91 b.C.</strong> <strong>-</strong> <strong>-</strong>  - </span><strong>-</strong>  - Reggio Calabria? - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?50021EN"> link</span></a><br>
+				<strong> 17</strong> <strong>- - </strong> - </span><strong>-</strong>  - - </span><strong>-</strong>  - - </span><strong>-</strong>  - Reggio Calabria-Sicilia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?50036EN"> link</span></a><br>
+				<strong> &nbsp;853 08 31</strong>  - </span><strong>-</strong>  - - </span><strong>-</strong>  - -Messina - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?50077EN"> link</span></a><br>
+				<strong>1329 06 28</strong>  - </span><strong>22:00</strong>  - Area etnea - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?00216EN"> link</span></a><br>
+				<strong>1494 05 29 </strong> - </span><strong>02:15</strong>  - Messina - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?00489EN"> link</span></a><br>
+				<strong>1509 02 25</strong>  -</span><strong> 22:20</strong>  - Calabria meridionale - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?00535EN"> link</span></a><br>
+				<strong>1693 01 08</strong>  - </span><strong>22:15</strong>  - Calabria settentrionale - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?42035EN"> link</span></a><br>
+				<strong>1708 01 26</strong>  - - - - </span><strong>-</strong>  - - Pollino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?42037EN"> link</span></a><br>
+				<strong>1781 06 03 </strong> - </span><strong>06:25</strong>  - Appennino marchigiano - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?02525EN"> link</span></a><br>
+				<strong>1783 02 06</strong>  - </span><strong>00:20</strong>  - Calabria meridionale-Messina - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?02720EN"> link</span></a><br>
+				<strong>1805 07 26 </strong> - </span><strong>21:00</strong>  - Molise - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?04869EN"> link</span></a><br>
+				<strong>1828 02 02 </strong> - </span><strong>09:15</strong>  - Casamicciola Terme (NA) - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?05460EN"> link</span></a><br>
+				<strong>1828 10 09 </strong> -</span><strong> 02:20</strong>  - Valle Staffora - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?05491EN"> link</span></a><br>
+				<strong>1828 10 10 </strong> - </span><strong>01:30 </strong> - Valle Staffora - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?05496EN"> link</span></a><br>
+				<strong>1854 02 12 </strong> - </span><strong>17:50 </strong> - Cosentino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?08097EN"> link</span></a><br>
+				<strong>1857 12 16 </strong> - </span><strong>21:15</strong>  - Basilicata - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?08443EN"> link</span></a><br>
+				<strong>1870 10 04</strong>  - </span><strong>16:55</strong>  - Cosentino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?09450EN"> link</span></a><br>
+				<strong>1881 03 04</strong>  - </span><strong>12:15</strong>  - Isola d&rsquo;Ischia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?11516EN"> link</span></a><br>
+				<strong>1883 07 28</strong>  - </span><strong>20:25</strong>  - Isola d&rsquo;Ischia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?11949EN"> link</span></a><br>
+				<strong>1895 05 18</strong>  - </span><strong>19:55:12</strong>  - Fiorentino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?15327EN"> link</span></a><br>
+				<strong>1895 06 06</strong>  - </span><strong>00:35:05</strong>  - Fiorentino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?15356EN"> link</span></a><br>
+				<strong>1897 07 15</strong>  - </span><strong>05:57</strong>  - Slovenia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?16153EN"> link</span></a><br>
+				<strong>1905 09 08</strong>  - </span><strong>01:43:11</strong>  - Calabria - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?19344EN"> link</span></a><br>
+				<strong>1908 07 10</strong>  - </span><strong>02:13:35</strong>  - Carnia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?21142EN"> link</span></a><br>
+				<strong>1909 08 25</strong>  -</span><strong> 00:22:27</strong>  - Toscana meridionale - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?22533EN"> link</span></a><br>
+				<strong>1915 01 13</strong>  - </span><strong>06:52:43</strong>  - Marsica - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?24751EN"> link</span></a><br>
+				<strong>1928 03 27</strong>  - </span><strong>08:32:30</strong>  - Friuli - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?29040EN"> link</span></a><br>
+				<strong>1930 07 23</strong>  - </span><strong>00:08:00</strong>  - Irpinia - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?30013EN"> link</span></a><br>
+				<strong>1930 10 30</strong>  - </span><strong>07:13:06</strong>  - Marche settentrionali - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?30094EN"> link</span></a><br>
+				<strong>1936 10 18</strong>  - </span><strong>03:10:01</strong>  - Alpago-Cansiglio - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?31316EN"> link</span></a><br>
+				<strong>1947 10 06</strong>  - </span><strong>19:55:36</strong>  - Grecia meridionale - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?32473EN"> link</span></a><br>
+				<strong>1961 10 31</strong>  - </span><strong>13:37:18</strong>  - Valle del Velino - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?34545EN"> link</span></a><br>
+				<strong>1976 05 06</strong>  - </span><strong>20:00:13</strong>  - Friuli - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?38902EN"> link</span></a><br>
+				<strong>1978 04 15</strong>  - </span><strong>23:33:47</strong>  - Golfo di Patti - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?40169EN"> link</span></a><br>
+				<strong>1980 11 23</strong>  - </span><strong>18:34:52</strong>  - Irpinia-Basilicata - </span><a href="http://storing.ingv.it/cfti/cfti5/quake.php?41752EN"> link</span></a></p>
+ 	 </div>
+ 	  <hr>
+
+
+ 	  <div>
+ 		<a onclick="showTEXT('newcomm'); return false" href="#" id="showTEXTnewcomm" class="showTEXT">
+ 		 <h2>New historical-critical comments</h2><img src="../images/expand.png" width ="10px">
+ 			</a>
+ 	 </div>
+ 	 <div>
+ 		<a onclick="hideTEXT('newcomm'); return false" href="#" id="hideTEXTnewcomm" class="hideTEXT">
+ 		 <h2>New historical-critical comments</h2><img src="../images/reduce.png" width ="10px">
+ 		</a>
+ 	 </div>
+
+ 	  <div id="newcomm" class="HELP-INFOtext">
+    		   <p> <strong>23</strong> earthquake sequences have been updated and the associated historical-critical comments have been partially re-written. CFTI5Med features the historical-critical comments and updated description of earthquake effects in the relevant localities for <strong>29</strong> events for which CFTI4Med presented only parametric data and intensities attributed to the effects reported for each locality (macroseismic observations)  <br>
+				   <strong>99 - - </strong> -  <strong>-</strong>  - Circello (BN) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50045EN"> link </a><br>
+   				<strong>346</strong> <strong>- -</strong>  - <strong> -</strong>  - Sannio -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50055EN"> link </a><br>
+   				<strong>361 - - </strong> -  <strong>-</strong>  - Stretto di Messina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50056EN"> link </a><br>
+   				<strong>375 - -</strong>  -  <strong>-</strong>  - Benevento -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50058EN"> link </a><br>
+   				<strong>847 06 -</strong>  -  <strong>- </strong> - Sannio -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50076EN"> link </a><br>
+   				<strong>989 10 25 </strong> -  <strong>- </strong> - Irpinia -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?50081EN"> link </a><br>
+   				<strong>1183 12 - </strong> -  <strong>-</strong>  - Verona -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00070EN"> link </a><br>
+   				<strong>1223 - -</strong>  -  <strong>-</strong>  - Gargano -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00092EN"> link </a><br>
+   				<strong>1403 09 06</strong>  -  <strong>-</strong>  - Cividale del Friuli (UD) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00339EN"> link </a><br>
+   				<strong>1494 05 29</strong>  - <strong> 02:15</strong>  - Messina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00489EN"> link </a><br>
+   				<strong>1494 09 01</strong>  -  <strong>22:40</strong>  - Messina -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?42859EN"> link </a><br>
+   				<strong>1570 11 17</strong>  -  <strong>19:10</strong>  - Ferrara -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00755EN"> link </a><br>
+   				<strong>1574 08 01</strong>  - <strong> -</strong>  - Ferrara -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00781EN"> link </a><br>
+   				<strong>1624 03 19 </strong> -  <strong>19:45</strong>  - Argenta (FE) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?00905EN"> link </a><br>
+   				<strong>1693 01 08 </strong> -  <strong>22:15</strong>  - Calabria settentrionale -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?42035EN"> link </a><br>
+   				<strong>1708 01 26</strong>  -  <strong>- </strong> - Pollino -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?42037EN"> link </a><br>
+   				<strong>1732 11 29</strong>  -  <strong>07:40</strong>  - Irpinia -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?01726EN"> link </a><br>
+   				<strong>1828 10 09 </strong> -  <strong>02:20</strong>  - Valle Staffora -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?05491EN"> link </a><br>
+   				<strong>1828 10 09 </strong> -  <strong>08:00</strong>  - Valle Staffora -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?05492EN"> link </a><br>
+   				<strong>1828 10 10 </strong> -  <strong>01:30</strong>  - Valle Staffora -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?05496EN"> link </a><br>
+   				<strong>1851 08 14 </strong> -  <strong>13:20 </strong> - Basilicata -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?07534EN"> link </a><br>
+   				<strong>1851 08 14</strong>  -  <strong>14:40 </strong> - Melfi (PZ) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?07535EN"> link </a><br>
+   				<strong>1853 04 09 </strong> -  <strong>12:45</strong>  - Irpinia -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?07939EN"> link </a><br>
+   				<strong>1881 03 04 </strong> -  <strong>12:15</strong>  - Isola d&rsquo;Ischia -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?11516EN"> link </a><br>
+   				<strong>1889 03 08 </strong> -  <strong>02:57:04</strong>  - Bologna -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?13215EN"> link </a><br>
+   				<strong>1895 05 18 </strong> -  <strong>19:55:12</strong>  - Fiorentino -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?15327EN"> link </a><br>
+   				<strong>1895 06 06 </strong> -  <strong>00:35:05</strong>  - Fiorentino -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?15356EN"> link </a><br>
+   				<strong>1898 01 16 </strong> -  <strong>12:10:05</strong>  - Argenta (FE) - Portomaggiore (FE) -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?16363EN"> link </a><br>
+   				<strong>1916 11 16</strong>  -  <strong>06:35:30</strong>  - Appennino umbro-reatino -  <a href="http://storing.ingv.it/cfti/cfti5/quake.php?25849EN"> link </a></p>
+    			<p> For </span><strong>94</strong>  shocks belonging to </span><strong>60 </strong> independent earthquake sequences that occurred in the interval 11th-15th century, and that were discussed in detail in Guidoboni &amp; Comastri (2005) CFTI5Med provides descriptive syntheses of the main effects and excerpts from the cited volume in PDF. This information was not available in CFTI4Med.</span></p>
+    			 <p> In summary, over a total of </span><strong>252</strong>  shocks having an epicentral intensity of VIII or larger the CFTI5Med now provides: </span></p>
+    			 <ul>
+    			 <li style="font-weight: 400;"> all historical-critical comments and the descriptions of the effects in the relevant localities for </span><strong>214</strong>  shocks;</span></li>
+    			 <li style="font-weight: 400;"> descriptive syntheses of the main effects and PDF excerpts from the reference volume (Guidoboni &amp; Comastri, 2005) for </span><strong>36</strong>  shocks;</span></li>
+				  <li style="font-weight: 400;">only for <strong>2</strong> shocks the historical-critical comments are still not available.</li>
+    			 </ul>
+
+    		   </p>
+    	 </div>
+    	  <hr>
+
+
+    	  <div>
+    		<a onclick="showTEXT('EEnum'); return false" href="#" id="showTEXTEEnum" class="showTEXT">
+    		 <h2>Earthquake-induced effects on the natural environment</h2><img src="../images/expand.png" width ="10px">
+    			</a>
+    	 </div>
+    	 <div>
+    		<a onclick="hideTEXT('EEnum'); return false" href="#" id="hideTEXTEEnum" class="hideTEXT">
+    		 <h2>Earthquake-induced effects on the natural environment</h2><img src="../images/reduce.png" width ="10px">
+    		</a>
+    	 </div>
+
+    	  <div id="EEnum" class="HELP-INFOtext">
+    		  <p><strong> 2,337 </strong> synthetic descriptions of earthquake-induced effects on the environment, previously inaccessible in CFTI4Med, are now fully available.  </p>
+
+    	</div>
+    	 <hr>
+
+
+    	 <div>
+    	   <a onclick="showTEXT('fonti'); return false" href="#" id="showTEXTfonti" class="showTEXT">
+    		<h2>Access to witnesses (in PDF format)</h2><img src="../images/expand.png" width ="10px">
+    		   </a>
+    	</div>
+    	<div>
+    	   <a onclick="hideTEXT('fonti'); return false" href="#" id="hideTEXTfonti" class="hideTEXT">
+    		<h2>Access to witnesses (in PDF format)</h2><img src="../images/reduce.png" width ="10px">
+    	   </a>
+    	</div>
+
+    	 <div id="fonti" class="HELP-INFOtext">
+    		<p> <strong>23,538</strong> witnesses associated with the investigated earthquake sequences were made fully accessible in PDF format as of March 2018, when CFTI5Med was officially released. These witnesses are a subset of the <strong>47,211</strong> witnesses consulted during the investigations that led to the Catalogue.  <strong>20,940</strong> of these PDFs contain transcripts (<em> PDF_T </em>), whereas <strong>3,400</strong> are scanned images of the original text  (<em> PDF_R </em>). Notice that there may exist both pdf types for the same original source.</p>
+       </div>
+    	<hr>
+
+
+    	<div>
+    	  <a onclick="showTEXT('med'); return false" href="#" id="showTEXTmed" class="showTEXT">
+    	   <h2>Earthquakes of the mediterranean area</h2><img src="../images/expand.png" width ="10px">
+    		  </a>
+       </div>
+       <div>
+    	  <a onclick="hideTEXT('med'); return false" href="#" id="hideTEXTmed" class="hideTEXT">
+    	   <h2>Earthquakes of the mediterranean area</h2><img src="../images/reduce.png" width ="10px">
+    	  </a>
+       </div>
+
+    	<div id="med" class="HELP-INFOtext">
+    		<p> The web-page describing each of the investigated earthquakes of the Mediterranean area (non-Italian) contains also PDF excerpts of the descriptive syntheses taken from the reference volumes (Guidoboni </span><em> et al.</span></em> , 1994; Guidoboni &amp; Comastri, 2005).</span></p>
+    		<p> For each of the earthquakes that occurred in the Mediterranean area (non-Italian) in the interval 11th-15th century CFTI5Med makes available a map of the effects on the built environment (macroseismic observations) and of the effects on the natural environment (earthquake-induced environmental effects) reported for &nbsp;each individual locality. These data were not available in CFTI4Med, which reported only epicentral parameters.</span></p>
+      </div>
+       <br>
+       <br>
+       <br>
+
+
+
+
+
+
+
+
+
+ 		<!-- <div>
+ 			<a onclick="showTEXT('biblio'); return false" href="#" id="showTEXTbiblio" class="showTEXT">
+ 				<h1 class="blue">Bibliografia</h1><img src="../images/expand.png" width ="10px">
+ 			</a>
+ 		</div>
+ 		<div>
+ 			<a onclick="hideTEXT('biblio'); return false" href="#" id="hideTEXTbiblio" class="hideTEXT">
+ 				<h1 class="blue">Bibliografia</h1><img src="../images/reduce.png" width ="10px">
+ 			</a>
+ 		</div> -->
+
+
+ 		<font color="#1f708f" size="4px"><strong>REFERENCES</strong></font>
+
+ 		<div id="biblio">
+
+ 		   <p>Boschi, E. (2000). <em>A &laquo;new generation&raquo; earthquake catalogue.</em> Annali di Geofisica, 43(4), 609-620.</p>
+ 		   <p>Boschi, E., G. Ferrari, P. Gasperini, E. Guidoboni, G. Smriglio &amp; G. Valensise (1995). <em>Catalogo dei Forti Terremoti in ltalia dal 461 a.</em>C. <em>al 1980, </em>ING-SGA, Bologna, pp. 973 con database su CD-ROM.</p>
+ 		   <p>Boschi, E., E. Guidoboni, G. Ferrari, G. Valensise &amp; P. Gasperini (1997). <em>Catalogo dei Forti Terremoti in ltalia dal 461 al 1990, </em>ING-SGA, Bologna, pp. 644 con database su CD-ROM.</p>
+ 		   <p>Boschi, E., E. Guidoboni, G. Ferrari, D. Mariotti, G. Valensise &amp; P. Gasperini (eds.) (2000). <em>Catalogue of Strong Italian Earthquakes.</em> Annali di Geofisica, 43(4), pp. 268, con database su CD-ROM.</p>
+ 		   <p>Ferrari, G., &amp; E. Guidoboni (2000). <em>Seismic scenarios and assessment of intensity: some criteria for the use of the MCS scale.</em> Annali di Geofisica, 43(4), 707-720.</p>
+ 		   <p>Gasperini, P. (2004). Boxer User Guide, version 3.3, <a href="http://gaspy.df.unibo.it/paolo/boxer/manual33.pdf">  http://gaspy.df.unibo.it/paolo/boxer/manual33.pdf</a>.</p>
+ 		   <p>Guidoboni, E. (2000). <em>Method of investigation, typology and taxonomy of the basic data: navigating between seismic effects and historical contexts.</em> Annali di Geofisica, 43(4), 621-666.</p>
+ 		   <p>Guidoboni, E., A. Comastri &amp; G. Traina (1994). <em>Catalogue of Ancient Earthquakes in the Mediterranean Area up to the l0th Century</em>, ING-SGA, Bologna, 504 pp.</p>
+ 		   <p>Guidoboni, E., &amp; A. Comastri (2005). <em>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</em> INGV-SGA, Bologna, 1037 pp.</p>
+ 		   <p>Guidoboni, E., &amp; G. Ferrari (2000). <em>The effects of earthquakes in historical cities:  the peculiarity of the Italian case.</em> Annali di Geofisica, 43(4), 667-686.</p>
+ 		   <p>Guidoboni, E., &amp; G. Ferrari (2000). <em>Historical variables of seismic effects: economic levels, demographic scales and building techniques.</em> Annali di Geofisica, 43(4), 687-705.</p>
+ 		   <p>Guidoboni, E., G. Ferrari, D. Mariotti, A. Comastri, G. Tarabusi &amp; G. Valensise (2007). <em>CFTI4Med, Catalogue of Strong Earthquakes in Italy (461 B.C.-1997) and Mediterranean Area (760 B.C.-1500).</em> INGV-SGA, <a href="http://storing.ingv.it/">http://storing.ingv.it/cfti4med/</a>.</p>
+
+ 		</div>
+
+		<script>
+		  var url = window.location.href;
+		   if (url.slice(-1) == '#' || url.slice(-4) == 'html') {
+		   } else {
+			 showTEXT('infomore'); showTEXT('quakeinfo1'); showTEXT('quakeinfo2'); showTEXT('quakeinfo3'); showTEXT('quakeinfo4'); showTEXT('quakeinfo5'); showTEXT('quakeinfo6'); showTEXT('quakeinfo7'); showTEXT('testiPDF'); showTEXT('aggcomm'); showTEXT('localizz'); showTEXT('cptiasmi'); showTEXT('morti'); showTEXT('tipieq');  showTEXT('local'); showTEXT('EE');
+		   }
+		</script>

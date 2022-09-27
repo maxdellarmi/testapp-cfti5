@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>14839</nterr>
+      <nperiod>003345</nperiod>
+      <datanum>18940209</datanum>
+      <data_label>1894 02 09</data_label>
+      <anno>1894</anno>
+      <mese>02</mese>
+      <giorno>09</giorno>
+      <time_label>12:48:05</time_label>
+      <ora>12</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>45.5845</lat>
+      <lon>11.1402</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>116</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.8</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000083</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.14.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000851</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 100, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.16, n.74 (15 marzo 1894).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000852</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 101, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.16, n.91 (1º aprile 1894).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000853</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 102, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.16, n.121 (1º maggio 1894).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000867</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento 116, in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.17, n.74 (15 marzo 1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021297</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Ricerche, revisioni e confronti. Terremoti storici, RPT 248/02, Bologna giugno 2002 (rapporto inedito per INGV ­ Sezione di Milano).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2002</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Trento, 1894.02.12</titolo1>
+      <luogoed>Trento</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098017</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto veronese del 9 febbraio 1894, in "Atti della Società Toscana di Scienze Naturali. Processi Verbali", vol.9, pp.226-230.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.15, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cologna Veneta 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098140</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.16, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Modena 12 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098141</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.17, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma sulla base di una scheda termo-udometrica, Montebelluna s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098142</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.18, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Zevio 22 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098143</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.19, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Zoppé di Cadore 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098144</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.20, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vittorio [Veneto] 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098145</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.21, Cartolina postale relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vicenza 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098146</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.22, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vestone 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098147</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.24, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma sulla base di una cartolina decadica meteorico-agraria, Verona s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.25, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Vestenanova 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098149</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.26, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ventretti (frazione di Santa Giustina di Palazzolo) 2[5] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098150</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.27, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Verona 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098151</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.28, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Velo Veronese 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.29, Cartolina postale relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Venezia 15 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098153</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.30, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Valli dei Signori s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098154</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.31, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Valstagna 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098155</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.32, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Valdagno 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.33, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Valdagno s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.34, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Trissino 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.35, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Valdobbiadene 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098159</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.36, Lettera del podestà di Trento al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Trento 28 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.37, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Treviso 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098161</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.38, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Tregnago 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098162</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.39, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Torre Piloti (Venezia) s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098163</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.40, Cartolina postale del servizio meteorologico relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Spinea di Mestre 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098164</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.41, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Teolo s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098165</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.42, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Thiene 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098166</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.43, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sovizze 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098167</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.44, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sermione 7 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098168</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.45, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Soave 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098169</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.46, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Selva di Progno 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098170</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.47, Lettera del direttore della stazione termo-udometrica di San Vito di Leguzzano al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, San Vito di Leguzzano 26 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098171</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.48, Lettera del direttore della stazione termo-udometrica di Santa Giustina (Belluno) al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Santa Giustina 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098172</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.49, Lettera del direttore dell’Osservatorio meteorico-geodinamico di Salò Pio Bettoni al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Salò 12 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098173</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.50, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Pietro Incariano s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098174</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.51, Lettera dell’osservatore dell’Osservatorio meteorologico Malvasia di San Luca (Bologna) al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, San Luca 21 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098175</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.51bis, Lettera dell’osservatore dell’Osservatorio meteorologico Malvasia di San Luca (Bologna) al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, San Luca 9 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.52, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sanguinetto 2[3] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098177</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.53, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Donà di Piave 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098178</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.54, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma sulla base di una cartolina decadica del servizio meteoro-agrario, San Donà di Piave s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098179</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.55, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Rubbio 22 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098180</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.56, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Saletto s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098181</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.57, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Roana 23 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098182</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.58, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Piove di Sacco 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098183</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.59, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Recoaro 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098184</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.60, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Posina 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098185</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.61, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Piazzola sul Brenta [21 o 22] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098186</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.62, Lettera del podestà di Rovereto all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Rovereto 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.63, Lettera dell’assistente dell’Osservatorio meteorologico e geodinamico di Pavia Emilio Oddone al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Pavia 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098188</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.64, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Padova [9] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098189</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.65, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Piacenza 11 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098190</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.66, Lettera del direttore dell’Osservatorio di Padova Giovanni Organo al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Padova 11 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098191</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.67, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Onigo 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.68, Lettera del direttore dell’Osservatorio meteorologico di Oderzo al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Oderzo 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098193</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.69, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Noventa Vicentina 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098194</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.70, Lettera del direttore della Stazione termo-udometrica di Noventa Vicentina al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Noventa Vicentina 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098195</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.71, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Negrar 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098196</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.72, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Mel s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098197</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.73, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Mezzane di Sopra 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098198</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.74, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montagnana 21 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098199</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.75, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montecchio Maggiore 20 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098200</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.76, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Marostica 11 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098201</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.77, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Marmirolo 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098202</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.78, Lettera al sindaco di Lovere relativa al terremoto del 9 febbraio 1894, Lovere 12 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098203</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.79, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Lonigo 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098204</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.80, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Limone San Giovanni 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.81, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Lastebasse 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098206</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.82, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Legnago 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098207</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.83, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Grisignano di Zocco [21 o 22] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098208</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.84, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Iseo s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098209</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.85, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Isola di Malo 20 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098210</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.86, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fumane 5 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098211</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.87, Lettera del direttore della Stazione termo-udometrica di Follina al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Follina 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098212</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.88, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Firenze (Osservatorio Ximeniano) 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.89, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Firenze (Osservatorio Ximeniano) 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.90, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Fimon 19 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098215</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.91, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ferrara di Montebaldo 22 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.92, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ficarolo s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.93, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Dolcé 15 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098218</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.94, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Desenzano sul Lago 15 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098219</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.95, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Este s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098220</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.96, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cucca 15 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098221</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.97, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Crespadoro 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098222</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.98, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cornedo 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098223</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.99, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Colognola ai Colli 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098224</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.100, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Conegliano 11 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098225</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.101, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cogollo 15 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098226</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.102, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Asolo 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098227</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.103, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Chioggia 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098228</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.105, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ceneselli s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098229</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.106, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Chiampo 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098230</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.107, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Cavazuccherina s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098231</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.108, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma sulla base di una lettera del segretario comunale, Cazzano di Tramigna s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098232</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.109, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Castiglione delle Stiviere s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098233</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.110, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Caldiero 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098234</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.111, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Caprino Veronese s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098235</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.112, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Breonio 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098236</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.113, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Brescia 21 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098237</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.114, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Brentino 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098238</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.115, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Breganze s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098239</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.116, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bosco Chiesanuova 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098240</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.117, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Breda di Piave 24 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098241</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.118, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bologna 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098242</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.119, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 compilata dall’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Belluno s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098243</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.120, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bardolino 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098244</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.121, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Agordo 13 marzo 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098245</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.125, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bassano 10 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098246</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.126, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Bagolino 18 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098247</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.127, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Barbarano s.d. [1894].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098248</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.128, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Badia Polesine [20 o 21] febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098249</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.129, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Badia Calavena 13 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098250</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.130, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Aviano 9 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098251</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.131, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Auronzo 17 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098252</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.132, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Arzignano 14 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098253</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.133, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Altissimo 16 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098254</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.134, Cartolina macrosismica relativa al terremoto del 9 febbraio 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Asiago 28 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>098255</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, febbraio 1894, n.135, Lettera del direttore della Stazione termo-udometrica di Arsié all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativa al terremoto del 9 febbraio 1894, Arsié 20 febbraio 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Ticinese, 1894.02.10, a.10, n.35.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340208</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1894.02.10-11.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420589</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1894.02.11.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480239</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1894.02.10-11, n.213.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600314</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1894.02.10-11-12.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870409</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1894.02.10-11, n.41.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Badia Calavena</desloc>
+      <lat_wgs84>45.5655</lat_wgs84>
+      <lon_wgs84>11.1537</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022243.00</nloc_cfti>
+      <desloc_cfti>Badia Calavena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bosco Chiesanuova</desloc>
+      <lat_wgs84>45.6222</lat_wgs84>
+      <lon_wgs84>11.029</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022305.00</nloc_cfti>
+      <desloc_cfti>Bosco Chiesanuova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Chiampo</desloc>
+      <lat_wgs84>45.5445</lat_wgs84>
+      <lon_wgs84>11.2824</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024245.00</nloc_cfti>
+      <desloc_cfti>Chiampo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Velo Veronese</desloc>
+      <lat_wgs84>45.6058</lat_wgs84>
+      <lon_wgs84>11.0958</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023605.00</nloc_cfti>
+      <desloc_cfti>Velo Veronese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Crespadoro</desloc>
+      <lat_wgs84>45.6201</lat_wgs84>
+      <lon_wgs84>11.2264</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024413.00</nloc_cfti>
+      <desloc_cfti>Crespadoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Negrar</desloc>
+      <lat_wgs84>45.5311</lat_wgs84>
+      <lon_wgs84>10.9386</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022939.00</nloc_cfti>
+      <desloc_cfti>Negrar</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Tregnago</desloc>
+      <lat_wgs84>45.5128</lat_wgs84>
+      <lon_wgs84>11.1657</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023530.00</nloc_cfti>
+      <desloc_cfti>Tregnago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Altissimo</desloc>
+      <lat_wgs84>45.6144</lat_wgs84>
+      <lon_wgs84>11.253</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023906.00</nloc_cfti>
+      <desloc_cfti>Altissimo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Brentino</desloc>
+      <lat_wgs84>45.643</lat_wgs84>
+      <lon_wgs84>10.8724</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022342.00</nloc_cfti>
+      <desloc_cfti>Brentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Mezzane di Sopra</desloc>
+      <lat_wgs84>45.4933</lat_wgs84>
+      <lon_wgs84>11.1358</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022884.00</nloc_cfti>
+      <desloc_cfti>Mezzane di Sopra</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Selva di Progno</desloc>
+      <lat_wgs84>45.6119</lat_wgs84>
+      <lon_wgs84>11.1386</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023410.00</nloc_cfti>
+      <desloc_cfti>Selva di Progno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Trissino</desloc>
+      <lat_wgs84>45.5646</lat_wgs84>
+      <lon_wgs84>11.3706</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025505.00</nloc_cfti>
+      <desloc_cfti>Trissino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Valli dei Signori</desloc>
+      <lat_wgs84>45.7399</lat_wgs84>
+      <lon_wgs84>11.2605</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025678</nloc_cfti>
+      <desloc_cfti>Valli del Pasubio (Valli dei Signori)</desloc_cfti>
+      <notesito>Assunse la denominazione di Valli del Pasubio il 20 agosto 1926.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vestenanova</desloc>
+      <lat_wgs84>45.5738</lat_wgs84>
+      <lon_wgs84>11.2278</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023779.00</nloc_cfti>
+      <desloc_cfti>Vestenanova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Barbarano</desloc>
+      <lat_wgs84>45.6158</lat_wgs84>
+      <lon_wgs84>10.553</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016875.00</nloc_cfti>
+      <desloc_cfti>Barbarano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Bardolino</desloc>
+      <lat_wgs84>45.5425</lat_wgs84>
+      <lon_wgs84>10.726</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022259.00</nloc_cfti>
+      <desloc_cfti>Bardolino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cazzano di Tramigna</desloc>
+      <lat_wgs84>45.4728</lat_wgs84>
+      <lon_wgs84>11.2036</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022493.00</nloc_cfti>
+      <desloc_cfti>Cazzano di Tramigna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Conegliano</desloc>
+      <lat_wgs84>45.8875</lat_wgs84>
+      <lon_wgs84>12.2978</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026894.00</nloc_cfti>
+      <desloc_cfti>Conegliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Montorio</desloc>
+      <lat_wgs84>45.4601</lat_wgs84>
+      <lon_wgs84>11.0657</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023678.00</nloc_cfti>
+      <desloc_cfti>Montorio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Pastrengo</desloc>
+      <lat_wgs84>45.4926</lat_wgs84>
+      <lon_wgs84>10.8003</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023009.00</nloc_cfti>
+      <desloc_cfti>Pastrengo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Riva del Garda</desloc>
+      <lat_wgs84>45.8881</lat_wgs84>
+      <lon_wgs84>10.8439</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021778.00</nloc_cfti>
+      <desloc_cfti>Riva del Garda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Romano d'Ezzelino</desloc>
+      <lat_wgs84>45.7957</lat_wgs84>
+      <lon_wgs84>11.7583</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025160.00</nloc_cfti>
+      <desloc_cfti>Romano d’Ezzelino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Rosà</desloc>
+      <lat_wgs84>45.7244</lat_wgs84>
+      <lon_wgs84>11.7629</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025185.00</nloc_cfti>
+      <desloc_cfti>Rosà</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>San Pietro in Cariano</desloc>
+      <lat_wgs84>45.5205</lat_wgs84>
+      <lon_wgs84>10.8862</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023331.00</nloc_cfti>
+      <desloc_cfti>San Pietro in Cariano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ferrara di Monte Baldo</desloc>
+      <lat_wgs84>45.6769</lat_wgs84>
+      <lon_wgs84>10.8534</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022629.00</nloc_cfti>
+      <desloc_cfti>Ferrara di Monte Baldo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Montecchio Maggiore</desloc>
+      <lat_wgs84>45.504</lat_wgs84>
+      <lon_wgs84>11.4166</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024790.00</nloc_cfti>
+      <desloc_cfti>Montecchio Maggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ala</desloc>
+      <lat_wgs84>45.7579</lat_wgs84>
+      <lon_wgs84>11.0011</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021098.00</nloc_cfti>
+      <desloc_cfti>Ala</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Arzignano</desloc>
+      <lat_wgs84>45.5214</lat_wgs84>
+      <lon_wgs84>11.3373</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023972.00</nloc_cfti>
+      <desloc_cfti>Arzignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Caldiero</desloc>
+      <lat_wgs84>45.4125</lat_wgs84>
+      <lon_wgs84>11.1836</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022397.00</nloc_cfti>
+      <desloc_cfti>Caldiero</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Caprino Veronese</desloc>
+      <lat_wgs84>45.6061</lat_wgs84>
+      <lon_wgs84>10.795</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022405.00</nloc_cfti>
+      <desloc_cfti>Caprino Veronese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cologna Veneta</desloc>
+      <lat_wgs84>45.3097</lat_wgs84>
+      <lon_wgs84>11.385</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022549.00</nloc_cfti>
+      <desloc_cfti>Cologna Veneta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Colognola ai Colli</desloc>
+      <lat_wgs84>45.4331</lat_wgs84>
+      <lon_wgs84>11.1929</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022568.00</nloc_cfti>
+      <desloc_cfti>Colognola ai Colli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cornedo Vicentino</desloc>
+      <lat_wgs84>45.6145</lat_wgs84>
+      <lon_wgs84>11.3442</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024348.00</nloc_cfti>
+      <desloc_cfti>Cornedo Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Desenzano sul Lago</desloc>
+      <lat_wgs84>45.465</lat_wgs84>
+      <lon_wgs84>10.5463</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016112</nloc_cfti>
+      <desloc_cfti>Desenzano del Garda (Desenzano sul Lago, Desenzano)</desloc_cfti>
+      <notesito>Già Desenzano, assunse la denominazione di Desenzano sul Lago il 7 settembre 1862 e quella di Desenzano del Garda il 29 luglio 1926.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Dolcé</desloc>
+      <lat_wgs84>45.6004</lat_wgs84>
+      <lon_wgs84>10.8527</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022600.00</nloc_cfti>
+      <desloc_cfti>Dolcé</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lastebasse</desloc>
+      <lat_wgs84>45.9157</lat_wgs84>
+      <lon_wgs84>11.2717</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024595.00</nloc_cfti>
+      <desloc_cfti>Lastebasse</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lonigo</desloc>
+      <lat_wgs84>45.3875</lat_wgs84>
+      <lon_wgs84>11.388</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024618.00</nloc_cfti>
+      <desloc_cfti>Lonigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Marostica</desloc>
+      <lat_wgs84>45.7452</lat_wgs84>
+      <lon_wgs84>11.6565</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024727.00</nloc_cfti>
+      <desloc_cfti>Marostica</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Posina</desloc>
+      <lat_wgs84>45.7906</lat_wgs84>
+      <lon_wgs84>11.2615</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025007.00</nloc_cfti>
+      <desloc_cfti>Posina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Recoaro Terme</desloc>
+      <lat_wgs84>45.704</lat_wgs84>
+      <lon_wgs84>11.2206</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025060.00</nloc_cfti>
+      <desloc_cfti>Recoaro Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rovereto</desloc>
+      <lat_wgs84>45.8883</lat_wgs84>
+      <lon_wgs84>11.0367</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021839.00</nloc_cfti>
+      <desloc_cfti>Rovereto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>San Vito di Leguzzano</desloc>
+      <lat_wgs84>45.6833</lat_wgs84>
+      <lon_wgs84>11.3763</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025282.00</nloc_cfti>
+      <desloc_cfti>San Vito di Leguzzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Soave</desloc>
+      <lat_wgs84>45.4186</lat_wgs84>
+      <lon_wgs84>11.2481</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023429.00</nloc_cfti>
+      <desloc_cfti>Soave</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Spinea</desloc>
+      <lat_wgs84>45.4907</lat_wgs84>
+      <lon_wgs84>12.1651</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>028362.99</nloc_cfti>
+      <desloc_cfti>Spinea</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Valdagno</desloc>
+      <lat_wgs84>45.6521</lat_wgs84>
+      <lon_wgs84>11.3035</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025575.00</nloc_cfti>
+      <desloc_cfti>Valdagno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vicenza</desloc>
+      <lat_wgs84>45.5499</lat_wgs84>
+      <lon_wgs84>11.549</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025814.00</nloc_cfti>
+      <desloc_cfti>Vicenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Zevio</desloc>
+      <lat_wgs84>45.3738</lat_wgs84>
+      <lon_wgs84>11.1338</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023869.00</nloc_cfti>
+      <desloc_cfti>Zevio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Asiago</desloc>
+      <lat_wgs84>45.875</lat_wgs84>
+      <lon_wgs84>11.5097</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024010.00</nloc_cfti>
+      <desloc_cfti>Asiago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Asolo</desloc>
+      <lat_wgs84>45.8021</lat_wgs84>
+      <lon_wgs84>11.9135</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026705.00</nloc_cfti>
+      <desloc_cfti>Asolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Aviano</desloc>
+      <lat_wgs84>46.0651</lat_wgs84>
+      <lon_wgs84>12.5843</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>030191.00</nloc_cfti>
+      <desloc_cfti>Aviano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Avio</desloc>
+      <lat_wgs84>45.735</lat_wgs84>
+      <lon_wgs84>10.9386</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021143.00</nloc_cfti>
+      <desloc_cfti>Avio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bassano del Grappa</desloc>
+      <lat_wgs84>45.7674</lat_wgs84>
+      <lon_wgs84>11.7342</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024065.00</nloc_cfti>
+      <desloc_cfti>Bassano del Grappa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Belluno</desloc>
+      <lat_wgs84>46.1465</lat_wgs84>
+      <lon_wgs84>12.2216</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025935.00</nloc_cfti>
+      <desloc_cfti>Belluno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Breonio</desloc>
+      <lat_wgs84>45.6245</lat_wgs84>
+      <lon_wgs84>10.9043</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022639.00</nloc_cfti>
+      <desloc_cfti>Breonio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Brez</desloc>
+      <lat_wgs84>46.4314</lat_wgs84>
+      <lon_wgs84>11.107</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021236.00</nloc_cfti>
+      <desloc_cfti>Brez</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Este</desloc>
+      <lat_wgs84>45.2287</lat_wgs84>
+      <lon_wgs84>11.6558</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>028844.00</nloc_cfti>
+      <desloc_cfti>Este</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Fumane</desloc>
+      <lat_wgs84>45.5435</lat_wgs84>
+      <lon_wgs84>10.8829</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022647.00</nloc_cfti>
+      <desloc_cfti>Fumane</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Isola di Malo</desloc>
+      <lat_wgs84>45.6294</lat_wgs84>
+      <lon_wgs84>11.4426</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024580</nloc_cfti>
+      <desloc_cfti>Isola Vicentina (Isola di Malo)</desloc_cfti>
+      <notesito>Assunse la denominazione di Isola Vicentina il 17 dicembre 1905.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Legnago</desloc>
+      <lat_wgs84>45.193</lat_wgs84>
+      <lon_wgs84>11.3108</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022816.00</nloc_cfti>
+      <desloc_cfti>Legnago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montagnana</desloc>
+      <lat_wgs84>45.2328</lat_wgs84>
+      <lon_wgs84>11.466</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029053.00</nloc_cfti>
+      <desloc_cfti>Montagnana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montebelluna</desloc>
+      <lat_wgs84>45.7764</lat_wgs84>
+      <lon_wgs84>12.0451</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027145.00</nloc_cfti>
+      <desloc_cfti>Montebelluna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Noventa Vicentina</desloc>
+      <lat_wgs84>45.2908</lat_wgs84>
+      <lon_wgs84>11.5413</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024956.00</nloc_cfti>
+      <desloc_cfti>Noventa Vicentina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pavia</desloc>
+      <lat_wgs84>45.19</lat_wgs84>
+      <lon_wgs84>9.1597</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>017853.00</nloc_cfti>
+      <desloc_cfti>Pavia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pergine Valsugana</desloc>
+      <lat_wgs84>46.0623</lat_wgs84>
+      <lon_wgs84>11.2379</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>021695.00</nloc_cfti>
+      <desloc_cfti>Pergine Valsugana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Roana</desloc>
+      <lat_wgs84>45.8764</lat_wgs84>
+      <lon_wgs84>11.4618</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025150.00</nloc_cfti>
+      <desloc_cfti>Roana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Salò</desloc>
+      <lat_wgs84>45.6065</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016874.00</nloc_cfti>
+      <desloc_cfti>Salò</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sanguinetto</desloc>
+      <lat_wgs84>45.1833</lat_wgs84>
+      <lon_wgs84>11.1513</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023262.00</nloc_cfti>
+      <desloc_cfti>Sanguinetto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Trento</desloc>
+      <lat_wgs84>46.065</lat_wgs84>
+      <lon_wgs84>11.1242</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>022075.00</nloc_cfti>
+      <desloc_cfti>Trento</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Vestone</desloc>
+      <lat_wgs84>45.7095</lat_wgs84>
+      <lon_wgs84>10.4008</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>017052.00</nloc_cfti>
+      <desloc_cfti>Vestone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Iseo</desloc>
+      <lat_wgs84>45.6593</lat_wgs84>
+      <lon_wgs84>10.0533</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016252.00</nloc_cfti>
+      <desloc_cfti>Iseo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Lovere</desloc>
+      <lat_wgs84>45.8127</lat_wgs84>
+      <lon_wgs84>10.0692</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>014942.00</nloc_cfti>
+      <desloc_cfti>Lovere</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Chioggia</desloc>
+      <lat_wgs84>45.2198</lat_wgs84>
+      <lon_wgs84>12.2789</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027887.00</nloc_cfti>
+      <desloc_cfti>Chioggia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Cogollo</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>11.1556</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023524.00</nloc_cfti>
+      <desloc_cfti>Cogollo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Moncalieri</desloc>
+      <lat_wgs84>45.0008</lat_wgs84>
+      <lon_wgs84>7.7018</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>001426.00</nloc_cfti>
+      <desloc_cfti>Moncalieri</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>San Donà di Piave</desloc>
+      <lat_wgs84>45.6342</lat_wgs84>
+      <lon_wgs84>12.5721</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>028292.00</nloc_cfti>
+      <desloc_cfti>San Donà di Piave</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Agordo</desloc>
+      <lat_wgs84>46.2826</lat_wgs84>
+      <lon_wgs84>12.0367</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025864.00</nloc_cfti>
+      <desloc_cfti>Agordo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arsié</desloc>
+      <lat_wgs84>45.9831</lat_wgs84>
+      <lon_wgs84>11.7575</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025894.00</nloc_cfti>
+      <desloc_cfti>Arsié</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Auronzo di Cadore</desloc>
+      <lat_wgs84>46.5528</lat_wgs84>
+      <lon_wgs84>12.4383</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025925.00</nloc_cfti>
+      <desloc_cfti>Auronzo di Cadore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Badia Polesine</desloc>
+      <lat_wgs84>45.0951</lat_wgs84>
+      <lon_wgs84>11.4916</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029651.00</nloc_cfti>
+      <desloc_cfti>Badia Polesine</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bagolino</desloc>
+      <lat_wgs84>45.8231</lat_wgs84>
+      <lon_wgs84>10.4643</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>015708.00</nloc_cfti>
+      <desloc_cfti>Bagolino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Barbarano Vicentino</desloc>
+      <lat_wgs84>45.4101</lat_wgs84>
+      <lon_wgs84>11.5394</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024053.00</nloc_cfti>
+      <desloc_cfti>Barbarano Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Breda</desloc>
+      <lat_wgs84>46.0065</lat_wgs84>
+      <lon_wgs84>12.329</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026988.00</nloc_cfti>
+      <desloc_cfti>Breda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Breganze</desloc>
+      <lat_wgs84>45.7082</lat_wgs84>
+      <lon_wgs84>11.5647</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024095.00</nloc_cfti>
+      <desloc_cfti>Breganze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castiglione delle Stiviere</desloc>
+      <lat_wgs84>45.3882</lat_wgs84>
+      <lon_wgs84>10.4927</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>019503.00</nloc_cfti>
+      <desloc_cfti>Castiglione delle Stiviere</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cavazuccherina</desloc>
+      <lat_wgs84>45.5368</lat_wgs84>
+      <lon_wgs84>12.64</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>028032</nloc_cfti>
+      <desloc_cfti>Jesolo (Cavazuccherina)</desloc_cfti>
+      <notesito>Assunse la denominazione di Jesolo il 28 agosto 1930.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ceneselli</desloc>
+      <lat_wgs84>45.014</lat_wgs84>
+      <lon_wgs84>11.3697</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029786.00</nloc_cfti>
+      <desloc_cfti>Ceneselli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Clusone</desloc>
+      <lat_wgs84>45.8892</lat_wgs84>
+      <lon_wgs84>9.9494</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>014672.00</nloc_cfti>
+      <desloc_cfti>Clusone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ficarolo</desloc>
+      <lat_wgs84>44.9546</lat_wgs84>
+      <lon_wgs84>11.4347</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029852.00</nloc_cfti>
+      <desloc_cfti>Ficarolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Fimon</desloc>
+      <lat_wgs84>45.4693</lat_wgs84>
+      <lon_wgs84>11.5089</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>023941.00</nloc_cfti>
+      <desloc_cfti>Fimon</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Follina</desloc>
+      <lat_wgs84>45.9517</lat_wgs84>
+      <lon_wgs84>12.119</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026958.00</nloc_cfti>
+      <desloc_cfti>Follina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Grisignano di Zocco</desloc>
+      <lat_wgs84>45.4763</lat_wgs84>
+      <lon_wgs84>11.6993</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024558.00</nloc_cfti>
+      <desloc_cfti>Grisignano di Zocco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Limone San Giovanni</desloc>
+      <lat_wgs84>45.8137</lat_wgs84>
+      <lon_wgs84>10.7914</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016290</nloc_cfti>
+      <desloc_cfti>Limone sul Garda (Limone San Giovanni, Limone)</desloc_cfti>
+      <notesito>Già Limone, assunse la denominazione di Limone San Giovanni l’11 gennaio 1863 e quella di Limone sul Garda il 23 febbraio 1905.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Marmirolo</desloc>
+      <lat_wgs84>45.2211</lat_wgs84>
+      <lon_wgs84>10.7554</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>019752.00</nloc_cfti>
+      <desloc_cfti>Marmirolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Mel</desloc>
+      <lat_wgs84>46.0628</lat_wgs84>
+      <lon_wgs84>12.0799</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026313.00</nloc_cfti>
+      <desloc_cfti>Mel</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Oderzo</desloc>
+      <lat_wgs84>45.7817</lat_wgs84>
+      <lon_wgs84>12.494</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027192.00</nloc_cfti>
+      <desloc_cfti>Oderzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Onigo</desloc>
+      <lat_wgs84>45.859</lat_wgs84>
+      <lon_wgs84>11.9883</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027247.00</nloc_cfti>
+      <desloc_cfti>Onigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Piazzola sul Brenta</desloc>
+      <lat_wgs84>45.5423</lat_wgs84>
+      <lon_wgs84>11.787</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029160.00</nloc_cfti>
+      <desloc_cfti>Piazzola sul Brenta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Piove di Sacco</desloc>
+      <lat_wgs84>45.2964</lat_wgs84>
+      <lon_wgs84>12.0349</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029192.00</nloc_cfti>
+      <desloc_cfti>Piove di Sacco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rubbio</desloc>
+      <lat_wgs84>45.8044</lat_wgs84>
+      <lon_wgs84>11.6556</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>024323.00</nloc_cfti>
+      <desloc_cfti>Rubbio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Saletto</desloc>
+      <lat_wgs84>45.2271</lat_wgs84>
+      <lon_wgs84>11.5335</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029247.00</nloc_cfti>
+      <desloc_cfti>Saletto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Santa Giustina</desloc>
+      <lat_wgs84>46.0822</lat_wgs84>
+      <lon_wgs84>12.0418</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026481.00</nloc_cfti>
+      <desloc_cfti>Santa Giustina</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sirmione</desloc>
+      <lat_wgs84>45.4895</lat_wgs84>
+      <lon_wgs84>10.6089</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>016935.00</nloc_cfti>
+      <desloc_cfti>Sirmione</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sovizzo</desloc>
+      <lat_wgs84>45.5282</lat_wgs84>
+      <lon_wgs84>11.4466</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025394.00</nloc_cfti>
+      <desloc_cfti>Sovizzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Teolo</desloc>
+      <lat_wgs84>45.3478</lat_wgs84>
+      <lon_wgs84>11.6725</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>029427.00</nloc_cfti>
+      <desloc_cfti>Teolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Thiene</desloc>
+      <lat_wgs84>45.7077</lat_wgs84>
+      <lon_wgs84>11.478</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025432.00</nloc_cfti>
+      <desloc_cfti>Thiene</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Valdobbiadene</desloc>
+      <lat_wgs84>45.9015</lat_wgs84>
+      <lon_wgs84>11.9957</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027648.00</nloc_cfti>
+      <desloc_cfti>Valdobbiadene</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Valstagna</desloc>
+      <lat_wgs84>45.8611</lat_wgs84>
+      <lon_wgs84>11.6575</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>025719.00</nloc_cfti>
+      <desloc_cfti>Valstagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Vittorio Veneto</desloc>
+      <lat_wgs84>45.9831</lat_wgs84>
+      <lon_wgs84>12.3046</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>027725.00</nloc_cfti>
+      <desloc_cfti>Vittorio Veneto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Zoppé di Cadore</desloc>
+      <lat_wgs84>46.3847</lat_wgs84>
+      <lon_wgs84>12.1753</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>14839</nterr>
+      <nloc_cfti>026685.99</nloc_cfti>
+      <desloc_cfti>Zoppé di Cadore</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

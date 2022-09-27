@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072569.00</nloc_cfti>
+      <desloc_cfti>Pieve di Casio</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.1718</lat_wgs84>
+      <lon_wgs84>11.0309</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11218</nterr>
+      <nperiod>000725</nperiod>
+      <datanum>18790427</datanum>
+      <data_label>1879 04 27</data_label>
+      <anno>1879</anno>
+      <mese>04</mese>
+      <giorno>27</giorno>
+      <time_label>04:06</time_label>
+      <ora>04</ora>
+      <minu>06</minu>
+      <sec>-9</sec>
+      <lat>44.1688</lat>
+      <lon>11.5859</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>20</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Senio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu di forte intensità $(001298)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001298</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [3 luglio 1878-30 agosto 1879], in "Bullettino del Vulcanismo Italiano", a.7, pp.40-46, 91-94, 142-144, 169-174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1880</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

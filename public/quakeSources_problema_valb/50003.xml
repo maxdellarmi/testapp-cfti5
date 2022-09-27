@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50003</nterr>
+      <nperiod>005022</nperiod>
+      <datanum>-3600000</datanum>
+      <data_label>360 B. C. - -</data_label>
+      <anno>-360</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>38.399</lat>
+      <lon>14.969</lon>
+      <rel>N</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Isola di Vulcano</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è di Aristotele, filosofo greco del IV secolo a.C., contenuta nel trattato "Meteorologica", in cui sono discusse le cause dei terremoti $(630067)$: per esemplificare la teoria dei venti, è indicata un’eruzione di "Hiera Hephaistou" (odierno Vulcano), che causò anche un sollevamento della terra. L’unico indizio per la contestualizzazione temporale è dato da Aristotele, che indica il fenomeno come accaduto "poco prima" di un altro terremoto che aveva colpito Eraclea del Ponto (attuale Eregli in Turchia) nel 360 a.C. $(093043)$. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XIX secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Terremoto a Vulcano causato da una violenta eruzione con sollevamento della terra. Le ceneri vulcaniche ricoprirono la vicina Lipari e raggiunsero anche alcune città in Italia. Aristotele ricorda che gli effetti erano ancora visibili ai suoi tempi $(630067)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630067</codbib>
+      <autore1>Aristoteles</autore1>
+      <titolo1>Meteorologica, ed. P.Louis, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630174</codbib>
+      <autore1>Capelle W.</autore1>
+      <titolo1>Erdbebenforschung, in "Paulys Realencyclopädie der classischen Altertumswissenschaft", Suppl.4, coll.344-374.</titolo1>
+      <luogoed>Stuttgart</luogoed>
+      <datacompl>1924</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Vulcano (isola)</desloc>
+      <lat_wgs84>38.3989</lat_wgs84>
+      <lon_wgs84>14.9694</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50003</nterr>
+      <nloc_cfti>090219.00</nloc_cfti>
+      <desloc_cfti>Vulcano (isola)</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Terremoto correlato a una violenta eruzione di Vulcano con sollevamento della terra. Le ceneri vulcaniche ricoprirono la vicina Lipari e raggiunsero anche alcune città in Italia. Aristotele ricorda che gli effetti erano ancora visibili ai suoi tempi e oggetto di curiosità $(630067)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

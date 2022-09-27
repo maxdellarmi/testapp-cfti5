@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073694.00</nloc_cfti>
+      <desloc_cfti>Onde</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.7778</lat_wgs84>
+      <lon_wgs84>13.0191</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01656</nterr>
+      <nperiod>003091</nperiod>
+      <datanum>17300512</datanum>
+      <data_label>1730 05 12</data_label>
+      <anno>1730</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7533</lat>
+      <lon>13.1196</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>115</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Borgo fortificato del territorio di Norcia. Il terremoto causò gravi distruzioni, estese alla totalità delle abitazioni, e numerose vittime $(190052)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>190052</codbib>
+      <autore1>Patrizi-Forti F.</autore1>
+      <titolo1>Delle memorie storiche di Norcia, libri otto (ristampa anastatica, Bologna 1968).</titolo1>
+      <luogoed>Norcia</luogoed>
+      <datacompl>1869</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

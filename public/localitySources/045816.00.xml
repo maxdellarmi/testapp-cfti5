@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045816.00</nloc_cfti>
+      <desloc_cfti>Cistio</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>43.922</lat_wgs84>
+      <lon_wgs84>11.4482</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa del 29 giugno 1919 causò crolli estesi e gravi danni $(020015,020022,020024,020052)$. Il campanile di S.Martino dovette essere demolito $(030115)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.01, a.14, n.161.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.02, a.14, n.162.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020024</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1919.07.02, a.61, n.183.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020052</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero del Mugello, 1919.07.06, a.37, n.27.</titolo1>
+      <luogoed>Borgo San Lorenzo</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030115</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.09, a.14, n.170.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671337</codbib>
+      <autore1>Capacci C.</autore1>
+      <titolo1>Osservazioni geotettoniche sul terremoto Mugellano del 29 Giugno 1919, in "Atti della R. Accademia dei Georgofili", s.V, vol.17 (1920), pp.3-15.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

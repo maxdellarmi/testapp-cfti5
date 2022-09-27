@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048551.00</nloc_cfti>
+      <desloc_cfti>Mercatello</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.8357</lat_wgs84>
+      <lon_wgs84>12.6785</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11132</nterr>
+      <nperiod>000724</nperiod>
+      <datanum>18780915</datanum>
+      <data_label>1878 09 15</data_label>
+      <anno>1878</anno>
+      <mese>09</mese>
+      <giorno>15</giorno>
+      <time_label>07:20</time_label>
+      <ora>07</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>42.8461</lat>
+      <lon>12.6762</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.1</imax>
+      <npun>34</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Clitunno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Secondo Ricci (1878) la scossa causò gravi danni all’abitato, una parte del quale divenne inagibile; furono riscontrati alcuni crolli totali, lesioni diffuse, spostamento di muri, caduta di comignoli, rottura di pavimenti, volte e tettoie $(095444)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095444</codbib>
+      <autore1>Ricci A.</autore1>
+      <titolo1>I terremoti umbri del settembre 1878, in "Bullettino del Vulcanismo Italiano", a.5, pp.121-126.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1878</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

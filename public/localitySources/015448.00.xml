@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>015448.00</nloc_cfti>
+      <desloc_cfti>Torre Pallavicina</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>45.4484</lat_wgs84>
+      <lon_wgs84>9.8778</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04844</nterr>
+      <nperiod>000159</nperiod>
+      <datanum>18020512</datanum>
+      <data_label>1802 05 12</data_label>
+      <anno>1802</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>09:30</time_label>
+      <ora>09</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.4157</lat>
+      <lon>9.8542</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>66</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle dell’Oglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Non sono note descrizioni degli effetti. La revisione di Brega et al. (1985) valutò l’intensità della scossa di gradi VII-VIII MCS $(092142)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092142</codbib>
+      <autore1>Brega F., Stucchi M., Bassi G. e De Martin M.</autore1>
+      <titolo1>The Soncino earthquake of May 12, 1802, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.72-73.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

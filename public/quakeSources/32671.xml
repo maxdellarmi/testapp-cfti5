@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>32671</nterr>
+      <nperiod>002086</nperiod>
+      <datanum>19490309</datanum>
+      <data_label>1949 03 09</data_label>
+      <anno>1949</anno>
+      <mese>03</mese>
+      <giorno>09</giorno>
+      <time_label>04:16:30</time_label>
+      <ora>04</ora>
+      <minu>16</minu>
+      <sec>30</sec>
+      <lat>43.8405</lat>
+      <lon>11.7216</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Aretino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092009</codbib>
+      <autore1>Coccia F.</autore1>
+      <titolo1>Attività sismica in Toscana durante il cinquantennio 1930-1980.</titolo1>
+      <luogoed>Prato</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691312</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1949.03.10, n.59.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1949</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691313</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1949.03.11, n.60.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1949</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vicchio</desloc>
+      <lat_wgs84>43.9336</lat_wgs84>
+      <lon_wgs84>11.4645</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>32671</nterr>
+      <nloc_cfti>045831.00</nloc_cfti>
+      <desloc_cfti>Vicchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Badia Prataglia</desloc>
+      <lat_wgs84>43.7941</lat_wgs84>
+      <lon_wgs84>11.88</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>32671</nterr>
+      <nloc_cfti>047364.00</nloc_cfti>
+      <desloc_cfti>Badia Prataglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Camaldoli</desloc>
+      <lat_wgs84>43.7939</lat_wgs84>
+      <lon_wgs84>11.8204</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>32671</nterr>
+      <nloc_cfti>047370.00</nloc_cfti>
+      <desloc_cfti>Camaldoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Arezzo</desloc>
+      <lat_wgs84>43.4635</lat_wgs84>
+      <lon_wgs84>11.8791</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>32671</nterr>
+      <nloc_cfti>046638.00</nloc_cfti>
+      <desloc_cfti>Arezzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

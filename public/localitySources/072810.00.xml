@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072810.00</nloc_cfti>
+      <desloc_cfti>Luogo Tedeschi</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.5533</lat_wgs84>
+      <lon_wgs84>11.1345</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Dai documenti del Genio Civile risulta che 4 case e un fienile furono danneggiate: tutti gli edifici subirono dissesti al tetto, fumaioli crollati, danni ai soffitti, ai muri divisori in foglio e agli architravi di porte e finestre, lesioni gravi e leggere diffuse e caduta di intonaco $(391216)$. Le perizie del Genio Civile non distinguono gli effetti delle singole scosse. Diversi elementi contribuiscono ad attribuire i danni descritti nelle perizie alla scossa del 20 aprile delle ore 1:10 GMT. Questa località è compresa, infatti, nell’area di effetti di VII grado della scala Mercalli delineata da Salvanini (1932) $(020790)$, che condusse una ricognizione nelle zone colpite dalle diverse scosse del periodo sismico.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.948 (1929), Terremoto nel bolognese del 1929, Comune di Crespellano, Liquidazione finale dei lavori, frazione Calcara.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020790</codbib>
+      <autore1>Salvanini C.</autore1>
+      <titolo1>Alcuni elementi per lo studio dei terremoti bolognesi e pei progetti delle costruzioni antisismiche.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

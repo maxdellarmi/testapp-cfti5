@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042084.00</nloc_cfti>
+      <desloc_cfti>Sant’Andrea in Casale</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.9284</lat_wgs84>
+      <lon_wgs84>12.6514</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04475</nterr>
+      <nperiod>003194</nperiod>
+      <datanum>17861225</datanum>
+      <data_label>1786 12 25</data_label>
+      <anno>1786</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.9918</lat>
+      <lon>12.5644</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>90</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La perizia Valadier attesta danni al 68% degli edifici, di cui: nessun crollo totale, nessun crollo parziale, 25% danni gravi, 43% danni lievi. La chiesa parrocchiale subì qualche danno, che fu valutato 35 scudi. I danni all’intero paese furono stimati 660,90 scudi $(130372,130357)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Villaggio dipendente dal castello di San Clemente. Il terremoto danneggiò gravemente l’abitato e le case rurali del territorio circostante; sono documentati danni alla chiesa parrocchiale. Per quanto riguarda le abitazioni, le fonti non riportano descrizioni delle tipologie di danno, ma soltanto la stima economica $(672992)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672992</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Rimini III, b.3876 (1667-1678), Perizia dei danni causati dal terremoto del 14 aprile 1672 nei castelli di San Clemente, Castelleale, Agello, Croce e rispettivi territori redatta dal notaio Valentino Corputario, San Clemente 3 maggio 1672.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1672</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130372</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato Rimini, Comune, AP 618-620, Giuseppe Valadier, Perizie dei danni causati alla città di Rimino, alle case delle venticinque parrocchie del Bargellato e alli castelli del Contado dal tremuoto nella notte delli 24 decembre dell’anno MDCCLXXXVI, distese per ordine della Santità di Nostro Signore papa Pio Sesto felicemente regnante ed alla medesima umiliate dall’architetto Giuseppe Valadier, 3 voll., 1787.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130357</codbib>
+      <autore1>Ferrari G.</autore1>
+      <titolo1>Le perizie Morigia e Valadier, in "Il terremoto di Rimini e della costa romagnola: 25 dicembre 1786. Analisi e interpretazione", a cura di E.Guidoboni e G.Ferrari, pp.103-122.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

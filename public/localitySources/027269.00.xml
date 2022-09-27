@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027269.00</nloc_cfti>
+      <desloc_cfti>Portobuffolé</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.854</lat_wgs84>
+      <lon_wgs84>12.5377</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00540</nterr>
+      <nperiod>000078</nperiod>
+      <datanum>15110326</datanum>
+      <data_label>1511 03 26</data_label>
+      <anno>1511</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>14:40</time_label>
+      <ora>14</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>46.1982</lat>
+      <lon>13.4309</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>7</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa del 26 marzo fu avvertita $(092196)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>È documentato il grave danneggiamento del palazzo del Podestà $(500145)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092196</codbib>
+      <autore1>Cergol M. e Slejko D.</autore1>
+      <titolo1>I terremoti del 1511 e del 1690 nelle alpi orientali, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.69-91.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500145</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Udine, filza 74, Lettera del Podestà di Portobuffole, Barbaro G., al Doge di Venezia Silvestro Valier, Porto Buffole 18 gennaio 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1696</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

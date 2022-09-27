@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080380.00</nloc_cfti>
+      <desloc_cfti>Nürnberg</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Germany</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>49.4457</lat_wgs84>
+      <lon_wgs84>11.0813</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01122</nterr>
+      <nperiod>003085</nperiod>
+      <datanum>16901204</datanum>
+      <data_label>1690 12 04</data_label>
+      <anno>1690</anno>
+      <mese>12</mese>
+      <giorno>04</giorno>
+      <time_label>14:00</time_label>
+      <ora>14</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.6349</lat>
+      <lon>13.8816</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>60</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Una recente revisione basata sull’analisi di fonti coeve di lingua tedesca stima una intensità di V-VI grado MCS $(095072)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095072</codbib>
+      <autore1>Eisinger U. e Gutdeutsch R.</autore1>
+      <titolo1>The Villach Earthquake of December 4th, 1690 in the German Sources, in "Historical Investigation of European Earthquakes", vol.2 Materials of the CEC Project "Review of Historical Seismicity in Europe" and further contributions, edited by P.Albini and A.Moroni, pp.133-137.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

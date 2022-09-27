@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>35442</nterr>
+      <nperiod>000629</nperiod>
+      <datanum>19660609</datanum>
+      <data_label>1966 06 09</data_label>
+      <anno>1966</anno>
+      <mese>06</mese>
+      <giorno>09</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.5079</lat>
+      <lon>8.4047</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.5</mm>
+      <earthquakelocation>Appennino ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050001</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1966.06.10.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1966</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070385</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1966.06, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1966</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1966.06.10.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1966</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Cairo Montenotte</desloc>
+      <lat_wgs84>44.3868</lat_wgs84>
+      <lon_wgs84>8.2778</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>35442</nterr>
+      <nloc_cfti>032517.00</nloc_cfti>
+      <desloc_cfti>Cairo Montenotte</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Nizza Monferrato</desloc>
+      <lat_wgs84>44.7751</lat_wgs84>
+      <lon_wgs84>8.3599</lon_wgs84>
+      <provlet>AT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>35442</nterr>
+      <nloc_cfti>007772.00</nloc_cfti>
+      <desloc_cfti>Nizza Monferrato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Varazze</desloc>
+      <lat_wgs84>44.3617</lat_wgs84>
+      <lon_wgs84>8.5764</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>35442</nterr>
+      <nloc_cfti>032996.00</nloc_cfti>
+      <desloc_cfti>Varazze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

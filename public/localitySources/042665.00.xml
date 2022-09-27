@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042665.00</nloc_cfti>
+      <desloc_cfti>Cavezzana Gordana</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.3658</lat_wgs84>
+      <lon_wgs84>9.8524</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06009</nterr>
+      <nperiod>000758</nperiod>
+      <datanum>18340214</datanum>
+      <data_label>1834 02 14</data_label>
+      <anno>1834</anno>
+      <mese>02</mese>
+      <giorno>14</giorno>
+      <time_label>13:15</time_label>
+      <ora>13</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.4328</lat>
+      <lon>9.851</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>112</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle del Taro-Lunigiana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il paese faceva parte della comunità di Pontremoli. Il terremoto non causò crolli né danni gravi; 2 edifici subirono danni leggeri facilmente riparabili. La chiesa di S.Maria Assunta presentò un cedimento della parete laterale destra; la canonica necessitò di piccoli restauri $(890109)$. È attestato il sussidio concesso per la riparazione degli edifici ecclesiastici $(890114)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>890109</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Stato di N.º II dimostrativo delle rovine e danni cagionati dal Terremoto de’ 14 Febbraio 1834 alle Fabbriche componenti i Villaggi compresi nella Giurisdizione di Pontremoli redatto dagli ingegneri Giuseppe Michelacci e Luigi Grassi, Pontremoli 15 marzo 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Prospetto generale di quanto in sussidio è stato accordato alle diverse Chiese comprese nella Lunigiana Toscana, onde riparare ai guasti causati ai fabbricati dal Terremoto del 14 Febbrajo 1834 e scosse successive, e tal sussidio parte in contanti, e parte in ferro per catene a termini delle relative perizie, 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

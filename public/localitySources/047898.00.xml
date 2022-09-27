@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>047898.00</nloc_cfti>
+      <desloc_cfti>Scala</desloc_cfti>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.4968</lat_wgs84>
+      <lon_wgs84>11.0779</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01284</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030114</datanum>
+      <data_label>1703 01 14</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7091</lat>
+      <lon>13.0705</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>197</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 14 gennaio causò danni $(780136)$; sono ricordati 7 morti $(110165)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>780136</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relatione del terremoto sentitosi in Roma, e luoghi circonvicini, ed in Regno di Napoli, li giorni del 14 15 e 16 Mese di Gennaro 1703 con li Luoghi, e Paesi danneggiati; scritta da Roma da un Personaggio ad un suo amico à Bologna.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110165</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario napolitano dal 1700 al 1709, ed. G. de Blasiis, in "Archivio Storico per le Province Napoletane", a.10, pp.85-129, 215-267, 462-501, 599-652.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1885</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

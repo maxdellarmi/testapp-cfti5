@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042373.00</nloc_cfti>
+      <desloc_cfti>Gigliana</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.3516</lat_wgs84>
+      <lon_wgs84>9.9587</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06009</nterr>
+      <nperiod>000758</nperiod>
+      <datanum>18340214</datanum>
+      <data_label>1834 02 14</data_label>
+      <anno>1834</anno>
+      <mese>02</mese>
+      <giorno>14</giorno>
+      <time_label>13:15</time_label>
+      <ora>13</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.4328</lat>
+      <lon>9.851</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>112</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valle del Taro-Lunigiana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò danni a 23 edifici, 13 dei quali risultarono pericolanti; fu stimato un danno di 1119 lire circa $(890194)$. Una perizia datata 29 marzo 1834 riporta nel particolare lo stato degli edifici di 19 proprietari in cui furono rilevati danni abbastanza gravi, come crolli parziali o minaccia di crollo di pareti, volte e tetti. Il campanile della chiesa di S.Michele Arcangelo subì il distacco parziale del cupolino e risultò in pericolo di ulteriori crolli $(890110)$. I proprietari dei fondi urbani furono esentati dal pagamento della tassa prediale per tre anni $(890106)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>890194</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Ufficio di acque e strade della Lunigiana Toscana, filza 6, Circondario di Pontremoli, Giurisdizione di Bagnone, Comune di tal nome. N.º V Riepilogo delle totalità comprese respettivamente nei Prospetti G.G. relativi ai danni causati dai Terremoti del Febbrajo, e successivi 1834 redatto dall’ingegnere Cesare Cappelli, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Stato di N.º III addizionale delle rovine, e danni cagionati dal Terremoto de’ 14 Febbrajo 1834 alle Fabbriche componenti alcuni Villaggi compresi nella Giurisdizione di Bagnone redatto dagli ingegneri Giuseppe Michelacci e Luigi Grassi, Firenze 29 marzo 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Sezione di Pontremoli, Affari di governo, b.48, Terremoti. Commissario regio Donato Betti, filza 9, Copia di dispaccio della Segreteria di finanze alla Presidenza del buon governo, Firenze 2 aprile 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

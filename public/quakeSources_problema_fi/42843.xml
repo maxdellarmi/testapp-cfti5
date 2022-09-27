@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42843</nterr>
+      <nperiod>009754</nperiod>
+      <datanum>14661220</datanum>
+      <data_label>1466 12 20</data_label>
+      <anno>1466</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>11:00</time_label>
+      <ora>11</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.3565</lat>
+      <lon>13.3956</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>L’Aquila</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso e nel Catalogo PFG (1985).&lt;br&gt;Questo terremoto è stato analizzato in un rapporto tecnico inedito riguardante la revisione del terremoto del 1456 (SGA 2003, RPT 255/03) $(093311)$.&lt;br&gt;La fonte è il notaio-cronista Angelo Tummolillo (1397 ­ c. 1480-85) autore di una cronaca dal titolo "Notabilia temporum" (ed. 1890) $(220002)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 20 dicembre 1466 circa alle ore 11:00 GMT ("intorno a mezzogiorno"). Presumibilmente l’area epicentrale va individuata all’interno della regione dell’allora Abruzzo Citra, regione che comprendeva, oltre all’odierno Abruzzo settentrionale, anche una parte del Lazio ad est di Rieti. All’Aquila la scossa fu più forte rispetto a Sant’Elia Fiumerapido (prov. di Frosinone) dove fu di moderata intensità.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093311</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Integrazione di ricerca di archeologia e storia territoriale riguardante il terremoto del 1456 e l’area molisano-campana relativamente ai terremoti prima del Mille, RPT 255/03, Bologna maggio 2003 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>220002</codbib>
+      <autore1>Tummolillo Angelo</autore1>
+      <titolo1>Notabilia temporum di Angelo de Tummulillis da Sant’Elia, ed. C.Corvisieri, in "Fonti per la storia d’Italia" (Scrittori secolo XV), vol.7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>L'Aquila</desloc>
+      <lat_wgs84>42.3565</lat_wgs84>
+      <lon_wgs84>13.3956</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42843</nterr>
+      <nloc_cfti>056142.00</nloc_cfti>
+      <desloc_cfti>L’Aquila</desloc_cfti>
+      <notesito></notesito>
+      <COMM>L’intensità della scossa si può desumere solo dal confronto con gli effetti di un’altra località: all’Aquila il terremoto fu più forte ("vallidior") rispetto a Sant’Elia Fiumerapido, dove fu di moderata intensità ("remissus") $(220002)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sant'Elia Fiumerapido</desloc>
+      <lat_wgs84>41.5408</lat_wgs84>
+      <lon_wgs84>13.8664</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42843</nterr>
+      <nloc_cfti>055629.00</nloc_cfti>
+      <desloc_cfti>Sant’Elia Fiumerapido</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu sentito un terremoto di moderata intensità ("remissus") $(220002)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

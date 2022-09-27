@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00159</nterr>
+      <nperiod>003238</nperiod>
+      <datanum>12920000</datanum>
+      <data_label>1292 - -</data_label>
+      <anno>1292</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.5</lat>
+      <lon>12.25</lon>
+      <rel>F</rel>
+      <level>I</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Val Bivano</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca sulle fonti edite, che ha consentito di accertare l’infondatezza della notizia di tale terremoto.&lt;br&gt;Baratta (1901) $(000001)$ fraintese la notizia riportata nella "Historia ecclesiastica" di Tolomeo da Lucca, autore del XIII secolo $(700050)$, noto anche con il nome di Bartolomeo Fiadoni. Questo autore coevo affermava che, dopo la morte di papa Niccolò IV (1292), un grande terremoto colpì la valle di "Bivano". Baratta datò così al 1292 un terremoto nella valle di Bivano, ma arbitrariamente: infatti, Tolomeo da Lucca datò l’evento sismico dopo la morte di papa Niccolò IV (5 aprile 1292) e prima dell’elezione del pontefice successivo, Celestino V (4 luglio 1295), senza aggiungere ulteriori dati cronologici. Tolomeo da Lucca si trovava nel 1293 nell’Italia meridionale e si può pertanto considerare come testimone non solo coevo, ma anche geograficamente vicino all’evento. Nell’altra sua opera, "Annales" (ed. 1930) $(090254)$, che non fu presa in considerazione da Baratta, il quale non utilizzava codici medievali manoscritti, ricorda lo stesso terremoto con termini simili a quelli della "Historia ecclesiastica", ma precisa la datazione (1293) e varia l’indicazione toponimica della località colpita, da Bivano a "Buiano", oggi Bojano a circa 90 km da Napoli. Baratta inoltre non precisò la localizzazione di tale valle, cosicché non è chiaro come mai per il Catalogo PFG (1985) tale terremoto sia stato localizzato in Toscana. In realtà, la scossa originariamente catalogata all’anno 1292 va riconosciuta come quella del terremoto di Bojano del 1293. Con questa conclusione concorda anche la recente revisione storica di Castelli (1993) $(095047)$.&lt;br&gt;In base a tale analisi, l’evento è stato eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090254</codbib>
+      <autore1>Tolomeo da Lucca [Bartolomeo Fiadoni]</autore1>
+      <titolo1>Annales, ed. B.Schmeidler, in "Monumenta Germaniae Historica", SS. RR. GG., n.s., vol.8, pp.1-242.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1930</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095047</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>A ‘cluster’ of earthquakes in the Apennines at the end of XIII century, in "Terra Nova", vol.5, pp.496-502.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095665</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sulla distribuzione topografica dei terremoti nell’Umbria, in "Bollettino della Società Geografica Italiana", s.III, vol.35, pp.488-499.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700050</codbib>
+      <autore1>Tolomeo da Lucca [Bartolomeo Fiadoni]</autore1>
+      <titolo1>Historia ecclesiastica [-1312] (sec.XIV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 11, coll.753-1216.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1727</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

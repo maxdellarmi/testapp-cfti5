@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052853</nloc_cfti>
+      <desloc_cfti>San Michele in Teverina (Castel di Piero)</desloc_cfti>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.5984</lat_wgs84>
+      <lon_wgs84>12.17</lon_wgs84>
+      <notesito>Già Castel di Piero, assunse la denominazione attuale nel 1726.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu avvertita molto fortemente e causò alcuni danni non precisati $(110427)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01199</nterr>
+      <nperiod>003086</nperiod>
+      <datanum>16950611</datanum>
+      <data_label>1695 06 11</data_label>
+      <anno>1695</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>02:20</time_label>
+      <ora>02</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>42.6254</lat>
+      <lon>12.1074</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>37</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Lazio settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Località della diocesi di Bagnorea infeudata al conte Benedetti; contava 92 fuochi per 383 abitanti $(095671)$. Il terremoto causò, secondo la relazione del vescovo di Vincenzo degli Atti, il crollo di un quarto delle case; secondo Baratta (1901) $(000001)$, che attinse le proprie informazioni da un esperto locale, crollarono 12 case e ne furono gravemente lesionate altre 20, con danni stimati 5000 scudi; fu inoltre gravemente danneggiato il palazzo baronale, di cui crollò una volta, con danni per 1000 scudi e crollò il granaio di proprietà del barone, con danni per 100 scudi. Ci furono 3 morti e un ferito grave; una ventina di persone fu ferita più leggermente.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110427</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici [e cronologici] dei fenomeni endogeni italiani col confronto di altri fenomeni per il primo quadrimestre dell’anno meteorico 187[3] (Decembre 187[2] ­ Marzo 187[3]), in "Bullettino del Vulcanismo Italiano", a.1, pp.I-XXII.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095671</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Viterbo, II.E.1.20, Registro di lettere ed informazioni scritto per affari ed interessi dell’Ill.ma Città di Viterbo, Relazione del vescovo di Bagnorea Vincenzo degli Atti al segretario di Stato cardinale Spada sui danni causati dal terremoto dell’11 giugno 1695, Bagnorea 22 giugno 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

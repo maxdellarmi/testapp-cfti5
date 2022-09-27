@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072276.00</nloc_cfti>
+      <desloc_cfti>Villa d’Arceno</desloc_cfti>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.3673</lat_wgs84>
+      <lon_wgs84>11.4998</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04761</nterr>
+      <nperiod>002052</nperiod>
+      <datanum>17980526</datanum>
+      <data_label>1798 05 26</data_label>
+      <anno>1798</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>12:10:00</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>00</sec>
+      <lat>43.3495</lat>
+      <lon>11.4787</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>11</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Siena</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò la caduta di fumaioli $(350022)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350022</codbib>
+      <autore1>Soldani A.</autore1>
+      <titolo1>Relazione del terremoto accaduto in Siena il dì 26 maggio 1798 divisa in sei lettere.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1798</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

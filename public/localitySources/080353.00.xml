@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080353.00</nloc_cfti>
+      <desloc_cfti>Saint-Paul</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.7007</lat_wgs84>
+      <lon_wgs84>7.1162</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00984</nterr>
+      <nperiod>000833</nperiod>
+      <datanum>16440215</datanum>
+      <data_label>1644 02 15</data_label>
+      <anno>1644</anno>
+      <mese>02</mese>
+      <giorno>15</giorno>
+      <time_label>09:20</time_label>
+      <ora>09</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.9933</lat>
+      <lon>7.3172</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>26</npun>
+      <mm>6</mm>
+      <earthquakelocation>Alpi Marittime</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Secondo una recente revisione $(745821)$, la scossa causò leggeri danni.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34811</nterr>
+      <nperiod>003350</nperiod>
+      <datanum>19630719</datanum>
+      <data_label>1963 07 19</data_label>
+      <anno>1963</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>05:45:28</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>28</sec>
+      <lat>43.9233</lat>
+      <lon>8.0648</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>463</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08248</nterr>
+      <nperiod>003206</nperiod>
+      <datanum>18541229</datanum>
+      <data_label>1854 12 29</data_label>
+      <anno>1854</anno>
+      <mese>12</mese>
+      <giorno>29</giorno>
+      <time_label>01:45</time_label>
+      <ora>01</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.7869</lat>
+      <lon>7.5583</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>86</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Liguria occidentale-Francia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò danni alle case e a 2 mulini $(000014)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745821</codbib>
+      <autore1>Lambert J.</autore1>
+      <titolo1>The Catalonian (1428) and Alpine (1564, 1644) Earthquakes: Review of Research in France, in "Historical Investigation of European Earthquakes", vol.1 (Materials of the CEC Project «Review of Historical Seismicity in Europe»), a cura di M.Stucchi, pp.145-159.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052488</codbib>
+      <autore1>BRGM (Bureau de Recherches Géologiques et Minières)</autore1>
+      <titolo1>SisFrance: histoire et caractéristiques des séismes ressentis en France métropolitaine et sur ses abords, BRGM-EDF-IPSN [indirizzo internet: http://www.sisfrance.net].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

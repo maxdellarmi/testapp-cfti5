@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>065099.00</nloc_cfti>
+      <desloc_cfti>Spadola</desloc_cfti>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>12</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>38.6036</lat_wgs84>
+      <lon_wgs84>16.3374</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02812</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830207</datanum>
+      <data_label>1783 02 07</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>07</giorno>
+      <time_label>13:10</time_label>
+      <ora>13</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>38.5808</lat>
+      <lon>16.201</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>192</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa del 5 febbraio 1783 causò gravi danni agli edifici; quella successiva del 7 febbraio causò il crollo di molte abitazioni; il terremoto del 28 marzo causò ulteriori crolli e rese inabitabili le poche case rimaste in piedi; i morti furono 3 su un totale di 773 abitanti $(680031,680041,570001)$. Una fonte tarda stimò il danno in 50.000 ducati $(560077)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>03120</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830328</datanum>
+      <data_label>1783 03 28</data_label>
+      <anno>1783</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>38.7861</lat>
+      <lon>16.4636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>323</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 5 febbraio 1783 causò gravi danni agli edifici; quella successiva del 7 febbraio causò il crollo di molte abitazioni; il terremoto del 28 marzo causò ulteriori crolli e rese inabitabili le poche case rimaste in piedi; i morti furono 3 su un totale di 773 abitanti $(680031,680041,570001)$. Una fonte tarda stimò il danno in 50.000 ducati $(560077)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01019</nterr>
+      <nperiod>003009</nperiod>
+      <datanum>16591105</datanum>
+      <data_label>1659 11 05</data_label>
+      <anno>1659</anno>
+      <mese>11</mese>
+      <giorno>05</giorno>
+      <time_label>22:15</time_label>
+      <ora>22</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>38.6955</lat>
+      <lon>16.2498</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>127</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il paese era un casale della "terra" di Serra San Bruno. Il terremoto fece crollare 19 case e danneggiò gran parte delle rimanenti; crollarono la chiesa madre e la chiesa di S.Nicola; non ci furono morti $(635001,635135,145124,030583)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni alle abitazioni. Danneggiate 2 chiese ed in particolare quella arcipretale in parte crollate $(525178,635209)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02700</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830205</datanum>
+      <data_label>1783 02 05</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.2974</lat>
+      <lon>15.9703</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>357</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa del 5 febbraio 1783 causò gravi danni agli edifici; quella successiva del 7 febbraio causò il crollo di molte abitazioni; il terremoto del 28 marzo causò ulteriori crolli e rese inabitabili le poche case rimaste in piedi; i morti furono 3 su un totale di 773 abitanti $(680031,680041,570001)$. Una fonte tarda stimò il danno in 50.000 ducati $(560077)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>L’abitato subì danni notevoli: complessivamente, in tutto il comune, furono danneggiate 44 case (13% circa del totale), di cui 34 (10%) subirono crolli o demolizioni o risultarono inabitabili. Non ci furono danni alle persone $(145011,145012,460204,460214)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14962</nterr>
+      <nperiod>003040</nperiod>
+      <datanum>18941116</datanum>
+      <data_label>1894 11 16</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>17:52:00</time_label>
+      <ora>17</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>38.2888</lat>
+      <lon>15.8701</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>303</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni agli edifici. Secondo i dati dell’agenzia delle imposte 1 abitazione crollò totalmente, 65 furono danneggiate gravemente e 54 lievemente. Gli abitanti erano 683 $(056010)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05907</nterr>
+      <nperiod>000173</nperiod>
+      <datanum>18320308</datanum>
+      <data_label>1832 03 08</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>08</giorno>
+      <time_label>18:30</time_label>
+      <ora>18</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>39.0797</lat>
+      <lon>16.9188</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>99</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Crotonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto danneggiò notevolmente la chiesa parrocchiale in cui il muro della facciata risultò lesionato e pericolante; la spesa occorrente per i lavori di riparazione fu stimata in 90 ducati $(574300)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto molto forte fece cadere camini e tegole e aprì lievi lesioni negli edifici $(145255)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40169</nterr>
+      <nperiod>003048</nperiod>
+      <datanum>19780415</datanum>
+      <data_label>1978 04 15</data_label>
+      <anno>1978</anno>
+      <mese>04</mese>
+      <giorno>15</giorno>
+      <time_label>23:33:47</time_label>
+      <ora>23</ora>
+      <minu>33</minu>
+      <sec>47</sec>
+      <lat>38.1251</lat>
+      <lon>15.022</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>331</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Golfo di Patti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Barbano et al. (1979) hanno valutato l’intensità della scossa di IV grado MCS $(035248,035275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38578</nterr>
+      <nperiod>003046</nperiod>
+      <datanum>19750116</datanum>
+      <data_label>1975 01 16</data_label>
+      <anno>1975</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>00:09:45</time_label>
+      <ora>00</ora>
+      <minu>09</minu>
+      <sec>45</sec>
+      <lat>38.1148</lat>
+      <lon>15.6431</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>346</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Stretto di Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(035062)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04614</nterr>
+      <nperiod>003018</nperiod>
+      <datanum>17911013</datanum>
+      <data_label>1791 10 13</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>13</giorno>
+      <time_label>01:20</time_label>
+      <ora>01</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>38.636</lat>
+      <lon>16.268</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>77</npun>
+      <mm>6</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto causò il crollo di gran parte delle abitazioni; la chiesa, da poco ricostruita, crollò parzialmente. Non vi furono morti, né feriti $(574026,560077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680041</codbib>
+      <autore1>Grimaldi F.A.</autore1>
+      <titolo1>Descrizione de’ tremuoti nelle Calabrie nel 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>570001</codbib>
+      <autore1>Sarconi M.</autore1>
+      <titolo1>Istoria de’ fenomeni del tremoto avvenuto nelle Calabrie, e nel Valdemone nell’anno 1783 posta in luce dalla Reale Accademia delle Scienze, e delle Belle Lettere di Napoli.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560077</codbib>
+      <autore1>Grimaldi A.</autore1>
+      <titolo1>La Cassa Sacra ovvero la soppressione delle mani morte in Calabria nel sec.XVIII.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1863</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>574300</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catanzaro, Intendenza di Calabria Ulteriore Seconda, b.72 A/4 (1832), Stato dei danni cagionato da tremuoti della sera degli 8 marzo 1832 e successivi, Monteleone 11 luglio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.44, Lettera del vescovo di Catanzaro Filippo Visconti al cardinale nipote Flavio Chigi, Catanzaro 12 novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635135</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.61 D, "Copia di lettera scritta dal priore dei Carmelitani Scalzi di Catanzaro al padre provinciale in Napoli, con relatione de’ danni grandi fatti da’ terremoti, e de’ luoghi danneggiati" allegata al dispaccio del nunzio apostolico Giulio Spinola arcivescovo di Laodicea al segretario di Stato cardinale Giulio Rospigliosi del 29 novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145124</codbib>
+      <autore1>De Marinis D.A.</autore1>
+      <titolo1>Relatione fatta a S.E. sopra li danni che hanno patito molte Città, Terre, &amp; Casali nella Provincia di Calabria ultra, per cagion del terremoto, che seguì la notte delli 5 di Novembre 1659.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1660</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030583</codbib>
+      <autore1>D’Amato V.</autore1>
+      <titolo1>Memorie historiche dell’illustrissima, famosissima e fedelissima città di Catanzaro.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1670</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>574026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catanzaro, Cassa Sacra, Segreteria Pagana, cartella 15, fasc.291 (1791-92), Relazione dell’Ispettore C.Pedicini al Segretario di Stato per gli Affari Ecclesiastici e Presidente della Suprema Giunta di Corrispondenza di Napoli F.Corradini sui danni causati dal terremoto del 13 ottobre 1791, Soriano Calabro 22 ottobre 1791.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1791</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525178</codbib>
+      <autore1>*</autore1>
+      <titolo1>Comitato di soccorso pei danneggiati dal terremoto dell’8 Settembre 1905 in provincia di Catanzaro. Relazione generale ed allegati.</titolo1>
+      <luogoed>Catanzaro</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635209</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.1, Diocesi di Squillace ­ Chiese danneggiate dal terremoto del giorno 8 Settembre, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145012</codbib>
+      <autore1>Ministero dei Lavori pubblici ­ Direzione generale dei Servizi speciali</autore1>
+      <titolo1>L’opera del Ministero dei Lavori pubblici nei comuni colpiti dal terremoto del 28 dicembre 1908, 3 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460204</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Serie diverse, Comitato centrale di soccorso dei danneggiati dal terremoto della Calabria e della Sicilia, b.10, Elenco dei Comuni danneggiati dal terremoto del 28 dicembre 1908, Catanzaro 5 gennaio 1909.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Serie diverse, Comitato centrale di soccorso dei danneggiati dal terremoto della Calabria e della Sicilia, b.1, Telegramma del maresciallo dei Carabinieri Marzovilla al Ministero dell’Interno sul terremoto del 28 dicembre 1908, Serra San Bruno 29 dicembre 1908.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056010</codbib>
+      <autore1>Riccò A.</autore1>
+      <titolo1>Il terremoto del 16 novembre 1894 in Calabria e Sicilia. Parte I: Relazione sismologica, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.19 (1897), parte I, pp.7-261.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035062</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Studio macrosismico del terremoto di Reggio Calabria del 16 Gennaio 1975, in "Annali di Geofisica", vol.28, pp.151-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035248</codbib>
+      <autore1>Barbano M.S., Bottari A., Carveni P., Cosentino M., Federico B., Fonte G., Lo Giudice E., Lombardo G. e Patané G.</autore1>
+      <titolo1>Macroseismic study of the gulf of Patti earthquake in the geostructural frame of North-Eastern Sicily, in "Bollettino della Società Geologica Italiana", vol.98, pp.155-174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

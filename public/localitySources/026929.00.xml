@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>026929.00</nloc_cfti>
+      <desloc_cfti>Crespano del Grappa</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>45.8273</lat_wgs84>
+      <lon_wgs84>11.8373</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06088</nterr>
+      <nperiod>000182</nperiod>
+      <datanum>18360612</datanum>
+      <data_label>1836 06 12</data_label>
+      <anno>1836</anno>
+      <mese>06</mese>
+      <giorno>12</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.8077</lat>
+      <lon>11.8233</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>27</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Prealpi venete</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò notevoli danni alle abitazioni. La chiesa rimase illesa $(050398,071265,600655,490328)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa causò delle screpolature in un soffitto $(000004,001321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto causò il crollo di 20 case e rese pericolanti tutti gli altri edifici comprese le chiese, il campanile e la casa parrocchiale $(500009,780016)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>500009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Collegio, Risposte di fuori, f.448, Supplica della comunità di Crespano alla Repubblica di Venezia per poter incamerare 500 ducati necessari al restauro delle chiese, campanile a casa parrocchiale, 14 marzo 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica di Bassano del Grappa, Manoscritti, 33-B-19-1, Mario Sale, Memorie sulla storia di Bassano, sec.XVI, copia Lugo Zerbino sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050398</codbib>
+      <autore1>Piovene G.</autore1>
+      <titolo1>Cronaca dei terremoti a Vicenza, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.45-57.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600655</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1836.07.12, n.148.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1836</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490328</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Terremoti sentiti in diversi punti del Globo nell’anno 1836, in "Biblioteca Italiana", a.22, tomo 86 (aprile-giugno 1837), pp.425-429.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

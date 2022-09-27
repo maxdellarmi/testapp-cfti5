@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049696.00</nloc_cfti>
+      <desloc_cfti>Monteluco</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>42.7246</lat_wgs84>
+      <lon_wgs84>12.7506</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06205</nterr>
+      <nperiod>003288</nperiod>
+      <datanum>18380105</datanum>
+      <data_label>1838 01 05</data_label>
+      <anno>1838</anno>
+      <mese>01</mese>
+      <giorno>05</giorno>
+      <time_label>14:00</time_label>
+      <ora>14</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7641</lat>
+      <lon>12.7874</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>8</npun>
+      <mm>5</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa del 5 gennaio, accompagnata da rombi, fu avvertita nel santuario di San Francesco. Non causò danni $(635588)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635588</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1838, rubrica 110 (Esteri), b.270, Copia di relazione del perito L.Milanesi al delegato apostolico di Spoleto monsignor Lucciardi sui danni causati dal terremoto del 5 gennaio, Spoleto 8 gennaio 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062561.00</nloc_cfti>
+      <desloc_cfti>Erchie</desloc_cfti>
+      <provlet>BR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>40.4359</lat_wgs84>
+      <lon_wgs84>17.7348</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32473</nterr>
+      <nperiod>001040</nperiod>
+      <datanum>19471006</datanum>
+      <data_label>1947 10 06</data_label>
+      <anno>1947</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>19:55:36</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>36</sec>
+      <lat>36.717</lat>
+      <lon>21.783</lon>
+      <rel>E</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>4.5</imax>
+      <npun>33</npun>
+      <mm>0</mm>
+      <earthquakelocation>Grecia meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Greece</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

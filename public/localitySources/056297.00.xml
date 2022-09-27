@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056297.00</nloc_cfti>
+      <desloc_cfti>Poggio Picenze</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>8</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.3207</lat_wgs84>
+      <lon_wgs84>13.5407</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00425</nterr>
+      <nperiod>003070</nperiod>
+      <datanum>14611127</datanum>
+      <data_label>1461 11 27</data_label>
+      <anno>1461</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>21:05</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.3137</lat>
+      <lon>13.5432</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>10</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01291</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030202</datanum>
+      <data_label>1703 02 02</data_label>
+      <anno>1703</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>11:05</time_label>
+      <ora>11</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.4351</lat>
+      <lon>13.2917</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>69</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Vista l’ubicazione del centro abitato nell’area aquilana, è ragionevole ritenere che i danni più gravi furono causati dalla scossa del 2 febbraio. Le fonti non riportano descrizioni degli effetti del terremoto sull’abitato; si possono tuttavia ipotizzare danni molto gravi in quanto la comunità ottenne un’esenzione fiscale per 3 o 4 anni $(645113)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò crollo di fabbricati e vittime tra la popolazione $(583153,146431,146439)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33920</nterr>
+      <nperiod>003267</nperiod>
+      <datanum>19580624</datanum>
+      <data_label>1958 06 24</data_label>
+      <anno>1958</anno>
+      <mese>06</mese>
+      <giorno>24</giorno>
+      <time_label>06:07:04</time_label>
+      <ora>06</ora>
+      <minu>07</minu>
+      <sec>04</sec>
+      <lat>42.3405</lat>
+      <lon>13.4783</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>152</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>L’Aquila</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Non sono note descrizioni degli effetti. Di Filippo e Peronaci (1964) valutarono l’intensità della scossa di VII grado MCS $(052073)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02144</nterr>
+      <nperiod>003097</nperiod>
+      <datanum>17621006</datanum>
+      <data_label>1762 10 06</data_label>
+      <anno>1762</anno>
+      <mese>10</mese>
+      <giorno>06</giorno>
+      <time_label>12:10</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>42.3081</lat>
+      <lon>13.5845</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>6</npun>
+      <mm>6</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>L’inchiesta condotta su incarico della Regia Camera della Sommaria nel novembre del 1762, accertò, attraverso le dichiarazioni degli abitanti, che in seguito alla scossa del 6 ottobre quasi tutte le abitazioni e gli altri edifici avevano subito crolli o lesioni così gravi da renderli inabitabili; una persona era morta e altre 4 erano state ferite $(593426,593428,593429,593430,593431,593432,593433,593434,593435,593436,593437,593439,593440,593441,593442,593443,593444,593445,593446,593447)$. Fu gravemente danneggiata la chiesa Madre e distrutta la casa baronale $(593374,593375)$. Una relazione del 1776 ricorda che 58 edifici erano ancora distrutti $(096044)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>370027</codbib>
+      <autore1>D’Angeluccio Francesco</autore1>
+      <titolo1>Cronaca delle cose dell’Aquila dall’anno 1436 all’anno 1485 scritta da Francesco d’Angeluccio di Bazzano. Data al pubblico dal testo a penna originale della Bibliotheca di Gio. Matteo Brancadoro; con annotazioni e giunte di Antonio Antinori, in "Antiquitates Italicæ Medii Ævi", ed. L.A.Muratori, tomo 6, coll.887-926.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1742</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>100004</codbib>
+      <autore1>Antinori A.L.</autore1>
+      <titolo1>Annali degli Abruzzi dalle origini all’anno 1777, 24 voll. (edizione in facsimile).</titolo1>
+      <luogoed>Sala Bolognese</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645113</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 144, c.1032 e sgg. n.n., Nota relativa alla stesura dell’elenco delle università della provincia di L’Aquila alle quali vanno concesse esenzioni fiscali in seguito ai danni causati dal terremoto del 1703, Napoli 27 settembre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593426</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Relazione di Domenico Ferrari e Giuseppe Urbano massari della terra di Poggio Picenze sui danni subiti dal paese a causa del terremoto del 6 ottobre 1762, Barisciano 16 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593428</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Giovanni Battista Masci, Domenico Damiani, Berardino Damiani e Domenico Vitano, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 18 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593429</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Francesco Fratacchione, Domenico Damiani, Berardino Taddeo e Felice Ianni, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 18 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593430</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Nunzio Ianni, Lorenzo Galeota e Domenicantonio Zavagnini, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 18 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593431</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Luciano Ianni, Pompeo Biordi e Arrico Ranieri, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 18 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593432</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Domenico Sperduti, Francesco Ianni e Giancatarino Ianni, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 18 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593433</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Franco Massaro, Martino Seroco, Angelantonio Ianni e Maria Sperduto, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 19 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593434</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Giampaolo Urbano, Angelo Falcone e Ponziano Iannucci, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 19 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593435</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Asunzio Falcone, Francesco Ianni e Domenico Sperduto, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 19 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593436</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Venanzio Taddeo, Pietro Ciminelli e Giacomo Grimaldi, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 19 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593437</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Pietro Urbano, Rocco Fabrizio, Giansante Coccia e Berardino Celestino, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 19 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593439</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Massimo Galeota, Rocco Seroco e Natale Ferrari, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 20 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593440</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Antonio Ianni, Angelantonio Ianni, Domenico Sperduti e Santa Bartoli, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 20 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593441</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Antonio Padovano, Marco Regazzini e Berardino Iannucci, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 20 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593442</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Carlo Tartaglia, di Nicola Micone e di Ambrogio Ferrari, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 20 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593443</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Antonio di Giampietro, Domenicantonio Massi e Lorenzo de Santis, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 20 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593444</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Francesco Galeota, Giuliano Galeota e Domenico de Vecchis, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 21 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593445</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Nicola Massaro, Michelangiolo Manetta, Giacomo Biordi e Andrea Biordi, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 21 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593446</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Vincenzo Cioci, Filippo Damiani, Basilio de Vecchis, Luca Taddeo, Matteo Ianni e Nicolantonio Grimaldi, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 21 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593447</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Deposizioni rese da Salvatore Massaro, Pietro Taddeo, Elisabetta di Federicco, Domenico Micone, Francesco Filauro e Simone Urbano, abitanti di Poggio Picenze, in relazione ai danni del terremoto del 6 ottobre 1762, Barisciano 21 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593374</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Notifica dei danni e supplica per l’esenzione dai tributi inoltrata al re da parte di cittadini di Poggio Picenze, Barisciano ottobre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593375</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Presidenza di Abruzzo Ultra Secondo, serie I (Affari generali), cat.27, b.2, fasc.23, Memoriale diretto al re (e relativa lettera di accompagnamento) della marchesa Margherita Alfieri di Poggio Picenze a notifica dei danni subiti nel territorio del suo feudo nonché della casa feudale a causa del terremoto del 6 ottobre 1762, Napoli 16 ottobre e 6 novembre 1762.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096044</codbib>
+      <autore1>Morelli M.</autore1>
+      <titolo1>Poggio pecenze. Ricerche Storiche.</titolo1>
+      <luogoed>Teramo</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583153</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.949, Telegramma da L’Aquila al Ministero dell’Interno relativo ai danni causati nei circondari di L’Aquila e di Cittaducale dal terremoto del 13 gennaio 1915, L’Aquila 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146431</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146439</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.16.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052073</codbib>
+      <autore1>Di Filippo D. e Peronaci F.</autore1>
+      <titolo1>La sismicità del «Campo fagliato» dell’Aterno (Terremoto de L’Aquila del 24.VI.1958), in "Annali di Geofisica", vol.17 (1964), pp.195-210.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

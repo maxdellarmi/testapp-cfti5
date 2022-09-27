@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056104</nloc_cfti>
+      <desloc_cfti>Gioia dei Marsi</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>11</maxint>
+      <lat_wgs84>41.951</lat_wgs84>
+      <lon_wgs84>13.7032</lon_wgs84>
+      <notesito>Già Gioia, assunse la denominazione attuale il 21 giugno 1863 (R.D. n.1273, 21 aprile 1863, in G.U. n.133 suppl., 6 giugno 1863). La località ha cambiato sito dopo il terremoto del 1915.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(000020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>11</intpqnum>
+      <intpq>XI</intpq>
+      <D1>Il terremoto distrusse completamente l’abitato; come confermano anche le riprese fotografiche apparse sulla stampa, le case furono ridotte a un ammasso di rovine $(146377,146444,583232,146475)$; crollarono il Municipio, la chiesa parrocchiale e quella di S.Maria la Nova $(593190,593053,635045)$; morirono 1600 persone pari al 47% della popolazione totale $(050399)$. Il numero complessivo delle baracche costruite dal Corpo Reale del Genio Civile, a tutto il maggio 1917, fu di 396 $(593117)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146377</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Ximeniano di Firenze, n.160, ins.2, G.Alfani, Avezzano. Appunti di viaggio sui luoghi colpiti dal terremoto del 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146444</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.21.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583232</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.1211, Telegramma da Pescina al Ministero dell’Interno relativo ai gravissimi danni causati a Gioia dei Marsi e a San Benedetto dei Marsi dal terremoto del 13 gennaio 1915, Pescina 14 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146475</codbib>
+      <autore1>Panecaldo A. e Vespa B.</autore1>
+      <titolo1>Marsica 1915.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593190</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Sottoprefettura di Avezzano, Affari speciali dei Comuni, b.186, fasc.18, Deliberazione del Consiglio Comunale di Gioia dei Marsi relativa alla cessione di suolo comunale per la costruzione di case necessarie in seguito al terremoto del 13 gennaio 1915, Gioia dei Marsi 3 dicembre 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.9, fasc.62, Elenco di Chiese danneggiate dal terremoto del 13 Gennaio 1915 come da denunzie pervenute all’Intendenza di Finanza, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi dei Marsi. Elenco delle chiese parrocchiali e delle case religiose danneggiate o distrutte dal terremoto del 13 gennaio 1915, Tagliacozzo 10 aprile 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>593117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Prefettura, Atti del terremoto della Marsica, b.13, fasc.74, Stato di avanzamento dei lavori delle opere dipendenti dal terremoto del 13 gennaio 1915 a tutto il 29 aprile 1917, Avezzano 6 maggio 1917.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000034</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1933, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035274</codbib>
+      <autore1>Favali P., Giovani L., Spadea M.C. e Vecchi M.</autore1>
+      <titolo1>Il terremoto della Valnerina del 19 Settembre 1979, in "Annali di Geofisica", vol.33, pp.67-100.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035052</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.08.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035265</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Descrizioni dei danni relativi alle scosse del 7 e 11 maggio 1984 (Appendice II), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.305-324.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052073</codbib>
+      <autore1>Di Filippo D. e Peronaci F.</autore1>
+      <titolo1>La sismicità del «Campo fagliato» dell’Aterno (Terremoto de L’Aquila del 24.VI.1958), in "Annali di Geofisica", vol.17 (1964), pp.195-210.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146377</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Ximeniano di Firenze, n.160, ins.2, G.Alfani, Avezzano. Appunti di viaggio sui luoghi colpiti dal terremoto del 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146408</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1915.01.20.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146442</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

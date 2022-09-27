@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073683.00</nloc_cfti>
+      <desloc_cfti>Caiano</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.8227</lat_wgs84>
+      <lon_wgs84>12.9376</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05181</nterr>
+      <nperiod>003297</nperiod>
+      <datanum>18150903</datanum>
+      <data_label>1815 09 03</data_label>
+      <anno>1815</anno>
+      <mese>09</mese>
+      <giorno>03</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.8332</lat>
+      <lon>13.0149</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>24</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò l’abitazione di campagna del signor Arcangelo Bonanni, causando lesioni alle facciate e ai tetti; i danni, calcolati insieme a quelli della casa ereditaria dallo stesso proprietario entro il borgo di Triponzo, ammontarono a 55,50 scudi $(673731)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>673731</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale III (Comuni), Norcia, b.1549 (1559-1822), Perizia dei lavori necessari per il restauro degli edifici del castello di Triponzo redatta dal maestro muratore Feliciano Conti e attestata dal notaio pubblico della Terra di Cerreto Giuseppe Nobili, Cerreto di Spoleto 28 settembre 1815.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1815</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>27301</nterr>
+      <nperiod>000481</nperiod>
+      <datanum>19210104</datanum>
+      <data_label>1921 01 04</data_label>
+      <anno>1921</anno>
+      <mese>01</mese>
+      <giorno>04</giorno>
+      <time_label>09:20</time_label>
+      <ora>09</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.6773</lat>
+      <lon>8.4648</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Acqui Terme (AL)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000024</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1921, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030211</codbib>
+      <autore1>*</autore1>
+      <titolo1>Le Duché d’Aoste, 1860-1926.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1860 - 1926</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070370</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartoline macrosismiche relative al terremoto del 4 gennaio 1921 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1921</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Popolo, 1921.01.05.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1921</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Subalpino, 1921-1967.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1921 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Acqui Terme</desloc>
+      <lat_wgs84>44.6773</lat_wgs84>
+      <lon_wgs84>8.4648</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>27301</nterr>
+      <nloc_cfti>008038.00</nloc_cfti>
+      <desloc_cfti>Acqui Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

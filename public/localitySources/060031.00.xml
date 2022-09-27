@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060031.00</nloc_cfti>
+      <desloc_cfti>Castellammare di Stabia</desloc_cfti>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>16</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>40.7006</lat_wgs84>
+      <lon_wgs84>14.4862</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni notevoli: furono lesionati il duomo, il collegio e la chiesa dei Gesuiti, la chiesa e il convento dei Minimi, il palazzo del duca di Parma (antica dimora del re Roberto d’Angiò) e varie torri; crollò la pescheria $(030065,040203)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>C0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.1844</lat>
+      <lon>14.8742</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>82</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Samnio-Irpinia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto fu avvertito in modo molto forte tanto da causare alcune fessure nei muri $(070842)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Lievi danni alla chiesa dei Gesuiti $(240194)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il censimento ISTAT del 1931 riporta che il paese aveva una popolazione di 34.553 abitanti $(391568)$.&lt;br&gt;La scossa, che durò oltre 40s causò panico nella popolazione che si riversò all’aperto, molti cortocircuiti e lievissimi danni $(671730,120018,420288,671730)$. Secondo Alfano (1931) furono lesionate 5 case $(090462)$. Secondo Majo (1931) le case lesionate furono il 18% $(130532)$.&lt;br&gt;Nel territorio di pertinenza della Tenenza dei Carabinieri il danno al patrimonio edilizio fu stimato non superiore alle lire 350.000 $(671650)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa causò grande spavento tra la popolazione $(146431)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50042</nterr>
+      <nperiod>005060</nperiod>
+      <datanum>00790824</datanum>
+      <data_label>79 08 24</data_label>
+      <anno>79</anno>
+      <mese>08</mese>
+      <giorno>24</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.7437</lat>
+      <lon>14.2857</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>2</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Area vesuviana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Frequenti scosse di terremoto nella notte tra il 24 e il 25 agosto 79 fecero traballare le abitazioni dando l’impressione agli abitanti che gli edifici sbandassero ora da una parte ora da un’altra e che poi ritornassero in sesto $(790016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01726</nterr>
+      <nperiod>003092</nperiod>
+      <datanum>17321129</datanum>
+      <data_label>1732 11 29</data_label>
+      <anno>1732</anno>
+      <mese>11</mese>
+      <giorno>29</giorno>
+      <time_label>07:40</time_label>
+      <ora>07</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.0643</lat>
+      <lon>15.0591</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>187</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu sentito fortemente, ma non causò danni $(060008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita molto fortemente; parte della popolazione, allarmata, abbandonò le case $(000021,470686)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa del 7 maggio fu avvertita fortemente e spaventò la popolazione $(035051)$. Non sono note descrizioni degli effetti della scossa dell’11 maggio; Frezzotti et al. (1995) hanno valutato l’intensità di IV grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42013</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840511</datanum>
+      <data_label>1984 05 11</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>10:42:00</time_label>
+      <ora>10</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41.7152</lat>
+      <lon>14.0759</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>342</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 7 maggio fu avvertita fortemente e spaventò la popolazione $(035051)$. Non sono note descrizioni degli effetti della scossa dell’11 maggio; Frezzotti et al. (1995) hanno valutato l’intensità di IV grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24440</nterr>
+      <nperiod>003041</nperiod>
+      <datanum>19130628</datanum>
+      <data_label>1913 06 28</data_label>
+      <anno>1913</anno>
+      <mese>06</mese>
+      <giorno>28</giorno>
+      <time_label>08:53:02</time_label>
+      <ora>08</ora>
+      <minu>53</minu>
+      <sec>02</sec>
+      <lat>39.5316</lat>
+      <lon>16.2391</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>151</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu sensibilissima $(000225,050399)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07534</nterr>
+      <nperiod>001034</nperiod>
+      <datanum>18510814</datanum>
+      <data_label>1851 08 14</data_label>
+      <anno>1851</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9531</lat>
+      <lon>15.6667</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>103</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>17</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto fu avvertito dalla popolazione $(480026)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 22 agosto (ore 23:16 GMT) fu sentita da persone che erano sveglie nei piani superiori degli edifici $(143915)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di III grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni rilevanti: in tutto il territorio comunale le unità edilizie danneggiate più o meno gravemente furono 1775 (crollarono in particolare due palazzi tra le vie Alvino e Fusco); le persone rimaste senzatetto furono 2262 (3%) su un totale di 70.685 abitanti; ci furono 15 morti e 400 feriti. Furono fortemente danneggiati numerosi edifici monumentali, tra cui la cattedrale e le chiese del SS.Salvatore, della Madonna Incoronata, di S.Eustachio, S.Giacomo, S.Maria dell’Orto, S.Maria di Loreto, S.Maria di Portosalvo, S.Maria di Pozzano, S.Spirito, S.Vincenzo Ferreri. Uno degli edifici più colpiti fu la chiesa di S.Maria del Rosario, in cui fu riscontrato il distacco e la rotazione della facciata rispetto ai muri perimetrali, tutte le compagini murarie risultarono fessurate e il campanile gravemente dissestato e lesionato, con evidenti fenomeni di spiombatura dei muri, tanto da far temere un imminente crollo della struttura.&lt;br&gt;Subì gravi danni anche la villa di S.Marco, un’antica costruzione romana di età augustea sepolta dalla famosa eruzione del Vesuvio del 79 d.C. Di tutti i siti archeologici dell’area vesuviana la villa di S.Marco fu la più danneggiata dal terremoto, che causò la distruzione completa di uno dei portici e il crollo parziale del peristilio $(052281)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030065</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relatione del Terremoto accaduto in Napoli, e parte del suo Regno il giorno 8 di Settembre 1694. Dove si dà raguaglio delli danni, che il medesimo hà caggionato in molte parti del medesimo Regno. Et in particolare nelle tré Provincie di Principato Citra, Ultra, e Basilicata. Con il numero de’ morti, e feriti che nelle medesime sono restati sotto delle Pietre.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040203</codbib>
+      <autore1>Pacichelli G.B.</autore1>
+      <titolo1>Tremuoto di Napoli, e del Regno à puntino spiegato (Al Signor Abate Francesco Battistini Maestro di Camera dell’Eminentiss. Negrone, Roma), in "Lettere Familiari, Istoriche, &amp; Erudite, tratte dalle Memorie Recondite dell’Abate D. Gio. Battista Pacichelli in occasione de’ suoi Studj, Viaggi, e Ministeri", ed. D.A.Parrino, vol.2, pp.353-363.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070842</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Omnibus, 1857.12.19, n.101.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1851.09.05, n.107.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000225</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1913, Regio Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240194</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Fondo Carpegna, vol.39, Breve, però vera relatione del Terremoto succeduto nella Città di Napoli, et altre Parti del Regno il dì Sabato 5 di Giugno vigilia della Sant[issi]ma Pentecoste di quest’Anno 1688 verso le 20 hore, e mezza in 21 colla notitia delle volte, che hà replicato, e suoi effetti cagionati.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470686</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Puglie, 1910.06.08.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146431</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1915.01.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671730</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.1D, Prime notizie, Relazioni delle Autorità sui danni del terremoto, sullo stato dei lavori di sgombero, sui morti e feriti, Comunicati all’Agenzia Stefani, Comunicato n.4, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma numero 8 dell’Agenzia Stefani sulle prime notizie relative ai danni e morti a seguito del terremoto notte 23 luglio 1930, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Emiliano. Gazzetta di Parma, 1930.07.24, a.175, n.174.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090462</codbib>
+      <autore1>Alfano G.B.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930 (Pubblicazione dell’Osservatorio di Pompei).</titolo1>
+      <luogoed>Pompei</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130532</codbib>
+      <autore1>Majo E.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930-VIII, in "Bollettino della Società dei Naturalisti in Napoli", vol.43 (1931), pp.377-391.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671650</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 23 luglio al 27 luglio, n.35190, Telegramma del comandante la Compagnia Carabinieri di Castellammare di Stabia al Ministero dell’Interno, Castellammare di Stabia 24 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052281</codbib>
+      <autore1>Ministero per i Beni Culturali e Ambientali ­ Soprintendenza generale agli interventi post-sismici in Campania e Basilicata</autore1>
+      <titolo1>Dopo la polvere. Rilevazione degli interventi di recupero post-sismico del patrimonio archeologico, architettonico ed artistico delle regioni Campania e Basilicata danneggiato dal terremoto del 23 novembre 1980 e del 14 febbraio 1981 (anni 1985-1989), a cura di G.Proietti, 5 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035051</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.07.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143915</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 22 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Castellammare di Stabia 28 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>790016</codbib>
+      <autore1>Plinius Caecilius Secundus Gaius (minor)</autore1>
+      <titolo1>Epistularum libri decem, ed. R.A.B.Mynors.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370089</codbib>
+      <autore1>*</autore1>
+      <titolo1>Lettera dell’ambasciatore mantovano al marchese di Mantova Luigi III Gonzaga, Foggia 12 dicembre 1456, in B.Figliuolo, "Il terremoto del 1456", vol.2, doc.VII, pp.25-27.</titolo1>
+      <luogoed>Altavilla Silentina</luogoed>
+      <datacompl>1989</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

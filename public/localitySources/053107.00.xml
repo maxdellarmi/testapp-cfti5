@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053107.00</nloc_cfti>
+      <desloc_cfti>Rocca di Fondi</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.3882</lat_wgs84>
+      <lon_wgs84>13.0839</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34545</nterr>
+      <nperiod>003268</nperiod>
+      <datanum>19611031</datanum>
+      <data_label>1961 10 31</data_label>
+      <anno>1961</anno>
+      <mese>10</mese>
+      <giorno>31</giorno>
+      <time_label>13:37:18</time_label>
+      <ora>13</ora>
+      <minu>37</minu>
+      <sec>18</sec>
+      <lat>42.3962</lat>
+      <lon>13.0422</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>71</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Velino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa principale (31 ottobre, ore 13:37 GMT) danneggiò notevolmente l’abitato: tutte le abitazioni furono gravemente lesionate e in gran parte divennero inabitabili. Le repliche avvertite tra il 2 e il 3 novembre causarono ulteriori danni: alcune delle case già evacuate crollarono; 300 persone rimasero senza tetto $(095187,672633,672635,691157,691158,672692)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01291</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030202</datanum>
+      <data_label>1703 02 02</data_label>
+      <anno>1703</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>11:05</time_label>
+      <ora>11</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.4351</lat>
+      <lon>13.2917</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>69</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Fu quasi rasa al suolo; la fonte pare riferirsi alla scossa del 2 febbraio $(095214)$; la comunità ottenne un’esenzione fiscale per 3 o 4 anni $(645114)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Frammenti della corrispondenza tenuta tra il dottore Filippantonio Mancini procurator fiscale presso la Regia Udienza dell’Aquila, e l’illustrissimo signore Marco Garofalo marchese della Rocca vicario generale nella provincia di Abruzzo Ultra, intorno a’ danni prodotti dal terremoto de’ 2 febbraio 1703, ed altre notizie che vi hanno relazione, in F.Cappa, "Sul terremoto che a’ 2 di febbraio 1703 rovinò L’Aquila e molti paesi di Abruzzo", pp.21-50.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 144, c.1033 e sgg. n.n., Nota relativa alla stesura dell’elenco delle università del ripartimento di Penne alle quali vanno concesse esenzioni fiscali in seguito ai danni causati dal terremoto del 1703, Napoli 1 ottobre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1961.10, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672633</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1961.11.02, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672635</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1961.11.03, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1961.11.02, n.260.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1961.11.04, n.262.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672692</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1961.11.04, a.83, n.306.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

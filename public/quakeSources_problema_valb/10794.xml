@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>10794</nterr>
+      <nperiod>000234</nperiod>
+      <datanum>18760529</datanum>
+      <data_label>1876 05 29</data_label>
+      <anno>1876</anno>
+      <mese>05</mese>
+      <giorno>29</giorno>
+      <time_label>10:45</time_label>
+      <ora>10</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>45.7304</lat>
+      <lon>10.7854</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Osservazioni meteorologiche fatte nelle stazioni italiane presso le Alpi e gli Appennini e pubblicate per cura del Club Alpino Italiano dall’Osservatorio di Moncalieri, a.6 (dicembre 1876-novembre 1877).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>010041</codbib>
+      <autore1>Schorn J.</autore1>
+      <titolo1>Die Erdbeben von Tirol und Vorarlberg, in "Zeitschrift des Ferdinandeums für Tirol und Vorarlberg", s.III, a.1902, fasc.46, pp.99-282.</titolo1>
+      <luogoed>Innsbruck</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolano Cremonese, 1876.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020124</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Cremonese, 1876.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Torrazzo, 1876-1919.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1876 - 1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030322</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Trento, 1876.12.14.</titolo1>
+      <luogoed>Trento</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050442</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta dell’Emilia, 1868-1899.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1868 - 1899</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071066</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1866-1927.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1866 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071166</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria, 1876.05.02.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071167</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria, 1876.05.03.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071169</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ancora. Foglio settimanale per le Romagne, Marche ed Umbria, 1868-1879.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1868 - 1879</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160046</codbib>
+      <autore1>Bruni G.</autore1>
+      <titolo1>Osservazioni meteorologiche da settembre 1877 all’agosto 1878, in "Commentari dell’Ateneo di Brescia per l’anno 1878".</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1878</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160057</codbib>
+      <autore1>Cacciamali G.B.</autore1>
+      <titolo1>Bradisismi e terremoti nella regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1902".</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160059</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Note storiche su terremoti, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.209-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380184</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.04.30, a.11, n.116.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380185</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.01, a.11, n.117.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380186</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.02, a.11, n.118.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380187</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.04, a.11, n.120.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380188</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.09, a.11, n.125.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380189</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.10, a.11, n.126.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380191</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.12, a.11, n.128.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380192</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.16, a.11, n.134.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380194</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.05.30, a.11, n.145.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380196</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1876.06.12, a.11, n.157.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380211</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1877.10.05, a.12, n.268.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380338</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Prefettura, Commissariato distrettuale di Caprino, bb.49, 105, 106, 111, 112, 113, 114, 115, 116, 117 (1866-1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1866 - 1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380340</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Prefettura, Commissione conservatrice dei monumenti ed oggetti d’arte e antichità, bb.170, 171, 172 (1866-1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1866 - 1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380341</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Prefettura di Verona, Acque, bb.670, 671, 672, 681, 683, 685 (1870-1878).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1870 - 1878</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380342</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Prefettura di Verona, Strade obbligatorie del distretto di Bardolino, b.512 (1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380345</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Genio Civile, b.65, Piene, disastri, Corrispondenza (1856-1885).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1856 - 1885</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380352</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Malcesine, b.191, Consiglio Comunale, Deliberazioni (1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380353</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Malcesine, b.190, Amministrazione, Istruzione Pubblica, Culto e Stato Civile (1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380354</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Malcesine, b.189, Amministrazione, Istruzione Pubblica, Demanio, Culto (1876).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380360</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Brenzone, Atti del Carteggio, bb.149-151 (1876); bb.168-169 (1882); b.207 (1895).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876 - 1895</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380361</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Accademia di Agricoltura, Scienze e Lettere di Verona, faldoni 1841-42, 1867, 1868, 1875, 1876, 1877, 1887.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1841 - 1887</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380365</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico della Curia Vescovile di Verona, Parrocchie, Malcesine (b.1), Brenzone (b.1), Castelletto di Brenzone (b. unica), Castel Brenzone (bb.1-2), Tregnago (b.1), Sanguinetto (b.1), 1841-1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1841 - 1895</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>430057</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1877.10.03, n.273.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>430058</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1877.10.06, n.276.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>430059</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1877.10.07, n.277.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480262</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1877.10.06, n.234.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650123</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria Italiana, 1864-1890.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1864 - 1890</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690159</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1876.05.06, n.106</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere del Mincio, 1876.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820055</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [16 marzo 1876 ­ settembre 1876], in "Bullettino del Vulcanismo Italiano", a.5, pp.46-48, 83-96, 141-142.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1878</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Cassone</desloc>
+      <lat_wgs84>45.7343</lat_wgs84>
+      <lon_wgs84>10.7895</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>10794</nterr>
+      <nloc_cfti>022852.00</nloc_cfti>
+      <desloc_cfti>Cassone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Assenza</desloc>
+      <lat_wgs84>45.7265</lat_wgs84>
+      <lon_wgs84>10.7812</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>10794</nterr>
+      <nloc_cfti>022347.00</nloc_cfti>
+      <desloc_cfti>Assenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>10794</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Ferrara di Monte Baldo</desloc>
+      <lat_wgs84>45.6769</lat_wgs84>
+      <lon_wgs84>10.8534</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>10794</nterr>
+      <nloc_cfti>022629.00</nloc_cfti>
+      <desloc_cfti>Ferrara di Monte Baldo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Malcesine</desloc>
+      <lat_wgs84>45.7646</lat_wgs84>
+      <lon_wgs84>10.8091</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>10794</nterr>
+      <nloc_cfti>022856.00</nloc_cfti>
+      <desloc_cfti>Malcesine</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

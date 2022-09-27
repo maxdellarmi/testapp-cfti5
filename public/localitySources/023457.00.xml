@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>023457.00</nloc_cfti>
+      <desloc_cfti>Sommacampagna</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>8.1</maxint>
+      <lat_wgs84>45.4075</lat_wgs84>
+      <lon_wgs84>10.8433</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17186</nterr>
+      <nperiod>000326</nperiod>
+      <datanum>18991115</datanum>
+      <data_label>1899 11 15</data_label>
+      <anno>1899</anno>
+      <mese>11</mese>
+      <giorno>15</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.4041</lat>
+      <lon>11.4399</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>25</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Vicentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22936</nterr>
+      <nperiod>000407</nperiod>
+      <datanum>19091224</datanum>
+      <data_label>1909 12 24</data_label>
+      <anno>1909</anno>
+      <mese>12</mese>
+      <giorno>24</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.5721</lat>
+      <lon>10.3486</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>39</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Garda bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14476</nterr>
+      <nperiod>003344</nperiod>
+      <datanum>18920809</datanum>
+      <data_label>1892 08 09</data_label>
+      <anno>1892</anno>
+      <mese>08</mese>
+      <giorno>09</giorno>
+      <time_label>07:58</time_label>
+      <ora>07</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>45.5671</lat>
+      <lon>11.2041</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>160</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle d’Alpone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00035</nterr>
+      <nperiod>000007</nperiod>
+      <datanum>11170103</datanum>
+      <data_label>1117 01 03</data_label>
+      <anno>1117</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3665</lat>
+      <lon>11.1673</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>55</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.1</intpqnum>
+      <intpq>C</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080031</codbib>
+      <autore1>Porter A.K.</autore1>
+      <titolo1>Lombard Architecture, 4 voll. (ristampa anastatica, New York 1967),</titolo1>
+      <luogoed>New Haven</luogoed>
+      <datacompl>1915 - 1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040914</codbib>
+      <autore1>D’Arcais F. F.</autore1>
+      <titolo1>Per una lettura dell’architettura chiesastica nel territorio veronese, in "Chiese e Monasteri nel Territorio Veronese", a cura di G. Borelli.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040970</codbib>
+      <autore1>Romanini A. M.</autore1>
+      <titolo1>L’arte romanica in Verona e il suo territorio.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040933</codbib>
+      <autore1>Arslan W.</autore1>
+      <titolo1>La pittura e la scultura veronese dal secolo VIII al sec.XIII.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1943</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380009</codbib>
+      <autore1>Arslan W.</autore1>
+      <titolo1>L’Architettura romanica veronese.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062134.00</nloc_cfti>
+      <desloc_cfti>Tressanti</desloc_cfti>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>41.3955</lat_wgs84>
+      <lon_wgs84>15.8606</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01667</nterr>
+      <nperiod>001011</nperiod>
+      <datanum>17310320</datanum>
+      <data_label>1731 03 20</data_label>
+      <anno>1731</anno>
+      <mese>03</mese>
+      <giorno>20</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.2743</lat>
+      <lon>15.7567</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>49</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Foggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto fu rovinoso e causò il crollo di una masseria e la morte di 18 persone $(000001,110079,300324,780137)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110079</codbib>
+      <autore1>*</autore1>
+      <titolo1>Racconto di varie notizie accadute nella città di Napoli dall’anno 1700 al 1732, in "Archivio Storico per le Province Napoletane", a.31, pp.428-508, 693-736; a.32, pp.132-181, 378-426, 587-635, 798-840.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1906 - 1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300324</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta Relazione dell’orribile tremuoto accaduto in quasi tutto il Regno di Napoli, mà col danno maggiore nella Città di Foggia nella Puglia, con il miracoloso portento dello scoprimento della Sacra Imagine di Maria Santissima dell’Assunta, adorata in Foggia sotto il titolo di Icona vetere, con la notizia della invenzione di detta Sacra Imagine, &amp; altri portentosi successi.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780137</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione dello spaventoso Tremuoto intesosi la Mattina de’ 20 Marzo di quest’Anno 1731 con danno indicibile delle Città della Puglia, e specialmente quella di Foggia.</titolo1>
+      <luogoed>Roma-Venezia</luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

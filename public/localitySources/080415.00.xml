@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080415.00</nloc_cfti>
+      <desloc_cfti>Bled</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>46.3715</lat_wgs84>
+      <lon_wgs84>14.1129</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07456</nterr>
+      <nperiod>003205</nperiod>
+      <datanum>18500710</datanum>
+      <data_label>1850 07 10</data_label>
+      <anno>1850</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.3669</lat>
+      <lon>13.9582</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>10</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente $(455078)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16153</nterr>
+      <nperiod>000743</nperiod>
+      <datanum>18970715</datanum>
+      <data_label>1897 07 15</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>05:57</time_label>
+      <ora>05</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>46.0588</lat>
+      <lon>14.5032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>53</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Fu avvertita una scossa della durata di 3 secondi $(455037)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00540</nterr>
+      <nperiod>000078</nperiod>
+      <datanum>15110326</datanum>
+      <data_label>1511 03 26</data_label>
+      <anno>1511</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>14:40</time_label>
+      <ora>14</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>46.1982</lat>
+      <lon>13.4309</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>7</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il castello fu gravemente danneggiato o distrutto dalla scossa del 26 marzo. Secondo Ribaric il quadro di danni corrispondono al grado VIII MSK $(130470)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130470</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>The Idrija earthquake of March 26, 1511, a reconstruction of some seismological parameters, in "Tectonophysics", a.53 (1979), pp.315-324.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455037</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1897.07.17, n.195.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Friuli, 1850.07.18, a.2, n.158.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1850</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062022.00</nloc_cfti>
+      <desloc_cfti>Tortorella</desloc_cfti>
+      <provlet>SA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>40.1426</lat_wgs84>
+      <lon_wgs84>15.6066</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42007</nterr>
+      <nperiod>003257</nperiod>
+      <datanum>19820321</datanum>
+      <data_label>1982 03 21</data_label>
+      <anno>1982</anno>
+      <mese>03</mese>
+      <giorno>21</giorno>
+      <time_label>09:44:01</time_label>
+      <ora>09</ora>
+      <minu>44</minu>
+      <sec>01</sec>
+      <lat>40.0085</lat>
+      <lon>15.7661</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>125</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Golfo di Policastro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il comune fu compreso tra quelli danneggiati nella regione Campania. Il terremoto causò danni diffusi che richiesero demolizioni o sgombero di abitazioni inagibili e necessità di reperire alloggi temporanei per le famiglie evacuate $(035035)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035035</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1982.03.26.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

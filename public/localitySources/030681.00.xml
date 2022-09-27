@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>030681.00</nloc_cfti>
+      <desloc_cfti>Lovea</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>46.4802</lat_wgs84>
+      <lon_wgs84>13.0969</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21142</nterr>
+      <nperiod>003219</nperiod>
+      <datanum>19080710</datanum>
+      <data_label>1908 07 10</data_label>
+      <anno>1908</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:13:35</time_label>
+      <ora>02</ora>
+      <minu>13</minu>
+      <sec>35</sec>
+      <lat>46.4655</lat>
+      <lon>13.1904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>120</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa, accompagnata da rombo, causò danni. Gli abitanti videro alberi e fabbricati oscillare $(455117)$. Quasi tutti gli edifici riportarono dei danni. Molti muriccioli caddero $(455117)$. Sui tetti le tegole scivolarono dalla loro posizione di una ventina di centimetri e molte caddero $(455117)$. Molti comignoli furono danneggiati e uno crollò completamente. Nei muri si aprirono lesioni tanto che si temettero crolli nelle case vecchie. La scuola in particolare fu molto danneggiata, anche a causa delle repliche successive e divenne inagibile $(071710,455080)$. I 7 archivolti della navata centrale della chiesa risultarono aver subìto piccole fenditure nell’intonaco alla sommità, nell’angolo formato dalla facciata e dal soffitto si rilevò una fenditura di 8 mm, la facciata risultò leggermente spostata. Una bambina rimase ferita alla testa da una tegola caduta da un tetto $(455117,071710)$. Le acque della fontana si intorbidarono $(455119)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38902</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760506</datanum>
+      <data_label>1976 05 06</data_label>
+      <anno>1976</anno>
+      <mese>05</mese>
+      <giorno>06</giorno>
+      <time_label>20:00:13</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>13</sec>
+      <lat>46.235</lat>
+      <lon>13.0572</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>525</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa del 6 maggio, delle 21:00 (20:00 GMT), causò gravi danni a molte abitazioni e alla scuola, che divenne parzialmente inagibile $(002144)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002144</codbib>
+      <autore1>Ambraseys N.N.</autore1>
+      <titolo1>The Gemona di Friuli Earthquake of 6 May 1976, in "The Gemona di Friuli Earthquake of 6 May 1976", UNESCO, Restricted Technical Report, RP/1975-76/2.222.3, pt.2.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455117</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria del Friuli, 1908.07.13, a.32, n.166.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071710</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1908.07.14.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455080</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1908.07.14, a.166, n.193.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455119</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria del Friuli, 1908.07.21, a.32, n.173.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455120</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Patria del Friuli, 1908.07.23, a.32, n.175.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

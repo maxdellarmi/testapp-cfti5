@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073801.00</nloc_cfti>
+      <desloc_cfti>Cavrenno</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.1914</lat_wgs84>
+      <lon_wgs84>11.3514</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 29 giugno 1919 causò danni per 4.200 lire alla chiesa parrocchiale di S.Michele Arcangelo; lo Stato sostenne il 75% dei costi di riparazione $(671247,671246,671245,671244)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>671247</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1060, tit.11151 (Cavrenno, Firenzuola. Parrocchia S.Michele), Minuta di lettera del Ministero della Giustizia e degli affari di culto Divisione 8ª Sezione 3ª all’economo generale dei Benefici vacanti di Firenze, Roma 30 ottobre 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671246</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1060, tit.11151 (Cavrenno, Firenzuola. Parrocchia S.Michele), Lettera dell’ispettore generale dei Servizi speciali del Ministero dei Lavori pubblici D.Romano al Ministero della Giustizia e degli affari di culto Divisione 8ª, Roma 21 ottobre 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671245</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1060, tit.11151 (Cavrenno, Firenzuola. Parrocchia S.Michele), Lettera del Ministero della Giustizia e degli affari di culto Divisione 12ª Sezione 3ª all’economo generale dei Benefici vacanti di Firenze, Roma 27 ottobre 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671244</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1060, tit.11151 (Cavrenno, Firenzuola. Parrocchia S.Michele), Lettera del Ministero dei Lavori pubblici Direzione generale servizi speciali al Ministero della Giustizia e degli affari di culto Divisione 12ª, Roma 18 ottobre 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

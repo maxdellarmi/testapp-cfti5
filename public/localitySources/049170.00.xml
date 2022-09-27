@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049170.00</nloc_cfti>
+      <desloc_cfti>Ranzola</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.4553</lat_wgs84>
+      <lon_wgs84>12.1072</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26054</nterr>
+      <nperiod>002079</nperiod>
+      <datanum>19170426</datanum>
+      <data_label>1917 04 26</data_label>
+      <anno>1917</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>09:35:59</time_label>
+      <ora>09</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>43.4678</lat>
+      <lon>12.129</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>134</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto fu rovinoso, causò crolli e gravi danni $(092082)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092082</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Terremoto umbro-aretino, 26 aprile 1917 (centri sismici), in "Atti della Pontificia Accademia Romana dei Nuovi Lincei", a.70 (1916-1917), pp.113-118.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

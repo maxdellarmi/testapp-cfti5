@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>38214</nterr>
+      <nperiod>000698</nperiod>
+      <datanum>19740114</datanum>
+      <data_label>1974 01 14</data_label>
+      <anno>1974</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>08:46:50</time_label>
+      <ora>08</ora>
+      <minu>46</minu>
+      <sec>50</sec>
+      <lat>44.9137</lat>
+      <lon>9.1294</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>3.5</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.7</mm>
+      <earthquakelocation>Appennino pavese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021234</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel, 1974.01, Bureau Central International de Sismologie.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1974.01-03, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>330423</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1974.01.15.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Appennino pavese</desloc>
+      <lat_wgs84>44.834</lat_wgs84>
+      <lon_wgs84>9.2496</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>38214</nterr>
+      <nloc_cfti>090249.00</nloc_cfti>
+      <desloc_cfti>Appennino pavese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Voghera</desloc>
+      <lat_wgs84>44.9933</lat_wgs84>
+      <lon_wgs84>9.0093</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>38214</nterr>
+      <nloc_cfti>018431.00</nloc_cfti>
+      <desloc_cfti>Voghera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pavia</desloc>
+      <lat_wgs84>45.19</lat_wgs84>
+      <lon_wgs84>9.1597</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>38214</nterr>
+      <nloc_cfti>017853.00</nloc_cfti>
+      <desloc_cfti>Pavia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

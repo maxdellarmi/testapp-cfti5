@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+	<link rel="stylesheet" href="../css/help.css" />
+	<link rel="icon" type="image/x-icon" href="../favicon.ico">
+	<title>CFTI5Med - HELP</title>
+    <link rel="stylesheet" type="text/css" href="../css/cookies.css" />
+	<script src="../js/cookieconsent.min.js"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7751503-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-7751503-2', { 'anonymize_ip': true });
+	</script>
+</head>
+
+<body>
+
+	<div id = "pageheader">
+		<div id="pagetitle">WEB-INTERFACE USER GUIDE</div>
+		<div id = "banner">
+			<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="../images/banner_CFTI_newG_thin_EN.png" alt="Header CFTI" height="32px" /></a><a href="http://www.ingv.it/" target = "_blank"><img src="../images/ingv-logo_small.png" alt="Header INGV" width= "30px" /></a>
+		</div>
+	</div>
+
+	<div id = "content">
+	    <script type="text/javascript" >
+	        function showTEXT(idname){
+	            document.getElementById(idname).style.display = "block";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "none";
+	        	document.getElementById(id2).style.display = "inline";
+	            // document.getElementById(idname).scrollIntoView(false);
+	        }
+
+	        function hideTEXT(idname){
+	        	document.getElementById(idname).style.display = "none";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "inline";
+	        	document.getElementById(id2).style.display = "none";
+	        }
+
+	    </script>
+
+	    <!-- <div id="showALL">
+	        <a onclick="showTEXT('struttgen1'); showTEXT('struttgen2'); showTEXT('struttgen3'); showTEXT('home1'); showTEXT('home2'); showTEXT('home3'); showTEXT('home4'); showTEXT('home5'); showTEXT('home6'); showTEXT('home7'); showTEXT('home8'); showTEXT('home9'); showTEXT('home10'); showTEXT('home11');  showTEXT('quake1'); showTEXT('quake2'); showTEXT('quake3'); showTEXT('loc1'); showTEXT('loc2'); showTEXT('loc3'); return false" href="#">
+	        MOSTRA TUTTO
+	        </a>
+	    </div> -->
+
+
+	<!-- //======================================      STRUTTURA GENERALE    =================================================== -->
+
+	<p> This guide is intended to supply a general overview of the web-interface structure and functionality. Please visit the <a href="info_IT.html" target="_new" ><font color="#1f708f">INFO</font></a> section for further information on the contents of the Catalogue.</p>
+
+	    <div>
+	        <a onclick="showTEXT('struttgen1'); return false" href="#" id="showTEXTstruttgen1" class="showTEXT">
+	            <h1>General structure</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('struttgen1'); return false" href="#" id="hideTEXTstruttgen1" class="hideTEXT">
+	            <h1>General structure</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="struttgen1" class="HELP-INFOtext">
+
+			<p>The general structure of the web-interface follows the scheme shown below. The three frames on the left are the three types of access to the contents of the CFTI catalogue (page of access to the list of earthquakes, localities or effects on the natural environment), while the two frames on the right are the pages that describe an individual earthquake or locality. The red arrows indicate the connections between the different page types. </p>
+	        <p style="text-align:center;"><img src="../images/HELP/struct_gen_EN.png" alt="struttura gen_EN" width="80%" /></p>
+	        <p>All web-pages have a similar structure (see figure below), consisting of an informative section on the left (a selection panel and/or tables and/or additional information) and a map on the right, showing markers of earthquakes / localities / effects on the natural environment / macroseismic observations. all are listed in the table located in the left frame. </p>
+	        <p>The left frame also hosts two icons that allow the selected data to be exported in text or kml format.</p>
+	        <p>Additional tools on the map include:</p>
+	        <ul>
+	        <li>Geographic search box (based on Google Maps)</li>
+
+			<li>Two buttons to add map overlays:
+				<ul>
+				<li>the top button opens a list of map overlays that can be displayed on the basemap (note that the availability of some layers is scale-dependent):</li>
+			        <ul>
+						<li>Borders of Italian Comuni ISTAT 2016</li>
+				        <li>Borders of Italian Province ISTAT 2016</li>
+				        <li>Borders of Italian Regioni ISTAT 2016</li>
+				        <li>IGM topographic map at 1:25,000 scale (from Portale Cartografico Nazionale &ndash; PCN)</li>
+				        <li>IGM topographic map at 1:100,000 scale (from PCN)</li>
+				        <li>DISS Individual Seismogenic Sources &ndash; ISS (from INGV)</li>
+				        <li>DISS Composite Seismogenic Sources &ndash; CSS (from INGV)</li>
+				        <li>DISS Subduction Zones (from INGV)</li>
+				        <li>Geologic map at 1:100,000 scale (from ISPRA)</li>
+				        <li>Landslide catalogue (from PCN), with a web-interface that can be displayed by clicking on the "Legend" button</li>
+		        	</ul>
+
+				<li>the other button opens a window that allows the user to add to the map the instrumental earthquake locations supplied by the surveillance service of INGV (between 1985 and today), based on queries made through a selection panel. The epicenters are shown on the map after hitting the 'OK' button. The figure below shows an example of a map with CFTI5 epicenters, instrumental earthquake locations and the DISS Composite Seismogenic Sources. </li>
+
+				</ul>
+	        </li>
+
+	        <li>A legend of map markers</li>
+	        <li>A dropdown menu for the selection of Google basemaps </li>
+	        <li>A box displaying the geographical coordinates of the mouse pointer on the map.</li>
+	        </ul>
+	        <p style="text-align:center;"><img src="../images/HELP/structure1_EN.png" width="80%" /></p>
+			<p style="text-align:center;"><img src="../images/HELP/Index_DISS-strum_EN.png" width="60%" /></p>
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('struttgen2'); return false" href="#" id="showTEXTstruttgen2" class="showTEXT">
+	            <h3>Informative windows</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('struttgen2'); return false" href="#" id="hideTEXTstruttgen2" class="hideTEXT">
+	            <h3>Informative windows</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="struttgen2" class="HELP-INFOtext">
+
+	        <p>In all types of pages, all markers and some table elements are clickable. By clicking on them, an informative window (infowindow) is displayed on the map (connected to the corresponding marker) and the corresponding table line is highlighted in yellow. The infowindow contains information on the selected earthquake / locality / macroseismic observation / effects on the natural environment and direct links to the page of individual locality and/or individual earthquake. The figure below shows the connections between all different types of pages through the links contained in the infowindows. </p>
+	        <p>&nbsp;</p>
+	        <p style="text-align:center;"><img src="../images/HELP/IW_collegam_EN.png" width="100%" /></p>
+			<p>The infowindows contain also texts (historical-critical comments) describing the effects of the earthquakes on the built and natural environment. The references to relevant bibliography (referred to in the text with numbers) are listed below each text, followed by a link to the corresponding pdf file, when available. Each bibliographic source may be available either as a transcribed text (PDF_T), or as a scanned copy of the original source (PDF_R), or both. The pdf files can be accessed by clicking on the "PDF_T" and/or "PDF_R" links (see figure below).
+	        <p>Through a link contained in the header of all pdf files, the user can access the referencing information needed to use the material provided (see figure below).</p>
+	        <p style="text-align:center;"><img src="../images/HELP/fonte_daIW_EN.png" width="80%" /></p>
+	        <p style="text-align:center;"><img src="../images/HELP/fonte_daIW_R_EN.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+
+	    <div>
+	        <a href="#" onclick="showTEXT('struttgen3'); return false" id="showTEXTstruttgen3" class="showTEXT">
+	            <h3>Useful information for navigating the website</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a href="#" onclick="hideTEXT('struttgen3'); return false"  id="hideTEXTstruttgen3" class="hideTEXT">
+	            <h3>Useful information for navigating the website</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="struttgen3" class="HELP-INFOtext">
+			<p>Following are some useful tips:
+	        <ul>
+			<li>clicking on the CFTI5Med banner on top of all pages brings you back to the home page (Access by earthquake page);</li>
+	        <li>the navigation is guided by contextual help messages that appear any time the mouse rolls over an icon, table header, query section, etc; </li>
+	        <li>all tables are sortable by clicking on any column header;</li>
+	        <li>hit the 'OK' button to run a query set through the selection panels for all three modes of access to the catalogue information);</li>
+	        <li>the background colors of infowindow titles indicate the type of information given. All information on earthquakes is shown with a light blue title, while information on localities is shown with a light red title. The same colors are used as a background for the info|disclaimer|help menu on the top-left corner of the pages showing individual localities and individual earthquakes and for the pages of access by earthquake and locality;</li>
+			<li>map locations are given with geographical coordinates (WGS84) in degrees rounded to three decimal places;</li>
+			<li>clicking on epicentral markers that overlap or are very close turns them blue: the symbols are displayed in a circle, with black bars connecting them to their original position. Their size, that is proportional to epicentral intensity following the size scheme shown in the legend, remains unchanged. Similarly to any other markers on the map, clicking on a blue marker opens an infowindow, (see figure below).</li>
+	        </ul>
+			<p style="text-align:center;"><img src="../images/HELP/spider_EN.png" width="80%" /></p>
+	        </p>
+	    </div>
+	    <hr>
+
+
+	<!-- //======================================      HOME    =================================================== -->
+
+	    <div>
+	        <a onclick="showTEXT('home1'); return false" href="#" id="showTEXThome1" class="showTEXT">
+	            <h1>Page of access to the Catalogue</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home1'); return false" href="#" id="hideTEXThome1" class="hideTEXT">
+	            <h1>Page of access to the Catalogue</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home1" class="HELP-INFOtext">
+	        <p>A dropdown menu in the top-left corner of the page allows the user to choose whether to access the Catalogue contents by earthquakes, by locality or by effects on the natural environment (see figure below). The page loaded on startup of the web-interface is the access by earthquakes. </p>
+	        <p style="text-align:center;"><img src="../images/HELP/Index_menuSelection_EN.png" width="80%" /></p>
+	        <p>The three types of access have a similar structure consisting of:</p>
+	        <ul>
+			<li>SELECTION PANEL: located in the top-left frame, it allows database search by different criteria explained in the following sections of this guide (hit the "OK" button to apply the query);</li>
+	        <li>TABLE: located below the selection panel, it contains the list of earthquakes / localities / effects on the natural environment selected by the user;</li>
+	        <li>MAP: contains the markers corresponding to the table lines.</li>
+	        </ul>
+	        <p>&nbsp;</p>
+	    </div>
+	    <hr>
+
+
+
+	    <div>
+	        <a onclick="showTEXT('home2'); return false" href="#" id="showTEXThome2" class="showTEXT">
+	            <h2>1.&nbsp;&nbsp; Access by earthquakes</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home2'); return false" href="#" id="hideTEXThome2" class="hideTEXT">
+	            <h2>1.&nbsp;&nbsp; Access by earthquakes</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home2" class="HELP-INFOtext">
+			<p>The page of access by earthquake is the home page of the web-interface and allows the user to query and display the list of earthquakes contained in the CFTI database. Database queries can be made through the selection panel. By default, on startup the page shows strong earthquakes (epicentral intensity equal to or bigger than VIII-IX on the MCS scale) in the Italian region only. For further information on the epicenter types see section <a href="info_EN.html#INFOlocalizeq" target="_blank";>Location of individual earthquakes: typologies and map representation</a> of the INFO page.</p>
+	        <p>By clicking on an earthquake, either a line of the table (date of the earthquake) or a marker on the map, an informative window is displayed (connected to the marker) containing general information on that earthquake, plus a direct link to the page describing it in detail (by clicking on "Earthquake page").</p>
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('home3'); return false" href="#" id="showTEXThome3" class="showTEXT">
+	            <h3>Selection panel</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home3'); return false" href="#" id="hideTEXThome3" class="hideTEXT">
+	            <h3>Selection panel</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home3" class="HELP-INFOtext">
+			<p>The selection panel on the top-left corner of the page allows the user to make queries in the earthquake database based on the following criteria:</p>
+	        <ul>
+	        <li><strong>Time period</strong>: for the Italian earthquakes the time range is 461 B.C.-1997, while for Mediterranean earthquakes it is 760 B.C. - 1500</li>
+	        <li><strong>Area</strong>: the user can make queries by setting latitude and longitude bounds or by using a graphic rectangle that is displayed on the map by clicking on the corresponding button (see figure below). From the dropdown menu the user can choose whether to display only Italian, only Mediterranean or all earthquakes. Italian earthquakes are meant to be events located in Italy or in the Mediterranean area but causing effects in Italy, while Mediterranean earthquakes are all events causing effects only outside Italy. </li>
+	        <li><strong>Epicentral intensity or equivalent magnitude</strong>: these two queries are alternative. By default, the active query is by epicentral intensity. The user can activate the selection by magnitude by clicking on the corresponding button. The user can also include false events in the selection by activating the related check-box. </li>
+	        </ul>
+			The query, applied by hitting the "OK" button, modifies the list of earthquakes listed in the table and displayed in the map.
+			<p>The 'WMS' e 'WFS' icons allow the user to access the OGC web services for the entire Catalogue (all epicentral parameters of the CFTI5Med catalogue). When clicking an icon, the link to the corresponding OGC service is displayed and copied to the clipboard.</p>
+	        <!-- <p style="text-align:center;"><img src="../images/HELP/Index_pannelloSel.png" width="40%" /></p> -->
+			<p style="text-align:center;"><img src="../images/HELP/Index_rettangolo_EN.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('home4'); return false" href="#" id="showTEXThome4" class="showTEXT">
+	            <h3>Timeline chart</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home4'); return false" href="#" id="hideTEXThome4" class="hideTEXT">
+	            <h3>Timeline chart</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home4" class="HELP-INFOtext">
+	        <p>A timeline chart showing the intensity vs time distribution of the selected earthquakes is displayed between the selection panel and the table. Rolling-over  the mouse along the bars returns the epicentral information for each displayed earthquake . The chart contains the same events listed in the table and shown on the map. By clicking on the icons in the top-left corner of the chart the user may enlarge the graph horizontally and save it as a .png image. </p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home5'); return false" href="#" id="showTEXThome5" class="showTEXT">
+	            <h3>Table</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home5'); return false" href="#" id="hideTEXThome5" class="hideTEXT">
+	            <h3>Table</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home5" class="HELP-INFOtext">
+
+			<p>The table lists the earthquakes selected by the user through the above selection panel. For each earthquake, the following information is given:</p>
+	        <ul>
+	        <li><strong>Date: </strong>earthquake origin date (year month day)</li>
+	        <li><strong>Time: </strong>earthquake origin time expressed as Greenwich Mean Time (hour:minutes:seconds)</li>
+	        <li><strong>Io: </strong>epicentral intensity (MCS)</li>
+	        <li><strong>Imax: </strong>maximum Intensity (MCS)</li>
+	        <li><strong>NMO:</strong> Number of Macroseismic Observations for the given earthquake</li>
+	        <li><strong>Me:</strong> equivalent magnitude based on macroseismic observations</li>
+	        <li><strong>Epicentral area</strong></li>
+			<li><strong>Notes: </strong>
+	        <ul>
+	        <li>F: false</li>
+	        <li>D: doubtful</li>
+			<li>S: epicentral parameters based on a single intensity datapoint</li>
+			<li>E: epicentral location from foreign catalogue</li>
+	        <li>N: no macroseismic observations available</li>
+	        </ul>
+			</li>
+			<li><strong>Liv:</strong> review level of the study
+				<ul>
+		        <li><img src="../images/EQlevel_A.png" width="20px" vertical-align="-10px"> high</li>
+		        <li><img src="../images/EQlevel_I.png" width="20px" vertical-align="-10px"> medium</li>
+				<li><img src="../images/EQlevel_S.png" width="20px" vertical-align="-10px"> low</li>
+		        </ul>
+				</li>
+	        </ul>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home6'); return false" href="#" id="showTEXThome6" class="showTEXT">
+	            <h2>2.&nbsp;&nbsp; Access by locality</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home6'); return false" href="#" id="hideTEXThome6" class="hideTEXT">
+	            <h2>2.&nbsp;&nbsp; Access by locality</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home6" class="HELP-INFOtext">
+	        <p>This page allows the user to view all localities contained in the CFTI database and search among them. Each locality is shown in the map with a color corresponding to its maximum intensity (MCS) reported in the Catalogue. Database queries can be made using the selection panel. By default, all localities in the database are shown in the map and listed in the table.</p>
+			<p>By clicking on a locality, either a line of the table (locality name) or a marker on the map, an informative window is displayed, containing information on the locality and a direct link to the page of the individual locality (by clicking "Locality page").</p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home7'); return false" href="#" id="showTEXThome7" class="showTEXT">
+	            <h3>Selection panel</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home7'); return false" href="#" id="hideTEXThome7" class="hideTEXT">
+	            <h3>Selection panel</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home7" class="HELP-INFOtext">
+			<p>The selection panel in the top-left corner of the page allows the user to search for a specific locality (by typing its name in the search box) or make a query based on a maximum intensity interval. The query, applied by hitting the "OK" button, modifies the localities listed in the table and displayed in the map.</p>
+	        <p style="text-align:center;"><img src="../images/HELP/Index_LOC_panSel_EN.png" width="40%" /></p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home8'); return false" href="#" id="showTEXThome8" class="showTEXT">
+	            <h3>Table</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home8'); return false" href="#" id="hideTEXThome8" class="hideTEXT">
+	            <h3>Table</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home8" class="HELP-INFOtext">
+	        <p>The table lists the localities selected by the user through the above selection panel. By default, all localities of the database are shown. For each locality, the following information is given:
+	        <ul>
+				<li><strong>Locality: </strong>name of locality</li>
+		        <li><strong>Prov/Coun:</strong> Italian Province / foreign Country</li>
+		        <li><strong>NMO:</strong> Number of Macroseismic Observations available for the given site</li>
+				<li><strong>NNat:</strong> Number of effects on the Natural environment</li>
+		        <li><strong>Imax: </strong>Maximum Intensity reported at the given site (MCS scale)</li>
+		        <li><strong>Lat: </strong>latitude of locality</li>
+		        <li><strong>Lon: </strong>longitude of locality</li>
+	        </ul>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home9'); return false" href="#" id="showTEXThome9" class="showTEXT">
+	            <h2>3.&nbsp;&nbsp; Access by effects on the natural environment</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home9'); return false" href="#" id="hideTEXThome9" class="hideTEXT">
+	            <h2>3.&nbsp;&nbsp; Access by effects on the natural environment</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home9" class="HELP-INFOtext">
+			<p>This page allows the user to view all earthquake-induced effects on the natural environment contained in the CFTI database. They are shown in the map with symbols related to the type of observed natural phenomenon. All symbols are listed in the selection panel located in the top-left corner of the page (a description for each of them is shown at mouse roll-over). By default, on start up all effects contained in the database are shown in the map and listed in the table. Queries can be made through the selection panel.</p>
+			<p>By clicking a locality, either a line of the table (name of locality) or a marker on the map, an informative window is displayed listing all effects reported at the given locality (i.e. related to all the earthquakes that caused effects on the natural environment at the given locality). All lines of the table corresponding to the effects listed in the infowindow are highlighted in yellow. From the infowindow the user can access the page of each individual locality (through a link next to the locality name) and each individual earthquake (through the link next to each listed earthquake).</p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home10'); return false" href="#" id="showTEXThome10" class="showTEXT">
+	            <h3>Selection panel</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home10'); return false" href="#" id="hideTEXThome10" class="hideTEXT">
+	            <h3>Selection panel</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home10" class="HELP-INFOtext">
+	        <p>The selection panel contains buttons corresponding to all types of effects on the natural environment. A short description of each of them is shown at mouse roll-over. The user can select (colored icon) or deselect (gray icon) each of them simply by clicking the icons or select/deselect groups of effects with the check-boxes next to the title of each panel. The query, applied by hitting the "OK" button, modifies the list of effects listed in the table and displayed in the map.
+			<p style="text-align:center;"><img src="../images/HELP/Index_EE_panSel_EN.png" width="40%" /></p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home11'); return false" href="#" id="showTEXThome11" class="showTEXT">
+	            <h3>Table</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home11'); return false" href="#" id="hideTEXThome11" class="hideTEXT">
+	            <h3>Table</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home11" class="HELP-INFOtext">
+	        <p>The table lists the effects on the natural environment selected by the user through the above selection panel. By default, all effects contained in the database are shown.</p>
+	        <ul>
+				<li><strong>Type: </strong>type of effect on the natural environment, represented by an icon to the left of the column. A full dot or a circle to the right indicates effects associated with an individual earthquake or with a whole earthquake sequence, respectively.</li>
+				<li><strong>Date: </strong>earthquake origin date (year month day)</li>
+		        <li><strong>Time: </strong>earthquake origin time expressed as Greenwich Mean Time (hour:minutes:seconds)</li>
+		        <li><strong>Io: </strong>epicentral intensity (MCS scale)</li>
+		        <li><strong>Me:</strong> equivalent magnitude based on macroseismic observations</li>
+		        <li><strong>Epicentral area</strong></li>
+	        </ul>
+	    </div>
+	    <hr>
+
+
+	<!-- //======================================      PAGINA DEL SINGOLO TERREMOTO    =================================================== -->
+
+	    <div>
+	        <a onclick="showTEXT('quake1'); return false" href="#" id="showTEXTquake1" class="showTEXT">
+	            <h1>Page of individual earthquake</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake1'); return false" href="#" id="hideTEXTquake1" class="hideTEXT">
+	            <h1>Page of individual earthquake</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake1" class="HELP-INFOtext">
+	        <p>This page describes the effects of the given earthquake on the built and natural environment. The structure of the page is shown in the figure below and consists of:</p>
+	        <ul>
+	        <li><strong>Parameters of the earthquake and of the entire earthquake sequence</strong>: table with parameters for the given earthquake and for all earthquakes reported in the Catalogue as belonging to the same earthquake sequence. The given earthquake (shown in the map) is highlighted in yellow. The table contains the following information:
+	        <ul>
+				<li><strong>Date: </strong>earthquake origin date (year month day)</li>
+		        <li><strong>Time: </strong>earthquake origin time expressed as Greenwich Mean Time (hour:minutes:seconds)</li>
+		        <li><strong>Io: </strong>epicentral intensity (MCS)</li>
+		        <li><strong>Imax: </strong>maximum intensity (MCS)</li>
+		        <li><strong>NMO:</strong> Number of Macroseismic Observations</li>
+		        <li><strong>Me:</strong> equivalent magnitude based on macroseismic observations</li>
+		        <li><strong>Epicentral area</strong></li>
+				<li><strong>Epicenter type: </strong>
+		        <ul>
+		        <li>C: calculated</li>
+		        <li>L: local effects</li>
+		        <li>R: region, area</li>
+		        <li>H: hypothetical</li>
+		        <li>NP: not parameterized</li>
+		        </ul>
+		        </li>
+				<li><strong>Notes: </strong>
+		        <ul>
+		        <li>F: false</li>
+		        <li>D: doubtful</li>
+				<li>S: epicentral parameters based on a single intensity datapoint</li>
+				<li>E: epicentral location from foreign catalogue</li>
+		        <li>N: no macroseismic observations available</li>
+				</ul>
+				</li>
+				</ul>
+				</li>
+			</ul>
+	        <span style="padding:0px; padding-left: 40px;">A click on the date of an earthquake redirects the user to the page that describes the given earthquake individually.</span>
+	        <ul>
+	        <li><strong>Information on effects</strong>: located below the table listing the parameters of the earthquake sequence, it consists of a text describing the main effects of the earthquake sequence, plus a button ('Comm.') that opens a window with further information on the sequence and icons describing various aspects of the earthquake sequence (casualties, level of review, differences compared to the previous version of the Catalogue: see below for further information). When historical-critical comments are not available, a text describing the state of the review and a reference to the relevant literature (when available) is shown. </li>
+			<li><strong>External links</strong> to the Italian parametric earthquake catalogue and its corresponding database (<strong>CPTI15-DBMI15</strong>, Catalogo Parametrico dei Terremoti Italiani 15 - DataBase Macrosismico Italiano 15) and the Italian historical macroseismic archive (<strong>ASMI</strong>, Archivio Storico Macrosismico Italiano) are shown with the following icons (a text displayed at mouse roll-over explains the different possible cases described below; see <a href="info_EN.html#INFOcptiasmi" target="_blank";>Relations of CFTI5Med with CPTI and ASMI</a> of the INFO page for further details):
+				<ul>
+		        <li><img src="../images/ASMI.png" width="50px" vertical-align="-10px"> earthquake is available in ASMI. The icon is clickable and redirects the user to the corresponding ASMI webpage;</li>
+		        <li><img src="../images/ASMIgray.png" width="50px" vertical-align="-10px"> earthquake is not available in ASMI. The icon is not clickable;</li>
+				<li><img src="../images/CPTI-DBMI.png" width="50px" vertical-align="-10px"> CFTI4Med is the reference study for CPTI15-DBMI15 for the given earthquake and the parameters reported in CFTI5Med are exactly the same as in CFTI4Med. The icon is clickable and takes the user to the corresponding page of CPTI15;</li>
+				<li><img src="../images/CPTI-DBMI_gray.png" width="50px" vertical-align="-10px"> CFTI4Med is not the reference study for CPTI15-DBMI15 for the given earthquake or CFTI4Med is the reference study but the distribution of intensities has been modified in CFTI5Med with respect to CFTI4Med. The icon is not clickable;</li>
+				<li><img src="../images/CPTI-DBMI_gray_line.png" width="50px" vertical-align="-10px"> earthquake not included in CPTI15-DBMI15 or that occurred before the year 1000, a time interval that is not considered by CPTI15-DBMI15. The icon is not clickable.</li>
+		        </ul>
+			</li>
+			<li><strong>Table of earthquake effects</strong>: list of localities for which macroseismic observations and/or effects on the natural environment are available for the given earthquake (see below for further details)</li>
+ 		   <li><strong>Map of effects</strong>: all localities listed in the table are shown in the map with an color-coded icon by MCS intensity, following the scheme shown in the legend located in the bottom-left corner of the map. The icons with green edge indicate effects on the natural environment. A link in the map legend takes the user to a description of the MCS scale (Mercalli-Càncani-Sieberg 1932).</li>
+ 		   </ul>
+ 		   <p style="text-align:center;"><img src="../images/HELP/quake_struct_EN.png" width="100%" /></p>
+ 		   <p>As shown in the figure below, by clicking a locality, either a line of the table (intensity or dot indicating effects on natural environment) or a marker on the map, an informative window is displayed, containing information on the effects of the given earthquake at the locality (both on the built and on the natural environment) and a direct link to the page of the individual locality (by clicking on "Locality page"). The description of the effects on the built environment and the list of effects on the natural environment can be seen also at mouse roll-over on the intensity and (when present) on the dot indicating the effects on the natural environment in the table. Note that, for the effects on the natural environment, the text displayed at roll-over is only a list of the types of effects, while the informative window contains both the list and a descriptive text (and relevant bibliography).</p>
+ 		   <p style="text-align:center;"><img src="../images/HELP/quake_clickRollover_EN.png" width="100%" /></p>
+
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('quake2'); return false" href="#" id="showTEXTquake2" class="showTEXT">
+	            <h3>Table</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake2'); return false" href="#" id="hideTEXTquake2" class="hideTEXT">
+	            <h3>Table</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake2" class="HELP-INFOtext">
+	        <p>The table lists all localities for which macroseismic observations and/or effects on the natural environment are reported for the given earthquake. It contains the following information:</p>
+				<ul>
+		        <li><strong>Is: </strong>MCS intensity at the site, for the given earthquake. In addition to the MCS degrees, in some cases other letters are used, based on the following list:</li>
+		        <ul>
+					<li>S(V) strongly felt, but lacking evidence to support or deny the occurrence of damage</li>
+			        <li>F(IV-V) felt</li>
+			        <li>NF not felt</li>
+			        <li>G generic indication of damage at a specific site</li>
+			        <li>N no evidence found in contemporary sources</li>
+			        <li>NC unrated: please refer to the analytical comments for further info</li>
+					Effects on a single building:
+					<li>A(IX) collapse or extensive damage to the load bearing walls</li>
+			        <li>B(VIII) collapse of the top portion of the building (lantern, dome, gable, etc.)</li>
+			        <li>C(VII) partial collapse of the roof, vaults, apsidal vault, etc.</li>
+			        <li>D(VI) falling eaves, cracking of the external walls</li>
+			        <li>E(VI-VII) report of generic damage to the building</li>
+			        </ul>
+			        </li>
+		        <li><strong>Nat: </strong>earthquake-induced effects on the natural environment. When reported, they are indicated with a full dot (if associated with a single earthquake) or a circle (if associated with the entire earthquake sequence)</li>
+		        <li><strong>Locality: </strong>name of locality and Italian Province/foreign Country</li>
+		        <li><strong>Lat: </strong>latitude of locality</li>
+		        <li><strong>Lon: </strong>longitude of locality</li>
+		        <li><strong>Distance (km): </strong>distance of locality from macroseismic epicenter</li>
+		        </ul>
+
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('quake3'); return false" href="#" id="showTEXTquake3" class="showTEXT">
+	            <h3>Descriptive information on earthquake sequence</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake3'); return false" href="#" id="hideTEXTquake3" class="hideTEXT">
+	            <h3>Descriptive information on earthquake sequence</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake3" class="HELP-INFOtext">
+			<p>It has to be noted that the descriptive information reported in the page available for any individual earthquake in fact refers to the entire earthquake sequence. By hitting the 'Comm.' button, a window is opened that contains all historical-critical comments available and the relevant bibliography (see figure below). These comments are organized into different sections that can be partially or fully available for the different earthquake sequences of the Catalogue. The sections, shown in different tabs of the window, are (see <a href="info_EN.html#INFOinfoeq" target="_blank";>Earthquake information</a> of the INFO page for further details):</p>
+	        <ul>
+	        <li><strong>Sequence</strong></li>
+	        <li><strong>Review</strong></li>
+	        <li><strong>Social and institutional response</strong></li>
+	        <li><strong>Theories and observations</strong></li>
+	        <li><strong>Effects on the built environment</strong></li>
+	        <li><strong>Effects on the natural environment</strong>&nbsp;</li>
+	        </ul>
+	        <p>The bibliography for the earthquake sequence is listed in a table containing the following columns (see <a href="info_EN.html#INFObiblio" target="_blank";>Area 7. Bibliography</a> of the INFO page for further details):</p>
+	        <ul>
+	        <li><strong>Author</strong></li>
+	        <li><strong>Title</strong></li>
+	        <li><strong>Type of source</strong></li>
+	        <li><strong>Year</strong></li>
+	        <li><strong>Place</strong></li>
+	        <li><strong>PDF_T: </strong>link to PDF file of transcribed original text, when available</li>
+	        <li><strong>PDF_R: </strong>link to PDF of the scanned source, when available</li>
+	        </ul>
+			<p>For the earthquakes that occurred in the Mediterranean region outside Italy, in the same window we provide instead a digital excerpt of the relevant text supplied in Guidoboni <em>et al.</em> (1995) and  Guidoboni e Comastri (2005).</p>
+
+	        <p>When casualties are known to have occurred for the given earthquake, an icon to the right of the "Comm." button is shown, indicating an estimate of the number of victims and its reliability. A description of this information is shown at roll-over on the icon (see <a href="info_EN.html#INFOmorti" target="_blank";>Data on the number of victims</a> of the INFO page for further detail).</p>
+	        <p style="text-align:center;"><img src="../images/HELP/quake_info_morti_EN.png" width="80%" /></p>
+
+			<p>An icon to the right of the &ldquo;Comm.&rdquo; button indicates the level of review of the earthquake sequence, with the following meaning:
+				<ul>
+				<li><img src="../images/EQlevel_A.png" width="20px" vertical-align="-10px"> high level of review</li>
+				<li><img src="../images/EQlevel_I.png" width="20px" vertical-align="-10px"> medium level of review</li>
+				<li><img src="../images/EQlevel_S.png" width="20px" vertical-align="-10px"> low level of review</li>
+				</ul></p>
+
+			<p> For some earthquakes another icon is shown to the left of the CPTI15-DBMI15 icon,  specifying whether the earthquake is new or instead if some parameters were modified with respect to the previous version of the CFTI catalogue. There are three possible cases:
+				<ul>
+				<li><img src="../images/NEWicon.png" width="25px" vertical-align="-10px"> earthquake was not included in version 4 of CFTI</li>
+				<li><img src="../images/REVicon.png" width="25px" vertical-align="-10px"> earthquake was re-investigated with respect to version 4 of CFTI</li>
+				<li><img src="../images/VARicon.png" width="25px" vertical-align="-10px"> earthquake information was changed and/or corrected with respect to version 4 of CFTI</li>
+				</ul></p>
+			<p style="text-align:center;"><img src="../images/HELP/Quake_IconeVarie_EN.png" width="50%" /></p>
+	    </div>
+	    <hr>
+
+
+
+	<!-- //======================================      PAGINA DELLA SINGOLA LOCALITA'    =================================================== -->
+
+
+	    <div>
+	        <a onclick="showTEXT('loc1'); return false" href="#" id="showTEXTloc1" class="showTEXT">
+	            <h1>Page of individual locality</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc1'); return false" href="#" id="hideTEXTloc1" class="hideTEXT">
+	            <h1>Page of individual locality</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc1" class="HELP-INFOtext">
+	        <p>The page of an individual locality reports the earthquake history of the given locality, intended as the list of all earthquakes of the Catalogue that caused effects on the built and/or natural environment at the given locality.</p>
+	        <p>The page consists of a timeline chart, a table and a map, showing all events in the earthquake history at the locality and the locality (the latter shown with a yellow drop-shaped icon). The timeline chart is the same as the one shown in the access by earthquake page of the Catalogue, except that in this chart all bars are clickable. As shown in the figure below, when clicking on a bar a table row (intensity, dot of effects on natural environment or earthquake date) or a marker on the map, an informative window is displayed, containing epicentral information on the selected earthquake (including a link to the corresponding page) and a description of the effects of the given earthquake at the given locality (on the built and natural environment). The description of the effects on the built environment and the list of effects on the natural environment can be seen also at mouse roll-over on the intensity and (when present) on the dot indicating the effects on the natural environment in the table. Note that for the effects on the natural environment, the text displayed at roll-over is only a list of the types of effects, while the informative window contains both the list and a descriptive text (and relevant bibliography).</p>
+
+	        <p style="text-align:center;"><img src="../images/HELP/Locality_clickRollover_EN.png" width="100%" /></p>
+
+
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('loc2'); return false" href="#" id="showTEXTloc2" class="showTEXT">
+	            <h3>Table</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc2'); return false" href="#" id="hideTEXTloc2" class="hideTEXT">
+	            <h3>Table</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc2" class="HELP-INFOtext">
+	        <p>The table lists all earthquakes causing effects (on the built and/or natural environment) at the given locality. The left part of the table contains information on the effects at the locality, while the right part contains the parameters of the earthquakes causing the effects (the two parts are separated by a vertical grey line). The table lists the following information:
+	        <ul>
+	        <li><strong>Is: </strong>MCS intensity at site, for the given earthquake. In addition to the MCS degrees, in some cases other letters are used, based on the following list:</li>
+			<ul>
+				<li>S(V) strongly felt, but lacking evidence to support or deny the occurrence of damage</li>
+				<li>F(IV-V) felt</li>
+				<li>NF not felt</li>
+				<li>G generic indication of damage at a specific site</li>
+				<li>N no evidence found in contemporary sources</li>
+				<li>NC unrated: please refer to the analytical comments for further info</li>
+				Effects on a single building:
+				<li>A(IX) collapse or extensive damage to the load bearing walls</li>
+				<li>B(VIII) collapse of the top portion of the building (lantern, dome, gable, etc.)</li>
+				<li>C(VII) partial collapse of the roof, vaults, apsidal vault, etc.</li>
+				<li>D(VI) falling eaves, cracking of the external walls</li>
+				<li>E(VI-VII) report of generic damage to the building</li>
+				</ul>
+				</li>
+		        <li><strong>Nat: </strong>earthquake-induced effects on the natural environment. When reported, they are indicated with a full dot (if associated with a single earthquake) or a circle (if associated with the entire earthquake sequence)</li>
+				<li><strong>Date: </strong>earthquake origin date (year month day)</li>
+		        <li><strong>Time: </strong>earthquake origin time expressed as Greenwich Mean Time (hour:minutes:seconds)</li>
+		        <li><strong>Io: </strong>epicentral intensity (MCS)</li>
+		        <li><strong>Imax: </strong>maximum intensity (MCS)</li>
+		        <li><strong>NMO:</strong> Number of Macroseismic Observations for the earthquake</li>
+		        <li><strong>Me:</strong> equivalent magnitude based on macroseismic observations</li>
+		        <li><strong>Epicentral area</strong></li>
+	        	<li><strong>Map: </strong> button that allows the user to display on the map the distribution of the earthquake effects (see the following section "Map of effects").</li>
+	        </ul>
+
+			<p>When, for the given locality, there are earthquake sequences known to have caused effects on the natural environment (and not on the built environment, therefore no MCS intensity is reported) that cannot be associated with an individual shock of the sequence, another table is shown below the title "Earthquake sequences associated with effects on the natural environment only at this site", with the following columns:
+			<ul>
+		   <li><strong>Nat: </strong>: effects on the natural environment associated with the entire earthquake sequence (as indicated by the circle)</li>
+		   <li><strong>Date: </strong>earthquake origin date (year month day) and link to corresponding individual earthquake page, for all earthquakes of the sequence</li>
+		   <li><strong>Time: </strong>earthquake origin times expressed as Greenwich Mean Time (hour:minutes:seconds)</li>
+		   <li><strong>Io: </strong>epicentral intensity (MCS) of all earthquakes of the sequence </li>
+		   <li><strong>Me:</strong> equivalent magnitude based on macroseismic observations for all earthquakes of the sequence</li>
+		   <li><strong>Epicentral area </strong>of all earthquakes of the sequence</li>
+		   <li><strong>Map: </strong> buttons that allow the user to display on the map the distribution of the effects of each earthquake of the sequence (see the following section "Map of effects").</li>
+		   </ul>
+		   The earthquakes listed in this table are not shown in the map nor in the timeline chart, but the user can visualize the map distribution of the effects for each event by clicking on the buttons in the "Map" column.
+		   </p>
+		   <p>Three possible cases of tables structure may occur, shown in the figure below:
+			   <ol type="a">
+				   <li>a table listing individual earthquakes associated with effects on the built environment and, when reported, effects on the natural environment. Each line of the table corresponds to one epicenter on the map;</li>
+				   <li>a table listing earthquake sequences associated with effects on the natural environment at this site, that cannot be associated with a single shock of the sequence. The epicenters of these earthquakes are not shown in the map;</li>
+				   <li> two tables, the top one corresponding to that described in a) and the other corresponding to that described in b). The map shows only the epicenters listed in the top table only.</li>
+		   	   </ol>
+		   </p>
+		   <p style="text-align:center;"><img src="../images/HELP/Locality_tables_EN.png" width="80%" /></p>
+
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('loc3'); return false" href="#" id="showTEXTloc3" class="showTEXT">
+	            <h3>Map of effects</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc3'); return false" href="#" id="hideTEXTloc3" class="hideTEXT">
+	            <h3>Map of effects</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc3" class="HELP-INFOtext">
+	        <p>On page startup the map shows the epicenters of the earthquakes that caused effects at the locality. The user can browse the map distribution of all effects caused by each event listed in the table by clicking the buttons in the column "Map". The current locality is displayed with a drop-shaped icon. All icons are color-coded by MCS intensity, following the scheme shown in the legend located in the bottom-left corner of the map. The icons with green edge indicate effects on the natural environment. Similarly to the page available for any individual earthquake, a link in the map legend takes the user to a description of the MCS scale (Mercalli-Càncani-Sieberg 1932).</p>
+	        <p style="text-align:center;"><img src="../images/HELP/Locality_PQ_EN.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+		<div>
+	        <a onclick="showTEXT('loc4'); return false" href="#" id="showTEXTloc4" class="showTEXT">
+	            <h3>Further information on locality</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc4'); return false" href="#" id="hideTEXTloc4" class="hideTEXT">
+	            <h3>Further information on locality</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc4" class="HELP-INFOtext">
+
+			<p> If the locality has changed its name over time, it is shown in the title with its current name and with the historical name(s) in parentheses. A note indicates the date of the name change(s). The note may contain also information on site changes of the locality. In the maps showing earthquake effects, instead, the locality appears with the name it had at the time of the earthquake. One of the most complex cases, that of Vibo Valentia (for which CFTI5Med reports three different denominations), is shown in the figure below.<br>
+			The user can also access more information on the locality through a direct link to the corresponding Wikipedia webpage, located next to the locality name in the title of the page (top-left frame). </p>
+			<p style="text-align:center;"><img src="../images/HELP/Locality_note_EN.png" width="60%" /></p>
+	    </div>
+	    <hr>
+
+	</div>
+
+	<script>
+	  var url = window.location.href;
+		if (url.slice(-1) == '#' || url.slice(-4) == 'html') {
+		} else {
+		  showTEXT('struttgen1'); showTEXT('struttgen2'); showTEXT('struttgen3'); showTEXT('home1'); showTEXT('home2'); showTEXT('home3'); showTEXT('home4'); showTEXT('home5'); showTEXT('home6'); showTEXT('home7'); showTEXT('home8'); showTEXT('home9'); showTEXT('home10'); showTEXT('home11');  showTEXT('quake1'); showTEXT('quake2'); showTEXT('quake3'); showTEXT('loc1'); showTEXT('loc2'); showTEXT('loc3'); showTEXT('loc4');
+		}
+	</script>
+
+
+
+
+</body>

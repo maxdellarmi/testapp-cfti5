@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022904.00</nloc_cfti>
+      <desloc_cfti>Montecchia di Crosara</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.485</lat_wgs84>
+      <lon_wgs84>11.2536</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17186</nterr>
+      <nperiod>000326</nperiod>
+      <datanum>18991115</datanum>
+      <data_label>1899 11 15</data_label>
+      <anno>1899</anno>
+      <mese>11</mese>
+      <giorno>15</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.4041</lat>
+      <lon>11.4399</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>25</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Vicentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto fu forte e causò il crollo della cupola del campanile e l’apertura di lesioni in diverse case; molti camini crollarono $(145970,020688)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145970</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto veronese del 7 giugno 1891, in "Annali dell’Ufficio centrale Meteorologico e Geodinamico Italiano", s.II, vol.11 parte 3, 1889 pp.223-306.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1892</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080031</codbib>
+      <autore1>Porter A.K.</autore1>
+      <titolo1>Lombard Architecture, 4 voll. (ristampa anastatica, New York 1967),</titolo1>
+      <luogoed>New Haven</luogoed>
+      <datacompl>1915 - 1917</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>05261</nterr>
+      <nperiod>003200</nperiod>
+      <datanum>18190108</datanum>
+      <data_label>1819 01 08</data_label>
+      <anno>1819</anno>
+      <mese>01</mese>
+      <giorno>08</giorno>
+      <time_label>22:30</time_label>
+      <ora>22</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.8622</lat>
+      <lon>7.9277</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata sul catalogo di Baratta (1901) $(000001)$, che riprese un suo stesso studio (Baratta 1897) $(071265)$. Sono state reperite le fonti di Baratta (1897), costituite da due numeri della "Gazzetta di Genova" $(870026,870044)$ ed è stata condotta una ricerca bibliografica.&lt;br&gt;Presso l’Archivio di Stato di Torino è stato reperito il registro manoscritto delle osservazioni meteorologiche di G.Giobatta di San Remo (Sezioni riunite, Ministero di Finanze) $(850014)$, che riporta notizie sulla zona colpita; sono stati utilizzati inoltre una cronaca coeva di San Remo (Manoscritto Borea ed. 1970) $(870397)$ e la relazione dell’intendente di San Remo, Nota (1832) $(210044)$, che trattando del terremoto del 1831 accennò a questo precedente evento.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa principale avvenne l’8 gennaio 1818 alle ore 22:30 GMT circa e colpì la Liguria occidentale. Dopo la scossa più forte altre due scosse più leggere si susseguirono durante la notte e un’altra scossa leggera fu avvertita il 10 gennaio alle ore 0:15 GMT. I centri più colpiti furono Porto Maurizio e San Remo, dove alcune case subirono lesioni, e Cantalupo, un villaggio dell’interno, dove tutte le case risultarono danneggiate. La scossa fu leggera ad Alassio e passò inosservata a Nizza.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>L’8 gennaio 1818 alle ore 22:30 GMT circa fu avvertita una forte scossa seguita nel corso della stessa notte da due scosse lievi.&lt;br&gt;Il 9 gennaio 1818 alle 00:15 GMT circa fu avvertita una scossa leggera $(870044)$.&lt;br&gt;Il 20 gennaio 1818 alle ore 3 GMT circa fu avvertita da pochi, a Genova, una scossa lieve $(000001)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>210044</codbib>
+      <autore1>Nota A.</autore1>
+      <titolo1>Del tremuoto avvenuto nella città e provincia di San Remo l’anno 1831. Relazione dell’Intendente Alberto Nota.</titolo1>
+      <luogoed>Pinerolo</luogoed>
+      <datacompl>1832</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260011</codbib>
+      <autore1>Rossi G.</autore1>
+      <titolo1>Storia della città di Ventimiglia. Edizione riveduta ed ampliata (ristampa anastatica, Bologna 1973).</titolo1>
+      <luogoed>Oneglia</luogoed>
+      <datacompl>1886</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280016</codbib>
+      <autore1>Gallo I.R.</autore1>
+      <titolo1>Storia della città di Alassio dalle origini al 1815. Cronaca dal 1815 a noi. Documenti, appunti, note e dissertazioni.</titolo1>
+      <luogoed>Chiavari</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380087</codbib>
+      <autore1>Filiasi J.</autore1>
+      <titolo1>Relazione meteorologica dall’ottobre 1818 sino al 15 settembre 1819, in "Giornale astro-meteorologico per l’anno bisestile 1820".</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1820</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380089</codbib>
+      <autore1>Penada G.</autore1>
+      <titolo1>Meteorologia dell’anno 1819, in "Giornale astro-meteorologico per l’anno 1821".</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1821</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470628</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1819.01.20, n.6.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1819</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>850014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Torino, Sezioni riunite, Ministero di finanze, Archivio sistemato, Sanità, mazzo 1684, Osservazioni meteorologiche fatte dal Sig.r Gio[vanni] Batt[ist]a Giordano ed epoche de’ terremoti sentiti a San Remo dal 1564 al 1831.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1831</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1819.01.13, n.4.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1819</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870044</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1819.01.16, n.5.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1819</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870397</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Manoscritto Borea. Cronache di Sanremo e della Liguria Occidentale, ed. G.O.Borea d’Olmo.</titolo1>
+      <luogoed>Bordighera</luogoed>
+      <datacompl>1970</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Cantalupo</desloc>
+      <lat_wgs84>43.8921</lat_wgs84>
+      <lon_wgs84>7.9953</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>05261</nterr>
+      <nloc_cfti>032209.00</nloc_cfti>
+      <desloc_cfti>Cantalupo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò tutte le case del paese $(870044)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Porto Maurizio</desloc>
+      <lat_wgs84>43.8752</lat_wgs84>
+      <lon_wgs84>8.0143</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05261</nterr>
+      <nloc_cfti>072564.00</nloc_cfti>
+      <desloc_cfti>Porto Maurizio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto forte e causò lesioni notevoli in varie case, in genere non molto solide; la popolazione per timore di repliche trascorse la notte all’aperto $(870026,870044)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>San Remo</desloc>
+      <lat_wgs84>43.8192</lat_wgs84>
+      <lon_wgs84>7.7735</lon_wgs84>
+      <provlet>IM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>05261</nterr>
+      <nloc_cfti>032319.00</nloc_cfti>
+      <desloc_cfti>San Remo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto forte e causò lesioni notevoli in varie case; la popolazione per timore di repliche trascorse la notte all’aperto $(870044)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Alassio</desloc>
+      <lat_wgs84>44.0068</lat_wgs84>
+      <lon_wgs84>8.1706</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>05261</nterr>
+      <nloc_cfti>032427.00</nloc_cfti>
+      <desloc_cfti>Alassio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu leggera $(870044)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Nice</desloc>
+      <lat_wgs84>43.6916</lat_wgs84>
+      <lon_wgs84>7.2516</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>05261</nterr>
+      <nloc_cfti>080055.00</nloc_cfti>
+      <desloc_cfti>Nice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(870044)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

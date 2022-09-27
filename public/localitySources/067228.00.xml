@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067228.00</nloc_cfti>
+      <desloc_cfti>Torrenova</desloc_cfti>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>38.09</lat_wgs84>
+      <lon_wgs84>14.6779</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40169</nterr>
+      <nperiod>003048</nperiod>
+      <datanum>19780415</datanum>
+      <data_label>1978 04 15</data_label>
+      <anno>1978</anno>
+      <mese>04</mese>
+      <giorno>15</giorno>
+      <time_label>23:33:47</time_label>
+      <ora>23</ora>
+      <minu>33</minu>
+      <sec>47</sec>
+      <lat>38.1251</lat>
+      <lon>15.022</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>331</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Golfo di Patti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò lesioni in 20 abitazioni; l’edificio delle scuole elementari fu danneggiato leggermente $(055113,055115)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>055113</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1978.04.17, a.118, n.105.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1978</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055115</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1978.04.19, a.118, n.107.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1978</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

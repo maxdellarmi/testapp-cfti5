@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<!-- <link rel="stylesheet" href="css/help.css" /> -->
+	<!-- <script type="text/javascript" src="../js/js.js"> </script> -->
+
+</head>
+
+<body>
+
+
+		<!-- // FUNZIONI SPOSTATE IN JS.JS - DA QUI NON FUNZIONANO PER IL DISCLAIMER
+<script type="text/javascript" >
+
+	function showTEXT(idname){
+		document.getElementById(idname).style.display = "block";
+		var id1 = "showTEXT" + idname;
+		var id2 = "hideTEXT" + idname;
+		document.getElementById(id1).style.display = "none";
+		document.getElementById(id2).style.display = "inline";
+		// document.getElementById(idname).scrollIntoView(false);
+	}
+
+	function hideTEXT(idname){
+		document.getElementById(idname).style.display = "none";
+		var id1 = "showTEXT" + idname;
+		var id2 = "hideTEXT" + idname;
+		document.getElementById(id1).style.display = "inline";
+		document.getElementById(id2).style.display = "none";
+	}
+
+</script> -->
+
+<p><font size="2px" color="#505151"><i>Questa interfaccia web è stata realizzata per funzionare sulla maggior parte delle combinazioni di sistemi operativi e browser di navigazione esistenti, tuttavia è stata ottimizzata per l'utilizzo dei browser <b>Google Chrome</b> e <b>Safari</b></i></font></p>
+<p><font size="2px" color="#505151"><i>Per una guida alla navigazione si veda la sezione </i><a href="html/help_IT.html" target="_new"><font color="#1f708f">HELP</font></a>.<br><i>Per una introduzione ai contenuti del catalogo si veda la sezione </i> <a href="html/info_IT.html" target="_new"><font color="#1f708f">INFO</font></a>.</font></p>
+
+<p margin="10px"><font size="2px" color="#505151"><i>Per segnalare eventuali problemi scrivere a <a href="mailto:cfti@ingv.it"><font color="#1f708f">cfti@ingv.it</font></a></i></font></p>
+
+<hr>
+
+<span id="titlecredits"><font color="#1f708f" size="3px"><strong>CREDITS</strong></font></span><br><br>
+
+<font color="#1f708f" size="2px"><strong>Come citare il catalogo:</strong></font><p style="background-color:#fff9dd; padding:3px"><font size="2" color="#505151">E. Guidoboni, G. Ferrari, D. Mariotti, A. Comastri, G. Tarabusi, G. Sgattoni, G. Valensise (2018) - CFTI5Med, Catalogo dei Forti Terremoti in Italia (461 a.C.-1997) e nell&rsquo;area Mediterranea (760 a.C.-1500). Istituto Nazionale di Geofisica e Vulcanologia (INGV). doi:  https://doi.org/10.6092/ingv.it-cfti5 </font></p>
+<br>
+<div>
+   <a onclick="showTEXT('creditscat'); return false" href="#" id="showTEXTcreditscat" class="showTEXT">
+    <font color="#1f708f" size="2px">Contenuti del catalogo</font>      <img src="images/expand.png" width ="8px">
+   </a>
+</div>
+<div>
+   <a onclick="hideTEXT('creditscat'); return false" href="#" id="hideTEXTcreditscat" class="hideTEXT">
+    <font color="#1f708f" size="2px">Contenuti del catalogo</font>      <img src="images/reduce.png" width ="8px">
+   </a>
+</div>
+
+<div id="creditscat" class="HELP-INFOtext">
+    <font size="2px" color="#505151">
+    <p>
+    <b>Progetto</b><br> Emanuela Guidoboni, Graziano Ferrari, Gianluca Valensise e Gabriele Tarabusi
+    </p><p>
+    <b>Coordinamento delle ricerche ed elaborazioni storiche<br>
+    </b> Emanuela Guidoboni
+    </p><p>
+    <b>Collaboratori principali</b><br>
+    - <i>antichità e medioevo:</i> Alberto Comastri, Cecilia Ciuccarelli e Marco Pistoresi<br>
+    - <i>età moderna e contemporanea:</i> Dante Mariotti, Martino Ferrarese, Roberto Benedetti e Maria Luisa De Simone<br>
+    </p><p>
+    <b>Struttura dei dati di base ed elaborazioni</b><br>
+    Graziano Ferrari, Emanuela Guidoboni e Gianluca Valensise
+    </p><p>
+    <b>Ricerche di toponomastica storica</b><br>
+    Dante Mariotti e Gabriele Tarabusi
+    </p><p>
+    <b>Interpretazione dei danni e stime di intensità</b><br>
+    Dante Mariotti, Graziano Ferrari, Alberto Comastri e Emanuela Guidoboni
+    </p><p>
+    <b>Revisione e nuove elaborazioni di effetti sismo-indotti sull'ambiente</b><br>
+    Dante Mariotti, Alberto Comastri e Giulia Sgattoni
+    </p><p>
+    <b>Georeferenziazioni</b><br>
+    Dante Mariotti, Gabriele Tarabusi, Maria Giovanna Bianchi e Giulia Sgattoni
+    </p><p>
+    <b>Parametrizzazioni</b><br>
+    Graziano Ferrari e Gabriele Tarabusi
+    </p><p>
+    <b>Gestione del database</b><br>
+    Gabriele Tarabusi
+    </p><p>
+    <b>Elaborazione dei dati sul numero dei morti</b><br>
+    Graziano Ferrari e Emanuele Tataranni
+    </p><p>
+    <b>Sviluppo di procedure automatiche per la composizione e la gestione dei testi</b><br>
+    Giulia Sgattoni
+    <br>
+</font>
+</div>
+
+<br>
+
+<div>
+   <a onclick="showTEXT('creditsweb'); return false" href="#" id="showTEXTcreditsweb" class="showTEXT">
+    <font color="#1f708f" size="2px">Website</font>      <img src="images/expand.png" width ="8px">
+   </a>
+</div>
+<div>
+   <a onclick="hideTEXT('creditsweb'); return false" href="#" id="hideTEXTcreditsweb" class="hideTEXT">
+    <font color="#1f708f" size="2px">Website</font>      <img src="images/reduce.png" width ="8px">
+   </a>
+</div>
+
+<div id="creditsweb" class="HELP-INFOtext">
+    <font size="2px" color="#505151">
+		<p>
+        <b>Sviluppo dell'interfaccia Web e Web-GIS</b><br>
+         Giulia Sgattoni e Gabriele Tarabusi
+         </p><p>
+
+         <b>Servizi Web</b><br>
+          Emanuele Tataranni e Roberto Vallone
+          </p><p>
+
+        <b>Scansione di documentazione e produzione di file PDF ricercabili</b><br>
+        Alessio Mautone SISMOS-INGV</b><br>
+        </p><p>
+
+        <b>Ringraziamenti</b><br>
+        Un ringraziamento a Diego Sorrentino e al CSI (Centro Servizi Informativi) per il supporto ITC e il web hosting, a Paola Vannoli per la revisione generale e i preziosi suggerimenti e a Luca Pizzimenti per la sperimentazione dell'interfaccia.</b><br>
+        </b>
+    </font>
+</div>
+<br>
+<hr>
+ <span id="titledisclaimer"><font color="#1f708f" size="3px"><strong>DISCLAIMER</font></strong></span><p><font size="2px" color="#505151">Il nuovo CFTI5Med è stato progettato come un "work in progress", e come tale prevede di essere progressivamente arricchito di nuovi dati ed emendato ove necessario. Per questa ragione, oltre che per la sua stessa natura di inventario di dati su fenomeni naturali complessi, non è mai possibile garantirne la completezza, l'accuratezza e lo stato di aggiornamento. Benché gli autori del CFTI5Med siano impegnati a fornire sempre le informazioni più precise e aggiornate sui terremoti storici censiti, non è possibile fornire alcuna garanzia sull'accuratezza e l'affidabilità dei dati forniti. Gli utenti devono quindi tenere ben presente la natura delle informazioni fornite dal CFTI5Med prima di utilizzarle per decisioni che possono riguardare la sicurezza delle persone o che possono avere gravi conseguenze finanziarie e operative. L'utente è tenuto ad assumersi tutte le responsabilità che possono derivare da conclusioni e scelte basate sui dati del CFTI5Med.</p> <hr> <p>Parte delle attività di sviluppo tecnologico e di riorganizzazione dei dati realizzate per la pubblicazione della versione 5 del CFTI hanno beneficiato del contributo finanziario della Presidenza del Consiglio dei Ministri – Dipartimento della Protezione Civile; rimane degli autori la responsabilità dei contenuti, che pertanto non riflettono necessariamente la posizione e le politiche ufficiali del Dipartimento.</font></p>
+
+ </body>

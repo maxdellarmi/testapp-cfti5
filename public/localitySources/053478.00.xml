@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053478.00</nloc_cfti>
+      <desloc_cfti>Monte Santa Maria</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.2239</lat_wgs84>
+      <lon_wgs84>12.7739</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò il crollo completo di una casa, gravi danni al campanile e ad altri edifici, lesioni notevoli nella volta e nei muri della chiesa parrocchiale che fu chiusa al culto $(583003,635040)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01284</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030114</datanum>
+      <data_label>1703 01 14</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>14</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7091</lat>
+      <lon>13.0705</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>197</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>A causa delle scosse di terremoto subirono gravi danni alcuni edifici appartenenti alla comunità, in particolare quello del forno, con un muro crollato, quello del pan venale, pericolante già prima delle scosse e a causa di queste maggiormente danneggiato, quello dove era situato l’archivio e si teneva il Consiglio, con i muri puntellati già prima delle scosse e a causa di queste lesionato $(672203,672204,672205,672206)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672203</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Monte Santa Maria di Farfa I, b.2755 (1630-1718), Lettera del governatore di Poggio Mirteto Paolo Corona alla Sacra Congregazione del Buon Governo, Poggio Mirteto 28 novembre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672204</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Monte Santa Maria di Farfa I, b.2755 (1630-1718), Supplica della Comunità di Monte Santa Maria alla Sacra Congregazione del Buon Governo, novembre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Monte Santa Maria di Farfa I, b.2755 (1630-1718), Perizia dei maestri muratori Santo Carconio e Giuseppe Taddei sui restauri necessari ai due forni di Monte Santa Maria, 29 maggio 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672206</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Monte Santa Maria di Farfa I, b.2755 (1630-1718), Notaio Domenico Antonio Casandra, Perizia dei maestri muratori Agostino Rosselli e Sante Carconio sui restauri necessari ai due forni di Monte Santa Maria, Monte Santa Maria 8 novembre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.1383, Telegramma del Sindaco Castellani circa i danni prodotti a Monte Santa Maria circa i danni prodotti dal terremoto del 13 gennaio 1915, Toffia 15 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635040</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.10, Nota delle spese approssimative e occorrenti per restaurare le Chiese Parrocchiali e le Canoniche danneggiate dal terremoto nei Paesi qui appresso notati, come da relazioni rimesse e da domande avanzate a questa Curia di Poggio Mirteto dai rispettivi Parrochi, secondo il giudizio dei Periti e di altre persone tecniche, Poggio Mirteto 15 marzo 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

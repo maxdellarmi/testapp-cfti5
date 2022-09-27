@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>033558.00</nloc_cfti>
+      <desloc_cfti>Moneglia</desloc_cfti>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.2403</lat_wgs84>
+      <lon_wgs84>9.4879</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20227</nterr>
+      <nperiod>000385</nperiod>
+      <datanum>19061110</datanum>
+      <data_label>1906 11 10</data_label>
+      <anno>1906</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>17:55</time_label>
+      <ora>17</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>44.4011</lat>
+      <lon>9.5852</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>49</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Appennino ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23012</nterr>
+      <nperiod>000411</nperiod>
+      <datanum>19100123</datanum>
+      <data_label>1910 01 23</data_label>
+      <anno>1910</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>01:50</time_label>
+      <ora>01</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.8578</lat>
+      <lon>9.6584</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>118</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04844</nterr>
+      <nperiod>000159</nperiod>
+      <datanum>18020512</datanum>
+      <data_label>1802 05 12</data_label>
+      <anno>1802</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>09:30</time_label>
+      <ora>09</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.4157</lat>
+      <lon>9.8542</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>66</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle dell’Oglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(260043)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>260043</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Nazionale della Liguria, 1802.05.15, n.49.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1802</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

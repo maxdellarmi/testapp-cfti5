@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>025930.00</nloc_cfti>
+      <desloc_cfti>Visome</desloc_cfti>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>46.115</lat_wgs84>
+      <lon_wgs84>12.2002</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Vi furono 2 morti e alcuni feriti; un terzo delle case subì gravi danni $(380142,870210,600158,690107,850026,870213,000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>380142</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1873.07.02, a.8, n.154.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870210</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1873.07.01, n.152.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1873.07.01.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1873.07.02, n.152.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>850026</codbib>
+      <autore1>Denza F.</autore1>
+      <titolo1>Il terremoto del 29 giugno 1873.</titolo1>
+      <luogoed>Belluno</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1873.07.04, n.155.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

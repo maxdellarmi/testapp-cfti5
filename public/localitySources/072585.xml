@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072585</nloc_cfti>
+      <desloc_cfti>Porto Salvo (Elena)</desloc_cfti>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>41.2251</lat_wgs84>
+      <lon_wgs84>13.5706</lon_wgs84>
+      <notesito>Già borgo di Gaeta, costituì Comune autonomo con la denominazione di Elena  tra il 18 febbraio 1897 e il 17 febbraio 1927, quando venne riaggregato al Comune di Gaeta.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17826</nterr>
+      <nperiod>003143</nperiod>
+      <datanum>19010731</datanum>
+      <data_label>1901 07 31</data_label>
+      <anno>1901</anno>
+      <mese>07</mese>
+      <giorno>31</giorno>
+      <time_label>10:38:30</time_label>
+      <ora>10</ora>
+      <minu>38</minu>
+      <sec>30</sec>
+      <lat>41.7192</lat>
+      <lon>13.7496</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Monti della Meta</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cancani (1902-1903) valutò l’intensità della scossa di III-IV grado della scala Mercalli $(000012)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27011</nterr>
+      <nperiod>002001</nperiod>
+      <datanum>19191022</datanum>
+      <data_label>1919 10 22</data_label>
+      <anno>1919</anno>
+      <mese>10</mese>
+      <giorno>22</giorno>
+      <time_label>06:06:04</time_label>
+      <ora>06</ora>
+      <minu>06</minu>
+      <sec>04</sec>
+      <lat>41.5381</lat>
+      <lon>12.6839</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>134</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Litorale pontino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1901, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.8 (1902-1903)-9 (1903-1904).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1902 - 1903</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

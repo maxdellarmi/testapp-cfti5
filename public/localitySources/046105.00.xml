@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>046105.00</nloc_cfti>
+      <desloc_cfti>Casale Marittimo</desloc_cfti>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.2974</lat_wgs84>
+      <lon_wgs84>10.6164</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09698</nterr>
+      <nperiod>003252</nperiod>
+      <datanum>18710729</datanum>
+      <data_label>1871 07 29</data_label>
+      <anno>1871</anno>
+      <mese>07</mese>
+      <giorno>29</giorno>
+      <time_label>20:45:34</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>34</sec>
+      <lat>43.3015</lat>
+      <lon>10.6181</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>13</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Colline Metallifere</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò danni all’abitato: su un totale di 177 case ne furono lesionate 121 (68%), di cui 11 (6.3%) in modo grave $(092151)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07160</nterr>
+      <nperiod>000920</nperiod>
+      <datanum>18460814</datanum>
+      <data_label>1846 08 14</data_label>
+      <anno>1846</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4708</lat>
+      <lon>10.5621</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>121</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il paese contava 890 abitanti $(350240)$. La scossa causò nella parte del paese detta Castello, nei pressi della porta d’entrata del paese $(090491)$, danni agli edifici; alcune case crollarono e ci fu una vittima $(630005,745564)$. Il decreto granducale del 29 agosto 1846 esentò per 3 anni questa località dalle tasse prediali $(092151)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350240</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Marucelliana di Firenze, Manoscritti, D.10/28, c.278r, Quadro statistico delle Comunità delle Colline pisane, e della Valle di Cecina danneggiate dal terremoto del 14 Agosto 1846.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090491</codbib>
+      <autore1>Leopoldo II di Lorena</autore1>
+      <titolo1>Il governo di famiglia in Toscana. Le memorie del granduca Leopoldo II di Lorena (1824-1859), a cura di F.Pesendorfer.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745564</codbib>
+      <autore1>Tabani G.</autore1>
+      <titolo1>Del terremoto accaduto in Toscana il 14 agosto 1846.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092151</codbib>
+      <autore1>Moroni A. e Grillo P.</autore1>
+      <titolo1>Terremoti e intervento statale in Toscana nel XIX secolo, in "Atti del Convegno, Pisa 25-27 giugno 1990", CNR-GNDT, vol.2 (Macrosismica), a cura di P.Albini e M.S.Barbano, pp.135-153.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

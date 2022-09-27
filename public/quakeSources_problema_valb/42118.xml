@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42118</nterr>
+      <nperiod>009092</nperiod>
+      <datanum>14770414</datanum>
+      <data_label>1477 04 14</data_label>
+      <anno>1477</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>00:50</time_label>
+      <ora>00</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.6773</lat>
+      <lon>8.4648</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Acqui Terme (AL)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>250011</codbib>
+      <autore1>Chiabrera G.</autore1>
+      <titolo1>Notae historicae repertae in quodam antiquo codice Can. Gabrielis Chiabrerae prepositi capituli Aquensis, in G.B.Moriondo, "Monumenta Aquensia pars II, coll.256-284.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1790</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Acqui Terme</desloc>
+      <lat_wgs84>44.6773</lat_wgs84>
+      <lon_wgs84>8.4648</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>42118</nterr>
+      <nloc_cfti>008038.00</nloc_cfti>
+      <desloc_cfti>Acqui Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

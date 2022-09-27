@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50066</nterr>
+      <nperiod>005084</nperiod>
+      <datanum>05010000</datanum>
+      <data_label>501 - -</data_label>
+      <anno>501</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.2886</lat>
+      <lon>11.8809</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Faenza (RA)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è testimoniato da due fonti indipendenti: una scritta e l’altra epigrafica. Si tratta della seconda sezione del cosiddetto "Anonimo Valesiano" (VI secolo d.C.) $(093056)$ e di una iscrizione, edita nel "Corpus Inscriptionum Latinarum" (1888) $(760510)$.&lt;br&gt;L’"Anonimo Valesiano", che tratta in particolare della storia del regno di Teodorico, ricorda frequenti terremoti associati all’apparizione di una cometa. Sulla base del catalogo delle comete, riportato dalle fonti cinesi (Ho Peng Yoke 1962), è possibile indicare almeno quattro date: dicembre 498, febbraio o aprile 501, agosto 507 e ottobre 520 $(093121)$. Benché i terremoti non vadano necessariamente collegati a una di queste date, il nesso presentato dalla fonte stessa diviene un importante elemento di datazione. La localizzazione dell’evento a Faenza è fornita dall’epigrafe, attualmente conservata nel Museo arcivescovile di Ravenna, che ricorda all’inizio del VI secolo d.C. la ricollocazione a Faenza, da parte del "comes" Gudila, di una statua distrutta da un terremoto. Il personaggio menzionato, Gudila, potrebbe coincidere con un funzionario della corte di Teodorico attestato da altre fonti per il 502 d.C. Questo terremoto non era noto alla tradizione dei cataloghi sismici ed è stato analizzato solo in contributi recenti (Guidoboni 1989 $(093043)$; Guidoboni, Comastri e Traina 1994 $(093201)$).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Frequenti scosse non localizzate; a Faenza è attestato il restauro di una statua caduta a causa di un terremoto $(760510,093044)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093044</codbib>
+      <autore1>*</autore1>
+      <titolo1>Catalogo delle epigrafi latine riguardanti terremoti, in "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, pp.135-169.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093056</codbib>
+      <autore1>Anonymus Valesianus</autore1>
+      <titolo1>Fragmenta historica ab Henrico et Hadriano Valesio primum edita, ed. R.Cessi, in "in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 4.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1912 - 1913</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093095</codbib>
+      <autore1>Cipolla C.</autore1>
+      <titolo1>Ricerche intorno all’Anonymus Valesianus II, in "Bullettino dell’Istituto Storico Italiano", vol. 11, pp.7-98.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1892</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093121</codbib>
+      <autore1>Ho Peng Yoke</autore1>
+      <titolo1>Ancient and mediaeval observations of comets and novae in Chinese sources, in "Vistas in Astronomy", vol.5, pp.127-225.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093185</codbib>
+      <autore1>Spreti D.</autore1>
+      <titolo1>De amplitudine, eversione et restauratione urbis Ravennae libri tres.</titolo1>
+      <luogoed>Ravenna</luogoed>
+      <datacompl>1793</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe che ricorda la ricollocazione da parte del comes Gudila all’inizio del VI secolo d.C., di una statua a Faenza distrutta da un terremoto databile all’inizio del VI secolo d.C., in "Corpus Inscriptionum Latinarum", vol.11: Inscriptiones Aemiliae, Etruriae, Umbriae Latinae, ed. E.Bormann, n.268 [anche in "L’Année épigraphique", 2002, n.17].</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Faenza</desloc>
+      <lat_wgs84>44.2886</lat_wgs84>
+      <lon_wgs84>11.8809</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>50066</nterr>
+      <nloc_cfti>041197.00</nloc_cfti>
+      <desloc_cfti>Faenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di una statua attestata da una epigrafe, mutila e lacunosa, che ricorda l’intervento del "comes" Gudila preposto all’amministrazione della città $(760510,093044)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

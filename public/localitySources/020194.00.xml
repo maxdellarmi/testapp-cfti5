@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>020194.00</nloc_cfti>
+      <desloc_cfti>Viadana</desloc_cfti>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>19</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.9294</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05934</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320313</datanum>
+      <data_label>1832 03 13</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>13</giorno>
+      <time_label>03:30</time_label>
+      <ora>03</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.7654</lat>
+      <lon>10.4935</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>97</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Le scosse dell’11 marzo 1832, delle ore 7:00 e delle ore 9:00 GMT ca., furono avvertite.&lt;br&gt;La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò danni alle decorazioni poste su edifici ecclesiastici. Suono di campane e campanelli $(600060,940091)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti; una revisione scientifica assegna una intensità del V-VI grado della scala MCS $(092132)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01800</nterr>
+      <nperiod>003094</nperiod>
+      <datanum>17410424</datanum>
+      <data_label>1741 04 24</data_label>
+      <anno>1741</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4262</lat>
+      <lon>13.0046</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>87</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu sentito fortemente e spaventò i fedeli che stavano assistendo a una celebrazione nella chiesa maggiore $(200001,200157)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu abbastanza forte svegliò tutta la popolazione e causò panico $(020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Cancani attesta il risentimento della scossa in questa località $(000012)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa, della durata di 15-40s, fu avvetito da tutti in casa e da molti all’aperto, con vibrazioni di porte e finestre, leggera oscillazione di oggetti sospesi, di rami e cespugli, di liquidi in recipienti, e in alcuni casi causò la caduta di oggetti da scaffali $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05921</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320311</datanum>
+      <data_label>1832 03 11</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>08:45</time_label>
+      <ora>08</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.7931</lat>
+      <lon>10.6065</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>14</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Le scosse dell’11 marzo 1832, delle ore 7:00 e delle ore 9:00 GMT ca., furono avvertite.&lt;br&gt;La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò danni alle decorazioni poste su edifici ecclesiastici. Suono di campane e campanelli $(600060,940091)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31448</nterr>
+      <nperiod>000550</nperiod>
+      <datanum>19370917</datanum>
+      <data_label>1937 09 17</data_label>
+      <anno>1937</anno>
+      <mese>09</mese>
+      <giorno>17</giorno>
+      <time_label>12:19:05</time_label>
+      <ora>12</ora>
+      <minu>19</minu>
+      <sec>05</sec>
+      <lat>44.7645</lat>
+      <lon>10.338</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>34</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29754</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290511</datanum>
+      <data_label>1929 05 11</data_label>
+      <anno>1929</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>19:22:48</time_label>
+      <ora>19</ora>
+      <minu>22</minu>
+      <sec>48</sec>
+      <lat>44.4821</lat>
+      <lon>11.1183</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>52</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Allo stato attuale della revisione non sono disponibili descrizioni degli effetti. Secondo il Bollettino sismico $(000031)$, la scossa delle ore 4:15 GMT del 19 aprile ebbe effetti corrispondenti al grado III della scala Mercalli. La scossa delle ore 1:10 GMT del 20 aprile ebbe effetti corrispondenti al grado IV della scala Mercalli. La scossa del 29 aprile delle ore 18:36 GMT (della durata di 1s) ebbe effetti corrispondenti al III grado Mercalli. La scossa dell’11 maggio delle ore 19:23 GMT (della durata di 2s e accompagnata da rombo aereo) ebbe effetti corrispondenti al IV grado Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05919</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320311</datanum>
+      <data_label>1832 03 11</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>06:45</time_label>
+      <ora>06</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.7784</lat>
+      <lon>10.8317</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>14</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Carpi (MO)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Le scosse dell’11 marzo 1832, delle ore 7:00 e delle ore 9:00 GMT ca., furono avvertite.&lt;br&gt;La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò danni alle decorazioni poste su edifici ecclesiastici. Suono di campane e campanelli $(600060,940091)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40436</nterr>
+      <nperiod>000934</nperiod>
+      <datanum>19781225</datanum>
+      <data_label>1978 12 25</data_label>
+      <anno>1978</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>22:53:41</time_label>
+      <ora>22</ora>
+      <minu>53</minu>
+      <sec>41</sec>
+      <lat>44.8457</lat>
+      <lon>10.9899</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>28</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Bassa mantovana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Allo stato attuale della revisione non sono disponibili descrizioni degli effetti. Secondo il Bollettino sismico $(000031)$, la scossa delle ore 4:15 GMT del 19 aprile ebbe effetti corrispondenti al grado III della scala Mercalli. La scossa delle ore 1:10 GMT del 20 aprile ebbe effetti corrispondenti al grado IV della scala Mercalli. La scossa del 29 aprile delle ore 18:36 GMT (della durata di 1s) ebbe effetti corrispondenti al III grado Mercalli. La scossa dell’11 maggio delle ore 19:23 GMT (della durata di 2s e accompagnata da rombo aereo) ebbe effetti corrispondenti al IV grado Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Secondo Cavasino $(000037)$ l’intensità della scossa fu del IV grado della scala Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05928</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320312</datanum>
+      <data_label>1832 03 12</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>08:45</time_label>
+      <ora>08</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.7298</lat>
+      <lon>10.6658</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>7</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Le scosse dell’11 marzo 1832, delle ore 7:00 e delle ore 9:00 GMT ca., furono avvertite.&lt;br&gt;La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò danni alle decorazioni poste su edifici ecclesiastici. Suono di campane e campanelli $(600060,940091)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29745</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290429</datanum>
+      <data_label>1929 04 29</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>18:35:59</time_label>
+      <ora>18</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>44.4895</lat>
+      <lon>11.0987</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>30</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Allo stato attuale della revisione non sono disponibili descrizioni degli effetti. Secondo il Bollettino sismico $(000031)$, la scossa delle ore 4:15 GMT del 19 aprile ebbe effetti corrispondenti al grado III della scala Mercalli. La scossa delle ore 1:10 GMT del 20 aprile ebbe effetti corrispondenti al grado IV della scala Mercalli. La scossa del 29 aprile delle ore 18:36 GMT (della durata di 1s) ebbe effetti corrispondenti al III grado Mercalli. La scossa dell’11 maggio delle ore 19:23 GMT (della durata di 2s e accompagnata da rombo aereo) ebbe effetti corrispondenti al IV grado Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29717</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290419</datanum>
+      <data_label>1929 04 19</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>19</giorno>
+      <time_label>04:15:22</time_label>
+      <ora>04</ora>
+      <minu>15</minu>
+      <sec>22</sec>
+      <lat>44.4838</lat>
+      <lon>11.1996</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Allo stato attuale della revisione non sono disponibili descrizioni degli effetti. Secondo il Bollettino sismico $(000031)$, la scossa delle ore 4:15 GMT del 19 aprile ebbe effetti corrispondenti al grado III della scala Mercalli. La scossa delle ore 1:10 GMT del 20 aprile ebbe effetti corrispondenti al grado IV della scala Mercalli. La scossa del 29 aprile delle ore 18:36 GMT (della durata di 1s) ebbe effetti corrispondenti al III grado Mercalli. La scossa dell’11 maggio delle ore 19:23 GMT (della durata di 2s e accompagnata da rombo aereo) ebbe effetti corrispondenti al IV grado Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18766</nterr>
+      <nperiod>000360</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>18:47:50</time_label>
+      <ora>18</ora>
+      <minu>47</minu>
+      <sec>50</sec>
+      <lat>44.4908</lat>
+      <lon>10.6395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20041</nterr>
+      <nperiod>000384</nperiod>
+      <datanum>19060825</datanum>
+      <data_label>1906 08 25</data_label>
+      <anno>1906</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>03:11</time_label>
+      <ora>03</ora>
+      <minu>11</minu>
+      <sec>-9</sec>
+      <lat>44.8133</lat>
+      <lon>10.079</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>31</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fu forte, causò la caduta di camini e calcinacci e lesionò le chiese di Santa Maria Annunciata, San Rocco, San Martino, San Pietro e la chiesa arcipretale del castello; la casa parrocchiale e la retrostante cascina riportarono lesioni di un certo rilievo; i fili dell’illuminazione pubblica si toccarono per l’oscillazione e provocarono un corto circuito nell’impianto; una piccola casa di vecchia e scadente tipologia edilizia venne resa inabitabile $(071122,771020,830018,830019,830020,830021,830022)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>810022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica "L.Parazzi" di Viadana, Manoscritti, C.Araldi, Giardino dilettevole dei più vaghi fiori che adornano la città di Viadana tratto da non meno antichi che moderni scrittori in forma cronologica, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092132</codbib>
+      <autore1>Ferrari G., Patacca E., Petrini V. e Scandone P.</autore1>
+      <titolo1>The Garfagnana earthquake of September 7, 1920, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.130-133.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600060</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Milano, 1832.03.21, n.81.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940091</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Venezia, 1832.03.27, n.71.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1901, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.8 (1902-1903)-9 (1903-1904).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1902 - 1903</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000031</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1929, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1971.07.16.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1971.07.16.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Viadana, Comando Vigili Urbani, Rapporto giornaliero, Viadana 15 luglio 1971.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Viadana, Ufficio Tecnico, Relazione del Direttore Ufficio Tecnico Comunale di Viadan Ferri C. in seguito a sopralluogo presso una casa, sita a Viadana in Via Cavour 60, Lesionata dal terremoto del 15 luglio 1971, Viadana 27 luglio 1971.</titolo1>
+      <luogoed>Viadana</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Viadana, Ufficio Tecnico, Relazione del direttore dell’Ufficio Tecnico Comunale C.Ferri sui danni alle chiese del capoluogo e delle frazioni di Cogozzo e Cizzolo, Viadana 14 settembre 1971.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830021</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Viadana, Ufficio Tecnico, Elenco di proprietari di fabbricati diffidati a provvedere con la massima urgenza a riparare opere edili rese pericolanti dal terremoto del 15 luglio 1971, Viadana 20 luglio 1971.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Viadana, Ufficio Tecnico, Elenco di persone diffidate per opere rese pericolanti a seguito del terremoto del 15 luglio 1971, Viadana 16 luglio 1971.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Diocesano di Mantova, s.s., G.Galvagnini, Storia di Ostiglia, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1741.04.28, n.17.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1741</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000037</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1936, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1939</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

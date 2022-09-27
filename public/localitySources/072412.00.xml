@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072412.00</nloc_cfti>
+      <desloc_cfti>Sant’Anna</desloc_cfti>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>38.7443</lat_wgs84>
+      <lon_wgs84>16.5153</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01854</nterr>
+      <nperiod>005200</nperiod>
+      <datanum>17431207</datanum>
+      <data_label>1743 12 07</data_label>
+      <anno>1743</anno>
+      <mese>12</mese>
+      <giorno>07</giorno>
+      <time_label>00:05</time_label>
+      <ora>00</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>38.6948</lat>
+      <lon>16.3715</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>25</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

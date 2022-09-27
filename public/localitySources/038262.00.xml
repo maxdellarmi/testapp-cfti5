@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>038262.00</nloc_cfti>
+      <desloc_cfti>Montale</desloc_cfti>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>44.5761</lat_wgs84>
+      <lon_wgs84>10.9074</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa del 20 aprile delle ore 1:10 GMT causò la caduta di 4 comignoli $(740068,740098)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>740068</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. La Sera, 1929.04.20, a.37, n.96.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740098</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. La Sera, 1929.04.21. a.37, n.97.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

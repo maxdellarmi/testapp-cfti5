@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00845</nterr>
+      <nperiod>000101</nperiod>
+      <datanum>16000900</datanum>
+      <data_label>1600 09 -</data_label>
+      <anno>1600</anno>
+      <mese>09</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.667</lat>
+      <lon>7.833</lon>
+      <rel>F</rel>
+      <level>A</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Issime (AO)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sviluppata una ricerca bibliografica e archivistica. L’unica fonte da cui deriva la tradizione del terremoto di Issime del settembre 1600 è il processo del prete esorcista Serra, pubblicato da Fabretti e Vayra nel 1891, e riedito da Perrin nel 1961 $(450079)$. Secondo questa fonte, fu avvertito a Issime un forte terremoto che fece crollare alcune case e fuggire la popolazione. L’evento fu considerato "non naturale" e imputato al demonio, secondo alcune categorie culturali del tempo. Da qui iniziò un lungo esorcismo per liberare il paese dalla minaccia di nuove scosse dovute alla presunta volontà distruttrice del diavolo. L’evento venne ripreso dalla storiografia locale (Duc 1900; Tibaldi 1909) $(450076,450077)$ e quindi da Baratta (1901) $(000001)$.&lt;br&gt;Uno studio specifico sul caso di Issime (Guidoboni 1985) $(692041)$ ha dimostrato che l’evento descritto nel processo del 1600 consiste in realtà in una frana staccatasi dal monte Silano. L’analisi critica della terminologia usata nel testo del processo rivela una stretta similitudine fra espressioni usate da altre fonti coeve per descrivere fenomeni diversi; da qui l’estensione della parola "terremoto" a ogni fenomeno di movimento del terreno (come "ruina"). L’evento descritto nel processo al diavolo, per durata (dal settembre 1600 al gennaio 1601) e tipologia di effetti, esclude ogni riferimento a un evento sismico. L’analisi testuale si è avvalsa anche di una contestualizzazione precisa del fenomeno, basata sulla topografia del luogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450076</codbib>
+      <autore1>Duc Joseph Auguste</autore1>
+      <titolo1>Histoire de l’Eglise d’Aoste 10 voll.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450077</codbib>
+      <autore1>Tibaldi T.</autore1>
+      <titolo1>La regione Valle d’Aosta attraverso i secoli, 5 voll.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450078</codbib>
+      <autore1>Fabretti A. e Vayra P.</autore1>
+      <titolo1>Il processo al Diavolo ad Issime nella Valle di Gressoney.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1891</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450079</codbib>
+      <autore1>Perrin J.-C.</autore1>
+      <titolo1>Le procès au diable à Issime en 1601, in "Flanbeau", a.8, n.2, 1961.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1961</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692041</codbib>
+      <autore1>Guidoboni E.</autore1>
+      <titolo1>Immagini e interpretazioni di fenomeni naturali: il «terremoto» di Issime del 1600-1601, in "Quaderni Storici", n.s. n.60, a.20, fasc.3, pp.811-838.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

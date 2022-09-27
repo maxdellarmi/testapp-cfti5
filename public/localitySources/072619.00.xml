@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072619.00</nloc_cfti>
+      <desloc_cfti>Galloro</desloc_cfti>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>41.7207</lat_wgs84>
+      <lon_wgs84>12.6814</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04919</nterr>
+      <nperiod>003138</nperiod>
+      <datanum>18060826</datanum>
+      <data_label>1806 08 26</data_label>
+      <anno>1806</anno>
+      <mese>08</mese>
+      <giorno>26</giorno>
+      <time_label>07:35</time_label>
+      <ora>07</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>41.7191</lat>
+      <lon>12.7253</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>35</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò lievi danni alla chiesa $(002139,060008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17066</nterr>
+      <nperiod>003142</nperiod>
+      <datanum>18990719</datanum>
+      <data_label>1899 07 19</data_label>
+      <anno>1899</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>13:18:54</time_label>
+      <ora>13</ora>
+      <minu>18</minu>
+      <sec>54</sec>
+      <lat>41.7982</lat>
+      <lon>12.6857</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>122</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Nel santuario di S.Maria di Galloro, lesionato e mal riparato dopo il terremoto del 22 gennaio 1892, la scossa rese pericolanti il coro, l’arco della cappella dedicata alla Madonna e lo stemma gentilizio sulla facciata. Anche la cupola fu gravemente danneggiata $(110781)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05593</nterr>
+      <nperiod>003139</nperiod>
+      <datanum>18290601</datanum>
+      <data_label>1829 06 01</data_label>
+      <anno>1829</anno>
+      <mese>06</mese>
+      <giorno>01</giorno>
+      <time_label>09:00</time_label>
+      <ora>09</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.7552</lat>
+      <lon>12.6802</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>25</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Le scosse del periodo sismico causarono leggeri danni $(745083)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002139</codbib>
+      <autore1>Galli I.</autore1>
+      <titolo1>I terremoti nel Lazio.</titolo1>
+      <luogoed>Velletri</luogoed>
+      <datacompl>1906</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745083</codbib>
+      <autore1>Bassanelli L.</autore1>
+      <titolo1>Sopra il tremuoto che ha sofferto la città di Albano con le sue vicinanze dal giorno 21 di maggio a tutto il dì 6 dicembre 1829. Lettera del dottor fisico Luigi Bassanelli all’ecc.mo sig. dottor Giacomo Folchi pubblico professore di medicina nell’archiginnasio romano, in "Giornale Arcadico", vol.44, pp.37-74.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1829</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110781</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1899.07.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

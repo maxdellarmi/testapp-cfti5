@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>009286.00</nloc_cfti>
+      <desloc_cfti>Volpedo</desloc_cfti>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>44.8894</lat_wgs84>
+      <lon_wgs84>8.9836</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30519</nterr>
+      <nperiod>000536</nperiod>
+      <datanum>19320120</datanum>
+      <data_label>1932 01 20</data_label>
+      <anno>1932</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>05:58</time_label>
+      <ora>05</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>44.9329</lat>
+      <lon>8.966</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>12</npun>
+      <mm>4</mm>
+      <earthquakelocation>Tortonese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17502</nterr>
+      <nperiod>000336</nperiod>
+      <datanum>19010123</datanum>
+      <data_label>1901 01 23</data_label>
+      <anno>1901</anno>
+      <mese>01</mese>
+      <giorno>23</giorno>
+      <time_label>00:17:10</time_label>
+      <ora>00</ora>
+      <minu>17</minu>
+      <sec>10</sec>
+      <lat>45.0346</lat>
+      <lon>8.9978</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>90</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Vogherese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16144</nterr>
+      <nperiod>000300</nperiod>
+      <datanum>18970706</datanum>
+      <data_label>1897 07 06</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>06</giorno>
+      <time_label>20:44</time_label>
+      <ora>20</ora>
+      <minu>44</minu>
+      <sec>-9</sec>
+      <lat>44.4175</lat>
+      <lon>8.6513</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>62</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11384</nterr>
+      <nperiod>003212</nperiod>
+      <datanum>18800704</datanum>
+      <data_label>1880 07 04</data_label>
+      <anno>1880</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>19:55</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.2736</lat>
+      <lon>8.059</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>86</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente $(070240,000014)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070240</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti del 4 luglio 1880, in "Bullettino Meteorologico dell’Osservatorio del Real Collegio Carlo Alberto in Moncalieri", vol.15 (1879-80), p.132.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

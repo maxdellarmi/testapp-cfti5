@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072612.00</nloc_cfti>
+      <desloc_cfti>Marmigliaio</desloc_cfti>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.5038</lat_wgs84>
+      <lon_wgs84>10.4651</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07160</nterr>
+      <nperiod>000920</nperiod>
+      <datanum>18460814</datanum>
+      <data_label>1846 08 14</data_label>
+      <anno>1846</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4708</lat>
+      <lon>10.5621</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>121</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Toscana settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>26</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò il crollo delle mura del cimitero $(090491)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090491</codbib>
+      <autore1>Leopoldo II di Lorena</autore1>
+      <titolo1>Il governo di famiglia in Toscana. Le memorie del granduca Leopoldo II di Lorena (1824-1859), a cura di F.Pesendorfer.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

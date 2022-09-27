@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01350</nterr>
+      <nperiod>009007</nperiod>
+      <datanum>17080303</datanum>
+      <data_label>1708 03 03</data_label>
+      <anno>1708</anno>
+      <mese>03</mese>
+      <giorno>03</giorno>
+      <time_label>16:45</time_label>
+      <ora>16</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>39.9418</lat>
+      <lon>15.8044</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Tortora (CS)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018>nuovo</new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sostanzialmente sconosciuto alla tradizione della sismologia storica. Il sismologo francese Alexis Perrey (1848, p.36) $(050007)$ ne ricorda infatti solo una replica avvenuta a oltre un mese dall’inizio della sequenza sismica. Perrey trasse la notizia dal "Journal Historique", un periodico mensile in lingua francese, che nel numero di maggio 1708 riferì gli effetti di una scossa avvenuta in Calabria il 3 marzo precedente $(056045)$. Perrey, peraltro, lesse in modo errato la notizia riportata dalla sua fonte, che era già piuttosto imprecisa. Quanto elencato da Perrey fu ripreso senza variazioni da Giuseppe Mercalli (1883, p.231) $(000002)$ nella sua compilazione di terremoti ed eruzioni vulcaniche. Mario Baratta (1901, p.203) $(000001)$ utilizzò una fonte diversa, un anonimo "Diario napolitano" coevo pubblicato nel 1885 $(110165)$, ma anch’egli nel suo catalogo descrittivo elencò soltanto la scossa del 3 marzo, segnalandola però nel 1707 per un evidente errore di stampa non emendato nella "errata corrige" della sua opera. Con questi errori e inesattezze l’evento è entrato nei cataloghi parametrici italiani che hanno a lungo equivocato l’anno del terremoto e ignorato la data della scossa principale.&lt;br&gt;Nuove ricerche condotte a partire dagli anni 1990 hanno consentito di reperire numerose altre attestazioni dell’evento nelle fonti giornalistiche (sono state utilizzate notizie riportate in 9 corrispondenze pubblicate da 5 diverse gazzette) $(056053,070575,070576,200020,470024,470025,470026,470051,470172,470173)$. È stata inoltre utilizzata la produzione memorialistica e storiografica locale $(055095,146544,146532,146497,051470)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Nei primi mesi del 1708 una sequenza sismica interessò l’area del versante occidentale del massiccio del Monte Pollino al confine tra le attuali province di Potenza e Cosenza. Le prime forti scosse avvennero tra il 25 e il 27 gennaio 1708 e causarono molti danni in alcune località della valle del fiume Mércure. In particolare, nel feudo di Castelluccio (che comprendeva i due centri abitati attuali di Castelluccio Inferiore e Castelluccio Superiore) e a Viggianello il terremoto causò estese distruzioni e circa 50 vittime, danni minori ci furono a Laino Borgo e Rotonda. Altre scosse furono sentite nei mesi di febbraio e marzo; una particolarmente forte fu segnalata il 3 marzo, alle ore 16:45 GMT circa ("doppo vespro"): a Tortora causò danni molto rilevanti alle abitazioni, alla chiesa madre di S.Pietro Apostolo, al convento francescano della SS.Annunziata e al palazzo baronale.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021278</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Ricerche sulla sismicità storica dell’Italia centrale e dell’area del Massiccio del Pollino, RPT 115/94, Bologna aprile 1994 (rapporto inedito ING).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1994</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051327</codbib>
+      <autore1>Guidoboni E. e Mariotti D.</autore1>
+      <titolo1>I terremoti "sconosciuti": appunti per un catalogo, in E.Boschi, E.Guidoboni, G.Ferrari, G.Valensise e P.Gasperini, "Catalogo dei forti terremoti in Italia dal 461 a.C. al 1990", 2, ING-SGA, pp.80-90.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>1997</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051328</codbib>
+      <autore1>Mariotti D., Comastri A. e Guidoboni E.</autore1>
+      <titolo1>«Unknown» earthquakes: a growing contribution to the Catalogue of Strong Italian Earthquakes, in Catalogue of Strong Italian Earthquakes from 461 B.C. to 1997, ed. E.Boschi, E.Guidoboni, G.Ferrari, D.Mariotti, G.Valensise and P.Gasperini, "Annali di Geofisica", vol.43, n.4, pp.787-795.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051385</codbib>
+      <autore1>Camassi R. e Castelli V.</autore1>
+      <titolo1>Looking for "new" earthquake data in the 17th-18th century European "newssellers" network, in "Journal of Earthquake Engineering", vol.8 (2004), n.3, pp.335-359.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051470</codbib>
+      <autore1>De Marco G.</autore1>
+      <titolo1>Cassano allo Jonio: cattedrale di S.Maria Assunta, in "Cattedrali di Calabria", a cura di S.Valtieri, pp.285-292.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2002</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051471</codbib>
+      <autore1>Camassi R. e Caracciolo C.</autore1>
+      <titolo1>The gazette "Bologna": an observer of European natural events in the early 18th century, in "Materials of CEC Project ‘Review of Historical Seismicity’ in Europe", vol.2, a cura di P.Albini e A.Moroni, pp.153-162.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055095</codbib>
+      <autore1>Susanna G.</autore1>
+      <titolo1>Notizie ricavate da manoscritti veridici e fedeli che stanno in mio possesso, in G.B.Moio e G.Susanna, "Diario di quanto successe in Catanzaro dal 1710 al 1769", a cura di U.Ferrari, pp.239-248.</titolo1>
+      <luogoed>Chiaravalle Centrale (CZ)</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056045</codbib>
+      <autore1>*</autore1>
+      <titolo1>Journal Historique sur les matières du tems, 1708.05, a.8.</titolo1>
+      <luogoed>Luxembourg</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazette [de France], 1708.03.10, n.10.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056095</codbib>
+      <autore1>De Marco G.</autore1>
+      <titolo1>Cassano allo Jonio: cattedrale di S.Maria Assunta, in "Storia della Calabria. Le cattedrali", a cura di S.Valtieri, pp.285-291.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2002</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070575</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1708.02.21, [n.8].</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070576</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1708.03.20, [n.12].</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110165</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario napolitano dal 1700 al 1709, ed. G. de Blasiis, in "Archivio Storico per le Province Napoletane", a.10, pp.85-129, 215-267, 462-501, 599-652.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146481</codbib>
+      <autore1>Lanza B.</autore1>
+      <titolo1>Monografia della città di Cassano e de’ rioni Lauropoli e Doria scritta nel 1857.</titolo1>
+      <luogoed>Prato</luogoed>
+      <datacompl>1884</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146497</codbib>
+      <autore1>Caterini G.</autore1>
+      <titolo1>Laino: antichissima comunità calabrese.</titolo1>
+      <luogoed>Laino Borgo (CS)</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146532</codbib>
+      <autore1>Pedio T. (a cura di)</autore1>
+      <titolo1>La relazione Gaudioso sulla Basilicata (1736).</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1965</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146544</codbib>
+      <autore1>Minervini V.</autore1>
+      <titolo1>Mormanno d’una volta.</titolo1>
+      <luogoed>Castrovillari (CS)</luogoed>
+      <datacompl>1940</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146583</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Arcipretale di S.Maria del Colle di Mormanno, Registro delli beni stabili dell’arcipretale chiesa di S.Maria del Colle della città di Mormanno, estratto colle notizie, più possibili, dalli registri antichi per il reverendo don Giuseppe Pace, sotto la sua procura, principiata a settembre 1742.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146584</codbib>
+      <autore1>*</autore1>
+      <titolo1>Epigrafe collocata nella parete sinistra del presbiterio della chiesa parrocchiale di S.Maria del Colle di Mormanno, 1719.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1719</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1708.02.22, n.8.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Provinciale dell’Ordine dei Frati Minori Cappuccini di Firenze, Filippo Bernardi, Relazione dello stato di tutti li conventi dei frati Cappuccini d’Italia, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470024</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Napoli, 1708.02.07, n.6.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Napoli, 1708.03.13, n.11.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Napoli, 1708.03.20, n.12.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470051</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Napoli, 1708.02.28, n.9.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470172</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Foligno, 1708.02.24, n.8.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470173</codbib>
+      <autore1>*</autore1>
+      <titolo1>Avvisi stampati di Foligno, 1708.03.23, n.12.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1708</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Tortora</desloc>
+      <lat_wgs84>39.9418</lat_wgs84>
+      <lon_wgs84>15.8044</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>01350</nterr>
+      <nloc_cfti>064483.00</nloc_cfti>
+      <desloc_cfti>Tortora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò danni molto rilevanti, ricordati dalle fonti dopo la forte scossa del 3 marzo (ore 16:45 GMT circa): furono gravemente lesionate molte abitazioni, così come la chiesa madre di S.Pietro Apostolo, il convento francescano della SS.Annunziata e il palazzo baronale $(470025,056045)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Maratea</desloc>
+      <lat_wgs84>39.994</lat_wgs84>
+      <lon_wgs84>15.7214</lon_wgs84>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01350</nterr>
+      <nloc_cfti>063093.00</nloc_cfti>
+      <desloc_cfti>Maratea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse della sequenza spaventarono la popolazione, ma non causarono danni rilevanti; dopo la forte replica del 3 marzo (ore 16:45 GMT circa), la comunità indisse riti religiosi in onore del patrono S.Biagio $(470026,110165)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Catanzaro</desloc>
+      <lat_wgs84>38.9149</lat_wgs84>
+      <lon_wgs84>16.5859</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>01350</nterr>
+      <nloc_cfti>064567.00</nloc_cfti>
+      <desloc_cfti>Catanzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu sentito in modo leggero $(055095)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

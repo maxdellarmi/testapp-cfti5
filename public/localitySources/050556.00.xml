@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>050556.00</nloc_cfti>
+      <desloc_cfti>Mercatello sul Metauro</desloc_cfti>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>18</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.6477</lat_wgs84>
+      <lon_wgs84>12.3368</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00304</nterr>
+      <nperiod>003243</nperiod>
+      <datanum>13891018</datanum>
+      <data_label>1389 10 18</data_label>
+      <anno>1389</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.536</lat>
+      <lon>12.3587</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>7</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32553</nterr>
+      <nperiod>003255</nperiod>
+      <datanum>19480613</datanum>
+      <data_label>1948 06 13</data_label>
+      <anno>1948</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>06:33:36</time_label>
+      <ora>06</ora>
+      <minu>33</minu>
+      <sec>36</sec>
+      <lat>43.5823</lat>
+      <lon>12.1401</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>144</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Il terremoto fu sentito fortemente da quasi tutta la popolazione che uscì all’aperto; ci fu grande panico soprattutto tra coloro che erano in chiesa; non furono segnalati danni di rilievo $(143793,143794)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Una recente revisione scientifica attribuisce al terremoto del 10 novembre 1918 un valore d’intensità pari al V grado MCS senza fornire descrizione degli effetti $(060275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa di V grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01800</nterr>
+      <nperiod>003094</nperiod>
+      <datanum>17410424</datanum>
+      <data_label>1741 04 24</data_label>
+      <anno>1741</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4262</lat>
+      <lon>13.0046</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>87</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il paese aveva circa 800 abitanti e 110 case. Secondo una informativa inviata dal Podestà al Legato pontificio non ci fu neppure il più piccolo danno. Il documento è stato parzialmente pubblicato nell’ambito di una recente revisione scientifica $(092173)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26054</nterr>
+      <nperiod>002079</nperiod>
+      <datanum>19170426</datanum>
+      <data_label>1917 04 26</data_label>
+      <anno>1917</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>09:35:59</time_label>
+      <ora>09</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>43.4678</lat>
+      <lon>12.129</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>134</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Secondo il Bollettino Sismico la scossa fu del V grado della Scala Mercalli e durò 3s $(000149)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa fu leggera $(110427)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25486</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160517</datanum>
+      <data_label>1916 05 17</data_label>
+      <anno>1916</anno>
+      <mese>05</mese>
+      <giorno>17</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0111</lat>
+      <lon>12.6226</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>132</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 17 maggio, della durata di 5 secondi, fu avvertita da tutti coloro che si trovavano in casa, in particolare da coloro che abitavano ai piani superiori degli edifici; solo una piccola parte di coloro che si trovavano all’aperto la avvertì. Causò tremolio di piccoli oggetti e suono di campanelli $(120207)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23756</nterr>
+      <nperiod>003220</nperiod>
+      <datanum>19110219</datanum>
+      <data_label>1911 02 19</data_label>
+      <anno>1911</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>07:18:30</time_label>
+      <ora>07</ora>
+      <minu>18</minu>
+      <sec>30</sec>
+      <lat>44.118</lat>
+      <lon>12.0755</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>181</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa fu avvertita da diverse persone in stato di riposo, soprattutto ai piani superiori delle case $(000317)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa delle 0:22 GMT fu avvertita da poche persone $(000020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40785</nterr>
+      <nperiod>003256</nperiod>
+      <datanum>19790919</datanum>
+      <data_label>1979 09 19</data_label>
+      <anno>1979</anno>
+      <mese>09</mese>
+      <giorno>19</giorno>
+      <time_label>21:35:37</time_label>
+      <ora>21</ora>
+      <minu>35</minu>
+      <sec>37</sec>
+      <lat>42.7173</lat>
+      <lon>13.0752</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>9.1</imax>
+      <npun>694</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Favali et al. (1980) hanno valutato l’intensità della scossa di III grado MCS $(035274)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, della durata di circa 2 secondi, fu avverita leggermente da poche persone $(143258)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23794</nterr>
+      <nperiod>002075</nperiod>
+      <datanum>19110326</datanum>
+      <data_label>1911 03 26</data_label>
+      <anno>1911</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>20:20:50</time_label>
+      <ora>20</ora>
+      <minu>20</minu>
+      <sec>50</sec>
+      <lat>43.8112</lat>
+      <lon>11.8162</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>8</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Eremo di Camaldoli (AR)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02525</nterr>
+      <nperiod>002048</nperiod>
+      <datanum>17810603</datanum>
+      <data_label>1781 06 03</data_label>
+      <anno>1781</anno>
+      <mese>06</mese>
+      <giorno>03</giorno>
+      <time_label>06:25</time_label>
+      <ora>06</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>43.5763</lat>
+      <lon>12.5482</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>147</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Caduta di pezzi di cornicione e di calcinacci dalla volta e della chiesa detta del Metauro; lesioni alla chiesa Collegiata, a quella dei Minori Conventuali, all’annesso convento, che fu reso inabitabile, e al campanile; danni gravi al convento e alla chiesa delle Cappuccine e danni leggeri alla chiesa di S.Chiara mentre il relativo monastero è in parte rovinato; lesioni a tutte le case $(060359)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060359</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul terremoto di Cagli del 3 giugno 1781, in "Memorie della Società Geografica Italiana", vol.5, pp.363-83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110427</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici [e cronologici] dei fenomeni endogeni italiani col confronto di altri fenomeni per il primo quadrimestre dell’anno meteorico 187[3] (Decembre 187[2] ­ Marzo 187[3]), in "Bullettino del Vulcanismo Italiano", a.1, pp.I-XXII.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000149</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1917, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092173</codbib>
+      <autore1>Stucchi M., Monachesi G. e Mandrelli F.M.</autore1>
+      <titolo1>Investigation of 18th century seismicity in Central Italy in the light of the 1741 Fabriano earthquake, in "Tectonophysics", vol.193, pp.65-82.</titolo1>
+      <luogoed>Amsterdam</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143258</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 gennaio 1915 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Mercatello 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060275</codbib>
+      <autore1>Ferrari G.</autore1>
+      <titolo1>I terremoti dell’Appennino forlivese del 1917-1918, in "Atti del 4.o Convegno", Roma 29-31 ottobre 1985, CNR-GNGTS, vol.1, pp.313-327.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000317</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1911, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.18 (1914).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1923</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120207</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 17 maggio 1916 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Mercatello sul Metauro 17 maggio 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Forolivienses ab origine urbis usque ad a[nnum] 1473 (sec.XV), ed. G.Mazzatinti, in "Rerum Italicarum Scriptores", 2ª ed., tomo 22, parte 2.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1903 - 1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395680</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Arcipretale di Mercatello sul Metauro, Pergamene, 55, Atto di vendita di beni immobili appartenenti alla pieve di Mercatello rogato dal notaio Luca Uguccioni, Mercatello sul Metauro 11 giugno 1396.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1396</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395375</codbib>
+      <autore1>Leonardi C.</autore1>
+      <titolo1>Le fondazioni francescane nella terra di Mercatello sul Metauro.</titolo1>
+      <luogoed>Urbania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143793</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 giugno 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Mercatello sul Metauro 16 giugno 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143794</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 13 giugno 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Mercatello sul Metauro 24 giugno 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035274</codbib>
+      <autore1>Favali P., Giovani L., Spadea M.C. e Vecchi M.</autore1>
+      <titolo1>Il terremoto della Valnerina del 19 Settembre 1979, in "Annali di Geofisica", vol.33, pp.67-100.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

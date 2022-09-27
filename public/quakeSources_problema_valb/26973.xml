@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>26973</nterr>
+      <nperiod>003116</nperiod>
+      <datanum>19190910</datanum>
+      <data_label>1919 09 10</data_label>
+      <anno>1919</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>16:57:37</time_label>
+      <ora>16</ora>
+      <minu>57</minu>
+      <sec>37</sec>
+      <lat>42.8224</lat>
+      <lon>11.7641</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>57</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.3</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state reperite tre relazioni inedite conservate presso l’Archivio Centrale dello Stato (Ministero dell’Interno, Direzione generale della sanità pubblica). Le tre informative furono inviate al ministero dai prefetti di Siena e Grosseto. Sono state utilizzate, inoltre, le cronache pubblicate dai giornali dell’epoca (9 testate) ed è stata riesaminata la letteratura sismologica (Ingrao 1919; Cavasino 1935; Spadea et al. 1985).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>L’area colpita era tradizionalmente dedita all’agricoltura e alla pastorizia. Allo stato attuale della revisione le informazioni sugli interventi istituzionali riguardano la prima fase dell’emergenza. Gli amministratori provinciali e il governo inviarono tende e soldati e misero a disposizione dei prefetti alcune somme di denaro per i soccorsi più urgenti $(460183,460264,460271,460292)$. Furono richiesti accertamenti per la valutazione dei danni; per effettuare le stime dei crolli e delle lesioni, i prefetti e il ministro dei Lavori Pubblici inviarono nei centri danneggiati alcuni funzionari degli uffici del Genio Civile di Siena e di Roma $(460183,460184,460264,460271,460292)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>L’area degli effetti distruttivi comprende una decina di villaggi dell’area del monte Amiata, fra le province di Siena e di Grosseto; l’intera zona danneggiata si estende per circa 700 kmq. I danni più gravi furono riscontrati a Piancastagnaio, Celle sul Rigo, Montorio, Radicofani, San Casciano dei Bagni e San Giovanni delle Contee. Complessivamente a Piancastagnaio 8 case crollarono e 10 furono gravemente danneggiate; 40 case furono lesionate a San Casciano dei Bagni, 15 a Radicofani. Nei dintorni di Piancastagnaio crollarono diverse case coloniche sparse, causando un morto e una ventina di feriti.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Venne rilevato l’intorbidamento delle acque sorgive $(050399)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>Cavasino $(050399)$, facendo riferimento anche alle notizie riportate dai giornali, ricorda alcune repliche avvenute lo stesso giorno della scossa principale e nella mattina di quello seguente. Varie cronache riportano una scossa avvertita alle ore 19 locali dell’11 settembre 1919, che fece danni a Proceno, Castell’Azzara e a Piancastagnaio, lesionando anche alcuni edifici a Acquapendente; fu sentita a Siena, a Perugia e a Valentano $(460263,460264,460265,460272,460289,460296,460306,460309)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000151</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1919, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002166</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Piancastagnaio earthquake of September 10, 1919, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.128-129.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030118</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Macrosismi avvertiti in Italia nell’anno 1919, in "Bollettino della Società Sismologica Italiana", vol.22 (1919), pp.284-292.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460183</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Affari generali, 1910-1920, b.4/bis, Telegramma del prefetto di Siena Deufemia al Ministero dell’Interno, Siena 11 settembre 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460184</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Affari generali, 1910-1920, b.4/bis, Informativa del prefetto di Grosseto Bellini al Ministero dell’Interno, Grosseto 11 settembre 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460263</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1919.09.11.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460264</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Osservatore Romano, 1919.09.13.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460265</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.09.13.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460266</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.09.14.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460271</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1919, Telegrammi in arrivo dal settembre al novembre, n.16559, Telegramma del viceprefetto di Siena Tosi al Ministero dell’Interno Gabinetto, Siena 12 settembre 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460272</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale della Sera, 1919.09.11-12.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460289</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale delle Puglie, 1919.09.11-12.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460292</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere delle Puglie, 1919.09.13.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460296</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuova Sardegna, 1919.09.11-12.</titolo1>
+      <luogoed>Sassari</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460306</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo Romano, 1919.09.12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460309</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Piccolo, 1919.09.11-12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460312</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Idea Nazionale, 1919.09.12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale del Regno d’Italia, a.60, n.292 (11 dicembre 1919), Regio decreto-legge n.2241 (6 novembre 1919) che reca autorizzazione di spesa per costruzioni di case operaie e rurali e per altri provvedimenti nelle località colpite dai terremoti.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale del Regno d’Italia, a.62, n.289 (10 dicembre 1921), Regio decreto-legge 16 novembre 1921, n.1705, che reca provvedimenti in dipendenza dei terremoti.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1921</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale del Regno d’Italia, a.64, n.269 (16 novembre 1923), Regio decreto-legge 27 settembre 1923, n.2363, Provvedimenti per le località danneggiate da terremoti successivi a quello del 13 gennaio 1915.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1923</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670803</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.608, S/1126 AO, cart. Terremoto 26 dicembre 1927, Analisi dei prezzi, Elenco di comuni terremotati.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670804</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.608, S/1126 AO, Sezione V, Esercizio 1927-1928, Lavori, Progetti presentati, Progetti in corso di studio.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670805</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.608, S/1126 AO, Sezione V, Relazione semestrale periodo 1º gennaio 1928-30 giugno 1928.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670806</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.610, S/1130-1131 AO, cart. Appunti varii, Perizia dei lavori occorrenti per la riparazione delle case danneggiate dal terremoto 8-18 gennaio 1926 nel Comune di Abbadia San Salvatore (Prov. di Siena).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670807</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.610, S/1130-1131 AO, Lettera del costruttore Emilio Galassi all’ingegnere capo del Genio civile Servizio generale di Roma, Grosseto 12 dicembre 1931.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670808</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Preventivo per il consolidamento del Teatro di proprietà della Società filarmonica di Celle sul Rigo danneggiata dal terremoto 10 settembre 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670809</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, VII Compartimento, Servizio Terremoto, Sezione di S.Casciano dei Bagni (Siena), Case riparate e non ultimate in frazione di Celle sul Rigo.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670810</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, VII Compartimento, Servizio Terremoto, Sezione di S.Casciano dei Bagni (Siena), Elenco nominativo delle case rimaste da riparare.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670811</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera di Zaccaria Spinelli all’ingegnere del Genio civile per la zona di Celle sul Rigo e di Acquapendente, Celle sul Rigo 9 giugno 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670812</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera di Antonio Papalini all’Ufficio del Genio civile di Acquapendente, s.l. s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670813</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera delle eredi di monsignor Bernardino Caldaoioli all’Ufficio del Genio civile di Acquapendente, s.l. s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670814</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera di Dorotea Canestri all’Ufficio del Genio civile di Acquapendente, Celle sul Rigo 27 marzo 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670815</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera di Domenico Rossi all’ingegnere capo del Genio civile di Acquapendente, San Casciano dei Bagni 1 maggio 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670816</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Verbale di consegna baracche, San Casciano dei Bagni 4 maggio 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670817</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera di Giuseppe Silvagni all’ispettore superiore dell’VIII Compartimento del Genio civile, Livorno 30 settembre 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670818</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Lettera dell’ingegnere capo del Servizio generale dell’Ufficio del Genio civile di Roma al Ministero dei Lavori pubblici Direzione opere pubbliche dell’Italia centrale, Roma 10 gennaio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670819</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Verbale di consegna per vendita dell’ingegnere capo del Genio civile, Compartimento X, Ufficio di Roma, Servizio generale, s.l. s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670820</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. S.Casciano Bagni. Cessione baracche al Comune e corrispondenze varie, Ricevuta del sindaco di San Casciano dei Bagni, San Casciano dei Bagni 12 maggio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670821</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Materiali. Cessione per baraccamenti, Elenchi ricevute, Appunto all’ingegnere capo di Acquapendente Giuseppe Rocchi, s.l. s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670822</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Materiali. Cessione per baraccamenti, Elenchi ricevute, Lettera di Luigi Bologna all’ingegnere capo del Genio civile, Servizio generale di Roma, Radicofani 11 maggio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670823</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Comune S.Casciano Bagni. Consegna Baracche, Verbale di cessione di baracche, San Casciano dei Bagni 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670824</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Comune S.Casciano Bagni. Consegna Baracche, Verbale di cessione di baracche, San Casciano dei Bagni 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670825</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Comune S.Casciano Bagni. Consegna Baracche, Verbale di cessione di baracche, San Casciano dei Bagni 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670826</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611 S/1130-1131, AO, cart. Consegna Baracche al Comune di Radicofani, Verbale di cessione di baracche, Radicofani 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670827</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna Baracche al Comune di Radicofani, Verbale di cessione di baracche, Radicofani luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670828</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna Baracche al Comune di Radicofani, Verbale di cessione di baracche, Radicofani 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670829</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna Baracche al Comune di Radicofani, Verbale di cessione di baracche, Radicofani 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670830</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna Baracche al Comune di Radicofani, Verbale di cessione di baracche, Radicofani 31 luglio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670831</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna di Baracche al Comune di Abbadia S.Salvatore, Verbale di cessione di baracche, Piancastagnaio 4 agosto 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670832</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna di Baracche al Comune di Abbadia S.Salvatore, Verbale di cessione di baracche, Abbadia San Salvatore 4 agosto 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670833</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna di Baracche al Comune di Abbadia S.Salvatore, Verbale di cessione di baracche, Piancastagnaio 4 agosto 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670834</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna baracche ai comuni. Proposte d’acquisto, Verbale di cessione di baracche al comune di San Casciano dei Bagni, 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670835</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna baracche ai comuni. Proposte d’acquisto, Verbale di cessione di baracche al comune di Radicofani, Radicofani gennaio 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670836</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Consegna baracche ai comuni. Proposte d’acquisto, Verbale di cessione di baracche al comune di Radicofani, Radicofani gennaio 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670837</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Terremoto 10 settembre 1919. Consegna ai Comuni delle baracche costruite da privati, Verbale di cessione di baracche al comune di San Casciano dei Bagni, febbraio 1925.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1925</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670838</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Terremoto 10 settembre 1919. Consegna ai Comuni delle baracche costruite da privati, Lettera del podestà di San Casciano dei Bagni al Genio civile Servizio generale di Roma, San Casciano dei Bagni 5 giugno 1926.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670839</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, cart. Terremoto 10 settembre 1919. Consegna ai Comuni delle baracche costruite da privati, Lettera del podestà di San Casciano dei Bagni al Genio civile Servizio generale di Roma, San Casciano dei Bagni 22 settembre 1926.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670840</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1130-1131 AO, Perizia e computo estimativo dei lavori da eseguirsi nella casa colonica "Pompeo" a causa dei danneggiamenti prodotti dal terremoto del 1919, Piancastagnaio 3 aprile 1929.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670841</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.611, S/1132 AO, cart. Consegna baracche, Minuta di lettera dell’ingegnere capo del Genio civile Servizio generale di Roma al sindaco di Proceno, Roma maggio 1924.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1924</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670842</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.612, S/1133 AO, Lettera dell’ingegnere capo dell’Ufficio del Genio civile di Grosseto all’Ufficio del Genio civile Servizio generale di Roma, Grosseto 15 aprile 1926.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670843</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.612, S/1133 AO, cart. Pratiche varie, Lettera del santese della chiesa della Madonna del Castagno di Abbadia San Salvatore avvocato Giovanni Volpini all’ingegnere capo del Genio civile Servizio generale di Roma Garbini, Abbadia San Salvatore 21 giugno 1926.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670847</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Genio civile, Servizio generale, Consolidamento, b.612, S/1133 AO, Sezione V, Relazione semestrale periodo 1º gennaio 1927-30 giugno 1927.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1927</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745052</codbib>
+      <autore1>Ministero dei Lavori Pubblici</autore1>
+      <titolo1>L’azione del Governo Fascista per la ricostruzione delle zone danneggiate da calamità, a cura della Direzione Generale dei Servizi Speciali.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1932</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Piancastagnaio</desloc>
+      <lat_wgs84>42.8504</lat_wgs84>
+      <lon_wgs84>11.6873</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047791.00</nloc_cfti>
+      <desloc_cfti>Piancastagnaio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono riscontrate 8 case interamente distrutte, 10 gravemente lesionate, 1 morto e 20 feriti $(460271)$. Danni nelle campagne, dove alcune case coloniche crollarono completamente, causando un morto e una ventina di feriti $(050399,460266)$. "L’Osservatore romano" riporta anche la notizia del ferimento di circa 80 persone $(460264)$.&lt;br&gt;Una nuova scossa, avvenuta l’11 settembre alle ore 19 (locali), causò altre lesioni alle case $(460309)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Celle sul Rigo</desloc>
+      <lat_wgs84>42.8645</lat_wgs84>
+      <lon_wgs84>11.8224</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047882.00</nloc_cfti>
+      <desloc_cfti>Celle sul Rigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una fonte menziona circa 30 case danneggiate gravemente o abbattute $(460183)$. Il "Corriere d’Italia" ricorda il ferimento di 10 persone $(460265)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Montorio</desloc>
+      <lat_wgs84>42.7419</lat_wgs84>
+      <lon_wgs84>11.7669</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048411.00</nloc_cfti>
+      <desloc_cfti>Montorio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo l’Osservatore romano $(460264)$ e il Corriere d’Italia $(460265)$, moltissime case rimasero lesionate e altre completamente distrutte.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Radicofani</desloc>
+      <lat_wgs84>42.8963</lat_wgs84>
+      <lon_wgs84>11.7683</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047864.00</nloc_cfti>
+      <desloc_cfti>Radicofani</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel telegramma inviato dal prefetto di Siena al Ministero degli Interni si comunicava che nel paese furono danneggiate e distrutte in tutto 12 case $(460183)$. Queste notizie vennero confermate anche dall’Osservatore romano, che ricorda il ferimento di parecchie persone, alcune delle quali in maniera grave $(460264)$. Il Corriere d’Italia menziona soltanto gravi danni ai fabbricati $(460265)$; Cavasino riporta genericamente che il paese venne danneggiato $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>San Casciano dei Bagni</desloc>
+      <lat_wgs84>42.8719</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047889.00</nloc_cfti>
+      <desloc_cfti>San Casciano dei Bagni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Cavasino riporta genricamente che il paese venne danneggiato $(050399)$. Nel telegramma inviato dal prefetto di Siena al Ministero degli Interni si comunicava che il terremoto aveva causato il ferimento di alcune persone $(460183)$. In un secondo telegramma, si precisa che vi erano 40 case lesionate e alcuni feriti $(460271)$. L’Osservatore romano $(460264)$ e il Corriere d’Italia $(460265)$ scrissero in modo generico che vi furono case interamente crollate.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>San Giovanni delle Contee</desloc>
+      <lat_wgs84>42.7536</lat_wgs84>
+      <lon_wgs84>11.7641</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048414.00</nloc_cfti>
+      <desloc_cfti>San Giovanni delle Contee</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Un telegramma inviato dal prefetto di Grosseto al Ministero degli Interni comunicava che si erano aperte profonde lesioni nelle pareti di alcuni edifici; in altri erano crollati i tetti $(460184)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Abbadia San Salvatore</desloc>
+      <lat_wgs84>42.8807</lat_wgs84>
+      <lon_wgs84>11.6774</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047520.00</nloc_cfti>
+      <desloc_cfti>Abbadia San Salvatore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>L’Osservatore romano $(460264)$ e il Corriere d’Italia $(460265)$ riportarono la notizia del il crollo di moltissimi edifici: l’informazione fu drasticamente precisata nel Corriere d’Italia del 14 settembre, dove si afferma che i danni erano di minima entità, poiché riguardarono il crollo di alcuni camini e diverse leggere lesioni che si aprirono in quasi tutti i fabbricati $(460266)$. In un telegramma del prefetto di Siena al Ministero degli Interni, si menzionano delle lesioni in alcune case $(460271)$. Cavasino incluse questo paese nell’elenco di quelli in cui il terremoto causò lievi danni $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Acquapendente</desloc>
+      <lat_wgs84>42.743</lat_wgs84>
+      <lon_wgs84>11.8676</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052793.00</nloc_cfti>
+      <desloc_cfti>Acquapendente</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il girnale "Il Piccolo" dell’11/12 settembre ricorda genericamente alcuni leggeri danni verificatisi a seguito di una scossa avvertita alle ore 19 dell’11 settembre $(460309)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Castell'Azzara</desloc>
+      <lat_wgs84>42.7715</lat_wgs84>
+      <lon_wgs84>11.6986</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048093.00</nloc_cfti>
+      <desloc_cfti>Castell’Azzara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Cavasino il terremoto causò leggerissimi danni $(050399)$. "L’Osservatore romano" $(460264)$ ricorda, invece, questo paese come gravemente colpito. "Il Piccolo" scrisse genericamente di altre lesioni causate dalla scossa dell’11 settembre alle ore 19 locali $(460309)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Roccalbegna</desloc>
+      <lat_wgs84>42.7859</lat_wgs84>
+      <lon_wgs84>11.5075</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048291.00</nloc_cfti>
+      <desloc_cfti>Roccalbegna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel telegramma inviato dal Prefetto si comunicava che erano state lesionate 15 case e ferita 1 persona $(460271)$. Cavasino menziona qualche danno agli edifici $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Onano</desloc>
+      <lat_wgs84>42.6931</lat_wgs84>
+      <lon_wgs84>11.816</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052926.00</nloc_cfti>
+      <desloc_cfti>Onano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Cavasino ricorda che il paese subì lievi danni $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Pitigliano</desloc>
+      <lat_wgs84>42.6348</lat_wgs84>
+      <lon_wgs84>11.668</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048289.00</nloc_cfti>
+      <desloc_cfti>Pitigliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Un telegramma del prefetto di Grosseto al Ministero degli Interni menziona lievissimi danni $(460184)$; stessa informazione in Cavasino $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Proceno</desloc>
+      <lat_wgs84>42.7576</lat_wgs84>
+      <lon_wgs84>11.8296</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052937.00</nloc_cfti>
+      <desloc_cfti>Proceno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Cavasino $(050399)$ menziona genericamente i danni in questo paese. Il giornale Il Piccolo menziona altre lesioni causate da una scossa verificatasi alle ore 19 locali dell’11 settembre. L’Osservatore romano scrisse genericamente che il paese subì gravissimi danni $(460264,460309)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Santa Fiora</desloc>
+      <lat_wgs84>42.832</lat_wgs84>
+      <lon_wgs84>11.5862</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048328.00</nloc_cfti>
+      <desloc_cfti>Santa Fiora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il prefetto di Grosseto comunicò che vi erano stati lievissimi danni $(460184)$; stessa informazione in Cavasino $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Sorano</desloc>
+      <lat_wgs84>42.6821</lat_wgs84>
+      <lon_wgs84>11.7148</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048427.00</nloc_cfti>
+      <desloc_cfti>Sorano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il prefetto di Grosseto comunicò al Ministero degli Interni che la scossa aveva causato leggeri danni $(460184)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Città della Pieve</desloc>
+      <lat_wgs84>42.9531</lat_wgs84>
+      <lon_wgs84>12.0042</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048655.00</nloc_cfti>
+      <desloc_cfti>Città della Pieve</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Soltanto Cavasino ricorda che il paese subì lievissimi danni $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Latera</desloc>
+      <lat_wgs84>42.6272</lat_wgs84>
+      <lon_wgs84>11.8281</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052885.00</nloc_cfti>
+      <desloc_cfti>Latera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Cavasino ricorda che il paese subì lievissimi danni $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bolsena</desloc>
+      <lat_wgs84>42.6451</lat_wgs84>
+      <lon_wgs84>11.9868</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052819.00</nloc_cfti>
+      <desloc_cfti>Bolsena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Castel del Piano</desloc>
+      <lat_wgs84>43.0597</lat_wgs84>
+      <lon_wgs84>12.3058</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049305.00</nloc_cfti>
+      <desloc_cfti>Castel del Piano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cetona</desloc>
+      <lat_wgs84>42.9639</lat_wgs84>
+      <lon_wgs84>11.9017</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047606.00</nloc_cfti>
+      <desloc_cfti>Cetona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Chiusi</desloc>
+      <lat_wgs84>43.0161</lat_wgs84>
+      <lon_wgs84>11.9471</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047627.00</nloc_cfti>
+      <desloc_cfti>Chiusi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Forte scossa che causò scene di panico; nessun danno; moltissime persone pernottarono all’aperto $(460264,000151)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ficulle</desloc>
+      <lat_wgs84>42.8357</lat_wgs84>
+      <lon_wgs84>12.0658</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>050003.00</nloc_cfti>
+      <desloc_cfti>Ficulle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gradoli</desloc>
+      <lat_wgs84>42.6439</lat_wgs84>
+      <lon_wgs84>11.8551</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052870.00</nloc_cfti>
+      <desloc_cfti>Gradoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Guardea</desloc>
+      <lat_wgs84>42.6226</lat_wgs84>
+      <lon_wgs84>12.298</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>050015.00</nloc_cfti>
+      <desloc_cfti>Guardea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Livorno</desloc>
+      <lat_wgs84>43.5508</lat_wgs84>
+      <lon_wgs84>10.3207</lon_wgs84>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>045968.00</nloc_cfti>
+      <desloc_cfti>Livorno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Forte scossa che causò scene di panico fra la popolazione; nessun danno $(460264,000151)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Manciano</desloc>
+      <lat_wgs84>42.5869</lat_wgs84>
+      <lon_wgs84>11.5159</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048223.00</nloc_cfti>
+      <desloc_cfti>Manciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pienza</desloc>
+      <lat_wgs84>43.077</lat_wgs84>
+      <lon_wgs84>11.6786</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047807.00</nloc_cfti>
+      <desloc_cfti>Pienza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Poggibonsi</desloc>
+      <lat_wgs84>43.4707</lat_wgs84>
+      <lon_wgs84>11.1461</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047810.00</nloc_cfti>
+      <desloc_cfti>Poggibonsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Valentano</desloc>
+      <lat_wgs84>42.5663</lat_wgs84>
+      <lon_wgs84>11.8217</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052962.00</nloc_cfti>
+      <desloc_cfti>Valentano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Forte scossa percepita della durata di 3 secondi $(460309)$. Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Sarteano</desloc>
+      <lat_wgs84>42.9899</lat_wgs84>
+      <lon_wgs84>11.8687</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047909.00</nloc_cfti>
+      <desloc_cfti>Sarteano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Scossa fu percepita della durata di un secondo; non sono noti dettagli macrosismici $(000151)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu percepita della durata di 7 secondi, nessun danno $(460263)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Alviano</desloc>
+      <lat_wgs84>42.591</lat_wgs84>
+      <lon_wgs84>12.297</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049901.00</nloc_cfti>
+      <desloc_cfti>Alviano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV-V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ischia di Castro</desloc>
+      <lat_wgs84>42.544</lat_wgs84>
+      <lon_wgs84>11.7562</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052884.00</nloc_cfti>
+      <desloc_cfti>Ischia di Castro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV-V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Montefiascone</desloc>
+      <lat_wgs84>42.538</lat_wgs84>
+      <lon_wgs84>12.0301</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052909.00</nloc_cfti>
+      <desloc_cfti>Montefiascone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV-V grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Roccastrada</desloc>
+      <lat_wgs84>43.0101</lat_wgs84>
+      <lon_wgs84>11.1671</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048306.00</nloc_cfti>
+      <desloc_cfti>Roccastrada</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Scansano</desloc>
+      <lat_wgs84>42.6885</lat_wgs84>
+      <lon_wgs84>11.3347</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048350.00</nloc_cfti>
+      <desloc_cfti>Scansano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sinalunga</desloc>
+      <lat_wgs84>43.2146</lat_wgs84>
+      <lon_wgs84>11.7411</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047984.00</nloc_cfti>
+      <desloc_cfti>Sinalunga</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al IV grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Perugia</desloc>
+      <lat_wgs84>43.1068</lat_wgs84>
+      <lon_wgs84>12.3862</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049390.00</nloc_cfti>
+      <desloc_cfti>Perugia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di vari secondi, nessun danno $(460263)$. Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al III-IV grado Mercalli.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Castiglione del Lago</desloc>
+      <lat_wgs84>43.1271</lat_wgs84>
+      <lon_wgs84>12.0505</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048579.00</nloc_cfti>
+      <desloc_cfti>Castiglione del Lago</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al III grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Lisciano Niccone</desloc>
+      <lat_wgs84>43.2465</lat_wgs84>
+      <lon_wgs84>12.1431</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049053.00</nloc_cfti>
+      <desloc_cfti>Lisciano Niccone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al III grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Spoleto</desloc>
+      <lat_wgs84>42.7326</lat_wgs84>
+      <lon_wgs84>12.7357</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049693.00</nloc_cfti>
+      <desloc_cfti>Spoleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al II-III grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Subiaco</desloc>
+      <lat_wgs84>41.9259</lat_wgs84>
+      <lon_wgs84>13.0946</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>054435.00</nloc_cfti>
+      <desloc_cfti>Subiaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al II-III grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Todi</desloc>
+      <lat_wgs84>42.7822</lat_wgs84>
+      <lon_wgs84>12.4065</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049785.00</nloc_cfti>
+      <desloc_cfti>Todi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al II-III grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Orbetello</desloc>
+      <lat_wgs84>42.438</lat_wgs84>
+      <lon_wgs84>11.2107</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048280.00</nloc_cfti>
+      <desloc_cfti>Orbetello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al II grado Mercalli; non sono noti dettagli macrosismici.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Rocca di Papa</desloc>
+      <lat_wgs84>41.761</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>054017.00</nloc_cfti>
+      <desloc_cfti>Rocca di Papa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel Bollettino sismico $(000151)$ gli effetti sono classificati pari al II grado Mercalli.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arezzo</desloc>
+      <lat_wgs84>43.4635</lat_wgs84>
+      <lon_wgs84>11.8791</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>046638.00</nloc_cfti>
+      <desloc_cfti>Arezzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arsoli</desloc>
+      <lat_wgs84>42.0411</lat_wgs84>
+      <lon_wgs84>13.0193</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>053661.00</nloc_cfti>
+      <desloc_cfti>Arsoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Assisi</desloc>
+      <lat_wgs84>43.0709</lat_wgs84>
+      <lon_wgs84>12.6161</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>048435.00</nloc_cfti>
+      <desloc_cfti>Assisi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cortona</desloc>
+      <lat_wgs84>43.2753</lat_wgs84>
+      <lon_wgs84>11.9863</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>047146.00</nloc_cfti>
+      <desloc_cfti>Cortona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Genzano di Roma</desloc>
+      <lat_wgs84>41.7075</lat_wgs84>
+      <lon_wgs84>12.6882</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>053793.00</nloc_cfti>
+      <desloc_cfti>Genzano di Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Leonessa</desloc>
+      <lat_wgs84>42.5669</lat_wgs84>
+      <lon_wgs84>12.9621</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>053339.00</nloc_cfti>
+      <desloc_cfti>Leonessa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Marino</desloc>
+      <lat_wgs84>41.7705</lat_wgs84>
+      <lon_wgs84>12.6609</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>053873.00</nloc_cfti>
+      <desloc_cfti>Marino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Portoferraio</desloc>
+      <lat_wgs84>42.8149</lat_wgs84>
+      <lon_wgs84>10.3189</lon_wgs84>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>046031.00</nloc_cfti>
+      <desloc_cfti>Portoferraio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Prato</desloc>
+      <lat_wgs84>43.4432</lat_wgs84>
+      <lon_wgs84>12.1186</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>049169.00</nloc_cfti>
+      <desloc_cfti>Prato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sant'Oreste</desloc>
+      <lat_wgs84>42.2341</lat_wgs84>
+      <lon_wgs84>12.522</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>054416.00</nloc_cfti>
+      <desloc_cfti>Sant’Oreste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Serravalle di Chienti</desloc>
+      <lat_wgs84>43.0732</lat_wgs84>
+      <lon_wgs84>12.9549</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>052128.00</nloc_cfti>
+      <desloc_cfti>Serravalle di Chienti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Vallombrosa</desloc>
+      <lat_wgs84>43.7322</lat_wgs84>
+      <lon_wgs84>11.5574</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>26973</nterr>
+      <nloc_cfti>045570.00</nloc_cfti>
+      <desloc_cfti>Vallombrosa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(002166)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036193.00</nloc_cfti>
+      <desloc_cfti>Cannetolo</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>44.8843</lat_wgs84>
+      <lon_wgs84>10.145</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20041</nterr>
+      <nperiod>000384</nperiod>
+      <datanum>19060825</datanum>
+      <data_label>1906 08 25</data_label>
+      <anno>1906</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>03:11</time_label>
+      <ora>03</ora>
+      <minu>11</minu>
+      <sec>-9</sec>
+      <lat>44.8133</lat>
+      <lon>10.079</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>31</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

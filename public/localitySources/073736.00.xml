@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073736.00</nloc_cfti>
+      <desloc_cfti>Celle</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.8974</lat_wgs84>
+      <lon_wgs84>11.7351</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Frazione del Comune di Premilcuore. La scossa del 29 giugno 1919 colpì un patrimonio edilizio già indebolito dal precedente terremoto del 10 novembre 1918: secondo dati ufficiali del Genio civile, furono complessivamente danneggiate 29 case, di cui 15 furono rese inabitabili $(661143)$.&lt;br&gt;Fu ulteriormente danneggiata la chiesa parrocchiale di S.Maria, dove furono rilevati danni gravi al tetto e al campanile a vela di cui fu ritenuta necessaria la demolizione e ricostruzione; nelle strutture murarie furono invece riscontrate poche lesioni di non grave entità, per le quali si ritenne sufficiente la riparazione e l’apposizione di tiranti $(661032)$. Per la riparazione dell’edificio lo Stato concesse un contributo di 8.100 lire $(671268,671267)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto del 10 novembre 1918 e la successiva scossa del 29 giugno 1919 danneggiarono gravemente la chiesa di S.Maria, il cui campanile a vela dovette essere demolito; il tetto subì danni notevoli nella copertura e nella sottocopertura e i muri furono lievemente lesionati $(661032)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>661143</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, b.62, Corrispondenza varia, Elenco delle case danneggiate dal terremoto del 29 giugno 1919 nel comune di Premilcuore, luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661032</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, Ufficio speciale per il terremoto tosco-romagnolo, serie III, Chiese e canoniche, b.968, fasc.63 (1922-1925), Relazione sui lavori di riparazione della chiesa parrocchiale di S.Maria di Celle, frazione del comune di Premilcuore, danneggiata dai terremoti del 10 novembre 1918 e del 29 giugno 1919 redatta dal geometra Guido Santi, Santa Sofia 10 agosto 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671268</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1100, tit.12626 (Celle, Modigliana. Parrocchia S.Maria), Lettera del Ministero della Giustizia e degli affari di culto Divisione 12ª Sezione 3ª all’economo generale dei Benefici vacanti di Firenze, Roma 2 gennaio 1923.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1923</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671267</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale degli affari di culto, Divisione autorizzazioni e tutela, Enti, b.1100, tit.12626 (Celle, Modigliana. Parrocchia S.Maria), Lettera del Ministero dei Lavori pubblici Direzione generale servizi speciali al Ministero della Giustizia e degli affari di culto Divisione 12ª, Roma 16 dicembre 1922.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

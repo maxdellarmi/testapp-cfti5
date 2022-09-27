@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>016508.99</nloc_cfti>
+      <desloc_cfti>Muscoline</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.5633</lat_wgs84>
+      <lon_wgs84>10.4609</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>36548</nterr>
+      <nperiod>000663</nperiod>
+      <datanum>19700103</datanum>
+      <data_label>1970 01 03</data_label>
+      <anno>1970</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>23:44:19</time_label>
+      <ora>23</ora>
+      <minu>44</minu>
+      <sec>19</sec>
+      <lat>45.5661</lat>
+      <lon>10.4653</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>11</npun>
+      <mm>4</mm>
+      <earthquakelocation>Garda bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò molti danni alle abitazioni, specialmente nella frazione di Castello $(170140)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>170140</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.11.03, n.303.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

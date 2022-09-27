@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42115</nterr>
+      <nperiod>009089</nperiod>
+      <datanum>14650122</datanum>
+      <data_label>1465 01 22</data_label>
+      <anno>1465</anno>
+      <mese>01</mese>
+      <giorno>22</giorno>
+      <time_label>22:20</time_label>
+      <ora>22</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.4986</lat>
+      <lon>11.3396</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090058</codbib>
+      <autore1>Ghirardacci C.</autore1>
+      <titolo1>Della historia di Bologna. Parte terza, ed. A.Sorbelli, in "Rerum Italicarum Scriptores", 2ª ed., tomo 33, parte 1 e 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1912 - 1932</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090320</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Rampona (Cronaca A) [1104-1471], in Corpus chronicorum Bononiensium, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Varignana (Cronaca B) [-1471], in Corpus chronicorum Bononiensum, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42115</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

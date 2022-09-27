@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090240.00</nloc_cfti>
+      <desloc_cfti>Ischia (isola)</desloc_cfti>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>40.7256</lat_wgs84>
+      <lon_wgs84>13.911</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00095</nterr>
+      <nperiod>005289</nperiod>
+      <datanum>12280700</datanum>
+      <data_label>1228 07 -</data_label>
+      <anno>1228</anno>
+      <mese>07</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.726</lat>
+      <lon>13.911</lon>
+      <rel>D</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>1</npun>
+      <mm>0</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1>Nel luglio 1228 ci fu un esteso franamento dai fianchi del monte Epomeo, forse innescato da un forte terremoto. I materiali franati travolsero i villaggi sottostanti causando la morte di circa 700 persone $(090007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42793</nterr>
+      <nperiod>009731</nperiod>
+      <datanum>12751102</datanum>
+      <data_label>1275 11 02</data_label>
+      <anno>1275</anno>
+      <mese>11</mese>
+      <giorno>02</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.7256</lat>
+      <lon>13.911</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto avvenne poco tempo prima del 2 novembre 1275 e causò gravi danni: alcune case furono distrutte e diverse persone morirono, ma non se ne conosce il numero preciso.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090007</codbib>
+      <autore1>Ryccardus de Sancto Germano</autore1>
+      <titolo1>Chronica (1189-1243), ed. C.A.Garufi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 7, parte 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1936 - 1938</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640043</codbib>
+      <autore1>Carlo I d’Angiò</autore1>
+      <titolo1>Mandato del re Carlo I d’Angiò a Carmaino di Napoli e al notaio Giovanni di Barletta, Napoli 2 novembre 1275, in "I registri della Cancelleria angioina ricostruiti da Riccardo Filangieri con la collaborazione degli archivisti napoletani", vol.43 (1270-1293), ed. M.Cubellis, reg.70, add.51, pp.128-129.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1996</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

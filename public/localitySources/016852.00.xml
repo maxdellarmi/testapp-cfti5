@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>016852.00</nloc_cfti>
+      <desloc_cfti>Rovato</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>5</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.5649</lat_wgs84>
+      <lon_wgs84>10.0019</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15004</nterr>
+      <nperiod>000762</nperiod>
+      <datanum>18941127</datanum>
+      <data_label>1894 11 27</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>05:07:55</time_label>
+      <ora>05</ora>
+      <minu>07</minu>
+      <sec>55</sec>
+      <lat>45.5647</lat>
+      <lon>10.1222</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>183</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Gentile et al. $(001342)$ assegnano un’intensità del IV-V grado della scala MCS.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19253</nterr>
+      <nperiod>003218</nperiod>
+      <datanum>19050429</datanum>
+      <data_label>1905 04 29</data_label>
+      <anno>1905</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>01:46:45</time_label>
+      <ora>01</ora>
+      <minu>46</minu>
+      <sec>45</sec>
+      <lat>46.0163</lat>
+      <lon>7.0109</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>268</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000017)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02304</nterr>
+      <nperiod>000955</nperiod>
+      <datanum>17740331</datanum>
+      <data_label>1774 03 31</data_label>
+      <anno>1774</anno>
+      <mese>03</mese>
+      <giorno>31</giorno>
+      <time_label>15:10</time_label>
+      <ora>15</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>45.5548</lat>
+      <lon>10.108</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò il crollo di metà della sacrestia della chiesa dell’Annunziata, la stessa chiesa e il monastero furono danneggiati, crollarono anche molti camini del paese $(830008)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001342</codbib>
+      <autore1>Gentile F., Poropat M., Renner G., Riggio A.M. e Slejko D.</autore1>
+      <titolo1>The Alpago earthquake of June 29, 1873, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.94-97.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>830008</codbib>
+      <autore1>Costa A.</autore1>
+      <titolo1>Compendio storico della città di Brescia (sec.XVIII), a cura di U.Vaglia.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000017</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1905, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1907 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

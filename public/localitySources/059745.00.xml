@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>059745.00</nloc_cfti>
+      <desloc_cfti>Iella</desloc_cfti>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>41.2987</lat_wgs84>
+      <lon_wgs84>14.6798</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16740</nterr>
+      <nperiod>000746</nperiod>
+      <datanum>18980825</datanum>
+      <data_label>1898 08 25</data_label>
+      <anno>1898</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>16:37:46</time_label>
+      <ora>16</ora>
+      <minu>37</minu>
+      <sec>46</sec>
+      <lat>42.8962</lat>
+      <lon>12.9938</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>67</npun>
+      <mm>5</mm>
+      <earthquakelocation>Alta Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa del 25 agosto 1898, avvenuta alle ore 16:37 GMT, non fu avvertita $(110958)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110958</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1898, n.312, Cartolina macrosismica relativa al terremoto del 25 agosto 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, San Benedetto del Tronto 25 agosto 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

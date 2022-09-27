@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058854.00</nloc_cfti>
+      <desloc_cfti>Toro</desloc_cfti>
+      <provlet>CB</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>6</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>41.5708</lat_wgs84>
+      <lon_wgs84>14.7661</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>B0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5327</lat>
+      <lon>14.508</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>89</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Area di Isernia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fu avvertita con qualche danno $(635162,635176,635180)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di V grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea e Vecchi (1985) hanno valutato l’intensità della scossa del 7 maggio di IV-V grado MCS $(052131)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04869</nterr>
+      <nperiod>003104</nperiod>
+      <datanum>18050726</datanum>
+      <data_label>1805 07 26</data_label>
+      <anno>1805</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5009</lat>
+      <lon>14.4738</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>220</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>36</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Il terremoto causò il crollo di quasi tutti gli edifici del paese: solo 7 di essi rimasero in piedi. Si registrarono 274 vittime e 88 feriti $(110062,900345,900346,090410)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700173</codbib>
+      <autore1>Sant’Antonino Pierozzi</autore1>
+      <titolo1>Chronicorum opus in tres partes divisum ab orbe condito, annum usque 1459, 3 voll.</titolo1>
+      <luogoed>Lyon</luogoed>
+      <datacompl>1586</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410450</codbib>
+      <autore1>Astesano Antonio</autore1>
+      <titolo1>De admirabili terremotu qui in regno neapolitano accidit Anno Christi Millesimo quadringentesimo quinquagesimo sexto die quarto decembris. Nec non de apparitione crucifixi apud Capuam dicti Regni Civitatem, in A.Tallone, ‘Un poemetto storico inedito di Antonio Astesano sul terremoto del 1456’, "Archivio Muratoriano", vol.1, pp.205-217.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635162</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.103, "Relatione de’ danni patiti in diversi corpi da’ beni dell’abbadia di S.Sofia di Benevento, per causa del orribil terremoto seguito li 5 del corrente mese di giugno del corrente anno 1688" allegata al dispaccio del nunzio apostolico monsignor Carlo Francesco Muti al segretario di Stato cardinale Alderano Cybo del 22 giugno 1688.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.104, Lettera del nunzio apostolico monsignor Carlo Francesco Muti al segretario di Stato cardinale Alderano Cybo, Napoli 24 luglio 1688.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635180</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.104, Lettera del nunzio apostolico monsignor Carlo Francesco Muti al segretario di Stato cardinale Alderano Cybo, Napoli 21 agosto 1688.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110062</codbib>
+      <autore1>Pepe G.</autore1>
+      <titolo1>Ragguaglio istorico-fisico del tremuoto accaduto nel Regno di Napoli la sera de’ 26 luglio 1805.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900345</codbib>
+      <autore1>Poli G.S.</autore1>
+      <titolo1>Memoria sul tremuoto de’ 26 luglio del corrente anno 1805.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1806</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900346</codbib>
+      <autore1>Capozzi G.</autore1>
+      <titolo1>Memoria sul tremuoto avvenuto nel contado di Molise nella sera de’ 26 luglio dell’anno 1805.</titolo1>
+      <luogoed>Benevento</luogoed>
+      <datacompl>1834</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090410</codbib>
+      <autore1>Esposito E., Laurelli L. e Porfido S.</autore1>
+      <titolo1>Il terremoto del 26 luglio 1805. Lo scenario dei danni nella città di Isernia.</titolo1>
+      <luogoed>Isernia</luogoed>
+      <datacompl>1992</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052131</codbib>
+      <autore1>Spadea M.C. e Vecchi M. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1984, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

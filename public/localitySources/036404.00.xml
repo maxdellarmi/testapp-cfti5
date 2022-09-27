@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036404.00</nloc_cfti>
+      <desloc_cfti>Montechiarugolo</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>5</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.6935</lat_wgs84>
+      <lon_wgs84>10.4216</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa danneggiò l’abitato causando crepe e in qualche caso distacco degli intonaci nelle pareti, caduta di qualche fumaiolo, lievi lesioni o aggravamento di lesioni preesistenti in case vecchie o in cattivo stato di conservazione $(035061,035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00434</nterr>
+      <nperiod>000063</nperiod>
+      <datanum>14650407</datanum>
+      <data_label>1465 04 07</data_label>
+      <anno>1465</anno>
+      <mese>04</mese>
+      <giorno>07</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.9434</lat>
+      <lon>10.6821</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>11</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00409</nterr>
+      <nperiod>000061</nperiod>
+      <datanum>14551220</datanum>
+      <data_label>1455 12 20</data_label>
+      <anno>1455</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.4163</lat>
+      <lon>11.2614</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Media valle del Reno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19107</nterr>
+      <nperiod>000363</nperiod>
+      <datanum>19050105</datanum>
+      <data_label>1905 01 05</data_label>
+      <anno>1905</anno>
+      <mese>01</mese>
+      <giorno>05</giorno>
+      <time_label>03:02</time_label>
+      <ora>03</ora>
+      <minu>02</minu>
+      <sec>-9</sec>
+      <lat>44.9285</lat>
+      <lon>10.1237</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>3.5</imax>
+      <npun>15</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Soragna (PR)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Gli effetti della scossa furono valutati pari al VII grado MCS sul Bollettino Sismico dell’Istituto Nazionale di Geofisica $(000581)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035061</codbib>
+      <autore1>Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Il terremoto di Parma del novembre 1983, ENEA, RT/PAS/84/4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

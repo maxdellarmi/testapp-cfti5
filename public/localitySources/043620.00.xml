@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>043620.00</nloc_cfti>
+      <desloc_cfti>Agliano</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>44.1709</lat_wgs84>
+      <lon_wgs84>10.2438</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Crollarono o furono gravemente danneggiati 2 edifici $(470739,095427)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Il paese subì crolli estesi alla quasi totalità del patrimonio edilizio; la scossa causò la morte di 10 persone e il ferimento di numerose altre $(080100,080101,870190,020076)$. Dopo il terremoto, il paese fu colpito da un’epidemia di tifo $(635721)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080100</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.10, a.62, n.217.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080101</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1920.09.09, a.62, n.216.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870190</codbib>
+      <autore1>De Stefani C.</autore1>
+      <titolo1>Il terremoto del settembre 1920 nella provincia di Massa, in "Memorie della Società Lunigianese G.Capellini per la storia naturale della regione", vol.2 (1920), pp.40-61.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020076</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Garfagnana, 1920.09.23, a.39, n.39.</titolo1>
+      <luogoed>Castelnuovo di Garfagnana</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635721</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1920, rubrica 36 (Disastri), fasc.1, Relazione sui danni causati dal terremoto del 7 settembre 1920 nei paesi della diocesi di Massa allegata alla lettera del vescovo Giuseppe Bertazzoni al papa Benedetto XV del 14 ottobre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470739</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.22, n.32.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095427</codbib>
+      <autore1>Romby G.C., Orefice G. e Bini M.</autore1>
+      <titolo1>Caratteri, insediamenti e storia sismica: il caso di Minucciano in Garfagnana, in "La protezione del patrimonio culturale, la questione sismica", II seminario nazionale di studio, Roma S.Michele ­ Sala dello Stenditoio, 9-10 aprile 1997, coordinato da R.Ballardini, contributi preliminari, a cura di P.R.David e M.Guccione, Ministero per i Beni Culturali e Ambientali, Dipartimento per la Protezione Civile, Comitato Nazionale per la prevenzione del patrimonio culturale dal rischio sismico, pp.27-30.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1997</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

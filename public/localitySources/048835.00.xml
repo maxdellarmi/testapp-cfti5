@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048835.00</nloc_cfti>
+      <desloc_cfti>Afrile</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.0256</lat_wgs84>
+      <lon_wgs84>12.8109</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04615</nterr>
+      <nperiod>003286</nperiod>
+      <datanum>17911011</datanum>
+      <data_label>1791 10 11</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.9508</lat>
+      <lon>12.8611</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>54</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Centro fortificato del territorio di Foligno. Il terremoto dell’11 ottobre 1791 causò pochi danni.&lt;br&gt;Il paese fu invece gravemente colpito da una successiva scossa, avvenuta il 21 aprile 1793, che causò gravi danni al patrimonio edilizio civile ed ecclesiastico $(673427,673428,673429)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42050</nterr>
+      <nperiod>009046</nperiod>
+      <datanum>17930421</datanum>
+      <data_label>1793 04 21</data_label>
+      <anno>1793</anno>
+      <mese>04</mese>
+      <giorno>21</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.0256</lat>
+      <lon>12.8109</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>1</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Afrile (PG)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni alle abitazioni e agli edifici ecclesiastici $(673427,673428,673429)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>673427</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Foligno XVII, b.1690 (1792-1795), Lettera del governatore di Foligno Girolamo Bianchi al prefetto della Sacra Congregazione del Buon Governo, Foligno 25 maggio 1793.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1793</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673428</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Foligno XVII, b.1690 (1792-1795), Supplica della popolazione del Castello di Afrile al segretario di Stato cardinale De Zelada, Afrile maggio 1793.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1793</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673429</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie II (Atti per luoghi), Foligno XVII, b.1690 (1792-1795), Estratto del verbale del Consiglio generale della città di Foligno del 18 maggio 1793 attestato dal segretario priorale notaio Ermenegildo Giustiniani, Foligno 20 maggio 1793.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1793</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

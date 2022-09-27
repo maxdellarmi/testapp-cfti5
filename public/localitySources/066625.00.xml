@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>066625.00</nloc_cfti>
+      <desloc_cfti>Buonfornello</desloc_cfti>
+      <provlet>PA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>37.9735</lat_wgs84>
+      <lon_wgs84>13.8238</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05266</nterr>
+      <nperiod>003020</nperiod>
+      <datanum>18190224</datanum>
+      <data_label>1819 02 24</data_label>
+      <anno>1819</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>23:20</time_label>
+      <ora>23</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>37.9394</lat>
+      <lon>14.0418</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>24</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Madonie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Secondo le notizie raccolte da Scinà questa località avvertì la scossa del 24 febbraio 1819 $(145053)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145053</codbib>
+      <autore1>Mazzarella S.</autore1>
+      <titolo1>Madonie 1819: l’abate Scinà fra i terremoti.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1988</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

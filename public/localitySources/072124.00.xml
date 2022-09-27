@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072124.00</nloc_cfti>
+      <desloc_cfti>San Niccolò in Cipollatico</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.6789</lat_wgs84>
+      <lon_wgs84>11.1123</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05136</nterr>
+      <nperiod>002054</nperiod>
+      <datanum>18120911</datanum>
+      <data_label>1812 09 11</data_label>
+      <anno>1812</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.6599</lat>
+      <lon>11.1395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>13</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle del Pesa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò alle abitazioni danni che le fonti definiscono "minori" rispetto a quelli di Poppiano e San Quirico in Collina $(870014,235015)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>870014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.09.29, n.77.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235015</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul centro sismico fiorentino, in "Bollettino della Società Sismologica Italiana", vol.1 (1895), pp.143-147.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

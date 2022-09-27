@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>066293.00</nloc_cfti>
+      <desloc_cfti>Partanna</desloc_cfti>
+      <provlet>TP</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>37.7241</lat_wgs84>
+      <lon_wgs84>12.8919</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35810</nterr>
+      <nperiod>003037</nperiod>
+      <datanum>19680115</datanum>
+      <data_label>1968 01 15</data_label>
+      <anno>1968</anno>
+      <mese>01</mese>
+      <giorno>15</giorno>
+      <time_label>02:01:09</time_label>
+      <ora>02</ora>
+      <minu>01</minu>
+      <sec>09</sec>
+      <lat>37.7602</lat>
+      <lon>12.9868</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>162</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Valle del Belice</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>25</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa principale e le successive rovinose repliche distrussero il 29,90% delle unità immobiliari danneggiandone gravemente il 41,80% e lesionando lievemente il 18,76% delle unità su di un totale che, prima del periodo sismico, assommava a 4345 $(050842,050840)$. la replica del 25 gennaio causò la morte di una persona ed il crollo di numerosi edifici $(071328)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050842</codbib>
+      <autore1>De Panfilis M. e Marcelli L.</autore1>
+      <titolo1>Il periodo sismico della Sicilia occidentale iniziato il 14 Gennaio 1968, in "Annali di Geofisica", vol.21 (1968), pp.343-422.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050840</codbib>
+      <autore1>Cosentino P. e Mulone A.</autore1>
+      <titolo1>The Belice earthquake of January 15, 1968, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.150-151.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071328</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1968.01.26.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

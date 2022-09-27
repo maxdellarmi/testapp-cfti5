@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>065257.00</nloc_cfti>
+      <desloc_cfti>Canolo</desloc_cfti>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>7</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>38.3146</lat_wgs84>
+      <lon_wgs84>16.1998</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20606</nterr>
+      <nperiod>003031</nperiod>
+      <datanum>19071023</datanum>
+      <data_label>1907 10 23</data_label>
+      <anno>1907</anno>
+      <mese>10</mese>
+      <giorno>23</giorno>
+      <time_label>20:28:19</time_label>
+      <ora>20</ora>
+      <minu>28</minu>
+      <sec>19</sec>
+      <lat>38.087</lat>
+      <lon>15.9854</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>274</npun>
+      <mm>6</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto danneggiò il paese, di 2.002 abitanti, che risentiva ancora dei danni causati dalla scossa del 1905: 2 case crollarono, 120 divennero pericolanti, 39 furono lesionate gravemente e 60 leggermente. Venne danneggiata anche la chiesa $(525259,525261,525262)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Ci furono danni molto rilevanti: complessivamente, in tutto il territorio comunale, su un totale di 800 case, 25 (3%) crollarono o dovettero essere demolite totalmente, 150 (19%) furono danneggiate gravemente o rese inabitabili, 300 (37%) subirono danni più leggeri e 325 (41%) risultarono illese. Fu danneggiata la chiesa parrocchiale. Non ci furono danni alle persone $(145011,145012,091179,460215,725155,635473)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>03120</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830328</datanum>
+      <data_label>1783 03 28</data_label>
+      <anno>1783</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>38.7861</lat>
+      <lon>16.4636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>323</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 5 febbraio 1783 danneggiò gravemente la maggior parte delle case rendendole inabitabili e lesionò la chiesa parrocchiale che divenne pericolante; morirono 2 persone su 1426 abitanti. Il successivo terremoto del 28 marzo causò ulteriori lesioni negli edifici $(680031,570001,680035,300336)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto produsse danni. Fu demolita 1 casa, puntellate 2 e riparate 58. Lesionata gravemente anche la chiesa che si rese pericolante $(635229,635298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14962</nterr>
+      <nperiod>003040</nperiod>
+      <datanum>18941116</datanum>
+      <data_label>1894 11 16</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>17:52:00</time_label>
+      <ora>17</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>38.2888</lat>
+      <lon>15.8701</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>303</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò danni ai fabbricati. Secondo i dati del genio militare, su un totale di 1.925 case che costituivano l’abitato, 12 crollarono totalmente e 29 parzialmente, 13 furono danneggiate in modo grave e 109 in modo lieve $(056010)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38578</nterr>
+      <nperiod>003046</nperiod>
+      <datanum>19750116</datanum>
+      <data_label>1975 01 16</data_label>
+      <anno>1975</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>00:09:45</time_label>
+      <ora>00</ora>
+      <minu>09</minu>
+      <sec>45</sec>
+      <lat>38.1148</lat>
+      <lon>15.6431</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>346</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Stretto di Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Bottari e Lo Giudice (1975) hanno valutato l’intensità della scossa di III grado MCS $(035062)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02700</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830205</datanum>
+      <data_label>1783 02 05</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.2974</lat>
+      <lon>15.9703</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>357</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 5 febbraio 1783 danneggiò gravemente la maggior parte delle case rendendole inabitabili e lesionò la chiesa parrocchiale che divenne pericolante; morirono 2 persone su 1426 abitanti. Il successivo terremoto del 28 marzo causò ulteriori lesioni negli edifici $(680031,570001,680035,300336)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>570001</codbib>
+      <autore1>Sarconi M.</autore1>
+      <titolo1>Istoria de’ fenomeni del tremoto avvenuto nelle Calabrie, e nel Valdemone nell’anno 1783 posta in luce dalla Reale Accademia delle Scienze, e delle Belle Lettere di Napoli.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680035</codbib>
+      <autore1>Faccioli A.</autore1>
+      <titolo1>Delle memorie fisico-tragiche sulla storia del terremoto e suoi fenomeni, accaduti nella provincia di Calabria Ulteriore nell’anno 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300336</codbib>
+      <autore1>De Dolomieu D.</autore1>
+      <titolo1>Memoria sopra i tremuoti della Calabria dell’anno 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1785</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635229</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.1, Relazione dell’amministratore apostolico della diocesi di Gerace Sisto Paoleschi al segretario di Stato cardinale Raffaele Merry del Val sui danni causati agli edifici ecclesiastici dal terremoto dell’8 settembre 1905, Gerace 17 ottobre 1905.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1905, rubrica 36 (Disastri), fasc.5, Lettera del parroco della chiesa di S.Nicola di Bari di Canolo Gaetano Spadaro al papa Pio X, Canolo 24 novembre 1905.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1905</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.22, fasc.25000.4.5 (1907-08), Terremoto 1907 ­ Rapporti degli ispettori ed altri funzionari, Relazione del Comitato governativo di soccorso pei danneggiati dal terremoto 1907 nella provincia di Reggio Calabria, Roma 1908.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525261</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.22, fasc.25000.4.5 (1907-08), Terremoto 1907 ­ Rapporti degli ispettori ed altri funzionari, Prospetto degli edifici pubblici danneggiati dal terremoto del 23 ottobre 1907 e ammontare dei danni redatto dal Genio Civile, Reggio Calabria 15 gennaio 1908.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525262</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.22, fasc.25000.4.5 (1907-08), Terremoto 1907 ­ Rapporti degli ispettori ed altri funzionari, Prospetto delle case danneggiate dal terremoto del 23 ottobre 1907 in provincia di Reggio Calabria e lavori eseguiti, Reggio Calabria 30 novembre 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145011</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>La catastrofe sismica calabro messinese (28 dicembre 1908). Relazione alla Società Geografica Italiana, 2 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145012</codbib>
+      <autore1>Ministero dei Lavori pubblici ­ Direzione generale dei Servizi speciali</autore1>
+      <titolo1>L’opera del Ministero dei Lavori pubblici nei comuni colpiti dal terremoto del 28 dicembre 1908, 3 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091179</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Contributo allo studio del terremoto calabro-messinese del 28 dicembre 1908, in "Atti del Regio Istituto di Incoraggiamento di Napoli", s.VI, vol.7 (1909), pp.249-292.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460215</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Serie diverse, Comitato centrale di soccorso dei danneggiati dal terremoto della Calabria e della Sicilia, b.1, Telegramma del prefetto di Catanzaro al Ministero dell’Interno sul terremoto del 28 dicembre 1908, Catanzaro 28 dicembre 1908.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>725155</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Reggio Calabria, Prefettura, serie I (Affari generali), inventario 24/I, Appendice, fascio 333, fasc.1, Corpo reale del Genio civile, "Terremoto 28 dicembre 1908 ­ Prospetto indicante la percentuale dei danni nei varî comuni del circondario di Gerace in rapporto al numero dei fabbricati componenti ciascun comune", Gerace 28 maggio 1910.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635473</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1909, rubrica 36 (Disastri), fasc.25, Relazione del delegato pontificio Emilio Cottafavi al papa Pio X sui lavori di ricostruzione degli edifici religiosi delle arcidiocesi di Reggio Calabria e Messina distrutti dal terremoto del 28 dicembre 1908, Reggio Emilia 25 marzo 1911.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1911</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056010</codbib>
+      <autore1>Riccò A.</autore1>
+      <titolo1>Il terremoto del 16 novembre 1894 in Calabria e Sicilia. Parte I: Relazione sismologica, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.19 (1897), parte I, pp.7-261.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035062</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Studio macrosismico del terremoto di Reggio Calabria del 16 Gennaio 1975, in "Annali di Geofisica", vol.28, pp.151-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

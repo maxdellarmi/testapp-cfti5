@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040592.00</nloc_cfti>
+      <desloc_cfti>Cona</desloc_cfti>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.8073</lat_wgs84>
+      <lon_wgs84>11.7084</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa fu sensibilmente avvertita $(690105)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00755</nterr>
+      <nperiod>000095</nperiod>
+      <datanum>15701117</datanum>
+      <data_label>1570 11 17</data_label>
+      <anno>1570</anno>
+      <mese>11</mese>
+      <giorno>17</giorno>
+      <time_label>19:10</time_label>
+      <ora>19</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.8242</lat>
+      <lon>11.6313</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>58</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Danni ingenti alla chiesa di S.Giovanni Battista, descritta come quasi distrutta nella relazione Maremonti in Marzola $(060053)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>060053</codbib>
+      <autore1>Marzola M.</autore1>
+      <titolo1>Per la storia della Chiesa Ferrarese nel secolo 16 (1497-1590), vol.2.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1873.03.14, n.61.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

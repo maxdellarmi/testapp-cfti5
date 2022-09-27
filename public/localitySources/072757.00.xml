@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072757.00</nloc_cfti>
+      <desloc_cfti>Pradalbino</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.4772</lat_wgs84>
+      <lon_wgs84>11.1433</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La frazione aveva una popolazione di 267 abitanti (secondo i dati del censimento ISTAT del 1931) sparsa nelle campagne $(391553,391560)$.&lt;br&gt;Dalle perizie del Genio Civile risulta che la chiesa parrocchiale e un edificio di tre piani adibito in parte a scuola comunale e in parte a canonica furono danneggiati. Nella chiesa i danni furono consistenti: si aprirono lesioni negli archi, negli architravi, nel pilastro dell’angolo sudovest e nel muro del lato ovest nella parte sopra l’architrave anch’esso lesionato; il muro del lato sud si distaccò dal resto della muratura e strapiombò; il soffitto subì danni a causa dello spostamento dei muri perimetrali; nella sacrestia furono lesionati i muri e gli architravi. Nell’edificio adibito a scuola e canonica crollò parzialmente un muro, furono lesionati gli architravi e i muri e crollarono i comignoli $(391322)$. Nel luglio del 1929 in questa località fu costruita una baracca per i senzatetto $(391381)$. Le perizie del Genio Civile non distinguono gli effetti delle singole scosse. Diversi elementi contribuiscono ad attribuire i danni descritti nelle perizie alla scossa del 20 aprile delle ore 1:10 GMT. Questa località è compresa, infatti, nell’area di effetti di VII grado della scala Mercalli delineata da Salvanini (1932) $(020790)$, che condusse una ricognizione nelle zone colpite dalle diverse scosse del periodo sismico.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391553</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.1 (Italia Settentrionale).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391560</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.7 (Centri Abitati).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391322</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.953 (1929), Terremoto nel bolognese del 1929, Comune di Monte San Pietro, Liquidazione finale dei lavori, frazione Prabaldino.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, b.959 (1929), Terremoto nel bolognese del 1929, Comune di Monte San Pietro, Pratiche per le baracche, frazione Pradalbino.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020790</codbib>
+      <autore1>Salvanini C.</autore1>
+      <titolo1>Alcuni elementi per lo studio dei terremoti bolognesi e pei progetti delle costruzioni antisismiche.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

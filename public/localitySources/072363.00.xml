@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072363.00</nloc_cfti>
+      <desloc_cfti>Beata Vergine della Catena</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>37.6606</lat_wgs84>
+      <lon_wgs84>15.1408</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Il terremoto fu distruttivo: secondo la perizia ufficiale del Genio Civile di Catania, 20 edifici crollarono quasi completamente, 20 parzialmente e 15 furono fortemente lesionati $(145257)$. I danneggiati ai quali venne concesso un sussidio furono 73 $(145509,145510)$; quelli poveri da sussidiarsi risultarono essere 87 con un danno medio stimato di 1237 lire $(145529)$. Secondo alcune testimonianze giornalistiche nelle case della località crollarono tutti i tetti $(145646)$. Sulla base dei dati raccolti dal Genio Civile, sommando il numero delle case totalmente o parzialmente crollate e riferendolo la somma a 1000 abitanti, per questa località fu calcolato il numero indice di 160 $(145137)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145257</codbib>
+      <autore1>Sabatini V.</autore1>
+      <titolo1>Note sul terremoto di Linera dell’8 maggio 1914, in "Bollettino del Regio Comitato Geologico d’Italia", vol.44, fasc.3, pp.3-52.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145509</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Registro dei sussidî da corrispondersi ai danneggiati dal terremoto 8 Maggio 1914, II.a distribuzione.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Elenco dei sussidi urgenti corrisposti ai danneggiati e Registro generale dei sussidi ordinari pagati ai danneggiati nella distribuzione di agosto-settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145529</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Frazioni di Linera, Cosentini e Maria Vergine, Registro delle famiglie danneggiate dal terremoto da sussidiarsi, Acireale 25 agosto 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145646</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ora, 1914.05.09/10, a.15, n.129.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145137</codbib>
+      <autore1>Ghersi A., Platania G. e Sabatini V.</autore1>
+      <titolo1>Relazione della Commissione per la determinazione delle aree sismiche sulle quali debbono vietarsi le nuove costruzioni nella regione colpita dal terremoto dell’8 maggio 1914 in provincia di Catania.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>033766.00</nloc_cfti>
+      <desloc_cfti>Chiesa Nuova</desloc_cfti>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>44.3723</lat_wgs84>
+      <lon_wgs84>9.3118</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa causò dondolio di lampade sospese, tremolio di vetri e urto di piccoli oggetti $(000007)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

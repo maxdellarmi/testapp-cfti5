@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00172</nterr>
+      <nperiod>003130</nperiod>
+      <datanum>12990000</datanum>
+      <data_label>1299 - -</data_label>
+      <anno>1299</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.75</lat>
+      <lon>13</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Colleferro (RM)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti edite. Baratta (1901) $(000001)$ elencò questo evento nell’appendice del suo catalogo sulla scorta delle "Tabulae Annales Chronici Sublacensi" (1627) $(096026)$ dello storico monastico Cherubino Murtz (italianizzato Mirzio), opera che Baratta aveva reperito tra i "materiali" di De Rossi, di cui egli stesso curò l’edizione (1899) $(060008)$.&lt;br&gt;Le "Tabulae" $(096026)$ furono pubblicate in appendice alla "Cronaca sublacense" redatta da Mirzio nel 1627 $(700186)$. Mentre nelle "Tabulae", senza specificare in quale mese, il cronista ricorda nel 1299 la caduta del dormitorio del monastero di Santa Scolastica a causa di un grande terremoto, nella "Cronaca", invece, la descrizione dell’evento sismico che causò il crollo del dormitorio è assai più ampia e precisa. Vi è inoltre l’indicazione del giorno e del mese dell’evento, 1 dicembre, del quinto anno di pontificato di Bonifacio VIII, cioè l’anno 1299. L’indicazione del giorno e del mese consente di identificare il terremoto con quello che colpì l’area di Rieti il giorno 1 dicembre 1298 (si veda la precedente edizione del Catalogo ING-SGA; Boschi et al. 1995) $(950731)$.&lt;br&gt;È presumibile che Mirzio abbia trovato notizia del crollo in qualche documento dell’archivio di Santa Scolastica, del quale tuttavia non fa menzione nella sua opera. Già in un ampio studio monografico sul monastero di Subiaco, lo storico Egidi (1904) $(190007)$ avanzò l’ipotesi che Mirzio in realtà avesse confuso il terremoto del 1299 con quello, molto più noto, del giorno 1 dicembre 1298 che colpì Spoleto e Rieti. Ai danni causati da questa scossa, Egidi collegò anche le testimonianze di 4 atti testamentari pubblicati in regesto da Federici (1904) $(096024)$: si tratta di 4 lasciti di denaro al monastero "pro opere", formula che indica in genere lavori edilizi, anche se in questo caso non esplicitamente collegati al terremoto. Le date dei lasciti sono: 11 agosto 1303; 29 giugno 1304; 1318; 6 gennaio 1336.&lt;br&gt;Un recente studio di Molin (1995) $(395242)$ ha confermato forti dubbi sull’attendibilità della notizia del terremoto del 1299, avanzando l’ipotesi che i danni ricordati fossero dovuti a cause diverse da eventi sismici. L’insieme delle testimonianze reperite nel corso della ricerca ha permesso di eliminare l’evento da questo catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035065</codbib>
+      <autore1>Carrara C. (a cura di)</autore1>
+      <titolo1>Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari, ENEA-Dipartimento Ambiente, Serie studi e ricerche.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096024</codbib>
+      <autore1>Federici V.</autore1>
+      <titolo1>La biblioteca e l’archivio, in "I monasteri di Subiaco", vol.2.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096026</codbib>
+      <autore1>Mirzio C.</autore1>
+      <titolo1>Tabulae Annales Chronici Sublacensis, in "Cronaca Sublacense".</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190007</codbib>
+      <autore1>Egidi P.</autore1>
+      <titolo1>Notizie storiche, in "I monasteri di Subiaco", vol.1, pp.45-247.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395242</codbib>
+      <autore1>Molin D.</autore1>
+      <titolo1>Indagini macrosismiche. Revisione del catalogo dei terremoti, in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.193-200.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700186</codbib>
+      <autore1>Mirzio C.</autore1>
+      <titolo1>Cronaca Sublacense, ed. P.Crostarosa e L.Allodi.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>950731</codbib>
+      <autore1>Boschi E., Ferrari G., Gasperini P., Guidoboni E., Smriglio G. e Valensise G.</autore1>
+      <titolo1>Catalogo dei forti terremoti in Italia dal 461 a.C. al 1980, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

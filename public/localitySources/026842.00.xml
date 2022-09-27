@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>026842.00</nloc_cfti>
+      <desloc_cfti>Chiarano</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.7298</lat_wgs84>
+      <lon_wgs84>12.5825</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38902</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760506</datanum>
+      <data_label>1976 05 06</data_label>
+      <anno>1976</anno>
+      <mese>05</mese>
+      <giorno>06</giorno>
+      <time_label>20:00:13</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>13</sec>
+      <lat>46.235</lat>
+      <lon>13.0572</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>525</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Secondo l’Istituto Nazionale di Geofisica, l’intensità della scossa del 6 maggio fu del VII grado della scala MCS $(002151)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002151</codbib>
+      <autore1>Gasparini C.</autore1>
+      <titolo1>Parametri ipocentrali dai dati macrosismici del terremoto del Friuli, Maggio 1976, in "Annali di Geofisica", vol.29 (1976), pp.159-64.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

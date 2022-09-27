@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060682.00</nloc_cfti>
+      <desloc_cfti>Cesinali</desloc_cfti>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.8955</lat_wgs84>
+      <lon_wgs84>14.8288</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04869</nterr>
+      <nperiod>003104</nperiod>
+      <datanum>18050726</datanum>
+      <data_label>1805 07 26</data_label>
+      <anno>1805</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5009</lat>
+      <lon>14.4738</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>220</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>36</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Non sono note descrizione degli effetti. Esposito et al. (1987) hanno valutato l’intensità della scossa di VII grado MCS $(090409)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni rilevanti: in tutto il territorio comunale le unità edilizie danneggiate più o meno gravemente furono 417; le persone rimaste senzatetto furono 207 (12%) su un totale di 1697 abitanti. Furono fortemente danneggiate le chiese di S.Francesco d’Assisi, S.Nicola, S.Rocco e S.Silvestro Papa $(052281)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01726</nterr>
+      <nperiod>003092</nperiod>
+      <datanum>17321129</datanum>
+      <data_label>1732 11 29</data_label>
+      <anno>1732</anno>
+      <mese>11</mese>
+      <giorno>29</giorno>
+      <time_label>07:40</time_label>
+      <ora>07</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.0643</lat>
+      <lon>15.0591</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>187</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto colpì gravemente l’abitato: 15 case crollarono e le altre abitazioni e le chiese furono lesionate; non ci furono vittime. I danni furono valutati complessivamente 12.550 ducati $(410454,052010)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>410454</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.628, Itinerario ricavato dalle diligenze pratticate da’ ministri, e subalterni di questa Regia Udienza per ordine dell’illustre preside d’essa, e da’ documenti venuti sin’ora dalla provincia, e da’ quei luoghi che han patito il flagello dell’ultimo tremuoto de’ 29 del passato novembre, Montefusco dicembre 1732.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1732</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Distinta relazione del danno cagionato dal tremuoto del dì 29. novembre 1732. in tutta la provincia di Montefuscoli, o sia Principato ulteriore, col numero de’ morti, e feriti in ciascuna comunità della medesima provincia.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1733</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090409</codbib>
+      <autore1>Esposito E., Luongo G., Marturano A. e Porfido S.</autore1>
+      <titolo1>Il terremoto di S.Anna del 26 luglio 1805, in "Memorie della Società Geologica Italiana" vol.37 (1987), pp.171-191.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052281</codbib>
+      <autore1>Ministero per i Beni Culturali e Ambientali ­ Soprintendenza generale agli interventi post-sismici in Campania e Basilicata</autore1>
+      <titolo1>Dopo la polvere. Rilevazione degli interventi di recupero post-sismico del patrimonio archeologico, architettonico ed artistico delle regioni Campania e Basilicata danneggiato dal terremoto del 23 novembre 1980 e del 14 febbraio 1981 (anni 1985-1989), a cura di G.Proietti, 5 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

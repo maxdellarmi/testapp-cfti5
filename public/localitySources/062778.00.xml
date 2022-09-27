@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062778.00</nloc_cfti>
+      <desloc_cfti>Racale</desloc_cfti>
+      <provlet>LE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>39.9602</lat_wgs84>
+      <lon_wgs84>18.0938</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di IV grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò danni gravi e crolli parziali nella maggior parte delle abitazioni del paese. La chiesa madre di S.Giorgio Martire (o S.Maria de Paradiso) fu gravemente danneggiata e crollò in parte. La chiesa di S.Maria la Nova, annessa al convento dei Francescani, fu gravemente lesionata e subì il crollo delle volte. La chiesa di S.Maria delle Grazie (ora dell’Addolorata) subì lesioni alle pareti. Furono rilevati danni non gravi alle due torri di Porta Terra $(030769,030770,030874,300097,130063,300116,410456,410457,410478)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030769</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Real Camera di Santa Chiara, Consiglio, Bozze di consulte, vol.106, fasc.21, Minuta di consulta della Real Camera di Santa Chiara al re di Napoli Carlo VII, Napoli 2 marzo 1746.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1746</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030770</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Real Camera di Santa Chiara, Consiglio, Bozze di consulte, vol.106, fasc.21, Verbale di deliberazione del parlamento generale dell’università di Racale, Racale 19 aprile 1745.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1745</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030874</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Vescovile di Nardò, Racale, Beneficii, cart.A/188 (1747), Deposizione del procuratore della duchessa di Alliste sulla riparazione della chiesa parrocchiale di Racale, Nardò 5 ottobre 1747.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1747</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Vescovile di Nardò, Racale, cart.A/188, Deposizione del notaio Saverio Giovanni Felline procuratore dell’Università di Racale alla Curia vescovile di Nardò, Nardò 24 luglio 1747.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1747</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130063</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Real Camera di Santa Chiara, Consiglio, Bozze di consulte, vol.106, fasc.21, Relazione del governatore di Lecce Domenico Posa al re di Napoli Carlo VII, Lecce 29 aprile 1746.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1746</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300116</codbib>
+      <autore1>Serio A. e Santantonio G.</autore1>
+      <titolo1>Racale. Note di storia e di costume.</titolo1>
+      <luogoed>Galatina</luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410456</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Vescovile di Nardò, Racale e Alliste, Assensi e benefici ecclesiastici, cart.A/138 (1700-1800), Supplica del priore della cappella del SS.mo Rosario di Racale al vescovo di Nardò, Racale 7 maggio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Vescovile di Nardò, Racale e Alliste, Assensi e benefici ecclesiastici, cart.A/138 (1700-1800), Testimonianze giurate dei pubblici periti Cristoforo Spennato e Giacinto Marsano al vicario foraneo di Racale, Racale 15 agosto 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410478</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Vescovile di Nardò, Atti di visite pastorali di Francesco Carafa dal 1737 al 1753, cart.A/63, Visita pastorale del Vescovo di Nardò Francesco Carafa, 1744.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

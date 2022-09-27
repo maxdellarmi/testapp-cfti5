@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041326.00</nloc_cfti>
+      <desloc_cfti>Classe</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>44.3799</lat_wgs84>
+      <lon_wgs84>12.2327</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>50071</nterr>
+      <nperiod>005087</nperiod>
+      <datanum>07250000</datanum>
+      <data_label>725 - -</data_label>
+      <anno>725</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.3988</lat>
+      <lon>12.2155</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>2</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Classe (RA)-Ravenna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Crollo della chiesa detta "Petriana". Il re Astolfo (749-756) diede avvio ai lavori di ricostruzione della chiesa; vennero riedificate le colonne ma il lavoro non fu portato a termine $(090245)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090245</codbib>
+      <autore1>Agnellus qui et Andreas</autore1>
+      <titolo1>Liber pontificalis ecclesiae Ravennatis, ed. O.Holder-Egger, in "Monumenta Germaniae Historica", SRLI (ried. parziale col titolo di "Codex Pontificalis Ecclesiae Ravennatis, ed. A.Testi-Rasponi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 2, parte 3, vol.1, Bologna 1924).</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1878</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

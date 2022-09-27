@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051124.00</nloc_cfti>
+      <desloc_cfti>Aspio Terme</desloc_cfti>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>43.5325</lat_wgs84>
+      <lon_wgs84>13.516</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30094</nterr>
+      <nperiod>003119</nperiod>
+      <datanum>19301030</datanum>
+      <data_label>1930 10 30</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>07:13:06</time_label>
+      <ora>07</ora>
+      <minu>13</minu>
+      <sec>06</sec>
+      <lat>43.674</lat>
+      <lon>13.2738</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>249</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche settentrionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Una recente revisione scientifica segnala, sulla base di cartoline macrosismiche, opere di storia locale e di testate giornalistiche, che la scossa fu avvertita $(095049)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095049</codbib>
+      <autore1>Molin D. e Mucci L.</autore1>
+      <titolo1>Il terremoto di Senigallia del 30 ottobre 1930. Risposta sismica dell’area urbana di Ancona, in "Atti del 9.o Convegno", Roma 13-15 novembre 1990, CNR-GNGTS, vol.1, pp.31-45.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

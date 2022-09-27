@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>043628.00</nloc_cfti>
+      <desloc_cfti>Gramolazzo</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>44.1629</lat_wgs84>
+      <lon_wgs84>10.2355</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Crollarono o furono gravemente danneggiati 2 edifici $(470739,095427)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto danneggiò molto gravemente il paese; dopo l’evento sismico, vennero costruite delle case antisismiche fra il "Cantiere" e il quartiere "Cà Noa" $(030129,350008,635721,020076)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030129</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.15, a.48, n.216.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350008</codbib>
+      <autore1>*</autore1>
+      <titolo1>«Storia e sviluppo di un paese di montagna»: Gramolazzo ed il suo Lago, a cura della Camera di commercio, industria, artigianato e agricoltura di Lucca.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1972</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635721</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1920, rubrica 36 (Disastri), fasc.1, Relazione sui danni causati dal terremoto del 7 settembre 1920 nei paesi della diocesi di Massa allegata alla lettera del vescovo Giuseppe Bertazzoni al papa Benedetto XV del 14 ottobre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020076</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Garfagnana, 1920.09.23, a.39, n.39.</titolo1>
+      <luogoed>Castelnuovo di Garfagnana</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470739</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.22, n.32.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095427</codbib>
+      <autore1>Romby G.C., Orefice G. e Bini M.</autore1>
+      <titolo1>Caratteri, insediamenti e storia sismica: il caso di Minucciano in Garfagnana, in "La protezione del patrimonio culturale, la questione sismica", II seminario nazionale di studio, Roma S.Michele ­ Sala dello Stenditoio, 9-10 aprile 1997, coordinato da R.Ballardini, contributi preliminari, a cura di P.R.David e M.Guccione, Ministero per i Beni Culturali e Ambientali, Dipartimento per la Protezione Civile, Comitato Nazionale per la prevenzione del patrimonio culturale dal rischio sismico, pp.27-30.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1997</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

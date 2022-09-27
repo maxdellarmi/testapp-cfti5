@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>016579.00</nloc_cfti>
+      <desloc_cfti>Orzivecchi</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>45.4205</lat_wgs84>
+      <lon_wgs84>9.9619</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04844</nterr>
+      <nperiod>000159</nperiod>
+      <datanum>18020512</datanum>
+      <data_label>1802 05 12</data_label>
+      <anno>1802</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>09:30</time_label>
+      <ora>09</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.4157</lat>
+      <lon>9.8542</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>66</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle dell’Oglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu avvertita violentemente, ma non causò danni rilevanti $(092140)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092140</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto sentito in Lombardia il 27 novembre 1894. Contribuzione allo studio dell’attività sismica nell’Italia settentrionale, in "Atti della Società Toscana di Scienze Naturali residente in Pisa. Processi verbali", vol.10, pp.41-55.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1895 - 1897</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

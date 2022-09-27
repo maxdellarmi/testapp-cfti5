@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072361.00</nloc_cfti>
+      <desloc_cfti>Macchia</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>7</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>37.7195</lat_wgs84>
+      <lon_wgs84>15.1665</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07281</nterr>
+      <nperiod>003236</nperiod>
+      <datanum>18480111</datanum>
+      <data_label>1848 01 11</data_label>
+      <anno>1848</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>37.5434</lat>
+      <lon>15.0947</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>41</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Golfo di Catania</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24085</nterr>
+      <nperiod>003033</nperiod>
+      <datanum>19111015</datanum>
+      <data_label>1911 10 15</data_label>
+      <anno>1911</anno>
+      <mese>10</mese>
+      <giorno>15</giorno>
+      <time_label>08:52:21</time_label>
+      <ora>08</ora>
+      <minu>52</minu>
+      <sec>21</sec>
+      <lat>37.7027</lat>
+      <lon>15.1529</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>48</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa fu molto forte, ma non causò danni di rilievo $(145025)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa provocò qualche danno: secondo la documentazione ufficiale un danneggiato venne sussidiato $(145510)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09152</nterr>
+      <nperiod>003026</nperiod>
+      <datanum>18650719</datanum>
+      <data_label>1865 07 19</data_label>
+      <anno>1865</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>37.6954</lat>
+      <lon>15.1559</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>26</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fu avvertita molto fortemente, ma non causò danni $(145001,145076)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13468</nterr>
+      <nperiod>003038</nperiod>
+      <datanum>18891225</datanum>
+      <data_label>1889 12 25</data_label>
+      <anno>1889</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>17:23:00</time_label>
+      <ora>17</ora>
+      <minu>23</minu>
+      <sec>00</sec>
+      <lat>37.6464</lat>
+      <lon>15.1582</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>25</npun>
+      <mm>5</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente, ma non causò danni $(145098)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11257</nterr>
+      <nperiod>003028</nperiod>
+      <datanum>18790617</datanum>
+      <data_label>1879 06 17</data_label>
+      <anno>1879</anno>
+      <mese>06</mese>
+      <giorno>17</giorno>
+      <time_label>06:50</time_label>
+      <ora>06</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>37.687</lat>
+      <lon>15.1457</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>27</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito molto fortemente, ma non causò alcun danno $(145068)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto del 20 febbraio 1818 causò l’apertura di molte fenditure nella chiesa di Maria Santissima $(145468,145511,145512)$. Furono danneggiate 23 case di proprietari poveri $(145470)$. La tavola sinottica redatta a cura dell’Intendenza di Catania per i territori di Mascali, Giarre e loro quartieri, che riproduce i risultati delle perizie ufficiali, riportò il numero di 1695 case danneggiate, di queste 3/16 risultavano cadute, 3/16 cadenti e 10/16 lesionate. Nelle osservazioni dell’Intendente si sottolineò che i danni maggiori si verificarono a Mascali e nei centri sparsi di Dagala, Macchia, Santa Maria la Strada, Sant’Alfio, Nunziata, Monacella e San Leonardello $(145411)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145468</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Relazione dell’ingegnere Mario Patané sulla quantità di legname necessaria per puntellare le chiese parrocchiali dei Comuni di Mascali, Fiumefreddo, Caltabiano, Piedimonte, Linguaglossa e Castiglione danneggiate dal terremoto del 20 febbraio 1818, Acireale 30 marzo 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145511</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4213 (1818-46), categoria XXI (Miscellanea), Commissione pei tremuoti di Acireale, Suppliche, Domanda del Sacerdote Don Giovan Battista Fiamingo della Comune delle Giarre, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145512</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4213 (1818-46), categoria XXI (Miscellanea), Commissione pei tremuoti di Acireale, Suppliche, Relazione dell’ingegnere Francesco Sorbello sui danni arrecati dal terremoto del 20 febbraio 1818 alla chiesa del quartiere della Macchia, 24 marzo 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145470</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.1159 (1818-24), categoria X (Opere pubbliche), Fede delle persone povere e miserabili le cui case furono danneggiate dai terremoti del 20 e 28 febbraio 1818 nella città di Mascali e suoi quartieri redatta dal Vicario Gioacchino Patané, Mascali 21 novembre 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145411</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), tabella n.15, Quadro dei danni cagionati dai tremuoti de’ 20 e 28 febbraio 1818 nel Comune di Mascali Giarre ed i loro quartieri, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145001</codbib>
+      <autore1>Silvestri O.</autore1>
+      <titolo1>Relazione sopra i terremuoti dell’Etna, in "Giornale della Provincia di Catania", n.57, 1865.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1865</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Zelantea di Acireale, Manoscritti, M.Musmeci, Sull’erruttanza Etnea e i tremuoti del 1865, dicembre 1865.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145068</codbib>
+      <autore1>Mantovani P. e Gregori A.</autore1>
+      <titolo1>La eruzione dell’Etna, in "Bollettino del Club Alpino Italiano, vol.13, fasc.39.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145025</codbib>
+      <autore1>Riccò A.</autore1>
+      <titolo1>Terremoto di Fondo Macchia del 15 ottobre 1911, in "Bollettino delle Sedute dell’Accademia Gioenia di Scienze Naturali in Catania" s.II, fasc.19, pp.5-23.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1911</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Elenco dei sussidi urgenti corrisposti ai danneggiati e Registro generale dei sussidi ordinari pagati ai danneggiati nella distribuzione di agosto-settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145098</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Zelantea di Acireale, Manoscritti, A.Patané Musmeci, Scritti di vulcanologia autografi dal 1852 al 1890.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041464.00</nloc_cfti>
+      <desloc_cfti>Poggio alla Lastra</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.8999</lat_wgs84>
+      <lon_wgs84>11.9045</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00804</nterr>
+      <nperiod>003180</nperiod>
+      <datanum>15840910</datanum>
+      <data_label>1584 09 10</data_label>
+      <anno>1584</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>20:30</time_label>
+      <ora>20</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.8626</lat>
+      <lon>11.9916</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>17</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Mambrini (1935), citando documentazione ecclesiastica, riferisce che la scossa causò il crollo del castello e della chiesa di S.Apollinare $(410058)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33599</nterr>
+      <nperiod>002090</nperiod>
+      <datanum>19560526</datanum>
+      <data_label>1956 05 26</data_label>
+      <anno>1956</anno>
+      <mese>05</mese>
+      <giorno>26</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9392</lat>
+      <lon>11.8962</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 26 maggio 1956 danneggiò notevolmente molte case coloniche, in generale vecchie e costruite con muratura a secco legata da malta molto scadente $(410059)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02196</nterr>
+      <nperiod>003098</nperiod>
+      <datanum>17681019</datanum>
+      <data_label>1768 10 19</data_label>
+      <anno>1768</anno>
+      <mese>10</mese>
+      <giorno>19</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.9401</lat>
+      <lon>11.9007</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>45</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto danneggiò molto gravemente le abitazioni: la maggior parte crollarono o divennero inabitabili a causa di gravi lesioni e sconnessioni, poche rimasero illese $(130458)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>410059</codbib>
+      <autore1>Veggiani A.</autore1>
+      <titolo1>Note sul terremoto di Santa Sofia del 1956, in "Studi Romagnoli", vol.10, pp.221-235.</titolo1>
+      <luogoed>Faenza</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130458</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Montegranelli, Pietro Antonio Sampaoli, Memorie storiche, ms. sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410058</codbib>
+      <autore1>Mambrini D.</autore1>
+      <titolo1>Galeata nella storia e nell’arte.</titolo1>
+      <luogoed>Bagno di Romagna</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

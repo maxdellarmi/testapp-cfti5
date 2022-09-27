@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42848</nterr>
+      <nperiod>009759</nperiod>
+      <datanum>12280407</datanum>
+      <data_label>1228 04 07</data_label>
+      <anno>1228</anno>
+      <mese>04</mese>
+      <giorno>07</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.4652</lat>
+      <lon>9.1892</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Milano</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>090351</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Mediolanenses breves [1104-1228], ed. Ph.Jaffé, in "Monumenta Germaniae Historica", SS., tomo 18, pp.389-391.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1863</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093071</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>Les séismes en Europe occidentale de 394 à 1259. Nouveau catalogue critique.</titolo1>
+      <luogoed>Brussels</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>42848</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

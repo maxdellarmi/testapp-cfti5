@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00442</nterr>
+      <nperiod>003175</nperiod>
+      <datanum>14670700</datanum>
+      <data_label>1467 07 -</data_label>
+      <anno>1467</anno>
+      <mese>07</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.5</lat>
+      <lon>11.833</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Lugo (RA)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti memorialistiche edite e manoscritte. Baratta (1901) $(000001)$ elencò un terremoto avvenuto ad Argenta, a causa del quale crollarono il castello e parte delle mura cittadine. Egli attinse queste notizie da una lettera del suo corrispondente C.Crispini, datata 5 marzo 1888, pubblicata negli "Annali dell’Ufficio Centrale Meteorologico e Geodinamico" $(060408)$. Questo testo, relativo all’insieme dei terremoti avvenuti ad Argenta nel luglio 1467, menzionava la scossa del 1467 e i danni che aveva causato, sulla base della "Storia di Argenta" di Bertoldi (1787-1864) $(410005)$ e di alcune memorie manoscritte dell’Archivio Comunale di Argenta, non meglio precisate.&lt;br&gt;L’analisi dell’opera di Bertoldi ha permesso di evidenziare che il testo ricorda che nel luglio del 1467 ci fu un "orribile" uragano, che causò danni in molti luoghi del ferrarese e soprattutto ad Argenta. L’erudito segnalò inoltre che, secondo alcuni, la tempesta di vento fu accompagnata da un "tremito della terra", ma riportò questa osservazione in forma dubitativa, concentrandosi sulla tempesta piuttosto che sulla scossa. Inoltre Bertoldi trascrisse in nota a questo passo due lettere scritte dal duca Borso d’Este ai consoli di Argenta nel marzo 1466 $(395303)$ e nell’agosto 1467 $(395304)$, e cioè prima e dopo gli eventi distruttivi del luglio 1467. Nella prima lettera il duca ricordava lo stato di grave dissesto delle mura cittadine e ordinava alcune riparazioni; nella seconda rispondeva a una petizione della comunità che aveva chiesto sostegno economico per riparare le mura dopo gli ulteriori danni avvenuti in luglio. In questo documento non è menzionato alcun terremoto, ma solo la tempesta e "lo impeto de vento", che avevano causato danni alle mura e al castello.&lt;br&gt;Il vaglio della cronachistica ferrarese del XV e XVI, cioè il "Diario Ferrarese" di anonimi autori (sec.XV-inizio XVI) $(090048)$, le "Historie ferraresi" di Sardi (1556) $(410006)$ e l’opera manoscritta di Filippo Rodi (Biblioteca Comunale Ariostea di Ferrara, cl.I, 645) $(410035)$ non ha rilevato alcuna menzione di scosse nel luglio 1467. I danni documentati ad Argenta non furono causati da un terremoto: in base a tali considerazioni l’evento è stato eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060408</codbib>
+      <autore1>Crespini C.</autore1>
+      <titolo1>Terremoti di Argenta (Ferrara). Sunto di una lettera del signor Crespino Crespini, in data 5 Marzo 1888, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, pt.4, pp.179-180.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ferrarese dall’anno 1409 sino al 1502 di autori incerti, ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.1.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1928</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395303</codbib>
+      <autore1>*</autore1>
+      <titolo1>Lettera del duca Borso d’Este ai consoli e al Consiglio di Argenta, Fossa d’Albero 2 marzo 1466, in F.L.Bertoldi, "Memorie storiche d’Argenta", vol.3, parte 2, p.153.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1821</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395304</codbib>
+      <autore1>*</autore1>
+      <titolo1>Lettera del duca Borso d’Este ai consoli di Argenta, Belriguardo 2 agosto 1467, in F.L.Bertoldi, "Memorie storiche d’Argenta", vol.3, parte 2, p.153.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1821</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410005</codbib>
+      <autore1>Bertoldi F.L.</autore1>
+      <titolo1>Memorie storiche d’Argenta (dalle origini al secolo XVII).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1787 - 1864</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410006</codbib>
+      <autore1>Sardi Gasparo</autore1>
+      <titolo1>Historie ferraresi di Guasparo Sardi allo illustrissimo et eccellentissimo signore Don Hercole II di Esti Duca quarto di Ferrara (dalle origini alla metà del secolo XVI).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1556</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410029</codbib>
+      <autore1>Malagù U.</autore1>
+      <titolo1>Guida del ferrarese.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 645, Filippo Rodi, Annali di Ferrara (dalle origini fino alla fine del XVI secolo), 3 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

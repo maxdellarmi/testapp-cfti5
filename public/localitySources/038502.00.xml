@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>038502.00</nloc_cfti>
+      <desloc_cfti>Marano sul Panaro</desloc_cfti>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.4567</lat_wgs84>
+      <lon_wgs84>10.9709</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00516</nterr>
+      <nperiod>000075</nperiod>
+      <datanum>15050103</datanum>
+      <data_label>1505 01 03</data_label>
+      <anno>1505</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5086</lat>
+      <lon>11.2296</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>31</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il terremoto fu sentito; l’evento è menzionato nella storia locale di Poggi (1962) $(440112)$, che non fa riferimento a scosse specifiche, ma genericamente alla sequenza sismica.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Spadea et al. (1984) hanno valutato l’intensità della scossa di IV grado MCS $(052130)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00501</nterr>
+      <nperiod>000074</nperiod>
+      <datanum>15010605</datanum>
+      <data_label>1501 06 05</data_label>
+      <anno>1501</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5199</lat>
+      <lon>10.8435</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>20</npun>
+      <mm>6</mm>
+      <earthquakelocation>Appennino modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Secondo un’opera di storiografia locale novecentesca il centro fu gravemente danneggiato $(440112)$, ma il paese non è citato da nessuna delle fonti coeve.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>440112</codbib>
+      <autore1>Poggi F. e Poggi S.</autore1>
+      <titolo1>Marano sul Panaro dalle origini ad oggi.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1962</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052130</codbib>
+      <autore1>Spadea M.C., Vecchi M. e Del Mese S. (a cura di)</autore1>
+      <titolo1>Bollettino macrosismico 1983, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

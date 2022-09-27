@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044834.00</nloc_cfti>
+      <desloc_cfti>Castelfiorentino</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>14</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.6056</lat_wgs84>
+      <lon_wgs84>10.9695</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02198</nterr>
+      <nperiod>002042</nperiod>
+      <datanum>17681130</datanum>
+      <data_label>1768 11 30</data_label>
+      <anno>1768</anno>
+      <mese>11</mese>
+      <giorno>30</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.566</lat>
+      <lon>10.9458</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>4</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Val d’Elsa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24012</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:29:02</time_label>
+      <ora>22</ora>
+      <minu>29</minu>
+      <sec>02</sec>
+      <lat>43.437</lat>
+      <lon>11.3427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>115</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09332</nterr>
+      <nperiod>002067</nperiod>
+      <datanum>18690926</datanum>
+      <data_label>1869 09 26</data_label>
+      <anno>1869</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.4539</lat>
+      <lon>11.1053</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>9</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle dell’Elsa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente e fu seguita nella notte da forti repliche che nei giorni seguenti divennero più leggere $(092004,925000)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 29 giugno 1919 fu avvertita fortemente $(020003)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa, della durata di 5s e accompagnata da un piccolo rombo, fu avvertita da tutti con timore; causò tremolio di mobili, suono di campanelli e dell’orologio pubblico; gli oggetti sospesi oscillarono a lungo $(002019,745733,092001,092080,095410)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24014</nterr>
+      <nperiod>002076</nperiod>
+      <datanum>19110913</datanum>
+      <data_label>1911 09 13</data_label>
+      <anno>1911</anno>
+      <mese>09</mese>
+      <giorno>13</giorno>
+      <time_label>22:35:10</time_label>
+      <ora>22</ora>
+      <minu>35</minu>
+      <sec>10</sec>
+      <lat>43.5472</lat>
+      <lon>11.2433</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>13</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Chianti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22533</nterr>
+      <nperiod>003254</nperiod>
+      <datanum>19090825</datanum>
+      <data_label>1909 08 25</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>25</giorno>
+      <time_label>00:22:27</time_label>
+      <ora>00</ora>
+      <minu>22</minu>
+      <sec>27</sec>
+      <lat>43.1395</lat>
+      <lon>11.331</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>286</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Toscana meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>17</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa delle 0:22 GMT, preceduta da rombo, fu avvertita anche da una parte di coloro che dormivano $(000020,672912)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Gli effetti della scossa furono valutati pari al III grado MCS sul Bollettino Sismico dell’Istituto Nazionale di Geofisica $(000581)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12993</nterr>
+      <nperiod>002071</nperiod>
+      <datanum>18871114</datanum>
+      <data_label>1887 11 14</data_label>
+      <anno>1887</anno>
+      <mese>11</mese>
+      <giorno>14</giorno>
+      <time_label>05:48:05</time_label>
+      <ora>05</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>43.7516</lat>
+      <lon>11.2178</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>101</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, della durata di circa 2s, fu avvertita da poche persone in stato di quiete o ai piani superiori delle case. Causò tremolio di vetri e di mobili $(000007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20699</nterr>
+      <nperiod>002074</nperiod>
+      <datanum>19071220</datanum>
+      <data_label>1907 12 20</data_label>
+      <anno>1907</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>10:29:15</time_label>
+      <ora>10</ora>
+      <minu>29</minu>
+      <sec>15</sec>
+      <lat>43.4871</lat>
+      <lon>11.3741</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>35</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Radda in Chianti (SI)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16303</nterr>
+      <nperiod>003253</nperiod>
+      <datanum>18971218</datanum>
+      <data_label>1897 12 18</data_label>
+      <anno>1897</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>07:24:20</time_label>
+      <ora>07</ora>
+      <minu>24</minu>
+      <sec>20</sec>
+      <lat>43.4966</lat>
+      <lon>12.3781</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>132</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110602,000006)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20693</nterr>
+      <nperiod>002074</nperiod>
+      <datanum>19071215</datanum>
+      <data_label>1907 12 15</data_label>
+      <anno>1907</anno>
+      <mese>12</mese>
+      <giorno>15</giorno>
+      <time_label>13:06:55</time_label>
+      <ora>13</ora>
+      <minu>06</minu>
+      <sec>55</sec>
+      <lat>43.4044</lat>
+      <lon>11.3508</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>20</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Radda in Chianti (SI)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa, durata 20s, fu avvertita con spavento generale e fuga dalle case; suonarono le campane, crollarono alcuni camini e si verificarono leggere lesioni negli edifici $(385469)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.06.30, a.14, n.160.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385469</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 7 settembre 1920 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Castelfiorentino 15 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092004</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Notes sur les tremblements de terre en 1869, avec suppléments pour les années antérieures, de 1843 à 1868, in "Mémoires Couronnés et autres Mémoires publiés par l’Académie Royale des Sciences, des Lettres et des Beaux-Arts de Belgique", tomo 22.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>925000</codbib>
+      <autore1>*</autore1>
+      <titolo1>Tremblement de terre en Italie, in "Cosmos. Revue Encyclopédique Hebdomadaire des Progrès des Sciences", s.III, tomo 5, p.417.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1869</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002019</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, maggio 1895, n.156, Cartolina macrosismica relativa al terremoto del 18 maggio 1895 inviata dal sindaco di Castelfiorentino all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Castelfiorentino 18 maggio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745733</codbib>
+      <autore1>Giovannozzi G., Vinassa de Regny P.E. e Pimpinelli V.</autore1>
+      <titolo1>Nota preliminare sui terremoti fiorentini del 1895, in "Atti della Società Toscana di Scienze Naturali. Processi verbali", vol.9, pp.268-279.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto fiorentino del 18 maggio 1895: nota preliminare.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092080</codbib>
+      <autore1>Bassani C.</autore1>
+      <titolo1>Prime ricerche sulla provenienza del terremoto di Firenze nella sera 18 maggio 1895, in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.15, pp.4-7, 25-32, 41-52, 63-70; vol.16, pp.12-22, 35-52, 72-88, 108-124; vol.17, pp.1-7, 17-24, 33-42, 49-60, 65-69, 81-88, 97-102; vol.18, pp.1-9, 17-24, 33-37, 49-59, 65-73; vol.19, pp.13-19, 32-35; vol.20, pp.14-20, 29-35, 45-50, 61-65; vol.21, pp.1-7, 22-28, 40-45, 55-63; vol.22, pp.24-28.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1895 - 1902</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095410</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Ximeniano di Firenze, "Risposte alla circolare" inviata dal direttore dell’Osservatorio Ximeniano Giovanni Giovannozzi per raccogliere informazioni sugli effetti del terremoto del 18 maggio 1895, in E.Cioppi, "18 maggio 1895: storia di un terremoto fiorentino", pp.219-299.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110602</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.82, Cartolina macrosismica relativa al terremoto del 18 dicembre 1897 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Castelfiorentino 18 dicembre 1897.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000020</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1909, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.16 (1912).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672912</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1909.08.26, a.51, n.238.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

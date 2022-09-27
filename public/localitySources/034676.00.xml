@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>034676.00</nloc_cfti>
+      <desloc_cfti>Turca di Sopra</desloc_cfti>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.901</lat_wgs84>
+      <lon_wgs84>9.7893</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33063</nterr>
+      <nperiod>000773</nperiod>
+      <datanum>19510515</datanum>
+      <data_label>1951 05 15</data_label>
+      <anno>1951</anno>
+      <mese>05</mese>
+      <giorno>15</giorno>
+      <time_label>22:54:24</time_label>
+      <ora>22</ora>
+      <minu>54</minu>
+      <sec>24</sec>
+      <lat>45.2521</lat>
+      <lon>9.6005</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>154</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

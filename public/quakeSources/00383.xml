@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00383</nterr>
+      <nperiod>003173</nperiod>
+      <datanum>14290000</datanum>
+      <data_label>1429 - -</data_label>
+      <anno>1429</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.467</lat>
+      <lon>12.333</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Venezia</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca sulle fonti edite. Baratta (1901) $(000001)$ utilizzò come fonte l’opera di Zerenghi (1624) $(020927)$, che contiene l’informazione di un terremoto avvenuto nel 1429 a Venezia. Poiché Venezia ha una ricca tradizione cronachistica, la mancanza di notizie relative a questa scossa nelle fonti memorialistiche del Quattrocento (ha infatti dato esito negativo lo spoglio della "Vitae ducum" di Sanuto $(700055)$) pone in forte dubbio questa testimonianza.&lt;br&gt;Lo spoglio della produzione memorialistica del XVI secolo, che conserva effettivamente la notizia di un terremoto nel 1429, ma mai con l’indicazione che esso fu sentito o causò danni a Venezia, conferma il dubbio sulla testimonianza di Zerenghi $(020927)$. Girolamo Bardi (1581) $(410085)$, cittadino fiorentino residente a Venezia, nel suo repertorio cronologico ricordò che nel 1429 un grande terremoto colpì l’Inghilterra e che in altre località, non meglio precisate, furono avvertiti terremoti. Anche altri scrittori seicenteschi menzionarono il terremoto in questo anno: Rosaccio (1641) $(410231)$ non diede alcun elemento di localizzazione; Bonito (1691) $(000003)$ menzionò un evento in Inghilterra e ricordò, inoltre, che nel 1429 a Venezia gelò il Canal Grande, tanto che i cittadini potevano attraversarlo a piedi. A Venezia un terremoto testimoniato da fonti coeve fu sentito quattro anni prima, nel 1425, e il ricordo dell’evento entrò nella tradizione erudita locale.&lt;br&gt;La notizia riportata da Zerenghi sul terremoto del 1429, non essendo suffragata da fonti coeve, può essere quindi in realtà riferita all’evento del 1425 e derivare in parte anche da una errata localizzazione a Venezia del coevo evento sismico localizzato dalle fonti in Gran Bretagna.&lt;br&gt;In base a tali considerazioni, l’evento è stato eliminato da questo catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020927</codbib>
+      <autore1>Zerenghi F.</autore1>
+      <titolo1>Discorso del terremoto.</titolo1>
+      <luogoed>Macerata</luogoed>
+      <datacompl>1626</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410085</codbib>
+      <autore1>Bardi G.</autore1>
+      <titolo1>Sommario overo età del mondo Chronologiche [da Adamo fino al 1581], 4 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1581</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410231</codbib>
+      <autore1>Rosaccio G.</autore1>
+      <titolo1>Le sei età del mondo dalle origini al 1636.</titolo1>
+      <luogoed>Viterbo</luogoed>
+      <datacompl>1641</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700055</codbib>
+      <autore1>Sanudo Marino</autore1>
+      <titolo1>Vitæ ducum Venetorum italice scriptæ ab origine Urbis, sive ab Anno 421 usque ad Annum 1493 (sec.XVI), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 22, coll.405-1252.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

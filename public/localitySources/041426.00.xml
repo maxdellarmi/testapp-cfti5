@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041426.00</nloc_cfti>
+      <desloc_cfti>Riolo Terme</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.2763</lat_wgs84>
+      <lon_wgs84>11.7223</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto del 10 novembre 1918 fu fortemente avvertito e causò panico $(090487)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29693</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290410</datanum>
+      <data_label>1929 04 10</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>10</giorno>
+      <time_label>05:43:12</time_label>
+      <ora>05</ora>
+      <minu>43</minu>
+      <sec>12</sec>
+      <lat>44.4264</lat>
+      <lon>11.4754</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>74</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Allo stato attuale della revisione non sono disponibili descrizioni degli effetti. Secondo il Bollettino sismico $(000031)$, la scossa delle ore 5:43 GMT del 10 aprile ebbe effetti corrispondenti al grado IV della scala Mercalli.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14566</nterr>
+      <nperiod>002072</nperiod>
+      <datanum>18921229</datanum>
+      <data_label>1892 12 29</data_label>
+      <anno>1892</anno>
+      <mese>12</mese>
+      <giorno>29</giorno>
+      <time_label>13:48</time_label>
+      <ora>13</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>44.2455</lat>
+      <lon>11.3866</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>19</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Appennino bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10519</nterr>
+      <nperiod>003210</nperiod>
+      <datanum>18741007</datanum>
+      <data_label>1874 10 07</data_label>
+      <anno>1874</anno>
+      <mese>10</mese>
+      <giorno>07</giorno>
+      <time_label>15:48</time_label>
+      <ora>15</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>44.1957</lat>
+      <lon>11.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>46</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò danni diffusi a fumaioli e a cornicioni $(000001)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000031</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1929, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090487</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1918.11.11, a.34, n.315.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1918</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

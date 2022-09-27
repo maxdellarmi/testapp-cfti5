@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>005642.00</nloc_cfti>
+      <desloc_cfti>Santa Margherita</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.4609</lat_wgs84>
+      <lon_wgs84>7.2441</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11110</nterr>
+      <nperiod>003343</nperiod>
+      <datanum>18780607</datanum>
+      <data_label>1878 06 07</data_label>
+      <anno>1878</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>22:25</time_label>
+      <ora>22</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>44.44</lat>
+      <lon>7.356</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

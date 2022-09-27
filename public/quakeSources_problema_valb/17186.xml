@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>17186</nterr>
+      <nperiod>000326</nperiod>
+      <datanum>18991115</datanum>
+      <data_label>1899 11 15</data_label>
+      <anno>1899</anno>
+      <mese>11</mese>
+      <giorno>15</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.4041</lat>
+      <lon>11.4399</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>25</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.5</mm>
+      <earthquakelocation>Vicentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020130</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1885-1922.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1885 - 1922</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1891-1926.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1891 - 1926</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021244</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Lombardia, Area San Benedetto Po. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071061</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Mantova, 1896-1919.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1896 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1885-1985.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1885 - 1985</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071192</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire, 1896-1902.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1896 - 1902</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420380</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1899.11.17.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420520</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1899.11.17.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460021</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.11.17.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510381</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Berico, 1899.11.17-18, a.24, n.263.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600436</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.11.16-17.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600437</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.11.17-18.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690679</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1899.11.17, n.316.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1878-1970.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1878 - 1970</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771048</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Bergamo, 1880-1919.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1880 - 1919</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780073</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Corriere di Padova, 1899.11.16.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780075</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Padova, 1899.11.16.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780082</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Democrazia, 1899.11.19.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870555</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1899.11.17-18, n.320.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870556</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1899.11.18-19, n.321.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Barbarano Vicentino</desloc>
+      <lat_wgs84>45.4101</lat_wgs84>
+      <lon_wgs84>11.5394</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>024053.00</nloc_cfti>
+      <desloc_cfti>Barbarano Vicentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Abano Terme</desloc>
+      <lat_wgs84>45.3603</lat_wgs84>
+      <lon_wgs84>11.7895</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>028492.00</nloc_cfti>
+      <desloc_cfti>Abano Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Legnago</desloc>
+      <lat_wgs84>45.193</lat_wgs84>
+      <lon_wgs84>11.3108</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>022816.00</nloc_cfti>
+      <desloc_cfti>Legnago</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Montecchia di Crosara</desloc>
+      <lat_wgs84>45.485</lat_wgs84>
+      <lon_wgs84>11.2536</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>022904.00</nloc_cfti>
+      <desloc_cfti>Montecchia di Crosara</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Este</desloc>
+      <lat_wgs84>45.2287</lat_wgs84>
+      <lon_wgs84>11.6558</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>028844.00</nloc_cfti>
+      <desloc_cfti>Este</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mezzane di Sopra</desloc>
+      <lat_wgs84>45.4933</lat_wgs84>
+      <lon_wgs84>11.1358</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>022884.00</nloc_cfti>
+      <desloc_cfti>Mezzane di Sopra</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Lonigo</desloc>
+      <lat_wgs84>45.3875</lat_wgs84>
+      <lon_wgs84>11.388</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>024618.00</nloc_cfti>
+      <desloc_cfti>Lonigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Valli dei Signori</desloc>
+      <lat_wgs84>45.7399</lat_wgs84>
+      <lon_wgs84>11.2605</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>025678</nloc_cfti>
+      <desloc_cfti>Valli del Pasubio (Valli dei Signori)</desloc_cfti>
+      <notesito>Assunse la denominazione di Valli del Pasubio il 20 agosto 1926.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Camposampiero</desloc>
+      <lat_wgs84>45.5685</lat_wgs84>
+      <lon_wgs84>11.9314</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>028652.00</nloc_cfti>
+      <desloc_cfti>Camposampiero</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Cologna Veneta</desloc>
+      <lat_wgs84>45.3097</lat_wgs84>
+      <lon_wgs84>11.385</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>022549.00</nloc_cfti>
+      <desloc_cfti>Cologna Veneta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Piove di Sacco</desloc>
+      <lat_wgs84>45.2964</lat_wgs84>
+      <lon_wgs84>12.0349</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>029192.00</nloc_cfti>
+      <desloc_cfti>Piove di Sacco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Ronco all'Adige</desloc>
+      <lat_wgs84>45.3383</lat_wgs84>
+      <lon_wgs84>11.2419</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023102.00</nloc_cfti>
+      <desloc_cfti>Ronco all’Adige</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>San Pietro in Cariano</desloc>
+      <lat_wgs84>45.5205</lat_wgs84>
+      <lon_wgs84>10.8862</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023331.00</nloc_cfti>
+      <desloc_cfti>San Pietro in Cariano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Sommacampagna</desloc>
+      <lat_wgs84>45.4075</lat_wgs84>
+      <lon_wgs84>10.8433</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023457.00</nloc_cfti>
+      <desloc_cfti>Sommacampagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arzignano</desloc>
+      <lat_wgs84>45.5214</lat_wgs84>
+      <lon_wgs84>11.3373</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023972.00</nloc_cfti>
+      <desloc_cfti>Arzignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Badia Polesine</desloc>
+      <lat_wgs84>45.0951</lat_wgs84>
+      <lon_wgs84>11.4916</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>029651.00</nloc_cfti>
+      <desloc_cfti>Badia Polesine</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bergantino</desloc>
+      <lat_wgs84>45.0617</lat_wgs84>
+      <lon_wgs84>11.2526</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>029682.00</nloc_cfti>
+      <desloc_cfti>Bergantino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cittadella</desloc>
+      <lat_wgs84>45.649</lat_wgs84>
+      <lon_wgs84>11.7838</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>028774.00</nloc_cfti>
+      <desloc_cfti>Cittadella</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Conselve</desloc>
+      <lat_wgs84>45.2314</lat_wgs84>
+      <lon_wgs84>11.8754</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>028812.00</nloc_cfti>
+      <desloc_cfti>Conselve</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Erbè</desloc>
+      <lat_wgs84>45.2426</lat_wgs84>
+      <lon_wgs84>10.9684</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>022605.00</nloc_cfti>
+      <desloc_cfti>Erbè</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Grisignano di Zocco</desloc>
+      <lat_wgs84>45.4763</lat_wgs84>
+      <lon_wgs84>11.6993</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>024558.00</nloc_cfti>
+      <desloc_cfti>Grisignano di Zocco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sanguinetto</desloc>
+      <lat_wgs84>45.1833</lat_wgs84>
+      <lon_wgs84>11.1513</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>023262.00</nloc_cfti>
+      <desloc_cfti>Sanguinetto</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Thiene</desloc>
+      <lat_wgs84>45.7077</lat_wgs84>
+      <lon_wgs84>11.478</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17186</nterr>
+      <nloc_cfti>025432.00</nloc_cfti>
+      <desloc_cfti>Thiene</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>014530.00</nloc_cfti>
+      <desloc_cfti>Caprino Bergamasco</desloc_cfti>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>45.7462</lat_wgs84>
+      <lon_wgs84>9.4816</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34256</nterr>
+      <nperiod>003231</nperiod>
+      <datanum>19600323</datanum>
+      <data_label>1960 03 23</data_label>
+      <anno>1960</anno>
+      <mese>03</mese>
+      <giorno>23</giorno>
+      <time_label>23:08:49</time_label>
+      <ora>23</ora>
+      <minu>08</minu>
+      <sec>49</sec>
+      <lat>46.3473</lat>
+      <lon>7.9799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>179</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Iaccarino (1964) valutò l’intensità della scossa di II grado MCS $(092028)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22936</nterr>
+      <nperiod>000407</nperiod>
+      <datanum>19091224</datanum>
+      <data_label>1909 12 24</data_label>
+      <anno>1909</anno>
+      <mese>12</mese>
+      <giorno>24</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.5721</lat>
+      <lon>10.3486</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>39</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Garda bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26551</nterr>
+      <nperiod>003348</nperiod>
+      <datanum>19180424</datanum>
+      <data_label>1918 04 24</data_label>
+      <anno>1918</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>14:21:49</time_label>
+      <ora>14</ora>
+      <minu>21</minu>
+      <sec>49</sec>
+      <lat>45.7794</lat>
+      <lon>9.6043</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Lecchese-Bergamasco</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092028</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica in Italia dal 1958 al 1962, CNEN, RT/GEO (64) 11.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

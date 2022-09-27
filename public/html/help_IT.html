@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+	<link rel="stylesheet" href="../css/help.css" />
+	<link rel="icon" type="image/x-icon" href="../favicon.ico">
+	<title>CFTI5Med - HELP</title>
+    <link rel="stylesheet" type="text/css" href="../css/cookies.css" />
+	<script src="../js/cookieconsent.min.js"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7751503-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-7751503-2', { 'anonymize_ip': true });
+	</script>
+
+</head>
+
+<body>
+
+	<div id = "pageheader">
+		<div id="pagetitle">GUIDA ALL'UTILIZZO DELL'INTERFACCIA</div>
+		<div id = "banner">
+			<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="../images/banner_CFTI_newG_thin_IT.png" alt="Header CFTI" height="32px" /></a><a href="http://www.ingv.it/" target = "_blank"><img src="../images/ingv-logo_small.png" alt="Header INGV" width= "30px" /></a>
+		</div>
+	</div>
+
+	<div id = "content">
+	    <script type="text/javascript" >
+	        function showTEXT(idname){
+	            document.getElementById(idname).style.display = "block";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "none";
+	        	document.getElementById(id2).style.display = "inline";
+	            // document.getElementById(idname).scrollIntoView(false);
+	        }
+
+	        function hideTEXT(idname){
+	        	document.getElementById(idname).style.display = "none";
+	        	var id1 = "showTEXT" + idname;
+	        	var id2 = "hideTEXT" + idname;
+	        	document.getElementById(id1).style.display = "inline";
+	        	document.getElementById(id2).style.display = "none";
+	        }
+
+	    </script>
+
+	    <!-- <div id="showALL">
+	        <a onclick="showTEXT('struttgen1'); showTEXT('struttgen2'); showTEXT('struttgen3'); showTEXT('home1'); showTEXT('home2'); showTEXT('home3'); showTEXT('home4'); showTEXT('home5'); showTEXT('home6'); showTEXT('home7'); showTEXT('home8'); showTEXT('home9'); showTEXT('home10'); showTEXT('home11');  showTEXT('quake1'); showTEXT('quake2'); showTEXT('quake3'); showTEXT('loc1'); showTEXT('loc2'); showTEXT('loc3'); return false" href="#">
+	        MOSTRA TUTTO
+	        </a>
+	    </div> -->
+
+
+	<!-- //======================================      STRUTTURA GENERALE    =================================================== -->
+
+	<p> La presente guida intende fornire all'utente una panoramica delle funzionalità dell'interfaccia web. Si rimanda alla sezione <a href="info_IT.html" target="_new" ><font color="#1f708f">INFO</font></a> per informazioni relative alla struttura e ai contenuti del catalogo. </p>
+	<p style="text-align:center"><iframe width="800" height="450" src="https://www.youtube.com/embed/8rYRrRdjm1k?rel=0&amp;start=3247" frameborder="6" allow="autoplay; encrypted-media" allowfullscreen ></iframe></p>
+	    <div>
+	        <a onclick="showTEXT('struttgen1'); return false" href="#" id="showTEXTstruttgen1" class="showTEXT">
+	            <h1>Struttura generale</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('struttgen1'); return false" href="#" id="hideTEXTstruttgen1" class="hideTEXT">
+	            <h1>Struttura generale</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="struttgen1" class="HELP-INFOtext">
+
+	        <p>L&rsquo;interfaccia web &egrave; organizzata secondo lo schema seguente, dove a sinistra sono mostrate le tre modalità di accesso ai contenuti del catalogo (per terremoti, localit&agrave; o effetti sismo-indotti sull'ambiente naturale) e a destra le due tipologie di pagine descrittive di approfondimento del singolo terremoto o della singola localit&agrave;. Le frecce indicano i collegamenti tra le singole pagine.</p>
+	        <p style="text-align:center;"><img src="../images/HELP/struct_gen.png" alt="struttura gen" width="80%" /></p>
+	        <p>In generale, tutte le pagine mostrano uno schema ricorrente suddiviso in una sezione informativa a sinistra (con pannello di selezione e/o tabelle e/o informazioni varie) e una mappa a destra contenente i marker corrispondenti a terremoti / localit&agrave; / effetti ambientali / risentimenti elencati nella tabella a sinistra.</p>
+	        <p>In tutte le pagine, nella sezione informativa a sinistra sono presenti due icone per l&rsquo;export in formato testuale e kml dei dati visualizzati (vengono esportati i dati relativi alla selezione corrente).</p>
+	        <p>Sulla mappa sono inoltre sempre presenti:</p>
+	        <ul>
+	        <li>Spazio di ricerca dei nomi geografici (tramite motore di ricerca Google Maps)</li>
+	        <li>Icone per aggiunta di layer alla mappa:
+				<ul>
+				<li>l'icona in alto permette di aprire una finestra dove sono elencati i seguenti layer informativi visualizzabili (attivabili solo a determinate scale):</li>
+			        <ul>
+			        <li>Confini Comunali ISTAT 2016</li>
+			        <li>Confini Provinciali ISTAT 2016</li>
+			        <li>Confini Regionali ISTAT 2016</li>
+			        <li>Carta Topografica IGM in scala 1:25.000 (Portale Cartografico Nazionale &ndash; PCN)</li>
+			        <li>Carta Topografica IGM in scala 1:100.000 (PCN)</li>
+			        <li>DISS Individual Seismogenic Sources &ndash; ISS (INGV)</li>
+			        <li>DISS Composite Seismogenic Sources &ndash; CSS (INGV)</li>
+			        <li>DISS Subduction Zones (INGV)</li>
+			        <li>Carta Geologica 1:100.000 (ISPRA)</li>
+			        <li>Catalogo Frane (PCN), con legenda accessibile cliccando su &lsquo;Legenda&rsquo;</li>
+		        	</ul>
+
+				<li>l'icona in basso permette di aprire una finestra con un pannello di selezione tramite il quale si può visualizzare sulla mappa la sismicità strumentale fornita in tempo reale da INGV-CNT (a partire dal 1985). Dopo aver impostato i criteri di selezione, gli epicentri vengono mostrati sulla mappa al click su 'OK'. Nella figura in basso è mostrato un esempio di visualizzazione contemporanea di epicentri del CFTI5, sismicità strumentale e layer DISS Composite Seismogenic Sources.</li>
+
+				</ul>
+	        </li>
+	        <li>Legenda dei marker presenti sulla mappa</li>
+	        <li>Menu di selezione delle mappe di base Google</li>
+	        <li>Coordinate geografiche corrispondenti alla posizione del cursore.</li>
+	        </ul>
+	        <p style="text-align:center;"><img src="../images/HELP/structure1.png" width="80%" /></p>
+			<p style="text-align:center;"><img src="../images/HELP/Index_DISS-strum.png" alt="struttura gen" width="60%" /></p>
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('struttgen2'); return false" href="#" id="showTEXTstruttgen2" class="showTEXT">
+	            <h3>Finestre informative</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('struttgen2'); return false" href="#" id="hideTEXTstruttgen2" class="hideTEXT">
+	            <h3>Finestre informative</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+
+
+	    <div id="struttgen2" class="HELP-INFOtext">
+
+	        <p>In tutte le tipologie di pagine, i marker e alcuni elementi delle righe delle tabelle sono cliccabili. Al click viene visualizzata una finestra informativa sulla mappa (in corrispondenza del marker selezionato) e la corrispondente riga della tabella viene evidenziata in giallo. La finestra informativa contiene le informazioni relative al terremoto/localit&agrave;/effetto ambientale/osservazione macrosismica selezionata e i link alla pagina di approfondimento della singola localit&agrave; e/o del singolo terremoto. Di seguito &egrave; mostrato uno schema dei collegamenti tra tutte le tipologie di finestre informative delle varie pagine dell&rsquo;interfaccia.</p>
+	        <p>&nbsp;</p>
+	        <p style="text-align:center;"><img src="../images/HELP/IW_collegam.png" width="100%" /></p>
+	        <p>Nelle pagine del singolo terremoto, della singola localit&agrave; e nella pagina di accesso per effetti ambientali, nelle finestre informative vengono visualizzati dei testi descrittivi (commenti storico-critici) degli effetti sul contesto antropico e sull'ambiente naturale. Nelle descrizioni sono contenuti anche i riferimenti bibliografici, con elenco numerato alla fine del testo, che a loro volta rimandano al link del pdf del testo della fonte. Le fonti possono essere presenti sotto forma di trascrizioni (PDF_T) o scansioni della fonte originale (PDF_R). A tali pdf si accede con click sulle scritte &ldquo;PDF_T&rdquo; e/o &ldquo;PDF_R&rdquo;, presenti in coda al riferimento bibliografico, ove il pdf &egrave; disponibile.</p>
+	        <p>Nei file pdf &egrave; presente un link al quale si pu&ograve; reperire la corretta citazione per l&rsquo;utilizzo del materiale messo a disposizione.</p>
+	        <p>&nbsp;&nbsp;</p>
+	        <p style="text-align:center;"><img src="../images/HELP/fonte_daIW.png" width="80%" /></p>
+	        <p style="text-align:center;"><img src="../images/HELP/fonte_daIW_R.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+
+	    <div>
+	        <a href="#" onclick="showTEXT('struttgen3'); return false" id="showTEXTstruttgen3" class="showTEXT">
+	            <h3>Informazioni generali utili per la navigazione</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a href="#" onclick="hideTEXT('struttgen3'); return false"  id="hideTEXTstruttgen3" class="hideTEXT">
+	            <h3>Informazioni generali utili per la navigazione</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="struttgen3" class="HELP-INFOtext">
+			<p>Si elencano di seguito alcune informazioni utili per la navigazione:
+	        <ul>
+			<li>Al click sul banner CFTI5Med è possibile tornare alla home iniziale dell'interfaccia web (accesso per terremoti)</li>
+	        <li>La navigazione nell'interfaccia web è guidata da un help contestuale che si attiva con roll-over (passaggio sopra) del mouse su immagini e scritte.</li>
+	        <li>Tutte le tabelle sono ordinabili, cliccando sulle intestazioni delle singole colonne.</li>
+	        <li>La visualizzazione delle selezioni fatte nei men&ugrave; nelle tre tipologie di accesso della pagina di accesso al catalogo viene effettuata al click sul pulsante &ldquo;OK&rdquo;.</li>
+	        <li>I colori di sfondo dei titoli visualizzati nelle finestre informative sono indicativi del tipo di informazione mostrata: con colore azzurro chiaro per le informazioni relative ai terremoti e rosso chiaro per le informazioni relative alle localit&agrave;. Tali colori corrispondono a quelli visualizzati come sfondo del menu info|disclaimer|help in alto a sinistra delle pagine descrittive del singolo terremoto e della singola localit&agrave; e delle pagine di accesso per terremoto e per località.</li>
+			<li>Le localizzazioni geografiche sono rappresentate in coordinate geografiche (WGS84) espresse in gradi approssimati a tre decimali.</li>
+			<li>Quando in mappa sono rappresentati molteplici marker di epicentri sovrapposti (o molto vicini tra di loro), al click questi assumono colore blu e vengono disposti a cerchio con barre nere che li collegano alla loro posizione originaria in mappa. I marker selezionati mantengono le loro dimensioni legate all'intensità epicentrale secondo la scala mostrata nella legenda. Con un ulteriore click su un marker blu viene visualizzata la finestra informativa come per qualunque altro marker della mappa (figura di seguito).</li>
+	        </ul>
+			<p style="text-align:center;"><img src="../images/HELP/spider.png" width="80%" /></p>
+	        </p>
+	    </div>
+	    <hr>
+
+
+	<!-- //======================================      HOME    =================================================== -->
+
+	    <div>
+	        <a onclick="showTEXT('home1'); return false" href="#" id="showTEXThome1" class="showTEXT">
+	            <h1>Pagina di accesso al catalogo</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home1'); return false" href="#" id="hideTEXThome1" class="hideTEXT">
+	            <h1>Pagina di accesso al catalogo</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home1" class="HELP-INFOtext">
+	        <p>Inizialmente viene caricato l'accesso per terremoti. Dal menu in alto a sinistra della mappa si pu&ograve; selezionare un diverso tipo di accesso, a scelta tra terremoti, localit&agrave; ed effetti ambientali, come mostrato nella figura di seguito.</p>
+	        <p>&nbsp;</p>
+	        <p style="text-align:center;"><img src="../images/HELP/Index_menuSelection.png" width="80%" /></p>
+	        <p>Le tre tipologie di accessi della pagina di accesso al catalogo sono strutturate in maniera analoga con:</p>
+	        <ul>
+
+	        <li>PANNELLO DI SELEZIONE: in alto a sinistra, permette di filtrare i dati secondo criteri impostati dall&rsquo;utente (la visualizzazione dei dati selezionati &egrave; effettuata al click sul pulsante &ldquo;OK&rdquo;)</li>
+	        <li>TABELLA: sotto il pannello di selezione, contiene l&rsquo;elenco dei terremoti/localit&agrave;/effetti ambientali selezionati, corrispondenti ai marker presenti sulla mappa</li>
+	        <li>MAPPA: mostra i marker corrispondenti a ogni riga della tabella.</li>
+	        </ul>
+	        <p>&nbsp;</p>
+	    </div>
+	    <hr>
+
+
+
+	    <div>
+	        <a onclick="showTEXT('home2'); return false" href="#" id="showTEXThome2" class="showTEXT">
+	            <h2>1.&nbsp;&nbsp; Accesso per terremoti</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home2'); return false" href="#" id="hideTEXThome2" class="hideTEXT">
+	            <h2>1.&nbsp;&nbsp; Accesso per terremoti</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home2" class="HELP-INFOtext">
+	        <p>L'accesso per terremoti rappresenta la home iniziale dell&rsquo;interfaccia web e permette di visualizzare la lista dei terremoti presenti nella banca dati CFTI. Di default al caricamento della pagina vengono mostrati i forti terremoti in area italiana. Per forti si intendono i terremoti con intensit&agrave; epicentrale maggiore o uguale a VIII (gradi MCS). Tale selezione può essere modificata tramite il pannello di selezione. Per una spiegazione sulle tipologie di epicentri si veda la pagina INFO alla sezione <a href="info_IT.html#INFOlocalizeq" target="_blank";>Localizzazione dei singoli terremoti: tipologia e rappresentazione in mappa</a>.</p>
+	        <p>Al click su un singolo terremoto dalla tabella (data del terremoto) o dai marker sulla mappa, si apre una finestra informativa da cui si pu&ograve; accedere alla pagina di approfondimento del singolo terremoto (cliccando su &lsquo;Pagina del terremoto&rsquo;).</p>
+
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('home3'); return false" href="#" id="showTEXThome3" class="showTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home3'); return false" href="#" id="hideTEXThome3" class="hideTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home3" class="HELP-INFOtext">
+	        <p>Il pannello di selezione nella sezione in alto a sinistra nella pagina permette di filtrare i terremoti presenti nella banca dati CFTI sulla base dei seguenti criteri:</p>
+	        <ul>
+	        <li><strong>Periodo temporale</strong>: per i terremoti di area italiana questo ha limiti massimi compresi tra 461 a.C. al 1997, per i terremoti di area mediterranea dal 760 a.C. al 1500</li>
+	        <li><strong>Area</strong>: &egrave; possibile effettuare selezioni sulla base di intervalli di latitudine e longitudine o mediante un rettangolo grafico sulla mappa (attivabile con pulsante dal pannello di selezione; figura di seguito) e dal men&ugrave; a tendina &egrave; possibile scegliere se visualizzare i terremoti italiani, mediterranei o tutti. Per terremoti italiani si intendono tutti i terremoti con epicentro in Italia o in area mediterranea che hanno avuto effetti sul territorio italiano, mentre per terremoti mediterranei si intendono i terremoti che hanno avuto effetti solo al di fuori del territorio italiano. </li>
+	        <li><strong>Intensit&agrave; epicentrale o magnitudo equivalente</strong>: le due tipologie di selezione sono in alternativa. Di default &egrave; visualizzata la selezione per intensit&agrave; epicentrale, quella per magnitudo si attiva cliccando sul riquadro corrispondente. All&rsquo;interno di questa sezione del pannello di selezione si pu&ograve; inoltre attivare tramite check-box la visualizzazione dei terremoti falsi.</li>
+	        </ul>
+			La selezione, avviata al click sul pulsante “OK”, modifica contemporaneamente l’elenco degli epicentri visualizzati in mappa ed elencati nella tabella.
+			<p>Le icone 'WMS' e 'WFS' permettono di accedere ai servizi web OGC per l'intero catalogo (tutti gli epicentri contenuti nel CFTI5Med). Al click sulle icone viene copiato il link del servizio OGC corrispondente, che viene anche contestualmente visualizzato sopra l'icona.</p>
+	        <!-- <p style="text-align:center;"><img src="../images/HELP/Index_pannelloSel.png" width="40%" /></p> -->
+			<p style="text-align:center;"><img src="../images/HELP/Index_rettangolo.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('home4'); return false" href="#" id="showTEXThome4" class="showTEXT">
+	            <h3>Grafico temporale</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home4'); return false" href="#" id="hideTEXThome4" class="hideTEXT">
+	            <h3>Grafico temporale</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home4" class="HELP-INFOtext">
+	        <p>Tra il pannello di selezione e la tabella &egrave; mostrato un grafico temporale dei terremoti selezionati (anno vs. intensit&agrave; epicentrale). Al roll-over sulle singole barre dell&rsquo;istogramma, vengono visualizzate le informazioni dei singoli terremoti. Tale grafico mostra i terremoti corrispondenti a quelli presenti nella tabella e nella mappa, risultato della selezione tramite il pannello. Al click sulla lente d&rsquo;ingradimento (in alto a sinistra del grafico), il grafico si allarga orizzontalmente. Al click sull&rsquo;icona di salvataggio, &egrave; possibile salvare un&rsquo;immagine .png del grafico.</p>
+	        <p>&nbsp;</p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home5'); return false" href="#" id="showTEXThome5" class="showTEXT">
+	            <h3>Tabella</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home5'); return false" href="#" id="hideTEXThome5" class="hideTEXT">
+	            <h3>Tabella</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home5" class="HELP-INFOtext">
+
+	        <p>La tabella contiene l&rsquo;elenco dei terremoti presenti nella banca dati, selezionati in basi ai criteri scelti dall&rsquo;utente nel menu soprastante. Per ogni terremoto sono fornite le seguenti informazioni:</p>
+	        <ul>
+	        <li><strong>Data: </strong>data del terremoto (anno mese giorno)</li>
+	        <li><strong>Ora: </strong>ora del terremoto in Greenwich Mean Time (ora:minuti:secondi)</li>
+	        <li><strong>Io: </strong>intensità epicentrale (MCS)</li>
+	        <li><strong>Imax: </strong>intensità massima (MCS)</li>
+	        <li><strong>NOM:</strong> numero di osservazioni macrosismiche per il terremoto</li>
+	        <li><strong>Me:</strong> Magnitudo equivalente calcolata sulla base delle osservazioni macrosismiche</li>
+	        <li><strong>Area epicentrale</strong></li>
+			<li><strong>Note: </strong>
+	        <ul>
+	        <li>F: falso</li>
+	        <li>D: dubbio</li>
+			<li>S: localizzazione epicentrale basata su un solo dato di intensit&agrave;</li>
+			<li>E: localizzazione epicentrale da catalogo estero</li>
+	        <li>N: attualmente senza osservazioni macrosismiche</li>
+	        </ul>
+			</li>
+			<li><strong>Liv:</strong> livello di approfondimento dello studio
+				<ul>
+		        <li><img src="../images/EQlevel_A.png" width="20px" vertical-align="-10px"> approfondito</li>
+		        <li><img src="../images/EQlevel_I.png" width="20px" vertical-align="-10px"> intermedio</li>
+				<li><img src="../images/EQlevel_S.png" width="20px" vertical-align="-10px"> speditivo</li>
+		        </ul>
+			</li>
+	        </ul>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home6'); return false" href="#" id="showTEXThome6" class="showTEXT">
+	            <h2>2.&nbsp;&nbsp; Accesso per localit&agrave;</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home6'); return false" href="#" id="hideTEXThome6" class="hideTEXT">
+	            <h2>2.&nbsp;&nbsp; Accesso per localit&agrave;</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home6" class="HELP-INFOtext">
+	        <p>In questa modalità di accesso vengono visualizzate le localit&agrave; presenti nella banca dati CFTI, rappresentate in mappa con icone di colore corrispondente alla massima intensit&agrave; risentita al sito (gradi MCS), secondo la legenda in basso a sinistra nella mappa. Di default al caricamento vengono visualizzate tutte le località contenute della banca dati. Tale selezione pu&ograve; essere modificata tramite il pannello di selezione. </p>
+			<p>Al click su una singola localit&agrave; dalla tabella (nome della località) o dai marker sulla mappa, si apre una finestra informativa da cui si pu&ograve; accedere alla pagina di approfondimento (cliccando su &lsquo;Pagina della localit&agrave;&rsquo;).</p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home7'); return false" href="#" id="showTEXThome7" class="showTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home7'); return false" href="#" id="hideTEXThome7" class="hideTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home7" class="HELP-INFOtext">
+	        <p>Tramite il pannello di selezione posto nella sezione in alto a sinistra della pagina, &egrave; possibile effettuare una ricerca delle localit&agrave; presenti nella banca dati ( a sinistra) e filtrare l&rsquo;elenco delle localit&agrave; secondo un intervallo di massima intensit&agrave; risentita (gradi MCS). La selezione, avviata al click sul pulsante &ldquo;OK&rdquo;, modifica contemporaneamente l&rsquo;elenco delle localit&agrave; visualizzate in mappa ed elencate nella tabella.</p>
+	        <p style="text-align:center;"><img src="../images/HELP/Index_LOC_panSel.png" width="40%" /></p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home8'); return false" href="#" id="showTEXThome8" class="showTEXT">
+	            <h3>Tabella</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home8'); return false" href="#" id="hideTEXThome8" class="hideTEXT">
+	            <h3>Tabella</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home8" class="HELP-INFOtext">
+	        <p>La tabella contiene l&rsquo;elenco delle localit&agrave; selezionate dall'utente in base alle scelte di intervallo di intensit&agrave; massima risentita al sito. Di default vengono mostrate tutte le localit&agrave; presenti nella banca dati. Per ogni localit&agrave; sono mostrate le seguenti informazioni:</p>
+	        <ul>
+	        <li><strong>Localit&agrave;: </strong>nome della localit&agrave;</li>
+	        <li><strong>Prov/Naz:</strong> provincia italiana o nazione</li>
+	        <li><strong>NOM:</strong> Numero di Osservazioni Macrosismiche per la localit&agrave;</li>
+			<li><strong>NNat:</strong> Numero di effetti sismo-indotti sull'ambiente naturale</li>
+	        <li><strong>Imax:</strong> Intensit&agrave; al sito massima (MCS)</li>
+	        <li><strong>Lat: </strong>latitudine della località</li>
+	        <li><strong>Lon: </strong>longitudine della località</li>
+	        </ul>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home9'); return false" href="#" id="showTEXThome9" class="showTEXT">
+	            <h2>3.&nbsp;&nbsp; Accesso per effetti sull'ambiente naturale</h2><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home9'); return false" href="#" id="hideTEXThome9" class="hideTEXT">
+	            <h2>3.&nbsp;&nbsp; Accesso per effetti sull'ambiente naturale</h2><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home9" class="HELP-INFOtext">
+	        <p>In questa modalità di accesso vengono visualizzati gli effetti sismo-indotti sull'ambiente naturale presenti nella banca dati CFTI, rappresentati in mappa con icone variabili a seconda della tipologia di effetto. Tutte le icone sono riportate nel pannello di selezione in alto a sinistra nella pagina (una descrizione per ciascun simbolo è mostrata all roll-over del mouse sulle icone). Di default al caricamento vengono visualizzati tutti gli effetti presenti nella banca dati. Tale selezione pu&ograve; essere modificata tramite il pannello di selezione.</p>
+			<p>Al click su una localit&agrave; dalla tabella (nome della località) o dai marker sulla mappa, si apre una finestra informativa che mostra l&rsquo;elenco di tutti gli effetti ambientali relativi ad una singola localit&agrave; (ovvero relativi a tutti i terremoti cui sono associati effetti ambientali nella localit&agrave;). Nella tabella vengono evidenziate in giallo tutte le righe corrispondenti a tali effetti. Dalla finestra informativa &egrave; possibile accedere, tramite link di fianco al nome della localit&agrave;, alla pagina di approfondimento della singola localit&agrave; e, tramite link di fianco ad ogni stringa di informazioni su un terremoto, alla pagina di approfondimento del singolo terremoto.</p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home10'); return false" href="#" id="showTEXThome10" class="showTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home10'); return false" href="#" id="hideTEXThome10" class="hideTEXT">
+	            <h3>Pannello di selezione</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home10" class="HELP-INFOtext">
+	        <p>Il pannello di selezione &egrave; costituito da icone-pulsanti corrispondenti a tutte le tipologie di effetti sismo-indotti sull'ambiente naturale. Al roll-over del mouse su tali icone, viene mostrata la descrizione testuale della tipologia di effetto corrispondente. Con un click &egrave; possibile selezionare (icona colorata) o deselezionare (icona grigia) il corrispondente effetto ambientale. La selezione pu&ograve; essere effettuata anche per macro-categorie, tramite le check-box presenti di fianco ai titoli dei pannelli di selezione. La selezione, avviata al click sul pulsante &ldquo;OK&rdquo;, modifica contemporaneamente l&rsquo;elenco degli effetti ambientali visualizzati in mappa ed elencati nella tabella.</p>
+			<p style="text-align:center;"><img src="../images/HELP/Index_EE_panSel.png" width="40%" /></p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('home11'); return false" href="#" id="showTEXThome11" class="showTEXT">
+	            <h3>Tabella</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('home11'); return false" href="#" id="hideTEXThome11" class="hideTEXT">
+	            <h3>Tabella</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="home11" class="HELP-INFOtext">
+	        <p>La tabella contiene l&rsquo;elenco degli effetti sismo-indotti sull'ambiente naturale presenti nella banca-dati, selezionati nel pannello soprastante. Di default vengono mostrati tutti gli effetti presenti nella banca dati.</p>
+	        <ul>
+	        <li><strong>Tipo: </strong>tipologia di effetto sismo-indotto sull'ambiente naturale. A sinistra un simbolo corrispondente alle icone del menu di selezione, a destra un pallino pieno o vuoto, rispettivamente per effetti associati al singolo terremoto o associati all&rsquo;intera sequenza sismica</li>
+	        <li><strong>Data: </strong>data del singolo terremoto o date dei terremoti appartenenti a una sequenza sismica (anno, mese, giorno), a seconda che l&rsquo;effetto ambientale sia associato al singolo terremoto o all&rsquo;intera sequenza sismica (pallino pieno o vuoto rispettivamente).</li>
+	        <li><strong>Ora: </strong>ora del terremoto in Greenwich Mean Time (ora:minuti:secondi)</li>
+	        <li><strong>Io: </strong>intensità epicentrale (MCS)</li>
+	        <li><strong>Me:</strong> Magnitudo equivalente calcolata sulla base delle osservazioni macrosismiche</li>
+	        <li><strong>Area epicentrale</strong></li>
+	        </ul>
+	    </div>
+	    <hr>
+
+
+	<!-- //======================================      PAGINA DEL SINGOLO TERREMOTO    =================================================== -->
+
+	    <div>
+	        <a onclick="showTEXT('quake1'); return false" href="#" id="showTEXTquake1" class="showTEXT">
+	            <h1>Pagina del singolo terremoto</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake1'); return false" href="#" id="hideTEXTquake1" class="hideTEXT">
+	            <h1>Pagina del singolo terremoto</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake1" class="HELP-INFOtext">
+	        <p>La pagina del singolo terremoto mostra e descrive gli effetti sul contesto antropico e sull'ambiente naturale. La struttura della pagina &egrave; mostrata nella figura di seguito e consiste in:</p>
+	        <ul>
+	        <li><strong>Parametri del terremoto e dell'intera sequenza sismica</strong>: tabella con i parametri del terremoto e delle scosse del catalogo appartenenti alla stessa sequenza sismica. In giallo è evidenziato il terremoto visualizzato in mappa. La tabella contiene le seguenti informazioni:
+	        <ul>
+	        <li><strong>Data: </strong>data (anno, mese, giorno)</li>
+	        <li><strong>Ora: </strong>ora (ore, minuti, secondi)</li>
+	        <li><strong>Io: </strong>intensità epicentrale (MCS)</li>
+	        <li><strong>Imax: </strong>intensità massima (MCS)</li>
+	        <li><strong>NOM:</strong> numero di osservazioni macrosismiche</li>
+	        <li><strong>Me:</strong> Magnitudo equivalente calcolata sulla base delle osservazioni macrosismiche</li>
+	        <li><strong>Lat: </strong>latitudine dell&rsquo;epicentro</li>
+	        <li><strong>Lon:</strong> longitudine dell&rsquo;epicentro</li>
+	        <li><strong>Area epicentrale</strong></li>
+	        <li><strong>Tipo di epicentro: </strong>
+	        <ul>
+	        <li>C: calcolato</li>
+	        <li>L: singola località</li>
+	        <li>R: regione, area</li>
+	        <li>H: ipotizzato</li>
+	        <li>NP: non parametrizzato</li>
+	        </ul>
+	        </li>
+	        <li><strong>Note: </strong>
+	        <ul>
+			<li>F: falso</li>
+	        <li>D: dubbio</li>
+			<li>S: localizzazione epicentrale basata su un solo dato di intensit&agrave;</li>
+			<li>E: localizzazione epicentrale da catalogo estero</li>
+	        <li>N: attualmente senza osservazioni macrosismiche</li>
+	        </ul>
+	        </li>
+	        </ul>
+	        </li>
+	        </ul>
+	        <span style="padding:0px; padding-left: 40px;">Con un click sulla data dei terremoti della stessa sequenza sismica di quello selezionato si accede alla pagina informativa del singolo terremoto.&nbsp;</span>
+	        <ul>
+	        <li><strong>Informazioni sugli effetti</strong>: posta sotto la tabella con i parametri della sequenza, &egrave; costituita da un testo descrittivo con la sintesi dei maggiori effetti della sequenza sismica, da un pulsante &ldquo;Comm.&rdquo; da cui si accede a una scheda di approfondimento sul terremoto e delle icone che mostrano ulteriori informazioni (numero di morti, stato di avanzamento della ricerca, eventuali differenze rispetto alla versione precedente del catalogo) sulla sequenza (si veda la sezione "Informazioni descrittive della sequenza sismica" per ulteriori informazioni). Nei casi per cui i commenti storico-critici non sono disponibili (poich&egrave; ancora in fase di elaborazione), viene visualizzata una frase che sintetizza lo stato di avanzamento del lavoro con un eventuale rimando alle pubblicazioni di riferimento.</li>
+	        <li><strong>Link esterni a CPTI15-DBMI15</strong> (Catalogo Parametrico dei Terremoti Italiani 15 - DataBase Macrosismico Italiano 15) e <strong>ASMI</strong> (Archivio Storico Macrosismico Italiano), tramite le seguenti icone (al roll-over del mouse appare un testo che spiega i differenti casi possibili, elencati di seguito; per maggiori dettagli si veda la pagina INFO alla sezione <a href="info_IT.html#INFOcptiasmi" target="_blank";>Relazioni con CPTI e ASMI</a>):
+				<ul>
+		        <li><img src="../images/ASMI.png" width="50px" vertical-align="-10px"> terremoto presente in ASMI, l'icona è cliccabile e rimanda alla corrispondente pagina di ASMI;</li>
+		        <li><img src="../images/ASMIgray.png" width="50px" vertical-align="-10px"> terremoto non presente in ASMI, l'icona non è cliccabile;</li>
+				<li><img src="../images/CPTI-DBMI.png" width="50px" vertical-align="-10px"> CFTI4Med è lo studio di riferimento del terremoto per CPTI15-DBMI15 e i contenuti parametrici del CFTI5Med sono gli stessi del CFTI4Med: l'icona è cliccabile e rimanda alla pagina corrispondente di CPTI15;</li>
+				<li><img src="../images/CPTI-DBMI_gray.png" width="50px" vertical-align="-10px"> CFTI4Med non è lo studio di riferimento del terremoto per CPTI15-DBMI15 oppure CFTI4Med è lo studio di riferimento ma la distribuzione degli effetti macrosismici del CFTI5Med &egrave; stata modificata rispetto a quella del CFTI4Med: l'icona non è cliccabile;</li>
+				<li><img src="../images/CPTI-DBMI_gray_line.png" width="50px" vertical-align="-10px"> terremoto non presente in CPTI15-DBMI15 oppure antecedente all'anno 1000, intervallo temporale non coperto da CPTI-DBMI15: l'icona non è cliccabile.</li>
+		        </ul>
+			</li>
+	        <li><strong>Tabella degli effetti del terremoto</strong>: elenco delle localit&agrave; con osservazioni macrosismiche e/o effetti ambientali per il terremoto corrente (descritta in dettaglio di seguito)</li>
+	        <li><strong>Mappa degli effetti</strong>: tutte le localit&agrave; elencate nella tabella sono rappresentate sulla mappa con un&rsquo;icona di colore variabile in base al valore di intensit&agrave; (gradi MCS) secondo la legenda mostrata in basso a sinistra. Le icone con bordo verde rappresentano le localit&agrave; dove sono presenti effetti sismo-indotti sull'ambiente naturale. Nella legenda è inoltre presente un link a una pagina contente la descrizione della scala Mercalli - Càncani-Sieberg 1932. </li>
+	        </ul>
+			<p style="text-align:center;"><img src="../images/HELP/quake_struct.png" width="100%" /></p>
+	        <p>Come mostrato nella figura di seguito, al click su una riga della tabella (intensità o effetto ambientale), o su un marker della mappa, viene visualizzata una finestra informativa che mostra la descrizione degli effetti alla località selezionata (sul contesto antropico e/o sull’ambiente). La descrizione degli effetti sul contesto antropico e l'elenco degli effetti sismo-indotti sull'ambiente naturale possono essere visualizzati anche con semplice roll-over del mouse sull'intensit&agrave; al sito e sul pallino corrispondente agli effetti ambientali (se presente) nella tabella. Si noti che, per gli effetti ambientali, al roll-over sulla tabella viene visualizzata solo la lista delle tipologie di effetti, mentre nella finestra informativa sono mostrati sia la lista sia la descrizione testuale (e relativa bigliografia). </p>
+	        <p style="text-align:center;"><img src="../images/HELP/quake_clickRollover.png" width="100%" /></p>
+
+	    </div>
+	    <hr>
+
+
+	    <div>
+	        <a onclick="showTEXT('quake2'); return false" href="#" id="showTEXTquake2" class="showTEXT">
+	            <h3>Tabella</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake2'); return false" href="#" id="hideTEXTquake2" class="hideTEXT">
+	            <h3>Tabella</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake2" class="HELP-INFOtext">
+	        <p>La tabella riporta l&rsquo;elenco delle localit&agrave; per le quali sono riportati effetti che possono essere relativi al contesto antropico o ambientale. La tabella contiene le seguenti informazioni:</p>
+	        <ul>
+	        <li><strong>Is: </strong>Intensit&agrave; MCS al sito, per il dato terremoto. Oltre ai gradi della scala MCS, in alcuni casi specifici sono utilizzate delle sigle secondo il seguente schema:</li>
+				<ul>
+				<li>S(V) forte risentimento senza elementi per attribuire o escludere danni</li>
+		        <li>F(IV-V) terremoto avvertito</li>
+		        <li>NF terremoto non avvertito</li>
+		        <li>G indicazione generica di danni in uno specifico sito</li>
+		        <li>N riscontro negativo nelle fonti coeve</li>
+		        <li>NC non classificato, si rimanda ai commenti analitici</li>
+				Effetti su un singolo edificio:
+		        <li>A(IX) crolli o lesioni estese nei muri portanti</li>
+		        <li>B(VIII) crolli nella sola parte alta dell'edificio (lanterna, cupola, frontone ecc.)</li>
+		        <li>C(VII) crolli parziali del tetto</li>
+		        <li>D(VI) cadute di cornicioni, fessurazioni nei muri esterni</li>
+		        <li>E(VI-VII) indicazione generica di danno all'edificio</li>
+		        </ul>
+	        <li><strong>Nat: </strong>effetti sismo-indotti sull'ambiente naturale. Ove presenti, sono indicati con pallino pieno (se associati al singolo terremoto) o pallino vuoto (se associati all&rsquo;intera sequenza sismica)</li>
+	        <li><strong>Localit&agrave;: </strong>nome della localit&agrave; e provincia o nazione</li>
+	        <li><strong>Lat: </strong>latitudine</li>
+	        <li><strong>Lon: </strong>longitudine</li>
+	        <li><strong>Distanza (km): </strong>distanza della localit&agrave; dall&rsquo;epicentro macrosismico</li>
+	        </ul>
+
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('quake3'); return false" href="#" id="showTEXTquake3" class="showTEXT">
+	            <h3>Informazioni descrittive della sequenza sismica</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('quake3'); return false" href="#" id="hideTEXTquake3" class="hideTEXT">
+	            <h3>Informazioni descrittive della sequenza sismica</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="quake3" class="HELP-INFOtext">
+	        <p>&Egrave; bene tenere presente che tutte le informazioni descrittive degli effetti consultabili a partire da un singolo terremoto si riferiscono all&rsquo;intera sequenza sismica. Con un click su pulsante &ldquo;Comm.&rdquo;, viene visualizzata una finestra contenente tutti i commenti storico-critici disponibili e la bibliografia, come visibile nella figura di seguito. I commenti storico-critici sono suddivisi in diverse categorie e possono essere anche solo parzialmente disponibili per i diversi periodi sismici. Le categorie sono le seguenti (per maggiori dettagli si veda la pagina INFO alla sezione <a href="info_IT.html#INFOinfoeq" target="_blank";>L'informazione sui terremoti</a>):</p>
+	        <ul>
+	        <li><strong>Sequenza</strong></li>
+	        <li><strong>Stato delle conoscenze</strong></li>
+	        <li><strong>Risposta sociale e istituzionale</strong></li>
+	        <li><strong>Osservazioni e teorie scientifiche</strong></li>
+	        <li><strong>Effetti sul contesto antropico</strong></li>
+	        <li><strong>Effetti sull'ambiente naturale</strong>&nbsp;</li>
+	        </ul>
+	        <p><a id="biblio"></a>La bibliografia, relativa all'intera sequenza sismica, contiene una tabella costituita dalle seguenti colonne (per maggiori dettagli si veda la pagina INFO alla sezione <a href="info_IT.html#INFObiblio" target="_blank";>Area 7. Bibliografia</a>):</p>
+	        <ul>
+	        <li><strong>Autore</strong></li>
+	        <li><strong>Titolo</strong></li>
+	        <li><strong>Tipo di fonte</strong></li>
+	        <li><strong>Anno</strong></li>
+	        <li><strong>Luogo</strong></li>
+	        <li><strong>PDF_T: </strong>contiene il link al pdf della fonte trascritta, ove disponibile</li>
+	        <li><strong>PDF_R: </strong>contiene il link al pdf della scansione della fonte originale, ove disponibile</li>
+	        </ul>
+			<p>Per i terremoti di area mediterranea (non italiani), nella finestra contenente i commenti storico-critici viene fornito un estratto in PDF delle sintesi descrittive contenute nei due volumi di riferimento (Guidoboni <em>et al.</em>, 1995; Guidoboni e Comastri, 2005) </p>
+	        <p>Quando tra gli effetti del terremoto sono note perdite di vite umane, di fianco al pulsante &ldquo;Comm.&rdquo; compare un&rsquo;icona che indica l&rsquo;ordine di grandezza del numero di morti. Al roll-over su questa icona sono visualizzate informazioni sul numero e sull&rsquo;affidabilit&agrave; di questo dato, seguite dalla legenda (per maggiori dettagli si veda la pagina INFO alla sezione <a href="info_IT.html#INFOmorti" target="_blank";>Dati sul numero delle vittime</a>).</p>
+	        <p style="text-align:center;"><img src="../images/HELP/quake_info_morti.png" width="80%" /></p>
+
+			<p>A destra del pulsante &ldquo;Comm.&rdquo; è mostrata un'icona che indica il livello di approfondimento dello studio sulla sequenza sismica, con la seguente simbologia:
+				<ul>
+				<li><img src="../images/EQlevel_A.png" width="20px" vertical-align="-10px"> studio approfondito</li>
+				<li><img src="../images/EQlevel_I.png" width="20px" vertical-align="-10px"> studio intermedio</li>
+				<li><img src="../images/EQlevel_S.png" width="20px" vertical-align="-10px"> studio speditivo</li>
+				</ul></p>
+
+			<p> A sinistra dell'icona relativa a CPTI15-DBMI15, in alcuni casi compare un'icona che specifica se lo studio del terremoto corrente ha subito variazioni nella versione 5 del CFTI rispetto alla precedente. In particolare possono presentarsi i casi seguenti:
+				<ul>
+				<li><img src="../images/NEWicon.png" width="25px" vertical-align="-10px"> terremoto non presente nella versione 4 del CFTI</li>
+				<li><img src="../images/REVicon.png" width="25px" vertical-align="-10px"> terremoto ristudiato rispetto alla versione 4 del CFTI</li>
+				<li><img src="../images/VARicon.png" width="25px" vertical-align="-10px"> terremoto con variazioni e/o correzioni rispetto alla versione 4 del CFTI</li>
+				</ul></p>
+			<p style="text-align:center;"><img src="../images/HELP/Quake_IconeVarie.png" width="50%" /></p>
+	    </div>
+	    <hr>
+
+
+
+	<!-- //======================================      PAGINA DELLA SINGOLA LOCALITA'    =================================================== -->
+
+
+	    <div>
+	        <a onclick="showTEXT('loc1'); return false" href="#" id="showTEXTloc1" class="showTEXT">
+	            <h1>Pagina della singola località</h1><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc1'); return false" href="#" id="hideTEXTloc1" class="hideTEXT">
+	            <h1>Pagina della singola località</h1><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc1" class="HELP-INFOtext">
+	        <p>La pagina della singola localit&agrave; riporta la storia sismica della localit&agrave;, intesa come l&rsquo;elenco e la descrizione di tutti i terremoti presenti nella banca dati CFTI che hanno avuto effetti (sul contesto antropico o sull'ambiente naturale) nella localit&agrave; mostrata.</p>
+	        <p>La pagina si presenta con un grafico temporale, una tabella e una mappa in cui sono riportati tutti i terremoti che compongono la storia sismica e la località (quest'ultima rappresentata con icona a goccia gialla). Il grafico temporale è analogo a quello già descritto per la pagina home di accesso ai terremoti, ma in questo caso le barre sono cliccabili.
+
+			<p>Come mostrato nella figura di seguito, al click su una barra del grafico, una riga della tabella (intensità, effetto ambientale o data del terremoto), o su un marker della mappa, viene visualizzata una finestra informativa che mostra i parametri del terremoto selezionato (con link &lsquo;Pagina del terremoto&rsquo; alla corrispondente pagina di approfondimento) e la descrizione degli effetti alla localit&agrave; (sul contesto antropico e/o sull'ambiente naturale). La descrizione degli effetti sul contesto antropico e l'elenco degli effetti sismo-indotti sull'ambiente naturale possono essere visualizzati anche con semplice roll-over del mouse sulla barra del grafico, sull'intensit&agrave; al sito e sul pallino corrispondente agli effetti ambientali (se presente) nella tabella. Si noti che, per gli effetti ambientali, al roll-over sulla tabella viene visualizzata solo la lista delle tipologie di effetti, mentre nella finestra informativa sono mostrati sia la lista sia la descrizione testuale (e relativa bigliografia). </p>
+	        <p style="text-align:center;"><img src="../images/HELP/Locality_clickRollover.png" width="100%" /></p>
+
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('loc2'); return false" href="#" id="showTEXTloc2" class="showTEXT">
+	            <h3>Tabella</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc2'); return false" href="#" id="hideTEXTloc2" class="hideTEXT">
+	            <h3>Tabella</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc2" class="HELP-INFOtext">
+	        <p>La tabella elenca tutti i terremoti che hanno avuto risentimenti nella singola località, che possono essere relativi al contesto antropico o a effetti sismo-indotti sull'ambiente naturale. La tabella contiene le informazioni relative agli effetti presso la localit&agrave; nella parte sinistra e le informazioni relative al terremoto nella parte destra (separate da una riga grigia verticale). La tabella fornisce le seguenti informazioni:
+	        <ul>
+	        <li><strong>Is: </strong>Intensit&agrave; MCS al sito, per il dato terremoto. Oltre ai gradi della scala MCS, in alcuni casi specifici sono utilizzate delle sigle secondo il seguente schema:</li>
+			<ul>
+ 		   <li>S(V) forte risentimento senza elementi per attribuire o escludere danni</li>
+ 		   <li>F(IV-V) terremoto avvertito</li>
+ 		   <li>NF terremoto non avvertito</li>
+ 		   <li>G indicazione generica di danni in uno specifico sito</li>
+ 		   <li>N riscontro negativo nelle fonti coeve</li>
+ 		   <li>NC non classificato, si rimanda ai commenti analitici</li>
+ 		   Effetti su un singolo edificio:
+ 		   <li>A(IX) crolli o lesioni estese nei muri portanti</li>
+ 		   <li>B(VIII) crolli nella sola parte alta dell'edificio (lanterna, cupola, frontone ecc.)</li>
+ 		   <li>C(VII) crolli parziali del tetto</li>
+ 		   <li>D(VI) cadute di cornicioni, fessurazioni nei muri esterni</li>
+ 		   <li>E(VI-VII) indicazione generica di danno all'edificio</li>
+ 		   </ul>
+	        <li><strong>Nat: </strong>effetti sismo-indotti sull'ambiente naturale. Ove presenti, sono indicati con pallino pieno (associati al singolo terremoto) o pallino vuoto (associati all&rsquo;intera sequenza sismica)</li>
+	        <li><strong>Data: </strong>data del terremoto (anno, mese, giorno)</li>
+	        <li><strong>Ora: </strong>ora del terremoto (ore, minuti, secondi)</li>
+	        <li><strong>Io: </strong>intensità epicentrale (MCS)</li>
+	        <li><strong>Imax: </strong>intensità massima (MCS)</li>
+	        <li><strong>NOM:</strong> numero di osservazioni macrosismiche per il terremoto</li>
+	        <li><strong>Me:</strong> Magnitudo equivalente basata sugli effetti macrosismici</li>
+	        <li><strong>Area epicentrale</strong></li>
+	        <li><strong>Mappa: </strong> icona cliccabile che permette la visualizzazione in mappa degli effetti di ogni terremoto della tabella (si veda la sezione successiva "Mappa degli effetti").</li>
+	        </ul>
+			</p>
+
+			 <p>Quando, per la località visualizzata, siano note sequenze sismiche che hanno causato solo effetti sull'ambiente naturale (e non sul contesto antropico, quindi non esiste un valore di intensità macrosismica) che non è stato possibile ricondurre ad una singola scossa della sequenza, viene mostrata una seconda tabella al di sotto del titolo "Sequenze sismiche cui sono associati effetti sismo-indotti sull'ambiente presso questa località", contente le seguenti colonne:
+
+			 <ul>
+ 	        <li><strong>Nat: </strong>effetti sismo-indotti sull'ambiente naturale associati all'intera sequenza sismica (come indicato dal pallino vuoto)</li>
+ 	        <li><strong>Data: </strong>date dei terremoti appartenenti alla sequenza sismica (anno, mese, giorno) e link alla pagina di approfondimento corrispondente</li>
+ 	        <li><strong>Ora: </strong>orari dei terremoti in Greenwich Mean Time (ora:minuti:secondi)</li>
+ 	        <li><strong>Io: </strong>intensità epicentrale dei terremoti della sequenza (MCS)</li>
+ 	        <li><strong>Me:</strong> Magnitudo equivalenti calcolate sulla base delle osservazioni macrosismiche per i terremoti della sequenza</li>
+ 	        <li><strong>Area epicentrale dei terremoti della sequenza</strong></li>
+			<li><strong>Mappa: </strong> icone cliccabili che permettono la visualizzazione in mappa degli effetti di ogni terremoto della sequenza (si veda la sezione successiva "Mappa degli effetti").</li>
+ 	        </ul>
+			A questa tabella non è collegato alcun epicentro sulla mappa né barra nel grafico, ma è possibile visualizzare sulla mappa, per ogni singolo terremoto della sequenza, la distribuzione degli effetti, tramite i pulsanti della colonna "Mappa".
+			</p>
+			<p>Possono quindi presentarsi tre diversi casi, mostrati nella figura di seguito:
+				<ol type="a">
+					<li> una tabella che elenca singoli terremoti cui sono associati effetti sul contesto antropico presso la località e, quando presenti, effetti sull'ambiente naturale. A ogni riga della tabella corrisponde un epicentro sulla mappa;</li>
+				<li> una tabella che elenca le sequenze sismiche che hanno causato solo effetti sull'ambiente naturale presso la località, non riconducibili ad una singola scossa della sequenza. A questa tabella non sono collegati epicentri nella mappa;</li>
+				<li> due tabelle di cui quella in alto corrisponde alla tabella descritta al punto a) e quella in basso corrisponde alla tabella descritta al punto b). Alla tabella in alto corrispondono gli epicentri mostrati nella mappa, alla tabella in basso non è collegato alcun epicentro in mappa.</li>
+			</ol>
+			</p>
+			<p style="text-align:center;"><img src="../images/HELP/Locality_tables.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+	    <div>
+	        <a onclick="showTEXT('loc3'); return false" href="#" id="showTEXTloc3" class="showTEXT">
+	            <h3>Mappa degli effetti&nbsp;</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc3'); return false" href="#" id="hideTEXTloc3" class="hideTEXT">
+	            <h3>Mappa degli effetti&nbsp;</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc3" class="HELP-INFOtext">
+	        <p>Al caricamento della pagina della singola località, sulla mappa sono rappresentati gli epicentri dei terremoti che hanno prodotto effetti presso la localit&agrave;. Per una rapida visualizzazione della distribuzione degli effetti di ogni singolo terremoto, cliccando sui pulsanti della colonna &lsquo;Mappa&rsquo; (colonna di destra nella tabella), &egrave; possibile visualizzare le mappe degli effetti, dove la localit&agrave; di cui si sta visualizzando la storia sismica appare con un&rsquo;icona a goccia, con colore corrispondente all&rsquo;intensit&agrave; macrosismica risentita per il terremoto visualizzato.</p>
+	        <p style="text-align:center;"><img src="../images/HELP/Locality_PQ.png" width="80%" /></p>
+	    </div>
+	    <hr>
+
+
+		<div>
+	        <a onclick="showTEXT('loc4'); return false" href="#" id="showTEXTloc4" class="showTEXT">
+	            <h3>Ulteriori informazioni sulla località</h3><img src="../images/expand.png" width ="10px">
+	        </a>
+	    </div>
+	    <div>
+	        <a onclick="hideTEXT('loc4'); return false" href="#" id="hideTEXTloc4" class="hideTEXT">
+	            <h3>Ulteriori informazioni sulla località</h3><img src="../images/reduce.png" width ="10px">
+	        </a>
+	    </div>
+	    <div id="loc4" class="HELP-INFOtext">
+
+			<p> Se una localit&agrave; ha cambiato nome nel tempo, questa viene mostrata nel titolo con il nome attuale e, fra parentesi, quello/i storico/i. Una nota fornisce la data della variazione di denominazione. La nota può contenere anche informazioni su cambi di sito delle località. Nelle mappe degli effetti dei terremoti, invece, la località viene mostrata con il nome che aveva alla data del terremoto, come mostrato nella figura di seguito, relativa a uno dei casi pi&ugrave; complessi &egrave;, ovvero quello di Vibo Valentia, di cui in CFTI5Med la pagina della localit&agrave; riporta tre differenti denominazioni, di cui due storiche. <br>
+			Si può inoltre accedere ad ulteriori informazioni sulla località tramite link diretto alla pagina Wikipedia corrispondente, posto a destra del nome della località, nel titolo della pagina, posto in alto a sinistra. </p>
+			<p style="text-align:center;"><img src="../images/HELP/Locality_note.png" width="60%" /></p>
+	    </div>
+	    <hr>
+
+	</div>
+
+	<script>
+	  var url = window.location.href;
+		if (url.slice(-1) == '#' || url.slice(-4) == 'html') {
+		} else {
+		  showTEXT('struttgen1'); showTEXT('struttgen2'); showTEXT('struttgen3'); showTEXT('home1'); showTEXT('home2'); showTEXT('home3'); showTEXT('home4'); showTEXT('home5'); showTEXT('home6'); showTEXT('home7'); showTEXT('home8'); showTEXT('home9'); showTEXT('home10'); showTEXT('home11');  showTEXT('quake1'); showTEXT('quake2'); showTEXT('quake3'); showTEXT('loc1'); showTEXT('loc2'); showTEXT('loc3'); showTEXT('loc4');
+		}
+	</script>
+
+
+
+</body>

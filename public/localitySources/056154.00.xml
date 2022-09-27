@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056154.00</nloc_cfti>
+      <desloc_cfti>Roio Piano</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>42.328</lat_wgs84>
+      <lon_wgs84>13.3568</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01285</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030116</datanum>
+      <data_label>1703 01 16</data_label>
+      <anno>1703</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>42.6233</lat>
+      <lon>13.1021</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>22</npun>
+      <mm>6</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 16 gennaio fece crollare il campanile della chiesa di S.Maria $(470017,095209,100004)$. Ottenne un’esenzione fiscale per 1 anno $(645113)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa rese completamente inabitabili gli edifici che componevano la località $(583024)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>470017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione de’ danni fatti dall’innondazioni, e terremoto nella città dell’Aquila, ed in altri luoghi Circonvicini dalli 14 del Mese di Gennaro sino alli 8 del Mese di Febraro 1703.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095209</codbib>
+      <autore1>Quinzi A., Cherubini G.F., Ciampella C. e Galle S.</autore1>
+      <titolo1>Relazione su l’essere della città dell’Aquila, e delle cose più notabili succedute nella medema, e nelli luoghi della sua provincia per li terremoti occorsi nel mese di gennaro e di febbraro 1703 anno corrente [con emendazioni di C.Garofalo], in V.Zannetti, Di due diverse relazioni sul tremoto del 2 febbraio 1703, "Bollettino della Società di Storia Patria Anton Ludovico Antinori negli Abruzzi", a.6, pp.60-64.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>100004</codbib>
+      <autore1>Antinori A.L.</autore1>
+      <titolo1>Annali degli Abruzzi dalle origini all’anno 1777, 24 voll. (edizione in facsimile).</titolo1>
+      <luogoed>Sala Bolognese</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645113</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 144, c.1032 e sgg. n.n., Nota relativa alla stesura dell’elenco delle università della provincia di L’Aquila alle quali vanno concesse esenzioni fiscali in seguito ai danni causati dal terremoto del 1703, Napoli 27 settembre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583024</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.1541, Telegramma del Sindaco di L’Aquila al Ministero dell’interno dove si chiedono aiuti per gli abitanti di Roio Piano, danneggiato dal terremoto del 13 gennaio 1915, L’Aquila 16 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00293</nterr>
+      <nperiod>002008</nperiod>
+      <datanum>13840204</datanum>
+      <data_label>1384 02 04</data_label>
+      <anno>1384</anno>
+      <mese>02</mese>
+      <giorno>04</giorno>
+      <time_label>17:10</time_label>
+      <ora>17</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>43.7779</lat>
+      <lon>11.2486</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Firenze</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021217</codbib>
+      <autore1>Naddo di Ser Nepo da Montecatini</autore1>
+      <titolo1>Memorie storiche cavate da un libro di ricordi scritto da Naddo di ser Nepo di ser Gallo da Montecatini di Valdinievole, cittadino fiorentino, dall’anno 1374 all’anno 1398, in Croniche fiorentine di ser Naddo da Montecatini e del cavaliere Iacopo Salviati, ed. Ildefonso di San Luigi, "Delizie degli eruditi toscani", tomo 18, pp.1-174.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1784</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350086</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario d’anonimo fiorentino dall’anno 1358 al 1389, ed. A.Gherardi, in "Documenti di Storia Italiana", vol.6, pp.293-481.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350199</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Riccardiana e Moreniana di Firenze, Manoscritti Moreniani, 96, Cronica, sec.XV, copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00293</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

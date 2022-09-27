@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048842.00</nloc_cfti>
+      <desloc_cfti>Popola</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.9904</lat_wgs84>
+      <lon_wgs84>12.8913</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25025</nterr>
+      <nperiod>003292</nperiod>
+      <datanum>19150315</datanum>
+      <data_label>1915 03 15</data_label>
+      <anno>1915</anno>
+      <mese>03</mese>
+      <giorno>15</giorno>
+      <time_label>11:23</time_label>
+      <ora>11</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>43.0123</lat>
+      <lon>12.8927</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>24</npun>
+      <mm>5</mm>
+      <earthquakelocation>Alta valle del Chienti</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 15 marzo 1915 causò il crollo di alcuni tetti $(110835,110832,110792)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110835</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale del Mattino, 1915.03.16, a.6, n.75.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110832</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1915.03.16, a.31, n.75.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110792</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 15 marzo 1915 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Foligno 15 marzo 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

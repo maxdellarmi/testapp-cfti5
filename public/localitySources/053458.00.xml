@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053458.00</nloc_cfti>
+      <desloc_cfti>Staffoli</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.3118</lat_wgs84>
+      <lon_wgs84>13.0561</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò lesioni nei muri della chiesa di San Michele Arcangelo rendendo cadente parte del campanile. Disponendo di informazioni relative a un solo edificio si presume che la scossa abbia raggiunto una intensità del VII grado MCS $(635042)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42004</nterr>
+      <nperiod>002002</nperiod>
+      <datanum>13490909</datanum>
+      <data_label>1349 09 09</data_label>
+      <anno>1349</anno>
+      <mese>09</mese>
+      <giorno>09</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.2711</lat>
+      <lon>13.1318</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>17</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030358</codbib>
+      <autore1>*</autore1>
+      <titolo1>Privilegio concesso ad alcune comunità dell’Abruzzo dalla Regia Zecca di Napoli per il dimezzamento delle collette e sovvenzioni da pagare alla Regia Corte a seguito dei danni provocati dal terremoto del 1349, Napoli 28 giugno 1352, in M.Bonito, "Terra tremante...", pp.570-571.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi di Rieti. Elenco delle chiese danneggiate dal terremoto del 13 gennaio 1915 e spese approssimative necessarie per il restauro o la ricostruzione, Rieti 26 marzo 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

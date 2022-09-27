@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00183</nterr>
+      <nperiod>003044</nperiod>
+      <datanum>13010000</datanum>
+      <data_label>1301 - -</data_label>
+      <anno>1301</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>38.25</lat>
+      <lon>13.5</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Basso Tirreno</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca sulle fonti edite.&lt;br&gt;Baratta (1901) $(000001)$, fonte del Catalogo per questo evento, riprese la notizia dall’opera di Mongitore (1743) $(082589)$. Mongitore citò e trascrisse un passo della "Cronaca di Palermo" di Francesco Baronio Manfredi (1646) $(395290)$ che, ponendo in relazione il terremoto all’apparizione in quell’anno di una cometa, menzionò danni consistenti a Palermo e grande panico fra la popolazione. La cometa cui si riferisce l’autore si può forse identificare con uno dei periodici passaggi della cometa di Halley che fu infatti visibile sui cieli della regione italiana tra l’inizio di settembre e la fine di ottobre del 1301; va notato, tuttavia, che tra l’inizio del 1299 e la fine del 1301 furono visibili altre 3 comete (Ho Peng Yoke 1962 $(093121)$; Yeomans 1991 $(190122)$). Il binomio cometa-terremoto è un "topos" assai attestato nella letteratura medievale fino all’inizio dell’età moderna. La narrazione di Baronio, che comprende gli anni 1282-1409, è organizzata cronologicamente, in base alla successione dei viceré. L’unico terremoto attestato nella sua opera è quello del 1301, per il quale Baronio non citò la fonte da cui aveva tratto la notizia.&lt;br&gt;Attorno alla data 1300-1301 una gran numero di storie cinquecentesche riporta terremoti che sono in realtà dei duplicati del terremoto di Rieti del 1298, è lecito anche in questo caso dubitare della veridicità di tale dato. Infatti, con il giubileo dell’anno 1300, indetto da Bonifacio VIII, e il notevole concorso di folla a Roma da molte parti d’Italia, si diffuse ulteriormente la notizia del terremoto di Rieti, spesso fraintendendo la data che sembra avere subito un’attrazione alla data dalla cometa.&lt;br&gt;Baronio (1646) poté probabilmente attingere la sua informazione da altre fonti tarde non siciliane: risulta infatti strana la mancanza del mese e del giorno per un terremoto distruttivo in una città così importante e per quegli anni ben documentata.&lt;br&gt;Queste prime riserve critiche sono state confermate dalla ricerca sulle fonti medievali coeve della Sicilia. Ha dato infatti esito negativo lo spoglio del "Chronicon Siculum" $(395286)$, che comprende eventi degli anni 1204-1328. L’autore era palermitano, forse un archivista: usò soprattutto documentazione dell’archivio regio, lettere e relazioni. I riferimenti alla città di Palermo sono ricchi e frequenti e tutta la narrazione è permeata di fatti (Fasoli 1995): per queste ragioni può essere considerato fonte negativa importante.&lt;br&gt;Una seconda fonte coeva è costituita dalla "Historia Sicula" di Nicolò Speciale $(395294)$, la cui narrazione comprende eventi dal 1282 al 1337. All’epoca del presunto terremoto, l’autore poteva avere circa 30 anni (Fasoli 1995) $(052175)$. Nella sua opera fa riferimento a due eruzioni dell’Etna, dimostrando interesse a questo tipo di fenomeni naturali: anche in questo caso il silenzio delle fonte è di per sé un’informazione importante.&lt;br&gt;Negativa è risultata anche la coeva biografia di Federico II (o III secondo i diversi computi dinastici) di F.Testa (ed. 1775) $(095431)$; negativa la cronaca catalana di Ramon Muntaner (ed. 1884) $(095432)$ che fu procuratore generale del capitano templare Ruggero de Flor e che si trovava in Sicilia negli anni tra il 1300 e il 1303; negativa è anche l’opera di Fazello (1560) $(050829)$ erudito del XVI secolo, assai attento ai fenomeni sismici della Sicilia.&lt;br&gt;Sulla base di questa analisi questo terremoto è stato eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050829</codbib>
+      <autore1>Fazello T.</autore1>
+      <titolo1>De rebus siculis decades duae, nunc primum in lucem editae.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1558</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052175</codbib>
+      <autore1>Fasoli G.</autore1>
+      <titolo1>Cronache medievali di Sicilia. Note d’orientamento, 2a ed. riveduta a cura di O.Capitani.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053004</codbib>
+      <autore1>Guidoboni E. e Mariotti D.</autore1>
+      <titolo1>Gli effetti dei terremoti a Palermo, in "Codice di pratica per la sicurezza e la conservazione del centro storico di Palermo", a cura di A.Giuffrè e C.Carocci, pp.69-97.</titolo1>
+      <luogoed>Roma-Bari</luogoed>
+      <datacompl>1999</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082589</codbib>
+      <autore1>Mongitore A.</autore1>
+      <titolo1>Istoria cronologica de’ terremoti di Sicilia, in Id., "Della Sicilia ricercata nelle cose più memorabili", tomo 2, pp.345-445.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1743</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093121</codbib>
+      <autore1>Ho Peng Yoke</autore1>
+      <titolo1>Ancient and mediaeval observations of comets and novae in Chinese sources, in "Vistas in Astronomy", vol.5, pp.127-225.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095431</codbib>
+      <autore1>Testa F.</autore1>
+      <titolo1>De vita et rebus gestis Friderici II.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1755</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095432</codbib>
+      <autore1>Muntaner Ramon</autore1>
+      <titolo1>Cronica [1204-1328], in "Cronache catalane dei secc.XIII e XIV", ed. F.Moisè.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190122</codbib>
+      <autore1>Yeomans D.K.</autore1>
+      <titolo1>Comets: a chronological history of observation, science, myth, and folklore.</titolo1>
+      <luogoed>New York</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395286</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Siculum ab anno 820 usque ad annum 1328. Jam ab Durando et Martenio inde a Muratorio editum, nunc vero emendatius et XXII capitibus quibus antea deficiebat e Messanensi manuscripto codice auctum et ad annum usque 1343 perductum, in lucem emittitur, in "Bibliotheca scriptorum qui res in Sicilia gestas sub Aragonum imperio retulere", ed. R.Gregorio, tomo 2, pp.107-267.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1792</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395290</codbib>
+      <autore1>Baronio Manfredi F.</autore1>
+      <titolo1>Della Cronica di Palermo, parte prima (1282-1409).</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1646</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395294</codbib>
+      <autore1>Nicolaus Specialis</autore1>
+      <titolo1>Historia Sicula ab anno 1282 ad annum 1337, jam antea edita, nunc vero supplementis aucta et castigatissima prodit e Siculis manuscriptis codicibus, in "Bibliotheca scriptorum qui res in Sicilia gestas sub Aragonum imperio retulere", ed. R.Gregorio, tomo 1, pp.283-508.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1791</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

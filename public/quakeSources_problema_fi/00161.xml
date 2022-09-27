@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00161</nterr>
+      <nperiod>003239</nperiod>
+      <datanum>12930000</datanum>
+      <data_label>1293 - -</data_label>
+      <anno>1293</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.75</lat>
+      <lon>14.5</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Castellammare (NA)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca bibliografica. Baratta (1899 $(060008)$, 1901 $(000001)$) segnalò un terremoto avvenuto a Napoli nel 1293, basandosi su un’attestazione dello storico napoletano Salazaro (1877) $(745754)$. Questo autore ricordò i danni causati dal terremoto alla chiesa e al monastero di Santa Maria di Donnaregina di Napoli e la successiva ricostruzione dell’edificio finanziata dalla regina Maria d’Ungheria, moglie di Carlo II d’Angiò.&lt;br&gt;In base alle nuove evidenze emerse dalla ricerca relativa al terremoto di Bojano del 4 settembre 1293, si è ritenuto più congruente attribuire tali effetti di danno a quest’ultimo evento sismico. A questa stessa conclusione è giunta anche la recente revisione condotta da Castelli (1993) $(095047)$.&lt;br&gt;L’evento è stato pertanto eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095047</codbib>
+      <autore1>Castelli V.</autore1>
+      <titolo1>A ‘cluster’ of earthquakes in the Apennines at the end of XIII century, in "Terra Nova", vol.5, pp.496-502.</titolo1>
+      <luogoed>Oxford</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745754</codbib>
+      <autore1>Salazaro D.</autore1>
+      <titolo1>Brevi considerazioni sugli affreschi del monastero di Donna Regina del XIII secolo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

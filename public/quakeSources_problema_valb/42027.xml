@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42027</nterr>
+      <nperiod>009057</nperiod>
+      <datanum>14291110</datanum>
+      <data_label>1429 11 10</data_label>
+      <anno>1429</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>16:20</time_label>
+      <ora>16</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>38.1877</lat>
+      <lon>15.5493</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Messina</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso, ma è menzionato nel catalogo dei terremoti di area bizantina e delle regioni sotto l’influenza bizantina di Evangelatou-Notara (1993) $(130706)$. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte è una notula in margine al codice 103 (fol.25r) della Biblioteca Universitaria di Messina proveniente dal monastero del SS.Salvatore di Messina, pubblicata da Lampros (1922) $(130705)$. Per quanto riguarda la localizzazione dell’evento si può supporre, sulla base della provenienza del manoscritto, che il terremoto abbia colpito Messina.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 10 novembre 1429, circa alle ore 16:20 GMT (le ore 24 secondo l’uso orario “all’italiana”) un terremoto, definito “grande e spaventoso”, colpì Messina, dove cadde un merlo dalla chiesa del SS.Salvatore. La scarna notizia è riportata in un “notula” del ms 103 della chiesa stessa e quindi non esclude danni più importanti ed estesi alla città di Messina.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051424</codbib>
+      <autore1>Comastri A. e Mariotti D.</autore1>
+      <titolo1>I terremoti e i maremoti dello Stretto di Messina dal mondo antico alla fine del XX secolo: descrizioni e parametri, in "Il terremoto e il maremoto del 28 dicembre 1908: analisi sismologica, impatto, prospettive, a cura di G.Bertolaso, E.Boschi, E.Guidoboni e G.Valensise, DPC-INGV, pp.215-254.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2008</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130705</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notula sul terremoto del 10 novembre 1429, in S.Lampros, Seconda raccolta di prodigi nei memoriali o nelle cronache, "Neos Ellenomnemon", vol.16, p.410 (in greco).</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1922</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130706</codbib>
+      <autore1>Evangelatou-Notara F.</autore1>
+      <titolo1>I terremoti di Bisanzio dal 13º secolo al 15º. Ricerca storica (in greco).</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Messina</desloc>
+      <lat_wgs84>38.1877</lat_wgs84>
+      <lon_wgs84>15.5493</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>42027</nterr>
+      <nloc_cfti>066973.00</nloc_cfti>
+      <desloc_cfti>Messina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto, definito "grande e spaventoso", causò il crollo di un merlo da una chiesa $(130705)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

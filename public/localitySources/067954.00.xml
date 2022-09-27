@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067954.00</nloc_cfti>
+      <desloc_cfti>Tremestieri Etneo</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>5</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>37.5757</lat_wgs84>
+      <lon_wgs84>15.0728</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La località fu inserita, nel quadro riassuntivo delle perizie, tra quelle in cui si verificarono i danni maggiori $(145356)$. Tra gli edifici sacri furono danneggiate la chiesa Madre, che peraltro mancava assolutamente di adeguate fondamenta e le chiese di S.Vito, S.Antonino, S.Antonio, dell’Immacolata Concezione, dell’Indirizzo, della Pace e della Madonna delle Grazie $(145340,575181,575182,575183,575168)$. Tra le case danneggiate dai terremoti le fonti sincrone ne segnalarono 41, appartenenti a proprietari poveri, non inserite nel quadro sinottico $(525486,575392)$. Le tavole sinottiche redatte a cura dell’Intendenza di Catania e riproducenti i risultati delle perizie ufficiali riportarono il numero di 276 case danneggiate, di queste 5/16 erano classificate come cadute, 3/16 come cadenti e 8/16 lesionate $(145340,525152,145443,145457)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Alcune scuole e la chiesa della Madonna della Pace di Piano furono giudicate inagibili $(035236)$. Furono inoltre danneggiati 2 edifici privati $(052156)$. Furono effettuati 8 sopralluoghi su 11 richieste da parte degli abitanti $(035241)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu abbastanza forte e provocò molto panico tra gli abitanti $(075014)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32397</nterr>
+      <nperiod>003035</nperiod>
+      <datanum>19470511</datanum>
+      <data_label>1947 05 11</data_label>
+      <anno>1947</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>06:32:15</time_label>
+      <ora>06</ora>
+      <minu>32</minu>
+      <sec>15</sec>
+      <lat>38.6526</lat>
+      <lon>16.5182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>254</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(145255)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01148</nterr>
+      <nperiod>003011</nperiod>
+      <datanum>16930111</datanum>
+      <data_label>1693 01 11</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>37.1407</lat>
+      <lon>15.013</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>179</npun>
+      <mm>7.4</mm>
+      <earthquakelocation>Sicilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>23</ee_nt>
+      <ee_np>33</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Crollarono 280 (80%) delle 350 case del paese, le rimanenti furono notevolmente danneggiate. Vengono segnalati 90 morti su circa 1000 abitanti $(665112)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145255</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Spoglio del materiale sismico del 1947 pervenuto all’Ufficio Centrale di Meteorologia e Geofisica, in "Bollettino della Società Sismologica Italiana", vol.41 (1943-48), pp.30-56.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665112</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretarías Provinciales, Sicilia, legajo 1222 (1693), Correspondencia de virreyes y ministros con S.M., Relazione delle città e luoghi devastati in Sicilia, a causa dei terremoti [del 9 e 11 gennaio]; numero antico dei vivi, numero dei morti nelle rovine e rendite che pagavano ogni anno, Palermo maggio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145356</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Quadro de’ danni sofferti nel distretto di Catania pe’ tremuoti de 20 e 28 febbraro 1818, Tavola necrologica causata da’ tremuoti, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145340</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Tavola riassuntiva dei danni cagionati dal terremoto del 20 febbraio 1818 nel Comune di Tremestieri, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575181</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Lettera della Commissione per i terremoti di Catania all’Intendente della Valle di Catania, relativa ai restauri alla chiesa Madre di Tremestieri danneggiata dal terremoto del febbraio 1818, Catania 11 gennaio 1821.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1821</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575182</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Supplica del vicario curato e dei cappellani del comune di Tremestieri Etneo all’intendente di Catania dove si chiede aiuto per riparare la chiesa lesionata dal terremoto del 20 febbraio 1818, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575183</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Supplica di D.Nicolosi all’Intendente della Valle di Catania per richiedere aiuti per restaurare la chiesa Madre gravemente danneggiata dal terremoto del 20 febbraio 1818, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575168</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Lettera del Vicario di Tremestieri al Segretario della Valle di Catania e relazione annessa sullo stato dei danni causati alla chiesa di Tremestieri dal terremoto del 20 febbraio 1818, Tremestieri s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525486</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4211 (1818-19), categoria XXI (Miscellanea), Preciso divisante in rubriche l’erogazione fatta dalla Commessione pe’ Tremuoti di Catania, secondo il suo Quadro e Conto, 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575392</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4214 (1818-30), categoria XXI (Miscellanea), Lettera della Commissione per i terremoti di Catania all’Intendente della Valle di Catania Duca di San Martino circa le somme usate per il restauro di alcuni edifici di diversi paesi colpiti dal terremoto del febbraio 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>525152</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Palermo, Ministero e segreteria di Stato per gli affari di Sicilia presso S.M. in Napoli, Ripartimento dell’Interno, b.38 (1823-25), Rapporto dell’intendente di Catania al luogotenente generale sui danni causati in Sicilia dai terremoti del 20 e 28 febbraio 1818 e sui soccorsi accordati e proposti, Catania 16 maggio 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145443</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Quadro primo e secondo per le restaurazioni, puntellature, ed altro delle fabbriche danneggiate in Catania e nei paesi affidati alla Commissione pei tremuoti, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Piano di spese delle liberazioni, e de’ ristori degli Edificj danneggiati dai tremuoti nei Comuni affidati alla Commissione di Catania, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>075014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere di Catania, 1914.05.11, n.126.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035236</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.14, a.46, n.342.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Secolo d’Italia, 1991.01.03.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035241</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sicilia, 1990.12.19, a.46, n.347.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

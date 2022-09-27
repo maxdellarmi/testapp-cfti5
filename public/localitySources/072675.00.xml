@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072675.00</nloc_cfti>
+      <desloc_cfti>Ponte Angitola</desloc_cfti>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>38.7791</lat_wgs84>
+      <lon_wgs84>16.2186</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40131</nterr>
+      <nperiod>003047</nperiod>
+      <datanum>19780311</datanum>
+      <data_label>1978 03 11</data_label>
+      <anno>1978</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>19:20:44</time_label>
+      <ora>19</ora>
+      <minu>20</minu>
+      <sec>44</sec>
+      <lat>38.0115</lat>
+      <lon>15.9765</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>126</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035273</codbib>
+      <autore1>Bottari A., Lo Giudice E., Nicoletti P.G. e Sorriso-Valvo M.</autore1>
+      <titolo1>The Ferruzzano earthquake of 1978: macroseismic effects and slope-stability conditions in southern Calabria (Italy), in "Revue de Gèologie Dynamique et de Gèographie Physique", vol.23, fasc.1, pp.73-84.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1981 - 1982</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>006299.00</nloc_cfti>
+      <desloc_cfti>Oncino</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.6766</lat_wgs84>
+      <lon_wgs84>7.1893</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34010</nterr>
+      <nperiod>003123</nperiod>
+      <datanum>19590405</datanum>
+      <data_label>1959 04 05</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>10:48:00</time_label>
+      <ora>10</ora>
+      <minu>48</minu>
+      <sec>00</sec>
+      <lat>44.4884</lat>
+      <lon>6.7117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>65</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle dell’Ubaye</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Gli "Annales de l’Institut de Physique du Globe" attribuiscono il grado V della scala Mercalli $(050085)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto fu forte $(092133)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067654.00</nloc_cfti>
+      <desloc_cfti>Assoro</desloc_cfti>
+      <provlet>EN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>37.6271</lat_wgs84>
+      <lon_wgs84>14.4235</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Secondo uno studio macrosismico condotto dall’Istituto Nazionale di Geofisica, basato su questionari e sopralluoghi tecnici, gli effetti sono stati stimati di un’intensità di III grado MCS $(035058)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto del 20 febbraio 1818 fu molto forte e causò alcune lesioni di poca entità in alcuni edifici $(575420,575093)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>575420</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4212 (1818-19), categoria XXI (Miscellanea), Lettera del Vice Segretario provvisorio di Nicosia Gabriele Speciale al Ministro di Stato presso il Luogotenente Generale in Sicilia circa i danni causati dal terremoto del febbraio in quel distretto, Nicosia 24 aprile 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Lettera della Commissione Civile Distrettuale di Nicosia all’Intendente della provincia di Catania sui danni causati in alcuni paesi della provincia di Enna dal terremoto del febbraio 1818, Nicosia 16 aprile 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035058</codbib>
+      <autore1>De Rubeis V., Gasparini C., Maramai A. e Anzidei A.</autore1>
+      <titolo1>Il terremoto siciliano del 13 dicembre 1990, in "Contributi allo studio del terremoto della Sicilia orientale del 13 dicembre 1990", a cura di E.Boschi e A.Basili, ING, pubblicazione n.537, pp.9-44.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

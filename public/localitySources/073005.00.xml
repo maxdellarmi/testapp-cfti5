@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073005.00</nloc_cfti>
+      <desloc_cfti>Orsara</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.2425</lat_wgs84>
+      <lon_wgs84>11.5832</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01540</nterr>
+      <nperiod>003190</nperiod>
+      <datanum>17251029</datanum>
+      <data_label>1725 10 29</data_label>
+      <anno>1725</anno>
+      <mese>10</mese>
+      <giorno>29</giorno>
+      <time_label>17:40</time_label>
+      <ora>17</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.207</lat>
+      <lon>11.573</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>28</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La casa del podere di proprietà della confraternita del SS.Sacramento andò distrutta $(110528)$. La confraternita richiese perciò l’esenzione dalle tasse e nel 1730 inoltrò una supplica al Papa per un aiuto a favore della riedificazione.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110528</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di Tossignano, Regesto di memorie riguardanti il terremoto dell’ottobre 1725.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1725 - 1738</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

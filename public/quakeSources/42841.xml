@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42841</nterr>
+      <nperiod>009086</nperiod>
+      <datanum>14650226</datanum>
+      <data_label>1465 02 26</data_label>
+      <anno>1465</anno>
+      <mese>02</mese>
+      <giorno>26</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.5408</lat>
+      <lon>13.8664</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.9</mm>
+      <earthquakelocation>Sant’Elia Fiumerapido (FR)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso e nel Catalogo PFG (1985).&lt;br&gt;Benché allo stato attuale non ci siano informazioni di danni, si è ritenuto di inserire ugualmente questi eventi per conservare la data come indicatore cronologico che può guidare nuove ricerche. La località nota è palesemente solo un punto di risentimento di un terremoto il cui epicentro è ancora sconosciuto.&lt;br&gt;Questo terremoto è stato analizzato in un rapporto tecnico inedito riguardante la revisione del terremoto del 1456 (SGA 2003, RPT 255/03) $(093311)$.&lt;br&gt;La fonte è il notaio-cronista Angelo Tummolillo (1397 ­ c. 1480-85) autore di una cronaca dal titolo "Notabilia temporum" (ed. 1890) $(220002)$. L’autore descrive due scosse avvenute il 26 febbraio e il 23 marzo 1465. Per quanto riguarda la seconda scossa, Tummolillo specifica che avvenne "dopo l’ora terza" ("post horam tertiam"). In questo caso Tummolillo usa, quasi sicuramente, le ore "temporarie" o "canoniche" (sistema che prevedeva l’inizio del computo orario col sorgere del sole). In altri passi della sua cronaca Tummolillo usa il sistema orario detto "all’italiana" (sistema che prevedeva l’inizio del computo orario mezz’ora dopo il tramonto). Nella lunga descrizione del grande terremoto del 1456 i due sistemi orari sopra citati sono compresenti. Tummolillo scrive infatti che la scossa del 5 dicembre avvenne "circa all’undicesima ora della notte" ("circa undecimam horam noctis"); mentre la scossa del 30 dicembre (erroneamente datata dall’autore, o forse dal copista della sua opera, al 23 dicembre) avvenne "quasi all’ora terza del giorno" ("hora quasi tertia diey"). Nel primo caso Tummolillo usa il sistema orario "all’italiana", nel secondo quello delle ore "temporarie" o "canoniche".</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La prima scossa, avvenne nella notte del 26 febbraio 1465, fu sentita da molte persone a Sant’Elia Fiumerapido (prov. di Frosinone); la seconda scossa, avvenne il 23 marzo 1465 dopo le ore 8:00 GMT (dopo l’ora terza, in ore canoniche), fu sentita da tutti gli abitanti di Sant’Elia Fiumerapido, sebbene fosse di moderata intensità.&lt;br&gt;Le aree epicentrali di questi eventi sono sconosciute.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093311</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Integrazione di ricerca di archeologia e storia territoriale riguardante il terremoto del 1456 e l’area molisano-campana relativamente ai terremoti prima del Mille, RPT 255/03, Bologna maggio 2003 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>220002</codbib>
+      <autore1>Tummolillo Angelo</autore1>
+      <titolo1>Notabilia temporum di Angelo de Tummulillis da Sant’Elia, ed. C.Corvisieri, in "Fonti per la storia d’Italia" (Scrittori secolo XV), vol.7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sant'Elia Fiumerapido</desloc>
+      <lat_wgs84>41.5408</lat_wgs84>
+      <lon_wgs84>13.8664</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42841</nterr>
+      <nloc_cfti>055629.00</nloc_cfti>
+      <desloc_cfti>Sant’Elia Fiumerapido</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La prima scossa, avvenuta nella notte del 26 febbraio 1465, fu sentita da molte persone; la seconda scossa, avvenuta il 23 marzo 1465 dopo le ore 8:00 GMT (dopo l’ora terza), fu sentita da tutti sebbene fosse di moderata intensità $(220002)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

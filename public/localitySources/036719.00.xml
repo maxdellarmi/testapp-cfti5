@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036719.00</nloc_cfti>
+      <desloc_cfti>Castellaro</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.7001</lat_wgs84>
+      <lon_wgs84>10.222</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Fu gravemente danneggiato l’oratorio della Beata Vergine, le cui strutture murarie dovettero essere urgentemente consolidate; durante i lavori di restauro venne alla luce una piccola cappella sottostante all’edificio $(320146,320147,320151)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05934</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320313</datanum>
+      <data_label>1832 03 13</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>13</giorno>
+      <time_label>03:30</time_label>
+      <ora>03</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.7654</lat>
+      <lon>10.4935</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>97</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., causò gravi danni all’oratorio della Beata Vergine. In data successiva al terremoto il vescovo, in visita pastorale, ordinò i necessari restauri $(320151)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>320151</codbib>
+      <autore1>Banzola V.</autore1>
+      <titolo1>Il Castellaro della Val Baganza, in "Archivio Storico per le Province Parmensi", s.IV, vol.27 (1975), pp.243-250.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320146</codbib>
+      <autore1>Dall’Olio E.</autore1>
+      <titolo1>Itinerari turistici della provincia di Parma, 3 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1977</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320147</codbib>
+      <autore1>Lucchi G.</autore1>
+      <titolo1>L’oratorio del Castellaro, in "Gazzetta di Parma", 6 settembre 1971, p.3.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

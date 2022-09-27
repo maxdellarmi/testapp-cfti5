@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041476.00</nloc_cfti>
+      <desloc_cfti>Trino</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.886</lat_wgs84>
+      <lon_wgs84>11.9802</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto del 10 novembre 1918, avvenuto alle ore 15:12 GMT, causò danni notevoli: in una casa, che aveva subito danni stimati 3.500 lire, dovevano essere ricostruiti i tetti; in un’altra, che subito danni stimati pari a 3.000 lire, dovevano essere apposte catene di ferro e ricostruiti i muri, gli architravi di porte e finestre e una parte dei tetti $(661156)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>661156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, b.62, Corrispondenza varia, Elenco delle case da riparare nel comune di Bagno di Romagna (frazione di San Piero in Bagno, parrocchia di San Silvestro) in seguito ai danni causati dal terremoto, San Piero in Bagno 27 aprile 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

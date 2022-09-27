@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>030671.00</nloc_cfti>
+      <desloc_cfti>Aquileia</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>45.7686</lat_wgs84>
+      <lon_wgs84>13.3697</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30094</nterr>
+      <nperiod>003119</nperiod>
+      <datanum>19301030</datanum>
+      <data_label>1930 10 30</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>07:13:06</time_label>
+      <ora>07</ora>
+      <minu>13</minu>
+      <sec>06</sec>
+      <lat>43.674</lat>
+      <lon>13.2738</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>249</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche settentrionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cavasino attribuisce il III grado della scala Mercalli e una durata di 2 s $(050098)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00138</nterr>
+      <nperiod>003059</nperiod>
+      <datanum>12790424</datanum>
+      <data_label>1279 04 24</data_label>
+      <anno>1279</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.094</lat>
+      <lon>13.431</lon>
+      <rel>D</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>3</npun>
+      <mm>0</mm>
+      <earthquakelocation>Cividale del Friuli (UD)</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>-1</intpqnum>
+      <intpq>NC</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00232</nterr>
+      <nperiod>000750</nperiod>
+      <datanum>13480125</datanum>
+      <data_label>1348 01 25</data_label>
+      <anno>1348</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.5795</lat>
+      <lon>13.5408</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>58</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080045</codbib>
+      <autore1>Di Manzano F.</autore1>
+      <titolo1>Annali del Friuli, 7 voll.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1858 - 1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510001</codbib>
+      <autore1>Zuvaro Antonio</autore1>
+      <titolo1>Note sui terremoti del 1348, in P.Sambin, Notizie di cronaca tra i rogiti d’un notaio padovano del sec.XIV, "Atti dell’Istituto Veneto di Scienze, Lettere ed Arti", tomo 110, a.1951-1952, pp.99-111.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1953</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700019</codbib>
+      <autore1>Villani Giovanni</autore1>
+      <titolo1>Nuova cronica, ed. G.Porta, 3 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1990 - 1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700021</codbib>
+      <autore1>Belloni Antonio</autore1>
+      <titolo1>Liber de vitis et gestis patriarcharum Aquileiensium, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 16, coll.25-70.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1730</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500080</codbib>
+      <autore1>Palladio degli Olivi G.F.</autore1>
+      <titolo1>Historie della Provincia del Friuli, 2 voll.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1660</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050098</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1930, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

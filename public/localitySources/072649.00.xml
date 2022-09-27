@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072649.00</nloc_cfti>
+      <desloc_cfti>Petroia</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.2341</lat_wgs84>
+      <lon_wgs84>12.572</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Questa località è compresa fra quelle più colpite dal terremoto, che causò caduta di tetti, lesioni e crolli parziali rendendo inagibili molte abitazioni. Nel cimitero, alcune lapidi si frantumarono e le bare uscirono dai loculi. Il castello crollò e la vicina abitazione fu dichiarata inagibile $(035047,035251,672878,672879,672885)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>035047</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1984.05.02.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035251</codbib>
+      <autore1>Scalera G., Spadea M.C. e Vecchi M.</autore1>
+      <titolo1>Campo macrosismico dei terremoti di Parma, Umbria, Basso Lazio, in "Atti del 3.o Convegno", Roma 14-16 novembre 1984, CNR-GNGTS, vol.2, pp.1093-1111.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672878</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero di Roma, 1984.05.01, a.106, n.116.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672879</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero di Roma, 1984.05.03, a.106, n.117.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672885</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1984.05.03, a.126, n.121.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

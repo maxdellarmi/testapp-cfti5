@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041831.00</nloc_cfti>
+      <desloc_cfti>Rocca delle Caminate</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.1176</lat_wgs84>
+      <lon_wgs84>11.9998</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09548</nterr>
+      <nperiod>000714</nperiod>
+      <datanum>18701030</datanum>
+      <data_label>1870 10 30</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>18:34</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>-9</sec>
+      <lat>44.1334</lat>
+      <lon>12.0623</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>41</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò nella torre della rocca, molto ben costruita, l’apertura di fenditure dal basso in alto larghe 10-12 cm, per cui osservatori coevi ritennero che in quest’area vi fosse stato "il centro dello scuotimento" $(092003,745617)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092003</codbib>
+      <autore1>Guarini F.</autore1>
+      <titolo1>I terremoti a Forlì in varie epoche.</titolo1>
+      <luogoed>Forlì</luogoed>
+      <datacompl>1880</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745617</codbib>
+      <autore1>Michez J.</autore1>
+      <titolo1>Sui recenti terremoti nella Romagna. Relazione della Commissione costituita dei signori senatore Scarabelli d’Imola, prof. Bombicci, dott. Palagi e dott. Michez, della Università, in "Gazzetta Ufficiale del Regno d’Italia", n.339, 10 dicembre 1870, pp.1-2.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1870</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

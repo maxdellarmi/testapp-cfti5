@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>044730.00</nloc_cfti>
+      <desloc_cfti>Sagginale</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>43.9331</lat_wgs84>
+      <lon_wgs84>11.4194</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00831</nterr>
+      <nperiod>002026</nperiod>
+      <datanum>15970803</datanum>
+      <data_label>1597 08 03</data_label>
+      <anno>1597</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9879</lat>
+      <lon>11.4286</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>24</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò gravemente il tetto e una cantonata di un edificio adibito a osteria, come si evince dalla supplica indirizzata ai Capitani di parte guelfa, per ottenere l’autorizzazione a tagliare alberi e utilizzare il legname per il restauro dell’edificio danneggiato $(350050)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 29 giugno 1919 danneggiò molto gravemente l’abitato; ci furono numerosi feriti ma nessun morto. Alcuni capi di bestiame furono invece uccisi $(020003,020010,020015,020017,020052)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.06.30, a.14, n.160.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo della Sera, 1919.06.30, a.1, n.16.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.01, a.14, n.161.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1919.07.01, a.44, n.181.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020052</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero del Mugello, 1919.07.06, a.37, n.27.</titolo1>
+      <luogoed>Borgo San Lorenzo</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350050</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, numeri neri, filza 768, n.36, Attestazione dei danni causati ad una osteria di Sagginale dal terremoto del 3 agosto 1597, marzo 1597 [secondo lo stile dell’incarnazione al modo fiorentino, 1598 secondo lo stile moderno].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1598</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073698.00</nloc_cfti>
+      <desloc_cfti>Vallazza</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>42.9465</lat_wgs84>
+      <lon_wgs84>13.1455</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01656</nterr>
+      <nperiod>003091</nperiod>
+      <datanum>17300512</datanum>
+      <data_label>1730 05 12</data_label>
+      <anno>1730</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7533</lat>
+      <lon>13.1196</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>115</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Villaggio del territorio di Visso. Il paese fu notevolmente danneggiato e fu esentato per 5 anni dal pagamento dei pesi camerali $(672664,673948)$. Le fonti amministrative reperite non riportano dati relativi all’edilizia civile minore; sono attestati i danni subiti dalla chiesa parrocchiale di S.Antonio e le spese sostenute per il restauro $(672325,672407)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672664</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale I, Chirografi, coll.A, reg.222, Indice de’ chirografi essistenti negli atti del signor Silvestro Antonio Mariotti segretario e cancelliere della Reverenda Camera Apostolica dall’anno 1700 a tutto il 1758.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1758</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673948</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Camerale II, 64 (Terremoti 1747-1834), b.1, n.2, Danni cagionati dai terremoti nella Provincia di Romagna, e nel Ducato d’Urbino nell’anno 1781, Copia di lettera del tesoriere generale Carlo Maria Sacripante al tesoriere dell’Umbria barone Ancaiani, Roma 13 ottobre 1731.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672325</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie XI (Conti e tasse diverse), Terremoti e incasati, b.300, Terremoto del 1730 in Norcia, Cascia, Visso, Cerreto, Sellano di Spoleto e Montesanto, Supplica delle monache Francescane del monastero di S.Chiara di Visso e degli ufficiali della chiesa di S.Antonio di Vallazza di Ussita al prefetto della Sacra Congregazione del Buon Governo cardinale Riviera, Visso s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672407</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Roma, Congregazione del Buon Governo, serie XI (Conti e tasse diverse), Terremoti e incasati, b.300, Terremoto del 1730 in Norcia, Cascia, Visso, Cerreto, Sellano di Spoleto e Montesanto, Note delle spese sostenute per il restauro della chiesa di S.Antonio di Vallazza, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

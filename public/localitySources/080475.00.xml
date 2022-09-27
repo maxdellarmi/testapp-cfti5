@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080475.00</nloc_cfti>
+      <desloc_cfti>Autun</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>46.9507</lat_wgs84>
+      <lon_wgs84>4.2994</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19253</nterr>
+      <nperiod>003218</nperiod>
+      <datanum>19050429</datanum>
+      <data_label>1905 04 29</data_label>
+      <anno>1905</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>01:46:45</time_label>
+      <ora>01</ora>
+      <minu>46</minu>
+      <sec>45</sec>
+      <lat>46.0163</lat>
+      <lon>7.0109</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>268</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado IV MSK $(052123)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052123</codbib>
+      <autore1>Levret A., Cushing M. e Peyridieu G.</autore1>
+      <titolo1>Recherche des caractéristiques de séismes historiques en France. Atlas de 140 cartes macrosismiques, IPSN, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

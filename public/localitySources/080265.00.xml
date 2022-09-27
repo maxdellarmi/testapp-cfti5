@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080265.00</nloc_cfti>
+      <desloc_cfti>Arles</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3.5</maxint>
+      <lat_wgs84>43.6729</lat_wgs84>
+      <lon_wgs84>4.6137</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00984</nterr>
+      <nperiod>000833</nperiod>
+      <datanum>16440215</datanum>
+      <data_label>1644 02 15</data_label>
+      <anno>1644</anno>
+      <mese>02</mese>
+      <giorno>15</giorno>
+      <time_label>09:20</time_label>
+      <ora>09</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>43.9933</lat>
+      <lon>7.3172</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>26</npun>
+      <mm>6</mm>
+      <earthquakelocation>Alpi Marittime</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Secondo una recente revisione $(745821)$, la scossa fu avvertita leggermente.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>745821</codbib>
+      <autore1>Lambert J.</autore1>
+      <titolo1>The Catalonian (1428) and Alpine (1564, 1644) Earthquakes: Review of Research in France, in "Historical Investigation of European Earthquakes", vol.1 (Materials of the CEC Project «Review of Historical Seismicity in Europe»), a cura di M.Stucchi, pp.145-159.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

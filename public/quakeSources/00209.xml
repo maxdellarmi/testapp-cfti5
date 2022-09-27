@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00209</nterr>
+      <nperiod>003167</nperiod>
+      <datanum>13210000</datanum>
+      <data_label>1321 - -</data_label>
+      <anno>1321</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.417</lat>
+      <lon>12.333</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Venezia</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti memorialistiche edite. Baratta (1901) $(000001)$ elencò genericamente un terremoto avvenuto a Venezia nel 1321, che fece grandi danni. Le fonti di informazione di Baratta furono l’opera di Rosaccio (1641) $(410231)$ e il repertorio di Bonito (1691) $(000003)$. Rosaccio non menzionò le opere da cui aveva tratto la notizia; Bonito invece suffragò l’informazione citando l’"Endelechia" di Maurizio di Gregorio, opera che non è stata identificata, e l’"Almanacco" di Rutilio Benincasa. Di questo testo esiste una versione compendiata pubblicata nel 1720 $(260001)$, in cui la notizia del terremoto del 1321 non compare a causa dei tagli che il testo subì ad opera del suo compendiatore. Nell’edizione del 1651 $(395281)$, curata dal calabrese Ottavio Beltrano di Terranova, la notizia invece è presente nella medesima forma riportata da Bonito (1691) $(000003)$, e così come l’aveva usata anche Filippo da Secinara (1652) $(080937)$. Bonito affermò che la versione dell’"Endelechia" aveva usato la stessa descrizione di Benincasa, riconoscibile perché introduceva la notizia del terremoto con l’apparizione nel cielo di molte comete (la forma di una delle quali era descritta "simile a un fanciullo"). Va osservato che tali comete non sono attestate da letteratura scientifica (Ho Peng Yoke 1962; Yeomans 1991) $(093121,190122)$.&lt;br&gt;Le fonti coeve più autorevoli per l’anno in esame sono costituite dalle cronache di Andrea Dandolo (ed. 1728) $(395302)$ e di Giangiacopo Caroldo (Biblioteca del Museo Civico Correr di Venezia, Correr, 1290) $(190120)$. Il testo edito di Andrea Dandolo presenta una lacuna tra gli anni 1313 e 1327. È stato analizzato un manoscritto dell’opera, scelto fra la notevole tradizione di codici con il criterio della maggior vicinanza cronologica (Biblioteca Nazionale Marciana, Latini, X, 10) $(190121)$. Si è voluto controllare che non vi fossero stati "tagli" da parte dell’editore. Anche l’analisi autoptica del manoscritto ha confermato la stessa lacuna. Per quanto riguarda Caroldo, va ricordato che l’autore costituisce fonte autorevole per il Trecento veneziano, perché aveva accesso alla documentazione della cancelleria della Repubblica. Anche questa fonte non riporta alcuna notizia del terremoto del 1321, ma va ricordato che, per sua esplicita dichiarazione, Caroldo derivava le notizie per questi anni dallo stesso Dandolo: pertanto la sua opera non ha il valore di conferma della cronaca di Dandolo. È tuttavia ragionevole osservare che, se fosse esistito un forte terremoto con impatto sulla città di Venezia, è molto improbabile che gli storici coevi, attivi in un contesto così fortemente culturalizzato come quello veneziano, non ne avessero lasciato traccia.&lt;br&gt;Un elemento che può spiegare la nascita della tradizione tarda di questo terremoto è la concomitanza con altri eventi calamitosi di origine atmosferica, ricordati in cronache italiane del tempo: piogge, bufere, alluvioni (Corradi 1865-1892) $(060014)$. Si può ipotizzare che la vicinanza cronologica con il terremoto di Norcia del 1328 (talvolta ricordato nelle fonti di area romana con la data dell’anno 1321, per una contaminazione di testi) e un periodo complessivamente calamitoso, abbiano concorso a consolidare una tradizione tarda e non corretta di eventi sismici a Venezia.&lt;br&gt;In base a tali considerazioni, l’evento è stato eliminato da questo catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060014</codbib>
+      <autore1>Corradi A.</autore1>
+      <titolo1>Annali delle epidemie occorse in Italia dalle prime memorie fino al 1850 compilati con varie note e dichiarazioni, 5 voll. (ristampa anastatica, Bologna 1972-73).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1865 - 1894</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080937</codbib>
+      <autore1>Filippo da Secinara</autore1>
+      <titolo1>Trattato universale di tutti li terremoti occorsi, e noti nel mondo, con li casi infausti, ed infelici pressagiti da tali terremoti. Ove si fà mentione de Prencipi, e Monarchi, che regnorono in quei tempi, accennandosi le loro qualità, ed’altre cose memorabile, e curiose.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1652</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093121</codbib>
+      <autore1>Ho Peng Yoke</autore1>
+      <titolo1>Ancient and mediaeval observations of comets and novae in Chinese sources, in "Vistas in Astronomy", vol.5, pp.127-225.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190120</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca del Museo Civico Correr di Venezia, Manoscritti Correr, 1290, Giangiacopo Caroldo, Cronaca veneta (421-1382), sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190121</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Marciana di Venezia, Manoscritti Latini, X, 10 (=3584), Andrea Dandolo, Chronicon cum continuatione Raphaini Caresini, sec.XIV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190122</codbib>
+      <autore1>Yeomans D.K.</autore1>
+      <titolo1>Comets: a chronological history of observation, science, myth, and folklore.</titolo1>
+      <luogoed>New York</luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260001</codbib>
+      <autore1>Benincasa R.</autore1>
+      <titolo1>Almanacco perpetuo di Rutilio Benincasa cosentino illustrato e diviso in cinque pari da Ottaviano Beltrano di Terranova di Calabria Citra.</titolo1>
+      <luogoed>Bassano</luogoed>
+      <datacompl>1720</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395281</codbib>
+      <autore1>Benincasa R.</autore1>
+      <titolo1>Almanacco perpetuo di Rutilio Benincasa Cosentino, pubblicato a cura di Ottavio Beltrano di Terranova di Calabria Citra.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1651</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395302</codbib>
+      <autore1>Dandolus Andreas</autore1>
+      <titolo1>Chronicon Venetum a pontificatu Sancti Marci ad annum usque 1339 succedit Raphaini Caresini continuatio usque ad annum 1388, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 12, coll.13-524.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1728</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410231</codbib>
+      <autore1>Rosaccio G.</autore1>
+      <titolo1>Le sei età del mondo dalle origini al 1636.</titolo1>
+      <luogoed>Viterbo</luogoed>
+      <datacompl>1641</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Marciana di Venezia, Manoscritti Italiani, VII, 1975-1976 (=7616-7617), Gian Jacopo Caroldo, Cronaca Veneta (fino al 1382 con frammenti di altra cronaca fino al 1414), 2 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

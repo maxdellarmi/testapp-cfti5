@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50073</nterr>
+      <nperiod>005007</nperiod>
+      <datanum>08010429</datanum>
+      <data_label>801 04 29</data_label>
+      <anno>801</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>20:00</time_label>
+      <ora>20</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.896</lat>
+      <lon>12.4822</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Roma</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Le testimonianze sono costituite da due fonti indipendenti, gli annali di Eginardo $(093057)$, scritti probabilmente a poca distanza dagli eventi narrati, e il "Liber Pontificalis" romano $(700093)$, importante fonte per la storia di Roma nell’alto medioevo. Nel "Liber Pontificalis" la sezione dedicata alla vita di papa Leone III (795-816) è formata quasi interamente di estratti dai registri su cui venivano riportate le spese dei papi a favore delle chiese. Le due fonti che ricordano l’evento sismico sono reciprocamente indipendenti e, grazie ai differenti stili di datazione, si confermano a vicenda: l’anno 801 coincideva infatti con la nona indizione, ricordata dal "Liber pontificalis". Anche se entrambi i testi indicano come giorno del terremoto il 30 aprile, è necessario, tuttavia, tenere conto di un altro fattore per una più adeguata approssimazione al tempo origine del terremoto: gli annali di Eginardo affermano che il terremoto avvenne all’ora seconda della notte del 30 aprile, facendo chiaramente uso della scala di misura romana in ore temporarie che, tradotta in GMT, corrisponde circa alle ore 20 del giorno precedente. La prima ora della notte, secondo l’uso romano, cominciava infatti con il tramonto del sole e quindi le prime ore della notte di quello che allora era considerato il 30 aprile coincidono con le ultime di quello che oggi è il 29 aprile. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XVII secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C7</codtab>
+      <testocomm>Restauri alla basilica di San Paolo apostolo attestati dal "Liber pontificalis" $(700093)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Si ricordano danni in varie città non menzionate; a Roma crollò gran parte del tetto della basilica di San Paolo apostolo $(700093)$; si è supposto anche il crollo della chiesa di Santa Petronilla, su basi archeologiche abbastanza attendibili $(093043,093201)$. Per quanto riguarda Spoleto, gli annali di Eginardo $(093057)$ si limitano a ricordare che "mentre" l’imperatore si trovava in quella località avvenne un grandissimo terremoto, ma non vengono indicati quali effetti il terremoto causò. La menzione che il terremoto riguardò "tutta l’Italia" va intesa come indicazione di un evento molto esteso.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Frane in un’area imprecisata tra Roma e Spoleto $(093057)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002139</codbib>
+      <autore1>Galli I.</autore1>
+      <titolo1>I terremoti nel Lazio.</titolo1>
+      <luogoed>Velletri</luogoed>
+      <datacompl>1906</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>010041</codbib>
+      <autore1>Schorn J.</autore1>
+      <titolo1>Die Erdbeben von Tirol und Vorarlberg, in "Zeitschrift des Ferdinandeums für Tirol und Vorarlberg", s.III, a.1902, fasc.46, pp.99-282.</titolo1>
+      <luogoed>Innsbruck</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030850</codbib>
+      <autore1>Lycosthenes C. [Conrad Wolffhart]</autore1>
+      <titolo1>Prodigiorum ac ostentorum chronicon, quæ præter naturæ ordinem, motum, et operationem, et in superioribus &amp; his inferioribus mundi regionibus, ab exordio mundi usque ad hæc nostra tempora, acciderunt.</titolo1>
+      <luogoed>Basel</luogoed>
+      <datacompl>1557</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053003</codbib>
+      <autore1>Boschi E., Guidoboni E., Ferrari G. e Valensise G.</autore1>
+      <titolo1>I terremoti dell’Appennino umbro-marchigiano ­ area sud orientale dal 99 a.C. al 1984, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060018</codbib>
+      <autore1>Dolce L.</autore1>
+      <titolo1>Giornale delle historie del mondo delle cose degne di memoria di giorno in giorno dal principio del mondo sino a suoi tempi.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1572</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080239</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, erster Theil vom Jahre 3460 vor, bis 1759 unserer Zeitrechnung, in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 4.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1840</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Laurissenses et Einhardi, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 1.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1826</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090140</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Tiliani, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 1.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1826</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090142</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Fuldenses, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS., tomo 1.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1826</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090164</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Blandinienses [1-1292] (sec.XIV), ed. D.L.Bethmann, in "Monumenta Germaniae Historica", SS., tomo 5, pp.20-34.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090168</codbib>
+      <autore1>Herimannus Augiensis [Ermanno Contratto]</autore1>
+      <titolo1>Chronicon, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 5.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090169</codbib>
+      <autore1>Bernoldus</autore1>
+      <titolo1>Chronicon, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 5.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090178</codbib>
+      <autore1>Annalista Saxo</autore1>
+      <titolo1>Chronicon quo res gestae ab initio regni Francorum 741-1135 enarrantur (sec.XII), ed. G.Waitz, in "Monumenta Germaniae Historica", SS., tomo 6, pp.542-777.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1844</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090233</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales [Ex Annalibus Iuvavensibus antiquis excerpti], ed. H.Bresslav, in "Monumenta Germaniae Historica", SS, tomo 30, parte 2.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1926</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090259</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Regni Francorum inde ab. a.741 usque ad a.829, qui dicuntur Annales Laurissenses maiores et Einhardi, ed. F.Kurze, in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, tomo 6.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090260</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Fuldenses sive Annales regni Francorum orientalis, ed. F.Kurze, in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, vol.7 (precedente ed. a cura di G.H.Pertz, in MGH, SS, vol.1, Hannover 1826).</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1891</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090264</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Mettenses priores, ed. B. von Simson, in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, tomo 10.</titolo1>
+      <luogoed>Hannover-Leipzig</luogoed>
+      <datacompl>1905</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090282</codbib>
+      <autore1>Regino Prumiensis</autore1>
+      <titolo1>Chronicon cum continuatione Treverensi, ed. F.Kurze, in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, tomo 50.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090316</codbib>
+      <autore1>Sigonio C.</autore1>
+      <titolo1>Historiarum de Regno Italiae libri viginti.</titolo1>
+      <luogoed>Frankfurt</luogoed>
+      <datacompl>1591</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093057</codbib>
+      <autore1>*</autore1>
+      <titolo1>Einhardi Annales, Annales qui dicuntur Einhardi, ed. F.Kurze, in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, tomo 6 (precedente ed. a cura di G.H.Pertz, MGH, SS, tomo 1, Hannover 1826).</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093071</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>Les séismes en Europe occidentale de 394 à 1259. Nouveau catalogue critique.</titolo1>
+      <luogoed>Brussels</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093075</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Catalogo dei principali fenomeni sismici avvenuti a Roma, in «Il terremoto laziale del 22 gennaio 1892», "Bollettino della Società Geologica Italiana", vol.11, pp.38-41.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1892</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093086</codbib>
+      <autore1>Budriesi R.</autore1>
+      <titolo1>I terremoti e l’edilizia religiosa a Roma e a Ravenna tra VII e X secolo, in "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, pp.364-387.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093103</codbib>
+      <autore1>De Rossi G.B.</autore1>
+      <titolo1>Scoperta della basilica di S.Petronilla col sepolcro dei martiri Nereo ed Achilleo nel cimitero di Domitilla, in "Bullettino di Archeologia Cristiana", vol. 5, pp.5-35.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093104</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>La antica basilica di S.Petronilla presso Roma testè discoperta crollata per terremoto, in "Bullettino del Vulcanismo Italiano", vol.1, pp.62-65.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1874</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093114</codbib>
+      <autore1>Guerrieri A.</autore1>
+      <titolo1>La chiesa dei SS.Nereo ed Achilleo.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1951</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093130</codbib>
+      <autore1>Krautheimer R., Corbett S. e Frankl W.</autore1>
+      <titolo1>Corpus Basilicarum Christianarum Romae. Le basiliche paleocristiane di Roma (sec. IV-IX), vol.III.</titolo1>
+      <luogoed>Città del Vaticano</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093146</codbib>
+      <autore1>Marmo C.</autore1>
+      <titolo1>Terraemotus non sunt multiplicandi praeter necessitatem: le metamorfosi dei terremoti dalle fonti ai repertori di prodigi, in I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, a cura di E.Guidoboni, pp.286-307.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093195</codbib>
+      <autore1>Valentini R. e Zucchetti G.</autore1>
+      <titolo1>Codice topografico della città di Roma, vol.II</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1942</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093207</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Ratisponenses, ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS, tomo 17.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1861</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093208</codbib>
+      <autore1>Petrus Bibliothecarius</autore1>
+      <titolo1>Historia Francorum abbreviata, ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, tomo 1.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1826</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095665</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sulla distribuzione topografica dei terremoti nell’Umbria, in "Bollettino della Società Geografica Italiana", s.III, vol.35, pp.488-499.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1898</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096013</codbib>
+      <autore1>Molin D. e Guidoboni E.</autore1>
+      <titolo1>Effetto fonti effetto monumenti a Roma: i terremoti dall’antichità a oggi, in "I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia", a cura di E.Guidoboni, pp.194-223.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120138</codbib>
+      <autore1>Sarnelli P.</autore1>
+      <titolo1>Lettere ecclesiastiche di monsignor Pompeo Sarnelli Vescovo di Bisceglie.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1740</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Civico di Milano, Materie, cartella 903, Nota sul terremoto in Italia e in Francia.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec. - XIX sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190004</codbib>
+      <autore1>Abbati B.</autore1>
+      <titolo1>Epitome metheorologica de’ tremoti, con la Cronologia di tutti quelli, che sono occorsi in Roma dalla Creazione del Mondo sino agl’ultimi successi sotto il Pontificato del Regnante Pontefice Clemente XI il dì 14 Gennaro giorno di Domenica sù le due della notte meno un quarto, e 2 di Febbraro del corrente anno 1703 con la Relatione non solo di questi, ma dell’Inondatione del Tebro ancora. Aggiuntovi per fine un Catalogo di tutti gli Autori Theologici, Scritturali, Filosofici, Legali, Politici, &amp; Istorici Sacri, e profani, che hanno discorso, e scritto de’ Terremoti.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1703</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190010</codbib>
+      <autore1>Nicolai N.M.</autore1>
+      <titolo1>Della Basilica di San Paolo.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1815</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240074</codbib>
+      <autore1>Salice G.</autore1>
+      <titolo1>Annali Tortonesi ossia compendio storico-cronologico dei principali avvenimenti occorsi nella città, contado e diocesi di Tortona, 2 voll.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1874</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240179</codbib>
+      <autore1>Girardi F.</autore1>
+      <titolo1>Diario delle cose più illustri seguite nel mondo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1663</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Berio di Genova, Sezione conservazione, M.R.3.1.5, A.Schiaffino, Annali Ecclesiastici della Liguria (origini-sec.XVII), 5 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1641</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300016</codbib>
+      <autore1>Di Meo A.</autore1>
+      <titolo1>Annali critico-diplomatici del Regno di Napoli della mezzana età, 14 tomi.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1795</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350218</codbib>
+      <autore1>Rezzadore P.</autore1>
+      <titolo1>Il mondo ne’ suoi fulgori e tremori.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350241</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Marucelliana di Firenze, Manoscritti, D.9/18, Parallelo dei tremuoti di Napoli e di Siena, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400029</codbib>
+      <autore1>Vedriani L.</autore1>
+      <titolo1>Historia dell’antichissima città di Modena, 2 voll.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1666 - 1667</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400038</codbib>
+      <autore1>Pedrocchi N.</autore1>
+      <titolo1>Storia di Fanano, ed. A.Sorbelli.</titolo1>
+      <luogoed>Fanano</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410085</codbib>
+      <autore1>Bardi G.</autore1>
+      <titolo1>Sommario overo età del mondo Chronologiche [da Adamo fino al 1581], 4 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1581</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410086</codbib>
+      <autore1>Moroni G.</autore1>
+      <titolo1>Dizionario di erudizione storico-ecclesiastica da San Pietro sino ai nostri giorni specialmente intorno ai principali santi, beati, martiri, padri, ai sommi pontefici, cardinali e più celebri scrittori ecclesiastici, 103 voll. + 6 di indici.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1840 - 1879</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410090</codbib>
+      <autore1>Ricci S.</autore1>
+      <titolo1>Il Teatro Romano di Verona, in "Miscellanea di Storia Veneta", a cura della Regia Deputazione Veneta di Storia Patria, s.II, tomo 3, pp.1-205.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410117</codbib>
+      <autore1>Conti A.</autore1>
+      <titolo1>Camerino e i suoi dintorni.</titolo1>
+      <luogoed>Camerino</luogoed>
+      <datacompl>1872</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510050</codbib>
+      <autore1>Dalla Corte G.</autore1>
+      <titolo1>Historia della città di Verona [dalle origini al 1560], 2 voll.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1594</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>590002</codbib>
+      <autore1>Calcho Tristano</autore1>
+      <titolo1>Historiae patriae libri viginti (dall’origini di Milano al 1322).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1644</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630075</codbib>
+      <autore1>Taramelli T.</autore1>
+      <titolo1>Dei terremoti di Spoleto nell’anno 1895 con catalogo dei terremoti storici nella Valle Umbra compilato dal sig. prof. P.F.Corradi, in "Atti dell’Accademia dei Lincei", a.293 (1896), s.V, Memorie della Classe di scienze fisiche, matematiche e naturali, vol.2, pp.143-181.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630196</codbib>
+      <autore1>Grumel V.</autore1>
+      <titolo1>Traité d’études byzantines. 1. La chronologie.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Trento, Manoscritti, 5-6-7, Innocentius da Prato, Tridentinae civitatis commendabilia totiusque episcopatus historia ab Innocentio da Prato composita, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692037</codbib>
+      <autore1>Ferrari G. e Marmo C.</autore1>
+      <titolo1>Il "quando" del terremoto, in "Quaderni Storici", n.s., a.20, n.60, pp.691-715.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700050</codbib>
+      <autore1>Tolomeo da Lucca [Bartolomeo Fiadoni]</autore1>
+      <titolo1>Historia ecclesiastica [-1312] (sec.XIV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 11, coll.753-1216.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1727</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700053</codbib>
+      <autore1>Mahlknecht B.</autore1>
+      <titolo1>Kleine Südtiroler Erdbebenchronik, in "Der Schlern. Zeitschrift für Südtiroler Landeskunde", a.50, n.10, pp.644-650.</titolo1>
+      <luogoed>Bolzano</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700062</codbib>
+      <autore1>Biancolini G.</autore1>
+      <titolo1>Tavola cronologica de’ fatti de’ Veronesi (145 a.C.-1749), in "Cronica della città di Verona", parte 2, vol.2, pp.1-120.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1749</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700093</codbib>
+      <autore1>*</autore1>
+      <titolo1>Liber Pontificalis, editio secunda cum continuationibus (-872), ed. L.Duchesne, tomo 1, pp.118-523, tomo 2, pp.1-196.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1886 - 1892</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700168</codbib>
+      <autore1>Vincentius Bellovacensis</autore1>
+      <titolo1>Speculum historiale, in "Speculum Maius", tomo 4 (ristampa anastatica, Graz 1965).</titolo1>
+      <luogoed>Douai</luogoed>
+      <datacompl>1624</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745096</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti del Lazio, in "Rivista Marittima", a.32, pp.249-257.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760031</codbib>
+      <autore1>Lanciani R.</autore1>
+      <titolo1>Segni di terremoti negli edifizi di Roma antica, in "Bullettino della Commissione Archeologica Comunale di Roma", vol.45, pp.3-28.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1918</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780130</codbib>
+      <autore1>Tarchagnota G.</autore1>
+      <titolo1>Dell’historie del Mondo.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1558</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870191</codbib>
+      <autore1>Mazzini U.</autore1>
+      <titolo1>Terremoti Apuani immaginari, in "Memorie della Società Lunigianese «G. Capellini» per la Storia Naturale della Regione", vol.2, pp.85-89.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>50073</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollo di gran parte del tetto e delle travi della chiesa di San Paolo apostolo, con conseguente distruzione o danneggiamento delle suppellettili $(093057,700093)$.&lt;br&gt;Il papa Leone III (795-816) restaurò il tetto e le suppellettili d’argento rovinate dal terremoto e ne rinnovò i portici $(700093)$.&lt;br&gt;Al momento del sisma, l’edificio doveva trovarsi in buono stato di conservazione: infatti, in precedenza, durante il pontificato di Gregorio III (731-741) buona parte della travatura della basilica era stata rinnovata, così come il tetto dall’altare alle porte principali. Altri successivi interventi da parte dei pontefici Adriano I (772-795) e dello stesso Leone III, prima del terremoto, avevano avuto funzione quasi esclusivamente decorativa $(093043,093201)$.&lt;br&gt;Si è supposto anche il crollo della chiesa di Santa Petronilla, su basi archeologiche abbastanza attendibili $(093043,093201)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NC</intpq>
+      <desloc>Spoleto</desloc>
+      <lat_wgs84>42.7326</lat_wgs84>
+      <lon_wgs84>12.7357</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>-1</intpqnum>
+      <nterr>50073</nterr>
+      <nloc_cfti>049693.00</nloc_cfti>
+      <desloc_cfti>Spoleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Gli "Annali" di Eginardo $(093057)$ si limitano a ricordare che mentre l’imperatore si trovava in quella località avvenne un grandissimo terremoto, ma non vengono indicati quali eventuali effetti il terremoto possa aver causato $(093057)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

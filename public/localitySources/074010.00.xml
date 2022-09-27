@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074010.00</nloc_cfti>
+      <desloc_cfti>San Nicolò delle Lagune</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.3963</lat_wgs84>
+      <lon_wgs84>11.2029</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13215</nterr>
+      <nperiod>000257</nperiod>
+      <datanum>18890308</datanum>
+      <data_label>1889 03 08</data_label>
+      <anno>1889</anno>
+      <mese>03</mese>
+      <giorno>08</giorno>
+      <time_label>02:57:04</time_label>
+      <ora>02</ora>
+      <minu>57</minu>
+      <sec>04</sec>
+      <lat>44.3555</lat>
+      <lon>11.3132</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>38</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Questa località è indicata come limite estremo dell’area dove fu avvertita la scossa $(095736)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095736</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il terremoto dell’8 marzo [1889], in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.9 (1889), pp.77-79.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

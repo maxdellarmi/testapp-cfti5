@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>008323.00</nloc_cfti>
+      <desloc_cfti>Carrosio</desloc_cfti>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>2</maxint>
+      <lat_wgs84>44.6589</lat_wgs84>
+      <lon_wgs84>8.8311</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20000</nterr>
+      <nperiod>000381</nperiod>
+      <datanum>19060714</datanum>
+      <data_label>1906 07 14</data_label>
+      <anno>1906</anno>
+      <mese>07</mese>
+      <giorno>14</giorno>
+      <time_label>18:35</time_label>
+      <ora>18</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>44.7342</lat>
+      <lon>8.8799</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>11</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Alessandrino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16144</nterr>
+      <nperiod>000300</nperiod>
+      <datanum>18970706</datanum>
+      <data_label>1897 07 06</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>06</giorno>
+      <time_label>20:44</time_label>
+      <ora>20</ora>
+      <minu>44</minu>
+      <sec>-9</sec>
+      <lat>44.4175</lat>
+      <lon>8.6513</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>62</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

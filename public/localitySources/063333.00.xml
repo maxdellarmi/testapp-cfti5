@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063333.00</nloc_cfti>
+      <desloc_cfti>Spinoso</desloc_cfti>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>40.2694</lat_wgs84>
+      <lon_wgs84>15.9666</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il terremoto causò la quasi completa distruzione dell’abitato. Le poche case rimaste in piedi risultarono gravemente lesionate o crollanti. Ci furono 45 vittime e 35 feriti su 2939 abitanti $(051280,120139,120118,300140,070865,021124,680045)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>051280</codbib>
+      <autore1>Guidoboni E. e Ferrari G. (a cura di)</autore1>
+      <titolo1>Mallet’s Macroseismic survey on the Neapolitan earthquake of 16th December, 1857, con ristampa anastatica e traduzione italiana dell’opera di Mallet "Great Neapolitan earthquake of 1857".</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1987</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Potenza, Intendenza di Basilicata, Amministrazioni speciali, Affari vari, b.1360, fasc.5, Terremoto del 1857 ­ Stato dei danni, Intendenza della Provincia di Basilicata. Stato de’ danni cagionati dal tremuoto del 16 Dicembre 1857 ai Comuni della suddetta Provincia, Potenza 31 marzo 1858.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120118</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Potenza, Intendenza di Basilicata, Amministrazioni speciali, Affari vari, b.1360, fasc.4, Terremoto del 1857 ­ Disposizioni generali e rapporti dettagliati ai Reali Ministeri, Minuta di relazione dell’intendente ai direttori dei Ministeri dell’Interno, della Polizia e dei Lavori pubblici sui danni causati dal terremoto nei paesi della provincia, Potenza 25 dicembre 1857.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300140</codbib>
+      <autore1>Battista R.</autore1>
+      <titolo1>Il terremoto di Basilicata, Relazione di Raffaele Battista, Segretario perpetuo della Real Società Economica di Basilicata.</titolo1>
+      <luogoed>Potenza</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070865</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Omnibus, 1858.01.02, n.1.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021124</codbib>
+      <autore1>Racioppi G.</autore1>
+      <titolo1>Sui tremuoti di Basilicata nel dicembre 1857, in "L’Iride", a.2, n.41.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1858</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680045</codbib>
+      <autore1>Magri G. e Molin D.</autore1>
+      <titolo1>Attività macrosismica in Basilicata, Campania e Puglia dal 1847 al 1861.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042353.00</nloc_cfti>
+      <desloc_cfti>Groppo San Pietro</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.2994</lat_wgs84>
+      <lon_wgs84>10.1108</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00466</nterr>
+      <nperiod>000068</nperiod>
+      <datanum>14810507</datanum>
+      <data_label>1481 05 07</data_label>
+      <anno>1481</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>14:15</time_label>
+      <ora>14</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.2751</lat>
+      <lon>10.1294</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>6</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350181</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Otto di Pratica, Carteggi, Responsive, filza 1, Lettera del capitano Bartolomeo Pucci agli Otto di Pratica di Firenze, Fivizzano 10 maggio 1481.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1481</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870398</codbib>
+      <autore1>Sforza G.</autore1>
+      <titolo1>Terremoto in Lunigiana, in "Giornale Storico della Lunigiana", a.5, fasc.1, p.53.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

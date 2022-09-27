@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072343.00</nloc_cfti>
+      <desloc_cfti>Aci Consolazione</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>10.5</maxint>
+      <lat_wgs84>37.6013</lat_wgs84>
+      <lon_wgs84>15.1374</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05222</nterr>
+      <nperiod>003019</nperiod>
+      <datanum>18180220</datanum>
+      <data_label>1818 02 20</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.6032</lat>
+      <lon>15.1407</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>128</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Catanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>6</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Nelle osservazioni alle tavole sinottiche redatte dall’Intendente fu annotata la completa distruzione del centro abitato, confermata dalla testimonianza dello storico acese coevo Leonardo Vigo $(145065,145387,145409,145442,145457,145459,145463)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14902</nterr>
+      <nperiod>003039</nperiod>
+      <datanum>18940808</datanum>
+      <data_label>1894 08 08</data_label>
+      <anno>1894</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>05:16:00</time_label>
+      <ora>05</ora>
+      <minu>16</minu>
+      <sec>00</sec>
+      <lat>37.6564</lat>
+      <lon>15.1138</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa danneggiò la chiesa $(575844)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01148</nterr>
+      <nperiod>003011</nperiod>
+      <datanum>16930111</datanum>
+      <data_label>1693 01 11</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>37.1407</lat>
+      <lon>15.013</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>179</npun>
+      <mm>7.4</mm>
+      <earthquakelocation>Sicilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>23</ee_nt>
+      <ee_np>33</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10.5</intpqnum>
+      <intpq>X-XI</intpq>
+      <D1>Bella $(145058)$ ricorda il crollo di tutte le abitazioni e la morte di 49 persone.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145058</codbib>
+      <autore1>Bella S.</autore1>
+      <titolo1>Memorie storiche del Comune di Aci Catena.</titolo1>
+      <luogoed>Acireale</luogoed>
+      <datacompl>1892</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145065</codbib>
+      <autore1>Vigo L.</autore1>
+      <titolo1>Il tremuoto del 20 febbraio 1818.</titolo1>
+      <luogoed>Acireale</luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145387</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Quadro dei danni cagionati dai tremuoti de’ 20 e 28 febbraro 1818 nel Comune di Aci Sant’Antonio e Filippo con i quartieri di San Giacomo, Santa Lucia, Trezza, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145409</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), Elenco dei Comuni affidati alla Commissione di Acireale pei tremuoti del 20 e 28 febbraio 1818, secondo l’ordinanza del 12 marzo 1818, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145442</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4209 (1818), categoria XXI (Miscellanea), tabella n.4, Quadro dei danni cagionati dai tremuoti de’ 20 e 28 febbraro 1818 nel Comune di Aci SS.Antonio e Filippo e quartieri di Valverde, della Consolazione, San Giacomo, Santa Lucia e Trezza, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145457</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Piano di spese delle liberazioni, e de’ ristori degli Edificj danneggiati dai tremuoti nei Comuni affidati alla Commissione di Catania, s.d.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145459</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.1159 (1818-24), categoria X (Opere pubbliche), Suppliche dei parroci di Santa Maria la Consolazione e di San Giacomo di Aci Sant’Antonio e Aci San Filippo, al re per via della Regal Segreteria di Grazia e Giustizia Palermo, Aci Sant’Antonio e Filippo 26 febbraio 1818.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145463</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Intendenza borbonica, b.4210 (1818-19), categoria XXI (Miscellanea), Raziocinio d’introito ed esito che presenta Don Giovanni Benedetto Corsaro quale cassiere dell’illustrissima Commissione dei tremuoti di questa città di Catania ai membri della medesima Illustrissima Commissione che principia dalli 23 marzo 1819 a tutti li 30 aprile dello stesso anno.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1819</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575844</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1894.08.10/11.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

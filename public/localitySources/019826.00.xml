@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>019826.00</nloc_cfti>
+      <desloc_cfti>Pegognaga</desloc_cfti>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.9981</lat_wgs84>
+      <lon_wgs84>10.8584</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>40436</nterr>
+      <nperiod>000934</nperiod>
+      <datanum>19781225</datanum>
+      <data_label>1978 12 25</data_label>
+      <anno>1978</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>22:53:41</time_label>
+      <ora>22</ora>
+      <minu>53</minu>
+      <sec>41</sec>
+      <lat>44.8457</lat>
+      <lon>10.9899</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>28</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Bassa mantovana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29260</nterr>
+      <nperiod>000519</nperiod>
+      <datanum>19280613</datanum>
+      <data_label>1928 06 13</data_label>
+      <anno>1928</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>07:55:00</time_label>
+      <ora>07</ora>
+      <minu>55</minu>
+      <sec>00</sec>
+      <lat>44.7608</lat>
+      <lon>10.9032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>29</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Carpi (MO)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>040923</codbib>
+      <autore1>Sissa G.</autore1>
+      <titolo1>La Chiesa di San Lorenzo in Pegognaga.</titolo1>
+      <luogoed>Pegognaga</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

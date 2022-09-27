@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42021</nterr>
+      <nperiod>009051</nperiod>
+      <datanum>11720926</datanum>
+      <data_label>1172 09 26</data_label>
+      <anno>1172</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>13:40</time_label>
+      <ora>13</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>38.1877</lat>
+      <lon>15.5493</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Messina</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi sismici in uso, ma non è del tutto ignoto agli eruditi e agli studi sismologici; è citato infatti in Grumel (1958) $(630196)$ e in Guidoboni e Traina (1997) $(190098)$. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte è una notula in margine al codice 73 (fol.306) della Biblioteca Universitaria di Messina proveniente dal monastero del SS.Salvatore di Messina, pubblicata da prima in Lampros (1910) e successivamente riedita in Evangelatou-Notara (1982, n.435, p.210) $(130702)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 26 settembre 1172, alle ore 13:40 GMT circa (l’"ora nona", secondo il computo delle ore canoniche), Messina fu colpita da un terremoto molto forte, definito "spaventoso e molto terribile".</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051424</codbib>
+      <autore1>Comastri A. e Mariotti D.</autore1>
+      <titolo1>I terremoti e i maremoti dello Stretto di Messina dal mondo antico alla fine del XX secolo: descrizioni e parametri, in "Il terremoto e il maremoto del 28 dicembre 1908: analisi sismologica, impatto, prospettive, a cura di G.Bertolaso, E.Boschi, E.Guidoboni e G.Valensise, DPC-INGV, pp.215-254.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2008</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091334</codbib>
+      <autore1>Valensise G. e Guidoboni E.</autore1>
+      <titolo1>Towards new research strategies: silent seismogenic areas or silent sources?, in Catalogue of Strong Italian Earthquakes from 461 B.C. to 1997, ed. E.Boschi, E.Guidoboni, G.Ferrari, D.Mariotti, G.Valensise and P.Gasperini, "Annali di Geofisica", vol.43, n.4, pp.797-812.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130702</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notula sul terremoto del 26 settembre 1172, in F.Evangelatou-Notara, "Note in manoscritti greci come fonti per lo studio della vita sociale ed economica di Bisanzio dal IX secolo all’anno 1204", n.435, p.210 (in greco, edita in precedenza in S.Lampros, "Prima raccolta di prodigi nei memoriali o nelle cronache" (in greco), in «Neos Ellenomnemon», vol.7, n.22, p.133).</titolo1>
+      <luogoed>Athena</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190098</codbib>
+      <autore1>Guidoboni E. e Traina G.</autore1>
+      <titolo1>Earthquakes in medieval Sicily. A historical revision (7th-13th century), in "Annali di Geofisica", vol.39, pp.1201-1225.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1997</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630196</codbib>
+      <autore1>Grumel V.</autore1>
+      <titolo1>Traité d’études byzantines. 1. La chronologie.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Messina</desloc>
+      <lat_wgs84>38.1877</lat_wgs84>
+      <lon_wgs84>15.5493</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>42021</nterr>
+      <nloc_cfti>066973.00</nloc_cfti>
+      <desloc_cfti>Messina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Ci fu un terremoto fu molto forte, definito "spaventoso e molto terribile" $(130702)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

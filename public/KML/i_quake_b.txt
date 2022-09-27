@@ -1,0 +1,36 @@
+﻿</Folder>
+ <ScreenOverlay>
+ <name>Logo CFTI5Med</name>
+<color>ffffffff</color>
+  <Icon>
+  <href>http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN.png</href>
+ </Icon>
+ <overlayXY x="0.01" y="0.99" xunits="fraction" yunits="fraction"/>
+<screenXY x="0.01" y="0.99" xunits="fraction" yunits="fraction"/>
+ <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+ <size y="45" yunits="pixels"/>
+ </ScreenOverlay>
+  <ScreenOverlay>
+ <name>Legend</name>
+<color>ffffffff</color>
+  <Icon>
+  <href>http://storing.ingv.it/cfti/cfti5/images/legend_ENG.png</href>
+ </Icon>
+ <overlayXY x="0.01" y="0.05" xunits="fraction" yunits="fraction"/>
+<screenXY x="0.01" y="0.05" xunits="fraction" yunits="fraction"/>
+ <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+ </ScreenOverlay>
+ <ScreenOverlay>
+ <name>Logo INGV</name>
+<color>ffffffff</color>
+  <Icon>
+  <href>http://storing.ingv.it/cfti/cfti5/images/ingv-logo_small.png</href>
+ </Icon>
+ <overlayXY x="0.99" y="0.1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0.99" y="0.1" xunits="fraction" yunits="fraction"/>
+ <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+  <size y="100" yunits="pixels"/>
+ </ScreenOverlay>
+</Document>
+</kml>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072333.00</nloc_cfti>
+      <desloc_cfti>Osservatorio Etneo</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>37.7412</lat_wgs84>
+      <lon_wgs84>14.999</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14902</nterr>
+      <nperiod>003039</nperiod>
+      <datanum>18940808</datanum>
+      <data_label>1894 08 08</data_label>
+      <anno>1894</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>05:16:00</time_label>
+      <ora>05</ora>
+      <minu>16</minu>
+      <sec>00</sec>
+      <lat>37.6564</lat>
+      <lon>15.1138</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa fu avvertita piuttosto fortemente $(575802,575815)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>575802</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1894, n.56, Telegramma del direttore dell’Osservatorio Geodinamico di Catania A.Riccò al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica di Roma relativo al terremoto dell’8 agosto 1894, Catania 8 agosto 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575815</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, agosto 1894, n.66, Cartolina macrosismica relativa al terremoto dell’8 agosto 1894 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Paternò 9 agosto 1894.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

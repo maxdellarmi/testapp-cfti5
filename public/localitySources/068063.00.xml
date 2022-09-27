@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>068063.00</nloc_cfti>
+      <desloc_cfti>Ferla</desloc_cfti>
+      <provlet>SR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>6</risentimenti>
+      <maxint>10.5</maxint>
+      <lat_wgs84>37.1191</lat_wgs84>
+      <lon_wgs84>14.9398</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00694</nterr>
+      <nperiod>003003</nperiod>
+      <datanum>15421210</datanum>
+      <data_label>1542 12 10</data_label>
+      <anno>1542</anno>
+      <mese>12</mese>
+      <giorno>10</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>37.2343</lat>
+      <lon>15.0143</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>32</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Siracusano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Il terremoto causò danni molto estesi $(585025)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42011</nterr>
+      <nperiod>003049</nperiod>
+      <datanum>19901213</datanum>
+      <data_label>1990 12 13</data_label>
+      <anno>1990</anno>
+      <mese>12</mese>
+      <giorno>13</giorno>
+      <time_label>00:24:00</time_label>
+      <ora>00</ora>
+      <minu>24</minu>
+      <sec>00</sec>
+      <lat>37.2617</lat>
+      <lon>14.9837</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>304</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Sicilia sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò danni al patrimonio edilizio: furono danneggiati 5 edifici pubblici, 6 abitazioni e 2 chiese $(052156,052157)$. La provincia di Siracusa dispose per questa località uno stanziamento di 100 milioni $(035057)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21318</nterr>
+      <nperiod>003032</nperiod>
+      <datanum>19081228</datanum>
+      <data_label>1908 12 28</data_label>
+      <anno>1908</anno>
+      <mese>12</mese>
+      <giorno>28</giorno>
+      <time_label>04:20:27</time_label>
+      <ora>04</ora>
+      <minu>20</minu>
+      <sec>27</sec>
+      <lat>38.1647</lat>
+      <lon>15.6871</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>838</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria meridionale-Messina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>174</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto spaventò la popolazione; una casa subì gravi danni $(095001)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07281</nterr>
+      <nperiod>003236</nperiod>
+      <datanum>18480111</datanum>
+      <data_label>1848 01 11</data_label>
+      <anno>1848</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>37.5434</lat>
+      <lon>15.0947</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>41</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Golfo di Catania</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Rizzo (1907) stimò l’intensità della scossa di V grado della scala Mercalli $(145008)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01148</nterr>
+      <nperiod>003011</nperiod>
+      <datanum>16930111</datanum>
+      <data_label>1693 01 11</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>37.1407</lat>
+      <lon>15.013</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>179</npun>
+      <mm>7.4</mm>
+      <earthquakelocation>Sicilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>23</ee_nt>
+      <ee_np>33</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10.5</intpqnum>
+      <intpq>X-XI</intpq>
+      <D1>Nella relazione allegata alla lettera del Viceré del 14 maggio viene segnalata la rovina completa del paese, compresi la chiesa e due conventi $(665112)$. Mongitore ricorda la totale distruzione dell’abitato e la morte di 800 persone $(205007,082589)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>585025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "E.Taranto" di Caltagirone, Liber privilegiorum capitulorum gratiarum immunitatum et consuetudinum civitatis gratissimae Calathaieronis, cc.509-511r, Cronaca del terremoto del 10 dicembre 1542 redatta dal tesoriere Gaspare de Silvestro, Caltagirone 10 gennaio 1543.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1543</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665112</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretarías Provinciales, Sicilia, legajo 1222 (1693), Correspondencia de virreyes y ministros con S.M., Relazione delle città e luoghi devastati in Sicilia, a causa dei terremoti [del 9 e 11 gennaio]; numero antico dei vivi, numero dei morti nelle rovine e rendite che pagavano ogni anno, Palermo maggio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>205007</codbib>
+      <autore1>Pirri R.</autore1>
+      <titolo1>Sicilia sacra disquisitionibus, et notitiis illustrata. Editio tertia emendata, &amp; continuatione aucta cura, &amp; studio s.t.d.d. Antonini Mongitore, 2 voll. (ristampa anastatica, Sala Bolognese 1987).</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1733</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082589</codbib>
+      <autore1>Mongitore A.</autore1>
+      <titolo1>Istoria cronologica de’ terremoti di Sicilia, in Id., "Della Sicilia ricercata nelle cose più memorabili", tomo 2, pp.345-445.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1908.12.28/29, a.48, n.362.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Secolo d’Italia, 1991.01.03.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Segnalazioni di danni al patrimonio Architettonico-Culturale causati dal terremoto del 13.12.1990, Istituto Nazionale di Geofisica (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035057</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1990.12.15.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1990</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>215009</codbib>
+      <autore1>Bottone D.</autore1>
+      <titolo1>De immani Trinacriæ terræmotu. Idea historico-physica, in qua non solum telluris concussiones transactæ recensentur, sed novissimæ anni 1717.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1718</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

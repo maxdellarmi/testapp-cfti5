@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>019765.00</nloc_cfti>
+      <desloc_cfti>Bondanello</desloc_cfti>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.9597</lat_wgs84>
+      <lon_wgs84>10.9463</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29260</nterr>
+      <nperiod>000519</nperiod>
+      <datanum>19280613</datanum>
+      <data_label>1928 06 13</data_label>
+      <anno>1928</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>07:55:00</time_label>
+      <ora>07</ora>
+      <minu>55</minu>
+      <sec>00</sec>
+      <lat>44.7608</lat>
+      <lon>10.9032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>29</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Carpi (MO)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

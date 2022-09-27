@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048853.00</nloc_cfti>
+      <desloc_cfti>Scopoli</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.9723</lat_wgs84>
+      <lon_wgs84>12.8084</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il centro fu gravemente danneggiato dal terremoto del 13 gennaio $(395722,395725)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04615</nterr>
+      <nperiod>003286</nperiod>
+      <datanum>17911011</datanum>
+      <data_label>1791 10 11</data_label>
+      <anno>1791</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>13:05</time_label>
+      <ora>13</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.9508</lat>
+      <lon>12.8611</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>54</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Centro fortificato del territorio di Foligno. Il terremoto colpì gravemente l’abitato: secondo la perizia effettuata dall’architetto Neri, 1 casa crollò totalmente, altre 18 abitazioni, un mulino e un edificio adibito a tintoria furono danneggiati da crolli parziali dei muri, lesioni, distacchi e spiombi delle murature esterne; dalla caduta totale o parziale e da gravi sconnessioni dei tetti; da lesioni o dal crollo delle pareti interne; dalla caduta di volte, solai, fumaioli e degli architravi di porte o finestre; 2 delle abitazioni danneggiate dovettero essere abbassate demolendo il piano più elevato.&lt;br&gt;Nella chiesa parrocchiale furono rilevati gravi dissesti nella volta e nel muro della facciata e la caduta di 3 architravi; nella canonica era parzialmente crollato il tetto, i muri esterni risultavano sbilanciati, le pareti interne erano lesionate ed erano caduti 5 architravi.&lt;br&gt;I lavori di restauro necessari consistevano nella demolizione e riedificazione di estese parti di muri e di tetti; nell’apposizione di catene di ferro o nella costruzione di speroni di sostegno delle murature esterne; nella risistemazione delle coperture dei tetti; in 5 casi si doveva demolire il "palombaro" rialzato sul tetto della casa.&lt;br&gt;Complessivamente, per il ripristino degli edifici fu valutata necessaria la spesa di 2293,79 scudi $(395944)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395722</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Copia di relazione del gonfaloniere di Foligno Tommaso Lezj Marchetti al governatore di Foligno sui danni causati dal terremoto nel territorio comunale, Foligno 22 maggio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395725</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Nota delle Comuni e loro Appodiati comprese nella Delegazione di Perugia danneggiate dal terremoto, Perugia maggio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395944</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Foligno, Priorale, serie VII (Corrispondenza e carte diverse), cat.IV (Lettere e carte diverse), b.796, fasc. "1791 ­ Perizie, Fogli e Lettere risguardanti le spese a cagione del Terremoto seguito in Ottobre detto Anno", Perizia dei danni causati dal terremoto dell’11 ottobre 1791 nei castelli e nelle ville del territorio di Foligno redatta dall’architetto Filippo Neri, Foligno 19 novembre 1791.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1791</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

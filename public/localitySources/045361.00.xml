@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045361.00</nloc_cfti>
+      <desloc_cfti>Montelupo Fiorentino</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.7331</lat_wgs84>
+      <lon_wgs84>11.0218</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò leggere fenditure ai muri delle case; anche gli edifici costruiti con buoni materiali presentarono piccole fenditure; quelli con palchi in legname subirono danni minori rispetto a quelli coperti a volta. In generale le torri furono danneggiate meno degli altri fabbricati $(002067,092001,095407)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12993</nterr>
+      <nperiod>002071</nperiod>
+      <datanum>18871114</datanum>
+      <data_label>1887 11 14</data_label>
+      <anno>1887</anno>
+      <mese>11</mese>
+      <giorno>14</giorno>
+      <time_label>05:48:05</time_label>
+      <ora>05</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>43.7516</lat>
+      <lon>11.2178</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>101</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00688</nterr>
+      <nperiod>000090</nperiod>
+      <datanum>15420613</datanum>
+      <data_label>1542 06 13</data_label>
+      <anno>1542</anno>
+      <mese>06</mese>
+      <giorno>13</giorno>
+      <time_label>02:15</time_label>
+      <ora>02</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.0066</lat>
+      <lon>11.3844</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>46</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Una fonte coeva all’evento ricorda danni alla località senza dettagliarne con sicurezza la portata $(030110)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030110</codbib>
+      <autore1>*</autore1>
+      <titolo1>Una lettera de la discriptione del Terremotto che è stato in Toscana, la qual narra particolarmente tutte le terre che son ruinate &amp; le persone morte, &amp; li fuochi apparsi in aere, &amp; la terra ap[er]ta, &amp; de un Lago fatto di acqua spuzolente di Solfere, la quantità, e il numero delle Case ruinate le qualcose furno a dì III Luio MDXXXXII.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1542</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, maggio 1895, n.113, Cartolina macrosismica relativa al terremoto del 18 maggio 1895 inviata dall’ingegner Santi Angeli all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Montelupo Fiorentino 18 maggio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto fiorentino del 18 maggio 1895: nota preliminare.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095407</codbib>
+      <autore1>Cioppi E.</autore1>
+      <titolo1>18 maggio 1895: storia di un terremoto fiorentino.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074233.00</nloc_cfti>
+      <desloc_cfti>Vulcano di Monte Busca</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>0</risentimenti>
+      <maxint>-2</maxint>
+      <lat_wgs84>44.047</lat_wgs84>
+      <lon_wgs84>11.7733</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes/>
+  <Biblios>
+    <Bibliography>
+      <codbib>410059</codbib>
+      <autore1>Veggiani A.</autore1>
+      <titolo1>Note sul terremoto di Santa Sofia del 1956, in "Studi Romagnoli", vol.10, pp.221-235.</titolo1>
+      <luogoed>Faenza</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745738</codbib>
+      <autore1>Trabucco G.</autore1>
+      <titolo1>Terremoto della Romagna-Toscana del 4 settembre 1885 [ma 1895], in "Bollettino della Società Geologica Italiana", vol.14, pp.284-286.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

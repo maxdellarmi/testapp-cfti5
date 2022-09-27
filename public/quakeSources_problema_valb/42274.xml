@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42274</nterr>
+      <nperiod>009753</nperiod>
+      <datanum>14581203</datanum>
+      <data_label>1458 12 03</data_label>
+      <anno>1458</anno>
+      <mese>12</mese>
+      <giorno>03</giorno>
+      <time_label>18:00</time_label>
+      <ora>18</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.5408</lat>
+      <lon>13.8664</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Sant’Elia Fiumerapido (FR)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso e nel Catalogo PFG (1985).&lt;br&gt;Benché allo stato attuale non ci siano informazioni di danni, si è ritenuto di inserire ugualmente questo evento per conservare la data come indicatore cronologico che può guidare nuove ricerche. La località nota è palesemente solo un punto di risentimento di un terremoto il cui epicentro è ancora sconosciuto.&lt;br&gt;Questo terremoto è stato analizzato in un rapporto tecnico inedito riguardante la revisione del terremoto del 1456 (SGA 2003, RPT 255/03) $(093311)$.&lt;br&gt;La fonte è il notaio-cronista Angelo Tummolillo (1397 ­ ca. 1480-85) autore di una cronaca dal titolo "Notabilia temporum" (ed. 1890) $(220002)$. L’autore ricorda che questo terremoto avvenne due giorni prima (3 dicembre) della ricorrenza del grande terremoto del 1456 (5 dicembre), evidentemente ancora molto vivo nel ricordo dei contemporanei.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 3 dicembre 1458 alle ore 18:00 GMT (le ore 2 della notte in orario "all’italiana"); fu sentito a Sant’Elia Fiumerapido (prov. di Frosinone). L’area epicentrale di questo evento è sconosciuta.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>093311</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Integrazione di ricerca di archeologia e storia territoriale riguardante il terremoto del 1456 e l’area molisano-campana relativamente ai terremoti prima del Mille, RPT 255/03, Bologna maggio 2003 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>220002</codbib>
+      <autore1>Tummolillo Angelo</autore1>
+      <titolo1>Notabilia temporum di Angelo de Tummulillis da Sant’Elia, ed. C.Corvisieri, in "Fonti per la storia d’Italia" (Scrittori secolo XV), vol.7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Sant'Elia Fiumerapido</desloc>
+      <lat_wgs84>41.5408</lat_wgs84>
+      <lon_wgs84>13.8664</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>42274</nterr>
+      <nloc_cfti>055629.00</nloc_cfti>
+      <desloc_cfti>Sant’Elia Fiumerapido</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita un’unica scossa; non sono riportate altre informazioni $(220002)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

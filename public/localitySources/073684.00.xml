@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073684.00</nloc_cfti>
+      <desloc_cfti>Le Pianelle</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.833</lat_wgs84>
+      <lon_wgs84>12.8866</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06208</nterr>
+      <nperiod>003288</nperiod>
+      <datanum>18380214</datanum>
+      <data_label>1838 02 14</data_label>
+      <anno>1838</anno>
+      <mese>02</mese>
+      <giorno>14</giorno>
+      <time_label>07:30</time_label>
+      <ora>07</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>42.8406</lat>
+      <lon>12.9084</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>24</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 14 febbraio causò danni; i nomi di 2 persone risultano nell’elenco delle sovvenzioni distribuite ai danneggiati dal terremoto $(395914)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>38537</nterr>
+      <nperiod>003294</nperiod>
+      <datanum>19741202</datanum>
+      <data_label>1974 12 02</data_label>
+      <anno>1974</anno>
+      <mese>12</mese>
+      <giorno>02</giorno>
+      <time_label>01:55:15</time_label>
+      <ora>01</ora>
+      <minu>55</minu>
+      <sec>15</sec>
+      <lat>42.8141</lat>
+      <lon>12.9271</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>27</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il paese fu gravemente danneggiato. Secondo 2 corrispondenze giornalistiche del 5 dicembre 1974 l’80% delle abitazioni era lesionato $(330431,111002)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>330431</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1974.12.06.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1974</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>111002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1974.12.06, a.89, n.272.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1974</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395914</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Spoleto, Delegazione Apostolica di Spoleto, b.877, Elenco delle sovvenzioni distribuite ai danneggiati dal terremoto nel Comune di Cerreto redatto dal priore Giovanni Battista Scanduri, Cerreto di Spoleto 13 luglio 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

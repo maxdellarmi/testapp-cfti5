@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080445.00</nloc_cfti>
+      <desloc_cfti>Friesach</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>46.9528</lat_wgs84>
+      <lon_wgs84>14.4052</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05142</nterr>
+      <nperiod>003197</nperiod>
+      <datanum>18121025</datanum>
+      <data_label>1812 10 25</data_label>
+      <anno>1812</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.0285</lat>
+      <lon>12.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>34</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Cellina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Nella chiesa dei Domenicani cadde sabbia e intonaco dalla volta, sui muri comparvero crepe e si temette il crollo della volta $(110422)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110422</codbib>
+      <autore1>Höfer H.</autore1>
+      <titolo1>Die Erdbeben Kärtens und deren Stosslinien, in "Denkschriften der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", vol.42 (1880), pp.1-90.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1880</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

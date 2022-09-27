@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42053</nterr>
+      <nperiod>009024</nperiod>
+      <datanum>16530419</datanum>
+      <data_label>1653 04 19</data_label>
+      <anno>1653</anno>
+      <mese>04</mese>
+      <giorno>19</giorno>
+      <time_label>04:40</time_label>
+      <ora>04</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.0335</lat>
+      <lon>10.2001</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Milano, 1653.04.23.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1653</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320079</codbib>
+      <autore1>Bertini G.</autore1>
+      <titolo1>Memoria di Colorno di Costantino Canicetti. Una cronaca del secolo XVII, in Archivio Storico per le Provincie Parmensi, vol.28 (1976), pp.284-306.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320161</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Vittorio Emanuele III" di Napoli, Manoscritti, X.E.39, Costantino Canicetti, Memoria di Colorno (1621-1674), sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580091</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Manoscritti Bresciani, 12, Giuseppe Bresciani, Historia della città di Cremona che contiene dall’anno 1501 sino all’anno 1665, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>810023</codbib>
+      <autore1></autore1>
+      <titolo1>Archivio di Stato di Mantova, Documenti d’Arco, 81, G.Mambrino, Trattato di Mantova e sua fondazione, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>820031</codbib>
+      <autore1>Cremosano M.</autore1>
+      <titolo1>Memorie storiche milanesi dall’anno 1642 al 1691, ed. G.Porro Lambertenghi, in "Archivio Storico Lombardo", s.I, vol.7, fasc.2 (giugno 1880), pp.279-298.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Colorno</desloc>
+      <lat_wgs84>44.9303</lat_wgs84>
+      <lon_wgs84>10.3766</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42053</nterr>
+      <nloc_cfti>036052.00</nloc_cfti>
+      <desloc_cfti>Colorno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cremona</desloc>
+      <lat_wgs84>45.1367</lat_wgs84>
+      <lon_wgs84>10.0236</lon_wgs84>
+      <provlet>CR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42053</nterr>
+      <nloc_cfti>018772.00</nloc_cfti>
+      <desloc_cfti>Cremona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Mantova</desloc>
+      <lat_wgs84>45.1527</lat_wgs84>
+      <lon_wgs84>10.7748</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>42053</nterr>
+      <nloc_cfti>019701.00</nloc_cfti>
+      <desloc_cfti>Mantova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>42053</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

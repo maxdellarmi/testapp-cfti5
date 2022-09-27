@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>05134</nterr>
+      <nperiod>003287</nperiod>
+      <datanum>18120903</datanum>
+      <data_label>1812 09 03</data_label>
+      <anno>1812</anno>
+      <mese>09</mese>
+      <giorno>03</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.75</lat>
+      <lon>13</lon>
+      <rel>F</rel>
+      <level>I</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Cascia (PG)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) costituita da Baratta (1901) $(000001)$, che si basa su una notizia riportata nella relazione del padre Angelo Secchi (1860) $(115496)$. Una ricerca approfondita circa questo presunto evento sismico ha tuttavia avuto esito negativo su tutte le principali fonti. Esso non è citato né in Mercalli (1883), né in de Rossi-Malvasia (1889). In Conversini et al. (1990), l’evento è catalogato come "dubbio", in quanto documentato solo da Secchi.&lt;br&gt;È stata tuttavia riscontrata una coincidenza di data e ora con il terremoto avvenuto, in realtà, il 3 settembre 1815 (si veda in questo catalogo); la falsa notizia del terremoto è perciò dovuta probabilmente a un refuso di Secchi, ripreso da Baratta.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095573</codbib>
+      <autore1>Conversini P., Lolli O., Molin D., Paciello A. e Pagliacci S.</autore1>
+      <titolo1>Ricerche sulla sismicità storica della provincia di Perugia, Quaderni Regione dell’Umbria, n.s., Collana Sismica, vol.1b.</titolo1>
+      <luogoed>Perugia</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>115496</codbib>
+      <autore1>Secchi A.</autore1>
+      <titolo1>Escursione scientifica fatta a Norcia ad occasione dei terremoti del 22 agosto 1859, in "Atti dell’Accademia Pontificia de’ Nuovi Lincei", vol.13, pp.63-104.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1860</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

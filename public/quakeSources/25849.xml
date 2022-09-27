@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>25849</nterr>
+      <nperiod>003347</nperiod>
+      <datanum>19161116</datanum>
+      <data_label>1916 11 16</data_label>
+      <anno>1916</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>06:35:30</time_label>
+      <ora>06</ora>
+      <minu>35</minu>
+      <sec>30</sec>
+      <lat>42.6462</lat>
+      <lon>13.1683</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>40</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-reatino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Il Catalogo PFG rimanda per questo terremoto al "Catalogo macrosismico del Lazio" di Dell’Olio e Molin $(745088)$ in cui le informazioni relative all’evento sono sintetizzate in una mappa delle intensità stimate, senza indicazione delle fonti d’informazione utilizzate.&lt;br&gt;È stata condotta una ricerca sulla bibliografia scientifica disponibile, sulle fonti istituzionali e giornalistiche. È stata utilizzata la scheda informativa del catalogo di Cavasino $(050399)$, che rimanda alle "Notizie sui terremoti... 1916", redatte dallo stesso autore che però non furono mai pubblicate. Le fonti di questo bollettino erano in genere le cartoline macrosismiche giunte all’Ufficio Centrale di Meteorologia e Geodinamica e le notizie pubblicate dai principali quotidiani romani. Per quanto riguarda l’ambito scientifico l’evento è citato anche da Martinelli $(000250)$, che però non fornisce descrizioni qualitative degli effetti.&lt;br&gt;Nell’ambito istituzionale, è stata compiuta una ricerca all’Archivio Centrale dello Stato nel fondo del Ministero dell’Interno (serie Gabinetto, Ufficio cifra). Sono state reperite le informative giunte al governo dalle autorità periferiche delle province di Ancona, L’Aquila e Perugia. Si tratta di 7 telegrammi datati dal 16 novembre al 4 dicembre 1916 con notizie di dettaglio per alcune delle località più colpite. È stato inoltre reperito il testo degli atti legislativi con cui furono estesi alle località colpite dal terremoto del 16 novembre 1916 alcuni dei provvedimenti adottati in occasione del terremoto della Marsica del 13 gennaio 1915.&lt;br&gt;Per quanto riguarda le fonti giornalistiche, sono state vagliate le notizie pubblicate dai principali quotidiani romani dell’epoca ("Il Messaggero", "Il Giornale d’Italia", "La Tribuna") tra il 16 e il 22 novembre 1916, reperendo informazioni utili in 5 numeri delle tre testate; notizie sul terremoto furono pubblicate anche dal quotidiano "La Stampa" nell’edizione del 17 novembre.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto colpì l’area appenninica al confine tra l’Umbria e il Lazio; i paesi più danneggiati furono Sant’Angelo, frazione del comune di Leonessa (RI), e Trognano, frazione di Cascia (PG). A Sant’Angelo tutte le risultarono molto danneggiate: 7 furono fatte sgombrare e numerose altre furono ritenute pericolanti così come la chiesa parrocchiale. A Trognano quasi tutte le case furono fortemente danneggiate e rese inabitabili. Danni notevoli con molti edifici lesionati e alcuni giudicati pericolosi furono rilevati in altre 7 località: Accumoli, Amatrice, Cittareale, Grisciano, Posta, San Giovanni, Terzone e Villanova. A Cascia, Leonessa, Norcia e Preci ci furono danni leggeri. Il terremoto fu sentito più o meno fortemente in quasi tutta l’Italia centrale, da Rimini a Roma.&lt;br&gt;Dopo la scossa principale furono sentite varie repliche, in genere leggere. Un’altra scossa forte avvenne il 22 novembre alle ore 10:20 GMT: a Sant’Angelo fece crollare uno dei 7 edifici già sgombrati.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000250</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Macrosismi avvertiti in Italia nell’anno 1916, in "Bollettino della Società Sismologica Italiana", vol.20, pp.228-245.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021297</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Ricerche, revisioni e confronti. Terremoti storici, RPT 248/02, Bologna giugno 2002 (rapporto inedito per INGV ­ Sezione di Milano).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2002</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053003</codbib>
+      <autore1>Boschi E., Guidoboni E., Ferrari G. e Valensise G.</autore1>
+      <titolo1>I terremoti dell’Appennino umbro-marchigiano ­ area sud orientale dal 99 a.C. al 1984, ING-SGA.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1998</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146611</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1916.11.17, a.50, n.320.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460100</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero della Guerra, Serie diverse, Ufficio censura, 1915-1920, b.10, Notiziario dell’Agenzia Stefani, Roma 17 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>570116</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino della stazione sismica "Proviero" di Trenta (Cosenza), a.2, nn.7-18 (gennaio-dicembre 1916); a.3, nn.19-24 (gennaio-giugno 1917).</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1917</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>661105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale del Regno d’Italia, a.62, n.289 (10 dicembre 1921), Regio decreto-legge 16 novembre 1921, n.1705, che reca provvedimenti in dipendenza dei terremoti.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1921</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673500</codbib>
+      <autore1>*</autore1>
+      <titolo1>Camera dei Deputati, Legislatura XXIV, Atti Parlamentari, Disegni di legge ­ Relazioni ­ Documenti, vol.22, n.894, Disegno di legge presentato dal Ministro dei Lavori Pubblici (Bonomi) di concerto col Presidente del Consiglio dei Ministri e con gli altri Ministri, Conversione in legge di decreti luogotenenziali contenenti provvedimenti per i danneggiati dai terremoti del 13 gennaio 1915 e 10 novembre 1915, 21 e 22 aprile, 17 maggio, 4 luglio, 16 agosto 1916 e 16 novembre 1916 e 26 aprile 1917, Seduta del 24 ottobre 1917.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675636</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.25850, Telegramma del prefetto di L’Aquila Pera al Ministero dell’Interno Gabinetto, L’Aquila 16 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675637</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.25852, Telegramma del prefetto di Ancona Taddei al Ministero dell’Interno Direzione generale della pubblica sicurezza, Ancona 16 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675638</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.25917, Telegramma del viceprefetto di Perugia Evina al Ministero dell’Interno Direzione generale della pubblica sicurezza, Perugia 16 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675639</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.26031, Telegramma del viceprefetto di Perugia Evina al Ministero dell’Interno Direzione generale della pubblica sicurezza, Perugia 17 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675640</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.26375, Telegramma del prefetto di L’Aquila Pera al Ministero dell’Interno Gabinetto, L’Aquila 21 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675641</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 13 novembre al 24 novembre, n.26589, Telegramma dell’ispettore generale di pubblica sicurezza Vitale al Ministero dell’Interno Direzione generale della pubblica sicurezza, Leonessa 23 novembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675642</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1916, Telegrammi in arrivo dal 24 novembre al 6 dicembre, n.27540, Telegramma del prefetto di L’Aquila Pera al Ministero dell’Interno Gabinetto, L’Aquila 4 dicembre 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675643</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1916.11.17-18, a.38, n.320.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675644</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1916.11.19-20, a.38, n.322.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675645</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1916.11.21-22, a.38, n.324.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675655</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1916.11.17, a.34, n.320.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>675656</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1916.11.17, a.16, n.319.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691278</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annuario statistico del comune di Ferrara, a.8 (1916).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1918</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745088</codbib>
+      <autore1>Dell’Olio A. e Molin D.</autore1>
+      <titolo1>Catalogo macrosismico del Lazio dall’anno 1000 al 1975, ENEA (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870370</codbib>
+      <autore1>Bianchi A.</autore1>
+      <titolo1>Bollettino dell’Osservatorio meteorico-sismico di Chiavari per l’anno meteorico 1915-1916.</titolo1>
+      <luogoed>Chiavari</luogoed>
+      <datacompl>1917</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Sant'Angelo</desloc>
+      <lat_wgs84>42.5965</lat_wgs84>
+      <lon_wgs84>13.0635</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053353.00</nloc_cfti>
+      <desloc_cfti>Sant’Angelo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Leonessa. Tutte le abitazioni (complessivamente una trentina) risultarono molto danneggiate, numerose furono rese pericolanti e 7 furono fatte sgombrare; fu chiusa al culto la chiesa parrocchiale. Una delle case sgombrate crollò in seguito alla forte replica avvenuta il 22 novembre alle ore 10:20 GMT $(675640,675641)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Trognano</desloc>
+      <lat_wgs84>42.6299</lat_wgs84>
+      <lon_wgs84>13.0641</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>048527.00</nloc_cfti>
+      <desloc_cfti>Trognano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Cascia. Quasi tutte le case, che erano in generale di pessima costruzione, furono gravemente danneggiate e rese inabitabili $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Accumoli</desloc>
+      <lat_wgs84>42.6948</lat_wgs84>
+      <lon_wgs84>13.2476</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053035.00</nloc_cfti>
+      <desloc_cfti>Accumoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò lesioni in numerose abitazioni; in diversi edifici alcuni ambienti furono giudicati pericolosi dai tecnici del Genio civile $(675636,675644,675643)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Amatrice</desloc>
+      <lat_wgs84>42.6286</lat_wgs84>
+      <lon_wgs84>13.2901</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053053.00</nloc_cfti>
+      <desloc_cfti>Amatrice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò danni notevoli all’abitato $(675636,675643,146611)$</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Cittareale</desloc>
+      <lat_wgs84>42.6179</lat_wgs84>
+      <lon_wgs84>13.1596</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053197.00</nloc_cfti>
+      <desloc_cfti>Cittareale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Quasi tutti gli edifici subirono lesioni, in vari fabbricati sia di vecchia che di nuova costruzione i danni furono così rilevanti da renderli giudicati pericolosi; caddero moltissimi comignoli causando qualche ferito $(675644,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Grisciano</desloc>
+      <lat_wgs84>42.7327</lat_wgs84>
+      <lon_wgs84>13.269</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053042.00</nloc_cfti>
+      <desloc_cfti>Grisciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Accumoli. Il terremoto causò lesioni a numerose abitazioni $(675644)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Posta</desloc>
+      <lat_wgs84>42.5244</lat_wgs84>
+      <lon_wgs84>13.0968</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053484.00</nloc_cfti>
+      <desloc_cfti>Posta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di VII grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>San Giovanni</desloc>
+      <lat_wgs84>42.6933</lat_wgs84>
+      <lon_wgs84>13.2078</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053046.00</nloc_cfti>
+      <desloc_cfti>San Giovanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Accumoli. Il terremoto causò lesioni a numerose abitazioni $(675644)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Terzone San Pietro</desloc>
+      <lat_wgs84>42.6165</lat_wgs84>
+      <lon_wgs84>13.0704</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053343.00</nloc_cfti>
+      <desloc_cfti>Terzone San Pietro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Leonessa. Parecchie abitazioni risultarono molto danneggiate, qualcuna pericolante $(675641)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Villanova</desloc>
+      <lat_wgs84>42.6912</lat_wgs84>
+      <lon_wgs84>13.2275</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053037.00</nloc_cfti>
+      <desloc_cfti>Villanova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Frazione del comune di Accumoli. Il terremoto causò lesioni a numerose abitazioni $(675644)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cascia</desloc>
+      <lat_wgs84>42.7191</lat_wgs84>
+      <lon_wgs84>13.0128</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>048514.00</nloc_cfti>
+      <desloc_cfti>Cascia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di VI grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Leonessa</desloc>
+      <lat_wgs84>42.5669</lat_wgs84>
+      <lon_wgs84>12.9621</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053339.00</nloc_cfti>
+      <desloc_cfti>Leonessa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di VI grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Norcia</desloc>
+      <lat_wgs84>42.7932</lat_wgs84>
+      <lon_wgs84>13.0936</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>049251.00</nloc_cfti>
+      <desloc_cfti>Norcia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di VI grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Preci</desloc>
+      <lat_wgs84>42.8792</lat_wgs84>
+      <lon_wgs84>13.0392</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>049529.00</nloc_cfti>
+      <desloc_cfti>Preci</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto danneggiò alcuni edifici pubblici tra cui la chiesa monumentale $(675639)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Arquata del Tronto</desloc>
+      <lat_wgs84>42.7723</lat_wgs84>
+      <lon_wgs84>13.2955</lon_wgs84>
+      <provlet>AP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052297.00</nloc_cfti>
+      <desloc_cfti>Arquata del Tronto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Atri</desloc>
+      <lat_wgs84>42.5807</lat_wgs84>
+      <lon_wgs84>13.9779</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>056454.00</nloc_cfti>
+      <desloc_cfti>Atri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Civitella del Tronto</desloc>
+      <lat_wgs84>42.7723</lat_wgs84>
+      <lon_wgs84>13.6675</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>056644.00</nloc_cfti>
+      <desloc_cfti>Civitella del Tronto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Crognaleto</desloc>
+      <lat_wgs84>42.5474</lat_wgs84>
+      <lon_wgs84>13.4785</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>056743.99</nloc_cfti>
+      <desloc_cfti>Crognaleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Macerata</desloc>
+      <lat_wgs84>43.3001</lat_wgs84>
+      <lon_wgs84>13.4523</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>051792.00</nloc_cfti>
+      <desloc_cfti>Macerata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito sensibilmente $(675656,675655)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Teramo</desloc>
+      <lat_wgs84>42.6593</lat_wgs84>
+      <lon_wgs84>13.704</lon_wgs84>
+      <provlet>TE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>056978.00</nloc_cfti>
+      <desloc_cfti>Teramo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito sensibilmente $(675656,146611)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Tolentino</desloc>
+      <lat_wgs84>43.2102</lat_wgs84>
+      <lon_wgs84>13.2826</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052142.00</nloc_cfti>
+      <desloc_cfti>Tolentino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Visso</desloc>
+      <lat_wgs84>42.9311</lat_wgs84>
+      <lon_wgs84>13.0877</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052187.00</nloc_cfti>
+      <desloc_cfti>Visso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Cavasino (1935) valutò l’intensità del terremoto di V grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ancona</desloc>
+      <lat_wgs84>43.6038</lat_wgs84>
+      <lon_wgs84>13.5073</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>051058.00</nloc_cfti>
+      <desloc_cfti>Ancona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito sensibilmente $(675637,146611)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fermo</desloc>
+      <lat_wgs84>43.1611</lat_wgs84>
+      <lon_wgs84>13.7155</lon_wgs84>
+      <provlet>FM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052485.00</nloc_cfti>
+      <desloc_cfti>Fermo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di IV grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Pergola</desloc>
+      <lat_wgs84>43.5635</lat_wgs84>
+      <lon_wgs84>12.837</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>050746.00</nloc_cfti>
+      <desloc_cfti>Pergola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di IV grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rieti</desloc>
+      <lat_wgs84>42.4048</lat_wgs84>
+      <lon_wgs84>12.8667</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053515.00</nloc_cfti>
+      <desloc_cfti>Rieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di IV grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Frascati</desloc>
+      <lat_wgs84>41.8081</lat_wgs84>
+      <lon_wgs84>12.6809</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>053781.00</nloc_cfti>
+      <desloc_cfti>Frascati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di III grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Jesi</desloc>
+      <lat_wgs84>43.5229</lat_wgs84>
+      <lon_wgs84>13.2447</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>051311.00</nloc_cfti>
+      <desloc_cfti>Jesi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono state reperite descrizioni degli effetti. Dell’Olio e Molin (1980) hanno valutato l’intensità del terremoto di III grado MCS $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Orte</desloc>
+      <lat_wgs84>42.4603</lat_wgs84>
+      <lon_wgs84>12.3845</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052931.00</nloc_cfti>
+      <desloc_cfti>Orte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu leggero $(675643,675655)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pesaro</desloc>
+      <lat_wgs84>43.9052</lat_wgs84>
+      <lon_wgs84>12.9049</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>050783.00</nloc_cfti>
+      <desloc_cfti>Pesaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu leggero $(675643,675656,675655)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu sentito da diverse persone soprattutto nei piani alti $(675643,675656,146611)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Spoleto</desloc>
+      <lat_wgs84>42.7326</lat_wgs84>
+      <lon_wgs84>12.7357</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>049693.00</nloc_cfti>
+      <desloc_cfti>Spoleto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito sensibilmente $(675638,675639)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Bagnorea</desloc>
+      <lat_wgs84>42.6269</lat_wgs84>
+      <lon_wgs84>12.0951</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052800</nloc_cfti>
+      <desloc_cfti>Bagnoregio (Bagnorea)</desloc_cfti>
+      <notesito>Assunse la denominazione di Bagnoregio il 18 giugno 1922.</notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Celano</desloc>
+      <lat_wgs84>42.0843</lat_wgs84>
+      <lon_wgs84>13.5454</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>056056.00</nloc_cfti>
+      <desloc_cfti>Celano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Penne</desloc>
+      <lat_wgs84>42.4576</lat_wgs84>
+      <lon_wgs84>13.9275</lon_wgs84>
+      <provlet>PE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>057354.00</nloc_cfti>
+      <desloc_cfti>Penne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Perugia</desloc>
+      <lat_wgs84>43.1068</lat_wgs84>
+      <lon_wgs84>12.3862</lon_wgs84>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>049390.00</nloc_cfti>
+      <desloc_cfti>Perugia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Rimini</desloc>
+      <lat_wgs84>44.06</lat_wgs84>
+      <lon_wgs84>12.5666</lon_wgs84>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>041984.00</nloc_cfti>
+      <desloc_cfti>Rimini</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Rocca di Papa</desloc>
+      <lat_wgs84>41.761</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>054017.00</nloc_cfti>
+      <desloc_cfti>Rocca di Papa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Subiaco</desloc>
+      <lat_wgs84>41.9259</lat_wgs84>
+      <lon_wgs84>13.0946</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>054435.00</nloc_cfti>
+      <desloc_cfti>Subiaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sutri</desloc>
+      <lat_wgs84>42.2425</lat_wgs84>
+      <lon_wgs84>12.2227</lon_wgs84>
+      <provlet>VT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>25849</nterr>
+      <nloc_cfti>052948.00</nloc_cfti>
+      <desloc_cfti>Sutri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu molto leggero $(050399)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

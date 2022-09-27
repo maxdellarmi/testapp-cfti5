@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073632.00</nloc_cfti>
+      <desloc_cfti>Bugliano</desloc_cfti>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.0748</lat_wgs84>
+      <lon_wgs84>10.493</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01781</nterr>
+      <nperiod>003093</nperiod>
+      <datanum>17400306</datanum>
+      <data_label>1740 03 06</data_label>
+      <anno>1740</anno>
+      <mese>03</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.0748</lat>
+      <lon>10.489</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>32</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò il crollo di diverse case e danneggiò più o meno gravemente tutte le altre $(052391,630005)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052391</codbib>
+      <autore1>Groppi P.</autore1>
+      <titolo1>Relazione dei terremoti seguiti a Barga negli anni 1740 e 1746.</titolo1>
+      <luogoed>Barga</luogoed>
+      <datacompl>1902</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

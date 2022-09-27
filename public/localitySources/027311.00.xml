@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027311.00</nloc_cfti>
+      <desloc_cfti>San Cassiano</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>45.6577</lat_wgs84>
+      <lon_wgs84>12.1604</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05142</nterr>
+      <nperiod>003197</nperiod>
+      <datanum>18121025</datanum>
+      <data_label>1812 10 25</data_label>
+      <anno>1812</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.0285</lat>
+      <lon>12.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>34</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Cellina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò il crollo delle case vecchie o malcostruite, la caduta di molti comignoli e diffuse fenditure nei fabbricati $(870018)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>870018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.18, n.93.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

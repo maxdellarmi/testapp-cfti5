@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>074093.00</nloc_cfti>
+      <desloc_cfti>Borgo Panigale</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>44.5178</lat_wgs84>
+      <lon_wgs84>11.2743</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19209</nterr>
+      <nperiod>000368</nperiod>
+      <datanum>19050311</datanum>
+      <data_label>1905 03 11</data_label>
+      <anno>1905</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>01:16</time_label>
+      <ora>01</ora>
+      <minu>16</minu>
+      <sec>-9</sec>
+      <lat>44.5327</lat>
+      <lon>10.8326</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>43</npun>
+      <mm>4.2</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30091</nterr>
+      <nperiod>000529</nperiod>
+      <datanum>19301026</datanum>
+      <data_label>1930 10 26</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>26</giorno>
+      <time_label>07:31</time_label>
+      <ora>07</ora>
+      <minu>31</minu>
+      <sec>-9</sec>
+      <lat>44.5546</lat>
+      <lon>10.985</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>11</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

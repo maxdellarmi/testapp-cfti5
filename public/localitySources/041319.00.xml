@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041319.00</nloc_cfti>
+      <desloc_cfti>Casemurate</desloc_cfti>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>44.2475</lat_wgs84>
+      <lon_wgs84>12.2149</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00468</nterr>
+      <nperiod>003176</nperiod>
+      <datanum>14830811</datanum>
+      <data_label>1483 08 11</data_label>
+      <anno>1483</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>19:40</time_label>
+      <ora>19</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.1564</lat>
+      <lon>12.2293</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>14</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395275</codbib>
+      <autore1>Bernardi Andrea (Novacula)</autore1>
+      <titolo1>Cronache Forlivesi dal 1476 al 1517 (sec.XVI), ed. G.Mazzatinti, in "Dei Monumenti istorici pertinenti alle Provincie della Romagna", s.III (Cronache), tomo 3, 3 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1895 - 1897</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

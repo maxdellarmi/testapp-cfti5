@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>048458.00</nloc_cfti>
+      <desloc_cfti>Sterpeto</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.1137</lat_wgs84>
+      <lon_wgs84>12.553</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42009</nterr>
+      <nperiod>003259</nperiod>
+      <datanum>19840429</datanum>
+      <data_label>1984 04 29</data_label>
+      <anno>1984</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>05:02:57</time_label>
+      <ora>05</ora>
+      <minu>02</minu>
+      <sec>57</sec>
+      <lat>43.2102</lat>
+      <lon>12.5104</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>592</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Umbria settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Non sono note descrizioni degli effetti. Monachesi et al. (1984) hanno valutato l’intensità della scossa di V-VI grado MCS $(035315)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il centro fu gravemente danneggiato dal terremoto del 13 gennaio, ma meno di Assisi $(395725,395717)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395725</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Nota delle Comuni e loro Appodiati comprese nella Delegazione di Perugia danneggiate dal terremoto, Perugia maggio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395717</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Lettera del governatore di Assisi Domenico Bartoli al delegato apostolico relativa ai danni causati dal terremoto ad Assisi e nel territorio del distretto, Assisi 17 aprile 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035315</codbib>
+      <autore1>Monachesi G., Pergalani F. e Stucchi M.</autore1>
+      <titolo1>Il terremoto umbro del 29.4.1984: indagine macrosismica dell’area più colpita, CNR-GNDT, Pubblicazione n.2.</titolo1>
+      <luogoed>Milano-Macerata</luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

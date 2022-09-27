@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>059586.00</nloc_cfti>
+      <desloc_cfti>Durazzano</desloc_cfti>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.0636</lat_wgs84>
+      <lon_wgs84>14.4463</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Dalla documentazione amministrativa afferente all’archivio del Ministero degli Interni risulta che il paese aveva una popolazione di 2067 abitanti $(671880)$.&lt;br&gt;La scossa causò 2 morti e danneggiò molto gravemente l’abitato: circa 300 case furono lesionate, molte (per un totale di 255 vani) divennero inabitabili; non vi furono danni al cimitero $(130544,671364,671686,671704,671864)$.&lt;br&gt;Fra i fabbricati rurali con abitazione permanente situati nel territorio del comune ne fu censito 1 gravemente lesionato, fra quelli senza abitazione permanente ne fu censito 1 distrutto $(671773,671774)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni rilevanti: in tutto il territorio comunale le unità edilizie danneggiate più o meno gravemente furono 464; le persone rimaste senzatetto furono 279 (15,5%) su un totale di 1813 abitanti. Fu fortemente danneggiata la chiesa di S.Maria Capocasale; nella chiesa di S.Erasmo, situata nella frazione di Terra Murata, furono riscontrate lesioni alle strutture portati $(052281,745026)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>C0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.1844</lat>
+      <lon>14.8742</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>82</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Samnio-Irpinia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700173</codbib>
+      <autore1>Sant’Antonino Pierozzi</autore1>
+      <titolo1>Chronicorum opus in tres partes divisum ab orbe condito, annum usque 1459, 3 voll.</titolo1>
+      <luogoed>Lyon</luogoed>
+      <datacompl>1586</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671880</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Atti amministrativi, b.49 (1930), 20000.A, Terremoto del 23 luglio 1930 del Vulture, sottofasc.20, Provincie, Provincia di Benevento, Specchio riassuntivo delle vittime e dei danni.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130544</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1930.07.27-28, a.8, n.178.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671364</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Terremoto del Vulture, Lettera del commissario straordinario dell’Associazione proprietari di fabbricati di Napoli avvocato Franco Spinelli alla Federazione nazionale fascista proprietari di fabbricati, Napoli 26 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671686</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 23 luglio al 27 luglio, n.35567, Telegramma del prefetto di Benevento al Ministero dell’Interno Gabinetto, Benevento 25 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671704</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1930, Telegrammi in arrivo dal 27 luglio al 31 luglio, n.36145, Telegramma del prefetto di Benevento al Ministero dell’Interno Gabinetto, Benevento 27 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671864</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Atti amministrativi, b.49 (1930), 20000.A, Terremoto del 23 luglio 1930 del Vulture, sottofasc.14, Denunzie di malattie infettive, disposizioni di massima, Benevento, Lettera del prefetto di Benevento al sottosegretario ai Lavori Pubblici Leoni, Benevento 4 agosto 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671773</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.12C, Pubblicazioni, Relazione della Confederazione Nazionale Fascista degli Agricoltori riguardante il censimento delle abitazioni rurali danneggiate o distrutte dal terremoto del 23 luglio u.s., Lettera del presidente della Confederazione Nazionale Fascista degli Agricoltori al Ministero dei Lavori Pubblici Direzione Generale Servizi Speciali, Roma ottobre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671774</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Presidenza del Consiglio dei Ministri, b.1204 (1930), fasc.3-2.3, 11913, Terremoto del Vulture, Campania, Irpinia, Puglie (23 luglio 1930 VIII), sottofasc.12C, Pubblicazioni, Relazione della Confederazione Nazionale Fascista degli Agricoltori riguardante il censimento delle abitazioni rurali danneggiate o distrutte dal terremoto del 23 luglio u.s., Elenco dei fabbricati rurali distrutti nei comuni delle provincie di Avellino e Benevento colpiti dal terremoto, Roma ottobre 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052281</codbib>
+      <autore1>Ministero per i Beni Culturali e Ambientali ­ Soprintendenza generale agli interventi post-sismici in Campania e Basilicata</autore1>
+      <titolo1>Dopo la polvere. Rilevazione degli interventi di recupero post-sismico del patrimonio archeologico, architettonico ed artistico delle regioni Campania e Basilicata danneggiato dal terremoto del 23 novembre 1980 e del 14 febbraio 1981 (anni 1985-1989), a cura di G.Proietti, 5 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1980.12.06, a.89, n.311.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

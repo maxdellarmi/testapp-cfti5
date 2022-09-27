@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053136.00</nloc_cfti>
+      <desloc_cfti>Sant’Anatolia</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>42.1479</lat_wgs84>
+      <lon_wgs84>13.2939</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18754</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040224</datanum>
+      <data_label>1904 02 24</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>15:53:26</time_label>
+      <ora>15</ora>
+      <minu>53</minu>
+      <sec>26</sec>
+      <lat>42.0975</lat>
+      <lon>13.3162</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>56</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>In questa frazione del comune di Borgocollefegato (oggi Borgorose) i tecnici del Genio civile ordinarono la demolizione di 6 case pericolanti e l’immediato puntellamento di altre 5. Nelle 24 abitazioni che risultarono lesionate in più punti fu ordinato di porre in opera le catene $(235476,000016,583271)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto distrusse o rese inabitabili gran parte delle case causando la morte di 100 persone $(146389,146422,146463,146451)$. Nella chiesa di S.Nicola cadde la volta e fu gravemente danneggiata la facciata; nel Santuario, situato nei pressi del centro, abitato crollarono parti del tetto e si verificarono lesioni nei muri $(635035,635042)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>235476</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto nella Marsica del 24 febbraio 1904, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.411-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583271</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7923, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146389</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1915.01.17.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146422</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.01.19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146463</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1915.01.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146451</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.10, Diocesi di Rieti. Elenco delle parrocchie danneggiate dal terremoto del 13 gennaio 1915 e di quelle in cui è necessaria la costruzione di baracche-chiesa, Rieti 23 febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1915, rubrica 36 (Disastri), fasc.11, Diocesi di Rieti. Elenco delle chiese danneggiate dal terremoto del 13 gennaio 1915 e spese approssimative necessarie per il restauro o la ricostruzione, Rieti 26 marzo 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

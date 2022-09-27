@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>02062</nterr>
+      <nperiod>003096</nperiod>
+      <datanum>17551101</datanum>
+      <data_label>1755 11 01</data_label>
+      <anno>1755</anno>
+      <mese>11</mese>
+      <giorno>01</giorno>
+      <time_label>08:40:00</time_label>
+      <ora>08</ora>
+      <minu>40</minu>
+      <sec>00</sec>
+      <lat>40.8953</lat>
+      <lon>12.9587</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.8</mm>
+      <earthquakelocation>Isola di Ponza</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del catalogo PFG (1985), costituita dal catalogo dei terremoti del Lazio di Dell’Olio e Molin (1980) $(745088)$, ed è stata svolta una ricerca bibliografica.&lt;br&gt;Tutta la tradizione sismologica, da Mercalli (1894) $(130408)$, a Baratta (1901) $(000001)$, allo studio più recente di Spadea et al. (1985) $(130410)$, si rifà per questo evento a una unica fonte, peraltro indiretta: il resoconto riportato dal naturalista inglese Hamilton (1786) $(130409)$. Quest’ultimo nel corso di un viaggio di studio all’isola di Ponza, nel 1785 (quindi a 30 anni di distanza dall’evento), raccolse il racconto del governatore dell’isola che fu testimone del terremoto.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Ponza, la maggiore delle isole dell’arcipelago Ponziano, faceva parte all’epoca del regno di Napoli. Dopo un lungo periodo in cui era stata quasi disabitata, era stata da poco tempo ripopolata per iniziativa del re Carlo VI che vi aveva mandato circa 50 famiglie, provenienti in massima parte dall’isola d’Ischia, alcuni frati Cappuccini e una guarnigione di soldati contro gli assalti dei corsari.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Secondo l’unica testimonianza disponibile, la scossa avvenne lo stesso giorno e alla stessa ora del grande terremoto di Lisbona del 1º novembre 1755 (ore 8:40 GMT) e causò danni ingenti a tutte le case allora esistenti sull’isola di Ponza.&lt;br&gt;Il risentimento del grande terremoto che distrusse quasi totalmente la capitale portoghese si estese a un’area vastissima comprendente anche l’Italia: fu sentito infatti soprattutto in alcune città del nord, ma non causò alcun danno. La scossa che colpì l’isola di Ponza fu perciò certamente di origine locale e probabilmente il suo avvenimento si sovrappose, nel ricordo dell’unico testimone, così lontano nel tempo, a quello del più famoso terremoto di Lisbona, che colpì molto l’opinione pubblica e l’immaginario dei contemporanei. In mancanza di altri riscontri si è deciso tuttavia di confermare la datazione e l’orario tradizionalmente riportati dai cataloghi nazionali.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130408</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Note geologiche e sismiche sulle isole di Ponza, in "Atti della Reale Accademia delle Scienze Fisiche e Matematiche di Napoli", s.II, vol.6, n.10.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1894</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130409</codbib>
+      <autore1>Hamilton W.</autore1>
+      <titolo1>Some particulars of the present state of Mount Vesuvius, with the Account of a journey into the province of Abruzzo and a voyage to the Island of Ponza, in "Philosophical Transactions", vol.76, pp.1-18.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1786</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130410</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Ponza earthquake of September 1, 1755, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.163.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745088</codbib>
+      <autore1>Dell’Olio A. e Molin D.</autore1>
+      <titolo1>Catalogo macrosismico del Lazio dall’anno 1000 al 1975, ENEA (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Ponza</desloc>
+      <lat_wgs84>40.8953</lat_wgs84>
+      <lon_wgs84>12.9587</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>02062</nterr>
+      <nloc_cfti>054623.00</nloc_cfti>
+      <desloc_cfti>Ponza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto avvenne il 1º novembre 1755 alle ore 8:40 GMT e causò crolli o danni gravi a due terzi delle case esistenti sull’isola $(130409)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

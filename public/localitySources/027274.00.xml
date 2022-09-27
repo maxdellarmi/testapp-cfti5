@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027274.00</nloc_cfti>
+      <desloc_cfti>Possagno</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>45.8548</lat_wgs84>
+      <lon_wgs84>11.8805</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06088</nterr>
+      <nperiod>000182</nperiod>
+      <datanum>18360612</datanum>
+      <data_label>1836 06 12</data_label>
+      <anno>1836</anno>
+      <mese>06</mese>
+      <giorno>12</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.8077</lat>
+      <lon>11.8233</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>27</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Prealpi venete</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa causò notevoli danni alle abitazioni, tuttavia rimasero illesi il tempio, il ponte che era stato costruito da poco e la nuova fabbrica della Galleria Canoviana $(000001,071265,050398,600655,490328)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto causò il crollo di 163 case e della chiesa Madre $(780016,500090)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>780016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica di Bassano del Grappa, Manoscritti, 33-B-19-1, Mario Sale, Memorie sulla storia di Bassano, sec.XVI, copia Lugo Zerbino sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500090</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Treviso, filza 91, Lettera del Podestà G.B.Giovanelli, Treviso, 24 settembre 1695, relativa all’esenzione delle tasse da accordare al comune di Possagno.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050398</codbib>
+      <autore1>Piovene G.</autore1>
+      <titolo1>Cronaca dei terremoti a Vicenza, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, a.1886, parte 4, pp.45-57.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600655</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1836.07.12, n.148.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1836</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490328</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Terremoti sentiti in diversi punti del Globo nell’anno 1836, in "Biblioteca Italiana", a.22, tomo 86 (aprile-giugno 1837), pp.425-429.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

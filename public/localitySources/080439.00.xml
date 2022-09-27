@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080439.00</nloc_cfti>
+      <desloc_cfti>Naters</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>46.3283</lat_wgs84>
+      <lon_wgs84>7.9884</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02067</nterr>
+      <nperiod>003192</nperiod>
+      <datanum>17551209</datanum>
+      <data_label>1755 12 09</data_label>
+      <anno>1755</anno>
+      <mese>12</mese>
+      <giorno>09</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.316</lat>
+      <lon>7.9849</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>73</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò gravi danni: tutte le case furono danneggiate; crollò il tetto della chiesa parrocchiale $(052146,095109)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095109</codbib>
+      <autore1>Bertrand E.</autore1>
+      <titolo1>Memoire sur les tremblemens de terre, nouvelle edition.</titolo1>
+      <luogoed>Vevey</luogoed>
+      <datacompl>1756</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

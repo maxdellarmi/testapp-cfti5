@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>013514.00</nloc_cfti>
+      <desloc_cfti>Morimondo</desloc_cfti>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>45.3529</lat_wgs84>
+      <lon_wgs84>8.9531</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00189</nterr>
+      <nperiod>000031</nperiod>
+      <datanum>13041023</datanum>
+      <data_label>1304 10 23</data_label>
+      <anno>1304</anno>
+      <mese>10</mese>
+      <giorno>23</giorno>
+      <time_label>00:45</time_label>
+      <ora>00</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>45.0109</lat>
+      <lon>10.148</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42102</nterr>
+      <nperiod>009079</nperiod>
+      <datanum>13121014</datanum>
+      <data_label>1312 10 14</data_label>
+      <anno>1312</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>11:15</time_label>
+      <ora>11</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3529</lat>
+      <lon>8.9531</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Morimondo (MI)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42849</nterr>
+      <nperiod>009760</nperiod>
+      <datanum>13041218</datanum>
+      <data_label>1304 12 18</data_label>
+      <anno>1304</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.3529</lat>
+      <lon>8.9531</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>1</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Morimondo (MI)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>150387</codbib>
+      <autore1>*</autore1>
+      <titolo1>Calendario (secc.XIII-XIV), in "Alcune notizie sul monastero di Morimondo", a cura di Giulio Porro, "Archivio Storico Lombardo", a.8, pp.626-8.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

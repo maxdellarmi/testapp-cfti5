@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00537</nterr>
+      <nperiod>003177</nperiod>
+      <datanum>15090419</datanum>
+      <data_label>1509 04 19</data_label>
+      <anno>1509</anno>
+      <mese>04</mese>
+      <giorno>19</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.324</lat>
+      <lon>11.8646</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5</mm>
+      <earthquakelocation>Faentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca su fonti memorialistiche edite e manoscritte. Baratta (1901) $(000001)$, fonte del Catalogo per questo evento, riprese le notizie del terremoto dagli "Annali delle epidemie" di Corradi (1865-1892) $(060014)$ e dalla raccolta documentaria di Malvasia pubblicata da De Rossi (1889) $(030123)$.&lt;br&gt;Ha dato esito negativo il tentativo di approfondire il quadro degli effetti attraverso il vaglio delle fonti memorialistiche coeve conservate nella Biblioteca Comunale Manfrediana di Faenza. Il terremoto, infatti, non è ricordato né nella cronaca di Bernardino Azzurrini (72/II-III, sec.XVI) $(395666)$, né nell’anonima "Cronica pro conventu Sancti Andreae..." (83, sec.XVI) $(395667)$. Al riguardo è da notare che l’attenzione degli osservatori coevi si concentro sulla contemporanea congiuntura politica (proprio nell’aprile 1509 il territorio faentino passò dal dominio veneziano a quello pontificio): ciò giustifica l’assenza di notizie sull’evento sismico.&lt;br&gt;Per quanto riguarda le città romagnole vicine, il terremoto è attestato per Cesena nella cronaca di Giuliano Fantaguzzi (ed. 1915) $(395276)$ e per Forlì dalla "Cronaca Albertina" (Biblioteca Comunale Saffi di Forlì, Piancastelli, O.IV.18), mentre non è ricordato nelle "Cronache Forlivesi" di Andrea Bernardi (ed. 1895-1897) $(395275)$.&lt;br&gt;Corradi utilizzò la coeva "Cronaca di Bologna dal 1494 al 1513" dell’erudito bolognese Giacomo Zili, conservata manoscritta alla Biblioteca Universitaria di Bologna (779, sec.XVI) $(745239)$. Zili ricordò una scossa che colpì la Romagna il 19 aprile 1509, causando danni a Solarolo e a Faenza, senza menzionare effetti di risentimento a Bologna. Nella raccolta documentaria De Rossi-Malvasia, che cita il manoscritto dell’erudito bolognese Antonio Francesco Ghiselli, il terremoto è ricordato segnalandone il risentimento anche a Bologna. Tuttavia, nel testo originale di Ghiselli (Biblioteca Universitaria di Bologna, 770) $(410041)$, la scossa non è invece ricordata: evidentemente, fu inferita o da Malvasia o da De Rossi. D’altra parte il terremoto non è menzionato né nell’opera di Ghirardacci (ed. 1912-1932) $(090058)$, autore bolognese del Cinquecento, che utilizzò cronache documentarie dirette, né nella coeva cronaca bolognese di Friano Ubaldini (Biblioteca Universitaria di Bologna, 430) $(395280)$. Ciò consente di escludere l’ampliamento dell’area di risentimento della scossa a Bologna.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>L’area della Romagna colpita dal terremoto era contesa, agli inizi del XVI secolo, tra la dominazione pontificia, le diverse signorie locali e la Repubblica di Venezia. Faenza subì nel primo decennio del Cinquecento numerosi cambi di dominazione: nel 1501 Astorgio I, discendente di una famiglia di capitani che governavano la città con funzioni di vicari ecclesiastici, venne cacciato da Cesare Borgia. Nel 1504 la città fu conquistata dai Veneziani, che tuttavia nel 1509, l’anno del terremoto, la perdettero a favore dello Stato Pontificio.&lt;br&gt;Sorte simile ebbe la fortezza di Solarolo. Distrutta nel 1466, era stata ricostruita da Caterina Sforza alla fine del Quattrocento. Dal 1501 sotto il dominio di Cesare Borgia e conquistata da Venezia nel 1505, nel 1509 tornò sotto l’autorità pontificia che la assegnò al territorio faentino. Papa Leone X nel 1513 la vendette a Sigismondo Gonzaga per 40.000 scudi.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 19 aprile 1509 e colpì un’area ristretta della Romagna, limitata a Faenza e al vicino centro fortificato di Solarolo, dove causò dissesti e crolli parziali di edifici pubblici e di strutture militari; fu sentita fortemente a Forlì e a Cesena; a Bologna non fu avvertita.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052122</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica dal 1500 al 1965 in Garfagnana, Mugello e Forlivese, CNEN, RT/GEO (68) 19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060014</codbib>
+      <autore1>Corradi A.</autore1>
+      <titolo1>Annali delle epidemie occorse in Italia dalle prime memorie fino al 1850 compilati con varie note e dichiarazioni, 5 voll. (ristampa anastatica, Bologna 1972-73).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1865 - 1894</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090058</codbib>
+      <autore1>Ghirardacci C.</autore1>
+      <titolo1>Della historia di Bologna. Parte terza, ed. A.Sorbelli, in "Rerum Italicarum Scriptores", 2ª ed., tomo 33, parte 1 e 2.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1912 - 1932</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091481</codbib>
+      <autore1>Alberti Leandro</autore1>
+      <titolo1>Historie di Bologna 1479-1543, a cura di A.Antonelli e M.R.Musti, 3 voll. (Collana di cronache bolognesi d’epoca medioevale moderna e contemporanea, 10).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>2006</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395275</codbib>
+      <autore1>Bernardi Andrea (Novacula)</autore1>
+      <titolo1>Cronache Forlivesi dal 1476 al 1517 (sec.XVI), ed. G.Mazzatinti, in "Dei Monumenti istorici pertinenti alle Provincie della Romagna", s.III (Cronache), tomo 3, 3 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1895 - 1897</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395276</codbib>
+      <autore1>Fantaguzzi Giuliano</autore1>
+      <titolo1>Caos. Cronache Cesenati del Sec.XV [1460-1521] (sec.XVI), ed. D.Bazzocchi.</titolo1>
+      <luogoed>Cesena</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395280</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 430, Friano Ubaldini, Cronaca di Bologna che comincia dalla Creazione del Mondo et arriva fino all’anno di N.S. 1513, 4 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395666</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 72/II-III, Bernardino Azzurrini, Cronica di Faenza, 2 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395667</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Manfrediana di Faenza, Manoscritti, 83, Cronica pro conventu Sancti Andreae de Faventia, provincia Lombardiae, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Raccolta Piancastelli, O.IV.18, Cronaca Albertina, Miscellanea di cronache dei secc.XIV-XVI raccolte e copiate da B.Albicini (1720), copia A.Balducci 1807-1808.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1807 - 1808</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410041</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 770, Antonio Francesco Ghiselli, Memorie antiche manuscritte di Bologna, raccolte, et accresciute sino à tempi presenti [origini-1729], 93 voll. + 2 di indici, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745239</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 779, Giacomo Zili, Cronaca di Bologna dal 1494 al 1513, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Faenza</desloc>
+      <lat_wgs84>44.2886</lat_wgs84>
+      <lon_wgs84>11.8809</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00537</nterr>
+      <nloc_cfti>041197.00</nloc_cfti>
+      <desloc_cfti>Faenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò dissesti e crolli parziali nel palazzo del Comune e nella fortezza, come attesta la coeva cronaca bolognese di Giacomo Zili $(745239)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Solarolo</desloc>
+      <lat_wgs84>44.3595</lat_wgs84>
+      <lon_wgs84>11.8482</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00537</nterr>
+      <nloc_cfti>041451.00</nloc_cfti>
+      <desloc_cfti>Solarolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò dissesti e crolli parziali nella fortezza, come attesta la coeva cronaca bolognese di Giacomo Zili $(745239)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cesena</desloc>
+      <lat_wgs84>44.1398</lat_wgs84>
+      <lon_wgs84>12.243</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00537</nterr>
+      <nloc_cfti>041569.00</nloc_cfti>
+      <desloc_cfti>Cesena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, come attesta la coeva cronaca di Giuliano Fantaguzzi $(395276)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Forlì</desloc>
+      <lat_wgs84>44.2174</lat_wgs84>
+      <lon_wgs84>12.049</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>00537</nterr>
+      <nloc_cfti>041710.00</nloc_cfti>
+      <desloc_cfti>Forlì</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, come attesta la coeva "Cronaca Albertina" $(400025)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>00537</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le coeva cronaca di Giacomo Zili ricorda il terremoto romagnolo, ma non fa menzione di effetti di risentimento locali $(745239)$. Le altre cronache bolognesi contemporanee non ricordano l’evento $(090058,395280)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

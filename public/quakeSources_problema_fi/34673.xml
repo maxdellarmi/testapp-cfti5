@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>34673</nterr>
+      <nperiod>002094</nperiod>
+      <datanum>19620916</datanum>
+      <data_label>1962 09 16</data_label>
+      <anno>1962</anno>
+      <mese>09</mese>
+      <giorno>16</giorno>
+      <time_label>14:49:45</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>45</sec>
+      <lat>43.6003</lat>
+      <lon>11.3624</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>19</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Valle del Greve</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092009</codbib>
+      <autore1>Coccia F.</autore1>
+      <titolo1>Attività sismica in Toscana durante il cinquantennio 1930-1980.</titolo1>
+      <luogoed>Prato</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1962.09, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092043</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1962.09.17.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>331041</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1962.09.17.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691692</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1962.09.17, n.38 (edizione del lunedì).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691693</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1962.09.18, n.213.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cintoia</desloc>
+      <lat_wgs84>43.6384</lat_wgs84>
+      <lon_wgs84>11.3399</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>072070.00</nloc_cfti>
+      <desloc_cfti>Cintoia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cintoia Alta</desloc>
+      <lat_wgs84>43.6199</lat_wgs84>
+      <lon_wgs84>11.3631</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>072071.00</nloc_cfti>
+      <desloc_cfti>Cintoia Alta</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Dudda</desloc>
+      <lat_wgs84>43.5984</lat_wgs84>
+      <lon_wgs84>11.3843</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045206.00</nloc_cfti>
+      <desloc_cfti>Dudda</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Greve in Chianti</desloc>
+      <lat_wgs84>43.5826</lat_wgs84>
+      <lon_wgs84>11.3167</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045197.00</nloc_cfti>
+      <desloc_cfti>Greve in Chianti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Lucolena</desloc>
+      <lat_wgs84>43.5728</lat_wgs84>
+      <lon_wgs84>11.3874</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045211.00</nloc_cfti>
+      <desloc_cfti>Lucolena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Panzano</desloc>
+      <lat_wgs84>43.5455</lat_wgs84>
+      <lon_wgs84>11.3152</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045217.00</nloc_cfti>
+      <desloc_cfti>Panzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Castellina in Chianti</desloc>
+      <lat_wgs84>43.4694</lat_wgs84>
+      <lon_wgs84>11.287</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047561.00</nloc_cfti>
+      <desloc_cfti>Castellina in Chianti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gaiole in Chianti</desloc>
+      <lat_wgs84>43.4679</lat_wgs84>
+      <lon_wgs84>11.4335</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047654.00</nloc_cfti>
+      <desloc_cfti>Gaiole in Chianti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Radda in Chianti</desloc>
+      <lat_wgs84>43.4871</lat_wgs84>
+      <lon_wgs84>11.3741</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047857.00</nloc_cfti>
+      <desloc_cfti>Radda in Chianti</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Castelfranco di Sopra</desloc>
+      <lat_wgs84>43.6216</lat_wgs84>
+      <lon_wgs84>11.5547</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>046954.00</nloc_cfti>
+      <desloc_cfti>Castelfranco di Sopra</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Castelnuovo dei Sabbioni</desloc>
+      <lat_wgs84>43.5461</lat_wgs84>
+      <lon_wgs84>11.4553</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047035.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo dei Sabbioni</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cavriglia</desloc>
+      <lat_wgs84>43.5218</lat_wgs84>
+      <lon_wgs84>11.4892</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047046.00</nloc_cfti>
+      <desloc_cfti>Cavriglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Pontassieve</desloc>
+      <lat_wgs84>43.7753</lat_wgs84>
+      <lon_wgs84>11.4404</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045471.00</nloc_cfti>
+      <desloc_cfti>Pontassieve</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>San Giovanni Valdarno</desloc>
+      <lat_wgs84>43.5649</lat_wgs84>
+      <lon_wgs84>11.5303</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047407.00</nloc_cfti>
+      <desloc_cfti>San Giovanni Valdarno</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Santa Barbara</desloc>
+      <lat_wgs84>43.5664</lat_wgs84>
+      <lon_wgs84>11.4833</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>047051.00</nloc_cfti>
+      <desloc_cfti>Santa Barbara</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Prato</desloc>
+      <lat_wgs84>43.8803</lat_wgs84>
+      <lon_wgs84>11.0959</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>045527.00</nloc_cfti>
+      <desloc_cfti>Prato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Borgo San Lorenzo</desloc>
+      <lat_wgs84>43.9539</lat_wgs84>
+      <lon_wgs84>11.3883</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>34673</nterr>
+      <nloc_cfti>044699.00</nloc_cfti>
+      <desloc_cfti>Borgo San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

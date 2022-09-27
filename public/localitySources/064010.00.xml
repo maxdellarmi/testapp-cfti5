@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064010.00</nloc_cfti>
+      <desloc_cfti>San Pietro</desloc_cfti>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>39.4054</lat_wgs84>
+      <lon_wgs84>16.0312</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09450</nterr>
+      <nperiod>003027</nperiod>
+      <datanum>18701004</datanum>
+      <data_label>1870 10 04</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>16:55</time_label>
+      <ora>16</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>39.2202</lat>
+      <lon>16.331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Cosentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>18</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Una recente revisione scientifica $(001317)$ attribuisce a questa località un valore di intensità pari al V grado MCS, senza fornire descrizioni degli effetti.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001317</codbib>
+      <autore1>Bottari A., Federico B., Lo Giudice E. e Pandolfo C.</autore1>
+      <titolo1>The Mangone earthquake of October 4, 1870, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.92-93.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300340</codbib>
+      <autore1>Conti D.</autore1>
+      <titolo1>Memoria e statistica sui terremoti della provincia di Cosenza nel 1870.</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>002082.99</nloc_cfti>
+      <desloc_cfti>Salza di Pinerolo</desloc_cfti>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.9405</lat_wgs84>
+      <lon_wgs84>7.051</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02041</nterr>
+      <nperiod>003081</nperiod>
+      <datanum>17530309</datanum>
+      <data_label>1753 03 09</data_label>
+      <anno>1753</anno>
+      <mese>03</mese>
+      <giorno>09</giorno>
+      <time_label>13:15:00</time_label>
+      <ora>13</ora>
+      <minu>15</minu>
+      <sec>00</sec>
+      <lat>44.9418</lat>
+      <lon>7.1802</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>16</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle del Chisone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Le scosse danneggiarono la chiesa e la casa del vicario, che dovette abbandonare l’abitazione e alloggiare altrove. Le lesioni riguardarono anche il muro del giardino della chiesa, per la riparazione del quale furono spese 39 lire $(230001,230002)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>230001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Torino, Sezione I, Casa Reale, Lettere di vescovi, Pinerolo (1749-1755), Lettera del vescovo di Pinerolo G.B. d’Orliè de Saint Innocent al conte di Saint Laurent, Pinerolo 20 maggio 1753.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1753</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Torino, Sezione I, Casa Reale, Lettere di vescovi, Pinerolo (1749-1755), Rendiconto delle spese effettuate dalla Congregazione del Reale Ospizio di Pinerolo per il restauro e la manutenzione delle chiese di real patronato, Pinerolo febbraio 1754.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1754</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

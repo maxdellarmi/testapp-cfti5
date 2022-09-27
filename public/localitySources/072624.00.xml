@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072624.00</nloc_cfti>
+      <desloc_cfti>Montione</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>43.5421</lat_wgs84>
+      <lon_wgs84>12.204</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16303</nterr>
+      <nperiod>003253</nperiod>
+      <datanum>18971218</datanum>
+      <data_label>1897 12 18</data_label>
+      <anno>1897</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>07:24:20</time_label>
+      <ora>07</ora>
+      <minu>24</minu>
+      <sec>20</sec>
+      <lat>43.4966</lat>
+      <lon>12.3781</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>132</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò lesioni nella volta della chiesa rendendola pericolante $(110551,000006)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110551</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.32, Relazione del direttore dell’Osservatorio di Città di Castello A.Bini sul periodo sismico degli anni 1897-98 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Città di Castello 16 febbraio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

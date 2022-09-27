@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>50080</nterr>
+      <nperiod>005097</nperiod>
+      <datanum>09760120</datanum>
+      <data_label>976 01 20</data_label>
+      <anno>976</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.5851</lat>
+      <lon>9.2736</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Monza</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La testimonianza è rappresentata da una "notula" aggiunta a un codice manoscritto dell’"Historia Langobardorum" di Paolo Diacono, databile all’XI o XII secolo $(093062)$. Il tipo di testo, assieme a quello delle altre "notulae" che la seguono e la precedono, e la presenza di molti dettagli descrittivi fanno pensare che l’originale estensore sia stato testimone diretto degli eventi. Infatti, il breve accenno al terremoto è incluso tra la segnalazione dell’apparizione di una cometa (osservata anche dagli astronomi cinesi, Ho Peng Yoke 1962) sotto l’impero di Ottone II (967-983), nel mese di agosto dell’anno 975, e la descrizione di un’eclisse di luna, avvenuta nella notte tra il 19 e il 20 gennaio 976. Il testo della "notula" era stato pubblicato da Bianchi (1723) $(093080)$ nell’introduzione all’edizione muratoriana dell’"Historia Langobardorum" di Paolo Diacono, e successivamente da Frisi (1794) $(610003)$. Sul manoscritto, conservato presso la Biblioteca Capitolare di Monza, è stata eseguita l’analisi autoptica del testo. Questo terremoto è noto alla tradizione dei cataloghi sismici a partire dal XIX secolo.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>È segnalata un’eclissi lunare nella notte tra il 19 e il 20 gennaio 976, alcune ore prima del terremoto $(093062)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Forte scossa sentita a Monza, senza ulteriori specificazioni degli effetti $(093062)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093043</codbib>
+      <autore1>Guidoboni E. (a cura di)</autore1>
+      <titolo1>I terremoti prima del Mille in Italia e nell’area mediterranea. Storia archeologia sismologia, Catalogo, pp.574-751.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1989</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Capitolare di Monza, Manoscritti, 6B 45 (b18-135), f.23r, Notula aggiunta a una copia di un codice manoscritto dell’"Historia Langobardorum" di Paolo Diacono, riguardante un terremoto avvenuto a Monza il 20 gennaio 976 d.C.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XI sec. - XII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093071</codbib>
+      <autore1>Alexandre P.</autore1>
+      <titolo1>Les séismes en Europe occidentale de 394 à 1259. Nouveau catalogue critique.</titolo1>
+      <luogoed>Brussels</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093080</codbib>
+      <autore1>Bianchi O.</autore1>
+      <titolo1>[Prefazione] a Paolo Diacono, De gestis Langobardorum, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 1/1.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1723</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093088</codbib>
+      <autore1>Cappelli A.</autore1>
+      <titolo1>Cronologia, cronografia, calendario perpetuo, 5a ed.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1983</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093121</codbib>
+      <autore1>Ho Peng Yoke</autore1>
+      <titolo1>Ancient and mediaeval observations of comets and novae in Chinese sources, in "Vistas in Astronomy", vol.5, pp.127-225.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093199</codbib>
+      <autore1>Waitz G.</autore1>
+      <titolo1>Introduzione a Paolo Diacono, "Historia Langobardorum", in "Monumenta Germaniae Historica", SRG in usum scholarum separatim editi, vol.48.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1878</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>093201</codbib>
+      <autore1>Guidoboni E., Comastri A. e Traina G.</autore1>
+      <titolo1>Catalogue of ancient earthquakes in the Mediterranean area up to the 10th century.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1994</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>610003</codbib>
+      <autore1>Frisi A.-F.</autore1>
+      <titolo1>Memorie storiche di Monza e sua corte raccolte ed esaminate dal canonico Anton Francesco Frisi, 3 voll. (ristampa anastatica, Bologna 1970).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1794</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monza</desloc>
+      <lat_wgs84>45.5851</lat_wgs84>
+      <lon_wgs84>9.2736</lon_wgs84>
+      <provlet>MB</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>50080</nterr>
+      <nloc_cfti>013492.00</nloc_cfti>
+      <desloc_cfti>Monza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Grande scossa di terremoto avvenuta poche ore dopo un’eclissi di luna $(093062)$. Non sono riportate altre informazioni.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080077.00</nloc_cfti>
+      <desloc_cfti>Veli Losinj</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.5164</lat_wgs84>
+      <lon_wgs84>14.508</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10615</nterr>
+      <nperiod>000720</nperiod>
+      <datanum>18750317</datanum>
+      <data_label>1875 03 17</data_label>
+      <anno>1875</anno>
+      <mese>03</mese>
+      <giorno>17</giorno>
+      <time_label>23:51</time_label>
+      <ora>23</ora>
+      <minu>51</minu>
+      <sec>-9</sec>
+      <lat>44.0625</lat>
+      <lon>12.5467</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>144</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa causò scuotimento di mobili e di oggetti appesi alle pareti $(020940)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30094</nterr>
+      <nperiod>003119</nperiod>
+      <datanum>19301030</datanum>
+      <data_label>1930 10 30</data_label>
+      <anno>1930</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>07:13:06</time_label>
+      <ora>07</ora>
+      <minu>13</minu>
+      <sec>06</sec>
+      <lat>43.674</lat>
+      <lon>13.2738</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>249</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche settentrionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non sono note descrizioni degli effetti. Cavasino attribuisce il II grado della scala Mercalli $(050098)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>39414</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760915</datanum>
+      <data_label>1976 09 15</data_label>
+      <anno>1976</anno>
+      <mese>09</mese>
+      <giorno>15</giorno>
+      <time_label>09:21:18</time_label>
+      <ora>09</ora>
+      <minu>21</minu>
+      <sec>18</sec>
+      <lat>46.2587</lat>
+      <lon>13.1101</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il 15 settembre, alle 11:22 (9:22 GMT), fu avvertita una scossa $(090503)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020940</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Documenti, nuove note e riflessioni sul terremoto della notte 17-18 marzo 1875, in "Supplemento alla Meteorologia Italiana", a.1875, fasc.4, pp.3-51.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1876</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050098</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1930, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090503</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA Documentazione Elettronica, Notiziario italiano, maggio-settembre 1976.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

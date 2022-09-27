@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>039432.00</nloc_cfti>
+      <desloc_cfti>Sassoleone</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.2614</lat_wgs84>
+      <lon_wgs84>11.4818</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10519</nterr>
+      <nperiod>003210</nperiod>
+      <datanum>18741007</datanum>
+      <data_label>1874 10 07</data_label>
+      <anno>1874</anno>
+      <mese>10</mese>
+      <giorno>07</giorno>
+      <time_label>15:48</time_label>
+      <ora>15</ora>
+      <minu>48</minu>
+      <sec>-9</sec>
+      <lat>44.1957</lat>
+      <lon>11.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>46</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa segnalata alle ore 15:54 GMT (ore 16:44 locali t.m. Roma) fece cadere muri, soffitti, fumaioli anche nei luoghi limitrofi del fiume Sillaro $(050090,747126,130562)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050090</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici [e cronologici] dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni dall’Agosto 1873 a tutto il Novembre 1874, in "Bullettino del Vulcanismo Italiano", a.3, pp.I-XLVIII.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1876</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>747126</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Analisi dei tre maggiori terremoti italiani avvenuti nel 1874 in ordine specialmente alle fratture del suolo, in "Atti dell’Accademia Pontificia de’ Nuovi Lincei", vol.28, pp.14-92.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1875</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130562</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ancora, 1874.10.08, n.227.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1874</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

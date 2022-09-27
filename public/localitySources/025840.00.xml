@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>025840.00</nloc_cfti>
+      <desloc_cfti>Villaverla</desloc_cfti>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.6527</lat_wgs84>
+      <lon_wgs84>11.4913</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110492)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110492</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.192, Cartolina macrosismica relativa al terremoto del 16 gennaio 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Villaverla 16 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

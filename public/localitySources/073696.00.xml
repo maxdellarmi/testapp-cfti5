@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073696.00</nloc_cfti>
+      <desloc_cfti>Sant’Eutizio</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.8722</lat_wgs84>
+      <lon_wgs84>13.0647</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01656</nterr>
+      <nperiod>003091</nperiod>
+      <datanum>17300512</datanum>
+      <data_label>1730 05 12</data_label>
+      <anno>1730</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.7533</lat>
+      <lon>13.1196</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>115</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò gravi danni alle strutture murarie dell’abbazia, ma non vi furono vittime $(095087)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01450</nterr>
+      <nperiod>003282</nperiod>
+      <datanum>17190627</datanum>
+      <data_label>1719 06 27</data_label>
+      <anno>1719</anno>
+      <mese>06</mese>
+      <giorno>27</giorno>
+      <time_label>06:30</time_label>
+      <ora>06</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>42.8773</lat>
+      <lon>13.0468</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>16</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Alta Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La lettera del medico Cocchi datata 28 giugno definisce il centro come quasi in rovina $(095487)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095087</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relazione del Terremoto sucesso nella Città di Norcia, e suo Contado il dì 12 Maggio 1730.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1730</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095487</codbib>
+      <autore1>Cocchi A.C.</autore1>
+      <titolo1>De immani hysterico affectu. Illustrissimo Domino Jo: Mariæ Lancisio Clementis XI Archiatro, &amp; intimo Cubiculario Antonius Cocchius S. [Cascia 28 giugno 1719], in T.Sydenham, "Opera Medica", p.355.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1762</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

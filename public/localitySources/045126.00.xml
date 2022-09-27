@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045126.00</nloc_cfti>
+      <desloc_cfti>Pietramala</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.1652</lat_wgs84>
+      <lon_wgs84>11.3348</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31614</nterr>
+      <nperiod>002084</nperiod>
+      <datanum>19390211</datanum>
+      <data_label>1939 02 11</data_label>
+      <anno>1939</anno>
+      <mese>02</mese>
+      <giorno>11</giorno>
+      <time_label>11:16:54</time_label>
+      <ora>11</ora>
+      <minu>16</minu>
+      <sec>54</sec>
+      <lat>44.0184</lat>
+      <lon>11.4201</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>35</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33588</nterr>
+      <nperiod>002089</nperiod>
+      <datanum>19560426</datanum>
+      <data_label>1956 04 26</data_label>
+      <anno>1956</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>03:00:03</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>03</sec>
+      <lat>44.2047</lat>
+      <lon>11.3329</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>75</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

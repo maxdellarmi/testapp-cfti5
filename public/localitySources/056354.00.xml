@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056354.00</nloc_cfti>
+      <desloc_cfti>Frattura</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10.5</maxint>
+      <lat_wgs84>41.9302</lat_wgs84>
+      <lon_wgs84>13.8715</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01348</nterr>
+      <nperiod>003089</nperiod>
+      <datanum>17061103</datanum>
+      <data_label>1706 11 03</data_label>
+      <anno>1706</anno>
+      <mese>11</mese>
+      <giorno>03</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.0765</lat>
+      <lon>14.0795</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>99</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Maiella</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Crollo di quasi tutte le abitazioni e morti imprecisati $(900285)$; una perizia redatta a circa un anno di distanza dal terremoto conferma la distruzione di quasi tutti gli edifici a eccezione di pochi muri rimasti in piedi, ma inservibili e da abbattere, e segnala anche il crollo della chiesa Madre di S.Nicolò $(775001)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10.5</intpqnum>
+      <intpq>X-XI</intpq>
+      <D1>La scossa, della durata di circa 30 secondi, causò il crollo completo delle 150 case che componevano l’abitato, la morte di 180 persone e il ferimento di 150 dei 400 abitanti presenti $(143325,583133,146477)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>900285</codbib>
+      <autore1>Colarossi-Mancini A.</autore1>
+      <titolo1>Storia di Scanno e guida nella Valle del Sagittario.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1921</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di L’Aquila, Sezione di Sulmona, Notarile, notaio E.Ciancarella, b.133, vol.15, cc.80-81r, Perizia e stima dei danni causati in località Frattura dal terremoto del 1706, Scanno 9 dicembre 1707.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1707</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143325</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Questionario macrosismico compilato dal Comune di Scanno sugli effetti causati dal terremoto del 13 gennaio 1915 nelle località del territorio comunale, Scanno 8 febbraio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dall’1 gennaio al 13 gennaio, n.911, Telegramma da Sulmona al Ministero dell’Interno relativo ai danni causati nel circondario dal terremoto del 13 gennaio 1915, Sulmona 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146477</codbib>
+      <autore1>*</autore1>
+      <titolo1>Marsica. Nel primo anniversario del terremoto del 13 gennaio 1915.</titolo1>
+      <luogoed>Subiaco</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

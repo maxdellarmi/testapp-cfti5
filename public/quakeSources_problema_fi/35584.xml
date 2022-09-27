@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>35584</nterr>
+      <nperiod>000640</nperiod>
+      <datanum>19670113</datanum>
+      <data_label>1967 01 13</data_label>
+      <anno>1967</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>10:32:35</time_label>
+      <ora>10</ora>
+      <minu>32</minu>
+      <sec>35</sec>
+      <lat>44.2994</lat>
+      <lon>9.3529</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>2</io>
+      <imax>2</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3</mm>
+      <earthquakelocation>Riviera ligure di levante</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Voghera, 1932-1967.</titolo1>
+      <luogoed>Voghera (PV)</luogoed>
+      <datacompl>1932 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030245</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1952-1967.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1952 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070386</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1967.01, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071261</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1967.01.14, n.11.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo dell’Oltrepò, 1960-1974.</titolo1>
+      <luogoed>Voghera</luogoed>
+      <datacompl>1960 - 1974</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Chiavari</desloc>
+      <lat_wgs84>44.318</lat_wgs84>
+      <lon_wgs84>9.322</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>35584</nterr>
+      <nloc_cfti>033219.00</nloc_cfti>
+      <desloc_cfti>Chiavari</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Lavagna</desloc>
+      <lat_wgs84>44.3096</lat_wgs84>
+      <lon_wgs84>9.3432</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>35584</nterr>
+      <nloc_cfti>033434.00</nloc_cfti>
+      <desloc_cfti>Lavagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Sestri Levante</desloc>
+      <lat_wgs84>44.2705</lat_wgs84>
+      <lon_wgs84>9.3934</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>35584</nterr>
+      <nloc_cfti>033913.00</nloc_cfti>
+      <desloc_cfti>Sestri Levante</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

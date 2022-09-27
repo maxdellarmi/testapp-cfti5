@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052546.00</nloc_cfti>
+      <desloc_cfti>Porchia</desloc_cfti>
+      <provlet>AP</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.9967</lat_wgs84>
+      <lon_wgs84>13.63</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32283</nterr>
+      <nperiod>003265</nperiod>
+      <datanum>19431003</datanum>
+      <data_label>1943 10 03</data_label>
+      <anno>1943</anno>
+      <mese>10</mese>
+      <giorno>03</giorno>
+      <time_label>08:28:29</time_label>
+      <ora>08</ora>
+      <minu>28</minu>
+      <sec>29</sec>
+      <lat>42.9098</lat>
+      <lon>13.6508</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>131</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Marche meridionali-Abruzzo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Frazione del comune di Montalto delle Marche. Raccichini et al. (1985) hanno valutato l’intensità della scossa di VIII grado MCS, ma non forniscono elementi decrittivi degli effetti $(095183)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095183</codbib>
+      <autore1>Raccichini S., Stucchi M. e Calza W.</autore1>
+      <titolo1>The Castignano earthquake of October 3, 1943, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.144-145.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

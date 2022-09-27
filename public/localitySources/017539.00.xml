@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>017539.00</nloc_cfti>
+      <desloc_cfti>Gambolò</desloc_cfti>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.2592</lat_wgs84>
+      <lon_wgs84>8.8561</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>22483</nterr>
+      <nperiod>000404</nperiod>
+      <datanum>19090810</datanum>
+      <data_label>1909 08 10</data_label>
+      <anno>1909</anno>
+      <mese>08</mese>
+      <giorno>10</giorno>
+      <time_label>00:40</time_label>
+      <ora>00</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.1037</lat>
+      <lon>8.9075</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>14</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Sannazzaro de’ Burgondi (PV)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19253</nterr>
+      <nperiod>003218</nperiod>
+      <datanum>19050429</datanum>
+      <data_label>1905 04 29</data_label>
+      <anno>1905</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>01:46:45</time_label>
+      <ora>01</ora>
+      <minu>46</minu>
+      <sec>45</sec>
+      <lat>46.0163</lat>
+      <lon>7.0109</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>268</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000017)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000017</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1905, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1907 - 1908</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

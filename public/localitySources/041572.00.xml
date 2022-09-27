@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041572.00</nloc_cfti>
+      <desloc_cfti>Calisese</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>44.1019</lat_wgs84>
+      <lon_wgs84>12.303</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09548</nterr>
+      <nperiod>000714</nperiod>
+      <datanum>18701030</datanum>
+      <data_label>1870 10 30</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>18:34</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>-9</sec>
+      <lat>44.1334</lat>
+      <lon>12.0623</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>41</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fu avvertita molto fortemente e causò la morte di una donna per convulsioni $(391588,391589,391590)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>391588</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Sezione di Cesena, Archivio Storico Comunale di Cesena, Carteggio amministrativo, Tit.XXVII (Strade e Fabbricati), Rubrica 9 (Terremoto), 1871 n.3546, Richiesta di sussidio del mezzadro A.Evangelisti di Calisese, frazione del Comune di Cesena, alla Deputazione provinciale di Forlì, Montiano1 febbraio 1871.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391589</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Sezione di Cesena, Archivio Storico Comunale di Cesena, Carteggio amministrativo, Tit.XXVII (Strade e Fabbricati), Rubrica 9 (Terremoto), 1871 n.3546, Certificato del parroco Sante Biondi che attesta la morte di T.Fabbri moglie di A.Evangelisti di Calisese in seguito al terremoto del 30 ottobre 1870, Montiano 31 gennaio 1871.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391590</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Sezione di Cesena, Archivio Storico Comunale di Cesena, Carteggio amministrativo, Tit.XXVII (Strade e Fabbricati), Rubrica 9 (Terremoto), 1871 n.3546, Certificato del medico Giovanni Tormagnini che attesta la morte di T.Fabbri moglie di A.Evangelisti di Calisese in seguito al terremoto del 30 ottobre 1870, Montiano 30 gennaio 1871.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1871</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

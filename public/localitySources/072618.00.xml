@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072618.00</nloc_cfti>
+      <desloc_cfti>Castellammare Adriatico</desloc_cfti>
+      <provlet>PE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.4747</lat_wgs84>
+      <lon_wgs84>14.2011</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11605</nterr>
+      <nperiod>000727</nperiod>
+      <datanum>18810910</datanum>
+      <data_label>1881 09 10</data_label>
+      <anno>1881</anno>
+      <mese>09</mese>
+      <giorno>10</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.2322</lat>
+      <lon>14.2838</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>29</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Abruzzo meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto causò grande spavento agli abitanti; non furono segnalati danni $(672746)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>28415</nterr>
+      <nperiod>003144</nperiod>
+      <datanum>19250924</datanum>
+      <data_label>1925 09 24</data_label>
+      <anno>1925</anno>
+      <mese>09</mese>
+      <giorno>24</giorno>
+      <time_label>13:33:46</time_label>
+      <ora>13</ora>
+      <minu>33</minu>
+      <sec>46</sec>
+      <lat>41.72</lat>
+      <lon>14.1884</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>50</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Molise occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, avvertita leggermente dalla popolazione, durò 3-4s $(745049,672683)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01291</nterr>
+      <nperiod>003088</nperiod>
+      <datanum>17030202</datanum>
+      <data_label>1703 02 02</data_label>
+      <anno>1703</anno>
+      <mese>02</mese>
+      <giorno>02</giorno>
+      <time_label>11:05</time_label>
+      <ora>11</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>42.4351</lat>
+      <lon>13.2917</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>69</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>25</ee_nt>
+      <ee_np>22</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Le fonti non riportano descrizioni degli effetti del terremoto sull’abitato; si possono tuttavia ipotizzare danni gravi in quanto la comunità ottenne un’esenzione fiscale per 1 o 2 anni $(645114)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>672746</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1881.09.12, a.3, n.250.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>645114</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Notamentorum, fascio 144, c.1033 e sgg. n.n., Nota relativa alla stesura dell’elenco delle università del ripartimento di Penne alle quali vanno concesse esenzioni fiscali in seguito ai danni causati dal terremoto del 1703, Napoli 1 ottobre 1703.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1703</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1925.09.25, n.228.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1925</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672683</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1925.09.25-26, a.47, n.228.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1925</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

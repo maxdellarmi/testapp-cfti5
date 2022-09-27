@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>002332.00</nloc_cfti>
+      <desloc_cfti>Crotte</desloc_cfti>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>45.3752</lat_wgs84>
+      <lon_wgs84>7.9051</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11384</nterr>
+      <nperiod>003212</nperiod>
+      <datanum>18800704</datanum>
+      <data_label>1880 07 04</data_label>
+      <anno>1880</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>19:55</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.2736</lat>
+      <lon>8.059</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>86</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente $(001299,070240)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>001299</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [1º gennaio 1880-31 dicembre 1881], in "Bullettino del Vulcanismo Italiano", a.9, pp.47-68, 100-133.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1882</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070240</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti del 4 luglio 1880, in "Bullettino Meteorologico dell’Osservatorio del Real Collegio Carlo Alberto in Moncalieri", vol.15 (1879-80), p.132.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>056205.00</nloc_cfti>
+      <desloc_cfti>Lucoli Alto</desloc_cfti>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.2891</lat_wgs84>
+      <lon_wgs84>13.3494</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04417</nterr>
+      <nperiod>003133</nperiod>
+      <datanum>17860731</datanum>
+      <data_label>1786 07 31</data_label>
+      <anno>1786</anno>
+      <mese>07</mese>
+      <giorno>31</giorno>
+      <time_label>15:35</time_label>
+      <ora>15</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>42.3228</lat>
+      <lon>13.3725</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>7</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Aquilano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa principale, avvenuta il 31 luglio alle ore 15:35 GMT ca., e le successive repliche danneggiarono gravemente l’abitato rendendo inabitabili gran parte delle case $(470285)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>470285</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1786.09.02, n.70.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1785</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

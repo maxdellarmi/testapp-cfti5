@@ -1,0 +1,2234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>17022</nterr>
+      <nperiod>000747</nperiod>
+      <datanum>18990626</datanum>
+      <data_label>1899 06 26</data_label>
+      <anno>1899</anno>
+      <mese>06</mese>
+      <giorno>26</giorno>
+      <time_label>23:17:22</time_label>
+      <ora>23</ora>
+      <minu>17</minu>
+      <sec>22</sec>
+      <lat>43.9588</lat>
+      <lon>11.117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>140</npun>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Bisenzio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita dalle "Notizie sui terremoti... 1899", curate da Cancani (1900) $(000008)$, e dai cataloghi di Cavasino (1935) $(050399)$ e di Peronaci (1974) $(130464)$.&lt;br&gt;Per integrare le informazioni disponibili è stata condotta una ricerca sulle fonti sismologiche e giornalistiche. Nell’Archivio dell’Ufficio Centrale di Ecologia Agraria sono state reperite e analizzate 114 cartoline macrosismiche, inviate da sindaci e osservatori locali all’Ufficio Centrale di Meteorologia e Geodinamica $(001327)$. È stato inoltre utilizzato il "Bollettino Mensuale" dell’Osservatorio di Moncalieri (1899) $(000078)$.&lt;br&gt;Ulteriori informazioni sugli effetti della scossa e sulle reazioni della popolazione sono state tratte dalla stampa quotidiana nazionale e locale; sono state complessivamente utilizzate 13 cronache giornalistiche afferenti a 9 testate $(052192,052193,052194,052195,052196,420379,600422,600423,672759,672760,672761,672762,690673)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C3</codtab>
+      <testocomm>Nelle fonti analizzate si fa più volte riferimento alla caduta di "volterrane": si tratta di un tipo di volta costruita con mattoni messi di taglio, caratteristica dell’architettura di Volterra $(001327)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>A Prato, la popolazione, presa da grande spavento, si riversò all’aperto per trascorrere la notte nelle piazze del Comune, del Duomo, Venti Settembre, Vittorio Emanuele e San Niccolò. A Tizzana alcune famiglie abbandonarono le abitazioni per trascorrere la notte in campagna. A Cantagallo, Vernio, Casellina e Torri la popolazione trascorse la notte all’aperto $(001327,050399,672760)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>Quasi ovunque la scossa fu preceduta da un rombo, di intensità variabile a seconda delle zone. A Prato e nei dintorni la scossa fu preceduta anche da un bagliore, dallo schiamazzo di uccelli e dall’abbaiare dei cani $(001327)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 27 giugno 1899 alle ore 23:17 GMT e colpì la zona pedeappenninica della Toscana centrale, al confine tra le province di Firenze e Pistoia. Gli effetti maggiori furono riscontrati in alcuni centri della valle del fiume Bisenzio: nei paesi di Cantagrilli, Cerbaia, Popigliano, Schignano e Usella vi furono notevoli danni nelle chiese e in varie ville di campagna. A Montemurlo alcuni edifici, anche ben costruiti, subirono gravi lesioni nei muri e molti altri furono lesionati in modo più leggero; caddero fumaioli e solai. A Prato vi furono leggere fenditure nei muri, caduta di calcinacci, di fumaioli, di alcuni solai; nella chiesa del Soccorso cadde una volta, nel palazzo Pretorio crollò un fumaiolo. Leggere lesioni nelle pareti e nei soffitti, caduta di alcuni comignoli e solai furono riscontrate in una decina di altre località.&lt;br&gt;La scossa fu avvertita fortemente, ma senza danni a Pistoia e a Firenze. L’area di risentimento si estese a quasi tutta la Toscana e a parte dell’Emilia.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale avvenne il 26 giugno 1899 alle ore 23:17 GMT; fu seguita da varie repliche leggere nella notte fra il 26 e il 27 giugno $(000008,050399)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.19.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001327</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 26 giugno 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Fieramosca, 1899.06.28.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052193</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Fieramosca, 1899.06.29.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052194</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1899.06.28.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052195</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1899.07.01.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052196</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Penna, 1899.07.02.</titolo1>
+      <luogoed>Pistoia</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052331</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Toscano, 1899.06.27.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052332</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Esare, 1899.06.28.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052333</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Garfagnana, 1899.06.29.</titolo1>
+      <luogoed>Castelnuovo di Garfagnana</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052334</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Operaio, 1899.06.29.</titolo1>
+      <luogoed>Prato</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410054</codbib>
+      <autore1>Mengozzi G.</autore1>
+      <titolo1>Cronache di Castrocaro e dintorni (dalle origini al 1920), 2ª ed.</titolo1>
+      <luogoed>Castel Bolognese</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420379</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1899.06.28.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600422</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.06.27-28.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600423</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.06.28-29.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672759</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.27, a.41, n.178.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672760</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.28, a.41, n.179.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672761</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.29-30, a.41, n.180-181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672762</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1899.06.30, a.41, n.181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690673</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1899.06.29, n.177.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Cantagrilli</desloc>
+      <lat_wgs84>43.9488</lat_wgs84>
+      <lon_wgs84>11.114</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072518.00</nloc_cfti>
+      <desloc_cfti>Cantagrilli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Località della Valle di Bisenzio. Subirono notevoli danni alcune ville $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Montemurlo</desloc>
+      <lat_wgs84>43.9274</lat_wgs84>
+      <lon_wgs84>11.0372</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045380.99</nloc_cfti>
+      <desloc_cfti>Montemurlo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un forte rombo, durò 3s circa e fu seguita da tre leggere scosse. Crollarono fumaioli e solai; alcuni edifici, anche ben costruiti, subirono gravi flesioni nei muri, molti altri furono lesionati più leggermente. Non vi furono vittime $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Popigliano</desloc>
+      <lat_wgs84>43.9404</lat_wgs84>
+      <lon_wgs84>11.1227</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072556.00</nloc_cfti>
+      <desloc_cfti>Popigliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Vi furono gravi danni alla chiesa $(001327,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Rocca Cerbaia</desloc>
+      <lat_wgs84>44.0044</lat_wgs84>
+      <lon_wgs84>11.1394</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044777.00</nloc_cfti>
+      <desloc_cfti>Rocca Cerbaia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Località della Valle di Bisenzio. Subirono notevoli danni alcune ville $(001327,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Schignano</desloc>
+      <lat_wgs84>43.9593</lat_wgs84>
+      <lon_wgs84>11.1005</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045773.00</nloc_cfti>
+      <desloc_cfti>Schignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Vi furono gravi danni alla chiesa $(001327,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Usella</desloc>
+      <lat_wgs84>43.9865</lat_wgs84>
+      <lon_wgs84>11.1306</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044798.00</nloc_cfti>
+      <desloc_cfti>Usella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Vi furono gravi danni alla chiesa $(001327,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Cantagallo</desloc>
+      <lat_wgs84>44.0286</lat_wgs84>
+      <lon_wgs84>11.1071</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044787.99</nloc_cfti>
+      <desloc_cfti>Cantagallo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da rombi e in due riprese, causò leggere fenditure nei muri, caduta di volte e tramezzi, rovesciamento di oggetti nelle case. La popolazione si riversò nelle strade dove trascorse la notte $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Galciana</desloc>
+      <lat_wgs84>43.8878</lat_wgs84>
+      <lon_wgs84>11.0558</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045523.00</nloc_cfti>
+      <desloc_cfti>Galciana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono danneggiate 2 case, una di queste fu fortemente lesionata, vi cadde una volta e una stanza fu resa inabitabile. Nella fabbrica Targetti subì gravi danni un fumaiolo in costruzione $(001327,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Luicciana</desloc>
+      <lat_wgs84>44.0286</lat_wgs84>
+      <lon_wgs84>11.1071</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044787.00</nloc_cfti>
+      <desloc_cfti>Luicciana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio e caduta di oggetti, suono di campanelli, fenditure nei muri e cadute di fumaioli. La popolazione si riversò nelle strade. Non vi furono danni alle persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Prato</desloc>
+      <lat_wgs84>43.8803</lat_wgs84>
+      <lon_wgs84>11.0959</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045527.00</nloc_cfti>
+      <desloc_cfti>Prato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa durò 8s circa. Fu preceduta da un forte rombo, da un bagliore e dall’abbaiare dei cani. Si aprirono leggere fenditure nei muri, caddero calcinacci, fumaioli, alcuni solai. Nella chiesa della Madonna del Soccorso cadde la volta; nel palazzo Pretorio cadde un fumaiolo. Fu danneggiata la caserma dei carabinieri, che dovette essere sgomberata. Non vi furono vittime. La popolazione, presa da grande spavento, si riversò all’aperto per trascorrere la notte nelle piazze del Comune, del Duomo, Venti Settembre, Vittorio Emanuele e San Niccolò $(000008,001327,052194,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>San Martino</desloc>
+      <lat_wgs84>43.8994</lat_wgs84>
+      <lon_wgs84>11.1023</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072557.00</nloc_cfti>
+      <desloc_cfti>San Martino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo della volta di una stanza $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Santomato</desloc>
+      <lat_wgs84>43.9443</lat_wgs84>
+      <lon_wgs84>10.9871</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044414.00</nloc_cfti>
+      <desloc_cfti>Santomato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Vi furono danni alla chiesa $(001327,052196)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Vaiano</desloc>
+      <lat_wgs84>43.9643</lat_wgs84>
+      <lon_wgs84>11.1276</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045774.00</nloc_cfti>
+      <desloc_cfti>Vaiano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollò parte del loggiato attiguo alla chiesa e una volta nelle scuole femminili. Vi furono danni in alcune abitazioni $(001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Vernio</desloc>
+      <lat_wgs84>44.0537</lat_wgs84>
+      <lon_wgs84>11.1555</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045791.99</nloc_cfti>
+      <desloc_cfti>Vernio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da forte rombo, durò 4s circa. Causò la caduta di volte e di terrazzi. Non vi furono vittime $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Agliana</desloc>
+      <lat_wgs84>43.9026</lat_wgs84>
+      <lon_wgs84>11.0066</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043935.00</nloc_cfti>
+      <desloc_cfti>Agliana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di una casa colonica già pericolante $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Cerreto</desloc>
+      <lat_wgs84>43.9367</lat_wgs84>
+      <lon_wgs84>11.1082</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072555.00</nloc_cfti>
+      <desloc_cfti>Cerreto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Crollarono la volta di una stanza e un fumaiolo in una casa colonica $(001327,672760,672762)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Montale</desloc>
+      <lat_wgs84>43.9358</lat_wgs84>
+      <lon_wgs84>11.0187</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044065.00</nloc_cfti>
+      <desloc_cfti>Montale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un forte rombo, durò circa 10s e fu seguita da altre più leggere. Causò leggere fenditure nei soffitti di alcune case e della chiesa. La popolazione fu allarmata $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Asciano</desloc>
+      <lat_wgs84>43.7486</lat_wgs84>
+      <lon_wgs84>10.4672</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046360.00</nloc_cfti>
+      <desloc_cfti>Asciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un piccolo rombo, durò 8-10s. Causò un sensibile scricchiolio di porte e di finestre. Nessun oggetto cadde dai mobili. Non vi fu alcun danno. La scossa destò la maggior parte di coloro che dormivano. Molti in preda al panico si riversarono all’aperto $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Barberino di Mugello</desloc>
+      <lat_wgs84>44.003</lat_wgs84>
+      <lon_wgs84>11.2381</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044659.00</nloc_cfti>
+      <desloc_cfti>Barberino di Mugello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un forte rombo, durò 13s. Causò tremolio di oggetti e apertura di porte e finestre. Fu avvertita da tutti, anche da coloro che dormivano; la popolazione, per lo spavento, si riversò nelle strade $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Borgo a Mozzano</desloc>
+      <lat_wgs84>43.9793</lat_wgs84>
+      <lon_wgs84>10.5455</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>042889.00</nloc_cfti>
+      <desloc_cfti>Borgo a Mozzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da leggero rombo, durò 5s e causò tremolio delle suppellettili e dei vetri delle finestre. Fu avvertita da molte persone, anche da coloro che dormivano, ma non causò danni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Calcinaia</desloc>
+      <lat_wgs84>43.6838</lat_wgs84>
+      <lon_wgs84>10.6153</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046098.00</nloc_cfti>
+      <desloc_cfti>Calcinaia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; la popolazione si riversò all’aperto $(001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Calenzano</desloc>
+      <lat_wgs84>43.8597</lat_wgs84>
+      <lon_wgs84>11.164</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044737.00</nloc_cfti>
+      <desloc_cfti>Calenzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da piccoli rumori e da rombo, durò circa 7s. Causò tremolio di piccoli oggetti. Fu avvertita da quasi tutte le persone. Non vi fu alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Campi Bisenzio</desloc>
+      <lat_wgs84>43.8209</lat_wgs84>
+      <lon_wgs84>11.1381</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044753.00</nloc_cfti>
+      <desloc_cfti>Campi Bisenzio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un rombo molto accentuato, durò 2s. Causò panico tra la popolazione, ma non vi furono danni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Carmignano</desloc>
+      <lat_wgs84>43.8141</lat_wgs84>
+      <lon_wgs84>11.0194</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044814.00</nloc_cfti>
+      <desloc_cfti>Carmignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, ma non causò danni $(000008,001327,672760,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Casellina e Torri</desloc>
+      <lat_wgs84>43.759</lat_wgs84>
+      <lon_wgs84>11.1801</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045689.98</nloc_cfti>
+      <desloc_cfti>Casellina e Torri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di circa 3s e preceduta da un rombo, fu avvertita dalla maggior parte della popolazione, che si riversò nelle strade; causò tremolio di mobili e di solai, ma non vi fu alcun danno agli edifici $(000008,001327,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Fiesole</desloc>
+      <lat_wgs84>43.8064</lat_wgs84>
+      <lon_wgs84>11.2938</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044975.00</nloc_cfti>
+      <desloc_cfti>Fiesole</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; la popolazione si riversò all’aperto $(000008,001327,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Giaccherino</desloc>
+      <lat_wgs84>43.925</lat_wgs84>
+      <lon_wgs84>10.8758</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044392.00</nloc_cfti>
+      <desloc_cfti>Giaccherino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò forte tremolio di mobili e di impalcature. Fu avvertita da moltissime persone, che fuggirono dalle abitazioni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Lamporecchio</desloc>
+      <lat_wgs84>43.8166</lat_wgs84>
+      <lon_wgs84>10.896</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043969.00</nloc_cfti>
+      <desloc_cfti>Lamporecchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò panico. Fu preceduta da un rombo $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Lastra a Signa</desloc>
+      <lat_wgs84>43.7691</lat_wgs84>
+      <lon_wgs84>11.1109</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045296.00</nloc_cfti>
+      <desloc_cfti>Lastra a Signa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò panico generale nella popolazione $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monachino</desloc>
+      <lat_wgs84>44.0256</lat_wgs84>
+      <lon_wgs84>11.0344</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044531.00</nloc_cfti>
+      <desloc_cfti>Monachino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001327,052196)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monsummano Terme</desloc>
+      <lat_wgs84>43.8699</lat_wgs84>
+      <lon_wgs84>10.814</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044054.00</nloc_cfti>
+      <desloc_cfti>Monsummano Terme</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò forte tremolio di piccoli oggetti, vetrate e porte. Fu avvertita da moltissime persone. Il martello dell’orologio pubblico batté sulla campana. Non vi fu alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Montagnana</desloc>
+      <lat_wgs84>43.9549</lat_wgs84>
+      <lon_wgs84>10.823</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044031.00</nloc_cfti>
+      <desloc_cfti>Montagnana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di circa 3s, fu avvertita fortemente $(000008,001327,052193)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monte Gatta</desloc>
+      <lat_wgs84>44.1369</lat_wgs84>
+      <lon_wgs84>11.1342</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072568.00</nloc_cfti>
+      <desloc_cfti>Monte Gatta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu accompagnata da un rombo ed ebbe una durata di 8s; fu avvertita fortemente e causò un po’ di panico, ma non vi furono danni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Montecastello</desloc>
+      <lat_wgs84>43.6344</lat_wgs84>
+      <lon_wgs84>10.6946</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046342.00</nloc_cfti>
+      <desloc_cfti>Montecastello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; la popolazione si riversò all’aperto $(001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Palaia</desloc>
+      <lat_wgs84>43.6049</lat_wgs84>
+      <lon_wgs84>10.7702</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046272.00</nloc_cfti>
+      <desloc_cfti>Palaia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; la popolazione si riversò all’aperto $(001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pistoia</desloc>
+      <lat_wgs84>43.9327</lat_wgs84>
+      <lon_wgs84>10.9127</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044294.00</nloc_cfti>
+      <desloc_cfti>Pistoia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un forte rombo, durò 10s. Causò suono di campanelli, scricchiolio di mobili e di fabbricati, arresto di orologi, caduta di oggetti appesi alle pareti o posti sopra mensole. La popolazione in preda al panico abbandonò le abitazioni $(000008,001327,672759,052192,052196)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Scandicci</desloc>
+      <lat_wgs84>43.759</lat_wgs84>
+      <lon_wgs84>11.1801</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045689.00</nloc_cfti>
+      <desloc_cfti>Scandicci</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, durò 3s circa. Causò tremolio di solai, mobili e vetrate. Fu avvertita dalla maggior parte della popolazione. Non causò alcun danno $(000008,001327,000078)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Serravalle Pistoiese</desloc>
+      <lat_wgs84>43.906</lat_wgs84>
+      <lon_wgs84>10.8331</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044611.00</nloc_cfti>
+      <desloc_cfti>Serravalle Pistoiese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001327,052196)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Tizzana</desloc>
+      <lat_wgs84>43.8387</lat_wgs84>
+      <lon_wgs84>11.0009</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044515.00</nloc_cfti>
+      <desloc_cfti>Tizzana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da rombo, durò 10s. Suonarono tutti i campanelli dell’ufficio comunale e di altre abitazioni; la popolazione, colta dal panico, si riversò all’aperto, dove alcuni passarono l’intera notte. Non vi fu alcun danno $(000008,001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Treggiaia</desloc>
+      <lat_wgs84>43.6243</lat_wgs84>
+      <lon_wgs84>10.6779</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046355.00</nloc_cfti>
+      <desloc_cfti>Treggiaia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; la popolazione si riversò all’aperto $(001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Villa Basilica</desloc>
+      <lat_wgs84>43.9275</lat_wgs84>
+      <lon_wgs84>10.6448</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043910.00</nloc_cfti>
+      <desloc_cfti>Villa Basilica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombi, fu avvertita da quasi tutta la popolazione e causò panico $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Vagli Sotto</desloc>
+      <lat_wgs84>44.1105</lat_wgs84>
+      <lon_wgs84>10.2881</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043885.00</nloc_cfti>
+      <desloc_cfti>Vagli Sotto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Bagni della Porretta</desloc>
+      <lat_wgs84>44.1565</lat_wgs84>
+      <lon_wgs84>10.9756</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>040088</nloc_cfti>
+      <desloc_cfti>Porretta Terme (Bagni della Porretta, Porretta)</desloc_cfti>
+      <notesito>Già Porretta, assunse la denominazione di Bagni della Porretta il 23 novembre 1882 e quella di Porretta Terme il 7 agosto 1931.</notesito>
+      <COMM>La scossa, preceduta da rombo, durò 2s. Fu avvertita da quasi tutte le persone che si trovavano all’interno delle abitazioni, in particolare nei piani superiori, e da alcuni che si trovavano in strada; non vi furono danni $(000008,000078,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Castelnuovo di Garfagnana</desloc>
+      <lat_wgs84>44.11</lat_wgs84>
+      <lon_wgs84>10.4106</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043261.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo di Garfagnana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da rombo, durò 4-5s. Causò oscillazioni di mobili appesi in camere situate al primo piano delle case. Fu avvertita da molte persone, anche da coloro che dormivano $(000008,000078,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Empoli</desloc>
+      <lat_wgs84>43.7197</lat_wgs84>
+      <lon_wgs84>10.9465</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044932.00</nloc_cfti>
+      <desloc_cfti>Empoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un rombo, fu avvertita piuttosto fortemente. Causò panico nella popolazione, ma nessun danno $(000008,001327,672760,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Figline Valdarno</desloc>
+      <lat_wgs84>43.6183</lat_wgs84>
+      <lon_wgs84>11.4724</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044986.00</nloc_cfti>
+      <desloc_cfti>Figline Valdarno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di circa 4s, fu avvertita fortemente da molte persone, che si riversarono all’aperto, ma non causò alcun danno $(000008,001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un rombo, durò 3-7s. Causò suono di campanelli, scricchiolio e sbattere di finestre. Fu avvertita da quasi tutti e destò moltissime persone. Coloro che si trovavano nei ritrovi pubblici e molte di coloro che erano all’interno delle abitazioni si riversarono all’aperto $(000008,001327,420379,600423,672760,052331,052192,052194,052195)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Gallicano</desloc>
+      <lat_wgs84>44.061</lat_wgs84>
+      <lon_wgs84>10.4345</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043324.00</nloc_cfti>
+      <desloc_cfti>Gallicano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da moltissime persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Vedute</desloc>
+      <lat_wgs84>43.7573</lat_wgs84>
+      <lon_wgs84>10.7545</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045169.00</nloc_cfti>
+      <desloc_cfti>Le Vedute</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu preceduta da un forte rombo ed ebbe la durata di 2s; fu avvertita fortemente dalla popolazione e risvegliò quasi tutte le persone che dormivano $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Montepiano</desloc>
+      <lat_wgs84>44.0927</lat_wgs84>
+      <lon_wgs84>11.1623</lon_wgs84>
+      <provlet>PO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045783.00</nloc_cfti>
+      <desloc_cfti>Montepiano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un forte rombo, spaventò la popolazione, ma non causò danni. Seguì una leggera replica $(001327,000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Pescia</desloc>
+      <lat_wgs84>43.8949</lat_wgs84>
+      <lon_wgs84>10.6884</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044102.00</nloc_cfti>
+      <desloc_cfti>Pescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, in due riprese, svegliò la popolazione e alcune persone, per lo spavento, si riversarono nelle strade $(000008,001327,672760,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Quarto</desloc>
+      <lat_wgs84>43.819</lat_wgs84>
+      <lon_wgs84>11.2443</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045051.00</nloc_cfti>
+      <desloc_cfti>Quarto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di qualche secondo, fu in due riprese e causò tremolio di oggetti e di vetrate. Fu avvertita da molte persone $(000008,001327,052192)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Reggello</desloc>
+      <lat_wgs84>43.6831</lat_wgs84>
+      <lon_wgs84>11.5361</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045561.00</nloc_cfti>
+      <desloc_cfti>Reggello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>San Miniato</desloc>
+      <lat_wgs84>43.6801</lat_wgs84>
+      <lon_wgs84>10.8488</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046470.00</nloc_cfti>
+      <desloc_cfti>San Miniato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu preceduta da un forte rombo che svegliò le persone che dormivano ed ebbe una durata di 3s; causò tremolio di vetri e scricchiolio di mobili; non vi furono danni, né grande allarme tra la popolazione $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Santa Maria a Monte</desloc>
+      <lat_wgs84>43.6986</lat_wgs84>
+      <lon_wgs84>10.6929</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046526.00</nloc_cfti>
+      <desloc_cfti>Santa Maria a Monte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un forte rombo, fu avvertita fortemente, ma non causò alcun danno e non allarmò eccessivamente la popolazione $(000008,001327,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Scarperia</desloc>
+      <lat_wgs84>43.9957</lat_wgs84>
+      <lon_wgs84>11.3551</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045701.00</nloc_cfti>
+      <desloc_cfti>Scarperia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un forte rombo, durò 5-6s. Causò la caduta di oggetti, piccoli e grandi, tremolio di vetrate e di porte, e suono di campanelli. Fu avvertita dalla maggior parte della popolazione in stato di quiete $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Camugnano</desloc>
+      <lat_wgs84>44.1691</lat_wgs84>
+      <lon_wgs84>11.0886</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039396.00</nloc_cfti>
+      <desloc_cfti>Camugnano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti allo stato di quiete. Non causò alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Castel del Rio</desloc>
+      <lat_wgs84>44.2123</lat_wgs84>
+      <lon_wgs84>11.5044</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039453.00</nloc_cfti>
+      <desloc_cfti>Castel del Rio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò scricchiolio di legni e di travi nei piani superiori delle abitazioni, tremolio di grandi oggetti, di vetrate e porte. Fu avvertita da molte persone allo stato di quiete. Non causò alcun danno $(000008,001327)$</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Castel di Casio</desloc>
+      <lat_wgs84>44.1622</lat_wgs84>
+      <lon_wgs84>11.0372</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039467.00</nloc_cfti>
+      <desloc_cfti>Castel di Casio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Certaldo</desloc>
+      <lat_wgs84>43.5478</lat_wgs84>
+      <lon_wgs84>11.0407</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044885.00</nloc_cfti>
+      <desloc_cfti>Certaldo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa ebbe la durata di 10s e causò tremolio dei vetri. Fu avvertita da diverse persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fanano</desloc>
+      <lat_wgs84>44.2073</lat_wgs84>
+      <lon_wgs84>10.7941</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038313.00</nloc_cfti>
+      <desloc_cfti>Fanano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, durò 5s. Causò tremolio di piccoli oggetti e di vetri. Fu avvertita da moltissime persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fiumalbo</desloc>
+      <lat_wgs84>44.1799</lat_wgs84>
+      <lon_wgs84>10.6472</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038358.00</nloc_cfti>
+      <desloc_cfti>Fiumalbo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò scricchiolio di travi. Fu avvertita da molte persone anche in movimento. Non vi fu alcun danno, né panico $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Lucca</desloc>
+      <lat_wgs84>43.8438</lat_wgs84>
+      <lon_wgs84>10.5049</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043402.00</nloc_cfti>
+      <desloc_cfti>Lucca</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio di mobili, porte e finestre. Fu avvertita da tutte le persone allo stato di quiete e ne destò alcune che dormivano. Fu avvertita da molti abitanti della campagna. Non vi fu alcun danno $(001327,672760,052193,052195,672760,000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Orentano</desloc>
+      <lat_wgs84>43.7799</lat_wgs84>
+      <lon_wgs84>10.6626</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046145.00</nloc_cfti>
+      <desloc_cfti>Orentano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio di piccoli oggetti e di porte; fu avvertita da tutti coloro che erano svegli o in dormiveglia $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Pisa</desloc>
+      <lat_wgs84>43.7167</lat_wgs84>
+      <lon_wgs84>10.4005</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046303.00</nloc_cfti>
+      <desloc_cfti>Pisa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un leggero rombo, durò 3s circa. Causò tremolio di soprammobili e cristalli e fu avvertita da molte persone, alcune delle quali furono svegliate dal sonno $(000008,001327,600422,000078,420379,052192,052331,672760)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Pontassieve</desloc>
+      <lat_wgs84>43.7753</lat_wgs84>
+      <lon_wgs84>11.4404</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045471.00</nloc_cfti>
+      <desloc_cfti>Pontassieve</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un boato, durò 2s. Causò tremolio di oggetti. Fu avvertita da molte persone in stato di quiete e da alcune in stato di moto $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sambuca Pistoiese</desloc>
+      <lat_wgs84>44.1034</lat_wgs84>
+      <lon_wgs84>10.9987</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044542.99</nloc_cfti>
+      <desloc_cfti>Sambuca Pistoiese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da rombo, durò 4-6s. Causò tremolio di piccoli oggetti e fu avvertita da molte persone. Non vi fu alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>San Casciano in Val di Pesa</desloc>
+      <lat_wgs84>43.6574</lat_wgs84>
+      <lon_wgs84>11.1849</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045636.00</nloc_cfti>
+      <desloc_cfti>San Casciano in Val di Pesa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un sensibile rombo, durò 4s. Fu avvertita da molte persone che si trovavano a letto $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sarzana</desloc>
+      <lat_wgs84>44.1115</lat_wgs84>
+      <lon_wgs84>9.9606</lon_wgs84>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>034359.00</nloc_cfti>
+      <desloc_cfti>Sarzana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il leggero tremolio di campane di vetro in un’abitazione del centro. Fu avvertita sensibilmente nei piani terreni e da molte persone che si trovavano nello stato di quiete e da alcune nello stato di moto $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Seravezza</desloc>
+      <lat_wgs84>43.9953</lat_wgs84>
+      <lon_wgs84>10.227</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043842.00</nloc_cfti>
+      <desloc_cfti>Seravezza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio di mobili, vetrate e finestre. Non vi furono danni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sillicano</desloc>
+      <lat_wgs84>44.1232</lat_wgs84>
+      <lon_wgs84>10.3593</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043009.00</nloc_cfti>
+      <desloc_cfti>Sillicano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, causò tremolio di piccoli oggetti e di mobili. Fu avvertita da numerose persone allo stato di quiete. Non causò alcun danno $(000008,000078,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Tossignano</desloc>
+      <lat_wgs84>44.2739</lat_wgs84>
+      <lon_wgs84>11.6028</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039317.00</nloc_cfti>
+      <desloc_cfti>Tossignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, durò 8s. Causò tremolio prolungato di grandi oggetti, di vetrate e di porte. Non vi fu alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Varlungo</desloc>
+      <lat_wgs84>43.7686</lat_wgs84>
+      <lon_wgs84>11.3008</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>072110.00</nloc_cfti>
+      <desloc_cfti>Varlungo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu accompagnata da un rombo ed ebbe una durata di 4s; fu sentita da molte persone che erano in stato di quiete $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Volterra</desloc>
+      <lat_wgs84>43.4027</lat_wgs84>
+      <lon_wgs84>10.8588</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046586.00</nloc_cfti>
+      <desloc_cfti>Volterra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il tremolio di piccoli oggetti. Fu avvertita da molte persone allo stato di quiete $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Cutigliano</desloc>
+      <lat_wgs84>44.1003</lat_wgs84>
+      <lon_wgs84>10.7569</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043955.00</nloc_cfti>
+      <desloc_cfti>Cutigliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu accompagnata da un forte rombo ed ebbe una durata di circa 3s; non causò effetti rilevanti $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Dicomano</desloc>
+      <lat_wgs84>43.8915</lat_wgs84>
+      <lon_wgs84>11.523</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044909.00</nloc_cfti>
+      <desloc_cfti>Dicomano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu accompagnata da leggeri rumori sotterranei ed ebbe una durata di 5s; non vi furono effetti rilevanti $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Massa</desloc>
+      <lat_wgs84>44.0252</lat_wgs84>
+      <lon_wgs84>10.1222</lon_wgs84>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>042518.00</nloc_cfti>
+      <desloc_cfti>Massa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fece tremare fortemente i vetri delle case $(001327,052194,052193,000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Monghidoro</desloc>
+      <lat_wgs84>44.2203</lat_wgs84>
+      <lon_wgs84>11.3186</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039968.00</nloc_cfti>
+      <desloc_cfti>Monghidoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa ebbe una durata di 4s; fu avvertita da varie persone, ma non causò panico né danni $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Montese</desloc>
+      <lat_wgs84>44.2706</lat_wgs84>
+      <lon_wgs84>10.944</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038738.00</nloc_cfti>
+      <desloc_cfti>Montese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di circa 3s, fu avvertita da varie persone $(001327,000008)$. </COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Ortignano</desloc>
+      <lat_wgs84>43.6802</lat_wgs84>
+      <lon_wgs84>11.7466</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047318.00</nloc_cfti>
+      <desloc_cfti>Ortignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio di piccoli e grandi oggetti, di porte e vetrate. Fu avvertita da poche persone allo stato di quiete. Non causò alcun danno $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Palazzuolo sul Senio</desloc>
+      <lat_wgs84>44.1135</lat_wgs84>
+      <lon_wgs84>11.5473</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045428.00</nloc_cfti>
+      <desloc_cfti>Palazzuolo sul Senio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Cancani (1900) valutò l’intensità della scossa di III-IV grado Mercalli $(000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Sestola</desloc>
+      <lat_wgs84>44.2296</lat_wgs84>
+      <lon_wgs84>10.7712</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039139.00</nloc_cfti>
+      <desloc_cfti>Sestola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò tremolio di piccoli oggetti, scricchiolio di mobili e di travi e caduta di piccoli calcinacci. Nell’abitato fu avvertita da poche persone, che furono svegliate. Non fu avvertita dalle numerose persone che si trovavano nel caffé pubblico ed erano intente al gioco. Nella rocca presso l’abitato non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ameglia</desloc>
+      <lat_wgs84>44.067</lat_wgs84>
+      <lon_wgs84>9.9596</lon_wgs84>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>034046.00</nloc_cfti>
+      <desloc_cfti>Ameglia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il tremolio di piccoli oggetti. Fu avvertita da poche persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bagno di Romagna</desloc>
+      <lat_wgs84>43.8348</lat_wgs84>
+      <lon_wgs84>11.9596</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041461.00</nloc_cfti>
+      <desloc_cfti>Bagno di Romagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Barberino Val d'Elsa</desloc>
+      <lat_wgs84>43.5428</lat_wgs84>
+      <lon_wgs84>11.1717</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044688.00</nloc_cfti>
+      <desloc_cfti>Barberino Val d’Elsa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da alcune persone che erano ancora sveglie $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(000008,000078,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Brisighella</desloc>
+      <lat_wgs84>44.2233</lat_wgs84>
+      <lon_wgs84>11.7751</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041090.00</nloc_cfti>
+      <desloc_cfti>Brisighella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò lieve tremolio delle vetrate delle finestre e di qualche porta sconnessa e mal chiusa. Fu avvertita da alcune persone allo stato di quiete $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Frassinoro</desloc>
+      <lat_wgs84>44.2959</lat_wgs84>
+      <lon_wgs84>10.5725</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038395.00</nloc_cfti>
+      <desloc_cfti>Frassinoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò un lieve scricchiolio delle pareti e dei pavimenti dei fabbricati $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Minucciano</desloc>
+      <lat_wgs84>44.1708</lat_wgs84>
+      <lon_wgs84>10.2075</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043630.00</nloc_cfti>
+      <desloc_cfti>Minucciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Modigliana</desloc>
+      <lat_wgs84>44.1581</lat_wgs84>
+      <lon_wgs84>11.7927</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041876.00</nloc_cfti>
+      <desloc_cfti>Modigliana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montefiorino</desloc>
+      <lat_wgs84>44.3555</lat_wgs84>
+      <lon_wgs84>10.6212</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038714.00</nloc_cfti>
+      <desloc_cfti>Montefiorino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone $(000008,001327)$</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Orciano Pisano</desloc>
+      <lat_wgs84>43.4938</lat_wgs84>
+      <lon_wgs84>10.5102</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046253.00</nloc_cfti>
+      <desloc_cfti>Orciano Pisano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa ebbe una durata di 3s e non causò effetti rilevanti $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Peccioli</desloc>
+      <lat_wgs84>43.5474</lat_wgs84>
+      <lon_wgs84>10.7203</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046288.00</nloc_cfti>
+      <desloc_cfti>Peccioli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Petrognano</desloc>
+      <lat_wgs84>43.5365</lat_wgs84>
+      <lon_wgs84>11.1417</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>044685.00</nloc_cfti>
+      <desloc_cfti>Petrognano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da alcune persone che erano ancora sveglie $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Poggibonsi</desloc>
+      <lat_wgs84>43.4707</lat_wgs84>
+      <lon_wgs84>11.1461</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047810.00</nloc_cfti>
+      <desloc_cfti>Poggibonsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, causò oscillazione di oggetti e mobili e fu avvertita da poche persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ponsacco</desloc>
+      <lat_wgs84>43.6204</lat_wgs84>
+      <lon_wgs84>10.6328</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046336.00</nloc_cfti>
+      <desloc_cfti>Ponsacco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa ebbe una durata di 3-4s e non causò effetti rilevanti $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pontedera</desloc>
+      <lat_wgs84>43.6616</lat_wgs84>
+      <lon_wgs84>10.6343</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046344.00</nloc_cfti>
+      <desloc_cfti>Pontedera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, seguita da un rombo, durò 3s. Causò movimento di piccoli oggetti e fu avvertita da poche persone $(001327,672760,052194,052192,000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>San Gimignano</desloc>
+      <lat_wgs84>43.4679</lat_wgs84>
+      <lon_wgs84>11.0429</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047897.00</nloc_cfti>
+      <desloc_cfti>San Gimignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da un rombo prolungato, fu avvertita leggermente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Savigno</desloc>
+      <lat_wgs84>44.3908</lat_wgs84>
+      <lon_wgs84>11.0731</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>040268.00</nloc_cfti>
+      <desloc_cfti>Savigno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa ebbe una durata di 7-8s e fu leggera $(000008,001327)$</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Stia</desloc>
+      <lat_wgs84>43.801</lat_wgs84>
+      <lon_wgs84>11.7078</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047453.00</nloc_cfti>
+      <desloc_cfti>Stia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu brevissima e avvertita da poche persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Tavarnelle</desloc>
+      <lat_wgs84>43.5622</lat_wgs84>
+      <lon_wgs84>11.1742</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045747</nloc_cfti>
+      <desloc_cfti>Tavarnelle Val di Pesa (Tavarnelle)</desloc_cfti>
+      <notesito>Assunse la denominazione di Tavarnelle Val di Pesa il 18 febbraio 1909.</notesito>
+      <COMM>La scossa fu avvertita da alcune persone che erano ancora sveglie $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Bibbiena</desloc>
+      <lat_wgs84>43.6973</lat_wgs84>
+      <lon_wgs84>11.8162</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046838.00</nloc_cfti>
+      <desloc_cfti>Bibbiena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, in due riprese, fu avvertita da pochissime persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Castel San Niccolò</desloc>
+      <lat_wgs84>43.7413</lat_wgs84>
+      <lon_wgs84>11.7036</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046981.99</nloc_cfti>
+      <desloc_cfti>Castel San Niccolò</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto leggermente $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Castelvetro di Modena</desloc>
+      <lat_wgs84>44.5041</lat_wgs84>
+      <lon_wgs84>10.9427</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038268.00</nloc_cfti>
+      <desloc_cfti>Castelvetro di Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita solo da poche persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Livorno</desloc>
+      <lat_wgs84>43.5508</lat_wgs84>
+      <lon_wgs84>10.3207</lon_wgs84>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>045968.00</nloc_cfti>
+      <desloc_cfti>Livorno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 3s, fu avvertita da poche persone, che non erano ancora a letto o che lo erano da poco. Causò spavento, ma nessun danno $(000008,001327,600423,052331,052194)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Imola</desloc>
+      <lat_wgs84>44.3541</lat_wgs84>
+      <lon_wgs84>11.7137</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039777.00</nloc_cfti>
+      <desloc_cfti>Imola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto leggermente $(000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da poche persone $(000008,001327)$</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Terra del Sole</desloc>
+      <lat_wgs84>44.1858</lat_wgs84>
+      <lon_wgs84>11.9602</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041531.00</nloc_cfti>
+      <desloc_cfti>Terra del Sole</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochissime persone $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Badia Tedalda</desloc>
+      <lat_wgs84>43.7074</lat_wgs84>
+      <lon_wgs84>12.1868</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046813.00</nloc_cfti>
+      <desloc_cfti>Badia Tedalda</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bagnara di Romagna</desloc>
+      <lat_wgs84>44.3895</lat_wgs84>
+      <lon_wgs84>11.8262</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041088.00</nloc_cfti>
+      <desloc_cfti>Bagnara di Romagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Baiso</desloc>
+      <lat_wgs84>44.4991</lat_wgs84>
+      <lon_wgs84>10.6027</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>037102.00</nloc_cfti>
+      <desloc_cfti>Baiso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bazzano</desloc>
+      <lat_wgs84>44.5057</lat_wgs84>
+      <lon_wgs84>11.0827</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039260.00</nloc_cfti>
+      <desloc_cfti>Bazzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Caprese Michelangelo</desloc>
+      <lat_wgs84>43.6414</lat_wgs84>
+      <lon_wgs84>11.9853</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046914.00</nloc_cfti>
+      <desloc_cfti>Caprese Michelangelo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castel Guelfo di Bologna</desloc>
+      <lat_wgs84>44.4328</lat_wgs84>
+      <lon_wgs84>11.676</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039487.00</nloc_cfti>
+      <desloc_cfti>Castel Guelfo di Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castellarano</desloc>
+      <lat_wgs84>44.511</lat_wgs84>
+      <lon_wgs84>10.7294</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>037327.00</nloc_cfti>
+      <desloc_cfti>Castellarano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castelnovo ne' Monti</desloc>
+      <lat_wgs84>44.436</lat_wgs84>
+      <lon_wgs84>10.3999</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>037386.00</nloc_cfti>
+      <desloc_cfti>Castelnovo ne’ Monti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Castelnuovo Berardenga</desloc>
+      <lat_wgs84>43.3458</lat_wgs84>
+      <lon_wgs84>11.5028</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047576.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo Berardenga</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Civitella in Val di Chiana</desloc>
+      <lat_wgs84>43.4183</lat_wgs84>
+      <lon_wgs84>11.7231</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047090.00</nloc_cfti>
+      <desloc_cfti>Civitella in Val di Chiana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Collagna</desloc>
+      <lat_wgs84>44.3477</lat_wgs84>
+      <lon_wgs84>10.2752</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>037473.00</nloc_cfti>
+      <desloc_cfti>Collagna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Formigine</desloc>
+      <lat_wgs84>44.5754</lat_wgs84>
+      <lon_wgs84>10.8468</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>038373.00</nloc_cfti>
+      <desloc_cfti>Formigine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Guardistallo</desloc>
+      <lat_wgs84>43.3128</lat_wgs84>
+      <lon_wgs84>10.6325</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046197.00</nloc_cfti>
+      <desloc_cfti>Guardistallo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Laterina</desloc>
+      <lat_wgs84>43.5088</lat_wgs84>
+      <lon_wgs84>11.7157</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047209.00</nloc_cfti>
+      <desloc_cfti>Laterina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Licciana Nardi</desloc>
+      <lat_wgs84>44.2659</lat_wgs84>
+      <lon_wgs84>10.038</lon_wgs84>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>042491.00</nloc_cfti>
+      <desloc_cfti>Licciana Nardi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Massa Lombarda</desloc>
+      <lat_wgs84>44.4466</lat_wgs84>
+      <lon_wgs84>11.8271</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041305.00</nloc_cfti>
+      <desloc_cfti>Massa Lombarda</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Massa Marittima</desloc>
+      <lat_wgs84>43.0508</lat_wgs84>
+      <lon_wgs84>10.8884</lon_wgs84>
+      <provlet>GR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>048243.00</nloc_cfti>
+      <desloc_cfti>Massa Marittima</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Monchio</desloc>
+      <lat_wgs84>44.6145</lat_wgs84>
+      <lon_wgs84>10.3317</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>036307.00</nloc_cfti>
+      <desloc_cfti>Monchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Monteriggioni</desloc>
+      <lat_wgs84>43.3901</lat_wgs84>
+      <lon_wgs84>11.2233</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047730.00</nloc_cfti>
+      <desloc_cfti>Monteriggioni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Mulazzo</desloc>
+      <lat_wgs84>44.3166</lat_wgs84>
+      <lon_wgs84>9.8888</lon_wgs84>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>042586.00</nloc_cfti>
+      <desloc_cfti>Mulazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pianoro</desloc>
+      <lat_wgs84>44.3807</lat_wgs84>
+      <lon_wgs84>11.3414</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>040074.00</nloc_cfti>
+      <desloc_cfti>Pianoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pieve Santo Stefano</desloc>
+      <lat_wgs84>43.6709</lat_wgs84>
+      <lon_wgs84>12.0406</lon_wgs84>
+      <provlet>AR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047353.00</nloc_cfti>
+      <desloc_cfti>Pieve Santo Stefano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pomarance</desloc>
+      <lat_wgs84>43.2996</lat_wgs84>
+      <lon_wgs84>10.874</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046329.00</nloc_cfti>
+      <desloc_cfti>Pomarance</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Portovenere</desloc>
+      <lat_wgs84>44.0565</lat_wgs84>
+      <lon_wgs84>9.8371</lon_wgs84>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>034303.00</nloc_cfti>
+      <desloc_cfti>Portovenere</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Predappio</desloc>
+      <lat_wgs84>44.1046</lat_wgs84>
+      <lon_wgs84>11.9813</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>041949.00</nloc_cfti>
+      <desloc_cfti>Predappio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Radda in Chianti</desloc>
+      <lat_wgs84>43.4871</lat_wgs84>
+      <lon_wgs84>11.3741</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>047857.00</nloc_cfti>
+      <desloc_cfti>Radda in Chianti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Riomaggiore</desloc>
+      <lat_wgs84>44.1</lat_wgs84>
+      <lon_wgs84>9.7374</lon_wgs84>
+      <provlet>SP</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>034331.00</nloc_cfti>
+      <desloc_cfti>Riomaggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Riparbella</desloc>
+      <lat_wgs84>43.3646</lat_wgs84>
+      <lon_wgs84>10.5991</lon_wgs84>
+      <provlet>PI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046357.00</nloc_cfti>
+      <desloc_cfti>Riparbella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rosignano Marittimo</desloc>
+      <lat_wgs84>43.4064</lat_wgs84>
+      <lon_wgs84>10.473</lon_wgs84>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>046051.00</nloc_cfti>
+      <desloc_cfti>Rosignano Marittimo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>San Cesario sul Panaro</desloc>
+      <lat_wgs84>44.5628</lat_wgs84>
+      <lon_wgs84>11.033</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>039011.00</nloc_cfti>
+      <desloc_cfti>San Cesario sul Panaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Scandiano</desloc>
+      <lat_wgs84>44.5981</lat_wgs84>
+      <lon_wgs84>10.6897</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>037917.00</nloc_cfti>
+      <desloc_cfti>Scandiano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Viareggio</desloc>
+      <lat_wgs84>43.8703</lat_wgs84>
+      <lon_wgs84>10.248</lon_wgs84>
+      <provlet>LU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>17022</nterr>
+      <nloc_cfti>043897.00</nloc_cfti>
+      <desloc_cfti>Viareggio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000008,001327)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

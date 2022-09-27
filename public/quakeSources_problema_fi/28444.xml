@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>28444</nterr>
+      <nperiod>003224</nperiod>
+      <datanum>19260101</datanum>
+      <data_label>1926 01 01</data_label>
+      <anno>1926</anno>
+      <mese>01</mese>
+      <giorno>01</giorno>
+      <time_label>18:04:03</time_label>
+      <ora>18</ora>
+      <minu>04</minu>
+      <sec>03</sec>
+      <lat>45.7625</lat>
+      <lon>14.282</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>63</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.9</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita dal catalogo parametrico di Bernardis et al. (1977) $(092138)$ che non riporta descrizioni degli effetti, ed è stata condotta una ricerca bibliografica. Sono stati utilizzati il "Bollettino sismico" dell’Ufficio Centrale di Meteorologia e Geofisica, curato da Ingrao (1930) $(000029)$, e i cataloghi di Cavasino (1935) $(050399)$ e di Zanon (1937) $(500082)$. Per la valutazione degli effetti nelle località slovene è stato utilizzato il catalogo di Ribaric (1982) $(775036)$. Sono state inoltre reperite informazioni in 2 cronache giornalistiche afferenti a 2 testate $(420268,672684)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il giorno 1 gennaio 1926 alle 18:04 GMT; colpì la Slovenia causando gravi danni a Cernknica, Planina e Unec.&lt;br&gt;In territorio italiano vi furono danni notevoli a Trieste: alcune abitazioni furono gravemente danneggiate e dovettero essere sgomberate, caddero numerosi fumaioli e calcinacci. A Gorizia vi furono leggere lesioni nei muri delle case più vecchie; a Venezia alcune case subirono leggere lesioni, caddero circa 30 fumaioli e parti di vecchi intonaci.&lt;br&gt;La scossa fu avvertita in quasi tutta l’Italia settentrionale, fino a Biella e a Genova, e in alcune località dell’Italia centrale fino a Livorno e a Macerata.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000029</codbib>
+      <autore1>Ingrao G. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1926, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1930</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Parma, 645/83, Osservazioni giornaliere dell’anno 1926.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1926</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420268</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1926.01.03.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1926</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672684</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Piccolo, 1926.01.02, a.42, n.1893.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1926</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775036</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>Seizmicnost Slovenue. Katalog potresov (792 n.e.- 1981) [Seismicity of Slovenia. Catalogue of earthquakes (792 A.D.-1981)].</titolo1>
+      <luogoed>Ljubljana</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Cernknica</desloc>
+      <lat_wgs84>45.7969</lat_wgs84>
+      <lon_wgs84>14.3631</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080976.00</nloc_cfti>
+      <desloc_cfti>Cernknica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti; Ribaric (1982) ha valutato l’intensità della scossa di VII-VIII grado MCS $(775036)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Planina</desloc>
+      <lat_wgs84>45.8326</lat_wgs84>
+      <lon_wgs84>14.2571</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080417.00</nloc_cfti>
+      <desloc_cfti>Planina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti; Ribaric (1982) ha valutato l’intensità della scossa di VII-VIII grado MCS $(775036)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Unec</desloc>
+      <lat_wgs84>45.8223</lat_wgs84>
+      <lon_wgs84>14.2933</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080978.00</nloc_cfti>
+      <desloc_cfti>Unec</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti; Ribaric (1982) ha valutato l’intensità della scossa di VII-VIII grado MCS $(775036)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Bakar</desloc>
+      <lat_wgs84>45.3081</lat_wgs84>
+      <lon_wgs84>14.5295</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080968.00</nloc_cfti>
+      <desloc_cfti>Bakar</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò molte abitazioni; non vi furono danni alle persone $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Postojna</desloc>
+      <lat_wgs84>45.7736</lat_wgs84>
+      <lon_wgs84>14.2145</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080322.00</nloc_cfti>
+      <desloc_cfti>Postojna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di molti fumaioli e gravi lesioni in alcune abitazioni $(050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 10s, causò gravi lesioni in alcune abitazioni che dovettero essere sgomberate; caddero numerosi fumaioli e calcinacci. Gli abitanti sorpresi dalla scossa nei locali pubblici, presi da grande panico, si riversarono nelle strade.&lt;br&gt;Nella torre dell’arsensale dei Lloyd un leoncino di pietra posto su un terrazzino cadde sul tratto di ferrovia sottostante; in via Ugo Foscolo, al numero civico 30, vi fu la riapertura di fessure e screpolature in un edificio di quattro piani recentemente restaurato; una grande fenditura verticale si aprì nel punto di congiunzione di un gruppo di abitazioni in via Settefontane, ai numeri civici 2, 4 e 6; una estesa lesione si aprì in un edificio di corso Garibaldi; una lesione nella facciata, di un’abitazione in via San Sebastiano; una fenditura a forma di serpentina nell’intonaco al punto di congiunzione di due edifici in viale Venti Settembre; nel palazzo Reinelt, posto in via Trento al numero civico 2, cadde gran parte dell’intonaco del soffitto di un appartamento del primo piano; in via Malcanton caddero vari calcinacci. Non vi furono danni alle persone $(000029,050399,420268,672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Gorizia</desloc>
+      <lat_wgs84>45.9434</lat_wgs84>
+      <lon_wgs84>13.6197</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>031919.00</nloc_cfti>
+      <desloc_cfti>Gorizia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 10s, fu avvertita fortemente soprattutto nel centro della città; molti abitanti si riversarono nelle strade; vi furono leggere lesioni nei muri delle case più vecchie $(000029,050399,672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Rijeka</desloc>
+      <lat_wgs84>45.3349</lat_wgs84>
+      <lon_wgs84>14.441</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080086.00</nloc_cfti>
+      <desloc_cfti>Rijeka</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 6s e preceduta da un rombo, causò panico nella popolazione; furono segnalati leggeri danni $(000029,050399,672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 9s e preceduta da un rombo, fu avvertita molto fortemente e causò grande panico nella popolazione, in particolare in coloro che si trovavano nei teatri e nei cinematografi. Alcune case furono leggermente lesionate; caddero circa 30 fumaioli e parti di vecchi intonaci. Vi furono forti oscillazioni di oggetti sospesi e caduta di soprammobili; furono segnalati alcuni corti circuiti. Non vi furono danni alle persone $(000029,500082,672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Conegliano</desloc>
+      <lat_wgs84>45.8875</lat_wgs84>
+      <lon_wgs84>12.2978</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>026894.00</nloc_cfti>
+      <desloc_cfti>Conegliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 8s e accompagnata da un rombo, fu avvertita fortemente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Klagenfurt</desloc>
+      <lat_wgs84>46.6191</lat_wgs84>
+      <lon_wgs84>14.3089</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080101.00</nloc_cfti>
+      <desloc_cfti>Klagenfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò la rottura di alcuni vetri $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ljubljana</desloc>
+      <lat_wgs84>46.0588</lat_wgs84>
+      <lon_wgs84>14.5032</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080076.00</nloc_cfti>
+      <desloc_cfti>Ljubljana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, ma non causò danni $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monfalcone</desloc>
+      <lat_wgs84>45.806</lat_wgs84>
+      <lon_wgs84>13.5292</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>031949.00</nloc_cfti>
+      <desloc_cfti>Monfalcone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, durata pochi secondi, causò grande panico nella popolazione; non furono segnalati danni $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pula</desloc>
+      <lat_wgs84>44.8548</lat_wgs84>
+      <lon_wgs84>13.8576</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080085.00</nloc_cfti>
+      <desloc_cfti>Pula</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò grande panico; gli abitanti si riversarono nelle strade; non furono segnalati danni $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Sagrado</desloc>
+      <lat_wgs84>45.8751</lat_wgs84>
+      <lon_wgs84>13.4843</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>031959.00</nloc_cfti>
+      <desloc_cfti>Sagrado</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da un rombo, fu avvertita fortemente anche dalle persone che si trovavano in strada; non furono segnalati danni $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente e causò grande panico, in particolare nei cinematrografi $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Udine</desloc>
+      <lat_wgs84>46.0641</lat_wgs84>
+      <lon_wgs84>13.2357</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>031830.00</nloc_cfti>
+      <desloc_cfti>Udine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, fu avvertita fortemente e causò grande panico nei locali pubblici e nelle abitazioni; molte persone si riversarono nelle strade; non furono segnalati danni $(000029,050399,672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Graz</desloc>
+      <lat_wgs84>47.0716</lat_wgs84>
+      <lon_wgs84>15.4496</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080001.00</nloc_cfti>
+      <desloc_cfti>Graz</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Ravenna</desloc>
+      <lat_wgs84>44.4178</lat_wgs84>
+      <lon_wgs84>12.1982</lon_wgs84>
+      <provlet>RA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>041374.00</nloc_cfti>
+      <desloc_cfti>Ravenna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Zagreb</desloc>
+      <lat_wgs84>45.8161</lat_wgs84>
+      <lon_wgs84>15.965</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080095.00</nloc_cfti>
+      <desloc_cfti>Zagreb</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cividale del Friuli</desloc>
+      <lat_wgs84>46.0936</lat_wgs84>
+      <lon_wgs84>13.4306</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>030808.00</nloc_cfti>
+      <desloc_cfti>Cividale del Friuli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 10-12s e accompagnata da un rombo, fu avvertita abbastanza fortemente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cologna Veneta</desloc>
+      <lat_wgs84>45.3097</lat_wgs84>
+      <lon_wgs84>11.385</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>022549.00</nloc_cfti>
+      <desloc_cfti>Cologna Veneta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4s, fu avvertita abbastanza fortemente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, durata pochi secondi, fu avvertita abbastanza fortemente e causò allarme nei locali pubblici; non fu avvertita da chi era all’aperto $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Pordenone</desloc>
+      <lat_wgs84>45.9643</lat_wgs84>
+      <lon_wgs84>12.6603</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>030470.00</nloc_cfti>
+      <desloc_cfti>Pordenone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4-5s, fu avvertita abbastanza fortemente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Rovigo</desloc>
+      <lat_wgs84>45.071</lat_wgs84>
+      <lon_wgs84>11.7896</lon_wgs84>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>030077.00</nloc_cfti>
+      <desloc_cfti>Rovigo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di alcuni secondi, fu avvertita fortemente $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Bassano del Grappa</desloc>
+      <lat_wgs84>45.7674</lat_wgs84>
+      <lon_wgs84>11.7342</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>024065.00</nloc_cfti>
+      <desloc_cfti>Bassano del Grappa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Belluno</desloc>
+      <lat_wgs84>46.1465</lat_wgs84>
+      <lon_wgs84>12.2216</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>025935.00</nloc_cfti>
+      <desloc_cfti>Belluno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 8s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Biella</desloc>
+      <lat_wgs84>45.5665</lat_wgs84>
+      <lon_wgs84>8.053</lon_wgs84>
+      <provlet>BI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>002765.00</nloc_cfti>
+      <desloc_cfti>Biella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di IV grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Bolzano</desloc>
+      <lat_wgs84>46.4978</lat_wgs84>
+      <lon_wgs84>11.3542</lon_wgs84>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>020302.00</nloc_cfti>
+      <desloc_cfti>Bolzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Breno di Mezzo e Chiesa</desloc>
+      <lat_wgs84>45.0009</lat_wgs84>
+      <lon_wgs84>9.4897</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>034595.00</nloc_cfti>
+      <desloc_cfti>Breno di Mezzo e Chiesa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 10s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cavalese</desloc>
+      <lat_wgs84>46.2918</lat_wgs84>
+      <lon_wgs84>11.4595</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>021323.00</nloc_cfti>
+      <desloc_cfti>Cavalese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 4-5s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Codigoro</desloc>
+      <lat_wgs84>44.8317</lat_wgs84>
+      <lon_wgs84>12.1055</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>040451.00</nloc_cfti>
+      <desloc_cfti>Codigoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 8s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Feltre</desloc>
+      <lat_wgs84>46.0201</lat_wgs84>
+      <lon_wgs84>11.9057</lon_wgs84>
+      <provlet>BL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>026108.00</nloc_cfti>
+      <desloc_cfti>Feltre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 7-8s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mantova</desloc>
+      <lat_wgs84>45.1527</lat_wgs84>
+      <lon_wgs84>10.7748</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>019701.00</nloc_cfti>
+      <desloc_cfti>Mantova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di pochi secondi, fu avvertita da una parte della popolazione $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Monselice</desloc>
+      <lat_wgs84>45.24</lat_wgs84>
+      <lon_wgs84>11.7507</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>029029.00</nloc_cfti>
+      <desloc_cfti>Monselice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di pochi secondi, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Montecchio Maggiore</desloc>
+      <lat_wgs84>45.504</lat_wgs84>
+      <lon_wgs84>11.4166</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>024790.00</nloc_cfti>
+      <desloc_cfti>Montecchio Maggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 3s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Salò</desloc>
+      <lat_wgs84>45.6065</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>016874.00</nloc_cfti>
+      <desloc_cfti>Salò</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 3s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Trento</desloc>
+      <lat_wgs84>46.065</lat_wgs84>
+      <lon_wgs84>11.1242</lon_wgs84>
+      <provlet>TN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>022075.00</nloc_cfti>
+      <desloc_cfti>Trento</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di pochi secondi, fu avvertita sensibilmente $(000029,050399,420268)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Trissino</desloc>
+      <lat_wgs84>45.5646</lat_wgs84>
+      <lon_wgs84>11.3706</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>025505.00</nloc_cfti>
+      <desloc_cfti>Trissino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vicenza</desloc>
+      <lat_wgs84>45.5499</lat_wgs84>
+      <lon_wgs84>11.549</lon_wgs84>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>025814.00</nloc_cfti>
+      <desloc_cfti>Vicenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(050399,420268)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Zadar</desloc>
+      <lat_wgs84>44.1128</lat_wgs84>
+      <lon_wgs84>15.2287</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>080094.00</nloc_cfti>
+      <desloc_cfti>Zadar</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 3-4s, fu avvertita sensibilmente $(000029,050399)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da una parte della popolazione $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bertinoro</desloc>
+      <lat_wgs84>44.1481</lat_wgs84>
+      <lon_wgs84>12.1342</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>041501.00</nloc_cfti>
+      <desloc_cfti>Bertinoro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Finale Emilia</desloc>
+      <lat_wgs84>44.8333</lat_wgs84>
+      <lon_wgs84>11.2939</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>038331.00</nloc_cfti>
+      <desloc_cfti>Finale Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Livorno</desloc>
+      <lat_wgs84>43.5508</lat_wgs84>
+      <lon_wgs84>10.3207</lon_wgs84>
+      <provlet>LI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>045968.00</nloc_cfti>
+      <desloc_cfti>Livorno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di pochi secondi, fu avvertita da poche persone $(420268)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Suzzara</desloc>
+      <lat_wgs84>44.9923</lat_wgs84>
+      <lon_wgs84>10.7441</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>020152.00</nloc_cfti>
+      <desloc_cfti>Suzzara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Urbino</desloc>
+      <lat_wgs84>43.7266</lat_wgs84>
+      <lon_wgs84>12.636</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>051050.00</nloc_cfti>
+      <desloc_cfti>Urbino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Villa Santina</desloc>
+      <lat_wgs84>46.4153</lat_wgs84>
+      <lon_wgs84>12.9213</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>031865.00</nloc_cfti>
+      <desloc_cfti>Villa Santina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di III grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Brescia</desloc>
+      <lat_wgs84>45.5447</lat_wgs84>
+      <lon_wgs84>10.2141</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>015818.00</nloc_cfti>
+      <desloc_cfti>Brescia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Chiavari</desloc>
+      <lat_wgs84>44.318</lat_wgs84>
+      <lon_wgs84>9.322</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>033219.00</nloc_cfti>
+      <desloc_cfti>Chiavari</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Clusone</desloc>
+      <lat_wgs84>45.8892</lat_wgs84>
+      <lon_wgs84>9.9494</lon_wgs84>
+      <provlet>BG</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>014672.00</nloc_cfti>
+      <desloc_cfti>Clusone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Figline Valdarno</desloc>
+      <lat_wgs84>43.6183</lat_wgs84>
+      <lon_wgs84>11.4724</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>044986.00</nloc_cfti>
+      <desloc_cfti>Figline Valdarno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Forlì</desloc>
+      <lat_wgs84>44.2174</lat_wgs84>
+      <lon_wgs84>12.049</lon_wgs84>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>041710.00</nloc_cfti>
+      <desloc_cfti>Forlì</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Genova</desloc>
+      <lat_wgs84>44.42</lat_wgs84>
+      <lon_wgs84>8.8971</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>033336.00</nloc_cfti>
+      <desloc_cfti>Genova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Macerata</desloc>
+      <lat_wgs84>43.3001</lat_wgs84>
+      <lon_wgs84>13.4523</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>051792.00</nloc_cfti>
+      <desloc_cfti>Macerata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochissime persone $(672684)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente da poche persone negli piani più alti delle case $(420017,420268)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Pesaro</desloc>
+      <lat_wgs84>43.9052</lat_wgs84>
+      <lon_wgs84>12.9049</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>050783.00</nloc_cfti>
+      <desloc_cfti>Pesaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Rimini</desloc>
+      <lat_wgs84>44.06</lat_wgs84>
+      <lon_wgs84>12.5666</lon_wgs84>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>041984.00</nloc_cfti>
+      <desloc_cfti>Rimini</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Tortona</desloc>
+      <lat_wgs84>44.898</lat_wgs84>
+      <lon_wgs84>8.864</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>28444</nterr>
+      <nloc_cfti>009204.00</nloc_cfti>
+      <desloc_cfti>Tortona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Ingrao (1930) valutò l’intensità della scossa di II grado della scala Mercalli $(000029)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

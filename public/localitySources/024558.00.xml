@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>024558.00</nloc_cfti>
+      <desloc_cfti>Grisignano di Zocco</desloc_cfti>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.4763</lat_wgs84>
+      <lon_wgs84>11.6993</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20745</nterr>
+      <nperiod>000391</nperiod>
+      <datanum>19080203</datanum>
+      <data_label>1908 02 03</data_label>
+      <anno>1908</anno>
+      <mese>02</mese>
+      <giorno>03</giorno>
+      <time_label>13:36:26</time_label>
+      <ora>13</ora>
+      <minu>36</minu>
+      <sec>26</sec>
+      <lat>45.5608</lat>
+      <lon>11.1753</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>34</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14839</nterr>
+      <nperiod>003345</nperiod>
+      <datanum>18940209</datanum>
+      <data_label>1894 02 09</data_label>
+      <anno>1894</anno>
+      <mese>02</mese>
+      <giorno>09</giorno>
+      <time_label>12:48:05</time_label>
+      <ora>12</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>45.5845</lat>
+      <lon>11.1402</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>116</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17186</nterr>
+      <nperiod>000326</nperiod>
+      <datanum>18991115</datanum>
+      <data_label>1899 11 15</data_label>
+      <anno>1899</anno>
+      <mese>11</mese>
+      <giorno>15</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.4041</lat>
+      <lon>11.4399</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>25</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Vicentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

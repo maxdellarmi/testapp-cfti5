@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42077</nterr>
+      <nperiod>009044</nperiod>
+      <datanum>17610503</datanum>
+      <data_label>1761 05 03</data_label>
+      <anno>1761</anno>
+      <mese>05</mese>
+      <giorno>03</giorno>
+      <time_label>09:00</time_label>
+      <ora>09</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.9149</lat>
+      <lon>16.5859</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Catanzaro</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso e ignorato dalla tradizione sismologica italiana.&lt;br&gt;Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati oggetto di un rapporto inedito disponibile presso INGV (SGA 2000 $(021296)$).&lt;br&gt;L’evento è ricordato nel "Diario" degli avvenimenti di Catanzaro di Gregorio Susanna, una fonte memorialistica coeva di notevole valore informativo. L’autore, testimone diretto del terremoto, continuò, tra il 1733 e il 1769, l’opera iniziata nel 1710 dallo zio Giovanni Battista Moio $(055094)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questa sequenza sismica cominciò il 3 maggio 1761 e si protrasse per circa un mese. La prima scossa fu sentita a Catanzaro intorno alle ore 8:15 GMT (ore 14 in orario "all’italiana") del 3 maggio; non fu molto forte ma causò ugualmente apprensione tra la popolazione. Tre quarti d’ora dopo, alle ore 9:00 GMT circa (14 3/4 in orario "all’italiana"), ci fu un’altra scossa molto più violenta che lesionò diverse abitazioni. La popolazione spaventata abbandonò le case e trascorse tutto il giorno e la notte seguente accampata all’aperto. Molte scosse leggere furono sentite nei giorni successivi, per tutto il mese di maggio; la più sensibile avvenne il 17 maggio. Un’altra scossa molto forte fu sentita il 3 giugno alle ore 9:45 GMT circa (le 15 in orario "all’italiana").</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055094</codbib>
+      <autore1>Moio G.B. e Susanna G.</autore1>
+      <titolo1>Diario di quanto successe in Catanzaro dal 1710 al 1769, ed. U.Ferrari.</titolo1>
+      <luogoed>Chiaravalle Centrale</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Catanzaro</desloc>
+      <lat_wgs84>38.9149</lat_wgs84>
+      <lon_wgs84>16.5859</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>42077</nterr>
+      <nloc_cfti>064567.00</nloc_cfti>
+      <desloc_cfti>Catanzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La prima scossa fu sentita il 3 maggio 1761 alle ore 8:15 GMT circa (ore 14 in orario "all’italiana"); non fu molto forte ma causò ugualmente apprensione tra la popolazione. Tre quarti d’ora dopo, alle ore 9:00 GMT circa (14 3/4 in orario "all’italiana"), ci fu un’altra scossa molto più violenta che lesionò diverse abitazioni. La popolazione spaventata abbandonò le case e trascorse tutto il giorno e la notte seguente accampata all’aperto. Molte scosse leggere furono sentite nei giorni successivi, per tutto il mese di maggio; la più sensibile avvenne il 17 maggio. Un’altra scossa fu sentita il 3 giugno alle ore 9:45 GMT circa (le 15 in orario "all’italiana"); fu molto forte e fece fuggire tutti gli abitanti all’aperto $(055094)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

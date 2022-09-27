@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049430.00</nloc_cfti>
+      <desloc_cfti>Ponte Valleceppi</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>43.1092</lat_wgs84>
+      <lon_wgs84>12.4464</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25042</nterr>
+      <nperiod>003292</nperiod>
+      <datanum>19150326</datanum>
+      <data_label>1915 03 26</data_label>
+      <anno>1915</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>23:37</time_label>
+      <ora>23</ora>
+      <minu>37</minu>
+      <sec>-9</sec>
+      <lat>43.0783</lat>
+      <lon>12.4625</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>40</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Assisi (PG)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 26 marzo 1915 fu avvertita, non causò danni, solo spavento tra la popolazione che si riversò all’aperto $(110838,110836,110833)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>110838</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.03.28, a.15, n.87.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110836</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale del Mattino, 1915.03.28, a.6, n.87.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110833</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1915.03.28, a.31, n.87.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

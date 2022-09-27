@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00098</nterr>
+      <nperiod>000015</nperiod>
+      <datanum>12290000</datanum>
+      <data_label>1229 - -</data_label>
+      <anno>1229</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.5</lat>
+      <lon>11.333</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca sulle fonti memorialistiche edite e manoscritte. La revisione ha consentito di individuare un doppio errore, di cronologia e di localizzazione, nella tradizione sismologica. Baratta (1901) $(000001)$ utilizzò De Rossi (1889) $(030123)$ e citò indirettamente Bardi (1581) $(030754)$ e Morigia (1614) $(030715)$, due opere della tarda storiografia erudita. Secondo Baratta, nel 1229 a Bologna e a Roma ci sarebbero stati dei terremoti.&lt;br&gt;Il controllo dei riferimenti bibliografici utilizzati da Baratta ha evidenziato in primo luogo che, a causa di un refuso, Baratta trascrisse erroneamente la data del terremoto: invece di 1299 riportò 1229. Il controllo della fonte utilizzata da De Rossi, le memorie manoscritte di Ghiselli (Biblioteca Universitaria di Bologna, 770) $(410041)$, ha permesso di accertare un’imprecisione nella citazione. Infatti nella trascrizione di De Rossi si localizzano anche a Bologna i danni del terremoto, mentre il testo di Ghiselli non riporta affatto l’espressione "Qui (in Bologna)". L’unica localizzazione del terremoto è quella delle "campagne di Roma". La notizia riportata da Ghiselli si riferisce perciò solo al famoso terremoto di Rieti del giorno 1 dicembre 1298, anche se riportata con un errore cronologico.&lt;br&gt;La produzione memorialistica di Bologna del XIII secolo è andata perduta; lo spoglio di due autorevoli cronache che ereditarono la tradizione precedente, la cronaca Villola, redatta alla fine del Trecento $(090322)$ e la cronaca Rampona del XV secolo $(090320)$ non contengono alcuna notizia di questo presunto evento (Guidoboni 1995) $(190112)$.&lt;br&gt;Altri testi storiografici tardi ricordano un terremoto a Bologna nel 1229: l’origine sembra essere l’opera di Rutilio Benincasa, ripreso da Rosaccio (1641) $(410231)$. Ma già Bonito (1691) $(000003)$ osservava che Benincasa aveva originato "Bologna" fraintendendo il toponimo "Borgogna", forse per un refuso tipografico. L’osservazione di Bonito non fu però utilizzata da Baratta.&lt;br&gt;In base a tali risultati l’evento è stato eliminato dal catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030715</codbib>
+      <autore1>Morigia P.</autore1>
+      <titolo1>Sommario cronologico diviso in sette libri ne’ quali con ordinata serie de tempi si ha notitia delli più gravi, &amp; importanti avvenimenti da che principiò il mondo, sino al presente.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1614</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030754</codbib>
+      <autore1>Bardi G.</autore1>
+      <titolo1>Chronologia universale dalla creazione di Adamo sino al 1581, 4 voll.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1581</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080271</codbib>
+      <autore1>Iaccarino E. e Molin D.</autore1>
+      <titolo1>Raccolta di notizie macrosismiche dell’Italia Nordorientale dall’anno 0 all’aprile 1976, CNEN, RT/DISP (78) 7.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090320</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Rampona (Cronaca A) [1104-1471], in Corpus chronicorum Bononiensium, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090322</codbib>
+      <autore1>Villola Pietro e Floriano</autore1>
+      <titolo1>Chronaca [1163-1372], in Corpus chronicorum Bononiensium, ed A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190112</codbib>
+      <autore1>Guidoboni E.</autore1>
+      <titolo1>Tracce di effetti sismici, in "Bologna, vol.2, Il Duecento", Atlante storico delle città italiane. Emilia-Romagna 2, a cura di F.Bocchi, pp.82-83.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1995</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca dell’Accademia delle Scienze di Torino, Manoscritti, 315, G.A.De Morani, Notizie cronologiche degli anni che sono stati molto piovosi, secchi e freddi all’eccesso e ne’ quali si sono sentite scosse di terremoti successi incendi ed occorsi accidenti molto rimarchevoli in diverse parti del mondo sino al presente ricavati con somma diligenza da varii classici scrittori di cronologia e di storia, 1795.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1795</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>260008</codbib>
+      <autore1>Gioffredo F.</autore1>
+      <titolo1>Compendio historico ovvero cronologia del mondo ove si vedono le cose più notabili e in che anno siano successe cominciando dalla natività di Nostro Signor Gesù Christo fino all’anno 1620.</titolo1>
+      <luogoed>Nizza</luogoed>
+      <datacompl>1624</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410041</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 770, Antonio Francesco Ghiselli, Memorie antiche manuscritte di Bologna, raccolte, et accresciute sino à tempi presenti [origini-1729], 93 voll. + 2 di indici, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410231</codbib>
+      <autore1>Rosaccio G.</autore1>
+      <titolo1>Le sei età del mondo dalle origini al 1636.</titolo1>
+      <luogoed>Viterbo</luogoed>
+      <datacompl>1641</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

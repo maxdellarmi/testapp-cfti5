@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>006760.00</nloc_cfti>
+      <desloc_cfti>Saluzzo</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>14</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.6449</lat_wgs84>
+      <lon_wgs84>7.4892</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu forte $(001340)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11110</nterr>
+      <nperiod>003343</nperiod>
+      <datanum>18780607</datanum>
+      <data_label>1878 06 07</data_label>
+      <anno>1878</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>22:25</time_label>
+      <ora>22</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>44.44</lat>
+      <lon>7.356</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>34</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34811</nterr>
+      <nperiod>003350</nperiod>
+      <datanum>19630719</datanum>
+      <data_label>1963 07 19</data_label>
+      <anno>1963</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>05:45:28</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>28</sec>
+      <lat>43.9233</lat>
+      <lon>8.0648</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>463</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12128</nterr>
+      <nperiod>000731</nperiod>
+      <datanum>18841127</datanum>
+      <data_label>1884 11 27</data_label>
+      <anno>1884</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>22:15</time_label>
+      <ora>22</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.9346</lat>
+      <lon>6.6222</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>63</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(000124)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04945</nterr>
+      <nperiod>000162</nperiod>
+      <datanum>18080402</datanum>
+      <data_label>1808 04 02</data_label>
+      <anno>1808</anno>
+      <mese>04</mese>
+      <giorno>02</giorno>
+      <time_label>20:15</time_label>
+      <ora>20</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.8234</lat>
+      <lon>7.2609</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>15</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle del Pellice</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa del 2 aprile, delle 5.43 pomeridiane secondo l’uso orario francese (16:43 GMT), causò danni alle abitazioni e fece crollare parte del campanile della chiesa di San Bernardino $(600003)$.&lt;br&gt;La scossa del 2 aprile, delle 9.15 pomeridiane secondo l’uso orario francese (20:15 GMT), fu avvertita abbastanza fortemente $(080137)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23530</nterr>
+      <nperiod>000417</nperiod>
+      <datanum>19100908</datanum>
+      <data_label>1910 09 08</data_label>
+      <anno>1910</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>00:34:51</time_label>
+      <ora>00</ora>
+      <minu>34</minu>
+      <sec>51</sec>
+      <lat>44.583</lat>
+      <lon>7.646</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>5</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17752</nterr>
+      <nperiod>000333</nperiod>
+      <datanum>19010525</datanum>
+      <data_label>1901 05 25</data_label>
+      <anno>1901</anno>
+      <mese>05</mese>
+      <giorno>25</giorno>
+      <time_label>03:59:20</time_label>
+      <ora>03</ora>
+      <minu>59</minu>
+      <sec>20</sec>
+      <lat>44.9256</lat>
+      <lon>7.567</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>35</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Torinese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31547</nterr>
+      <nperiod>003227</nperiod>
+      <datanum>19380718</datanum>
+      <data_label>1938 07 18</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>00:57</time_label>
+      <ora>00</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>44.5932</lat>
+      <lon>6.7347</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>260</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita da pochi che si trovavano a letto svegli; alcuni non capirono che si trattava di un terremoto $(020482)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05224</nterr>
+      <nperiod>000818</nperiod>
+      <datanum>18180223</datanum>
+      <data_label>1818 02 23</data_label>
+      <anno>1818</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>18:10:01</time_label>
+      <ora>18</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>43.8092</lat>
+      <lon>7.6436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>45</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Liguria occidentale-Francia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Furono avvertite 2 leggere scosse ravvicinate che non causarono danni, solo rintocchi delle campane delle chiese e dei campanelli nelle case $(450013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa fu avvertita da pochissimi in casa, ma non all’aperto $(035298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19253</nterr>
+      <nperiod>003218</nperiod>
+      <datanum>19050429</datanum>
+      <data_label>1905 04 29</data_label>
+      <anno>1905</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>01:46:45</time_label>
+      <ora>01</ora>
+      <minu>46</minu>
+      <sec>45</sec>
+      <lat>46.0163</lat>
+      <lon>7.0109</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>268</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(000017)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17473</nterr>
+      <nperiod>000333</nperiod>
+      <datanum>19001230</datanum>
+      <data_label>1900 12 30</data_label>
+      <anno>1900</anno>
+      <mese>12</mese>
+      <giorno>30</giorno>
+      <time_label>23:36:20</time_label>
+      <ora>23</ora>
+      <minu>36</minu>
+      <sec>20</sec>
+      <lat>44.6512</lat>
+      <lon>8.447</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>36</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Alto Monferrato</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23529</nterr>
+      <nperiod>000417</nperiod>
+      <datanum>19100907</datanum>
+      <data_label>1910 09 07</data_label>
+      <anno>1910</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>15:26</time_label>
+      <ora>15</ora>
+      <minu>26</minu>
+      <sec>-9</sec>
+      <lat>44.4333</lat>
+      <lon>7.5084</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3.5</imax>
+      <npun>8</npun>
+      <mm>3.5</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04943</nterr>
+      <nperiod>000162</nperiod>
+      <datanum>18080402</datanum>
+      <data_label>1808 04 02</data_label>
+      <anno>1808</anno>
+      <mese>04</mese>
+      <giorno>02</giorno>
+      <time_label>16:43</time_label>
+      <ora>16</ora>
+      <minu>43</minu>
+      <sec>-9</sec>
+      <lat>44.8387</lat>
+      <lon>7.248</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>105</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Pellice</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 2 aprile, delle 5.43 pomeridiane secondo l’uso orario francese (16:43 GMT), causò danni alle abitazioni e fece crollare parte del campanile della chiesa di San Bernardino $(600003)$.&lt;br&gt;La scossa del 2 aprile, delle 9.15 pomeridiane secondo l’uso orario francese (20:15 GMT), fu avvertita abbastanza fortemente $(080137)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>600003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale Italiano, 1808.04.17.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1808</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080137</codbib>
+      <autore1>Vassalli-Eandi A.M.</autore1>
+      <titolo1>Rapport sur le tremblement de terre qui a commencé le 2 avril 1808 dans les vallées de Pélis, de Cluson, de Pô, etc. Fait à la Classe des Sciences Physiques et Mathématiques de l’Académie Impériale de Turin dan sa Séance du 2 mai 1808.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1808</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021241</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po1. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000124</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino decadico dell’Associazione meteorologica italiana pubblicato per cura dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, a.13 (dicembre 1883-novembre 1884).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1884</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450013</codbib>
+      <autore1>Vassalli-Eandi A.M.</autore1>
+      <titolo1>Sopra il Tremuoto del dì 23 di febbraio dell’anno 1818, in "Memorie della Regia Accademia delle Scienze di Torino", tomo 23 (1818), pp.397-410.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1818</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001340</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche inviate all’Ufficio Centrale di Meteorologia e Geodinamica riguardanti il terremoto del 23 febbraio 1887.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020482</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Notizie sismiche pervenute all’Ufficio Centrale di Meteorologia durante l’anno 1938.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1938</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000017</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1905, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1907 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385900</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1963.07.20, a.78, n.171.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1963</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041925.00</nloc_cfti>
+      <desloc_cfti>Calagianni</desloc_cfti>
+      <provlet>RN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.9148</lat_wgs84>
+      <lon_wgs84>12.6609</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa del 16 agosto causò gravissimi danni $(095331,095346)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095331</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Riminese, 1916.08.27, n.33.</titolo1>
+      <luogoed>Rimini</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095346</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1916.08.26, n.239.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

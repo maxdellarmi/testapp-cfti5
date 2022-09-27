@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080102.00</nloc_cfti>
+      <desloc_cfti>Ossiach</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>46.6673</lat_wgs84>
+      <lon_wgs84>13.9924</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00232</nterr>
+      <nperiod>000750</nperiod>
+      <datanum>13480125</datanum>
+      <data_label>1348 01 25</data_label>
+      <anno>1348</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.5795</lat>
+      <lon>13.5408</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>58</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>700019</codbib>
+      <autore1>Villani Giovanni</autore1>
+      <titolo1>Nuova cronica, ed. G.Porta, 3 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1990 - 1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

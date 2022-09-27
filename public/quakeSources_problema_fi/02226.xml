@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>02226</nterr>
+      <nperiod>003275</nperiod>
+      <datanum>17710108</datanum>
+      <data_label>1771 01 08</data_label>
+      <anno>1771</anno>
+      <mese>01</mese>
+      <giorno>08</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.5</lat>
+      <lon>10.25</lon>
+      <rel>N</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Livorno</earthquakelocation>
+      <epicenter_type>Not parameterized</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata condotta una ricerca bibliografica. Baratta (1901) $(000001)$, riferimento bibliografico del catalogo per questo evento, desunse notizie da Pilla (1846) $(630005)$ ­ che a sua volta utilizzò informazioni estratte da fonti manoscritte livornesi ­ e dai "Documenti" Malvasia pubblicati da De Rossi (1889) $(030123)$. Sono stati inoltre vagliati 6 resoconti giornalistici dell’epoca pubblicati sulle gazzette "Bologna" $(071663,071664,071665)$, "Diario ordinario" $(470541,470542)$ e "Gazzetta di Mantova" $(810008)$. Tali corrispondenze derivano da un’unica fonte e riportano le stesse notizie sugli effetti dell’evento a Livorno.&lt;br&gt;Il terremoto è genericamente menzionato nei cataloghi o negli studi di von Hoff (1841) $(080262)$, Perrey (1848) $(050007)$, Mercalli (1883) $(000002)$, Baratta (1894-1895) $(060007)$, Giovannozzi (1895) $(060022)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Livorno apparteneva al Granducato di Toscana, governato da Pietro Leopoldo I (1765-1790).</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>A Livorno fu sospesa la rappresentazione di un’opera a teatro e le chiese rimasero aperte tutta la notte per accogliere i fedeli $(071663,810008)$.&lt;br&gt;Il governatore, per mantenere l’ordine pubblico, fece pattugliare la città per tutta la notte da truppe di soldati.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Forti scosse di terremoto si succedettero a Livorno dall’8 al 25 gennaio 1771. Ne furono avvertite 15, di cui 2 furono più forti delle altre. La prima avvenne il giorno 8 gennaio 1771 circa alle ore 3:00 GMT e fu seguita da una seconda circa una mezz’ora dopo, alle ore 3:30 GMT. Tali scosse causarono grande spavento nella popolazione e leggeri danni agli edifici. Parte della popolazione lasciò la città per rifugiarsi a Pisa, il che porterebbe a supporre che in quella località le scosse non furono sentite o furono molto leggere.&lt;br&gt;Scosse leggere si susseguirono fino al 20 marzo; il 12 marzo alle ore 20:00 GMT fu avvertita una scossa più leggera di quelle avvenute il giorno 8 gennaio.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060007</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Alcune considerazioni sintetiche sulla distribuzione topografica dei terremoti nella Toscana, in "Rivista Geografica Italiana", vol.1, pp.612-617, vol.2, pp.24-31.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894 - 1895</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060022</codbib>
+      <autore1>Giovannozzi G.</autore1>
+      <titolo1>Per una storia dei Terremoti toscani, in "La Rassegna Nazionale", a.17, vol.83, fasc.2,  pp.222-239.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071663</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1771.01.15, n.3.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071664</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1771.01.22, n.4.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071665</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1771.01.29, n.5.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080262</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, zweiter Theil vom Jahre 1760 bis 1805, und von 1821 bis 1832 n. Chr. geb., in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 5.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1841</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470541</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ordinario, 1771.01.25, n.8233.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470542</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ordinario, 1771.02.01, n.8235.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>630005</codbib>
+      <autore1>Pilla L.</autore1>
+      <titolo1>Istoria del tremuoto che ha devastato i paesi della costa toscana il dì 14 agosto 1846 (ristampa anastatica, Sala Bolognese 1985).</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>810008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1771.01.18, n.3.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

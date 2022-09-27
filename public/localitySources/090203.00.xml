@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>090203.00</nloc_cfti>
+      <desloc_cfti>Media valle del Reno</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.334</lat_wgs84>
+      <lon_wgs84>11.1831</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00409</nterr>
+      <nperiod>000061</nperiod>
+      <datanum>14551220</datanum>
+      <data_label>1455 12 20</data_label>
+      <anno>1455</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.4163</lat>
+      <lon>11.2614</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Media valle del Reno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42020</nterr>
+      <nperiod>009013</nperiod>
+      <datanum>14550206</datanum>
+      <data_label>1455 02 06</data_label>
+      <anno>1455</anno>
+      <mese>02</mese>
+      <giorno>06</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.334</lat>
+      <lon>11.1831</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>2</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Media valle del Reno</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Varignana (Cronaca B) [-1471], in Corpus chronicorum Bononiensum, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090320</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Rampona (Cronaca A) [1104-1471], in Corpus chronicorum Bononiensium, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385856</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 429, Lorenzo Cattani, Croniche della città di Bologna dall’anno 423 al 1458, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

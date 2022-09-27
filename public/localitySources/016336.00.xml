@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>016336.00</nloc_cfti>
+      <desloc_cfti>Longhena</desloc_cfti>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>45.4379</lat_wgs84>
+      <lon_wgs84>10.06</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04844</nterr>
+      <nperiod>000159</nperiod>
+      <datanum>18020512</datanum>
+      <data_label>1802 05 12</data_label>
+      <anno>1802</anno>
+      <mese>05</mese>
+      <giorno>12</giorno>
+      <time_label>09:30</time_label>
+      <ora>09</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.4157</lat>
+      <lon>9.8542</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>66</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle dell’Oglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fu violentemente avvertita $(092140)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Cadde un soffitto in una casa $(170139)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092140</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto sentito in Lombardia il 27 novembre 1894. Contribuzione allo studio dell’attività sismica nell’Italia settentrionale, in "Atti della Società Toscana di Scienze Naturali residente in Pisa. Processi verbali", vol.10, pp.41-55.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1895 - 1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170139</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1901.11.01, n.302.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

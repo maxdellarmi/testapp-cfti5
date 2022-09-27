@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053885.00</nloc_cfti>
+      <desloc_cfti>Montecompatri</desloc_cfti>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>9</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>41.8074</lat_wgs84>
+      <lon_wgs84>12.7361</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò gravi danni agli edifici $(146429)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17066</nterr>
+      <nperiod>003142</nperiod>
+      <datanum>18990719</datanum>
+      <data_label>1899 07 19</data_label>
+      <anno>1899</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>13:18:54</time_label>
+      <ora>13</ora>
+      <minu>18</minu>
+      <sec>54</sec>
+      <lat>41.7982</lat>
+      <lon>12.6857</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>122</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò il riaprirsi di alcune fenditure nelle case già danneggiate dal terremoto del 22 gennaio 1892. Nella chiesa parrocchiale di S.Maria Assunta, di proprietà della famiglia Borghese, crollò gran parte di un arco di costruito posteriormente alla chiesa antica e non connesso con quella parte dell’edificio. Nella parte antica della chiesa, invece, non si constatarono lesioni. Il parroco richiese poi la chiusura al pubblico. Una donna, che si trovava al lavatoio vicino alla chiesa parrocchiale, rimase ferita dalla caduta di sassi $(110671,000008,110778,110781,600425,510286,110782)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42855</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>00:33</time_label>
+      <ora>00</ora>
+      <minu>33</minu>
+      <sec>-9</sec>
+      <lat>43.0415</lat>
+      <lon>12.9983</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>760</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42856</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19970926</datanum>
+      <data_label>1997 09 26</data_label>
+      <anno>1997</anno>
+      <mese>09</mese>
+      <giorno>26</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.1141</lat>
+      <lon>12.9011</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>891</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05593</nterr>
+      <nperiod>003139</nperiod>
+      <datanum>18290601</datanum>
+      <data_label>1829 06 01</data_label>
+      <anno>1829</anno>
+      <mese>06</mese>
+      <giorno>01</giorno>
+      <time_label>09:00</time_label>
+      <ora>09</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.7552</lat>
+      <lon>12.6802</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>25</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Le scosse del periodo simico furono avvertite sensibilmente $(745083)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42857</nterr>
+      <nperiod>003150</nperiod>
+      <datanum>19971014</datanum>
+      <data_label>1997 10 14</data_label>
+      <anno>1997</anno>
+      <mese>10</mese>
+      <giorno>14</giorno>
+      <time_label>15:23</time_label>
+      <ora>15</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>42.9471</lat>
+      <lon>12.9735</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>786</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>2</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18754</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040224</datanum>
+      <data_label>1904 02 24</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>15:53:26</time_label>
+      <ora>15</ora>
+      <minu>53</minu>
+      <sec>26</sec>
+      <lat>42.0975</lat>
+      <lon>13.3162</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>56</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani risultò che la scossa non fu avvertita e così anche la replica delle ore 0.29 GMT, del 25 febbraio, passò inosservata $(000016,235476)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18757</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>00:29:04</time_label>
+      <ora>00</ora>
+      <minu>29</minu>
+      <sec>04</sec>
+      <lat>41.9875</lat>
+      <lon>13.2532</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>22</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani risultò che la scossa non fu avvertita e così anche la replica delle ore 0.29 GMT, del 25 febbraio, passò inosservata $(000016,235476)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04919</nterr>
+      <nperiod>003138</nperiod>
+      <datanum>18060826</datanum>
+      <data_label>1806 08 26</data_label>
+      <anno>1806</anno>
+      <mese>08</mese>
+      <giorno>26</giorno>
+      <time_label>07:35</time_label>
+      <ora>07</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>41.7191</lat>
+      <lon>12.7253</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>35</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Colli Albani</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Non sono note descrizioni degli effetti. Molin (1981) valutò l’intensità della scossa di VII grado MCS $(745098)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235476</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto nella Marsica del 24 febbraio 1904, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.411-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>146429</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1915.01.14.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745098</codbib>
+      <autore1>Molin D.</autore1>
+      <titolo1>Sulla sismicità storica dei Colli Albani, CNEN, RT/AMB (81) 11.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745083</codbib>
+      <autore1>Bassanelli L.</autore1>
+      <titolo1>Sopra il tremuoto che ha sofferto la città di Albano con le sue vicinanze dal giorno 21 di maggio a tutto il dì 6 dicembre 1829. Lettera del dottor fisico Luigi Bassanelli all’ecc.mo sig. dottor Giacomo Folchi pubblico professore di medicina nell’archiginnasio romano, in "Giornale Arcadico", vol.44, pp.37-74.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1829</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110671</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, luglio 1899, n.211, Annotazioni di Adolfo Cancani sul terremoto del 19 luglio 1899 relative alle ricognizioni dirette effettuate nelle località colpite, luglio 1899.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000008</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1899, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.6 (1900-1901).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110778</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1899.07.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110781</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1899.07.20.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600425</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1899.07.20-21.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510286</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Berico, 1899.07.20-21, a.24, n.163.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110782</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1899.07.21.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

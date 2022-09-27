@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>038081.00</nloc_cfti>
+      <desloc_cfti>Viano</desloc_cfti>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>2.5</maxint>
+      <lat_wgs84>44.5457</lat_wgs84>
+      <lon_wgs84>10.6204</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30592</nterr>
+      <nperiod>000529</nperiod>
+      <datanum>19320419</datanum>
+      <data_label>1932 04 19</data_label>
+      <anno>1932</anno>
+      <mese>04</mese>
+      <giorno>19</giorno>
+      <time_label>00:17</time_label>
+      <ora>00</ora>
+      <minu>17</minu>
+      <sec>-9</sec>
+      <lat>44.5879</lat>
+      <lon>10.774</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>4.5</imax>
+      <npun>9</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Sassuolo (MO)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2.5</intpqnum>
+      <intpq>II-III</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

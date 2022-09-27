@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045645.00</nloc_cfti>
+      <desloc_cfti>San Bavello</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.9235</lat_wgs84>
+      <lon_wgs84>11.5735</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 29 giugno 1919 causò il crollo della cella campanaria a vela su corpo quadrato, con le campane $(020003)$ della chiesa di S.Babila, che subì crolli parziali al tetto e alla facciata triangolare, che si spostò $(020021)$. Fu ricostruita su progetto dell’architetto Cerpi e subì un’alterazione architettonica che la ridusse ad avere una sola navata rispetto alle tre originarie $(671345)$. Una forte replica, avvenuta l’8 luglio poco prima delle ore 8 locali, aggravò i danni $(030115)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.06.30, a.14, n.160.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020021</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.07.02, a.14, n.176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671345</codbib>
+      <autore1>Altieri A.</autore1>
+      <titolo1>San Godenzo. Un popolo, un’abbazia in Alta Val di Sieve.</titolo1>
+      <luogoed>Rufina</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030115</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.09, a.14, n.170.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

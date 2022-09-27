@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42063</nterr>
+      <nperiod>009029</nperiod>
+      <datanum>17331020</datanum>
+      <data_label>1733 10 20</data_label>
+      <anno>1733</anno>
+      <mese>10</mese>
+      <giorno>20</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.6038</lat>
+      <lon>13.5073</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.5</mm>
+      <earthquakelocation>Ancona</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso. Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati oggetto di un rapporto inedito disponibile presso INGV (SGA 2000) $(021296)$.&lt;br&gt;L’evento era noto alla tradizione sismologica italiana, è infatti compreso nel repertorio di materiali raccolti dal conte Malvasia e pubblicati da De Rossi (1889) $(030123)$, che include anche uno spoglio delle antiche gazzette bolognesi. Il terremoto è segnalato nel numero del 10 novembre 1733 della gazzetta "Bologna" che riporta una corrispondenza da Roma datata 31 ottobre $(450248)$, con notizie di danni rilevanti causati dal terremoto ad Ancona. Un’altra gazzetta, il "Diario Ordinario" stampato a Roma, nel numero del 14 novembre 1733 riferisce notizie discordanti, probabilmente più verificate, secondo cui le scosse sentite ad Ancona non avrebbero causato danni $(470499)$.&lt;br&gt;Recentemente la notizia è stata ripresa da Camassi e Castelli (2004) in uno studio dedicato all’analisi delle fonti giornalistiche del Sei-Settecento $(051385)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 19 e il 20 ottobre 1733 ad Ancona furono sentite due scosse di terremoto molto forti, che probabilmente non causarono danni rilevanti.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051385</codbib>
+      <autore1>Camassi R. e Castelli V.</autore1>
+      <titolo1>Looking for "new" earthquake data in the 17th-18th century European "newssellers" network, in "Journal of Earthquake Engineering", vol.8 (2004), n.3, pp.335-359.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450248</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1733.11.10, n.45.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470499</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ordinario, 1733.11.14, n.2541.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Ancona</desloc>
+      <lat_wgs84>43.6038</lat_wgs84>
+      <lon_wgs84>13.5073</lon_wgs84>
+      <provlet>AN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>42063</nterr>
+      <nloc_cfti>051058.00</nloc_cfti>
+      <desloc_cfti>Ancona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il 19 e il 20 ottobre 1733 furono sentite due scosse di terremoto molto forti, che probabilmente non causarono danni rilevanti $(450248,470499)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

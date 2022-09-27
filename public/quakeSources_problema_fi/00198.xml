@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00198</nterr>
+      <nperiod>003242</nperiod>
+      <datanum>13090711</datanum>
+      <data_label>1309 07 11</data_label>
+      <anno>1309</anno>
+      <mese>07</mese>
+      <giorno>11</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.5</lat>
+      <lon>14.5</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Bojano (CB)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata su Baratta (1901), ed è stata sviluppata una ricerca bibliografica. Baratta (1901) $(000001)$ elencò un terremoto avvenuto l’11 luglio 1309, con effetti distruttivi a Bojano, utilizzando le compilazioni ottocentesche di Amati (1878) $(745169)$ e di Perrella (1890-1891) $(030600)$. Questi autori non citarono le proprie fonti, ma verosimilmente ripresero la notizia, che non trova conferme nella cronachistica coeva all’evento, dall’opera dello storico seicentesco Ciarlanti (1644) $(070804)$.&lt;br&gt;Nel repertorio di Bonito (1691) $(000003)$ questo evento non è menzionato. Tuttavia, in relazione al terremoto del 4 settembre 1293 (si veda in questo catalogo), lo stesso autore riferisce che i provvedimenti regi in favore della città di Bojano erano conservati nell’Archivio della Regia Zecca di Napoli, in un registro che portava la segnatura "anno 1309". Si può pertanto ritenere, mancando attestazioni certe della notizia di una nuova scossa distruttiva nel 1309, che tardi compilatori siano stati tratti in inganno dalla datazione del registro conservato nell’archivio napoletano, e che scambiandola per la data di un nuovo evento sismico, abbiano creato la falsa tradizione del terremoto del 1309.&lt;br&gt;In base ai risultati della revisione, l’evento è stato eliminato da questo catalogo.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>640109</codbib>
+      <autore1>Masciotta G.</autore1>
+      <titolo1>Il Molise dalle origini ai nostri giorni, 4 voll.</titolo1>
+      <luogoed>Napoli Cava Tirreni</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745169</codbib>
+      <autore1>Amati A.</autore1>
+      <titolo1>Dizionario corografico dell’Italia, 8 voll.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1878</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900322</codbib>
+      <autore1>Perrella A.</autore1>
+      <titolo1>Dei tremuoti nella provincia di Molise, in "Gazzetta della Provincia di Molise", a.7, n.27, pp.1-3, n.29, pp.1-2.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1873</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030600</codbib>
+      <autore1>Perrella A.</autore1>
+      <titolo1>Effemeride della provincia di Molise (già antico Sannio), 2 voll.</titolo1>
+      <luogoed>Isernia</luogoed>
+      <datacompl>1890 - 1891</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070804</codbib>
+      <autore1>Ciarlanti G.V.</autore1>
+      <titolo1>Memorie historiche del Sannio chiamato hoggi Principato Ultra, Contado di Molisi, e parte di Terra di Lavoro, Provincie del Regno di Napoli (ristampa anastatica, Sala Bolognese 1969).</titolo1>
+      <luogoed>Isernia</luogoed>
+      <datacompl>1644</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

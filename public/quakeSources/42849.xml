@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42849</nterr>
+      <nperiod>009760</nperiod>
+      <datanum>13041218</datanum>
+      <data_label>1304 12 18</data_label>
+      <anno>1304</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.3529</lat>
+      <lon>8.9531</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.5</mm>
+      <earthquakelocation>Morimondo (MI)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>150387</codbib>
+      <autore1>*</autore1>
+      <titolo1>Calendario (secc.XIII-XIV), in "Alcune notizie sul monastero di Morimondo", a cura di Giulio Porro, "Archivio Storico Lombardo", a.8, pp.626-8.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Morimondo</desloc>
+      <lat_wgs84>45.3529</lat_wgs84>
+      <lon_wgs84>8.9531</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>42849</nterr>
+      <nloc_cfti>013514.00</nloc_cfti>
+      <desloc_cfti>Morimondo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

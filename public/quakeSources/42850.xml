@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42850</nterr>
+      <nperiod>009160</nperiod>
+      <datanum>14000229</datanum>
+      <data_label>1400 02 29</data_label>
+      <anno>1400</anno>
+      <mese>02</mese>
+      <giorno>29</giorno>
+      <time_label>19:15</time_label>
+      <ora>19</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.4986</lat>
+      <lon>11.3396</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096068</codbib>
+      <autore1>Pietro di Mattiolo</autore1>
+      <titolo1>Cronaca bolognese [1321-1424] (secc.XIV-XV), ed. C.Ricci, in "Scelta di curiosità letterarie inedite o rare dal secolo XIII al XIX, in appendice alla Collezione di Opere inedite o rare", vol.71, disp.202 (ristampa anastatica, Bologna 1969)</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410007</codbib>
+      <autore1>Muzzi S.</autore1>
+      <titolo1>Annali della città di Bologna dalla sua origine al 1796, 8 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1840 - 1846</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410036</codbib>
+      <autore1>Guidicini G.</autore1>
+      <titolo1>Cose notabili della città di Bologna ossia Storia cronologica de’ suoi stabili sacri, pubblici e privati, 5 voll. (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1868 - 1873</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42850</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

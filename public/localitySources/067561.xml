@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067561</nloc_cfti>
+      <desloc_cfti>Sambuca di Sicilia (Sambuca Zabut, Sambuca)</desloc_cfti>
+      <provlet>AG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>37.6482</lat_wgs84>
+      <lon_wgs84>13.1107</lon_wgs84>
+      <notesito>Già Sambuca, assunse la denominazione di Sambuca Zabut il 3 dicembre 1863 e quella attuale il 5 luglio 1923.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35810</nterr>
+      <nperiod>003037</nperiod>
+      <datanum>19680115</datanum>
+      <data_label>1968 01 15</data_label>
+      <anno>1968</anno>
+      <mese>01</mese>
+      <giorno>15</giorno>
+      <time_label>02:01:09</time_label>
+      <ora>02</ora>
+      <minu>01</minu>
+      <sec>09</sec>
+      <lat>37.7602</lat>
+      <lon>12.9868</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>162</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Valle del Belice</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>25</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Le scosse succedutesi nel corso del periodo sismico e soprattutto quella principale del 15 gennaio danneggiarono gravemente l’8% delle unità immobiliari e ne lesionarono lievemente il 25% su di un totale di 3657 $(050842,050840)$. Rilievi tecnici svolti dall’amministrazione comunale attestarono danni per circa un miliardo e mezzo di lire dei quali 500 milioni riguardavano edifici pubblici, 300 milioni edifici religiosi, 300 milioni abitazioni civili e 300 milioni case coloniche $(055024)$. La replica del 25 gennaio causò crolli in due edifici $(071328)$. Il 29 gennaio il sindaco dichiarò alla stampa che 800 case erano gravemente lesionate e 200 di queste erano già state classificate inabitabili, inoltre erano state distrutte 600 case coloniche. L’ammontare dei danni, secondo il primo cittadino, aveva raggiunto la cifra di due miliardi e mezzo di lire $(055014)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>19344</nterr>
+      <nperiod>003030</nperiod>
+      <datanum>19050908</datanum>
+      <data_label>1905 09 08</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>01:43:11</time_label>
+      <ora>01</ora>
+      <minu>43</minu>
+      <sec>11</sec>
+      <lat>38.6816</lat>
+      <lon>16.0563</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>871</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>146</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(145008)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145008</codbib>
+      <autore1>Rizzo G.B.</autore1>
+      <titolo1>Contributo allo studio del terremoto della Calabria del giorno 8 Settembre 1905, in "Atti della Reale Accademia Peloritana", vol.22 (1907), pp.3-86.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1907</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050842</codbib>
+      <autore1>De Panfilis M. e Marcelli L.</autore1>
+      <titolo1>Il periodo sismico della Sicilia occidentale iniziato il 14 Gennaio 1968, in "Annali di Geofisica", vol.21 (1968), pp.343-422.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050840</codbib>
+      <autore1>Cosentino P. e Mulone A.</autore1>
+      <titolo1>The Belice earthquake of January 15, 1968, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.150-151.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055024</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1968.01.21, a.108, n.20.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071328</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1968.01.26.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055014</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Ora, 1968.01.29/30, a.69, n.24.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071321</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1968.01.18.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1968</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

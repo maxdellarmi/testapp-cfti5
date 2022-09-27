@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072600.00</nloc_cfti>
+      <desloc_cfti>Filetta</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>42.6539</lat_wgs84>
+      <lon_wgs84>13.2785</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00963</nterr>
+      <nperiod>003078</nperiod>
+      <datanum>16391008</datanum>
+      <data_label>1639 10 08</data_label>
+      <anno>1639</anno>
+      <mese>10</mese>
+      <giorno>08</giorno>
+      <time_label>00:35</time_label>
+      <ora>00</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>42.6393</lat>
+      <lon>13.2693</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>17</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Monti della Laga</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>La scossa dell’8 ottobre causò il crollo totale dell’abitato $(021069,700109)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021069</codbib>
+      <autore1>Tiberi C.</autore1>
+      <titolo1>Nuova e vera Relatione del Terribile, e Spaventoso Terremoto sucesso nella Città della Matrice, e suo Stato, con patimento ancora di Accumulo, e Luoghi circonvicini, sotto li 7 del mese d’Ottobre 1639. Con la Morte compassionevole di molte persone, la perdita de Bestiami d’ogni sorte e con tutto il danno seguito fino al corrente giorno. Aggiontovi di più, altri successi dalli 17 del sodetto mese sin’all’hora presente; dove s’intende le gran ruvine di Monte Reale, Poggio Cancello, &amp; ancora con spavento nuovamente di Recanati, e Rieti nel detto tempo, &amp;c.</titolo1>
+      <luogoed>Roma-Milano</luogoed>
+      <datacompl>1639</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700109</codbib>
+      <autore1>Tiberi C.</autore1>
+      <titolo1>Nuova, e vera Relatione del Terribile, e Spaventoso Terremoto successo nella Città della Matrice, e suo Stato, con patimento ancora di Accumulo, e Luoghi circonvicini, sotto li 7 del presente mese di Ottobre 1639. Con la Morte compassionevole di molte persone, la perdita di Bestiami d’ogni sorte, e con tutto il danno seguito fino al corrente giorno.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1639</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

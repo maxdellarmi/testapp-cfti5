@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42056</nterr>
+      <nperiod>009026</nperiod>
+      <datanum>17040513</datanum>
+      <data_label>1704 05 13</data_label>
+      <anno>1704</anno>
+      <mese>05</mese>
+      <giorno>13</giorno>
+      <time_label>12:15</time_label>
+      <ora>12</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.2388</lat>
+      <lon>8.4123</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Finale Ligure (SV)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051384</codbib>
+      <autore1>Camassi R. e Castelli V.</autore1>
+      <titolo1>Journalistic communication in the 17th-18th centuries and its influence on the completeness of parametric catalogues, in "Bollettino di Geofisica Teorica ed Applicata", vol.46 (2005), n.2-3, pp.99-110.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070566</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1704.05.27, [n.22].</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1704</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280025</codbib>
+      <autore1>Verzellino G.V.</autore1>
+      <titolo1>Delle memorie particolari e specialmente degli uomini illustri della città di Savona, a cura di A.Astengo, 2 voll.</titolo1>
+      <luogoed>Savona</luogoed>
+      <datacompl>1885</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870308</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Savona, Noberasco, cart.X, Secolo XVIII ­ Memorie sopra le intemperie e terremoti vari verificatisi in quel secolo.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Finale Ligure</desloc>
+      <lat_wgs84>44.1697</lat_wgs84>
+      <lon_wgs84>8.3446</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>42056</nterr>
+      <nloc_cfti>032656.00</nloc_cfti>
+      <desloc_cfti>Finale Ligure</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Savona</desloc>
+      <lat_wgs84>44.3079</lat_wgs84>
+      <lon_wgs84>8.4799</lon_wgs84>
+      <provlet>SV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>42056</nterr>
+      <nloc_cfti>032907.00</nloc_cfti>
+      <desloc_cfti>Savona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

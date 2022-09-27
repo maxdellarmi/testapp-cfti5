@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>027515.00</nloc_cfti>
+      <desloc_cfti>Segusino</desloc_cfti>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>45.9186</lat_wgs84>
+      <lon_wgs84>11.9539</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08704</nterr>
+      <nperiod>003209</nperiod>
+      <datanum>18590120</datanum>
+      <data_label>1859 01 20</data_label>
+      <anno>1859</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>07:55</time_label>
+      <ora>07</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>45.8909</lat>
+      <lon>12.1012</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>35</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Trevigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu sensibile $(745588)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14476</nterr>
+      <nperiod>003344</nperiod>
+      <datanum>18920809</datanum>
+      <data_label>1892 08 09</data_label>
+      <anno>1892</anno>
+      <mese>08</mese>
+      <giorno>09</giorno>
+      <time_label>07:58</time_label>
+      <ora>07</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>45.5671</lat>
+      <lon>11.2041</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>160</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle d’Alpone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>Il terremoto causò il crollo di 260 case $(500020)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>500020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Collegio, Risposte di fuori, f.448, Supplica degli abitanti di Lan e Segusino, 14 marzo 1695 alla Repubblica di Venezia per esenzione Gravezze.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745588</codbib>
+      <autore1>Berti A.</autore1>
+      <titolo1>Sul terremoto di Venezia del 20 gennaio 1859, in "Atti del R.Istituto Veneto di Scienze, Lettere ed Arti", dal novembre 1858 all’ottobre 1859.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1858 - 1859</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022599.00</nloc_cfti>
+      <desloc_cfti>Ceraino</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>45.5717</lat_wgs84>
+      <lon_wgs84>10.8254</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10753</nterr>
+      <nperiod>000234</nperiod>
+      <datanum>18760429</datanum>
+      <data_label>1876 04 29</data_label>
+      <anno>1876</anno>
+      <mese>04</mese>
+      <giorno>29</giorno>
+      <time_label>10:49</time_label>
+      <ora>10</ora>
+      <minu>49</minu>
+      <sec>-9</sec>
+      <lat>45.7493</lat>
+      <lon>10.7851</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>25</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30545</nterr>
+      <nperiod>000527</nperiod>
+      <datanum>19320219</datanum>
+      <data_label>1932 02 19</data_label>
+      <anno>1932</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>12:57:11</time_label>
+      <ora>12</ora>
+      <minu>57</minu>
+      <sec>11</sec>
+      <lat>45.6327</lat>
+      <lon>10.7288</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>21</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Monte Baldo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa, di breve durata, causò grande panico nella popolazione; non vi furono danni né alle persone, né alle abitazioni $(880025)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880025</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1932.02.20.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

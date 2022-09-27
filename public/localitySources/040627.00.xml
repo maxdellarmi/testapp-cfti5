@@ -1,0 +1,4464 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>103</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00231</nterr>
+      <nperiod>000036</nperiod>
+      <datanum>13460222</datanum>
+      <data_label>1346 02 22</data_label>
+      <anno>1346</anno>
+      <mese>02</mese>
+      <giorno>22</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>5</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42110</nterr>
+      <nperiod>009161</nperiod>
+      <datanum>14110109</datanum>
+      <data_label>1411 01 09</data_label>
+      <anno>1411</anno>
+      <mese>01</mese>
+      <giorno>09</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>1</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04747</nterr>
+      <nperiod>000928</nperiod>
+      <datanum>17961022</datanum>
+      <data_label>1796 10 22</data_label>
+      <anno>1796</anno>
+      <mese>10</mese>
+      <giorno>22</giorno>
+      <time_label>04:00</time_label>
+      <ora>04</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.6151</lat>
+      <lon>11.6698</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>27</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Emilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa principale, avvenuta alle ore 4:00 GMT circa (le 11 in orario "all’italiana"), fu percepita della durata di circa 60 secondi e causò danni notevoli $(692010,000001)$. Fu preceduta e seguita da altre due scosse leggere sentite alle ore 23:50 GMT circa del 21 ottobre (ore 7 circa in orario "all’italiana") e alle ore 7:20 GMT circa del 22 (ore 14 e mezza in orario "all’italiana") $(692017)$.&lt;br&gt;Furono danneggiati moltissimi edifici, fra cui la cattedrale $(000001)$ e la chiesa di S.Spirito $(691270,692003)$, situata nell’attuale via della Resistenza. Crollarono diversi comignoli e alcuni muri di edifici subirono lesioni $(000001,410023)$.&lt;br&gt;Due giorni dopo, il 24 ottobre, venne emesso dal Comitato dei Consoli di Ferrrara un proclama, che intimava ai cittadini di provvedere al restauro dei comignoli e dei cornicioni danneggiati entro il perentorio termine di quattro giorni, per evitare danni alle persone $(691266,692017)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01174</nterr>
+      <nperiod>000122</nperiod>
+      <datanum>16950225</datanum>
+      <data_label>1695 02 25</data_label>
+      <anno>1695</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.802</lat>
+      <lon>11.9483</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>82</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Asolano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa causò danni nel convento di S.Andrea degli Agostiniani e in quello dei Domenicani; furono danneggiati numerosi camini $(070042,030107,000001,410022)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04539</nterr>
+      <nperiod>003195</nperiod>
+      <datanum>17870726</datanum>
+      <data_label>1787 07 26</data_label>
+      <anno>1787</anno>
+      <mese>07</mese>
+      <giorno>26</giorno>
+      <time_label>07:15</time_label>
+      <ora>07</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00729</nterr>
+      <nperiod>000094</nperiod>
+      <datanum>15611124</datanum>
+      <data_label>1561 11 24</data_label>
+      <anno>1561</anno>
+      <mese>11</mese>
+      <giorno>24</giorno>
+      <time_label>01:25</time_label>
+      <ora>01</ora>
+      <minu>25</minu>
+      <sec>-9</sec>
+      <lat>44.782</lat>
+      <lon>11.4536</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>5</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04537</nterr>
+      <nperiod>003195</nperiod>
+      <datanum>17870716</datanum>
+      <data_label>1787 07 16</data_label>
+      <anno>1787</anno>
+      <mese>07</mese>
+      <giorno>16</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>3</npun>
+      <mm>4.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10173</nterr>
+      <nperiod>000227</nperiod>
+      <datanum>18730917</datanum>
+      <data_label>1873 09 17</data_label>
+      <anno>1873</anno>
+      <mese>09</mese>
+      <giorno>17</giorno>
+      <time_label>19:30</time_label>
+      <ora>19</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4389</lat>
+      <lon>9.9464</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>78</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00516</nterr>
+      <nperiod>000075</nperiod>
+      <datanum>15050103</datanum>
+      <data_label>1505 01 03</data_label>
+      <anno>1505</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5086</lat>
+      <lon>11.2296</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>31</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa del 31 dicembre fece suonare le campane, specialmente quella dell’orologio sulla torre di Rigobello. La scossa del 3 gennaio fece cadere dei comignoli $(410035)$. La scossa del 20 gennaio 1505 è definita "grandissima" in una cronaca coeva locale $(500233)$.&lt;br&gt;Olivi, cronista settecentesco, menziona gravi danni agli edifici cittadini, senza precisare quali $(030107)$. Cenni al terremoto si trovano nelle cronache settecentesche $(410017,400025,250010,230006,680020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00540</nterr>
+      <nperiod>000078</nperiod>
+      <datanum>15110326</datanum>
+      <data_label>1511 03 26</data_label>
+      <anno>1511</anno>
+      <mese>03</mese>
+      <giorno>26</giorno>
+      <time_label>14:40</time_label>
+      <ora>14</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>46.1982</lat>
+      <lon>13.4309</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>66</npun>
+      <mm>7</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa del 26 marzo causò il crollo di camini; le campane della torre di Rigobello suonarono da sole $(410035)$.&lt;br&gt;Una replica fu avvertita sensibilmente il 28 marzo $(410035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42109</nterr>
+      <nperiod>009083</nperiod>
+      <datanum>14090817</datanum>
+      <data_label>1409 08 17</data_label>
+      <anno>1409</anno>
+      <mese>08</mese>
+      <giorno>17</giorno>
+      <time_label>00:35</time_label>
+      <ora>00</ora>
+      <minu>35</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>1</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00905</nterr>
+      <nperiod>000951</nperiod>
+      <datanum>16240319</datanum>
+      <data_label>1624 03 19</data_label>
+      <anno>1624</anno>
+      <mese>03</mese>
+      <giorno>19</giorno>
+      <time_label>19:45</time_label>
+      <ora>19</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.6431</lat>
+      <lon>11.8479</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>18</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Argenta (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò la caduta di qualche camino e di muri non rilevanti $(030033,070044,470016,030107)$. Il giudice dei Savi deliberò che ogni anno nella chiesa di S.Gerolamo si svolgesse un rito in onore di S.Giuseppe, come testimonia una lapide sull’altare della chiesa $(691851,410022,410002,410017,692000,410082)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00089</nterr>
+      <nperiod>000013</nperiod>
+      <datanum>12221225</datanum>
+      <data_label>1222 12 25</data_label>
+      <anno>1222</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>12:30</time_label>
+      <ora>12</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.481</lat>
+      <lon>10.2319</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>18</npun>
+      <mm>6</mm>
+      <earthquakelocation>Basso bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42103</nterr>
+      <nperiod>009080</nperiod>
+      <datanum>13391116</datanum>
+      <data_label>1339 11 16</data_label>
+      <anno>1339</anno>
+      <mese>11</mese>
+      <giorno>16</giorno>
+      <time_label>14:10</time_label>
+      <ora>14</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>1</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42139</nterr>
+      <nperiod>009113</nperiod>
+      <datanum>15360817</datanum>
+      <data_label>1536 08 17</data_label>
+      <anno>1536</anno>
+      <mese>08</mese>
+      <giorno>17</giorno>
+      <time_label>00:05</time_label>
+      <ora>00</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>44.3649</lat>
+      <lon>10.9333</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>10</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Appennino tosco-emiliano?</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa fu sentita fortemente e causò la caduta di diversi comignoli e di qualche vecchio muro $(410035,500234)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00035</nterr>
+      <nperiod>000007</nperiod>
+      <datanum>11170103</datanum>
+      <data_label>1117 01 03</data_label>
+      <anno>1117</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>15:15</time_label>
+      <ora>15</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.3665</lat>
+      <lon>11.1673</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9.1</imax>
+      <npun>55</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>10615</nterr>
+      <nperiod>000720</nperiod>
+      <datanum>18750317</datanum>
+      <data_label>1875 03 17</data_label>
+      <anno>1875</anno>
+      <mese>03</mese>
+      <giorno>17</giorno>
+      <time_label>23:51</time_label>
+      <ora>23</ora>
+      <minu>51</minu>
+      <sec>-9</sec>
+      <lat>44.0625</lat>
+      <lon>12.5467</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>144</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna sud-orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa fu fortissima, preceduta da rombo, non causò danni $(691270,692007,020940)$. Vi fu molto spavento $(020940,690147)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00547</nterr>
+      <nperiod>000078</nperiod>
+      <datanum>15110328</datanum>
+      <data_label>1511 03 28</data_label>
+      <anno>1511</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>12:15</time_label>
+      <ora>12</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.5008</lat>
+      <lon>11.9244</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5.5</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <mm>5</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>4</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>La scossa del 26 marzo causò il crollo di camini; le campane della torre di Rigobello suonarono da sole $(410035)$.&lt;br&gt;Una replica fu avvertita sensibilmente il 28 marzo $(410035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto, durato pochi secondi, fu avvertito da tutta la popolazione. La Basilica di S.Maria in Vado subì una profonda lesione all’arco in muratura a cui si appoggiano altri archi delle navate attigue; in tutto il soffitto si riscontrarono degli avvallamenti $(020148,030134,460168,080118,690821,690811,690804,690800)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00514</nterr>
+      <nperiod>000075</nperiod>
+      <datanum>15041231</datanum>
+      <data_label>1504 12 31</data_label>
+      <anno>1504</anno>
+      <mese>12</mese>
+      <giorno>31</giorno>
+      <time_label>04:00</time_label>
+      <ora>04</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.0471</lat>
+      <lon>11.4568</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>15</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 31 dicembre fece suonare le campane, specialmente quella dell’orologio sulla torre di Rigobello. La scossa del 3 gennaio fece cadere dei comignoli $(410035)$. La scossa del 20 gennaio 1505 è definita "grandissima" in una cronaca coeva locale $(500233)$.&lt;br&gt;Olivi, cronista settecentesco, menziona gravi danni agli edifici cittadini, senza precisare quali $(030107)$. Cenni al terremoto si trovano nelle cronache settecentesche $(410017,400025,250010,230006,680020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01026</nterr>
+      <nperiod>003082</nperiod>
+      <datanum>16610322</datanum>
+      <data_label>1661 03 22</data_label>
+      <anno>1661</anno>
+      <mese>03</mese>
+      <giorno>22</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0218</lat>
+      <lon>11.8979</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>79</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente e spaventò la popolazione, ma non causò danni $(030107,040008,410022)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01056</nterr>
+      <nperiod>003185</nperiod>
+      <datanum>16720414</datanum>
+      <data_label>1672 04 14</data_label>
+      <anno>1672</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>15:45</time_label>
+      <ora>15</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.9413</lat>
+      <lon>12.5755</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>92</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita fortemente e spaventò la popolazione, ma non causò danni; furono indetti riti religiosi di ringraziamento per lo scampato pericolo $(030107,040008,410022,692017)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01066</nterr>
+      <nperiod>000116</nperiod>
+      <datanum>16780715</datanum>
+      <data_label>1678 07 15</data_label>
+      <anno>1678</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>37132</nterr>
+      <nperiod>000675</nperiod>
+      <datanum>19710715</datanum>
+      <data_label>1971 07 15</data_label>
+      <anno>1971</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>01:33:23</time_label>
+      <ora>01</ora>
+      <minu>33</minu>
+      <sec>23</sec>
+      <lat>44.8152</lat>
+      <lon>10.3444</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>229</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu abbastanza forte, causò spavento nella popolazione e non causò danni $(071122,071527,000581)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00232</nterr>
+      <nperiod>000750</nperiod>
+      <datanum>13480125</datanum>
+      <data_label>1348 01 25</data_label>
+      <anno>1348</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.5795</lat>
+      <lon>13.5408</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>58</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05142</nterr>
+      <nperiod>003197</nperiod>
+      <datanum>18121025</datanum>
+      <data_label>1812 10 25</data_label>
+      <anno>1812</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.0285</lat>
+      <lon>12.5732</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>34</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Valle del Cellina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu molto forte. Le persone che si trovavano nella chiesa di San Francesco fuggirono spaventate $(870017,692010)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00825</nterr>
+      <nperiod>000099</nperiod>
+      <datanum>15941003</datanum>
+      <data_label>1594 10 03</data_label>
+      <anno>1594</anno>
+      <mese>10</mese>
+      <giorno>03</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>1</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00520</nterr>
+      <nperiod>000075</nperiod>
+      <datanum>15050120</datanum>
+      <data_label>1505 01 20</data_label>
+      <anno>1505</anno>
+      <mese>01</mese>
+      <giorno>20</giorno>
+      <time_label>23:50</time_label>
+      <ora>23</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.4546</lat>
+      <lon>11.6349</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>11</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 31 dicembre fece suonare le campane, specialmente quella dell’orologio sulla torre di Rigobello. La scossa del 3 gennaio fece cadere dei comignoli $(410035)$. La scossa del 20 gennaio 1505 è definita "grandissima" in una cronaca coeva locale $(500233)$.&lt;br&gt;Olivi, cronista settecentesco, menziona gravi danni agli edifici cittadini, senza precisare quali $(030107)$. Cenni al terremoto si trovano nelle cronache settecentesche $(410017,400025,250010,230006,680020)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15294</nterr>
+      <nperiod>000740</nperiod>
+      <datanum>18950414</datanum>
+      <data_label>1895 04 14</data_label>
+      <anno>1895</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>22:17:00</time_label>
+      <ora>22</ora>
+      <minu>17</minu>
+      <sec>00</sec>
+      <lat>46.1318</lat>
+      <lon>14.5335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>293</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita da molte persone; fece tremare i mobili e suonare le campane di alcune chiese $(000004,001321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00189</nterr>
+      <nperiod>000031</nperiod>
+      <datanum>13041023</datanum>
+      <data_label>1304 10 23</data_label>
+      <anno>1304</anno>
+      <mese>10</mese>
+      <giorno>23</giorno>
+      <time_label>00:45</time_label>
+      <ora>00</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>45.0109</lat>
+      <lon>10.148</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00475</nterr>
+      <nperiod>000071</nperiod>
+      <datanum>14870111</datanum>
+      <data_label>1487 01 11</data_label>
+      <anno>1487</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>15:40</time_label>
+      <ora>15</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>45.1375</lat>
+      <lon>11.3059</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>12</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42008</nterr>
+      <nperiod>003258</nperiod>
+      <datanum>19831109</datanum>
+      <data_label>1983 11 09</data_label>
+      <anno>1983</anno>
+      <mese>11</mese>
+      <giorno>09</giorno>
+      <time_label>16:29:52</time_label>
+      <ora>16</ora>
+      <minu>29</minu>
+      <sec>52</sec>
+      <lat>44.7557</lat>
+      <lon>10.2652</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>850</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>95</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fu avvertita, in particolare nei piani alti degli edifici; causò vibrazione di porte e finestre, leggera oscillazione degli oggetti sospesi, di liquidi nei recipienti, di veicoli in sosta, attivazione di allarmi antifurto; in alcuni casi spostamento di mobili leggeri e caduta di oggetti da scaffali; in pochi casi screpolature e distacco di intonaci $(035298,035037)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01103</nterr>
+      <nperiod>003083</nperiod>
+      <datanum>16880411</datanum>
+      <data_label>1688 04 11</data_label>
+      <anno>1688</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>12:20</time_label>
+      <ora>12</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.3911</lat>
+      <lon>11.9417</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>39</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito fortemente e spaventò la popolazione, ma non causò danni $(030107,410022)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02562</nterr>
+      <nperiod>002049</nperiod>
+      <datanum>17810717</datanum>
+      <data_label>1781 07 17</data_label>
+      <anno>1781</anno>
+      <mese>07</mese>
+      <giorno>17</giorno>
+      <time_label>09:40</time_label>
+      <ora>09</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.2665</lat>
+      <lon>11.9894</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>46</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 4 aprile fu avvertita fortemente $(400034)$. La scossa del 17 luglio fu avvertita molto fortemente; non sono ricordati danni $(690948)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05934</nterr>
+      <nperiod>000174</nperiod>
+      <datanum>18320313</datanum>
+      <data_label>1832 03 13</data_label>
+      <anno>1832</anno>
+      <mese>03</mese>
+      <giorno>13</giorno>
+      <time_label>03:30</time_label>
+      <ora>03</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.7654</lat>
+      <lon>10.4935</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>97</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 13 marzo 1832, delle ore 3:30 GMT ca., fu avvertita molto forte e causò panico nella popolazione. Non furono segnalati danni $(071265,692010)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09548</nterr>
+      <nperiod>000714</nperiod>
+      <datanum>18701030</datanum>
+      <data_label>1870 10 30</data_label>
+      <anno>1870</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>18:34</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>-9</sec>
+      <lat>44.1334</lat>
+      <lon>12.0623</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>41</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa fece suonare i campanelli delle case $(690089,691270,692007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00468</nterr>
+      <nperiod>003176</nperiod>
+      <datanum>14830811</datanum>
+      <data_label>1483 08 11</data_label>
+      <anno>1483</anno>
+      <mese>08</mese>
+      <giorno>11</giorno>
+      <time_label>19:40</time_label>
+      <ora>19</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.1564</lat>
+      <lon>12.2293</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>14</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05875</nterr>
+      <nperiod>000172</nperiod>
+      <datanum>18310911</datanum>
+      <data_label>1831 09 11</data_label>
+      <anno>1831</anno>
+      <mese>09</mese>
+      <giorno>11</giorno>
+      <time_label>18:15</time_label>
+      <ora>18</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.7531</lat>
+      <lon>10.5436</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>25</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Furono avvertite scosse l’11 e il 13 gennaio 1832 $(410025,691270)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00501</nterr>
+      <nperiod>000074</nperiod>
+      <datanum>15010605</datanum>
+      <data_label>1501 06 05</data_label>
+      <anno>1501</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5199</lat>
+      <lon>10.8435</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>20</npun>
+      <mm>6</mm>
+      <earthquakelocation>Appennino modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il terremoto fu avvertito, ma non causò danni $(030107)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00356</nterr>
+      <nperiod>000053</nperiod>
+      <datanum>14100610</datanum>
+      <data_label>1410 06 10</data_label>
+      <anno>1410</anno>
+      <mese>06</mese>
+      <giorno>10</giorno>
+      <time_label>21:00</time_label>
+      <ora>21</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.4649</lat>
+      <lon>11.7921</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>9</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Verona</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Secondo una cronaca cinquecentesca la scossa fu sentita anche a Ferrara $(500234)$. Il terremoto è datato 14 giugno 1410.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02430</nterr>
+      <nperiod>003271</nperiod>
+      <datanum>17791123</datanum>
+      <data_label>1779 11 23</data_label>
+      <anno>1779</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:30</time_label>
+      <ora>18</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4263</lat>
+      <lon>11.5267</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>14</npun>
+      <mm>5</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa del 23 novembre 1779 (ore 18:30 GMT) fu sentita $(410502,385784)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00318</nterr>
+      <nperiod>000048</nperiod>
+      <datanum>13990720</datanum>
+      <data_label>1399 07 20</data_label>
+      <anno>1399</anno>
+      <mese>07</mese>
+      <giorno>20</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4425</lat>
+      <lon>10.9243</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31316</nterr>
+      <nperiod>003121</nperiod>
+      <datanum>19361018</datanum>
+      <data_label>1936 10 18</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>18</giorno>
+      <time_label>03:10:01</time_label>
+      <ora>03</ora>
+      <minu>10</minu>
+      <sec>01</sec>
+      <lat>46.0316</lat>
+      <lon>12.411</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>193</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Alpago-Cansiglio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(340565)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02503</nterr>
+      <nperiod>002049</nperiod>
+      <datanum>17810404</datanum>
+      <data_label>1781 04 04</data_label>
+      <anno>1781</anno>
+      <mese>04</mese>
+      <giorno>04</giorno>
+      <time_label>21:20</time_label>
+      <ora>21</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.2522</lat>
+      <lon>11.7977</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>96</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Romagna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>11</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa del 4 aprile fu avvertita fortemente $(400034)$. La scossa del 17 luglio fu avvertita molto fortemente; non sono ricordati danni $(690948)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27583</nterr>
+      <nperiod>000492</nperiod>
+      <datanum>19220524</datanum>
+      <data_label>1922 05 24</data_label>
+      <anno>1922</anno>
+      <mese>05</mese>
+      <giorno>24</giorno>
+      <time_label>21:17:25</time_label>
+      <ora>21</ora>
+      <minu>17</minu>
+      <sec>25</sec>
+      <lat>44.8216</lat>
+      <lon>11.4073</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4.5</imax>
+      <npun>7</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Ferrarese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00614</nterr>
+      <nperiod>000080</nperiod>
+      <datanum>15160520</datanum>
+      <data_label>1516 05 20</data_label>
+      <anno>1516</anno>
+      <mese>05</mese>
+      <giorno>20</giorno>
+      <time_label>23:00</time_label>
+      <ora>23</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8048</lat>
+      <lon>12.0654</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27584</nterr>
+      <nperiod>000492</nperiod>
+      <datanum>19220525</datanum>
+      <data_label>1922 05 25</data_label>
+      <anno>1922</anno>
+      <mese>05</mese>
+      <giorno>25</giorno>
+      <time_label>04:23</time_label>
+      <ora>04</ora>
+      <minu>23</minu>
+      <sec>-9</sec>
+      <lat>44.8628</lat>
+      <lon>11.5173</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>4.5</imax>
+      <npun>5</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Ferrarese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>28444</nterr>
+      <nperiod>003224</nperiod>
+      <datanum>19260101</datanum>
+      <data_label>1926 01 01</data_label>
+      <anno>1926</anno>
+      <mese>01</mese>
+      <giorno>01</giorno>
+      <time_label>18:04:03</time_label>
+      <ora>18</ora>
+      <minu>04</minu>
+      <sec>03</sec>
+      <lat>45.7625</lat>
+      <lon>14.282</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>63</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa, durata pochi secondi, fu avvertita abbastanza fortemente e causò allarme nei locali pubblici; non fu avvertita da chi era all’aperto $(672684)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16363</nterr>
+      <nperiod>003215</nperiod>
+      <datanum>18980116</datanum>
+      <data_label>1898 01 16</data_label>
+      <anno>1898</anno>
+      <mese>01</mese>
+      <giorno>16</giorno>
+      <time_label>12:10:05</time_label>
+      <ora>12</ora>
+      <minu>10</minu>
+      <sec>05</sec>
+      <lat>44.645</lat>
+      <lon>11.7702</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>72</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Argenta (FE) - Portomaggiore (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa forte fu avvertita da tutti, ma non causò danni $(690670)$. Nelle case fece suonare qualche campanello, causando poco spavento $(110435)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00572</nterr>
+      <nperiod>000079</nperiod>
+      <datanum>15120208</datanum>
+      <data_label>1512 02 08</data_label>
+      <anno>1512</anno>
+      <mese>02</mese>
+      <giorno>08</giorno>
+      <time_label>09:15</time_label>
+      <ora>09</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>45.1373</lat>
+      <lon>11.9766</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Venezia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29721</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290420</datanum>
+      <data_label>1929 04 20</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>20</giorno>
+      <time_label>01:09:46</time_label>
+      <ora>01</ora>
+      <minu>09</minu>
+      <sec>46</sec>
+      <lat>44.4784</lat>
+      <lon>11.1379</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>691</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 10 aprile 1929 delle ore 5:43 GMT fu avvertita sensibilmente dalla popolazione $(690888,071561,340345,740064)$.&lt;br&gt;La scossa del 19 aprile delle ore 4:15 GMT fu avvertita sensibilmente dalla popolazione; molte persone furono risvegliate dal sonno $(690893,071562)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT fu avvertita sensibilmente dalla popolazione $(690894,071563,740098)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT fu sentita, ma non allarmò la popolazione $(071565,340348)$&lt;br&gt;Scossa dell’11 maggio delle ore 19:23 GMT: non sono state reperite descrizioni degli effetti; nel Bollettino sismico curato da Cavasino (1931), la scossa fu valutata di IV grado della scala Mercalli $(000031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01781</nterr>
+      <nperiod>003093</nperiod>
+      <datanum>17400306</datanum>
+      <data_label>1740 03 06</data_label>
+      <anno>1740</anno>
+      <mese>03</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.0748</lat>
+      <lon>10.489</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>32</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita sensibilmente, ma non causò danni $(070046)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25719</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160816</datanum>
+      <data_label>1916 08 16</data_label>
+      <anno>1916</anno>
+      <mese>08</mese>
+      <giorno>16</giorno>
+      <time_label>07:06:14</time_label>
+      <ora>07</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>43.9621</lat>
+      <lon>12.6711</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>257</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 17 maggio fu avvertita da molti di coloro che si trovavano in casa. Causò tremolio di vetri e porte $(095360,120231,130591,130597)$.&lt;br&gt;La scossa del 16 giugno fu avvertita dalle persone deste $(120343,130599)$.&lt;br&gt;La scossa del 16 agosto, della durata di circa 8 secondi, fu avvertita da poche persone in stato di quiete. Tremarono oggetti, porte e vetrate; suonarono campanelli; un orologio dell’osservatorio meteorologico si arrestò $(095337,120386)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29717</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290419</datanum>
+      <data_label>1929 04 19</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>19</giorno>
+      <time_label>04:15:22</time_label>
+      <ora>04</ora>
+      <minu>15</minu>
+      <sec>22</sec>
+      <lat>44.4838</lat>
+      <lon>11.1996</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 10 aprile 1929 delle ore 5:43 GMT fu avvertita sensibilmente dalla popolazione $(690888,071561,340345,740064)$.&lt;br&gt;La scossa del 19 aprile delle ore 4:15 GMT fu avvertita sensibilmente dalla popolazione; molte persone furono risvegliate dal sonno $(690893,071562)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT fu avvertita sensibilmente dalla popolazione $(690894,071563,740098)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT fu sentita, ma non allarmò la popolazione $(071565,340348)$&lt;br&gt;Scossa dell’11 maggio delle ore 19:23 GMT: non sono state reperite descrizioni degli effetti; nel Bollettino sismico curato da Cavasino (1931), la scossa fu valutata di IV grado della scala Mercalli $(000031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11092</nterr>
+      <nperiod>003211</nperiod>
+      <datanum>18780312</datanum>
+      <data_label>1878 03 12</data_label>
+      <anno>1878</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>21:36</time_label>
+      <ora>21</ora>
+      <minu>36</minu>
+      <sec>-9</sec>
+      <lat>44.4247</lat>
+      <lon>11.543</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>31</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita fortemente $(090460,692007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29693</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290410</datanum>
+      <data_label>1929 04 10</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>10</giorno>
+      <time_label>05:43:12</time_label>
+      <ora>05</ora>
+      <minu>43</minu>
+      <sec>12</sec>
+      <lat>44.4264</lat>
+      <lon>11.4754</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>74</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 10 aprile 1929 delle ore 5:43 GMT fu avvertita sensibilmente dalla popolazione $(690888,071561,340345,740064)$.&lt;br&gt;La scossa del 19 aprile delle ore 4:15 GMT fu avvertita sensibilmente dalla popolazione; molte persone furono risvegliate dal sonno $(690893,071562)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT fu avvertita sensibilmente dalla popolazione $(690894,071563,740098)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT fu sentita, ma non allarmò la popolazione $(071565,340348)$&lt;br&gt;Scossa dell’11 maggio delle ore 19:23 GMT: non sono state reperite descrizioni degli effetti; nel Bollettino sismico curato da Cavasino (1931), la scossa fu valutata di IV grado della scala Mercalli $(000031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23756</nterr>
+      <nperiod>003220</nperiod>
+      <datanum>19110219</datanum>
+      <data_label>1911 02 19</data_label>
+      <anno>1911</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>07:18:30</time_label>
+      <ora>07</ora>
+      <minu>18</minu>
+      <sec>30</sec>
+      <lat>44.118</lat>
+      <lon>12.0755</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>181</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Romagna meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu avvertita da molte persone, soprattutto in stato di riposo $(691273,000317,130568,395420)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29754</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290511</datanum>
+      <data_label>1929 05 11</data_label>
+      <anno>1929</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>19:22:48</time_label>
+      <ora>19</ora>
+      <minu>22</minu>
+      <sec>48</sec>
+      <lat>44.4821</lat>
+      <lon>11.1183</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>52</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 10 aprile 1929 delle ore 5:43 GMT fu avvertita sensibilmente dalla popolazione $(690888,071561,340345,740064)$.&lt;br&gt;La scossa del 19 aprile delle ore 4:15 GMT fu avvertita sensibilmente dalla popolazione; molte persone furono risvegliate dal sonno $(690893,071562)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT fu avvertita sensibilmente dalla popolazione $(690894,071563,740098)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT fu sentita, ma non allarmò la popolazione $(071565,340348)$&lt;br&gt;Scossa dell’11 maggio delle ore 19:23 GMT: non sono state reperite descrizioni degli effetti; nel Bollettino sismico curato da Cavasino (1931), la scossa fu valutata di IV grado della scala Mercalli $(000031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13599</nterr>
+      <nperiod>000258</nperiod>
+      <datanum>18910607</datanum>
+      <data_label>1891 06 07</data_label>
+      <anno>1891</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>01:06:14</time_label>
+      <ora>01</ora>
+      <minu>06</minu>
+      <sec>14</sec>
+      <lat>45.5647</lat>
+      <lon>11.1645</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>403</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto fu di mediocre intensità e causò il risveglio della popolazione senza ingenerare panico $(000579,020688)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05158</nterr>
+      <nperiod>003198</nperiod>
+      <datanum>18130921</datanum>
+      <data_label>1813 09 21</data_label>
+      <anno>1813</anno>
+      <mese>09</mese>
+      <giorno>21</giorno>
+      <time_label>07:45</time_label>
+      <ora>07</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.25</lat>
+      <lon>11.9717</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>12</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Romagna centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa fu sensibilmente avvertita senza causare danni $(870020,692010,691270,455032)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42108</nterr>
+      <nperiod>009083</nperiod>
+      <datanum>14090814</datanum>
+      <data_label>1409 08 14</data_label>
+      <anno>1409</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>08:45</time_label>
+      <ora>08</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>4</imax>
+      <npun>1</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25486</nterr>
+      <nperiod>003222</nperiod>
+      <datanum>19160517</datanum>
+      <data_label>1916 05 17</data_label>
+      <anno>1916</anno>
+      <mese>05</mese>
+      <giorno>17</giorno>
+      <time_label>12:50</time_label>
+      <ora>12</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>44.0111</lat>
+      <lon>12.6226</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>132</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alto Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa del 17 maggio fu avvertita da molti di coloro che si trovavano in casa. Causò tremolio di vetri e porte $(095360,120231,130591,130597)$.&lt;br&gt;La scossa del 16 giugno fu avvertita dalle persone deste $(120343,130599)$.&lt;br&gt;La scossa del 16 agosto, della durata di circa 8 secondi, fu avvertita da poche persone in stato di quiete. Tremarono oggetti, porte e vetrate; suonarono campanelli; un orologio dell’osservatorio meteorologico si arrestò $(095337,120386)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33063</nterr>
+      <nperiod>000773</nperiod>
+      <datanum>19510515</datanum>
+      <data_label>1951 05 15</data_label>
+      <anno>1951</anno>
+      <mese>05</mese>
+      <giorno>15</giorno>
+      <time_label>22:54:24</time_label>
+      <ora>22</ora>
+      <minu>54</minu>
+      <sec>24</sec>
+      <lat>45.2521</lat>
+      <lon>9.6005</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>154</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Pianura Padana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>17889</nterr>
+      <nperiod>000343</nperiod>
+      <datanum>19011030</datanum>
+      <data_label>1901 10 30</data_label>
+      <anno>1901</anno>
+      <mese>10</mese>
+      <giorno>30</giorno>
+      <time_label>14:49:58</time_label>
+      <ora>14</ora>
+      <minu>49</minu>
+      <sec>58</sec>
+      <lat>45.5829</lat>
+      <lon>10.4927</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>191</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Salò</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>La scossa, piuttosto leggera, fu avvertita da molte persone in stato di quiete nelle case $(690682)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09858</nterr>
+      <nperiod>000717</nperiod>
+      <datanum>18730629</datanum>
+      <data_label>1873 06 29</data_label>
+      <anno>1873</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>03:58</time_label>
+      <ora>03</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>46.1603</lat>
+      <lon>12.3826</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>198</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Bellunese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>28</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Il terremoto durò 7 secondi circa e fu avvertito intorno alle 5.00, ora locale; in alcune case suonarono i campanelli $(691270,690106,692007,000001)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>12869</nterr>
+      <nperiod>000829</nperiod>
+      <datanum>18870223</datanum>
+      <data_label>1887 02 23</data_label>
+      <anno>1887</anno>
+      <mese>02</mese>
+      <giorno>23</giorno>
+      <time_label>05:21:50</time_label>
+      <ora>05</ora>
+      <minu>21</minu>
+      <sec>50</sec>
+      <lat>43.8917</lat>
+      <lon>7.9917</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>1512</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Liguria occidentale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>37</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>Il terremoto fu leggero e venne avvertito da molte persone senza provocare spavento $(092133)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15004</nterr>
+      <nperiod>000762</nperiod>
+      <datanum>18941127</datanum>
+      <data_label>1894 11 27</data_label>
+      <anno>1894</anno>
+      <mese>11</mese>
+      <giorno>27</giorno>
+      <time_label>05:07:55</time_label>
+      <ora>05</ora>
+      <minu>07</minu>
+      <sec>55</sec>
+      <lat>45.5647</lat>
+      <lon>10.1222</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>183</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Bresciano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14476</nterr>
+      <nperiod>003344</nperiod>
+      <datanum>18920809</datanum>
+      <data_label>1892 08 09</data_label>
+      <anno>1892</anno>
+      <mese>08</mese>
+      <giorno>09</giorno>
+      <time_label>07:58</time_label>
+      <ora>07</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>45.5671</lat>
+      <lon>11.2041</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>160</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Valle d’Alpone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>25580</nterr>
+      <nperiod>000435</nperiod>
+      <datanum>19160620</datanum>
+      <data_label>1916 06 20</data_label>
+      <anno>1916</anno>
+      <mese>06</mese>
+      <giorno>20</giorno>
+      <time_label>19:30</time_label>
+      <ora>19</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.782</lat>
+      <lon>11.4536</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>4</imax>
+      <npun>2</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Cento (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>09819</nterr>
+      <nperiod>002069</nperiod>
+      <datanum>18730312</datanum>
+      <data_label>1873 03 12</data_label>
+      <anno>1873</anno>
+      <mese>03</mese>
+      <giorno>12</giorno>
+      <time_label>20:04</time_label>
+      <ora>20</ora>
+      <minu>04</minu>
+      <sec>-9</sec>
+      <lat>43.0902</lat>
+      <lon>13.2436</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>196</npun>
+      <mm>6</mm>
+      <earthquakelocation>Marche meridionali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3.5</intpqnum>
+      <intpq>III-IV</intpq>
+      <D1>La scossa fu sensibilmente avvertita $(690105,691270,692007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00781</nterr>
+      <nperiod>000095</nperiod>
+      <datanum>15740801</datanum>
+      <data_label>1574 08 01</data_label>
+      <anno>1574</anno>
+      <mese>08</mese>
+      <giorno>01</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.8363</lat>
+      <lon>11.6182</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>1</npun>
+      <mm>3.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La prima scossa, avvenuta alle ore 9:30 italiane (1:40 GMT ca.), causò il crollo di circa 600 tra merli, terrazzini e comignoli, che cadendo causarono gravi danni alle coperture $(040017,060051,030030,040070)$. Durante la notte e il giorno successivo furono avvertite numerose repliche; le più violente avvennero alle ore 20 italiane (12:10 GMT ca.) e alle ore 24 (16:10 GMT ca.) e causarono lesioni e sconnessioni delle murature. La scossa principale avvenne alle ore 3 della notte (19:10 GMT ca.) e causò danni molto gravi agli edifici, già lesionati e sconnessi dalle scosse precedenti. Un elenco dettagliato dei danni, con sostanziali riscontri incrociati, si trova in diversi autori coevi $(040004,680025,040070,410035,080009,070051,410020,692015,692017,030107,410030)$. Sono ricordati: notevoli danni al Castello Estense, tanto da costringere il Duca a rifugiarsi nei giardini di S.Benedetto; crollo parziale del palazzo della Ragione; apertura della loggia dei Banchieri e dei Callegari prospiciente il Duomo; indebolimento del palazzo dei Contrari, che dovette essere puntellato; parziale demolizione del palazzo Vescovile, vicino al Duomo, in seguito ricostruito; rovine limitate ai palazzi del Cardinale, del Paradiso, Tassoni, del duca Alfonso. Numerose le chiese danneggiate: crollarono completamente S.Paolo e S.Giovanni Battista; S.Maria degli Angeli, ancora in costruzione, rimase talmente danneggiata che non venne più terminata; rovine parziali furono riscontrate nel Duomo, dove la facciata si staccò dal muro nella parte verso le "Straccerie", rovinò la parte verso S.Romano, la cappella del Corpus Domini, la catena di ferro sopra l’altare maggiore, caddero i capitelli di marmo intorno. Danni alle facciate delle chiese di S.Francesco, S.Andrea, S.Maria in Vado, S.Domenico, Certosa, S.Maria della Consolazione. Anche le torri vennero severamente danneggiate, in particolare si ricordano la torre della campana del castello e i coperti delle altre tre torri: torre del palazzo della Ragione, torrione di porta S.Pietro, torre di Castel Tealdo; i coperti dei campanili del Duomo, di S.Silvestro, S.Agostino, S.Giorgio, S.Bartolo. Oltre alla scossa del 17 novembre causarono danni la scossa del 15 dicembre, che secondo Canigiani $(040040)$ rovinò palazzo Tassoni, S.Andrea e S.Agostino, e quella del 12 gennaio che danneggiò palazzo Montecuccoli $(040046)$. Il numero delle vittime è oscillante a seconda delle fonti: 9 morti in De Robertis $(060051)$, 40 morti in Nubilonio $(180027)$; 70 morti ricordati da Buonaiuto dei Rossi $(030030)$ e Guarini $(070043)$; 100 nelle "Memorie" $(040070)$; 130-150 nella lettera dell’ambasciatore fiorentino Canigiani $(040024)$. Meno probabili le cifre di 200 morti ricordati da Yosef Ha-Kohen $(910508)$ e di 500 in Olivi $(030107)$.&lt;br&gt;Dopo le scosse la popolazione fuggì in luoghi aperti e visse a lungo in ripari di fortuna anche per la paura causata dal ripetersi delle scosse nei mesi successivi. Alcuni cronisti coevi riportano che ben 11.000 persone abbandonarono la città per un certo lasso di tempo $(070051,400047,410017)$. I primi segni di riorganizzazione furono avvertiti solo nel mese di marzo, quando il Duca, rientrato alla fine di gennaio nel Castello, rinforzato nei camerini con numerose chiavi di ferro, ordinò un censimento della popolazione di Ferrara; il 14 agosto fu emanato un decreto in cui si ordinava a tutti i residenti a Ferrara da almeno 15 anni, cioè ai cittadini a pieno titolo, di ritornare in città pena la confisca delle proprietà urbane. Una prima fase dei lavori di ricostruzione e restauro sono documentati nella relazione del cardinale Maremonti pubblicata da Marzola $(060053)$ per il Duomo, S.Michele, S.Romano, S.Maria in Vado; Guarini $(410020)$, canonico ferrarese della fine del XVI secolo, e Ferrazi $(692017)$, citano anche S.Rocco, S.Silvestro, S.Stefano, S.Cristoforo, S.Francesco e S.Paolo, rifatta nel 1575 e ricordata nella "Cronica di Ferrara" $(500233)$ e in Rodi $(410035)$; la chiesa del Gesù viene menzionata da Leccioli $(030037)$. Riparazioni al baluardo di S.Benedetto sono ricordate in Aleotti $(080007)$ e al bastione di S.Giorgio in Sardi $(060056)$ ed Equicola $(692015)$. I numerosi lavori di rafforzamento delle case comuni con chiavi di ferro ed erpici, resero necessario ordinare il ferro da fuori città, essendo terminate le scorte a Ferrara $(030107,500233,040070)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06088</nterr>
+      <nperiod>000182</nperiod>
+      <datanum>18360612</datanum>
+      <data_label>1836 06 12</data_label>
+      <anno>1836</anno>
+      <mese>06</mese>
+      <giorno>12</giorno>
+      <time_label>02:30</time_label>
+      <ora>02</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.8077</lat>
+      <lon>11.8233</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>27</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Prealpi venete</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu lieve $(071265,692011,691270)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Una recente revisione scientifica attribuisce al terremoto del 10 novembre 1918 un valore d’intensità pari al III grado MCS senza fornire descrizione degli effetti $(060275)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>13215</nterr>
+      <nperiod>000257</nperiod>
+      <datanum>18890308</datanum>
+      <data_label>1889 03 08</data_label>
+      <anno>1889</anno>
+      <mese>03</mese>
+      <giorno>08</giorno>
+      <time_label>02:57:04</time_label>
+      <ora>02</ora>
+      <minu>57</minu>
+      <sec>04</sec>
+      <lat>44.3555</lat>
+      <lon>11.3132</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>38</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa, di brevissima durata, fu lieve e fu avvertita da varie persone: causò un leggero tremolio delle finestre e delle porte $(095715,095742,690416,870339)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01040</nterr>
+      <nperiod>000112</nperiod>
+      <datanum>16660414</datanum>
+      <data_label>1666 04 14</data_label>
+      <anno>1666</anno>
+      <mese>04</mese>
+      <giorno>14</giorno>
+      <time_label>18:58</time_label>
+      <ora>18</ora>
+      <minu>58</minu>
+      <sec>-9</sec>
+      <lat>44.6417</lat>
+      <lon>11.1121</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>3</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34811</nterr>
+      <nperiod>003350</nperiod>
+      <datanum>19630719</datanum>
+      <data_label>1963 07 19</data_label>
+      <anno>1963</anno>
+      <mese>07</mese>
+      <giorno>19</giorno>
+      <time_label>05:45:28</time_label>
+      <ora>05</ora>
+      <minu>45</minu>
+      <sec>28</sec>
+      <lat>43.9233</lat>
+      <lon>8.0648</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>463</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Mar Ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di III grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04475</nterr>
+      <nperiod>003194</nperiod>
+      <datanum>17861225</datanum>
+      <data_label>1786 12 25</data_label>
+      <anno>1786</anno>
+      <mese>12</mese>
+      <giorno>25</giorno>
+      <time_label>01:00</time_label>
+      <ora>01</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.9918</lat>
+      <lon>12.5644</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>90</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Riminese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente $(020898)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20434</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>04:52</time_label>
+      <ora>04</ora>
+      <minu>52</minu>
+      <sec>-9</sec>
+      <lat>45.3184</lat>
+      <lon>11.0727</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>122</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07480</nterr>
+      <nperiod>000187</nperiod>
+      <datanum>18500918</datanum>
+      <data_label>1850 09 18</data_label>
+      <anno>1850</anno>
+      <mese>09</mese>
+      <giorno>18</giorno>
+      <time_label>06:20:00</time_label>
+      <ora>06</ora>
+      <minu>20</minu>
+      <sec>00</sec>
+      <lat>44.5732</lat>
+      <lon>11.1324</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>7</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente da poche persone $(692008,691270)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29727</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290422</datanum>
+      <data_label>1929 04 22</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>22</giorno>
+      <time_label>08:25:33</time_label>
+      <ora>08</ora>
+      <minu>25</minu>
+      <sec>33</sec>
+      <lat>44.4776</lat>
+      <lon>11.1281</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>35</npun>
+      <mm>5</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 10 aprile 1929 delle ore 5:43 GMT fu avvertita sensibilmente dalla popolazione $(690888,071561,340345,740064)$.&lt;br&gt;La scossa del 19 aprile delle ore 4:15 GMT fu avvertita sensibilmente dalla popolazione; molte persone furono risvegliate dal sonno $(690893,071562)$.&lt;br&gt;La scossa del 20 aprile delle ore 1:10 GMT fu avvertita sensibilmente dalla popolazione $(690894,071563,740098)$.&lt;br&gt;La scossa del 22 aprile delle ore 8:26 GMT fu sentita, ma non allarmò la popolazione $(071565,340348)$&lt;br&gt;Scossa dell’11 maggio delle ore 19:23 GMT: non sono state reperite descrizioni degli effetti; nel Bollettino sismico curato da Cavasino (1931), la scossa fu valutata di IV grado della scala Mercalli $(000031)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16459</nterr>
+      <nperiod>000306</nperiod>
+      <datanum>18980304</datanum>
+      <data_label>1898 03 04</data_label>
+      <anno>1898</anno>
+      <mese>03</mese>
+      <giorno>04</giorno>
+      <time_label>21:05:00</time_label>
+      <ora>21</ora>
+      <minu>05</minu>
+      <sec>00</sec>
+      <lat>44.656</lat>
+      <lon>10.2601</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>313</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Valle del Parma</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita da pochissime persone che si trovavano in casa in stato di quiete $(771114,000007)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>18766</nterr>
+      <nperiod>000360</nperiod>
+      <datanum>19040225</datanum>
+      <data_label>1904 02 25</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>18:47:50</time_label>
+      <ora>18</ora>
+      <minu>47</minu>
+      <sec>50</sec>
+      <lat>44.4908</lat>
+      <lon>10.6395</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>62</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu di leggera intensità $(000016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00347</nterr>
+      <nperiod>000051</nperiod>
+      <datanum>14080103</datanum>
+      <data_label>1408 01 03</data_label>
+      <anno>1408</anno>
+      <mese>01</mese>
+      <giorno>03</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4986</lat>
+      <lon>11.3396</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>4</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06030</nterr>
+      <nperiod>000180</nperiod>
+      <datanum>18341004</datanum>
+      <data_label>1834 10 04</data_label>
+      <anno>1834</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4805</lat>
+      <lon>11.3188</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>12</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01800</nterr>
+      <nperiod>003094</nperiod>
+      <datanum>17410424</datanum>
+      <data_label>1741 04 24</data_label>
+      <anno>1741</anno>
+      <mese>04</mese>
+      <giorno>24</giorno>
+      <time_label>10:00</time_label>
+      <ora>10</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.4262</lat>
+      <lon>13.0046</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>87</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Il terremoto fu sentito leggermente $(692016)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 29 giugno 1919 fu avvertita in due riprese immediatamente successive ai piani alti delle case, non fu avvertita ai pian terreni; causò tremolio di oggetti e leggera oscilazione di oggetti sospesi $(095824,500082)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11474</nterr>
+      <nperiod>003213</nperiod>
+      <datanum>18810124</datanum>
+      <data_label>1881 01 24</data_label>
+      <anno>1881</anno>
+      <mese>01</mese>
+      <giorno>24</giorno>
+      <time_label>16:14</time_label>
+      <ora>16</ora>
+      <minu>14</minu>
+      <sec>-9</sec>
+      <lat>44.4017</lat>
+      <lon>11.3478</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>38</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa del 24 gennaio 1881 fu leggera e non causò danni $(001299,692007,690196,490251)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06023</nterr>
+      <nperiod>000179</nperiod>
+      <datanum>18340704</datanum>
+      <data_label>1834 07 04</data_label>
+      <anno>1834</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>00:45</time_label>
+      <ora>00</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.5304</lat>
+      <lon>9.9477</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>24</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Lunigiana-Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>La scossa fu avvertita leggermente $(692010)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29040</nterr>
+      <nperiod>003117</nperiod>
+      <datanum>19280327</datanum>
+      <data_label>1928 03 27</data_label>
+      <anno>1928</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>08:32:30</time_label>
+      <ora>08</ora>
+      <minu>32</minu>
+      <sec>30</sec>
+      <lat>46.3801</lat>
+      <lon>12.9843</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>214</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>12</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa del del 27.3 fu avvertita in città in forma lievissima $(690856)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>21142</nterr>
+      <nperiod>003219</nperiod>
+      <datanum>19080710</datanum>
+      <data_label>1908 07 10</data_label>
+      <anno>1908</anno>
+      <mese>07</mese>
+      <giorno>10</giorno>
+      <time_label>02:13:35</time_label>
+      <ora>02</ora>
+      <minu>13</minu>
+      <sec>35</sec>
+      <lat>46.4655</lat>
+      <lon>13.1904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>120</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>13</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>La scossa fu avvertita $(455079)$ da poche persone deste $(000018)$. Martinelli attribuì alla scossa l’intensità di II grado della scala Mercalli $(000018)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1>Non si conoscono descrizioni degli effetti. Secondo Martinelli $(235474)$ la scossa ebbe una intensità del II grado MCS.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00409</nterr>
+      <nperiod>000061</nperiod>
+      <datanum>14551220</datanum>
+      <data_label>1455 12 20</data_label>
+      <anno>1455</anno>
+      <mese>12</mese>
+      <giorno>20</giorno>
+      <time_label>20:45</time_label>
+      <ora>20</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.4163</lat>
+      <lon>11.2614</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Media valle del Reno</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00698</nterr>
+      <nperiod>000091</nperiod>
+      <datanum>15470210</datanum>
+      <data_label>1547 02 10</data_label>
+      <anno>1547</anno>
+      <mese>02</mese>
+      <giorno>10</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.6981</lat>
+      <lon>10.631</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>8</imax>
+      <npun>13</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Reggio Emilia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1>Nessuna fonte ricorda l’evento.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00220</nterr>
+      <nperiod>000033</nperiod>
+      <datanum>13341204</datanum>
+      <data_label>1334 12 04</data_label>
+      <anno>1334</anno>
+      <mese>12</mese>
+      <giorno>04</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>45.4386</lat>
+      <lon>10.9936</lon>
+      <rel>?</rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>4</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Verona</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00331</nterr>
+      <nperiod>003151</nperiod>
+      <datanum>14030112</datanum>
+      <data_label>1403 01 12</data_label>
+      <anno>1403</anno>
+      <mese>01</mese>
+      <giorno>12</giorno>
+      <time_label>05:30</time_label>
+      <ora>05</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.1465</lat>
+      <lon>12.2216</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>3</npun>
+      <mm>4.7</mm>
+      <earthquakelocation>Belluno</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00334</nterr>
+      <nperiod>003151</nperiod>
+      <datanum>14030129</datanum>
+      <data_label>1403 01 29</data_label>
+      <anno>1403</anno>
+      <mese>01</mese>
+      <giorno>29</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>46.1465</lat>
+      <lon>12.2216</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.6</imax>
+      <npun>3</npun>
+      <mm>4.1</mm>
+      <earthquakelocation>Belluno</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00212</nterr>
+      <nperiod>000032</nperiod>
+      <datanum>13230225</datanum>
+      <data_label>1323 02 25</data_label>
+      <anno>1323</anno>
+      <mese>02</mese>
+      <giorno>25</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.5732</lat>
+      <lon>11.1324</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>5</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Bologna</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0.1</intpqnum>
+      <intpq>N</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16153</nterr>
+      <nperiod>000743</nperiod>
+      <datanum>18970715</datanum>
+      <data_label>1897 07 15</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>05:57</time_label>
+      <ora>05</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>46.0588</lat>
+      <lon>14.5032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>53</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>Il terremoto non fu avvertito $(000006)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(002034,745733)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16303</nterr>
+      <nperiod>003253</nperiod>
+      <datanum>18971218</datanum>
+      <data_label>1897 12 18</data_label>
+      <anno>1897</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>07:24:20</time_label>
+      <ora>07</ora>
+      <minu>24</minu>
+      <sec>20</sec>
+      <lat>43.4966</lat>
+      <lon>12.3781</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>132</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1>La scossa non fu avvertita $(110606,000006)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00755</nterr>
+      <nperiod>000095</nperiod>
+      <datanum>15701117</datanum>
+      <data_label>1570 11 17</data_label>
+      <anno>1570</anno>
+      <mese>11</mese>
+      <giorno>17</giorno>
+      <time_label>19:10</time_label>
+      <ora>19</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.8242</lat>
+      <lon>11.6313</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>58</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Ferrara</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La prima scossa, avvenuta alle ore 9:30 italiane (1:40 GMT ca.), causò il crollo di circa 600 tra merli, terrazzini e comignoli, che cadendo causarono gravi danni alle coperture $(040017,060051,030030,040070)$. Durante la notte e il giorno successivo furono avvertite numerose repliche; le più violente avvennero alle ore 20 italiane (12:10 GMT ca.) e alle ore 24 (16:10 GMT ca.) e causarono lesioni e sconnessioni delle murature. La scossa principale avvenne alle ore 3 della notte (19:10 GMT ca.) e causò danni molto gravi agli edifici, già lesionati e sconnessi dalle scosse precedenti. Un elenco dettagliato dei danni, con sostanziali riscontri incrociati, si trova in diversi autori coevi $(040004,680025,040070,410035,080009,070051,410020,692015,692017,030107,410030)$. Sono ricordati: notevoli danni al Castello Estense, tanto da costringere il Duca a rifugiarsi nei giardini di S.Benedetto; crollo parziale del palazzo della Ragione; apertura della loggia dei Banchieri e dei Callegari prospiciente il Duomo; indebolimento del palazzo dei Contrari, che dovette essere puntellato; parziale demolizione del palazzo Vescovile, vicino al Duomo, in seguito ricostruito; rovine limitate ai palazzi del Cardinale, del Paradiso, Tassoni, del duca Alfonso. Numerose le chiese danneggiate: crollarono completamente S.Paolo e S.Giovanni Battista; S.Maria degli Angeli, ancora in costruzione, rimase talmente danneggiata che non venne più terminata; rovine parziali furono riscontrate nel Duomo, dove la facciata si staccò dal muro nella parte verso le "Straccerie", rovinò la parte verso S.Romano, la cappella del Corpus Domini, la catena di ferro sopra l’altare maggiore, caddero i capitelli di marmo intorno. Danni alle facciate delle chiese di S.Francesco, S.Andrea, S.Maria in Vado, S.Domenico, Certosa, S.Maria della Consolazione. Anche le torri vennero severamente danneggiate, in particolare si ricordano la torre della campana del castello e i coperti delle altre tre torri: torre del palazzo della Ragione, torrione di porta S.Pietro, torre di Castel Tealdo; i coperti dei campanili del Duomo, di S.Silvestro, S.Agostino, S.Giorgio, S.Bartolo. Oltre alla scossa del 17 novembre causarono danni la scossa del 15 dicembre, che secondo Canigiani $(040040)$ rovinò palazzo Tassoni, S.Andrea e S.Agostino, e quella del 12 gennaio che danneggiò palazzo Montecuccoli $(040046)$. Il numero delle vittime è oscillante a seconda delle fonti: 9 morti in De Robertis $(060051)$, 40 morti in Nubilonio $(180027)$; 70 morti ricordati da Buonaiuto dei Rossi $(030030)$ e Guarini $(070043)$; 100 nelle "Memorie" $(040070)$; 130-150 nella lettera dell’ambasciatore fiorentino Canigiani $(040024)$. Meno probabili le cifre di 200 morti ricordati da Yosef Ha-Kohen $(910508)$ e di 500 in Olivi $(030107)$.&lt;br&gt;Dopo le scosse la popolazione fuggì in luoghi aperti e visse a lungo in ripari di fortuna anche per la paura causata dal ripetersi delle scosse nei mesi successivi. Alcuni cronisti coevi riportano che ben 11.000 persone abbandonarono la città per un certo lasso di tempo $(070051,400047,410017)$. I primi segni di riorganizzazione furono avvertiti solo nel mese di marzo, quando il Duca, rientrato alla fine di gennaio nel Castello, rinforzato nei camerini con numerose chiavi di ferro, ordinò un censimento della popolazione di Ferrara; il 14 agosto fu emanato un decreto in cui si ordinava a tutti i residenti a Ferrara da almeno 15 anni, cioè ai cittadini a pieno titolo, di ritornare in città pena la confisca delle proprietà urbane. Una prima fase dei lavori di ricostruzione e restauro sono documentati nella relazione del cardinale Maremonti pubblicata da Marzola $(060053)$ per il Duomo, S.Michele, S.Romano, S.Maria in Vado; Guarini $(410020)$, canonico ferrarese della fine del XVI secolo, e Ferrazi $(692017)$, citano anche S.Rocco, S.Silvestro, S.Stefano, S.Cristoforo, S.Francesco e S.Paolo, rifatta nel 1575 e ricordata nella "Cronica di Ferrara" $(500233)$ e in Rodi $(410035)$; la chiesa del Gesù viene menzionata da Leccioli $(030037)$. Riparazioni al baluardo di S.Benedetto sono ricordate in Aleotti $(080007)$ e al bastione di S.Giorgio in Sardi $(060056)$ ed Equicola $(692015)$. I numerosi lavori di rafforzamento delle case comuni con chiavi di ferro ed erpici, resero necessario ordinare il ferro da fuori città, essendo terminate le scorte a Ferrara $(030107,500233,040070)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090049</codbib>
+      <autore1>Zambotti Bernardino</autore1>
+      <titolo1>Diario Ferrarese (1476-1504), ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.2, pp.3-359.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1934</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 645, Filippo Rodi, Annali di Ferrara (dalle origini fino alla fine del XVI secolo), 3 voll., sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 105, Carlo Olivi, Annali della città di Ferrara dalla sua prima origine fino al dominio degli ultimi duchi Estensi, 2 voll., 1790.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1790</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Estense (-1354) cum additamentis usque ad a.1478, ed. G.Bertoni e E.P.Vicini, in "Rerum Italicarum Scriptores", 2ª ed., tomo 15, parte 3.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090402</codbib>
+      <autore1>Guidoboni E.</autore1>
+      <titolo1>The gaps of the Italian catalogue: a problem of method for the researches on historical seismicity. Examples in the Ferrara area (XIth-XVIth century), in "Atti del 4º Convegno", Roma 29-31 ottobre 1985, CNR-GNGTS, Roma, vol.1, pp.273-285.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691095</codbib>
+      <autore1>Giacomo da Marano</autore1>
+      <titolo1>Cronaca inedita di Ferrara estense dal 1298 al 1412, in "Bollettino statistico del Comune di Ferrara", vol.56 (1929), n.1, pp.VI-IX, n.2, pp.V-VIII, n.3, pp.V-IX; vol.57 (1930), n.3, pp.XXV-XXVII, n.4, pp.XXI-XXIII; vol.58 (1931), n.3, pp.XIII-XVIII.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1929 - 1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500233</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, I.I.5, Cronica di Ferrara (675-1586), sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410017</codbib>
+      <autore1>Frizzi A.</autore1>
+      <titolo1>Memorie per la storia di Ferrara raccolte da Antonio Frizzi, con giunte e note del Conte Avv. Camillo Laderchi, 5 voll. (ristampa anastatica, Ferrara 1982).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1847 - 1850</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Raccolta Piancastelli, O.IV.18, Cronaca Albertina, Miscellanea di cronache dei secc.XIV-XVI raccolte e copiate da B.Albicini (1720), copia A.Balducci 1807-1808.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1807 - 1808</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>250010</codbib>
+      <autore1>Muratori L.A.</autore1>
+      <titolo1>Annali d’Italia dal principio dell’era volgare sino all’anno 1750, 12 voll.</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1762 - 1764</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230006</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca dell’Accademia delle Scienze di Torino, Manoscritti, 315, G.A.De Morani, Notizie cronologiche degli anni che sono stati molto piovosi, secchi e freddi all’eccesso e ne’ quali si sono sentite scosse di terremoti successi incendi ed occorsi accidenti molto rimarchevoli in diverse parti del mondo sino al presente ricavati con somma diligenza da varii classici scrittori di cronologia e di storia, 1795.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1795</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca dei Frati Francescani di Trento, Manoscritti, 1718, Giangrisostomo Tovazzi, Malographia tridentina [45-1773], sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040070</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 294, Memoria de’ gran Terremoti, e Ruine causate da essi nella cità di Ferrara l’anno 1570, ms. sec.XVI, in "Descrizione dei terremoti successi in Ferrara nel 1570 ed altre notizie a tutto il 1579", 1784.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Vaticani Latini, 12587, Ercole Biondo, Marco Savonarolla, Giulio Testa e Giovanni Maria Albini, Giornali di Ferrara scritte da varii autori, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060051</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 294, Cronichetta di Jacopo de Robertis Procuratore ferrarese che comincia li 30 ottobre 1559 e termina il 10 maggio 1592, copia Prampolini 1784.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060056</codbib>
+      <autore1>Sardi G.</autore1>
+      <titolo1>Libro delle historie ferraresi del signor Gasparo Sardi con una nuova aggiunta del medesimo autore, aggiuntivi di più quattro libri del signor Dottore Faustini sino alla devolutione del Ducato di Ferrara alla Santa Sede.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1646</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030038</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 639, Memorie patrie ricavate da frammenti di una cronaca originale scritta dalli Antonio e Domenico De Carri, dall’anno 1551 all’anno 1634, copia A.Vaghi sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>230204</codbib>
+      <autore1>Ferrari G., Guidoboni E. e Postpischl D.</autore1>
+      <titolo1>The Ferrara earthquake of November 24, 1561, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, p.161.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo, b.2893, Lettera di B.Canigiani al Segretario di Stato Concini, Ferrara 17 novembre 1570.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1570</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030030</codbib>
+      <autore1>Azaria Min Haadumim (Bonaiuto dei Rossi)</autore1>
+      <titolo1>Meor Enaim (chiarezza di Vista) in Shalem una fonte ebraica poco nota sul terremoto di Ferrara del 1570, in "Rivista Geografica Italiana".</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1932</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Ein Auszug und Verteutschung Eines Brieffs von 21 november [...] Geschriben Wirdt Von [...] Erdbidem Welliche Inn und Ausserhalb der Statt Ferrar [...] Azngefancen Hat.</titolo1>
+      <luogoed>Augsburg</luogoed>
+      <datacompl>1570</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680025</codbib>
+      <autore1>Ligorio Pirro</autore1>
+      <titolo1>Libro di diversi terremoti, a cura di E.Guidoboni (Edizione nazionale delle opere di Pirro Ligorio, Libri delle antichità, Torino, volume 28, codice Ja.II.15).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>2005</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070051</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 759, E.Minerbi, Memorie di Ferrara dall’anno 1412 fino all’anno 1607, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410020</codbib>
+      <autore1>Guarini M.A.</autore1>
+      <titolo1>Compendio historico dell’origine, accrescimento e prerogative delle chiese, e luoghi pii della città, e diocesi di Ferrara.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1621</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.II, 355, Annali della città di Ferrara raccolti da Mario Equicolo d’Alveto (dalle origini al 1582), copia sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 671, Francesco Ferrazi Monici, Cronologia della città di Ferrara estratta da diversi scrittori e cronologia aggiunta della città di Ferrara (dalle origini al 1799), 19 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410030</codbib>
+      <autore1>Scalabrini A.G.</autore1>
+      <titolo1>Memorie istoriche delle chiese di Ferrara e de’ suoi borghi.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1773</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040040</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo, b.2893, Lettera di B.Canigiani al Granduca di Toscana, Ferrara 15 dicembre 1570.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1570</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040046</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo, b.2893, Lettera di B.Canigiani al Granduca di Toscana, Ferrara 12 gennaio 1571.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1571</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180027</codbib>
+      <autore1>Nubilonio C.</autore1>
+      <titolo1>La cronaca di Vigevano scritta nel 1584 dal Canonico Cantore Cesare Nubilonio.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070043</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti Antonelli, 226, Guarini Marc’Antonio, Annali della città di Ferrara dal 1570 al 1596 incluso, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040024</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Mediceo, b.2893, Lettera di B.Canigiani al Granduca di Toscana, Ferrara 20 novembre 1570.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1570</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>910508</codbib>
+      <autore1>Ha-Kohen Yosef</autore1>
+      <titolo1>Sefer ‘Emeq Ha-Bakha (The Vale of Tears), with the chronicle of the anonymous Corrector, ed. K.Almbladh.</titolo1>
+      <luogoed>Uppsala</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400047</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti, I.555 (=alfa.0.3.11), Cronica imperfetta, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060053</codbib>
+      <autore1>Marzola M.</autore1>
+      <titolo1>Per la storia della Chiesa Ferrarese nel secolo 16 (1497-1590), vol.2.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030037</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 359, Nicola Leccioli, Libro di alcune memorie scritte per curiosità cominciato l’anno 1640 in principio del quale ve ne sono alcune trovate manoscritte, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1640</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Argenta, Raccolta Aleotti, b.unica ms. sec.17, Le fabbriche che fo Giovan Battista Aleotti d’Argenta.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692013</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.II, 349, Mario Equicola d’Alveto (attribuito), Annali della città di Ferrara (dalle origini al 1609) con aggiunta di "fragmenti" dal 1089 al 1609, sta con Genealogia delli Signori Estensi Principi in Ferrara, copia sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070042</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 364, F.Vacchi, Giornale di Ferrara.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410022</codbib>
+      <autore1>Baruffaldi G.</autore1>
+      <titolo1>Dell’istoria di Ferrara libri nove, ne’ quali diffusamente si narrano le cose avvenute in essa, dall’Anno MDCLV, fino al MDCC (ristampa anastatica, Bologna 1974).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1700</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 596, Guido Pozzati, Memorie patrie ferraresi dal 1007 a tutto il 1835, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691270</codbib>
+      <autore1>Davia E.</autore1>
+      <titolo1>Cronistoria del terremoto a Ferrara, in "Il Duca", a.2, n.3, pp.1-2, n.5, pp.6-7, n.6, pp.6-7.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1909</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 647, Gaetano Lodi, Effemeride ferrarese ovvero memorie per Gaetano Lodi quondam Venanzio dal 1007 al 1867, 2 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410023</codbib>
+      <autore1>Manini Ferrante G.</autore1>
+      <titolo1>Compendio della storia sacra e politica di Ferrara, 6 voll. (ristampa anastatica, Bologna 1972).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1808 - 1810</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691266</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, E.6.8.3, Racolta di tutti li bandi venuti fuori sotto la Repubblica Francese dal 22 Giugno 1796 al 22 Maggio 1799, tomo 3 (dal 4 al 31 Ottobre 1796), c.34, Proclama del Comitato de’ Consoli di Ferrara relativo all’obbligo dei proprietari di provvedere alla riparazione delle strutture pericolanti a causa del terremoto, Ferrara 24 ottobre 1796.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1796</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680013</codbib>
+      <autore1>Iacobus de Delayto</autore1>
+      <titolo1>Annales Estenses [1393-1409] (sec.XV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 18, coll.905-1092.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1731</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>096068</codbib>
+      <autore1>Pietro di Mattiolo</autore1>
+      <titolo1>Cronaca bolognese [1321-1424] (secc.XIV-XV), ed. C.Ricci, in "Scelta di curiosità letterarie inedite o rare dal secolo XIII al XIX, in appendice alla Collezione di Opere inedite o rare", vol.71, disp.202 (ristampa anastatica, Bologna 1969)</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1885</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500234</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Chigiani, I.I.6, Cronica di Ferrara (1101-1570), sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095715</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, marzo 1889, n.39, Cartolina macrosismica relativa al terremoto dell’8 marzo 1889 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ferrara 10 marzo 1889.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095742</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [20], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia", a.11, n.79 (20 marzo 1889).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690416</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1889.03.08-09, a.42, n.57.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870339</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo XIX, 1889.03.11-12, n.70.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1889</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 597, Giuseppe Boschini, Memorie patrie raccolte da Giuseppe Boschini ferrarese in proseguimento di quelle del dottore Guido Pozzati, 1836-1841.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti Antonelli, 310, Cittadella Luigi Napoleone, Cronaca in cui verranno registrati i fatti sì pubblici che privati. Cominciando dal giorno 23 agosto 1844 a tutto il 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000579</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie di terremoti pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, supplemento [55], in "Bollettino Meteorico dell’Ufficio Centrale di Meteorologia e Geodinamica", a.13, n.213 (1º agosto 1891).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020688</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma relative al terremoto del 7 giugno 1891.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095824</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 29 giugno 1919 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Ferrara luglio 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771114</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Mantova, 1898.03.06.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1887</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000007</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1898, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.5 (1899-1900).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1899 - 1900</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690682</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1901.10.31, n.300.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1901</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020148</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Vicentino, 1920.09.08, a.6, n.201.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030134</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.08, a.48, n.210.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460168</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Affari generali, 1910-1920, b.4/bis, Telegramma del viceprefetto di Ferrara Ferrari al Ministero dell’Interno Direzione generale pubblica sicurezza, Ferrara 8 settembre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080118</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1920.09.10, a.37, n.218.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690821</codbib>
+      <autore1>Zaccarini D.</autore1>
+      <titolo1>Per un’opera di bellezza. Il restauro di S.M[aria] del Vado, in "Gazzetta Ferrarese", a.73, n.229 (15 ottobre 1920), p.1, n.233 (20 ottobre 1920), p.1.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690811</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1920.09.26, a.73, n.225.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690804</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1920.09.11, a.73, n.213.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690800</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1920.09.01-07, a.73, n.203-209.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1971.07.16.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071527</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la Stampa, 1971.07.15, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000581</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1971.07, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1971</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150345</codbib>
+      <autore1>*</autore1>
+      <titolo1>Un prezioso rotolo storico religioso del sec.XIII, a cura di M.F.Baroni.</titolo1>
+      <luogoed>Milano-Varese</luogoed>
+      <datacompl>1969</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070036</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 534, Giacomo da Marano, Cronica, 2 voll., sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691747</codbib>
+      <autore1>Maresti A.</autore1>
+      <titolo1>Teatro Geneologico et Istorico dell’antiche e illustri famiglie di Ferrara (ristampa anastatica, Bologna 1973).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1678</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690888</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Padano, 1929.04.11, a.5, n.87.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071561</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.11, a.45, n.87.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340345</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1929.04.11, a.54, n.87.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740064</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. La Sera, 1929.04.10, a.37, n.87.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690893</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Padano, 1929.04.20, a.5, n.95.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071562</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.12, a.45, n.88.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690894</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Padano, 1929.04.21, a.5, n.96.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071563</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.20, a.45, n.95.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740098</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. La Sera, 1929.04.21. a.37, n.97.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071565</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.23, a.45, n.97.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340348</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1929.04.23, a.54, n.97.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000031</codbib>
+      <autore1>Cavasino A. (a cura di)</autore1>
+      <titolo1>Bollettino sismico anno 1929, fasc.2 (Macrosismi), Regio Ufficio Centrale di Meteorologia e Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690089</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1870.10.31, n.253.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1870</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692007</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 648, Gaetano Lodi, Memorie dal 1868 al 1892, 9 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1868 - 1892</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1873.06.30, n.150.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020940</codbib>
+      <autore1>Serpieri A.</autore1>
+      <titolo1>Documenti, nuove note e riflessioni sul terremoto della notte 17-18 marzo 1875, in "Supplemento alla Meteorologia Italiana", a.1875, fasc.4, pp.3-51.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1876</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690147</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1875.03.18, n.64.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1875</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000004</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Notizie sui terremoti avvenuti in Italia durante l’anno 1895, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.1 (1895).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895 - 1896</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 14 aprile 1895 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760004</codbib>
+      <autore1>Nicolaus Ferrariensis [erroneamente Bartholomaeus Ferrariensis]</autore1>
+      <titolo1>Polyhistoria ab anno 1287 usque ad 1367 Italice conscripta (sec.XV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 24, coll.699-848.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1738</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070047</codbib>
+      <autore1>Buoni G.A.</autore1>
+      <titolo1>Del terremoto, dialogo di I.A.Buoni medico ferrarese distinto in quattro giornate.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1571</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700090</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Barberiniani Latini, 4798, Annali ovvero libro delle chroniche di Ferrara (412-1505), in Giulio Cesare Lollio, "Croniche della città di Ferrara e delli Marchesi estensi".</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1590</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092133</codbib>
+      <autore1>Taramelli T. e Mercalli G.</autore1>
+      <titolo1>Il terremoto ligure del 23 febbraio 1887, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4, a.1886, pp.331-626, con 4 tavole.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030033</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Archivio Segreto Estense, Cancelleria ducale, Archivio per materie, Fisica terrestre e celeste, b. unica, Lettera di Giovanni Baranzoni al duca Cesare d’Este, Ferrara 21 marzo 1624.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1624</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070044</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 294, Dalla Libreria del sempre laudabile Sig. Don Vincenzo Belini, ho rilevato con copia le seguenti notizie riguardanti la città nostra (1598-1643).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470016</codbib>
+      <autore1>Ghirardelli A.</autore1>
+      <titolo1>Miserabile &amp; infelice Caso occorso alla Terra antichissima d’Argenta giurisditione di Ferrara, del spaventoso, et improviso Terremoto successo alli 19 di Marzo il giorno di S.Gioseffo à 2 hore di notte, dove s’intende la morte di molte persone, il numero di molti stropiati, la rovina di molte Chiese, e case, con il Palazzo della ragione. Et altre cose degne d’esser intese.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1624</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691851</codbib>
+      <autore1>Borsetti A.</autore1>
+      <titolo1>Supplemento al compendio historico del signor D. Marco Antonio Guarini (ristampa anastatica, 1993).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1670</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410002</codbib>
+      <autore1>Bellini V.</autore1>
+      <titolo1>Delle monete di Ferrara.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1761</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692000</codbib>
+      <autore1>Anonimo</autore1>
+      <titolo1>Diario sacro e storico per la città di Ferrara.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1772</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410082</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Cento, Manoscritti, 1.3.27, Jacopo Gatti, Storia di Cento dall’origine al 1795, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400034</codbib>
+      <autore1>Righi B.</autore1>
+      <titolo1>Annali della città di Faenza, 3 voll.</titolo1>
+      <luogoed>Faenza</luogoed>
+      <datacompl>1840 - 1841</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690948</codbib>
+      <autore1>Zaghi C.</autore1>
+      <titolo1>Il terremoto d’Argenta (1780-1781). Da documenti inediti, in "Gazzetta Ferrarese", a.80, n.157 (9 luglio 1927), pp.1-2, n.159 (12 luglio 1927), p.1.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1927</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690105</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1873.03.14, n.61.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1873</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, maggio 1895, n.145, Cartolina macrosismica relativa al terremoto del 18 maggio 1895 inviata da Giuseppe Bongiovanni all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ferrara 18 maggio 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745733</codbib>
+      <autore1>Giovannozzi G., Vinassa de Regny P.E. e Pimpinelli V.</autore1>
+      <titolo1>Nota preliminare sui terremoti fiorentini del 1895, in "Atti della Società Toscana di Scienze Naturali. Processi verbali", vol.9, pp.268-279.</titolo1>
+      <luogoed>Pisa</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1812.11.11, n.91.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1812</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870020</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1813.10.02, n.79.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1813</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455032</codbib>
+      <autore1>Filiasi J.</autore1>
+      <titolo1>Relazione meteorologica che comincia dal novembre 1812 e termina con ottobre 1813, in "Giornale astro-meteorologico per l’anno 1814".</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1814</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690670</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1898.01.17, n.16.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110435</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, gennaio 1898, n.130, Cartolina macrosismica relativa al terremoto del 16 gennaio 1898 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ferrara 16 gennaio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340565</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Popolo, 1936.10.19.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1936</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672684</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Piccolo, 1926.01.02, a.42, n.1893.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1926</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 241, Giuseppe Antenore Scalabrini, Memorie sacre e profane della S[anta] Chiesa di Ferrara, nelle qualli si contiene la vita di S.Maurelio M[artire] Re di Mesopotamia e Vescovo della stessa Città, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070046</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 78, Giulio Muzzi, Giornale delle cose avvenute in Ferrara scritte da Giulio Muzzi, sacerdote ferrarese, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti Antonelli, 484, G.M.Maffei, Libro di Memorie Ferraresi dal 1700 al 1774 inclusivo, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410025</codbib>
+      <autore1>Roveri e Fiorentini</autore1>
+      <titolo1>Annali Ferraresi 1830-1880.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1891</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060275</codbib>
+      <autore1>Ferrari G.</autore1>
+      <titolo1>I terremoti dell’Appennino forlivese del 1917-1918, in "Atti del 4.o Convegno", Roma 29-31 ottobre 1985, CNR-GNGTS, vol.1, pp.313-327.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1986</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690856</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1928.03.30, n.25</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1928</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020898</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Enciclopedica di Milano, 1787.01.08, a.8, n.2.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470290</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1787.07.21, n.58.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie Diverse, 1787.07.28, n.30.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691468</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio della Curia Arcivescovile di Ferrara, Notificazioni dell’Eminentissimo Mattei Arcivescovo dall’anno 1786 all’anno 1796, Invito dell’arcivescovo Alessandro Mattei a partecipare nella Cattedrale alla celebrazione di un triduo di ringraziamento per essere stata preservata la città dai danni del terremoto, Ferrara 17 luglio 1787.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691469</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio della Curia Arcivescovile di Ferrara, Notificazioni dell’Eminentissimo Mattei Arcivescovo dall’anno 1786 all’anno 1796, Manifesto dell’arcivescovo Alessandro Mattei relativo alla celebrazione nella Cattedrale di un triduo di ringraziamento per essere stata preservata la città dai danni del terremoto, Ferrara 17 luglio 1787.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470291</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1787.08.04, n.62.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie Diverse, 1787.08.11, n.32.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1787</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090460</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti ed osservazioni diverse di Bologna e Roma nel Febbraio e Marzo 1877 [ma 1878], in "Bullettino del Vulcanismo Italiano", a.5, pp.36-45.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1878</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001299</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [1º gennaio 1880-31 dicembre 1881], in "Bullettino del Vulcanismo Italiano", a.9, pp.47-68, 100-133.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1882</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690196</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1881.01.25, a.34, n.19.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490251</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1881.01.28.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1881</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455079</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1908.07.11, a.166, n.190.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1908</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000018</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1908, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.15 (1911).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691273</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annuario statistico del comune di Ferrara, a.3 (1911).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1912</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000317</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1911, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.18 (1914).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1923</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130568</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1911.02.20.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1911</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395420</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "A.Saffi" di Forlì, Manoscritti, I/1-16, Filippo Guarini, Diario forlivese, 16 voll., secc.XIX-XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec. - XX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095360</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1916.05.19.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120231</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 17 maggio 1916 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Ferrara 17 maggio 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130591</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1916.05.18, n.137.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130597</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1916.05.18, n.139.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120343</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 16 giugno 1916 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Ferrara 16 giugno 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130599</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1916.06.17, n.169.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095337</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1916.08.17, n.230.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120386</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 16 agosto 1916 inviata all’Ufficio Centrale di Meteorologia e Geodinamica, Ferrara 16 agosto 1916.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1916</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110606</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.86, Cartolina macrosismica relativa al terremoto del 18 dicembre 1897 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Ferrara 18 dicembre 1897.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Assessorato Ambiente e Difesa del Suolo della Regione Emilia-Romagna, Risposte al Questionario Macrosismico Sperimentale CNR-GNDT relativo a 429 località, pervenunte nel periodo novembre-dicembre 1983.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035037</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1983.11.09.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1983</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410502</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Manoscritti, B.1151, Notizie istoriche della città di Bologna dall’anno 1779 a tutto il 1788, sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385784</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale dell’Archiginnasio di Bologna, Fondi speciali, Malvezzi-Bonfioli Alfonso, cartone 2, fasc.14, [Giuseppe Veratti], Osservazioni del Barometro, Termometro, Vento, e Stato dell’Atmosfera.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1779</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691722</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1963.07.20, n.171.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1963</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Estense e Universitaria di Modena, Manoscritti Sorbelli, 1567, Cronache e notizie modenesi, secc.XVII-XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec. - XVIII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Biblioteca, Manoscritti, 44, Frammenti di cronaca del 1409.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1409</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ferrarese dall’anno 1409 sino al 1502 di autori incerti, ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.1.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1928</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

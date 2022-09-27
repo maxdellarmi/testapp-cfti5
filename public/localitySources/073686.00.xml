@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073686.00</nloc_cfti>
+      <desloc_cfti>Santa Maria di Costantinopoli</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>42.8354</lat_wgs84>
+      <lon_wgs84>12.9116</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06208</nterr>
+      <nperiod>003288</nperiod>
+      <datanum>18380214</datanum>
+      <data_label>1838 02 14</data_label>
+      <anno>1838</anno>
+      <mese>02</mese>
+      <giorno>14</giorno>
+      <time_label>07:30</time_label>
+      <ora>07</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>42.8406</lat>
+      <lon>12.9084</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>24</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Valnerina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>La scossa del 14 febbraio causò danni al convento, in particolare alla chiesa $(635597,395908)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635597</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1838, rubrica 110 (Esteri), b.270, Copia di rapporto del maresciallo dei Bersaglieri Gasparini sui danni causati dal terremoto nel territorio di Sellano, Spoleto febbraio 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395908</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Sezione di Spoleto, Delegazione Apostolica di Spoleto, b.255, Memorie della Segreteria generale sulle scosse di terremoto avvertite da gennaio a novembre 1838.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1838</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

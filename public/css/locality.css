@@ -1,0 +1,148 @@
+#disclaimer {
+	display:none;
+}
+
+#legend {
+	display:none;
+}
+
+#legendmin {
+	display:inline;
+}
+
+#Intro{
+	position:absolute;
+	padding-top:10px;
+	margin-top: 35px;
+	width: 450px;
+	z-index: 2;
+	text-decoration: none !important;
+    color: var(--main-color);
+    background-color: transparent;
+	font-weight: bold;
+}
+
+#WikiLink{
+	position:absolute;
+	padding-top:8px;
+	margin-top: 32px;
+	margin-left: 425px;
+	z-index: 3;
+}
+
+#export{
+	position:absolute;
+	width: 200px;
+	float: left;
+	margin-left: 395px;
+	margin-top: 260px;
+	z-index: 2;
+}
+#noteloc{
+	position:absolute;
+	width: 445px;
+	margin-top: 2px;
+	text-align: center;
+}
+
+#IntGraph{
+	position:absolute;
+	width: 450px;
+	margin-top: 90px;
+	float: left;
+	background-color: rgba(255,255,255,0.0);
+	z-index: 3;
+}
+
+#FakeGraph{
+	display:none;
+}
+
+#ReduceGraph{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	text-indent: -1000em;
+	background: url(../images/reduce2.png) no-repeat;
+	background-size: contain;
+	top: 96px;
+	left: 10px;
+	z-index: 3;
+}
+
+#EnlargeGraph{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	text-indent: -1000em;
+	background: url(../images/enlarge2.png) no-repeat;
+	background-size: contain;
+	top: 96px;
+	left: 10px;
+	z-index: 3;
+}
+#SaveIcon{
+	position:inline;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	top: 96px;
+	left: 30px;
+	z-index: 3;
+
+}
+
+#feltrep{
+	position:absolute;
+	margin-top: 285px;
+	width: 448px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	text-align: justify;
+}
+#EEnperiod{
+	display:none;
+	position:absolute;
+	/*margin-top: 285px;*/
+	width: 448px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	text-align: justify;
+}
+#EEnperiod_title{
+	width: 100%;
+	text-align: justify;
+	color: var(--main-color);
+	text-transform: uppercase;
+}
+#NoNterrLOC{
+	text-align: justify;
+	color: var(--main-color);
+	font-weight: bold;
+}
+/*#Loc_info */
+.location {
+	width: 75px;
+}
+.locationNP {
+	width: 160px;
+}
+.dateNP{
+	width:90px;
+}
+#loc_data {
+	/*display: block;*/
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.NPtableBackgrounDiv{
+	width: 100%;
+	top: 0px;
+	height: 13px;
+}
+
+#legendPQ {
+	display: none;
+}

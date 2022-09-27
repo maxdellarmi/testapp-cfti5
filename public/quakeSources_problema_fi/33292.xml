@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>33292</nterr>
+      <nperiod>003229</nperiod>
+      <datanum>19540519</datanum>
+      <data_label>1954 05 19</data_label>
+      <anno>1954</anno>
+      <mese>05</mese>
+      <giorno>19</giorno>
+      <time_label>09:34:55</time_label>
+      <ora>09</ora>
+      <minu>34</minu>
+      <sec>55</sec>
+      <lat>46.0863</lat>
+      <lon>7.0946</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>6.5</imax>
+      <npun>40</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Switzerland</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>La bibliografia del Catalogo PFG (1985) si basa sul catalogo parametrico di Eva et al. (1984) $(051295)$; per reperire informazioni macrosismiche è stata svolta una ricerca bibliografica e un sondaggio archivistico mirato. Presso l’Archivio Centrale dello Stato nel fondo del ministero dell’Interno (Gabinetto, Ufficio Cifra), sono stati vagliati i telegrammi pervenuti tra il 19 e il 26 maggio 1954; è stata reperita un’unica informativa del prefetto di Vercelli, De Bernart, sulla segnalazione della scossa a Oropa $(672901)$.&lt;br&gt;Nell’ambito della letteratura sismologica è stato consultato lo studio di De Panfilis (1959) che non dà notizia dell’evento $(092007)$. L’"International Seismological Summary" del 1954 (1962) $(052182)$ riporta le registrazioni strumentali pervenute da numerosi osservatori e una stima presunta dell’intensità epicentrale, senza descrizione di effetti. Alcune informazioni sugli effetti in area francese sono state desunte dallo studio di Rothé e Dechevoy (1967) $(050085)$. Nel catalogo di Kárník (1968-1971) l’evento è menzionato, ma non sono descritti gli effetti macrosismici $(081939)$.&lt;br&gt;Hanno fornito notizie riguardanti gli effetti in area italiana il "Notiziario per la stampa" dell’ANSA del 19 maggio e 2 cronache pubblicate dalla stampa quotidiana $(672615,330913,130646)$. Allo stato attuale della revisione mancano informazioni di dettaglio per l’area svizzera dove il terremoto raggiunse la massima intensità.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 19 maggio 1954 alle ore 9:35 GMT ca. e colpì la regione svizzera del Vallese, causando danni non gravi a Sion. La scossa fu risentita in molti dipartimenti della Francia orientale. In Italia fu avvertita fortemente a Biella, dove causò caduta di oggetti e rottura di vetri, ad Aosta e Oropa; più leggermente a Milano.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051295</codbib>
+      <autore1>Eva C., Capponi G., Cattaneo M. e Merlanti F.</autore1>
+      <titolo1>Catalogo dei terremoti per le Alpi Occidentali (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052182</codbib>
+      <autore1>*</autore1>
+      <titolo1>International Seismological Summary for 1954.</titolo1>
+      <luogoed>Richmond</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052185</codbib>
+      <autore1>Lambert J., Levret-Albaret A., Cushing M. e Durouchoux C.</autore1>
+      <titolo1>Mille ans de séismes en France. Catalogue d’épicentres paramètres et références, AFPS-BRGM-EDF-IPSN.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092007</codbib>
+      <autore1>De Panfilis M.</autore1>
+      <titolo1>Attività sismica in Italia dal 1953 al 1957, in "Annali di Geofisica", vol.12, pp.21-148.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130646</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1954.05.20.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1954</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>330913</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1954.05.20, a.10, n.119.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1954</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672615</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1954.05.19, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1954</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672901</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1954, b.10 (Telegrammi in arrivo dal 16 maggio al 26 maggio), fasc.9200, n.9215, Telegramma del prefetto di Vercelli De Bernart al Ministero dell’Interno, Vercelli 19 maggio 1954.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1954</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Sion</desloc>
+      <lat_wgs84>46.2327</lat_wgs84>
+      <lon_wgs84>7.3525</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080116.00</nloc_cfti>
+      <desloc_cfti>Sion</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo quanto riportano Rothé e Dechevoy (1967), la scossa causò danni non gravi $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Abondance</desloc>
+      <lat_wgs84>46.2886</lat_wgs84>
+      <lon_wgs84>6.7233</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080123.00</nloc_cfti>
+      <desloc_cfti>Abondance</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Biella</desloc>
+      <lat_wgs84>45.5665</lat_wgs84>
+      <lon_wgs84>8.053</lon_wgs84>
+      <provlet>BI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>002765.00</nloc_cfti>
+      <desloc_cfti>Biella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente e spaventò la popolazione, che si riversò nelle strade. Si ruppero alcuni vetri e caddero piatti dagli armadi $(330913)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Boëge</desloc>
+      <lat_wgs84>46.2151</lat_wgs84>
+      <lon_wgs84>6.4046</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080921.00</nloc_cfti>
+      <desloc_cfti>Boëge</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Châtel</desloc>
+      <lat_wgs84>46.271</lat_wgs84>
+      <lon_wgs84>6.8354</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080151.00</nloc_cfti>
+      <desloc_cfti>Châtel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Châtillon</desloc>
+      <lat_wgs84>46.0852</lat_wgs84>
+      <lon_wgs84>6.5813</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080973.00</nloc_cfti>
+      <desloc_cfti>Châtillon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Oropa</desloc>
+      <lat_wgs84>45.6275</lat_wgs84>
+      <lon_wgs84>7.9805</lon_wgs84>
+      <provlet>BI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>002773.00</nloc_cfti>
+      <desloc_cfti>Oropa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, di lunga durata, fu avvertita da molti e causò panico senza danni $(330913,672615,130646)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Aosta</desloc>
+      <lat_wgs84>45.7378</lat_wgs84>
+      <lon_wgs84>7.3126</lon_wgs84>
+      <provlet>AO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>009317.00</nloc_cfti>
+      <desloc_cfti>Aosta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 15s, fu avvertita fortemente, ma non causò danni. Nelle zone di alta montagna fu avvertita con minore intensità $(672615,130646)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cluses</desloc>
+      <lat_wgs84>46.0674</lat_wgs84>
+      <lon_wgs84>6.5828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080547.00</nloc_cfti>
+      <desloc_cfti>Cluses</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di IV-V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Le Biot</desloc>
+      <lat_wgs84>46.2674</lat_wgs84>
+      <lon_wgs84>6.6328</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>081224.00</nloc_cfti>
+      <desloc_cfti>Le Biot</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di IV-V grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Clerval</desloc>
+      <lat_wgs84>47.3922</lat_wgs84>
+      <lon_wgs84>6.5108</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080922.00</nloc_cfti>
+      <desloc_cfti>Clerval</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di IV grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Genève</desloc>
+      <lat_wgs84>46.2062</lat_wgs84>
+      <lon_wgs84>6.1516</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Switzerland</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080009.00</nloc_cfti>
+      <desloc_cfti>Genève</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente $(672615,130646)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente. Causò oscillazione di lampadari e tremolio di muri, mobili e finestre negli appartamenti situati nei piani più alti $(330913)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rumilly</desloc>
+      <lat_wgs84>45.8534</lat_wgs84>
+      <lon_wgs84>5.9279</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080927.00</nloc_cfti>
+      <desloc_cfti>Rumilly</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di IV grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Saint-Vincent</desloc>
+      <lat_wgs84>45.7514</lat_wgs84>
+      <lon_wgs84>7.6469</lon_wgs84>
+      <provlet>AO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>009922.00</nloc_cfti>
+      <desloc_cfti>Saint-Vincent</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, durata circa 12s, fu avvertita sensibilmente $(330913)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Seyssel</desloc>
+      <lat_wgs84>45.9475</lat_wgs84>
+      <lon_wgs84>5.7998</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080932.00</nloc_cfti>
+      <desloc_cfti>Seyssel</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di IV grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Albertville</desloc>
+      <lat_wgs84>45.6674</lat_wgs84>
+      <lon_wgs84>6.3828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080457.00</nloc_cfti>
+      <desloc_cfti>Albertville</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III-IV grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Samoëns</desloc>
+      <lat_wgs84>46.0816</lat_wgs84>
+      <lon_wgs84>6.7284</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080931.00</nloc_cfti>
+      <desloc_cfti>Samoëns</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III-IV grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Baume-les-Dames</desloc>
+      <lat_wgs84>47.3493</lat_wgs84>
+      <lon_wgs84>6.3696</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080919.00</nloc_cfti>
+      <desloc_cfti>Baume-les-Dames</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Belfort</desloc>
+      <lat_wgs84>47.6395</lat_wgs84>
+      <lon_wgs84>6.8566</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080301.00</nloc_cfti>
+      <desloc_cfti>Belfort</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Belley</desloc>
+      <lat_wgs84>45.7613</lat_wgs84>
+      <lon_wgs84>5.6747</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080920.00</nloc_cfti>
+      <desloc_cfti>Belley</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bourg-en-Bresse</desloc>
+      <lat_wgs84>46.2025</lat_wgs84>
+      <lon_wgs84>5.2105</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080304.00</nloc_cfti>
+      <desloc_cfti>Bourg-en-Bresse</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Dannemarie</desloc>
+      <lat_wgs84>47.6286</lat_wgs84>
+      <lon_wgs84>7.123</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080923.00</nloc_cfti>
+      <desloc_cfti>Dannemarie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ferrette</desloc>
+      <lat_wgs84>47.4949</lat_wgs84>
+      <lon_wgs84>7.3084</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080974.00</nloc_cfti>
+      <desloc_cfti>Ferrette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Gex</desloc>
+      <lat_wgs84>46.3341</lat_wgs84>
+      <lon_wgs84>6.0661</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080581.00</nloc_cfti>
+      <desloc_cfti>Gex</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Hauteville-Lompnès</desloc>
+      <lat_wgs84>45.9686</lat_wgs84>
+      <lon_wgs84>5.5889</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080924.00</nloc_cfti>
+      <desloc_cfti>Hauteville-Lompnès</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Hérimoncourt</desloc>
+      <lat_wgs84>47.4508</lat_wgs84>
+      <lon_wgs84>6.8828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080593.00</nloc_cfti>
+      <desloc_cfti>Hérimoncourt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>La Motte-Servolex</desloc>
+      <lat_wgs84>45.6007</lat_wgs84>
+      <lon_wgs84>5.8828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080615.00</nloc_cfti>
+      <desloc_cfti>La Motte-Servolex</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>La Rochette</desloc>
+      <lat_wgs84>45.4674</lat_wgs84>
+      <lon_wgs84>6.1161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080619.00</nloc_cfti>
+      <desloc_cfti>La Rochette</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò l’oscillazione di una libreria e di una statuetta $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Lagnieu</desloc>
+      <lat_wgs84>45.905</lat_wgs84>
+      <lon_wgs84>5.3321</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080925.00</nloc_cfti>
+      <desloc_cfti>Lagnieu</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Maîche</desloc>
+      <lat_wgs84>47.2549</lat_wgs84>
+      <lon_wgs84>6.7958</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080926.00</nloc_cfti>
+      <desloc_cfti>Maîche</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Montbéliard</desloc>
+      <lat_wgs84>47.5174</lat_wgs84>
+      <lon_wgs84>6.7995</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080698.00</nloc_cfti>
+      <desloc_cfti>Montbéliard</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Mulhóuse</desloc>
+      <lat_wgs84>47.7546</lat_wgs84>
+      <lon_wgs84>7.3346</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080319.00</nloc_cfti>
+      <desloc_cfti>Mulhóuse</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Poligny</desloc>
+      <lat_wgs84>46.8341</lat_wgs84>
+      <lon_wgs84>5.6994</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080887.00</nloc_cfti>
+      <desloc_cfti>Poligny</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Amour</desloc>
+      <lat_wgs84>46.4316</lat_wgs84>
+      <lon_wgs84>5.3573</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080199.00</nloc_cfti>
+      <desloc_cfti>Saint-Amour</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Hippolyte</desloc>
+      <lat_wgs84>47.3231</lat_wgs84>
+      <lon_wgs84>6.8256</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080928.00</nloc_cfti>
+      <desloc_cfti>Saint-Hippolyte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Pierre-d'Albigny</desloc>
+      <lat_wgs84>45.5674</lat_wgs84>
+      <lon_wgs84>6.1495</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080813.00</nloc_cfti>
+      <desloc_cfti>Saint-Pierre-d’Albigny</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Saint-Rambert-sur-Loire</desloc>
+      <lat_wgs84>45.4962</lat_wgs84>
+      <lon_wgs84>4.2206</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080929.00</nloc_cfti>
+      <desloc_cfti>Saint-Rambert-sur-Loire</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Salins-les-Bains</desloc>
+      <lat_wgs84>46.934</lat_wgs84>
+      <lon_wgs84>5.8802</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080930.00</nloc_cfti>
+      <desloc_cfti>Salins-les-Bains</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di III grado MCS $(050085)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Aix-les-Bains</desloc>
+      <lat_wgs84>45.7007</lat_wgs84>
+      <lon_wgs84>5.9161</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>33292</nterr>
+      <nloc_cfti>080456.00</nloc_cfti>
+      <desloc_cfti>Aix-les-Bains</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Rothé e Dechevoy (1967) valutarono l’intensità della scossa di II-III grado MCS $(050085)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

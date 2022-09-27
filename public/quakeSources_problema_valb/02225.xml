@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>02225</nterr>
+      <nperiod>002043</nperiod>
+      <datanum>17701227</datanum>
+      <data_label>1770 12 27</data_label>
+      <anno>1770</anno>
+      <mese>12</mese>
+      <giorno>27</giorno>
+      <time_label>04:00</time_label>
+      <ora>04</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.7025</lat>
+      <lon>11.4076</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>5</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Valdarno superiore</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), costituita dal catalogo di Baratta (1901) $(000001)$, ed è stata sviluppata una ricerca bibliografica. Baratta (1901) elencò un forte terremoto, genericamente localizzato in Valdarno, utilizzando le informazioni riportate da von Hoff (1840-41) $(080262)$, Perrey (1848) $(050007)$, De Rossi (1889) $(030123)$ e dalla gazzetta "Notizie del Mondo" del giorno 1 gennaio 1771 $(745831)$.&lt;br&gt;Questi testi sono stati rianalizzati nel corso della ricerca; sono stati inoltre vagliati resoconti giornalistici dell’epoca usciti sulle gazzette "Bologna" $(071662)$ e "Diario Ordinario" $(470540)$. Quest’ultimo giornale, in particolare, pubblicò il 18 gennaio 1771 una corrispondenza da Firenze che ha consentito di definire con maggiore precisione il quadro informativo e la localizzazione dell’evento.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 27 dicembre alle ore 4:00 GMT ca. e colpì una ristretta area della Valdarno settentrionale, causando gravi lesioni e crolli parziali nelle case rurali e in alcune chiese della zona. La località più danneggiata fu Leccio, dove tutte le abitazioni subirono gravi lesioni alle strutture murarie, rotture degli architravi, crollo di camini e sconnessioni degli infissi; a Torre del Castellano subì danni notevoli la villa-torre della famiglia Castellani; a Incisa in Val d’Arno le case furono danneggiate in modo leggero e nel convento dei Francescani del Vivaio, situato a sud del paese, crollarono due colonne del chiostro. La scossa fu molto forte a Firenze dove causò la caduta di qualche comignolo. Fu sentita anche a Siena. Non vi furono vittime.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale fu avvertita alle ore 4:00 GMT ca. del 27 dicembre 1770 $(470540)$. Fu seguita da alcune repliche più leggere, di cui non sono precisati dalle fonti i termini cronologici.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071662</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1771.01.02, n.1.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080262</codbib>
+      <autore1>Hoff K.E.A. von</autore1>
+      <titolo1>Chronik der Erdbeben und Vulcanausbrüche, zweiter Theil vom Jahre 1760 bis 1805, und von 1821 bis 1832 n. Chr. geb., in "Geschichte der durch Überlieferung nachgewiesenen natürlichen Veränderungen der Erdoberfläche", Theil 5.</titolo1>
+      <luogoed>Gotha</luogoed>
+      <datacompl>1841</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092017</codbib>
+      <autore1>Giovannozzi G.</autore1>
+      <titolo1>I terremoti storici fiorentini, in "La Rassegna Nazionale", a.17, vol.84, fasc.2, pp.122-131.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470540</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario Ordinario, 1771.01.18, n.8231.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745831</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1771.01.01, n.1.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Leccio</desloc>
+      <lat_wgs84>43.6981</lat_wgs84>
+      <lon_wgs84>11.468</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>02225</nterr>
+      <nloc_cfti>045550.00</nloc_cfti>
+      <desloc_cfti>Leccio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò notevolmente tutte le abitazioni: furono riscontrate gravi lesioni alle strutture murarie, rotture degli architravi, crollo di camini e sconnessioni degli infissi $(470540)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Torre del Castellano</desloc>
+      <lat_wgs84>43.6771</lat_wgs84>
+      <lon_wgs84>11.4645</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>02225</nterr>
+      <nloc_cfti>072132.00</nloc_cfti>
+      <desloc_cfti>Torre del Castellano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò notevolmente la villa-torre della famiglia Castellani $(470540)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>02225</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente e causò la caduta di alcuni comignoli $(071662,470540)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Incisa in Val d'Arno</desloc>
+      <lat_wgs84>43.6569</lat_wgs84>
+      <lon_wgs84>11.4493</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>02225</nterr>
+      <nloc_cfti>045272.00</nloc_cfti>
+      <desloc_cfti>Incisa in Val d’Arno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa danneggiò in modo leggero l’abitato; danni più gravi avvennero nel convento dei Francescani del Vivaio, situato a sud del paese, dove crollarono due colonne del chiostro $(470540)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>02225</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(080262,050007)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

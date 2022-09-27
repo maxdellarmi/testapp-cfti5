@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080105.00</nloc_cfti>
+      <desloc_cfti>Villach</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>46.6174</lat_wgs84>
+      <lon_wgs84>13.8487</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01122</nterr>
+      <nperiod>003085</nperiod>
+      <datanum>16901204</datanum>
+      <data_label>1690 12 04</data_label>
+      <anno>1690</anno>
+      <mese>12</mese>
+      <giorno>04</giorno>
+      <time_label>14:00</time_label>
+      <ora>14</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>46.6349</lat>
+      <lon>13.8816</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>60</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa causò il crollo di numerose abitazioni e la morte di circa 30 persone $(070493,000003)$. Crollarono la chiesa parrocchiale di S.Giacomo e la torre dell’orologio; gravi danni subirono la chiesa del S.Spirito e la cappella di S.Michele $(095071)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>39414</nterr>
+      <nperiod>003126</nperiod>
+      <datanum>19760915</datanum>
+      <data_label>1976 09 15</data_label>
+      <anno>1976</anno>
+      <mese>09</mese>
+      <giorno>15</giorno>
+      <time_label>09:21:18</time_label>
+      <ora>09</ora>
+      <minu>21</minu>
+      <sec>18</sec>
+      <lat>46.2587</lat>
+      <lon>13.1101</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>54</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Friuli</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>46</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Le scosse del 15 settembre furono avvertite e causarono panico negli abitanti che si riversarono nelle strade $(090503)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00232</nterr>
+      <nperiod>000750</nperiod>
+      <datanum>13480125</datanum>
+      <data_label>1348 01 25</data_label>
+      <anno>1348</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>46.5795</lat>
+      <lon>13.5408</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>58</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Carinzia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Austria</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090389</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annalium Mellicensium Continuatio Novimontensis (Annales Austriae) [1329-1396] (sec.XIV), ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS., tomo 9, pp.669-677.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Zwetlenses (Annales Austriae) [1-1349] (sec.XIV), ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS., tomo 9, pp.677-684.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090391</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Zwetlenses. Continuatio Zwetlesis IV (Annales Austriae) [1348-1386] (sec.XIV), ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS., tomo 9, pp.684-689.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090392</codbib>
+      <autore1>*</autore1>
+      <titolo1>Kalendarium Zwetlense (Annales Austriae) [1243-1458] (secc.XIII-XV), ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS., tomo 9, pp.689-698.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090394</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annalium Austriaricorum Continuatio Claustroneoburgensis V (Annales Austriae) [1307-1455] (secc.XIV-XV), ed. W.Wattenbach, in "Monumenta Germaniae Historica", SS., tomo 9, pp.735-742.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090204</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Frisacenses. Continuatio [1348, 1384, 1492] (sec.XIV-XV), ed. L.Weiland, in "Monumenta Germaniae Historica", SS., tomo 24, p.67.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700019</codbib>
+      <autore1>Villani Giovanni</autore1>
+      <titolo1>Nuova cronica, ed. G.Porta, 3 voll.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1990 - 1991</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090051</codbib>
+      <autore1>Palmieri Matteo</autore1>
+      <titolo1>Liber de temporibus [-1448] (sec.XV), ed. G.Scaramella, in "Rerum Italicarum Scriptores", 2ª ed., tomo 26, parte 1.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1906 - 1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090321</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Varignana (Cronaca B) [-1471], in Corpus chronicorum Bononiensum, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090323</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Bolognetti [423-1454], in Corpus chronicorum Bononiensium, ed A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140003</codbib>
+      <autore1>Cavitelli L.</autore1>
+      <titolo1>Annales. Quibus res ubique gestas memorabiles a patriae suae origine usque ad annum Salutis 1583 breviter ille complexus est (ristampa anastatica, Bologna 1968).</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1588</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 1410, Storia di cose occorse nella Città di Bologna dal 1309 fin’all’anno 1523, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090132</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Mechovienses (Annales Poloniae) [947-1434] (secc.XIV-XV), ed. R.Roepell e W.Arndt, in "Monumenta Germaniae Historica", SS., tomo 19, pp.666-677.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1866</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090375</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Ensdorfenses [1184-1368] (sec.XIV), ed. G.H.Pertz, in Monumenta Germaniae Historica, SS., tomo 10, pp.4-8.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1852</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Elwacense [1-1477] (sec.XV), ed. O.Abel, in "Monumenta Germaniae Historica", SS., tomo 10, pp.34-51.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1852</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090249</codbib>
+      <autore1>Heinricus Surdus de Selbach [Heinrich Taube von Sebach]</autore1>
+      <titolo1>Chronica, ed. H.Bresslau, in "Monumenta Germaniae Historica", SS. RR. GG., n.s., tomo 1.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1922</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090251</codbib>
+      <autore1>Iohannes Vitoduranus [Johanns von Winterthur]</autore1>
+      <titolo1>Chronica, edd. F.Baethgen e C.Brun, in "Monumenta Germaniae Historica", SS. RR. GG., n.s., tomo 3.</titolo1>
+      <luogoed>Berlin</luogoed>
+      <datacompl>1924</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700173</codbib>
+      <autore1>Sant’Antonino Pierozzi</autore1>
+      <titolo1>Chronicorum opus in tres partes divisum ab orbe condito, annum usque 1459, 3 voll.</titolo1>
+      <luogoed>Lyon</luogoed>
+      <datacompl>1586</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760004</codbib>
+      <autore1>Nicolaus Ferrariensis [erroneamente Bartholomaeus Ferrariensis]</autore1>
+      <titolo1>Polyhistoria ab anno 1287 usque ad 1367 Italice conscripta (sec.XV), in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 24, coll.699-848.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1738</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca del Museo Civico Correr di Venezia, Manoscritti Cicogna, 2073, Cronaca veneta (421-1524), sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780036</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca della Fondazione Giorgio Cini di Venezia, bobina 73, Cronaca anonima veneziana dalle origini al 1410, sec.XV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240131</codbib>
+      <autore1>Cirillo B.</autore1>
+      <titolo1>Annali della città dell’Aquila, con l’historie del suo tempo.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1570</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Universitaria di Bologna, Manoscritti, 294, Cronaca di Bologna di Marco Antonio Bianchini (700-1513) con aggiunte dal 18 agosto 1559 al 16 novembre 1560, secc.XV-XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec. - XVI sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090320</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca Rampona (Cronaca A) [1104-1471], in Corpus chronicorum Bononiensium, ed. A.Sorbelli, "Rerum Italicarum Scriptores", 2ª ed., tomo 18, parte 1.</titolo1>
+      <luogoed>Città di Castello-Bologna</luogoed>
+      <datacompl>1910 - 1940</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070493</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1690.12.19.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1690</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095071</codbib>
+      <autore1>Barbano M.S., Bellettati D. e Slejko D.</autore1>
+      <titolo1>Sources for the study of the Eastern Alps earthquakes in the turn of the 17th century, in "Historical Investigation of European Earthquakes", vol.2 Materials of the CEC Project "Review of Historical Seismicity in Europe" and further contributions, edited by P.Albini and A.Moroni, pp.115-132.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090503</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA Documentazione Elettronica, Notiziario italiano, maggio-settembre 1976.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

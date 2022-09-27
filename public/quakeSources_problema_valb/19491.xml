@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>19491</nterr>
+      <nperiod>003112</nperiod>
+      <datanum>19050918</datanum>
+      <data_label>1905 09 18</data_label>
+      <anno>1905</anno>
+      <mese>09</mese>
+      <giorno>18</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.9</lat>
+      <lon>14.2</lon>
+      <rel>F</rel>
+      <level>S</level>
+      <io>0</io>
+      <imax>0</imax>
+      <npun>0</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>0</mm>
+      <earthquakelocation>Marano (NA)</earthquakelocation>
+      <epicenter_type>-</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq>1</flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo. È stato condotto un riesame della letteratura sismologica coeva e degli studi condotti negli anni successivi. Riferimento bibliografico del Catalogo PFG per questo evento è lo studio di Carrozzo et al. (1973) $(092026)$, che a loro volta utilizzano il catalogo di Kárník (1971) $(081939)$. Per Kárník, che rimanda alle pubblicazioni del Bureau Central di Strasburgo, l’evento sarebbe avvenuto nella mattinata del 18 settembre 1905 (non è indicato un orario preciso); tuttavia, nelle note l’evento è ritenuto dubbio. Di questa scossa non fa alcuna menzione il catalogo di Cavasino (1935) $(050399)$, come già notava lo stesso Kárník. Nelle "Notizie sui terremoti osservati in Italia durante l’anno 1905" (Monti 1908) $(000017)$ per il giorno 18 settembre sono segnalate le seguenti scosse:&lt;br&gt;­ registrazione strumentale a Mineo alle ore 4:14 (3:14 GMT);&lt;br&gt;­ registrazioni strumentali intorno alle ore 11:15 (10:15 GMT) a Catania, Maniace, Ischia, Benevento, Rocca di Papa, Messina, dove la scossa fu avvertita di III grado; la scossa venne, inoltre, registrata in una mezza dozzina di osservatorî austriaci e tedeschi;&lt;br&gt;­ registrazioni strumentali intorno alle ore 15:15 (14:15 GMT) a Catania e Messina; le ultime due scosse sono interpretate come repliche del grande terremoto della Calabria dell’8 settembre 1905.&lt;br&gt;Come si può notare non è riportata alcuna informazione macrosismica per l’area napoletana, dove dovrebbe essere localizzata la presunta scossa elencata nel Catalogo. Questo evento è stato pertanto eliminato dal Catalogo dei Forti Terremoti Italiani in quanto si tratta di una duplicazione della scossa riportata nel Catalogo PFG alle ore 10:15 GMT dello stesso 18 settembre 1905, classificata con intensità epicentrale di V grado MCS e localizzata nel Basso Tirreno.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000017</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1905, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1907 - 1908</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments/>
+  <Seqs/>
+</Quake>

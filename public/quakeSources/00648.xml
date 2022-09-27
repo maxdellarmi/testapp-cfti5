@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00648</nterr>
+      <nperiod>002022</nperiod>
+      <datanum>15271004</datanum>
+      <data_label>1527 10 04</data_label>
+      <anno>1527</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.9327</lat>
+      <lon>10.9127</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Pistoia</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata su Baratta (1901), ed è stata sviluppata una ricerca bibliografica e archivistica mirata. Baratta (1901) $(000001)$ citò come fonti per questo terremoto due storie locali pistoiesi: quelle di Salvi (1656-1662) $(060040)$ e di Fioravanti (1758) $(350012)$. Salvi menzionò il terremoto di Pistoia datandolo al 4 ottobre 1527 e specificando che durò per tutta la stagione autunnale, causando la morte di molte persone per i crolli delle abitazioni. Fioravanti, che trasse la notizia dall’opera di Salvi, fornì una versione del racconto più sintetica, senza specificare la data del terremoto e ricordando, come la sua fonte, la morte di un grande numero di persone, non meglio precisato.&lt;br&gt;Per confermare questi scarni elementi sono stati vagliati gli atti dell’antico comune di Pistoia, conservati presso il locale Archivio di Stato. La ricerca ha dato esito negativo: infatti, sia i volumi 62 e 63 della serie "Consigli", che contengono gli atti dal 1527 al 1529 $(775083,775084)$, sia le "Bozze di atti consiliari", che riguardano gli anni 1524-1534 $(775085)$, non menzionano l’evento.&lt;br&gt;Questo elemento non esclude che il terremoto sia avvenuto e abbia causato danni, perché nell’ottica amministrativa del tempo gli interventi riguardavano esclusivamente l’edilizia pubblica. A questo livello della revisione la ricerca non è stata ulteriormente approfondita.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Pistoia, all’epoca del terremoto, viveva gli ultimi anni di indipendenza politica; a partire dal 1530 la città fu infatti inclusa nel principato mediceo, sotto il quale rimase per due secoli.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa principale avvenne il 4 ottobre 1527. Il periodo sismico si protrasse per tutto l’autunno. Il terremoto danneggiò la città di Pistoia, causando anche alcuni crolli, non specificati, e vittime.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052122</codbib>
+      <autore1>Iaccarino E.</autore1>
+      <titolo1>Attività sismica dal 1500 al 1965 in Garfagnana, Mugello e Forlivese, CNEN, RT/GEO (68) 19.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1968</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060040</codbib>
+      <autore1>Salvi M.A.</autore1>
+      <titolo1>Delle historie di Pistoia e fazioni d’Italia, 3 tomi.</titolo1>
+      <luogoed>Roma, Pistoia e Venezia</luogoed>
+      <datacompl>1656 - 1662</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350012</codbib>
+      <autore1>Fioravanti J.M.</autore1>
+      <titolo1>Memorie storiche della Città di Pistoja (ristampa anastatica, Bologna 1968).</titolo1>
+      <luogoed>Lucca</luogoed>
+      <datacompl>1758</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775083</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Comune, Consigli, vol.62 (1527).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1527</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775084</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Comune, Consigli, vol.63 (1528-1529).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1528 - 1529</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775085</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Pistoia, Comune, Raccolte, Bozze di atti consiliari, filza 2 (1524-1534).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1524 - 1534</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Pistoia</desloc>
+      <lat_wgs84>43.9327</lat_wgs84>
+      <lon_wgs84>10.9127</lon_wgs84>
+      <provlet>PT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00648</nterr>
+      <nloc_cfti>044294.00</nloc_cfti>
+      <desloc_cfti>Pistoia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò crolli e numerose persone perirono $(060040,350012)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

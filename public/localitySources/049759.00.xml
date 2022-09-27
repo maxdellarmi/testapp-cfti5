@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049759.00</nloc_cfti>
+      <desloc_cfti>Pantalla</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>42.8746</lat_wgs84>
+      <lon_wgs84>12.4063</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05892</nterr>
+      <nperiod>003108</nperiod>
+      <datanum>18320113</datanum>
+      <data_label>1832 01 13</data_label>
+      <anno>1832</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>13:00</time_label>
+      <ora>13</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>42.9804</lat>
+      <lon>12.6049</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>101</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Valle del Topino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>19</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>In seguito al terremoto del 13 gennaio, sono attestati danni alla chiesa e casa parrocchiale ammontanti a 18,85 scudi. Subirono danni ammontati a 402,70 scudi anche i seguenti edifici di proprietà del conte Dominici di Todi: il Casino vecchio era stato gravemente lesionato sia all’interno, che all’esterno, ed era necessario assicurare alcuni muri con chiavi di ferro; il Casino Nuovo, situato a destra del castello, presentava fenditure nella sala grande, danni alla facciata verso Piedicolle, e vari danneggiamenti a camini e ai muri che dovevano essere assicuarati con chiavi di ferro; la casa colonica del podere in località "Palombaro" presentava la facciata fuori piombo e danni a un tratto di muro rivolto verso Piedicolle $(395779,395780,395783)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>395779</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Stato dei luoghi, e Famiglie che hanno sofferto dei danni nelli passati Terremoti compresi nel Distretto del Governo di Todi redatto dal governatore Giovanni Battista Brunetti, Todi 21 marzo 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395780</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Perizia dei lavori necessari per il restauro della chiesa e della casa parrocchiale di Pantalla redatta dal maestro muratore Domenico Donori, Pantalla 11 febbraio 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395783</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Perugia, Delegazione Apostolica di Perugia, b.791, fasc.14, Perizia dei lavori necessari per il restauro degli edifici di Pantalla di proprietà della famiglia Dominici di Todi redatta dal maestro muratore Giuseppe Nagni, Todi 10 marzo 1832.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

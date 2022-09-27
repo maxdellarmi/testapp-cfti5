@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>33457</nterr>
+      <nperiod>000586</nperiod>
+      <datanum>19550507</datanum>
+      <data_label>1955 05 07</data_label>
+      <anno>1955</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>02:29:46</time_label>
+      <ora>02</ora>
+      <minu>29</minu>
+      <sec>46</sec>
+      <lat>45.1062</lat>
+      <lon>7.3149</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>13</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Val di Susa</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>020212</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Torrazzo, 1926-1965.</titolo1>
+      <luogoed>Crema</luogoed>
+      <datacompl>1926 - 1965</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020233</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere di Monza, 1947-1958.</titolo1>
+      <luogoed>Monza</luogoed>
+      <datacompl>1947 - 1958</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021232</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel, 1952.08, Bureau Central International de Sismologie.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021233</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bulletin Mensuel, 1955.05, Bureau Central International de Sismologie.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021235</codbib>
+      <autore1>*</autore1>
+      <titolo1>Catalogo dei terremoti italiani, Osservatorio Geofisico Sperimentale di Trieste (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>s.d.</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Voghera, 1932-1967.</titolo1>
+      <luogoed>Voghera (PV)</luogoed>
+      <datacompl>1932 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030245</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1952-1967.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1952 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico mensile, 1952.08, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico mensile, 1952.11, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050047</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1952.08.23, a.83, n.201.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050048</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1952.11.15, a.83, n.273.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050269</codbib>
+      <autore1>ENEL ­ Direzione delle Costruzioni Settore Siti e Ambiente</autore1>
+      <titolo1>Relazione integrativa dello studio sismologico per la centrale "E.Fermi" di Trino Vercellese.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1983</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070378</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartoline macrosismiche relative al terremoto del 14 novembre 1952 inviate all’Ufficio Centrale di Meteorologia e di Ecologia Agraria.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1952</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1885-1985.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1885 - 1985</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080150</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annuari di sismologia dell’Osservatorio di fisica terrestre del Seminario arcivescovile di Milano, fascc. 1939- 1981.</titolo1>
+      <luogoed>Venegono</luogoed>
+      <datacompl>1940 - 1982</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080176</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere di Chieri e Dintorni, 1952.08.23.</titolo1>
+      <luogoed>Chieri</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080187</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Valsusa, 1907-1984.</titolo1>
+      <luogoed>Susa (TO)</luogoed>
+      <datacompl>1907 - 1984</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080192</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Subalpino, 1921-1967.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1921 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080203</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Fedeltà, 1901-1967.</titolo1>
+      <luogoed>Fossano</luogoed>
+      <datacompl>1901 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080206</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco del Chisone, 1916-1967.</titolo1>
+      <luogoed>Pinerolo</luogoed>
+      <datacompl>1916 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340590</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1952.08.23.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420307</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1952.08.23</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420404</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1952.08.23.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo Nuovo, 1955.05.08.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450115</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa Sera, 1955.05.07-08.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450116</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1955.05.08.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1955</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650139</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Informatore Vigevanese, 1945-1972.</titolo1>
+      <luogoed>Vigevano</luogoed>
+      <datacompl>1945 - 1972</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1952.08.23, n.201.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691124</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1952.11.15, n.273.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1952</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1947-1981.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1947 - 1981</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Avigliana</desloc>
+      <lat_wgs84>45.0792</lat_wgs84>
+      <lon_wgs84>7.3965</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>000100.00</nloc_cfti>
+      <desloc_cfti>Avigliana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Borgone Susa</desloc>
+      <lat_wgs84>45.1229</lat_wgs84>
+      <lon_wgs84>7.238</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>000215.00</nloc_cfti>
+      <desloc_cfti>Borgone Susa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Condove</desloc>
+      <lat_wgs84>45.1166</lat_wgs84>
+      <lon_wgs84>7.3103</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>000801.00</nloc_cfti>
+      <desloc_cfti>Condove</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Pinerolo</desloc>
+      <lat_wgs84>44.8857</lat_wgs84>
+      <lon_wgs84>7.3268</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>001689.00</nloc_cfti>
+      <desloc_cfti>Pinerolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bottarone</desloc>
+      <lat_wgs84>45.1102</lat_wgs84>
+      <lon_wgs84>9.1878</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>018350.00</nloc_cfti>
+      <desloc_cfti>Bottarone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Bressana</desloc>
+      <lat_wgs84>45.0787</lat_wgs84>
+      <lon_wgs84>9.1325</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017267.00</nloc_cfti>
+      <desloc_cfti>Bressana</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Filighera</desloc>
+      <lat_wgs84>45.1771</lat_wgs84>
+      <lon_wgs84>9.3138</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017513.00</nloc_cfti>
+      <desloc_cfti>Filighera</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Mezzanino</desloc>
+      <lat_wgs84>45.1261</lat_wgs84>
+      <lon_wgs84>9.2044</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017687.00</nloc_cfti>
+      <desloc_cfti>Mezzanino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pizzale</desloc>
+      <lat_wgs84>45.036</lat_wgs84>
+      <lon_wgs84>9.0467</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017915.00</nloc_cfti>
+      <desloc_cfti>Pizzale</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Robecco Pavese</desloc>
+      <lat_wgs84>45.047</lat_wgs84>
+      <lon_wgs84>9.1481</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017971.00</nloc_cfti>
+      <desloc_cfti>Robecco Pavese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Spessa</desloc>
+      <lat_wgs84>45.1494</lat_wgs84>
+      <lon_wgs84>9.0801</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>017402.00</nloc_cfti>
+      <desloc_cfti>Spessa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Stradella</desloc>
+      <lat_wgs84>45.0776</lat_wgs84>
+      <lon_wgs84>9.2981</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>018177.00</nloc_cfti>
+      <desloc_cfti>Stradella</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Zinasco</desloc>
+      <lat_wgs84>45.1279</lat_wgs84>
+      <lon_wgs84>9.0279</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>33457</nterr>
+      <nloc_cfti>018492.99</nloc_cfti>
+      <desloc_cfti>Zinasco</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

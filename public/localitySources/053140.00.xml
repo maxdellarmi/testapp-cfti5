@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>053140.00</nloc_cfti>
+      <desloc_cfti>Collerinaldo</desloc_cfti>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>42.4013</lat_wgs84>
+      <lon_wgs84>13.0581</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34545</nterr>
+      <nperiod>003268</nperiod>
+      <datanum>19611031</datanum>
+      <data_label>1961 10 31</data_label>
+      <anno>1961</anno>
+      <mese>10</mese>
+      <giorno>31</giorno>
+      <time_label>13:37:18</time_label>
+      <ora>13</ora>
+      <minu>37</minu>
+      <sec>18</sec>
+      <lat>42.3962</lat>
+      <lon>13.0422</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>71</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Valle del Velino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>La scossa principale (31 ottobre, ore 13:37 GMT) danneggiò notevolmente l’abitato: varie case furono lesionate e alcune, rese inabitabili, vennero sgomberate. Le repliche avvertite tra il 2 e il 3 novembre causarono ulteriori danni: altre abitazioni furono lesionate e alcune di quelle già evacuate crollarono $(052102,095187,672635,672692,691158)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>052102</codbib>
+      <autore1>Marcelli L. e Pannocchia G.</autore1>
+      <titolo1>L’attività sismica nella zona delle Sorgenti del Peschiera. 2.a parte (Studio macrosismico-geologico del terremoto del 31 Ottobre 1961 e pre-istoria sismica), in "Annali di Geofisica", vol.16, pp.646-680.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1963</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1961.10, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672635</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1961.11.03, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672692</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Messaggero, 1961.11.04, a.83, n.306.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1961.11.04, n.262.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1961</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

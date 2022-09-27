@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>045819.00</nloc_cfti>
+      <desloc_cfti>Caselle</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.9641</lat_wgs84>
+      <lon_wgs84>11.4644</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34402</nterr>
+      <nperiod>002092</nperiod>
+      <datanum>19601029</datanum>
+      <data_label>1960 10 29</data_label>
+      <anno>1960</anno>
+      <mese>10</mese>
+      <giorno>29</giorno>
+      <time_label>00:08:39</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>39</sec>
+      <lat>43.9994</lat>
+      <lon>11.3851</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>69</npun>
+      <mm>5</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26806</nterr>
+      <nperiod>000463</nperiod>
+      <datanum>19190629</datanum>
+      <data_label>1919 06 29</data_label>
+      <anno>1919</anno>
+      <mese>06</mese>
+      <giorno>29</giorno>
+      <time_label>15:06:13</time_label>
+      <ora>15</ora>
+      <minu>06</minu>
+      <sec>13</sec>
+      <lat>43.9576</lat>
+      <lon>11.4818</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>567</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>35</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La scossa del 29 giugno 1919 causò danni gravissimi; numerose case furono distrutte e vi furono 3 vittime. La popolazione rimase alloggiata in baracche per molti anni; fino al 1930 la scuola pubblica fu sistemata in un prefabbricato e soltanto in quell’anno fu inaugurato l’edificio scolastico stabile $(681104,020002,020003,020010,020011,020015,020022,030097)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>681104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio privato Cecchini di Malnome di Vicchio, Memorie manoscritte della famiglia Cecchini relative al terremoto del 29 giugno 1919, sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020002</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1919.06.30, a.61, n.181.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020003</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.06.30, a.14, n.160.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo della Sera, 1919.06.30, a.1, n.16.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere d’Italia, 1919.06.30, a.14, n.174.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.01, a.14, n.161.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Nuovo Giornale, 1919.07.02, a.14, n.162.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Tempo, 1919.07.01.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

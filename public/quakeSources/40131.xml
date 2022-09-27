@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>40131</nterr>
+      <nperiod>003047</nperiod>
+      <datanum>19780311</datanum>
+      <data_label>1978 03 11</data_label>
+      <anno>1978</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>19:20:44</time_label>
+      <ora>19</ora>
+      <minu>20</minu>
+      <sec>44</sec>
+      <lat>38.0115</lat>
+      <lon>15.9765</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>126</npun>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.5</mm>
+      <earthquakelocation>Calabria meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è elencato nel Catalogo PFG (1985) senza indicazione della stima d’intensità e con un errato riferimento bibliografico al catalogo di Carrozzo et al. (1975) $(050843)$, che riguarda eventi fino all’ottobre 1973.&lt;br&gt;È stata condotta una ricerca riguardante la bibliografia scientifica disponibile e le fonti giornalistiche. È stato utilizzato, in particolare, lo studio di Bottari et al. (1981-1982) $(035273)$ basato sui dati macrosismici raccolti in circa 130 località della Calabria e della Sicilia, sintetizzati in una mappa delle intensità osservate, e sull’analisi delle condizioni geologiche, morfologiche e strutturali del suolo dell’area più colpita dal terremoto.&lt;br&gt;Sono state inoltre vagliate e utilizzate le informazioni riportate nei dispacci dell’agenzia ANSA dell’11 e del 12 marzo 1978 $(035029,035030)$ e in 7 cronache giornalistiche afferenti a 4 testate.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne l’11 marzo 1978 alle ore 19:21 GMT ca. e colpì il litorale ionico della Calabria meridionale. La località più danneggiata fu Ferruzzano, dove vi furono alcuni crolli e circa il 70% delle abitazioni risultarono lesionate; dei 920 abitanti, 60 (6,6%) furono costretti ad abbandonare le loro abitazioni. Danni di analoga gravità furono riscontrati a Bova, Roccaforte del Greco e Palizzi; a Pietrapennata crollarono 2 vecchie case; a Palizzi Marina cadde il cornicione del campanile. Secondo Bottari et al. (1981-1982) $(035273)$, nei centri più colpiti gli effetti sismici furono aggravati dalla notevole instabilità dei terreni. La scossa fu avvertita in tutta la Calabria centro-meridionale e nella Sicilia orientale; a Reggio Calabria e a Messina spaventò la popolazione, ma non causò danni.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>A Ferruzzano si aprirono larghe crepe nelle strade, in particolare nella provinciale che collega il centro abitato alla strada statale 106 $(035030)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>035029</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1978.03.11.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035030</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario italiano, 1978.03.12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035273</codbib>
+      <autore1>Bottari A., Lo Giudice E., Nicoletti P.G. e Sorriso-Valvo M.</autore1>
+      <titolo1>The Ferruzzano earthquake of 1978: macroseismic effects and slope-stability conditions in southern Calabria (Italy), in "Revue de Gèologie Dynamique et de Gèographie Physique", vol.23, fasc.1, pp.73-84.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1981 - 1982</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035275</codbib>
+      <autore1>Bottari A. e Lo Giudice E.</autore1>
+      <titolo1>Sulla rappresentazione dei campi macrosismici, Istituto Internazionale di Vulcanologia di Catania, Open-file Report n.3/82.</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050843</codbib>
+      <autore1>Carrozzo M.T., Cosentino M., Ferlito A., Giorgetti F., Patané G. e Riuscetti M.</autore1>
+      <titolo1>Earthquakes catalogue of Calabria and Sicily (1783-1973), CNR, Quaderni de «La Ricerca Scientifica», vol.93.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1975</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>053005</codbib>
+      <autore1>Guidoboni E. e Mariotti D.</autore1>
+      <titolo1>Gli effetti dei terremoti nell’Area Grecanica, in Area Grecanica. Codice di pratica per la sicurezza e la conservazione degli insediamenti storici, a cura di V.Ceradini, "Quaderni del Dipartimento Patrimonio Architettonico e Urbanistico", n.s., a.12, n.23-24, pp.18-49.</titolo1>
+      <luogoed>Reggio Calabria</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672961</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1978.03.12, a.118, n.69.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672962</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1978.03.13, a.118, n.70 (edizione del lunedì).</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672963</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Sicilia, 1978.03.15, a.118, n.72.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672964</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1978.03.13, a.17, n.11 (edizione del lunedì).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672965</codbib>
+      <autore1>*</autore1>
+      <titolo1>Stampa Sera, 1978.03.13, a.110, n.62 (edizione del lunedì).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672966</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Sud, 1978.03.12, a.27, n.70.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672967</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta del Sud, 1978.03.13, a.27, n.71.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1978</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673513</codbib>
+      <autore1>*</autore1>
+      <titolo1>Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana, a.1978, vol.4, n.225, Decreto-legge 26 maggio 1978, Misure urgenti in favore delle zone della Calabria e della Sicilia colpite dagli eventi sismici del marzo e dell’aprile 1978.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673514</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale della Repubblica Italiana, a.119, n.211, Legge 27 luglio 1978, n.394, Conversione in legge, con modificazioni, del decreto-legge 26 maggio 1978, n.225, concernente: «Misure urgenti in favore delle zone della Calabria e della Sicilia colpite dagli eventi sismici del marzo e dell’aprile 1978».</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673540</codbib>
+      <autore1>*</autore1>
+      <titolo1>Camera dei Deputati, Legislatura VII, Atti Parlamentari, Disegni di legge ­ Relazioni ­ Documenti, vol.54, n.2230, Disegno di legge presentato dal Presidente del Consiglio dei Ministri (Andreotti) di concerto col Ministro dell’Interno «ad interim» (Andreotti) col Ministro del Tesoro (Pandolfi) col Ministro del Bilancio e della Programmazione Economica (Morlino) e col Ministro dei Lavori Pubblici (Stammati), Conversione in legge del decreto-legge 26 maggio 1978, n.225, concernente: «Misure urgenti in favore delle zone della Calabria e della Sicilia colpite dagli eventi sismici del marzo e dell’aprile 1978», Seduta del 31 maggio 1978.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673541</codbib>
+      <autore1>*</autore1>
+      <titolo1>Camera dei Deputati, Legislatura VII, Atti Parlamentari dell’Assemblea, Discussioni, vol.20, Seduta del 21 luglio 1978, Discussione del disegno di legge: Conversione in legge del decreto-legge 26 maggio 1978, n.225, concernente: «Misure urgenti in favore delle zone della Calabria e della Sicilia colpite dagli eventi sismici del marzo e dell’aprile 1978 (2230).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673542</codbib>
+      <autore1>*</autore1>
+      <titolo1>Senato della Repubblica, Legislatura VII, Atti Parlamentari, Resoconti delle discussioni, vol.14, 301.a seduta pomeridiana 26 luglio 1978, Discussione e approvazione del disegno di legge: «Conversione in legge, con modificazioni, del decreto-legge 26 maggio 1978, n.255, concernente misure urgenti in favore delle zone della Calabria e della Sicilia colpite dagli eventi sismici del marzo e dell’aprile 1978» (1322).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1979</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Bova</desloc>
+      <lat_wgs84>37.9944</lat_wgs84>
+      <lon_wgs84>15.9323</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065212.00</nloc_cfti>
+      <desloc_cfti>Bova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VIII grado MSK e hanno evidenziato che le condizioni di instabilità del terreno su cui sorge l’abitato amplificarono gli effetti sismici $(035273)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Ferruzzano</desloc>
+      <lat_wgs84>38.0397</lat_wgs84>
+      <lon_wgs84>16.0873</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065353.00</nloc_cfti>
+      <desloc_cfti>Ferruzzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò alcuni crolli e lesioni al 70% delle abitazioni, generalmente costruite su pietra arenaria; 60 dei 920 residenti (6,6%) rimasero senza tetto $(035030)$. Secondo Bottari et al. (1981-1982) le condizioni di instabilità del terreno su cui sorge l’abitato amplificarono gli effetti sismici $(035273)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Palizzi</desloc>
+      <lat_wgs84>37.9664</lat_wgs84>
+      <lon_wgs84>15.9863</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065561.00</nloc_cfti>
+      <desloc_cfti>Palizzi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VIII grado MSK e hanno evidenziato che le condizioni di instabilità del terreno su cui sorge l’abitato amplificarono gli effetti sismici $(035273)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Roccaforte del Greco</desloc>
+      <lat_wgs84>38.0455</lat_wgs84>
+      <lon_wgs84>15.9002</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065721.00</nloc_cfti>
+      <desloc_cfti>Roccaforte del Greco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VIII grado MSK e hanno evidenziato che le condizioni di instabilità del terreno su cui sorge l’abitato amplificarono gli effetti sismici $(035273)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Casignana</desloc>
+      <lat_wgs84>38.1012</lat_wgs84>
+      <lon_wgs84>16.089</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065293.00</nloc_cfti>
+      <desloc_cfti>Casignana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VII grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Pietrapennata</desloc>
+      <lat_wgs84>37.9845</lat_wgs84>
+      <lon_wgs84>16.0082</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065565.00</nloc_cfti>
+      <desloc_cfti>Pietrapennata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo di due vecchie case $(035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Samo</desloc>
+      <lat_wgs84>38.0731</lat_wgs84>
+      <lon_wgs84>16.0577</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065728</nloc_cfti>
+      <desloc_cfti>Samo (Precacore)</desloc_cfti>
+      <notesito>Già Precacore, il paese ha cambiato sito dopo il terremoto del 1908 e assunse la denominazione attuale il 2 luglio 1911.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VII grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sant'Agata del Bianco</desloc>
+      <lat_wgs84>38.0919</lat_wgs84>
+      <lon_wgs84>16.0833</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065764.00</nloc_cfti>
+      <desloc_cfti>Sant’Agata del Bianco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VII grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Palizzi Marina</desloc>
+      <lat_wgs84>37.9196</lat_wgs84>
+      <lon_wgs84>15.9864</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065563.00</nloc_cfti>
+      <desloc_cfti>Palizzi Marina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò il crollo del cornicione del campanile; molte persone, spaventate, si riversarono nelle strade $(035030)$. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VII grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bagaladi</desloc>
+      <lat_wgs84>38.0267</lat_wgs84>
+      <lon_wgs84>15.8214</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065193.00</nloc_cfti>
+      <desloc_cfti>Bagaladi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bianco</desloc>
+      <lat_wgs84>38.0889</lat_wgs84>
+      <lon_wgs84>16.1503</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065208.00</nloc_cfti>
+      <desloc_cfti>Bianco</desloc_cfti>
+      <notesito>La località ha cambiato sito dopo il terremoto del 1783.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bova Marina</desloc>
+      <lat_wgs84>37.9315</lat_wgs84>
+      <lon_wgs84>15.9188</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065220.00</nloc_cfti>
+      <desloc_cfti>Bova Marina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò grande panico nella popolazione $(035030)$. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Campo Piale</desloc>
+      <lat_wgs84>38.2212</lat_wgs84>
+      <lon_wgs84>15.6544</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065249.00</nloc_cfti>
+      <desloc_cfti>Campo Piale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Condofuri</desloc>
+      <lat_wgs84>38.0052</lat_wgs84>
+      <lon_wgs84>15.8578</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065329.00</nloc_cfti>
+      <desloc_cfti>Condofuri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In seguito alla scossa molte persone, spaventate, si riversarono nelle strade $(035030)$. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Galati</desloc>
+      <lat_wgs84>37.9305</lat_wgs84>
+      <lon_wgs84>16.0672</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065227.00</nloc_cfti>
+      <desloc_cfti>Galati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Marina di San Lorenzo</desloc>
+      <lat_wgs84>37.9207</lat_wgs84>
+      <lon_wgs84>15.8282</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065737.00</nloc_cfti>
+      <desloc_cfti>Marina di San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Melito di Porto Salvo</desloc>
+      <lat_wgs84>37.9205</lat_wgs84>
+      <lon_wgs84>15.7841</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065473.00</nloc_cfti>
+      <desloc_cfti>Melito di Porto Salvo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In seguito alla scossa molte persone, colte da malore per lo spavento, dovettero ricorrere alle cure dei medici; un uomo di 61 anni morì poco dopo il ricovero in ospedale $(035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Molaro</desloc>
+      <lat_wgs84>37.9598</lat_wgs84>
+      <lon_wgs84>15.7304</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065505.00</nloc_cfti>
+      <desloc_cfti>Molaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Montebello Ionico</desloc>
+      <lat_wgs84>37.9822</lat_wgs84>
+      <lon_wgs84>15.7583</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065513.00</nloc_cfti>
+      <desloc_cfti>Montebello Ionico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò grande panico nella popolazione; una persona rimase ferita cadendo nel tentativo di scappare dall’abitazione $(035030)$. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Oppido Mamertina</desloc>
+      <lat_wgs84>38.2912</lat_wgs84>
+      <lon_wgs84>15.9846</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065559.00</nloc_cfti>
+      <desloc_cfti>Oppido Mamertina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Platì</desloc>
+      <lat_wgs84>38.2212</lat_wgs84>
+      <lon_wgs84>16.0444</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065616.00</nloc_cfti>
+      <desloc_cfti>Platì</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Polsi</desloc>
+      <lat_wgs84>38.1645</lat_wgs84>
+      <lon_wgs84>15.9602</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065746.00</nloc_cfti>
+      <desloc_cfti>Polsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Prunella</desloc>
+      <lat_wgs84>37.9397</lat_wgs84>
+      <lon_wgs84>15.7949</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065487.00</nloc_cfti>
+      <desloc_cfti>Prunella</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>San Lorenzo</desloc>
+      <lat_wgs84>38.0108</lat_wgs84>
+      <lon_wgs84>15.8341</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065742.00</nloc_cfti>
+      <desloc_cfti>San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò grande panico nella popolazione $(035030)$. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Galati Superiore</desloc>
+      <lat_wgs84>38.1123</lat_wgs84>
+      <lon_wgs84>15.4952</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066944.00</nloc_cfti>
+      <desloc_cfti>Galati Superiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V-VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Melicuccà</desloc>
+      <lat_wgs84>38.3026</lat_wgs84>
+      <lon_wgs84>15.8813</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065465.00</nloc_cfti>
+      <desloc_cfti>Melicuccà</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V-VI grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Africo Nuovo</desloc>
+      <lat_wgs84>38.0512</lat_wgs84>
+      <lon_wgs84>16.135</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065168.00</nloc_cfti>
+      <desloc_cfti>Africo Nuovo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Alì</desloc>
+      <lat_wgs84>38.027</lat_wgs84>
+      <lon_wgs84>15.417</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066650</nloc_cfti>
+      <desloc_cfti>Alì (Alì Superiore)</desloc_cfti>
+      <notesito>Già Alì Superiore, assunse la denominazione attuale dal 1960.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Antonimina</desloc>
+      <lat_wgs84>38.2728</lat_wgs84>
+      <lon_wgs84>16.1499</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065181.00</nloc_cfti>
+      <desloc_cfti>Antonimina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Arasì</desloc>
+      <lat_wgs84>38.1394</lat_wgs84>
+      <lon_wgs84>15.7373</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065626.00</nloc_cfti>
+      <desloc_cfti>Arasì</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ardore</desloc>
+      <lat_wgs84>38.1917</lat_wgs84>
+      <lon_wgs84>16.1676</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065185.00</nloc_cfti>
+      <desloc_cfti>Ardore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bagnara Calabra</desloc>
+      <lat_wgs84>38.2867</lat_wgs84>
+      <lon_wgs84>15.8052</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065196.00</nloc_cfti>
+      <desloc_cfti>Bagnara Calabra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bovalino Marina</desloc>
+      <lat_wgs84>38.1496</lat_wgs84>
+      <lon_wgs84>16.1775</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065215.00</nloc_cfti>
+      <desloc_cfti>Bovalino Marina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Calanna</desloc>
+      <lat_wgs84>38.184</lat_wgs84>
+      <lon_wgs84>15.7236</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065234.00</nloc_cfti>
+      <desloc_cfti>Calanna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cardeto</desloc>
+      <lat_wgs84>38.085</lat_wgs84>
+      <lon_wgs84>15.7677</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065267.00</nloc_cfti>
+      <desloc_cfti>Cardeto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Careri</desloc>
+      <lat_wgs84>38.1773</lat_wgs84>
+      <lon_wgs84>16.1151</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065290.00</nloc_cfti>
+      <desloc_cfti>Careri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Catona</desloc>
+      <lat_wgs84>38.1854</lat_wgs84>
+      <lon_wgs84>15.6434</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065647.00</nloc_cfti>
+      <desloc_cfti>Catona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cinquefrondi</desloc>
+      <lat_wgs84>38.4177</lat_wgs84>
+      <lon_wgs84>16.0948</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065322.00</nloc_cfti>
+      <desloc_cfti>Cinquefrondi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gambarie</desloc>
+      <lat_wgs84>38.1652</lat_wgs84>
+      <lon_wgs84>15.8361</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065774.00</nloc_cfti>
+      <desloc_cfti>Gambarie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gerace</desloc>
+      <lat_wgs84>38.2713</lat_wgs84>
+      <lon_wgs84>16.2205</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065370</nloc_cfti>
+      <desloc_cfti>Gerace (Gerace Superiore)</desloc_cfti>
+      <notesito>Assunse la denominazione di Gerace Superiore l’8 agosto 1905 e riprese quella attuale il 23 gennaio 1941.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gioia Tauro</desloc>
+      <lat_wgs84>38.4263</lat_wgs84>
+      <lon_wgs84>15.8988</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065374.00</nloc_cfti>
+      <desloc_cfti>Gioia Tauro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Lazzaro</desloc>
+      <lat_wgs84>37.9768</lat_wgs84>
+      <lon_wgs84>15.6599</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065535.00</nloc_cfti>
+      <desloc_cfti>Lazzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Locri</desloc>
+      <lat_wgs84>38.2351</lat_wgs84>
+      <lon_wgs84>16.2637</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065429</nloc_cfti>
+      <desloc_cfti>Locri (Gerace Marina)</desloc_cfti>
+      <notesito>Già Gerace Marina, assunse la denominazione attuale il 29 gennaio 1934.</notesito>
+      <COMM>In seguito alla scossa molte persone, spaventate, si riversarono nelle strade; vi fu grande panico fra i detenuti del carcere $(035029,035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Melia</desloc>
+      <lat_wgs84>38.229</lat_wgs84>
+      <lon_wgs84>15.7581</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065784.00</nloc_cfti>
+      <desloc_cfti>Melia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Messina</desloc>
+      <lat_wgs84>38.1877</lat_wgs84>
+      <lon_wgs84>15.5493</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066973.00</nloc_cfti>
+      <desloc_cfti>Messina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In seguito alla scossa molte persone, spaventate, si riversarono nelle strade; vi fu una momentanea interruzione nell’erogazione dell’energia elettrica $(035029)$. Una donna di 62 anni, colta da malore, morì per collasso cardiaco $(035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Motta San Giovanni</desloc>
+      <lat_wgs84>38.0028</lat_wgs84>
+      <lon_wgs84>15.6945</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065543.00</nloc_cfti>
+      <desloc_cfti>Motta San Giovanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pace</desloc>
+      <lat_wgs84>38.2403</lat_wgs84>
+      <lon_wgs84>15.5785</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>072460.00</nloc_cfti>
+      <desloc_cfti>Pace</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pellaro</desloc>
+      <lat_wgs84>38.0258</lat_wgs84>
+      <lon_wgs84>15.6562</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065674.00</nloc_cfti>
+      <desloc_cfti>Pellaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Reggio di Calabria</desloc>
+      <lat_wgs84>38.1087</lat_wgs84>
+      <lon_wgs84>15.6471</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065695.00</nloc_cfti>
+      <desloc_cfti>Reggio di Calabria</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito fortemente; molte persone, spaventate, si riversarono nelle strade $(035029,035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rizziconi</desloc>
+      <lat_wgs84>38.4114</lat_wgs84>
+      <lon_wgs84>15.9593</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065717.00</nloc_cfti>
+      <desloc_cfti>Rizziconi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Roccalumera</desloc>
+      <lat_wgs84>37.9748</lat_wgs84>
+      <lon_wgs84>15.3948</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067180.00</nloc_cfti>
+      <desloc_cfti>Roccalumera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Saline Ioniche</desloc>
+      <lat_wgs84>37.9454</lat_wgs84>
+      <lon_wgs84>15.71</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065524.00</nloc_cfti>
+      <desloc_cfti>Saline Ioniche</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>San Gregorio d'Ippona</desloc>
+      <lat_wgs84>38.6434</lat_wgs84>
+      <lon_wgs84>16.1047</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065010.00</nloc_cfti>
+      <desloc_cfti>San Gregorio d’Ippona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Sant'Eufemia d'Aspromonte</desloc>
+      <lat_wgs84>38.2635</lat_wgs84>
+      <lon_wgs84>15.8573</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065766.00</nloc_cfti>
+      <desloc_cfti>Sant’Eufemia d’Aspromonte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Scaletta Zanclea</desloc>
+      <lat_wgs84>38.0429</lat_wgs84>
+      <lon_wgs84>15.4598</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067371.99</nloc_cfti>
+      <desloc_cfti>Scaletta Zanclea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Seminara</desloc>
+      <lat_wgs84>38.3356</lat_wgs84>
+      <lon_wgs84>15.8716</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065798.00</nloc_cfti>
+      <desloc_cfti>Seminara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Serra San Bruno</desloc>
+      <lat_wgs84>38.5767</lat_wgs84>
+      <lon_wgs84>16.33</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065053.00</nloc_cfti>
+      <desloc_cfti>Serra San Bruno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Siderno</desloc>
+      <lat_wgs84>38.2698</lat_wgs84>
+      <lon_wgs84>16.2945</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065816.00</nloc_cfti>
+      <desloc_cfti>Siderno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Soriano Calabro</desloc>
+      <lat_wgs84>38.5981</lat_wgs84>
+      <lon_wgs84>16.2299</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065090.00</nloc_cfti>
+      <desloc_cfti>Soriano Calabro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Taurianova</desloc>
+      <lat_wgs84>38.3536</lat_wgs84>
+      <lon_wgs84>16.0144</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065840.00</nloc_cfti>
+      <desloc_cfti>Taurianova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Tremestieri</desloc>
+      <lat_wgs84>38.1384</lat_wgs84>
+      <lon_wgs84>15.525</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067003.00</nloc_cfti>
+      <desloc_cfti>Tremestieri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Varapodio</desloc>
+      <lat_wgs84>38.3155</lat_wgs84>
+      <lon_wgs84>15.9841</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065843.00</nloc_cfti>
+      <desloc_cfti>Varapodio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Villa San Giovanni</desloc>
+      <lat_wgs84>38.2208</lat_wgs84>
+      <lon_wgs84>15.6377</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065846.00</nloc_cfti>
+      <desloc_cfti>Villa San Giovanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cannitello</desloc>
+      <lat_wgs84>38.2342</lat_wgs84>
+      <lon_wgs84>15.6567</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065844.00</nloc_cfti>
+      <desloc_cfti>Cannitello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Cittanova</desloc>
+      <lat_wgs84>38.3533</lat_wgs84>
+      <lon_wgs84>16.0807</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065323</nloc_cfti>
+      <desloc_cfti>Cittanova (Casalnuovo)</desloc_cfti>
+      <notesito>Già Casalnuovo, assunse la denominazione attuale il 26 marzo 1863.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Grotteria</desloc>
+      <lat_wgs84>38.3649</lat_wgs84>
+      <lon_wgs84>16.2651</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065418.00</nloc_cfti>
+      <desloc_cfti>Grotteria</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Laureana di Borrello</desloc>
+      <lat_wgs84>38.4911</lat_wgs84>
+      <lon_wgs84>16.0818</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065426.00</nloc_cfti>
+      <desloc_cfti>Laureana di Borrello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Palmi</desloc>
+      <lat_wgs84>38.3589</lat_wgs84>
+      <lon_wgs84>15.8489</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065573.00</nloc_cfti>
+      <desloc_cfti>Palmi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu avvertito fortemente e causò grande panico fra i detenuti del carcere $(035030)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Passo di Croce Ferrata</desloc>
+      <lat_wgs84>38.4443</lat_wgs84>
+      <lon_wgs84>16.2735</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>072672.00</nloc_cfti>
+      <desloc_cfti>Passo di Croce Ferrata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Roccella Jonica</desloc>
+      <lat_wgs84>38.3244</lat_wgs84>
+      <lon_wgs84>16.4048</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065722.00</nloc_cfti>
+      <desloc_cfti>Roccella Jonica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Rosarno</desloc>
+      <lat_wgs84>38.4878</lat_wgs84>
+      <lon_wgs84>15.9762</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065726.00</nloc_cfti>
+      <desloc_cfti>Rosarno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Santa Teresa di Riva</desloc>
+      <lat_wgs84>37.9459</lat_wgs84>
+      <lon_wgs84>15.3672</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067340.00</nloc_cfti>
+      <desloc_cfti>Santa Teresa di Riva</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Santo Stefano in Aspromonte</desloc>
+      <lat_wgs84>38.169</lat_wgs84>
+      <lon_wgs84>15.7893</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065775.00</nloc_cfti>
+      <desloc_cfti>Santo Stefano in Aspromonte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV-V grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Alì Terme</desloc>
+      <lat_wgs84>38.0041</lat_wgs84>
+      <lon_wgs84>15.423</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066651</nloc_cfti>
+      <desloc_cfti>Alì Terme (Alì Marina)</desloc_cfti>
+      <notesito>Già Alì Marina, assunse la denominazione attuale il 31 luglio 1954.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Barcellona Pozzo di Gotto</desloc>
+      <lat_wgs84>38.1462</lat_wgs84>
+      <lon_wgs84>15.2149</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066662.00</nloc_cfti>
+      <desloc_cfti>Barcellona Pozzo di Gotto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Casalvecchio Siculo</desloc>
+      <lat_wgs84>37.958</lat_wgs84>
+      <lon_wgs84>15.3218</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066717.00</nloc_cfti>
+      <desloc_cfti>Casalvecchio Siculo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Castroreale</desloc>
+      <lat_wgs84>38.0998</lat_wgs84>
+      <lon_wgs84>15.211</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066749.00</nloc_cfti>
+      <desloc_cfti>Castroreale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Chiaravalle Centrale</desloc>
+      <lat_wgs84>38.6809</lat_wgs84>
+      <lon_wgs84>16.4124</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064618.00</nloc_cfti>
+      <desloc_cfti>Chiaravalle Centrale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Fabrizia</desloc>
+      <lat_wgs84>38.4867</lat_wgs84>
+      <lon_wgs84>16.299</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064714.00</nloc_cfti>
+      <desloc_cfti>Fabrizia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Filogaso</desloc>
+      <lat_wgs84>38.6812</lat_wgs84>
+      <lon_wgs84>16.2282</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064767.00</nloc_cfti>
+      <desloc_cfti>Filogaso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Gesso</desloc>
+      <lat_wgs84>38.2351</lat_wgs84>
+      <lon_wgs84>15.4692</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066961.00</nloc_cfti>
+      <desloc_cfti>Gesso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Giardini</desloc>
+      <lat_wgs84>37.8347</lat_wgs84>
+      <lon_wgs84>15.2713</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066817</nloc_cfti>
+      <desloc_cfti>Giardini Naxos (Giardini)</desloc_cfti>
+      <notesito>Assunse la denominazione di Giardini Naxos il 17 giugno 1978.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Gioiosa Jonica</desloc>
+      <lat_wgs84>38.3322</lat_wgs84>
+      <lon_wgs84>16.3018</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065394.00</nloc_cfti>
+      <desloc_cfti>Gioiosa Jonica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Joppolo</desloc>
+      <lat_wgs84>38.5858</lat_wgs84>
+      <lon_wgs84>15.8958</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064842.00</nloc_cfti>
+      <desloc_cfti>Joppolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Letojanni</desloc>
+      <lat_wgs84>37.8805</lat_wgs84>
+      <lon_wgs84>15.3059</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066873.00</nloc_cfti>
+      <desloc_cfti>Letojanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Limina</desloc>
+      <lat_wgs84>37.9411</lat_wgs84>
+      <lon_wgs84>15.2715</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066886.00</nloc_cfti>
+      <desloc_cfti>Limina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Marina di Gioiosa Jonica</desloc>
+      <lat_wgs84>38.3013</lat_wgs84>
+      <lon_wgs84>16.33</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065447.00</nloc_cfti>
+      <desloc_cfti>Marina di Gioiosa Jonica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mileto</desloc>
+      <lat_wgs84>38.6088</lat_wgs84>
+      <lon_wgs84>16.0679</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064908.00</nloc_cfti>
+      <desloc_cfti>Mileto</desloc_cfti>
+      <notesito>La località ha cambiato sito dopo il terremoto del 1783.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Mongiana</desloc>
+      <lat_wgs84>38.5134</lat_wgs84>
+      <lon_wgs84>16.319</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064911.00</nloc_cfti>
+      <desloc_cfti>Mongiana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Nizza di Sicilia</desloc>
+      <lat_wgs84>37.9898</lat_wgs84>
+      <lon_wgs84>15.4095</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067102.00</nloc_cfti>
+      <desloc_cfti>Nizza di Sicilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Pannaconi</desloc>
+      <lat_wgs84>38.6923</lat_wgs84>
+      <lon_wgs84>16.0405</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064600.00</nloc_cfti>
+      <desloc_cfti>Pannaconi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Pizzo</desloc>
+      <lat_wgs84>38.734</lat_wgs84>
+      <lon_wgs84>16.1587</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064966.00</nloc_cfti>
+      <desloc_cfti>Pizzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Ponte Angitola</desloc>
+      <lat_wgs84>38.7791</lat_wgs84>
+      <lon_wgs84>16.2186</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>072675.00</nloc_cfti>
+      <desloc_cfti>Ponte Angitola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sant'Angelo</desloc>
+      <lat_wgs84>38.6116</lat_wgs84>
+      <lon_wgs84>16.1687</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064790.00</nloc_cfti>
+      <desloc_cfti>Sant’Angelo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sant'Eufemia Lamezia</desloc>
+      <lat_wgs84>38.9209</lat_wgs84>
+      <lon_wgs84>16.2542</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064874.00</nloc_cfti>
+      <desloc_cfti>Sant’Eufemia Lamezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Santa Lucia del Mela</desloc>
+      <lat_wgs84>38.141</lat_wgs84>
+      <lon_wgs84>15.2811</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067300.00</nloc_cfti>
+      <desloc_cfti>Santa Lucia del Mela</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sorianello</desloc>
+      <lat_wgs84>38.5922</lat_wgs84>
+      <lon_wgs84>16.2326</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065089.00</nloc_cfti>
+      <desloc_cfti>Sorianello</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Soverato</desloc>
+      <lat_wgs84>38.6879</lat_wgs84>
+      <lon_wgs84>16.5486</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065091.00</nloc_cfti>
+      <desloc_cfti>Soverato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Stignano</desloc>
+      <lat_wgs84>38.418</lat_wgs84>
+      <lon_wgs84>16.4709</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065831.00</nloc_cfti>
+      <desloc_cfti>Stignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Stilo</desloc>
+      <lat_wgs84>38.4774</lat_wgs84>
+      <lon_wgs84>16.4681</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065836.00</nloc_cfti>
+      <desloc_cfti>Stilo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Taormina</desloc>
+      <lat_wgs84>37.8521</lat_wgs84>
+      <lon_wgs84>15.2858</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067402.00</nloc_cfti>
+      <desloc_cfti>Taormina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Triparni</desloc>
+      <lat_wgs84>38.6811</lat_wgs84>
+      <lon_wgs84>16.067</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065146.00</nloc_cfti>
+      <desloc_cfti>Triparni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vibo Valentia</desloc>
+      <lat_wgs84>38.6755</lat_wgs84>
+      <lon_wgs84>16.1023</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065154</nloc_cfti>
+      <desloc_cfti>Vibo Valentia (Monteleone di Calabria, Monteleone)</desloc_cfti>
+      <notesito>Già Monteleone, assunse la denominazione di Monteleone di Calabria il 22 gennaio 1863 e quella attuale l’8 dicembre 1927 (r.d. n.2449).</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vibo Valentia Marina</desloc>
+      <lat_wgs84>38.7138</lat_wgs84>
+      <lon_wgs84>16.119</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065151</nloc_cfti>
+      <desloc_cfti>Vibo Valentia Marina (Porto Santa Venere)</desloc_cfti>
+      <notesito>Già Porto Santa Venere, assunse la denominazione attuale nel 1928.</notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Villaggio Ziia</desloc>
+      <lat_wgs84>38.475</lat_wgs84>
+      <lon_wgs84>16.3962</lon_wgs84>
+      <provlet>RC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065299.00</nloc_cfti>
+      <desloc_cfti>Villaggio Ziia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Filadelfia</desloc>
+      <lat_wgs84>38.7837</lat_wgs84>
+      <lon_wgs84>16.2921</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064748.00</nloc_cfti>
+      <desloc_cfti>Filadelfia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Filandari</desloc>
+      <lat_wgs84>38.6155</lat_wgs84>
+      <lon_wgs84>16.0305</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064763.00</nloc_cfti>
+      <desloc_cfti>Filandari</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Graniti</desloc>
+      <lat_wgs84>37.8899</lat_wgs84>
+      <lon_wgs84>15.2248</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066861.00</nloc_cfti>
+      <desloc_cfti>Graniti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Milazzo</desloc>
+      <lat_wgs84>38.2242</lat_wgs84>
+      <lon_wgs84>15.2401</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067008.00</nloc_cfti>
+      <desloc_cfti>Milazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Nicotera</desloc>
+      <lat_wgs84>38.552</lat_wgs84>
+      <lon_wgs84>15.9377</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064934.00</nloc_cfti>
+      <desloc_cfti>Nicotera</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Tropea</desloc>
+      <lat_wgs84>38.6752</lat_wgs84>
+      <lon_wgs84>15.8986</lon_wgs84>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065135.00</nloc_cfti>
+      <desloc_cfti>Tropea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III-IV grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Catanzaro</desloc>
+      <lat_wgs84>38.9149</lat_wgs84>
+      <lon_wgs84>16.5859</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064567.00</nloc_cfti>
+      <desloc_cfti>Catanzaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Forza d'Agrò</desloc>
+      <lat_wgs84>37.9151</lat_wgs84>
+      <lon_wgs84>15.333</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066795.00</nloc_cfti>
+      <desloc_cfti>Forza d’Agrò</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Francavilla di Sicilia</desloc>
+      <lat_wgs84>37.9025</lat_wgs84>
+      <lon_wgs84>15.1382</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066797.00</nloc_cfti>
+      <desloc_cfti>Francavilla di Sicilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Giarre</desloc>
+      <lat_wgs84>37.7246</lat_wgs84>
+      <lon_wgs84>15.1811</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067820.00</nloc_cfti>
+      <desloc_cfti>Giarre</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Maida</desloc>
+      <lat_wgs84>38.8581</lat_wgs84>
+      <lon_wgs84>16.3646</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064889.00</nloc_cfti>
+      <desloc_cfti>Maida</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Nicastro</desloc>
+      <lat_wgs84>38.9747</lat_wgs84>
+      <lon_wgs84>16.3183</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>064844.00</nloc_cfti>
+      <desloc_cfti>Nicastro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Novara di Sicilia</desloc>
+      <lat_wgs84>38.0152</lat_wgs84>
+      <lon_wgs84>15.1298</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067108.00</nloc_cfti>
+      <desloc_cfti>Novara di Sicilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Patti</desloc>
+      <lat_wgs84>38.1388</lat_wgs84>
+      <lon_wgs84>14.9658</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067135.00</nloc_cfti>
+      <desloc_cfti>Patti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sant'Agata li Battiati</desloc>
+      <lat_wgs84>37.5571</lat_wgs84>
+      <lon_wgs84>15.0816</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067936.00</nloc_cfti>
+      <desloc_cfti>Sant’Agata li Battiati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sant'Angelo di Brolo</desloc>
+      <lat_wgs84>38.114</lat_wgs84>
+      <lon_wgs84>14.8836</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067324.00</nloc_cfti>
+      <desloc_cfti>Sant’Angelo di Brolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Spartà</desloc>
+      <lat_wgs84>38.2947</lat_wgs84>
+      <lon_wgs84>15.5429</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066931.00</nloc_cfti>
+      <desloc_cfti>Spartà</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Randazzo</desloc>
+      <lat_wgs84>37.8775</lat_wgs84>
+      <lon_wgs84>14.9479</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>067903.00</nloc_cfti>
+      <desloc_cfti>Randazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di II-III grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Squillace</desloc>
+      <lat_wgs84>38.7812</lat_wgs84>
+      <lon_wgs84>16.5191</lon_wgs84>
+      <provlet>CZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>065105.00</nloc_cfti>
+      <desloc_cfti>Squillace</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Bottari et al. (1981-1982) hanno valutato l’intensità della scossa di II grado MSK $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Lipari</desloc>
+      <lat_wgs84>38.4685</lat_wgs84>
+      <lon_wgs84>14.9575</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>066900.00</nloc_cfti>
+      <desloc_cfti>Lipari</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(035273,035275)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>San Vincenzo</desloc>
+      <lat_wgs84>38.8045</lat_wgs84>
+      <lon_wgs84>15.2385</lon_wgs84>
+      <provlet>ME</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>40131</nterr>
+      <nloc_cfti>072688.00</nloc_cfti>
+      <desloc_cfti>San Vincenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(035273,035275)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

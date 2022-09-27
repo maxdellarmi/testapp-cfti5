@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00243</nterr>
+      <nperiod>003336</nperiod>
+      <datanum>13520125</datanum>
+      <data_label>1352 01 25</data_label>
+      <anno>1352</anno>
+      <mese>01</mese>
+      <giorno>25</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>37.5024</lat>
+      <lon>15.0873</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Catania</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto non è elencato nei cataloghi sismici in uso benché sia noto da tempo alla tradizione sismologica italiana, a partire dal repertorio di Mongitore (1743) $(082589)$, fino ai cataloghi di Mercalli (1883) $(000002)$ e Baratta (1901) $(000001)$, per arrivare al Catalogo PFG (1985), nel quale è classificato con intensità epicentrale di VII grado MCS. Non era stato selezionato nel "Catalogo dei Forti Terremoti Italiani" (Boschi et al. 1995, 1997, 2000) perché sotto la soglia d’intensità; non è incluso in NT4 (Camassie Stucchi 1997). È ora analizzato in Boschi e Guidoboni (2001) $(051334)$ e in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte che lo attesta è la "Historia Sicula" di Michele da Piazza (ed. 1980) $(395295)$. L’autore era un frate minore dell’ordine francescano originario di Piazza Armerina, che visse intorno alla metà del XIV secolo a Catania e fu quindi un testimone diretto di questo terremoto. La sua cronaca scritta in un latino rozzo e spesso oscuro, copre l’arco cronologico dal 1337 al 1361 e a partire dall’anno 1349 sembra basata su ricordi personali, anche se gli eventi sono narrati come contemporanei solo a partire dal 1358.&lt;br&gt;Il testo ricorda un terremoto avvenuto durante la notte tra il 24 e il 25 gennaio 1352, senza indicazione dell’ora, il che non consente di datarlo con certezza al giorno 24 o 25. Al ricordo dell’evento segue il racconto di una sanguinosa repressione ("strages") avvenuta a Palermo, a seguito delle lotte politiche in corso tra le fazioni dei Chiaromonte e degli Alagona.&lt;br&gt;Mongitore (1743) $(082589)$ interpretò la strage di persone come un effetto del terremoto, omettendo nella trascrizione la parte di testo relativa alla ribellione. Questa palese, forse inconsapevole, "manipolazione" della fonte ha fatto sì che questo terremoto giungesse nella tradizione sismologica "gravato" di molte vittime. Una lettura corretta del testo consente ora di smentire questo nesso; si tratta comunque di un terremoto che fu fortemente sentito, e che probabilmente causò dei danni.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Durante la notte tra il 24 e il 25 gennaio 1351 (o 1352), un terremoto definito “grandissimo” (“maximus”) colpì Catania. La fonte non menziona espressamente danni, ma fornisce una valutazione qualitativa dell’evento che è definito “maximus” (grandissimo). L’attribuzione di aggettivi alla parola “terremotus” era una consuetudine ricorrente nella terminologia dei cronisti medievali, che assume un significato rilevante in testi molto scarni, quasi a costituire una sorta di scala di valutazione. Ragionando in termini comparativi, infatti, un terremoto definito “maximus” si è spesso rivelato, alla luce di fonti documentarie o epigrafiche, un evento con effetti di danno. Si può pertanto ipotizzare anche in questo caso che ci furono danni rilevanti.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051334</codbib>
+      <autore1>Boschi E. e Guidoboni E.</autore1>
+      <titolo1>Catania: terremoti e lave dal mondo antico alla fine del Novecento, INGV-SGA.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082589</codbib>
+      <autore1>Mongitore A.</autore1>
+      <titolo1>Istoria cronologica de’ terremoti di Sicilia, in Id., "Della Sicilia ricercata nelle cose più memorabili", tomo 2, pp.345-445.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1743</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091318</codbib>
+      <autore1>*</autore1>
+      <titolo1>Terremoti a Catania: sintesi e parametri, in E.Boschi e E.Guidoboni, "Catania: terremoti e lave dal mondo antico alla fine del Novecento", pp.239-253.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145026</codbib>
+      <autore1>Gemmellaro C.</autore1>
+      <titolo1>La vulcanologia dell’Etna che comprende la topografia, la geologia, la storia delle sue eruzioni, non che la descrizione e lo esame de’ fenomeni vulcanici (ristampa anastatica, Catania 1989).</titolo1>
+      <luogoed>Catania</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>190099</codbib>
+      <autore1>Agnello G.M.</autore1>
+      <titolo1>Terremoti ed eruzioni vulcaniche nella Sicilia medievale, in "Quaderni medievali", n.34 (dicembre 1992), pp.73-111.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1992</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>395295</codbib>
+      <autore1>Michele da Piazza</autore1>
+      <titolo1>Cronaca, ed. A.Giuffrida (Fonti per la storia di Sicilia, 3).</titolo1>
+      <luogoed>Palermo-São Paulo</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Catania</desloc>
+      <lat_wgs84>37.5024</lat_wgs84>
+      <lon_wgs84>15.0873</lon_wgs84>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00243</nterr>
+      <nloc_cfti>067809.00</nloc_cfti>
+      <desloc_cfti>Catania</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto avvenne nella notte tra il 24 e il 25 gennaio 1352. Non sono espressamente menzionati danni ma, sulla base della valutazione qualitativa dell’evento, che è definito "maximus" (grandissimo), è possibile ipotizzare che ci furono danni rilevanti $(395295)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

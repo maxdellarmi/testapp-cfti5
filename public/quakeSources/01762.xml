@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>01762</nterr>
+      <nperiod>002037</nperiod>
+      <datanum>17370611</datanum>
+      <data_label>1737 06 11</data_label>
+      <anno>1737</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>00:30</time_label>
+      <ora>00</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>43.5641</lat>
+      <lon>11.1655</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>San Casciano Val di Pesa (FI)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070709</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1737.06.18, n.25.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1737</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092017</codbib>
+      <autore1>Giovannozzi G.</autore1>
+      <titolo1>I terremoti storici fiorentini, in "La Rassegna Nazionale", a.17, vol.84, fasc.2, pp.122-131.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>200142</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1737.06.28, n.26.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1737</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235015</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Sul centro sismico fiorentino, in "Bollettino della Società Sismologica Italiana", vol.1 (1895), pp.143-147.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>San Casciano in Val di Pesa</desloc>
+      <lat_wgs84>43.6574</lat_wgs84>
+      <lon_wgs84>11.1849</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>01762</nterr>
+      <nloc_cfti>045636.00</nloc_cfti>
+      <desloc_cfti>San Casciano in Val di Pesa</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Poggibonsi</desloc>
+      <lat_wgs84>43.4707</lat_wgs84>
+      <lon_wgs84>11.1461</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>01762</nterr>
+      <nloc_cfti>047810.00</nloc_cfti>
+      <desloc_cfti>Poggibonsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Siena</desloc>
+      <lat_wgs84>43.3217</lat_wgs84>
+      <lon_wgs84>11.3274</lon_wgs84>
+      <provlet>SI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>01762</nterr>
+      <nloc_cfti>047956.00</nloc_cfti>
+      <desloc_cfti>Siena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>01762</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042343.00</nloc_cfti>
+      <desloc_cfti>Ugliancaldo</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>10</maxint>
+      <lat_wgs84>44.1754</lat_wgs84>
+      <lon_wgs84>10.1813</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto danneggiò molto gravemente l’abitato; quasi tutte le case divennero inabitabili e molte crollarono totalmente; la popolazione dovette accamparsi all’aperto; non vi furono vittime. Le 32 case fatte costruire con rigorosi criteri edilizi dal granduca Leopoldo II dopo il terremoto del 1837 subirono danni meno gravi rispetto agli altri edifici; la chiesa parrocchiale risultò quasi distrutta, la canonica crollò parzialmente; non vi furono vittime $(635721,030126,030130,340467,870190)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>06155</nterr>
+      <nperiod>003109</nperiod>
+      <datanum>18370411</datanum>
+      <data_label>1837 04 11</data_label>
+      <anno>1837</anno>
+      <mese>04</mese>
+      <giorno>11</giorno>
+      <time_label>17:00</time_label>
+      <ora>17</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.1754</lat>
+      <lon>10.1813</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>10</imax>
+      <npun>60</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Alpi Apuane</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>10</intpqnum>
+      <intpq>X</intpq>
+      <D1>Il paese fu distrutto pressoché totalmente: su un totale di 100 edifici, comprese capanne, "metati" (seccatoi per le castagne), ed altre costruzioni accessorie delle abitazioni, 94 crollarono totalmente o furono resi del tutto inabitabili e 2 furono resi parzialmente inabitabili. I danni più gravi riguardarono la parte alta del paese, il "Castello", dove tutti gli edifici furono rasi al suolo; anche nella parte bassa, il "Borgo", le distruzioni furono comunque molto estese. Infatti, le case, molte delle quali di costruzione recente, non presentavano segni di gravi danni nei muri di facciata, ma avevano subito lesioni gravissime in tutti gli altri muri perimetrali, le pareti interne erano spaccate, i soffitti, le volte, i tetti erano in gran parte sprofondati. Al momento della scossa il paese era semivuoto, perché quasi tutti gli abitanti si trovavano al lavoro nei campi, il numero delle vittime fu perciò limitato: 5 persone morirono e altre 18 rimasero ferite.&lt;br&gt;Tra i pochi edifici rimasti in piedi vi fu la chiesa parrocchiale di S.Andrea, che fu comunque gravemente danneggiata e dovette essere chiusa al culto; furono infatti riscontrate gravi lesioni nelle volte e nei muri, in particolare in quello della facciata, e il pavimento risultò spaccato longitudinalmente da un’ampia frattura che interessò anche le fondazioni; il campanile subì soltanto un leggero strapiombo e per il resto risultò quasi indenne, così come l’oratorio annesso alla casa di proprietà della famiglia Coiari, dove furono temporaneamente trasferite le funzioni sacre. Di tutte le altre costruzioni rimasero quasi completamente illesi soltanto 4 "metati", uno dei quali fu destinato ad infermeria per il ricovero dei feriti.&lt;br&gt;Complessivamente i danni furono valutati 142.550 lire, di cui 110.000 per gli edifici da ricostruire completamente e 32.550 per le riparazioni $(890059,890099,745547,470739,470740)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>635721</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, 1920, rubrica 36 (Disastri), fasc.1, Relazione sui danni causati dal terremoto del 7 settembre 1920 nei paesi della diocesi di Massa allegata alla lettera del vescovo Giuseppe Bertazzoni al papa Benedetto XV del 14 ottobre 1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.10, a.48, n.212.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino, 1920.09.19, a.48, n.220.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>340467</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1920.09.09, a.45, n.217.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870190</codbib>
+      <autore1>De Stefani C.</autore1>
+      <titolo1>Il terremoto del settembre 1920 nella provincia di Massa, in "Memorie della Società Lunigianese G.Capellini per la storia naturale della regione", vol.2 (1920), pp.40-61.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.555, Affari di terremoti a tempo del vicario regio Giuseppe Zannetti, 1837-1838, Copia di relazione dell’ingegnere Francesco Guasti alla Segreteria di Stato sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 6 maggio 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>890099</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Massa, Archivio Storico del Comune di Fivizzano, b.116 B, Sezione registri, Copia rapporti, 1831-1837, Relazione dell’aiuto ingegnere Antonio Giuliani al vicario regio sui danni causati dal terremoto dell’11 aprile 1837 nei paesi della Lunigiana toscana, Fivizzano 14 aprile 1837.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745547</codbib>
+      <autore1>Gargiolli G.</autore1>
+      <titolo1>Terremoto nella Lunigiana, in "Giornale Agrario Toscano", vol.11, n.43, pp.207-216.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470739</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.22, n.32.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470740</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1837.04.25, n.33.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1837</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>024323.00</nloc_cfti>
+      <desloc_cfti>Rubbio</desloc_cfti>
+      <provlet>VI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>0</maxint>
+      <lat_wgs84>45.8044</lat_wgs84>
+      <lon_wgs84>11.6556</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14839</nterr>
+      <nperiod>003345</nperiod>
+      <datanum>18940209</datanum>
+      <data_label>1894 02 09</data_label>
+      <anno>1894</anno>
+      <mese>02</mese>
+      <giorno>09</giorno>
+      <time_label>12:48:05</time_label>
+      <ora>12</ora>
+      <minu>48</minu>
+      <sec>05</sec>
+      <lat>45.5845</lat>
+      <lon>11.1402</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>116</npun>
+      <mm>4.8</mm>
+      <earthquakelocation>Valle d’Illasi</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

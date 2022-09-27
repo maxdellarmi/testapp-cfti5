@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>022842.00</nloc_cfti>
+      <desloc_cfti>Torretta</desloc_cfti>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.0946</lat_wgs84>
+      <lon_wgs84>11.3016</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>20434</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>04:52</time_label>
+      <ora>04</ora>
+      <minu>52</minu>
+      <sec>-9</sec>
+      <lat>45.3184</lat>
+      <lon>11.0727</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>122</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>051608.00</nloc_cfti>
+      <desloc_cfti>Statte</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.1464</lat_wgs84>
+      <lon_wgs84>13.149</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04785</nterr>
+      <nperiod>003103</nperiod>
+      <datanum>17990728</datanum>
+      <data_label>1799 07 28</data_label>
+      <anno>1799</anno>
+      <mese>07</mese>
+      <giorno>28</giorno>
+      <time_label>22:05</time_label>
+      <ora>22</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.2189</lat>
+      <lon>13.1472</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>70</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Secondo quanto asserisce nella sua dissertazione il medico Moreschini (1802), il paese fu quasi interamente distrutto $(020954)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>020954</codbib>
+      <autore1>Moreschini M.</autore1>
+      <titolo1>Ragionamento storico-filosofico sul tremuoto accaduto in Camerino il dì 28 luglio 1799.</titolo1>
+      <luogoed>Camerino</luogoed>
+      <datacompl>1802</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

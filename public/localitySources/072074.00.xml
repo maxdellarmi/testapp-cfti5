@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072074.00</nloc_cfti>
+      <desloc_cfti>Coverciano</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>43.7833</lat_wgs84>
+      <lon_wgs84>11.3011</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò pochi danni consistenti in lievi crepe nei muri di qualche casa $(092080)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092080</codbib>
+      <autore1>Bassani C.</autore1>
+      <titolo1>Prime ricerche sulla provenienza del terremoto di Firenze nella sera 18 maggio 1895, in "Bollettino Mensuale dell’Osservatorio Centrale del Real Collegio Carlo Alberto in Moncalieri", s.II, vol.15, pp.4-7, 25-32, 41-52, 63-70; vol.16, pp.12-22, 35-52, 72-88, 108-124; vol.17, pp.1-7, 17-24, 33-42, 49-60, 65-69, 81-88, 97-102; vol.18, pp.1-9, 17-24, 33-37, 49-59, 65-73; vol.19, pp.13-19, 32-35; vol.20, pp.14-20, 29-35, 45-50, 61-65; vol.21, pp.1-7, 22-28, 40-45, 55-63; vol.22, pp.24-28.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1895 - 1902</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>040071.00</nloc_cfti>
+      <desloc_cfti>Musiano</desloc_cfti>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>44.404</lat_wgs84>
+      <lon_wgs84>11.346</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02396</nterr>
+      <nperiod>003271</nperiod>
+      <datanum>17790714</datanum>
+      <data_label>1779 07 14</data_label>
+      <anno>1779</anno>
+      <mese>07</mese>
+      <giorno>14</giorno>
+      <time_label>19:30</time_label>
+      <ora>19</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.4611</lat>
+      <lon>11.328</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>17</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Le scosse di giugno e luglio 1779 danneggiarono notevolmente l’antica chiesa di S.Bartolomeo; il 4 ottobre furono disposti i lavori di ripristino necessari che consistettero nella ricostruzione di alcune parti delle murature e nella riparazione di varie altre; i lavori risultavano già conclusi il 23 dicembre 1779 $(385288,385695)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>29727</nterr>
+      <nperiod>000524</nperiod>
+      <datanum>19290422</datanum>
+      <data_label>1929 04 22</data_label>
+      <anno>1929</anno>
+      <mese>04</mese>
+      <giorno>22</giorno>
+      <time_label>08:25:33</time_label>
+      <ora>08</ora>
+      <minu>25</minu>
+      <sec>33</sec>
+      <lat>44.4776</lat>
+      <lon>11.1281</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>35</npun>
+      <mm>5</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>1</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa del 22 aprile delle ore 8:26 GMT e quella dello stesso giorno delle ore 14:19 GMT causarono lesioni nell’edificio scolastico; crollarono anche alcune pietre dagli edifici $(071566)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02381</nterr>
+      <nperiod>003271</nperiod>
+      <datanum>17790604</datanum>
+      <data_label>1779 06 04</data_label>
+      <anno>1779</anno>
+      <mese>06</mese>
+      <giorno>04</giorno>
+      <time_label>07:00</time_label>
+      <ora>07</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4446</lat>
+      <lon>11.4786</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>12</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>3</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Le scosse di giugno e luglio 1779 danneggiarono notevolmente l’antica chiesa di S.Bartolomeo; il 4 ottobre furono disposti i lavori di ripristino necessari che consistettero nella ricostruzione di alcune parti delle murature e nella riparazione di varie altre; i lavori risultavano già conclusi il 23 dicembre 1779 $(385288,385695)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>071566</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1929.04.24, a.45, n.98.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1929</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Demaniale, S.Stefano e S.Bartolomeo di Musiano, 83/1019 (1752-1795), reg.3, Congregazioni per l’abbadia di S.Stefano e unite dal 1774 al 1779, c.118r, Verbale della seduta dell'Assunteria di Sgravamento del 4 ottobre 1779.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1779</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385695</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Governo misto, Senato, Filze, vol.106 (1780), Rendiconto dell’Assunteria di Sgravamento relativo all’amministrazione dei beni spettanti all’Abbadie di S.Stefano e S.Bartolomeo di Musiano, Bologna 23 dicembre 1779.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1779</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

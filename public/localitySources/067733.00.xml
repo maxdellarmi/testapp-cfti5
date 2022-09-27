@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067733.00</nloc_cfti>
+      <desloc_cfti>Pennisi</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>37.6462</lat_wgs84>
+      <lon_wgs84>15.1267</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14902</nterr>
+      <nperiod>003039</nperiod>
+      <datanum>18940808</datanum>
+      <data_label>1894 08 08</data_label>
+      <anno>1894</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>05:16:00</time_label>
+      <ora>05</ora>
+      <minu>16</minu>
+      <sec>00</sec>
+      <lat>37.6564</lat>
+      <lon>15.1138</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa causò diffuse distruzioni; numerose persone furono ferite $(575820,056035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa fu rovinosa; la documentazione ufficiale attestò la distruzione di 2 case, delle quali una di tre vani con il palmento, la cantina e la cisterna $(145415,145417)$. I danneggiati poveri risultarono essere 7 con un danno medio stimato in lire 1014 $(145508)$; coloro ai quali venne concesso un sussidio furono 12, secondo la documentazione ufficiale $(145509,145510)$. Secondo la testimonianza di Venturino Sabatini, che visitò l’area denominata Pennisi nei giorni successivi al terremoto dell’8 maggio 1914, gli effetti di danneggiamento osservati andavano attribuiti agli effetti cumulativi delle scosse del 7 e dell’8 maggio 1914 $(145257)$. Sulla base dei dati raccolti dal Genio Civile, sommando il numero delle case totalmente o parzialmente crollate e riferendolo la somma a 1000 abitanti, per questa località fu calcolato il numero indice di 88 $(145137)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145415</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 43 (1915-43), b.27, Richieste di contributo per danni terremoto 1914, Certificati previsti dagli art.31 e 33 regolamento 6 gennaio 1916 n.140, riguardanti alcuni edifici del comune di Acireale.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145417</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 43 (1915-43), b.27, Richieste di contributo per danni terremoto 1914, Certificati previsti dagli art.31 e 33 regolamento 6 gennaio 1916 n.140, riguardanti alcuni edifici del Comune di Aci Sant’Antonio.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145508</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Danneggiati bisognosi delle borgate Carico, Mortara, S.Maria Ammalati, Zarbati, Pennisi, Guardia Mangano, Acireale 7 agosto 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145509</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Registro dei sussidî da corrispondersi ai danneggiati dal terremoto 8 Maggio 1914, II.a distribuzione.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Elenco dei sussidi urgenti corrisposti ai danneggiati e Registro generale dei sussidi ordinari pagati ai danneggiati nella distribuzione di agosto-settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145257</codbib>
+      <autore1>Sabatini V.</autore1>
+      <titolo1>Note sul terremoto di Linera dell’8 maggio 1914, in "Bollettino del Regio Comitato Geologico d’Italia", vol.44, fasc.3, pp.3-52.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145137</codbib>
+      <autore1>Ghersi A., Platania G. e Sabatini V.</autore1>
+      <titolo1>Relazione della Commissione per la determinazione delle aree sismiche sulle quali debbono vietarsi le nuove costruzioni nella regione colpita dal terremoto dell’8 maggio 1914 in provincia di Catania.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>575820</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Tribuna, 1894.08.10.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>056035</codbib>
+      <autore1>Patanè A.</autore1>
+      <titolo1>Note sui terremoti etnei del 7 e 8 agosto 1894 nel territorio di Acireale, in "Memorie e Rendiconti dell’Accademia di Scienze Lettere e Belle Arti degli Zelanti e dei Dafnici di Acireale", s.IV, vol.2, pp.237-265.</titolo1>
+      <luogoed>Acireale</luogoed>
+      <datacompl>1992</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

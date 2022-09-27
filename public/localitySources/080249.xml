@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080249</nloc_cfti>
+      <desloc_cfti>Préveza (Prevesa)</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Greece</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>38.9702</lat_wgs84>
+      <lon_wgs84>20.733</lon_wgs84>
+      <notesito>Nota con la denominazione di Prevesa all’epoca del dominio della Repubblica di Venezia.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò danni gravi alla fortezza. Furono gravemente lesionati i due torrioni nelle cui murature si aprirono spaccature estese per tutta l’altezza. Parte degli alloggi dei soldati crollarono totalmente e i rimanenti furono notevolmente danneggiati. Nel palazzo del provveditore crollarono alcuni muri, si aprirono lesioni nelle altre murature e ci furono danni al tetto. Nell’alloggio del governatore delle armi furono gravemente lesionate le murature e dissestato il tetto. La chiesa con l’annesso ospizio, l’ospedale, i depositi subirono lesioni nelle murature e danni ai tetti $(510391,510405)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>510391</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Provveditori generali da mar, filza 988 (1742-43), Dispaccio del provveditore generale da mar Antonio Loredan al Senato veneziano, Corfù 16 marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510405</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Venezia, Senato, Dispacci, Provveditori da terra e da mar, Provveditori generali da mar, filza 988 (1742-43), Perizia dei danni causati dal terremoto del 20 febbraio 1743 nella fortezza di Prevesa, Prevesa 21 febbraio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

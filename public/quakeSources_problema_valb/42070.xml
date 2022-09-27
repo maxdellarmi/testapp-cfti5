@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42070</nterr>
+      <nperiod>009037</nperiod>
+      <datanum>17431002</datanum>
+      <data_label>1743 10 02</data_label>
+      <anno>1743</anno>
+      <mese>10</mese>
+      <giorno>02</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>39.1322</lat>
+      <lon>16.0808</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Amantea (CS)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi italiani attualmente in uso e ignorato dalla tradizione sismologica italiana.&lt;br&gt;Le informazioni ora disponibili sono state individuate nel corso di ricerche finalizzate, i cui risultati sono stati oggetto di un rapporto inedito disponibile presso INGV (SGA 2000) $(021296)$.&lt;br&gt;L’evento è attestato da due documenti molto autorevoli conservati nell’Archivio di Stato di Napoli nel fondo della "Regia Camera della Sommaria" (serie "Dispacci"). Si tratta di due biglietti inviati il 14 e il 30 dicembre 1743 dal segretario di Stato e azienda Giovanni Brancaccio al luogotenente della Camera della Sommaria Luigi Paternò. Tali dispacci riportano informazioni riferite direttamente dal governatore del castello di Amantea, Carlos Adaglio, sugli effetti causati dal terremoto $(130106,130107)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il 2 ottobre 1743 e colpì il paese di Amantea nella Calabria settentrionale. La scossa causò danni e lesioni gravi a vari edifici del castello, in particolare alla residenza del governatore che fu resa inabitabile e dovette essere evacuata.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130106</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.191, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 14 dicembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130107</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.191, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 30 dicembre 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Amantea</desloc>
+      <lat_wgs84>39.1322</lat_wgs84>
+      <lon_wgs84>16.0808</lon_wgs84>
+      <provlet>CS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>42070</nterr>
+      <nloc_cfti>063559.00</nloc_cfti>
+      <desloc_cfti>Amantea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò danni e lesioni gravi a vari edifici del castello, in particolare alla residenza del governatore che fu resa inabitabile e dovette essere evacuata $(130106,130107)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

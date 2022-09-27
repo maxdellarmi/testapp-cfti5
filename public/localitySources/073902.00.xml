@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073902.00</nloc_cfti>
+      <desloc_cfti>Mucciana</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.6643</lat_wgs84>
+      <lon_wgs84>11.1515</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò danni gravissimi alla chiesa di S.Jacopo; il campanile subì danni irreparabili e fu demolito. Due dipinti della chiesa furono rimossi e trasportati nella vicina chiesa di S.Pietro a Montepaldi $(675125)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>675125</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero della Pubblica istruzione, Direzione generale antichità e belle arti, II versamento (1891-1897), serie 2ª, b.108, fasc.1254, Firenze ­ Danni cagionati ai monumenti dal terremoto del 18 maggio 1895 (1895), Relazione del direttore dell’Ufficio regionale per la conservazione dei monumenti della Toscana architetto Luigi Del Moro al ministro della Pubblica istruzione sui danni causati dal terremoto del 18 maggio 1895 agli edifici monumentali della provincia di Firenze, Firenze 27 giugno 1895.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

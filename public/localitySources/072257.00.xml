@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072257.00</nloc_cfti>
+      <desloc_cfti>Trava</desloc_cfti>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.6712</lat_wgs84>
+      <lon_wgs84>11.8915</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00905</nterr>
+      <nperiod>000951</nperiod>
+      <datanum>16240319</datanum>
+      <data_label>1624 03 19</data_label>
+      <anno>1624</anno>
+      <mese>03</mese>
+      <giorno>19</giorno>
+      <time_label>19:45</time_label>
+      <ora>19</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>44.6431</lat>
+      <lon>11.8479</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>7.5</io>
+      <imax>8.5</imax>
+      <npun>18</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Argenta (FE)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò il crollo del tetto di una cascina che uccise molti animali domestici $(030033,692017)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030033</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Modena, Archivio Segreto Estense, Cancelleria ducale, Archivio per materie, Fisica terrestre e celeste, b. unica, Lettera di Giovanni Baranzoni al duca Cesare d’Este, Ferrara 21 marzo 1624.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1624</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 671, Francesco Ferrazi Monici, Cronologia della città di Ferrara estratta da diversi scrittori e cronologia aggiunta della città di Ferrara (dalle origini al 1799), 19 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

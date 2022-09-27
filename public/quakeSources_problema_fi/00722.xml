@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00722</nterr>
+      <nperiod>003076</nperiod>
+      <datanum>15610731</datanum>
+      <data_label>1561 07 31</data_label>
+      <anno>1561</anno>
+      <mese>07</mese>
+      <giorno>31</giorno>
+      <time_label>18:40</time_label>
+      <ora>18</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.6334</lat>
+      <lon>15.3756</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Buccino (SA)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG. Sono state reperite le fonti utilizzate da Bonito (1691) $(000003)$, Mercalli (1883 $(000002)$, 1891 $(080569)$) e Baratta (1901) $(000001)$ e sono state vagliate le opere di importanti storici del Regno di Napoli (Tarcagnota 1566 $(700176)$; Summonte 1675 $(410284)$; Bella Bona 1656 $(900319)$; De Vipera 1636 $(082569)$). È stato attentamente analizzato il manoscritto di Colanello Pacca "Discorso del terremoto" (la cui stesura venne iniziata proprio in occasione di questo evento), che contiene un elenco dettagliato dei danni nelle singole località $(130390)$. Lo stesso Pacca scrisse un altro resoconto, meno puntuale, di questo terremoto nella sua continuazione al "Compendio" di Collenuccio e Roseo $(410283)$.&lt;br&gt;Complessivamente la revisione critica della produzione memorialistica ha permesso di delineare con sufficiente precisione l’area dei maggiori effetti.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>Maffei (1564), citato da Mercalli $(080569)$, collega l’evento con la teoria aristotelica dei venti sotterranei. È probabilmente in riferimento a questo contesto teorico che va interpretato anche il ricordo delle tempeste di venti che precedettero il terremoto da parte di Bella Bona $(900319)$ e di Colanello Pacca $(130390)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Le fonti ricordano due scosse distruttive, avvenute il 31 luglio e il 19 agosto, e numerose repliche di intensità minore. La scossa del 31 luglio avvenne intorno alle ore 24 italiane (18:40 GMT ca.) e colpì con effetti distruttivi il paese di Buccino, dove 200 case crollarono causando la morte di circa 100 persone. Lesioni diffuse si ebbero ad Avellino; a Napoli e Benevento la scossa fu avvertita fortemente.&lt;br&gt;La scossa del 19 agosto avvenne alle ore 20 italiane (14:10 GMT ca.) e causò distruzioni estese e circa 500 morti in numerose località delle valli del Tanagro e del Calore, già danneggiate dalla scossa precedente. Gli abitati di Tito, Sant’Arsenio e San Pietro al Tanagro furono quasi interamente distrutti e in altri 6 paesi vi furono crolli diffusi. A Potenza crollarono alcune abitazioni; la scossa fu avvertita sensibilmente a Napoli e Salerno.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Una frana innescata dal terremoto investì l’abitato di San Rufo causando gravi danni agli edifici; forse a causa di un’altra frana, presso Polla il corso del fiume Tanagro fu interrotto per 24 ore. Fenditure e spaccature nel terreno avvennero a Bella, Balvano e Muro Lucano. Nelle vicinanze di Bella due sorgenti prima si disseccarono e, una volta tornata l’acqua, si intorbidarono e divennero calde $(130390)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>31 luglio 1561, alle ore 24 italiane (18:40 GMT ca.): prima scossa, ebbe effetti distruttivi a Buccino e causò diffuse lesioni ad Avellino $(130390,900319)$.&lt;br&gt;31 luglio, alle ore 4 italiane della notte (22:40 GMT ca.): forte replica avvertita ad Avellino $(900319)$.&lt;br&gt;1 agosto, verso l’alba (4:55 GMT ca.): leggera replica avvertita ad Avellino $(900319)$.&lt;br&gt;2 agosto, verso mezzogiorno (11:00 GMT ca.): forte replica avvertita ad Avellino $(900319)$.&lt;br&gt;Altre repliche quasi quotidiane furono avvertite nell’area dei maggiori effetti fra il 2 e il 19 agosto $(410283)$.&lt;br&gt;19 agosto, alle ore 20 italiane (14:10 GMT ca.): scossa distruttiva a Tito, Sant’Arsenio, San Pietro al Tanagro e in numerose località delle valli del Tanagro e del Calore $(130390)$.&lt;br&gt;Nelle stesse località due forti repliche, che spaventarono le popolazioni senza causare danni di rilievo, furono avvertite nel corso del 1562 e del 1563 $(130390)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000003</codbib>
+      <autore1>Bonito M.</autore1>
+      <titolo1>Terra tremante, o vero continuatione de’ terremoti dalla Creatione del Mondo sino al tempo presente (ristampa anastatica, Sala Bolognese 1980).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1691</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020927</codbib>
+      <autore1>Zerenghi F.</autore1>
+      <titolo1>Discorso del terremoto.</titolo1>
+      <luogoed>Macerata</luogoed>
+      <datacompl>1626</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030574</codbib>
+      <autore1>Tanzini P.</autore1>
+      <titolo1>Alcune notizie sui terremoti compilate da P.T.S.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1846</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030601</codbib>
+      <autore1>Taramelli T. e Baratta M.</autore1>
+      <titolo1>L’acquedotto pugliese. Le frane ed i terremoti.</titolo1>
+      <luogoed>Voghera</luogoed>
+      <datacompl>1905</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051372</codbib>
+      <autore1>Bracco V.</autore1>
+      <titolo1>Polla. Linee di una storia.</titolo1>
+      <luogoed>Salerno</luogoed>
+      <datacompl>1976</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051397</codbib>
+      <autore1>Ricciardi E.</autore1>
+      <titolo1>Il castello e la cavallerizza di Calitri, in "Il Calitrano", a.19, n.s., n.10 (gennaio-aprile 1999), pp.12-15.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1999</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051398</codbib>
+      <autore1>Ricciardi E.</autore1>
+      <titolo1>Conza in età moderna (I ­ dal 1464 al 1694), in "Il Calitrano", a.19, n.s., n.11 (maggio-agosto 1999), pp.13-17.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1999</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051399</codbib>
+      <autore1>Ricciardi E.</autore1>
+      <titolo1>La chiesa parrocchiale di S.Canio, in "Il Calitrano", a.24, n.s., n.27 (settembre-dicembre 2004), pp.7-11.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051401</codbib>
+      <autore1>Ricciardi E.</autore1>
+      <titolo1>Antiche chiese di Calitri, in "Il Calitrano", a.27, n.s., n.34 (gennaio-aprile 2007), pp.9-12.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>2007</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080569</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti napoletani del XVI secolo ed un manoscritto inedito di Cola Anello Pacca, in "Bollettino della Società Geologica Italiana", vol.10, fasc.2, pp.179-195.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1891</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082569</codbib>
+      <autore1>De Vipera M.</autore1>
+      <titolo1>Chronologia episcoporum, et archiepiscoporum metropolitana ecclesiae beneventanae.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1636</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>082589</codbib>
+      <autore1>Mongitore A.</autore1>
+      <titolo1>Istoria cronologica de’ terremoti di Sicilia, in Id., "Della Sicilia ricercata nelle cose più memorabili", tomo 2, pp.345-445.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1743</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091438</codbib>
+      <autore1>Guidoboni E. e Ferrari G.</autore1>
+      <titolo1>Il grande terremoto del 16 dicembre 1857 e gli effetti di altri eventi sismici nel Vallo di Diano e nella Val d’Agri, in "Viaggio nelle aree del terremoto del 16 dicembre 1857. L’opera di Robert Mallet nel contesto scientifico e ambientale attuale del Vallo di Diano e della Val d’Agri", a cura di G.Ferrari, vol.1, pp.111-186.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110016</codbib>
+      <autore1>Ragona B.</autore1>
+      <titolo1>Scritto di Biagio Ragona, rinvenuto nell’Archivio Ragona di Montemurro, relativo al terremoto del 16 dicembre 1857, in E.Schiavone, "Montemurro. Notizie storiche", pp.52-56.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1966</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca della Società Napoletana di Storia Patria, Fondo sismico, 7/A3, Colanello Pacca, Discorso del terremoto, 1563-1580.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1563 - 1580</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130416</codbib>
+      <autore1>Vari V.</autore1>
+      <titolo1>I Terremoti di Benevento e loro cause.</titolo1>
+      <luogoed>Benevento</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240179</codbib>
+      <autore1>Girardi F.</autore1>
+      <titolo1>Diario delle cose più illustri seguite nel mondo.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1663</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300065</codbib>
+      <autore1>Castaldo Antonino</autore1>
+      <titolo1>Dell’istoria di notar Antonino Castaldo libri quattro. Ne’ quali si descrivono gli avvenimenti più memorabili succeduti nel Regno di Napoli sotto il governo del viceré D. Pietro di Toledo e de’ viceré suoi successori fino al cardinal Granvela [sec.XVI], in "Raccolta di tutti i più rinomati scrittori dell’istoria generale del Regno di Napoli", tomo 6, n.5.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1769</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300101</codbib>
+      <autore1>Giura Longo R.</autore1>
+      <titolo1>Breve storia della città di Matera.</titolo1>
+      <luogoed>Matera</luogoed>
+      <datacompl>1981</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350218</codbib>
+      <autore1>Rezzadore P.</autore1>
+      <titolo1>Il mondo ne’ suoi fulgori e tremori.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Vittorio Emanuele III" di Napoli, Manoscritti, IX.C.42, Girolamo Seripando, Giornale dal 1513 al 1562.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1513 - 1562</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370123</codbib>
+      <autore1>Morelli S.</autore1>
+      <titolo1>Una fonte inedita per lo studio della sismologia storica: il ‘Discorso del terremoto’ di Cola Anello Pacca, in "Rassegna Storica Salernitana", n.s., a.10, fasc.19, pp.247-259.</titolo1>
+      <luogoed>Salerno</luogoed>
+      <datacompl>1993</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410231</codbib>
+      <autore1>Rosaccio G.</autore1>
+      <titolo1>Le sei età del mondo dalle origini al 1636.</titolo1>
+      <luogoed>Viterbo</luogoed>
+      <datacompl>1641</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410283</codbib>
+      <autore1>Collenuccio P., Roseo M., Pacca C. e Costo T.</autore1>
+      <titolo1>Compendio dell’istoria del Regno di Napoli diviso in tre parti, 3 voll., in "Raccolta di tutti i più rinomati scrittori dell’istoria generale del Regno di Napoli", tomi 17-19.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410284</codbib>
+      <autore1>Summonte G.A.</autore1>
+      <titolo1>Historia della città, e Regno di Napoli, 2ª ed., 4 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1675</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>510429</codbib>
+      <autore1>Virgilio F.</autore1>
+      <titolo1>La terra di Bari sotto l’aspetto storico, economico, e naturale, vol.3.</titolo1>
+      <luogoed>Trani</luogoed>
+      <datacompl>1900</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520016</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario anonimo dall’anno 1193 all’anno 1487, in "Raccolta di varie croniche, diarj, ed altri opuscoli così italiani, come latini appartenenti alla storia del Regno di Napoli", ed. A.A.Pelliccia, vol.1.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1780</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560169</codbib>
+      <autore1>Bernaudo F.</autore1>
+      <titolo1>Il tremuoto di Calabria.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1639</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580085</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Statale di Cremona, Manoscritti Albertoni, 112, Giuseppe Bresciani, Le miserie d’Italia per tutto l’anno di nostra salute 1649.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1649</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700176</codbib>
+      <autore1>Tarcagnota G.</autore1>
+      <titolo1>Del sito et lodi della città di Napoli comuna breve historia degli re suoi, et delle cose più degne altrove ne medesimi tempi avenute.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1566</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>760012</codbib>
+      <autore1>De Raimo Lodovico senior e Lodovico junior</autore1>
+      <titolo1>Annales de Raimo, sive Brevis historia rerum in regno Neapolitano gestarum ab anno 1197 ad 1486, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 23, coll.221-240.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1733</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900072</codbib>
+      <autore1>Parrino D.A.</autore1>
+      <titolo1>Teatro eroico, e politico de’ governi de’ Viceré del Regno di Napoli dal tempo di Re Ferdinando il Cattolico fin’all’anno 1683, regnando la felice memoria di Carlo Secondo nel quale si narrano i fatti più illustri, e singolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1730</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900319</codbib>
+      <autore1>Bella Bona S.</autore1>
+      <titolo1>Raguagli della città d’Avellino.</titolo1>
+      <luogoed>Trani</luogoed>
+      <datacompl>1656</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900321</codbib>
+      <autore1>Pescatori S.</autore1>
+      <titolo1>I terremoti dell’Irpinia, in "Rivista economica della provincia di Avellino", a.8, n.3, pp.15-18, n.4, pp.3-10, n.5, pp.3-10, n.6, pp.3-11, n.7, pp.3-7.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900324</codbib>
+      <autore1>Passaro G.</autore1>
+      <titolo1>I terremoti in Irpinia. Cenni storici, in "Civiltà Altirpina", dicembre 1980, pp.5-40.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970013</codbib>
+      <autore1>Strafforello G.</autore1>
+      <titolo1>La patria. Geografia dell’Italia. Provincie di Bari, Foggia, Lecce, Potenza.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970015</codbib>
+      <autore1>Lacava M.</autore1>
+      <titolo1>Istoria di Atena Lucana.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1893</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970055</codbib>
+      <autore1>Gatta C.</autore1>
+      <titolo1>Memorie topografico-storiche della provincia di Lucania compresa al presente nelle provincie di Basilicata, e di Principato Citeriore.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1732</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Buccino</desloc>
+      <lat_wgs84>40.6334</lat_wgs84>
+      <lon_wgs84>15.3756</lon_wgs84>
+      <provlet>SA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00722</nterr>
+      <nloc_cfti>061274.00</nloc_cfti>
+      <desloc_cfti>Buccino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 31 luglio causò il crollo di 200 case e danneggiò gravemente le rimanenti; morirono circa 100 persone e molte altre furono ferite; crollarono la residenza del marchese e una parte del castello; la scossa successiva del 19 agosto causò ulteriori danni $(130390)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Avellino</desloc>
+      <lat_wgs84>40.9148</lat_wgs84>
+      <lon_wgs84>14.7907</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00722</nterr>
+      <nloc_cfti>060627.00</nloc_cfti>
+      <desloc_cfti>Avellino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 31 luglio causò lesioni e fessurazioni in quasi tutte le case; furono danneggiate anche le torri del castello e il vescovado $(900319)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Benevento</desloc>
+      <lat_wgs84>41.1297</lat_wgs84>
+      <lon_wgs84>14.777</lon_wgs84>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00722</nterr>
+      <nloc_cfti>059438.00</nloc_cfti>
+      <desloc_cfti>Benevento</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 31 luglio fu avvertita fortemente e spaventò la popolazione $(082569)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00722</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono avvertite fortemente entrambe le scosse del 31 luglio e del 19 agosto $(130390,410283,410284,700176)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

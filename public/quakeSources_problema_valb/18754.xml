@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>18754</nterr>
+      <nperiod>003111</nperiod>
+      <datanum>19040224</datanum>
+      <data_label>1904 02 24</data_label>
+      <anno>1904</anno>
+      <mese>02</mese>
+      <giorno>24</giorno>
+      <time_label>15:53:26</time_label>
+      <ora>15</ora>
+      <minu>53</minu>
+      <sec>26</sec>
+      <lat>42.0975</lat>
+      <lon>13.3162</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>56</npun>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sviluppata una ricerca bibliografica e archivistica. Le fonti reperite sono costituite da telegrammi di sindaci e di autorità locali al Ministero dell’Interno, da cronache giornalistiche (8 testate quotidiane) e da letteratura sismologica.&lt;br&gt;Presso l’Archivio Centrale dello Stato è stato preso in esame il fondo del Ministero dell’Interno (Gabinetto, Telegrammi Ufficio Cifra); sono state consultate le informative trasmesse dal 27 febbraio al 25 marzo 1904, in quanto la documentazione si presenta lacunosa nei giorni 24, 25 e 26 febbraio 1904: 23 telegrammi giunsero al Ministero dell’Interno dalle zone colpite. La stampa diede la notizia di questo terremoto, riportando i comunicati dell’Ufficio Centrale di Meteorologia e Geodinamica. Il quotidiano romano "Il Giornale d’Italia" dedicò particolare attenzione all’evento e inviò sul posto un proprio giornalista, i cui servizi costituiscono un insieme interessante di testimonianze dirette. Nel 1906, il Regio Ufficio Centrale di Meteorologia e Geodinamica pubblicò un resoconto sui terremoti del 1904 a cura di Monti, che si avvalse dei questionari macrosismici inviati alle autorità locali: tali questionari e cartoline macrosismiche sono attualmente conservati presso l’Istituto Nazionale di Geofisica, ma non sono stati utilizzati in questa fase. L’articolo di Monti (1906) $(000016)$ fu ripreso da Martinelli (1914) $(235474)$, che tracciò la prima carta delle isosisme. Cavasino (1915) $(235476)$ integrò lo studio di Monti con ulteriori notizie tratte da giornali e con la documentazione del Genio Civile di L’Aquila, costituita dalle perizie effettuate dagli ingegneri nei comuni danneggiati. L’evento è stato rivisto da Spadea et al. (1985) $(002132)$ sulla base di letteratura scientifica.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>B1</codtab>
+      <testocomm>La ricerca si è svolta presso l’Archivio Centrale dello Stato di Roma, dove è stato preso in esame il fondo dei telegrammi dell’Ufficio Cifra, del Ministero dell’Interno; sono stati consultati i telegrammi trasmessi dal 27 febbraio al 25 marzo 1904, in quanto il fondo si presenta lacunoso nei giorni 25, 26 e 27 febbraio 1904. Da questa indagine sono emerse 23 informative giunte al Ministero dell’Interno dalle zone colpite $(583261,583262,583263,583264,583265,583266,583267,583268,583269,583270,583271,583272,583273,583274,583275,583276,583277,583278,583279,583280,583281,583282,583283)$. La stampa diede la notizia riportando i comunicati dell’Ufficio Centrale di Meteorologia e Geodinamica. Il quotidiano romano "Il Giornale d’Italia" dedicò particolare attenzione all’evento e mandò sul posto un proprio inviato speciale, i cui servizi costituiscono un insieme interessante di testimonianze dirette $(745075,745076,745077,745078,745079,745080,745081)$.&lt;br&gt;Sono state utilizzate anche le cronache di altre 7 testate $(021133,071707,420159,420422,420423,600475,745058,745059,745060,745061)$. Nel 1906 il Regio Ufficio Centrale di Meteorologia e Geodinamica pubblicò un resoconto sui terremoti del 1904 a cura di Monti $(000016)$ che si avvalse dei questionari macrosismici inviati alle autorità locali dall’Ufficio centrale di Meteorologia e Geodinamica, attualmente conservati presso l’Istituto Nazionale di Geofisica. L’articolo di Monti fu utilizzato da Martinelli $(235474)$, che tracciò la prima carta delle isosisme. In seguito, Cavasino integrò lo studio di Monti con altre notizie tratte da giornali e con la documentazione del Genio Civile di L’Aquila, costituita dalle perizie effettuate dagli ingegneri nei comuni danneggiati $(235476,050399)$. I lavori di Monti e Cavasino sono stati utilizzati nella revisione di Spadea et al. $(002132)$. Riferimenti a questo terremoto si ritrovano nell’opera di De Giorgi $(030167)$; una breve nota sui soccorsi recati dall’esercito è riportata in una pubblicazione del Ministero della Difesa $(145919)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>Le perizie effettuate dai tecnici del Genio Civile riscontrarono danni per oltre 1.000.000 di lire, una cifra ingente rapportata alla limitata estensione della zona colpita e alla scarsa rilevanza economica della stessa. Le popolazioni dei centri maggiormente danneggiati furono costrette a riparare nelle campagne o nelle piazze dei paesi, dove alloggiarono in ricoveri improvvisati costruiti con le tende fornite dall’esercito, unite alla meglio con porte, finestre e assi tolti dai fabbricati caduti o cadenti. Le condizioni di notevole disagio furono aggravate dalla stagione e dal clima della zona, caratterizzato da frequenti e abbondanti nevicate. L’allarme crebbe quando si sparse la voce che in seguito al crollo di una casa si era aperto il cratere di un vulcano: la notizia fu immediatamente smentita. Non vi furono vittime, si riscontrarono alcuni feriti; 8.000 persone rimasero prive di abitazione. Le diffuse e gravi distruzioni, la mancanza di consistenti interventi per favorire la ripresa e il contesto economicamente depresso favorirono un forte flusso migratorio verso la Germania e l’America $(745081)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C2</codtab>
+      <testocomm>Il periodo sismico del febbraio 1904 accadde durante un inverno particolarmente rigido e caratterizzato da abbondanti nevicate elemento che acuì i danni ai fabbricati e il disagio della popolazione $(745081)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C3</codtab>
+      <testocomm>Secondo le perizie redatte dai tecnici del Genio Civile di L’Aquila utilizzate da Cavasino erano cattive le condizioni statiche degli edifici delle località più danneggiate già prima del terremoto. Lo stato di fatiscenza del patrimonio edilizio era dovuto sia a vecchiaia, sia a scadenti tecniche costruttive $(235476)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Numerose sono le afferenze amministrative oggi cambiate: i comuni maggiormente colpiti si trovavano in provincia di L’Aquila; Poggio Catino, Poggio Nativo, Poggio San Lorenzo, ora in provincia di Rieti, erano in provincia di Perugia; Paliano, Veroli e Vallecorsa, ora in provincia di Frosinone, erano in provincia di Roma; Isola del Liri, Sora, Alvito e Pico, attualmente in provincia di Frosinone, erano in provincia di Caserta.&lt;br&gt;Purtroppo, nella maggior parte degli Archivi di Stato competenti, la documentazione relativa all’amministrazione provinciale, relativa a questi anni, non è inventariata e risulta non consultabile. La documentazione originale del Genio Civile risulta dispersa.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>Gli abitanti dei centri maggiormente colpiti dovettero abbandonare le case distrutte o pericolanti e rifugiarsi in campagna o nelle piazze in carri o in baracche improvvisate $(000016,235476,050399)$. Lo sgombero e la demolizione di molte case, ordinati dagli ingegneri del Genio Civile, fece aumentare il numero dei senzatetto. La situazione si aggravò ulteriormente a causa delle abbondanti nevicate $(583261)$. A più di un mese dal terremoto circa 8000 persone vivevano ancora in ricoveri improvvisati, costruiti con le tende fornite dall’esercito, unite alla meglio con porte e finestre tolti dai fabbricati caduti o cadenti. Molti abbandonarono la regione per emigrare in America o in Germania $(745081)$. All’ingente danno economico, che secondo i calcoli del Genio Civile superava il milione di lire, si aggiunse successivamente l’abbandono dei lavori agricoli, la sospensione dei commerci, la chiusura degli uffici pubblici e delle scuole $(745081)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C6</codtab>
+      <testocomm>Il giorno successivo il terremoto il sottoprefetto di Avezzano si recò a Magliano dei Marsi, il comune maggiormente colpito, e in accordo con il sindaco e il tenente dei Carabinieri, prese i primi provvedimenti di sgombero e di puntellamento delle abitazioni pericolanti $(420423,420159)$. Una compagnia di soldati fu inviata da Avezzano nell’area epicentrale per portare i primi soccorsi e delle tende per alloggiare i senzatetto $(071707,745076)$.&lt;br&gt;Il Ministero dei Lavori Pubblici, attraverso il Genio Civile per la provincia dell’Aquila, inviò due ingegneri nei centri colpiti perché effettuassero le perizie sui danni e ne compilassero una relazione $(235476)$. Gli ingegneri segnalarono nelle varie località le case da sgomberare e demolire, quelle da puntellare o da assicurare con delle catene $(235476)$. Le porte d’ingresso di molte case furono murate per impedirvi l’accesso $(745081)$.&lt;br&gt;In seguito all’aggravarsi della situazione, per le abbondanti nevicate e per la mancanza di personale adatto, il sindaco di Magliano richiese al Ministero dell’Interno l’invio urgente di militari del Genio, richiesta sollecitata anche dal prefetto dell’Aquila $(583261,583262)$. Nei giorni seguenti il 1.o reggimento del Genio militare inviò da Pavia un drappello di zappatori al comando di un capitano alla volta di Magliano dei Marsi. Il reparto prolungò il suo intervento sino al 18 aprile 1904 $(145919)$. L’intervento del Genio Militare fu sostenuto economicamente dall’Amministrazione Militare $(583264,583265,583266)$. L’Amministrazione comunale di Magliano de’ Marsi ricoverò provvisoriamente circa 600 persone fra vecchi, donne e bambini in due conventi leggermente lesionati $(583275)$. A causa delle continue repliche il numero dei ricoverati aumentò $(583270)$. Il Genio civile propose di sistemare definitivamente la popolazione povera di Magliano e Rosciolo nei due vecchi conventi $(745079)$. Il sindaco di Magliano de’ Marsi a nome della popolazione richiese urgenti provvedimenti per la sospensione del pagamento delle imposte $(583270)$. Il prefetto dell’Aquila, Maggiotti, inoltrò la richiesta di lire 2000 per il circondario di Avezzano e lire 600 per il comune di Borgorose $(583276)$. In seguito alle richieste avanzate dal sindaco di Magliano de’ Marsi, e sostenute dal prefetto dell’Aquila, il governo si impegnò a sospendere il pagamento dell’imposta sui fabbricati per le costruzioni danneggiate dal terremoto, la concessione di prestiti di favore per la ricostruzione e la costruzione di baracche in legno per alloggiare la popolazione ricoverata nelle tende. Queste concessioni furono oggetto di ulteriori discussioni poiché si temeva che distribuendo direttamente la cifra stabilita dal governo fra i danneggiati, vi sarebbe stato il pericolo che andasse dispersa, alimentando possibili speculazioni e, inoltre, che la costruzione di baracche in legno potesse ritardare la riedificazione degli edifici crollati; si pensava che molti, per non sobbarcarsi le spese di ricostruzione, avrebbero preferito vivere nelle baracche $(745080)$.&lt;br&gt;Venne istituito un Comitato di soccorso, presieduto dal sindaco di Magliano, per la raccolta di sussidi pubblici e privati. Altri comitati sorsero a Roma, Avezzano, Sulmona e L’Aquila $(745080)$. Al Comitato "Pro Marsica", sorto a Roma sotto la presidenza dell’on. De Amicis aderirono tutti i deputati e senatori delle tre provincie abruzzesi nonché la comunità abruzzese a Roma $(745081)$. Il "Giornale d’Italia", del 16 marzo 1904, riferì che al Comitato di Magliano erano pervenute poco più di lire 7.000 $(745079,745080)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>Secondo Cavasino, la minore propagazione degli effetti verso NNE fu causata dalla presenza del Gran Sasso, che "assorbì" parte dell’energia sismica. Infatti le località più lontane nelle quali fu avvertita la scossa, furono L’Aquila a nord, Capestrano a nord-est, Celano ad est, Isola del Liri a sud, Velletri a sud-ovest, Roma ad ovest, Terni a nord-ovest $(235476)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>CA</codtab>
+      <testocomm>A Magliano dei Marsi, negli attimi che precedettero la scossa, fu notata una grande mobilità degli aghi magnetici, nonché il comportamento inconsueto degli animali $(235476)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il periodo sismico iniziato il 24 febbraio 1904, alle ore 15:53 GMT, interessò una vasta area dell’Italia centrale, con il centro alle falde del monte Velino, nella Marsica settentrionale. Il terremoto colpì principalmente alcuni paesi di montagna, sparsi su una superficie di circa 140 kmq, causando ingenti danni alle costruzioni, tanto che molte case crollarono o dovettero essere demolite. La gravità dei danni, secondo il parere degli esperti che osservarono gli effetti, fu dovuta alla fatiscenza degli edifici e alla loro cattiva costruzione. I centri più danneggiati furono Rosciolo dei Marsi, Magliano de’ Marsi, Scurcola Marsicana, Cappelle, Sorbo, Poggio Filippo, San Donato, Gallo e Scanzano, tutti ubicati fra 700 e 1.050 metri di altitudine.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>A Rosciolo dei Marsi e a Scanzano furono segnalate variazioni di portata e intorbidamento delle acque sorgive, fenditure nel suolo e spaccature di grandi massi rocciosi.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>Alla scossa del 24 febbraio seguirono numerose repliche nei 5 mesi successivi, alcune delle quali molto forti.&lt;br&gt;24 febbraio 1904, ore 15.53 GMT, scossa del IX grado della scala MCS con epicentro a Rosciolo in Marsica, avvertita in molte località della provincia dell’Aquila, di Frosinone, di Perugia, di Rieti e di Caserta; si ebbe risentimento anche a Urbino. La scossa venne registrata anche dagli Osservatori di Catania, di Carloforte (Isola di San Pietro in Sardegna), di Firenze, di Isola d’Ischia (Napoli), di Mestre (Venezia), di Padova, di Pavia, di Quarto (Firenze) e di Siena. All’estero la scossa venne registrata negli Osservatori tedeschi di Amburgo, di Gottinga, di Lipsia, di Potsdam; nell’Osservatorio inglese di Paisley; negli osservatori di Strasburgo (Francia), di Uccle (Belgio) e in quello croato di Pola. Alle 17.30 GMT, replica avvertita a Cappadocia (AQ) che causò solo paura fra la gente che si riversò nelle strade. Una replica avvertita a Cappadocia alle ore 22.20 GMT, causò una grave lesione all’Ufficio dell’Esattoria e del Dazio $(000016,235476,002132)$.&lt;br&gt;25 febbraio, ore 0.29 GMT, fu avvertita una forte replica a: Avezzano, Cappadocia, Celano, Cervara di Roma, Civitella Roveto, Frascati, L’Aquila, Monterotondo, Paliano, Poggio San Lorenzo, Rieti, Rocca di Papa, Sant’Elpidio Pescorocchiano, Scurcola, Subiaco, Tagliacozzo, Tivoli, Urbino, Vallepietra, Veroli. La scossa venne avvertita dai soli strumenti a Poggio Catino e Velletri e registrata negli Osservatori di Firenze, Isola d’Ischia e Quarto (Firenze). Alle ore 1.30 GMT, una replica avvertita a Cappadocia dalle sole persone sveglie; Monti riportò che questa scossa venne avvertita anche a Vallepietra e a Sant’Elpidio Pescorocchiano. Cavasino riferì l’ora in cui la scossa fu avvertita dagli strumenti a Rocca di Papa, cioè le 3 circa, ora locale. Alle 4.50 GMT, nuova scossa avvertita ad Avezzano, a Cappadocia, a Civitella Roveto, a Sant’Elpidio Pescorocchiano, a Tagliacozzo. Alle 5.10 GMT, replica ad Avezzano, a Cappadocia, a Cervara di Roma, a Sant’Elpidio Pescorocchiano, a Subiaco, a Tagliacozzo. Alle 19.16 GMT, replica a Vallepietra $(000016,235476,050399)$.&lt;br&gt;1 marzo, ore 1.53 GMT, replica avvertita ad Avezzano, a Magliano dei Marsi, a Scurcola, a Tagliacozzo; 4.00 GMT, replica avvertita a Borgorose, a L’Aquila, a Scurcola $(235476,050399)$. A Borgorose in frazione Sant’Anatolia si verificarono nuove lesioni a 30 case, di cui 9 risultarono pericolanti; $(583269,583271,583272)$. A Magliano dei Marsi l’ingegnere del Genio civile per precauzione sospese le operazioni di perizia dei danni $(583270)$.&lt;br&gt;3 marzo, ore 18.56 GMT, replica avvertita ad Avezzano, a Borgocollefegato, a Magliano dei Marsi, a Rocca di Papa, a Scurcola $(235476,050399,002132)$. A Scurcola e a Sante Marie si verificarono altri danni, fu inviato un ingegnere del Genio civile per gli accertamenti $(583273)$.&lt;br&gt;10 marzo, durante le prime ore della notte venne avvertita una scossa a Magliano dei Marsi. Alle ore 4.22 GMT, replica avvertita ad Avezzano, a Magliano dei Marsi, a Massa d’Albe e a Scurcola $(235476,050399,002132)$. Magliano dei Marsi in seguito a queste scosse, che causarono ulteriori danni, fu completamente abbandonato dai sui abitanti, che si spostarono in aperta campagna; l’Esercito inviò altre tende $(583276,583277,583278)$.&lt;br&gt;11 marzo, 13.25 GMT, replica avvertita a Magliano dei Marsi $(235476,050399,002132)$. A Scurcola si verificarono altri danni, il sindaco chiese un sussidio finanziario e materiale $(583279,583280)$.&lt;br&gt;20 marzo, 6.50 e 8.50 circa, ora locale, 2 repliche avvertite a Magliano dei Marsi e Scurcola $(235476,050399,002132)$. In seguito a queste scosse si verificarono altri danni a Scurcola, Sante Marie e Scanzano, il personale del Genio Militare provvide al provvisorio puntellamento delle case pericolanti $(583282,583283)$.&lt;br&gt;25 marzo, 21.58 GMT, replica avvertita a Magliano dei Marsi $(235476,050399)$.&lt;br&gt;28 marzo, 22.26 GMT, replica avvertita a Scanzano $(235476,050399)$.&lt;br&gt;29 marzo, 4.30 GMT, replica avvertita a Scanzano $(235476,050399)$.&lt;br&gt;29 marzo, 8.30 GMT, replica avvertita a Magliano dei Marsi $(235476,050399)$.&lt;br&gt;7 aprile, 19.00 circa e 19.55 GMT, 2 scosse avvertite a Magliano dei Marsi $(235476,050399,002132)$.&lt;br&gt;12 aprile, replica avvertita all’alba a Magliano dei Marsi $(235476,050399)$.&lt;br&gt;13 aprile, 5.57 GMT, replica avvertita a Scanzano e a Scurcola $(235476,050399,002132)$.&lt;br&gt;20 aprile, 22.55 GMT, scossa avvertita a Scanzano $(235476,050399,002132)$.&lt;br&gt;8 giugno, 13.32 GMT, replica avvertita ad Avezzano e a Cappelle $(235476,050399)$.&lt;br&gt;22 giugno, 15.30 GMT, replica avvertita a Scanzano $(235476,050399)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002132</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Marsica earthquake of February 24, 1904, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.114-115.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021133</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere delle Puglie, 1904.02.25.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030167</codbib>
+      <autore1>De Giorgi C.</autore1>
+      <titolo1>Ricerche sui terremoti avvenuti in Terra d’Otranto dal 1898 al 1915, in "Memorie della Pontificia Accademia Romana dei Nuovi Lincei", s.II, vol.2, pp.33-50.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1916</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050399</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>I terremoti d’Italia nel trentacinquennio 1899-1933, in "Memorie del Regio Ufficio Centrale di Meteorologia e Geofisica", s.III, appendice al vol.4.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1935</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052464</codbib>
+      <autore1>Molin D., Galadini F., Galli P., Mucci L. e Rossi A.</autore1>
+      <titolo1>Sismicità della zona del Fucino, in "13 gennaio 1915. Il terremoto nella Marsica", a cura di S.Castenetto e F.Galadini, pt.4 (Il contesto fisico), pp.249-271, 569-629, 747-752.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1999</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071707</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1904.02.26-27.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145919</codbib>
+      <autore1>Ministero della Difesa</autore1>
+      <titolo1>L’esercito per il paese, 1861-1975.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170120</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Brescia, 1904.02.25, n.55.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235474</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Prime osservazioni sul terremoto italiano del 13 gennaio 1915, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.377-395.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>235476</codbib>
+      <autore1>Cavasino A.</autore1>
+      <titolo1>Il terremoto nella Marsica del 24 febbraio 1904, in "Bollettino della Società Sismologica Italiana", vol.18 (1914), pp.411-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420159</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1904.02.26.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1904.02.29.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420422</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1904.02.25.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420423</codbib>
+      <autore1>*</autore1>
+      <titolo1>Libertà, 1904.02.26.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583261</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7416, Telegramma del sindaco di Magliano de’ Marsi Scipioni al Ministero dell’Interno, Magliano de’ Marsi 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583262</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7454, Telegramma del funzionario della Prefettura di L’Aquila Fioretti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583263</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7489, Telegramma del sottosegretario dei Lavori pubblici Porzi al Ministero dell’Interno Pubblica sicurezza, Roma 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583264</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7505, Telegramma del ministro della Guerra Pedotti al Ministero dell’Interno Pubblica sicurezza, Roma 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583265</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7530, Telegramma del sindaco di Magliano de’ Marsi Scipioni al Ministero dell’Interno, Magliano de’ Marsi 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583266</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7691, Telegramma del ministro della Guerra Pedotti al Ministero dell’Interno Pubblica sicurezza, Roma 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583267</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7750, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Amministrazione civile, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583268</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7773, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583269</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7806, Telegramma del funzionario della Prefettura di L’Aquila Fioretti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583270</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7856, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583271</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.7923, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583272</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.8008, Telegramma del funzionario della Prefettura di L’Aquila Romano al Ministero dell’Interno Amministrazione civile, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583273</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 27 febbraio al 5 marzo, n.8106, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583274</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 5 marzo all’11 marzo, n.8328, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Amministrazione civile, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583275</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 5 marzo all’11 marzo, n.8332, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583276</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 5 marzo all’11 marzo, n.8967, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583277</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 5 marzo all’11 marzo, n.9067, Telegramma del sindaco di Magliano de’ Marsi Scipioni al Ministero dell’Interno Pubblica sicurezza, Magliano de’ Marsi 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583278</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dall’11 marzo al 17 marzo, n.9253, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583279</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dall’11 marzo al 17 marzo, n.9342, Telegramma del deputato Cerri al ministro dell’Interno Giolitti, Scurcola Marsicana 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583280</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dall’11 marzo al 17 marzo, n.9344, Telegramma del sindaco di Scurcola Marsicana Vetoli al Ministero dell’Interno, Scurcola Marsicana 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583281</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dall’11 marzo al 17 marzo, n.9705, Telegramma del prefetto di L’Aquila Maggiotti al Ministero dell’Interno Amministrazione civile, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583282</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 17 marzo al 25 marzo, n.10235, Telegramma del deputato Cerri al ministro dell’Interno Giolitti, Avezzano 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583283</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1904, Copialettere in arrivo dal 17 marzo al 25 marzo, n.10676, Telegramma del prefetto di L’Aquila Maggiotti Maggiotti al Ministero dell’Interno Pubblica sicurezza, L’Aquila 28 febbraio 1904.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1904</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600475</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1904.02.25.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600476</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1904.02.26.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1904.02.26-27, n.57.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745059</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1904.03.03-04 n.63.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745060</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1904.03.05-06, n.65.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745061</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Sole, 1904.02.26, n.48.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745075</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.02.26, n.57.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.02.28, n.59.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.03.02, n.62.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745078</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.03.11, n.71.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745079</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.03.16, n.76.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745080</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.03.23, n.83.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745081</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1904.03.31, n.91.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Rosciolo dei Marsi</desloc>
+      <lat_wgs84>42.1179</lat_wgs84>
+      <lon_wgs84>13.3391</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056211.00</nloc_cfti>
+      <desloc_cfti>Rosciolo dei Marsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu la località maggiormente colpita: delle circa 500 case che la componevano, più della metà crollarono o vennero demolite e tutte le altre subirono gravissime lesioni che ne resero necessario lo sgombero e il puntellamento. Tutti gli abitanti furono costretti ad alloggiare in tende, in carri o in baracche. Ad aggravare le distruzioni in questa frazione contribuì la forte replica delle ore 0.29 GMT del 25 febbraio $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Magliano de' Marsi</desloc>
+      <lat_wgs84>42.093</lat_wgs84>
+      <lon_wgs84>13.3628</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056209.00</nloc_cfti>
+      <desloc_cfti>Magliano de’ Marsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>I danni furono rilevantissimi: crollarono totalmente o parzialmente parecchie case, molte altre furono gravemente lesionate, in complesso si riscontrarono 600 case inagibili. Crollarono la cattedrale e l’antica torre dei «di Cola», nella maggior parte delle case poste lungo la via principale caddero le volte $(235476)$. Si verificarono gravi danni alla caserma dei carabinieri, che resa pericolante dovette essere sgomberata $(600475,420423)$. Già il 25 febbraio, il sottoprefetto di Avezzano, in accordo con il sindaco e il tenente dei Carabinieri, ordinò lo sgombero e il puntellamento dei fabbricati che minacciavano di crollare $(420423,420159)$. In molte case furono murate le porte d’ingresso per impedire agli abitanti di alloggiarvi. A parere di Cavasino la gravità dei danni fu dovuta soprattutto alla fatiscenza degli edifici e alla loro cattiva costruzione $(235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Cappelle</desloc>
+      <lat_wgs84>42.066</lat_wgs84>
+      <lon_wgs84>13.3816</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056376.00</nloc_cfti>
+      <desloc_cfti>Cappelle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Questa frazione di Scurcola Marsicana furono gravemente lesionate 20 fabbricati. Alcuni dovettero essere demoliti perché pericolanti, altri furono puntellati o assicurati con catene $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Gallo</desloc>
+      <lat_wgs84>42.0976</lat_wgs84>
+      <lon_wgs84>13.265</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056398.00</nloc_cfti>
+      <desloc_cfti>Gallo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Tagliacozzo si verificarono gravi danni alle abitazioni: 5 case dovettero essere demolite e in molte altre occorsero riparazioni urgenti con puntellamenti e catene $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Poggio Filippo</desloc>
+      <lat_wgs84>42.0843</lat_wgs84>
+      <lon_wgs84>13.3063</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056400.00</nloc_cfti>
+      <desloc_cfti>Poggio Filippo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Tagliacozzo risultarono seriamente danneggiate molte abitazioni, 8 vennero demolite perché pericolanti e 10 si dovettero puntellare $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>San Donato</desloc>
+      <lat_wgs84>42.0945</lat_wgs84>
+      <lon_wgs84>13.2791</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056403.00</nloc_cfti>
+      <desloc_cfti>San Donato</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Tagliacozzo crollò una chiesa e un’altra subì gravi lesioni; risultarono seriamente danneggiate molte abitazioni, per 13 di esse fu ordinata la demolizione e per molte altre il puntellamento $(235476,000016,583263)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Sant'Anatolia</desloc>
+      <lat_wgs84>42.1479</lat_wgs84>
+      <lon_wgs84>13.2939</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053136.00</nloc_cfti>
+      <desloc_cfti>Sant’Anatolia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione del comune di Borgocollefegato (oggi Borgorose) i tecnici del Genio civile ordinarono la demolizione di 6 case pericolanti e l’immediato puntellamento di altre 5. Nelle 24 abitazioni che risultarono lesionate in più punti fu ordinato di porre in opera le catene $(235476,000016,583271)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Marano dei Marsi</desloc>
+      <lat_wgs84>42.1243</lat_wgs84>
+      <lon_wgs84>13.2706</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056210.00</nloc_cfti>
+      <desloc_cfti>Marano dei Marsi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Questa frazione di Magliano era composta di circa 200 case delle quali solo alcune furono danneggiate gravemente, le rimanenti non subirono danni rilevanti $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Scanzano</desloc>
+      <lat_wgs84>42.1053</lat_wgs84>
+      <lon_wgs84>13.2502</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056339.00</nloc_cfti>
+      <desloc_cfti>Scanzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Sante Marie si ebbero molti danni alle abitazioni, 10 delle quali dovettero essere demolite e altre 30 assicurate con catene $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Scurcola Marsicana</desloc>
+      <lat_wgs84>42.0648</lat_wgs84>
+      <lon_wgs84>13.3416</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056377.00</nloc_cfti>
+      <desloc_cfti>Scurcola Marsicana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Nel complesso i 2/3 delle abitazioni fu danneggiato; oltre un centinaio di case risultò inagibile $(235476)$. La scossa principale fu seguita nelle successive ventiquattro ore da otto repliche che causarono nuove fenditure nelle case, tremolio di oggetti, porte e vetrate $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Massa d'Albe</desloc>
+      <lat_wgs84>42.1081</lat_wgs84>
+      <lon_wgs84>13.3932</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056214.00</nloc_cfti>
+      <desloc_cfti>Massa d’Albe</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa venne avvertita da tutti anche in campagna; si verificarono lesioni in un gran numero di fabbricati; suonò la campana dell’orologio pubblico $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>San Giovanni</desloc>
+      <lat_wgs84>42.092</lat_wgs84>
+      <lon_wgs84>13.2102</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056335.00</nloc_cfti>
+      <desloc_cfti>San Giovanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Si verificò il crollo di un campanile $(745075)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sante Marie</desloc>
+      <lat_wgs84>42.1028</lat_wgs84>
+      <lon_wgs84>13.2043</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056336.00</nloc_cfti>
+      <desloc_cfti>Sante Marie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono segnalate lesioni agli edifici senza ulteriori specificazioni $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Sorbo</desloc>
+      <lat_wgs84>42.0748</lat_wgs84>
+      <lon_wgs84>13.3157</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056404.00</nloc_cfti>
+      <desloc_cfti>Sorbo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Tagliacozzo vennero segnalati danni senza ulteriori specificazioni sulla loro entità $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Torano</desloc>
+      <lat_wgs84>42.153</lat_wgs84>
+      <lon_wgs84>13.259</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053138.00</nloc_cfti>
+      <desloc_cfti>Torano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La chiesa di San Martino riportò lesioni in più punti, dovettero essere demolite 2 cappelle interne e puntellati gli archi principali. Si riscontrarono leggere lesioni ai fabbricati $(235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Sant'Elpidio</desloc>
+      <lat_wgs84>42.2412</lat_wgs84>
+      <lon_wgs84>13.1805</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053437.00</nloc_cfti>
+      <desloc_cfti>Sant’Elpidio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>In questa frazione di Pescorocchiano la scossa fu avvertita da tutti, causò la caduta di un comignolo e lesioni ad alcuni edifici; vibrarono vetrate e oggetti $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio fu avvertita da tutti, compresi i dormienti, con scricchiolii di vetrate, mobili e imposte, accompagnata da rombo $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Tagliacozzo</desloc>
+      <lat_wgs84>42.0685</lat_wgs84>
+      <lon_wgs84>13.2509</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056406.00</nloc_cfti>
+      <desloc_cfti>Tagliacozzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alcuni edifici furono lievemente lesionati $(235476)$. Alle ore 0.29 GMT, del 25 febbraio, fu avvertita una replica, di cui non sono note descrizioni degli effetti $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Avezzano</desloc>
+      <lat_wgs84>42.0322</lat_wgs84>
+      <lon_wgs84>13.4255</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055944.00</nloc_cfti>
+      <desloc_cfti>Avezzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa avvertita da tutti, fece tremare vetrate, porte e suonare i campanelli $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita da tutti $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Vallepietra</desloc>
+      <lat_wgs84>41.9262</lat_wgs84>
+      <lon_wgs84>13.2309</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054458.00</nloc_cfti>
+      <desloc_cfti>Vallepietra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti e causò panico in una scolaresca; tremarono i mobili $(235476)$. La replica delle ore 0.29 del 25 febbraio fu avvertita da tutti, risvegliò i dormienti e causò il tremolio di mobili e la caduta di calcinacci $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Antrodoco</desloc>
+      <lat_wgs84>42.4152</lat_wgs84>
+      <lon_wgs84>13.076</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053102.00</nloc_cfti>
+      <desloc_cfti>Antrodoco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Il segretario comunale rispose con un certo ritardo alla circolare inviata dall’Ufficio di Meteorologia e Geodinamica nella quale si chiedeva se il terremoto era stato avvertito, e la risposta, che fu affermativa, presenta alcune incertezze $(235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Carsoli</desloc>
+      <lat_wgs84>42.0984</lat_wgs84>
+      <lon_wgs84>13.0843</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056036.00</nloc_cfti>
+      <desloc_cfti>Carsoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. I giornali riferirono che la scossa fu avvertita molto forte $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Celano</desloc>
+      <lat_wgs84>42.0843</lat_wgs84>
+      <lon_wgs84>13.5454</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056056.00</nloc_cfti>
+      <desloc_cfti>Celano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa venne avvertita da molte persone, sia in quiete che in movimento $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cervara di Roma</desloc>
+      <lat_wgs84>41.9883</lat_wgs84>
+      <lon_wgs84>13.0682</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053744.00</nloc_cfti>
+      <desloc_cfti>Cervara di Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo il giornale "La Tribuna" del 28 febbraio 1904, la scossa del 24 Febbraio 1904, ore 15.53 GMT, fu avvertita leggermente $(235476)$. Lo stesso quotidiano riferì che la replica delle ore 0.29 GMT, del 25 febbraio, causò panico nella popolazione $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Frascati</desloc>
+      <lat_wgs84>41.8081</lat_wgs84>
+      <lon_wgs84>12.6809</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053781.00</nloc_cfti>
+      <desloc_cfti>Frascati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu distintamente avvertita da tutti $(235476)$. Anche la replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita, seppure con intensità minore della precedente $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Rocca Priora</desloc>
+      <lat_wgs84>41.7904</lat_wgs84>
+      <lon_wgs84>12.7551</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054021.00</nloc_cfti>
+      <desloc_cfti>Rocca Priora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani, risultò che la scossa fu avvertita leggermente $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio passò inosservata $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molte persone $(235476,000016,021133,600475,420422)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Terni</desloc>
+      <lat_wgs84>42.5615</lat_wgs84>
+      <lon_wgs84>12.6476</lon_wgs84>
+      <provlet>TR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>050252.00</nloc_cfti>
+      <desloc_cfti>Terni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Si ha notizia di una sola persona che avvertì il terremoto $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Tivoli</desloc>
+      <lat_wgs84>41.9642</lat_wgs84>
+      <lon_wgs84>12.7977</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054445.00</nloc_cfti>
+      <desloc_cfti>Tivoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molte persone $(235476)$. Il 25 febbraio alle ore 0.29 GMT, fu avvertita una leggera scossa $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Borgocollefegato</desloc>
+      <lat_wgs84>42.194</lat_wgs84>
+      <lon_wgs84>13.2342</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053124</nloc_cfti>
+      <desloc_cfti>Borgorose (Borgocollefegato)</desloc_cfti>
+      <notesito>Assunse la denominazione di Borgorose il 4 settembre 1960.</notesito>
+      <COMM>La scossa fu avvertita da tutti, non si segnalarono danni $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Civitella Roveto</desloc>
+      <lat_wgs84>41.9145</lat_wgs84>
+      <lon_wgs84>13.4245</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056071.00</nloc_cfti>
+      <desloc_cfti>Civitella Roveto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da tutti, non si segnalarono danni $(235476)$. Fu avvertita anche la replica delle ore 0.29 GMT, del 25 febbraio $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Monterotondo</desloc>
+      <lat_wgs84>42.055</lat_wgs84>
+      <lon_wgs84>12.6227</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053919.00</nloc_cfti>
+      <desloc_cfti>Monterotondo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti; tremarono vetri e piccoli oggetti e suonarono i campanelli $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu di minore durata e intensità della scossa principale $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Paliano</desloc>
+      <lat_wgs84>41.806</lat_wgs84>
+      <lon_wgs84>13.0564</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055415.00</nloc_cfti>
+      <desloc_cfti>Paliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molte persone; tremarono grandi oggetti, non si segnalarono danni $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Poggio San Lorenzo</desloc>
+      <lat_wgs84>42.2526</lat_wgs84>
+      <lon_wgs84>12.8441</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053483.00</nloc_cfti>
+      <desloc_cfti>Poggio San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da tutti, non furono segnalati danni $(235476)$. Da informazioni assunte da Agamennone, risulta che fu avvertita una scossa nella notte fra il 24 e il 25 febbraio: si tratta probabilmente della replica delle ore 0.29 GMT $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Capestrano</desloc>
+      <lat_wgs84>42.2671</lat_wgs84>
+      <lon_wgs84>13.7689</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056013.00</nloc_cfti>
+      <desloc_cfti>Capestrano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa generalmente avvertita non causò danni $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cappadocia</desloc>
+      <lat_wgs84>42.0062</lat_wgs84>
+      <lon_wgs84>13.2822</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056032.00</nloc_cfti>
+      <desloc_cfti>Cappadocia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa venne avvertita da tutti quelli che si trovavano in casa, tremarono gli infissi e oscillarono i lampadari; non venne avvertita nelle strade $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita solo da persone deste $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Isola del Liri</desloc>
+      <lat_wgs84>41.681</lat_wgs84>
+      <lon_wgs84>13.5784</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055325.00</nloc_cfti>
+      <desloc_cfti>Isola del Liri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita da tutti; tremarono porte, vetrate e lampadari; si fermarono degli orologi a pendolo $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>L'Aquila</desloc>
+      <lat_wgs84>42.3565</lat_wgs84>
+      <lon_wgs84>13.3956</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056142.00</nloc_cfti>
+      <desloc_cfti>L’Aquila</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti; tremarono vetri e porte e tintinnarono piccoli oggetti $(235476,000016)$. Anche la replica delle ore 0.29 GMT, del 25 febbraio, fu avvertita.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Poggio Nativo</desloc>
+      <lat_wgs84>42.2141</lat_wgs84>
+      <lon_wgs84>12.7928</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053479.00</nloc_cfti>
+      <desloc_cfti>Poggio Nativo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da quasi tutti; tremarono leggermente le vetrate e i mobili $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Rocca di Papa</desloc>
+      <lat_wgs84>41.761</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054017.00</nloc_cfti>
+      <desloc_cfti>Rocca di Papa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da varie persone $(235476)$. La replica delle ore 0.29 GMT, del 25 febbraio fu avvertita da pochi $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Sora</desloc>
+      <lat_wgs84>41.719</lat_wgs84>
+      <lon_wgs84>13.613</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055710.00</nloc_cfti>
+      <desloc_cfti>Sora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita da tutti; tremarono porte e vetrate $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Subiaco</desloc>
+      <lat_wgs84>41.9259</lat_wgs84>
+      <lon_wgs84>13.0946</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054435.00</nloc_cfti>
+      <desloc_cfti>Subiaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa venne avvertita da molti; tremarono vetri, porte e piccoli oggetti $(235476,000016)$. La replica delle ore 0.29 GMT, del 25 febbraio, fu generalmente avvertita e causò il tremolio di piccoli oggetti, porte e vetrate $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Velletri</desloc>
+      <lat_wgs84>41.6889</lat_wgs84>
+      <lon_wgs84>12.778</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054464.00</nloc_cfti>
+      <desloc_cfti>Velletri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita lievemente. La replica del 25 febbraio, ore 0.29 GMT, fu avvertita solo dagli strumenti $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Veroli</desloc>
+      <lat_wgs84>41.6924</lat_wgs84>
+      <lon_wgs84>13.4186</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055889.00</nloc_cfti>
+      <desloc_cfti>Veroli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa venne avvertita da molti; oscillarono gli oggetti sospesi $(235476)$. La replica delle ore 0.29 del 25 febbraio fu generalmente avvertita nelle case: risvegliò i dormienti e causò il tremolio di infissi e lumi sospesi $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Rieti</desloc>
+      <lat_wgs84>42.4048</lat_wgs84>
+      <lon_wgs84>12.8667</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053515.00</nloc_cfti>
+      <desloc_cfti>Rieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Scossa avvertita leggermente solo da persone in quiete $(235476,000016)$. Da informazioni assunte direttamente dal Agamennone risulta che all’una circa del 25 febbraio fu avvertita una seconda scossa più debole della precedente, si tratta probabilmente della replica delle ore 0.29 GMT $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Urbino</desloc>
+      <lat_wgs84>43.7266</lat_wgs84>
+      <lon_wgs84>12.636</lon_wgs84>
+      <provlet>PU</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>051050.00</nloc_cfti>
+      <desloc_cfti>Urbino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi in quiete; per la notevole distanza di questa località dall’epicentro, circa 190 km, Cavasino avanzò qualche dubbio sull’effettivo risentimento umano del terremoto $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Alvito</desloc>
+      <lat_wgs84>41.6893</lat_wgs84>
+      <lon_wgs84>13.7424</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>054775.00</nloc_cfti>
+      <desloc_cfti>Alvito</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il sindaco rispose negativamente alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica nella quale si chiedeva se il terremoto era stato avvertito $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Barisciano</desloc>
+      <lat_wgs84>42.3257</lat_wgs84>
+      <lon_wgs84>13.592</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055978.00</nloc_cfti>
+      <desloc_cfti>Barisciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alla circolare inviata dall’Ufficio di Meteorologia e Geodinamica nella quale si chiedeva al sindaco se il terremoto era stato avvertito la risposta fu negativa $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cerveteri</desloc>
+      <lat_wgs84>41.9979</lat_wgs84>
+      <lon_wgs84>12.0986</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053750.00</nloc_cfti>
+      <desloc_cfti>Cerveteri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il sindaco rispose negativamente alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica nella quale si chiedeva se il terremoto era stato avvertito $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cittaducale</desloc>
+      <lat_wgs84>42.3869</lat_wgs84>
+      <lon_wgs84>12.9487</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053186.00</nloc_cfti>
+      <desloc_cfti>Cittaducale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La relazione del sindaco riguardo al terremoto fu negativa $(235476,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Grottaferrata</desloc>
+      <lat_wgs84>41.7873</lat_wgs84>
+      <lon_wgs84>12.6771</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053800.00</nloc_cfti>
+      <desloc_cfti>Grottaferrata</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani, risultò che la scossa non fu avvertita né a Grottaferrata né al vicino Ponte degli Squarciarelli; anche la replica delle ore 0.29 GMT, del 25 febbraio, passò inosservata $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Introdacqua</desloc>
+      <lat_wgs84>42.0075</lat_wgs84>
+      <lon_wgs84>13.8981</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056113.00</nloc_cfti>
+      <desloc_cfti>Introdacqua</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il sindaco rispose negativamente alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica nella quale si chiedeva se era state avvertita la scossa $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Monte Porzio Catone</desloc>
+      <lat_wgs84>41.8159</lat_wgs84>
+      <lon_wgs84>12.7153</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053915.00</nloc_cfti>
+      <desloc_cfti>Monte Porzio Catone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani risultò che la scossa non fu avvertita; anche la replica delle ore 0.29 GMT, del 25 febbraio, passò inosservata $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Montecompatri</desloc>
+      <lat_wgs84>41.8074</lat_wgs84>
+      <lon_wgs84>12.7361</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>053885.00</nloc_cfti>
+      <desloc_cfti>Montecompatri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Da informazioni assunte a Frascati presso i "procaccia postali" della zona dei castelli romani risultò che la scossa non fu avvertita e così anche la replica delle ore 0.29 GMT, del 25 febbraio, passò inosservata $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pescocostanzo</desloc>
+      <lat_wgs84>41.8897</lat_wgs84>
+      <lon_wgs84>14.0651</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>056284.00</nloc_cfti>
+      <desloc_cfti>Pescocostanzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica, in cui si chiedeva se era stata avvertita la scossa, il sindaco rispose negativamente $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pico</desloc>
+      <lat_wgs84>41.4513</lat_wgs84>
+      <lon_wgs84>13.5597</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055489.00</nloc_cfti>
+      <desloc_cfti>Pico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica in cui si chiedeva se era stata avvertita la scossa, il sindaco rispose negativamente $(000016,235476)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Vallecorsa</desloc>
+      <lat_wgs84>41.445</lat_wgs84>
+      <lon_wgs84>13.4047</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18754</nterr>
+      <nloc_cfti>055806.00</nloc_cfti>
+      <desloc_cfti>Vallecorsa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Alla circolare inviata dall’Ufficio Centrale di Meteorologia e Geodinamica in cui si chiedeva al sindaco se era stata avvertita la scossa, la risposta fu negativa $(000016,235476)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

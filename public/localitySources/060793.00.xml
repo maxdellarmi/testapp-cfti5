@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>060793.00</nloc_cfti>
+      <desloc_cfti>Santuario di Montevergine</desloc_cfti>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>40.919</lat_wgs84>
+      <lon_wgs84>14.749</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il grandioso complesso barocco dell’abbazia, costruita in sostituzione dell’antico ospizio di Loreto distrutto dal terremoto del 1732, subì danni rilevanti. Furono riscontrati distacchi tra le pareti con pericolo di crolli, dovuti alla spinta esercitata dai solai sulle murature e al degrado di alcune capriate. In particolare il palazzo subì danni diffusi soprattutto nell’appartamento dell’abate e nel corridoio antistante situati sopra l’androne d’ingresso, nella parte opposta sotto la torretta dell’orologio dove al secondo piano furono gravemente lese alcune pareti divisorie e dissestate le coperture e nel corpo di fabbrica del lato ovest dove fu rilevata una grave lesione da distacco tra la volta e la parete perimetrale verso il cortile $(052281,745026)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto causò forti danni al monastero; l’ospizio di Loreto fu reso inabitabile $(030065,030067,900321)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01726</nterr>
+      <nperiod>003092</nperiod>
+      <datanum>17321129</datanum>
+      <data_label>1732 11 29</data_label>
+      <anno>1732</anno>
+      <mese>11</mese>
+      <giorno>29</giorno>
+      <time_label>07:40</time_label>
+      <ora>07</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.0643</lat>
+      <lon>15.0591</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>187</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò il crollo di gran parte dell’abbazia e lesionò gravemente la parte rimanente che fu resa inabitabile $(410454)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>030065</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relatione del Terremoto accaduto in Napoli, e parte del suo Regno il giorno 8 di Settembre 1694. Dove si dà raguaglio delli danni, che il medesimo hà caggionato in molte parti del medesimo Regno. Et in particolare nelle tré Provincie di Principato Citra, Ultra, e Basilicata. Con il numero de’ morti, e feriti che nelle medesime sono restati sotto delle Pietre.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030067</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera, e distinta Relatione dello spaventoso, e funesto Terremoto accaduto in Napoli, e parte del suo Regno, il giorno 8 Settembre 1694. Dove si dà raguaglio delli danni, che il medesimo hà caggionato in molte parti del Regno. Et in particolare nelle tré Provincie di Principato Citra, Ultra, e Basilicata. Con il danno notabilissimo delle medesime, restando numero grande delle sue Terre intieramente distrutte. Con il numero de’ morti, che nelle medesime sono restati sotto delle Pietre.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1694</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900321</codbib>
+      <autore1>Pescatori S.</autore1>
+      <titolo1>I terremoti dell’Irpinia, in "Rivista economica della provincia di Avellino", a.8, n.3, pp.15-18, n.4, pp.3-10, n.5, pp.3-10, n.6, pp.3-11, n.7, pp.3-7.</titolo1>
+      <luogoed>Avellino</luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410454</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.628, Itinerario ricavato dalle diligenze pratticate da’ ministri, e subalterni di questa Regia Udienza per ordine dell’illustre preside d’essa, e da’ documenti venuti sin’ora dalla provincia, e da’ quei luoghi che han patito il flagello dell’ultimo tremuoto de’ 29 del passato novembre, Montefusco dicembre 1732.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1732</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052281</codbib>
+      <autore1>Ministero per i Beni Culturali e Ambientali ­ Soprintendenza generale agli interventi post-sismici in Campania e Basilicata</autore1>
+      <titolo1>Dopo la polvere. Rilevazione degli interventi di recupero post-sismico del patrimonio archeologico, architettonico ed artistico delle regioni Campania e Basilicata danneggiato dal terremoto del 23 novembre 1980 e del 14 febbraio 1981 (anni 1985-1989), a cura di G.Proietti, 5 voll.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1994</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745026</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Mattino, 1980.12.06, a.89, n.311.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1980</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080432</nloc_cfti>
+      <desloc_cfti>El-Iskandariya (Alexandria)</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Egypt</nazione>
+      <risentimenti>0</risentimenti>
+      <maxint>-2</maxint>
+      <lat_wgs84>31.2011</lat_wgs84>
+      <lon_wgs84>29.9461</lon_wgs84>
+      <notesito>Località nota nell’antichità come Alexandria.</notesito>
+    </Detail>
+  </Details>
+  <Quakes/>
+  <Biblios>
+    <Bibliography>
+      <codbib>630081</codbib>
+      <autore1>Ammianus Marcellinus</autore1>
+      <titolo1>Rerum gestarum libri qui supersunt, ed. W.Seyfarth, 2 voll.</titolo1>
+      <luogoed>Leipzig</luogoed>
+      <datacompl>1978</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>960026</codbib>
+      <autore1>Athanasius</autore1>
+      <titolo1>Histoire «acéphale» et Index syriaque des Lettres festales d’Athanase d’Alexandrie, ed. M.Albert, in "Sources Chrétiennes", vol.317, pp.224-277.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

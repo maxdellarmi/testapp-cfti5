@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>34619</nterr>
+      <nperiod>002093</nperiod>
+      <datanum>19620511</datanum>
+      <data_label>1962 05 11</data_label>
+      <anno>1962</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>01:05:31</time_label>
+      <ora>01</ora>
+      <minu>05</minu>
+      <sec>31</sec>
+      <lat>44.1608</lat>
+      <lon>11.2335</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>7</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.1</mm>
+      <earthquakelocation>Appennino tosco-emiliano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021216</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Valutazione della pericolosità sismica dell’area urbana di Firenze, RPT 81/91, Bologna novembre 1991 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1991</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092012</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino sismico definitivo, 1962.05, Istituto Nazionale di Geofisica.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092042</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1962.05.11.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>331055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1962.05.12.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691668</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1962.05.12, n.112.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>San Benedetto Val di Sambro</desloc>
+      <lat_wgs84>44.216</lat_wgs84>
+      <lon_wgs84>11.2335</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>040155.00</nloc_cfti>
+      <desloc_cfti>San Benedetto Val di Sambro</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Montese</desloc>
+      <lat_wgs84>44.2706</lat_wgs84>
+      <lon_wgs84>10.944</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>038738.00</nloc_cfti>
+      <desloc_cfti>Montese</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Scarperia</desloc>
+      <lat_wgs84>43.9957</lat_wgs84>
+      <lon_wgs84>11.3551</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>045701.00</nloc_cfti>
+      <desloc_cfti>Scarperia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Vergato</desloc>
+      <lat_wgs84>44.2834</lat_wgs84>
+      <lon_wgs84>11.1118</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>040298.00</nloc_cfti>
+      <desloc_cfti>Vergato</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Vicchio</desloc>
+      <lat_wgs84>43.9336</lat_wgs84>
+      <lon_wgs84>11.4645</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>045831.00</nloc_cfti>
+      <desloc_cfti>Vicchio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Borgo San Lorenzo</desloc>
+      <lat_wgs84>43.9539</lat_wgs84>
+      <lon_wgs84>11.3883</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>044699.00</nloc_cfti>
+      <desloc_cfti>Borgo San Lorenzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>34619</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

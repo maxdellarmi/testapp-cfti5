@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080334.00</nloc_cfti>
+      <desloc_cfti>Karlovac</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>3</maxint>
+      <lat_wgs84>45.487</lat_wgs84>
+      <lon_wgs84>15.549</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01128</nterr>
+      <nperiod>003187</nperiod>
+      <datanum>16910219</datanum>
+      <data_label>1691 02 19</data_label>
+      <anno>1691</anno>
+      <mese>02</mese>
+      <giorno>19</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>46.093</lat>
+      <lon>14.4471</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Alle 11:30 circa ora locale (10:40 GMT) furono avvertite alcune scosse leggere $(070499,775036)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>070499</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1691.04.03.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1691</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775036</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>Seizmicnost Slovenue. Katalog potresov (792 n.e.- 1981) [Seismicity of Slovenia. Catalogue of earthquakes (792 A.D.-1981)].</titolo1>
+      <luogoed>Ljubljana</luogoed>
+      <datacompl>1982</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

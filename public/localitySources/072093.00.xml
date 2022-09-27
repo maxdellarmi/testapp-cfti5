@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072093.00</nloc_cfti>
+      <desloc_cfti>Mirabello</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.991</lat_wgs84>
+      <lon_wgs84>11.3643</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00831</nterr>
+      <nperiod>002026</nperiod>
+      <datanum>15970803</datanum>
+      <data_label>1597 08 03</data_label>
+      <anno>1597</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9879</lat>
+      <lon>11.4286</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>24</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò alcune case, come si evince dalle suppliche indirizzate ai Capitani di parte guelfa, per ottenere l’autorizzazione a tagliare alberi e utilizzare il legname per il restauro degli edifici danneggiati $(350055,350064)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350055</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, numeri neri, filza 431, n.167, Supplica per ottenere il permessso di tagliare sei querce per riparare i danni causati ad alcune abitazioni di Mirabello dal terremoto del 3 agosto 1597, 16 dicembre 1603.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1603</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350064</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, numeri neri, filza 425, n.204, Attestazione dei danni causati a tre abitazione di Mirabello dal terremoto del 3 agosto 1597, 27 settembre 1597.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1597</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

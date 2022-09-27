@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>006770.00</nloc_cfti>
+      <desloc_cfti>Graziani Civalleri</desloc_cfti>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.592</lat_wgs84>
+      <lon_wgs84>7.1978</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34010</nterr>
+      <nperiod>003123</nperiod>
+      <datanum>19590405</datanum>
+      <data_label>1959 04 05</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>10:48:00</time_label>
+      <ora>10</ora>
+      <minu>48</minu>
+      <sec>00</sec>
+      <lat>44.4884</lat>
+      <lon>6.7117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>65</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle dell’Ubaye</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Effetto di risentimento $(691563)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>691563</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1959.04.06, n.14 (edizione del lunedì).</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

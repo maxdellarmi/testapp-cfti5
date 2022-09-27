@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>030784.00</nloc_cfti>
+      <desloc_cfti>Cercivento di Sotto</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>46.5282</lat_wgs84>
+      <lon_wgs84>12.9933</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34024</nterr>
+      <nperiod>003230</nperiod>
+      <datanum>19590426</datanum>
+      <data_label>1959 04 26</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>14:45:13</time_label>
+      <ora>14</ora>
+      <minu>45</minu>
+      <sec>13</sec>
+      <lat>46.4671</lat>
+      <lon>13.0427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>79</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò lesioni in varie abitazioni e la caduta di alcuni comignoli $(691570,672717,672836,455073,455074,455125,455126)$. Il comune di Cercivento fu ammesso dalla legge n.1252 del 20/10/1960 a partecipare della somma di 200 milioni stanziata per il ripristino degli edifici danneggiati $(672609)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>691570</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Padana, 1959.04.28, n.100.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672717</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1959.04.27, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672836</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Adige, 1959.04.28, a.13, n.101.</titolo1>
+      <luogoed>Trento</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455073</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Gazzettino, 1959.04.27, a.73, n.17 (edizione del lunedì).</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Gazzettino, 1959.04.28, a.73, n.101.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455125</codbib>
+      <autore1>*</autore1>
+      <titolo1>Messaggero Veneto, 1959.04.27, a.14, n.17 (edizione del lunedì).</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455126</codbib>
+      <autore1>*</autore1>
+      <titolo1>Messaggero Veneto, 1959.04.28, a.14, n.101.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672609</codbib>
+      <autore1>*</autore1>
+      <titolo1>Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana, a.1960, vol.7, n.1252, Legge 20 ottobre 1960, Provvedimenti a favore dei danneggiati da terremoti in Friuli nella primavera del 1959.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1959</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

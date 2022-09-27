@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072059.00</nloc_cfti>
+      <desloc_cfti>Camerata</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7.5</maxint>
+      <lat_wgs84>43.7991</lat_wgs84>
+      <lon_wgs84>11.2862</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>15327</nterr>
+      <nperiod>002073</nperiod>
+      <datanum>18950518</datanum>
+      <data_label>1895 05 18</data_label>
+      <anno>1895</anno>
+      <mese>05</mese>
+      <giorno>18</giorno>
+      <time_label>19:55:12</time_label>
+      <ora>19</ora>
+      <minu>55</minu>
+      <sec>12</sec>
+      <lat>43.7041</lat>
+      <lon>11.2636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>405</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Fiorentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>13</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò danni leggeri alle abitazioni $(092030)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00406</nterr>
+      <nperiod>002015</nperiod>
+      <datanum>14530928</datanum>
+      <data_label>1453 09 28</data_label>
+      <anno>1453</anno>
+      <mese>09</mese>
+      <giorno>28</giorno>
+      <time_label>22:45</time_label>
+      <ora>22</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.7854</lat>
+      <lon>11.2839</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>6</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Firenze</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350190</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale Centrale di Firenze, II, IV, 128, Nota de tremuoti suti nella cipta de Firenze l’an[n]o 1453.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XV sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350203</codbib>
+      <autore1>Rinuccini Filippo</autore1>
+      <titolo1>Ricordi storici di Filippo di Cino Rinuccini dal 1282 al 1460, colla continuazione di Alamanno e Neri suoi figli fino al 1506, seguiti da altri monumenti inediti di storia patria estratti dai codici originali, ed. G.Aiazzi.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1840</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092030</codbib>
+      <autore1>Raddi A.</autore1>
+      <titolo1>Alcune osservazioni sul terremoto del 18 maggio 1895 in Firenze, in "Giornale scientifico di Palermo", a.4, nn.5-6, pp.1-15.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

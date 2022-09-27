@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>042412.00</nloc_cfti>
+      <desloc_cfti>Verrucola</desloc_cfti>
+      <provlet>MS</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>44.2436</lat_wgs84>
+      <lon_wgs84>10.1364</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00466</nterr>
+      <nperiod>000068</nperiod>
+      <datanum>14810507</datanum>
+      <data_label>1481 05 07</data_label>
+      <anno>1481</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>14:15</time_label>
+      <ora>14</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>44.2751</lat>
+      <lon>10.1294</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>6</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Frazione del Comune di Fivizzano. Il terremoto danneggiò molto gravemente il paese: quasi tutte le case crollarono o furono rese inabitabili $(080095)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>870398</codbib>
+      <autore1>Sforza G.</autore1>
+      <titolo1>Terremoto in Lunigiana, in "Giornale Storico della Lunigiana", a.5, fasc.1, p.53.</titolo1>
+      <luogoed>La Spezia</luogoed>
+      <datacompl>1913</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080095</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Telegrafo, 1920.09.10, a.43, n.193.</titolo1>
+      <luogoed>Livorno</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

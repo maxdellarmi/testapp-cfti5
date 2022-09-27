@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>073654.00</nloc_cfti>
+      <desloc_cfti>San Vincenzo</desloc_cfti>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>46.3107</lat_wgs84>
+      <lon_wgs84>12.8656</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04684</nterr>
+      <nperiod>003196</nperiod>
+      <datanum>17940607</datanum>
+      <data_label>1794 06 07</data_label>
+      <anno>1794</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>00:45</time_label>
+      <ora>00</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>46.3067</lat>
+      <lon>12.8208</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>9</imax>
+      <npun>19</npun>
+      <mm>6</mm>
+      <earthquakelocation>Prealpi carniche</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>2</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Le scosse del 7 giugno danneggiarono molto gravemente l’abitato, causando crolli estesi a gran parte delle case $(002144)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>002144</codbib>
+      <autore1>Ambraseys N.N.</autore1>
+      <titolo1>The Gemona di Friuli Earthquake of 6 May 1976, in "The Gemona di Friuli Earthquake of 6 May 1976", UNESCO, Restricted Technical Report, RP/1975-76/2.222.3, pt.2.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1976</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

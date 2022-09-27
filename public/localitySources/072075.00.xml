@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072075.00</nloc_cfti>
+      <desloc_cfti>Corte</desloc_cfti>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>43.9817</lat_wgs84>
+      <lon_wgs84>11.3879</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00831</nterr>
+      <nperiod>002026</nperiod>
+      <datanum>15970803</datanum>
+      <data_label>1597 08 03</data_label>
+      <anno>1597</anno>
+      <mese>08</mese>
+      <giorno>03</giorno>
+      <time_label>23:40</time_label>
+      <ora>23</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>43.9879</lat>
+      <lon>11.4286</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>24</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Mugello</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto danneggiò 3 case, come si evince dalla supplica indirizzata ai Capitani di parte guelfa, per ottenere l’autorizzazione a tagliare alberi e utilizzare il legname per il restauro degli edifici danneggiati $(350047)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>350047</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Capitani di parte guelfa, numeri neri, filza 430, n.217, Attestazione dei danni causati ad alcune abitazioni di Corte, nei pressi di Figliano, dal terremoto del 3 agosto 1597, 5 gennaio 1602 [secondo lo stile dell’incarnazione al modo fiorentino, 1603 secondo lo stile moderno].</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1603</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

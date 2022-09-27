@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>06030</nterr>
+      <nperiod>000180</nperiod>
+      <datanum>18341004</datanum>
+      <data_label>1834 10 04</data_label>
+      <anno>1834</anno>
+      <mese>10</mese>
+      <giorno>04</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.4805</lat>
+      <lon>11.3188</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>12</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Bolognese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1834.10.08, n.81.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052380</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Firenze, 1834.10.11, n.122.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060008</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Saggio dei materiali per una storia dei fenomeni sismici avvenuti in Italia, raccolti dal prof. Michele Stefano de Rossi, in "Bollettino della Società Geologica Italiana", vol.18, pp.432-460.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091396</codbib>
+      <autore1>Ciuccarelli C. e Mariotti D.</autore1>
+      <titolo1>I terremoti bolognesi del XIX secolo: l’insidia dei piccoli danni, in E.Boschi e E.Guidoboni, "I terremoti a Bologna e nel suo territorio dal XII al XX secolo", pp.149-167, 170-180, 183-186.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091404</codbib>
+      <autore1>Guidoboni E. e Ciuccarelli C.</autore1>
+      <titolo1>Terremoti e monumenti a Bologna, in E.Boschi e E.Guidoboni, "I terremoti a Bologna e nel suo territorio dal XII al XX secolo", pp.317-364.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091407</codbib>
+      <autore1>Ciuccarelli C.</autore1>
+      <titolo1>Il Santuario della Madonna di San Luca: restauri sismici dimenticati, in E.Boschi e E.Guidoboni, "I terremoti a Bologna e nel suo territorio dal XII al XX secolo", pp.391-400.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091410</codbib>
+      <autore1>*</autore1>
+      <titolo1>Documenti e manoscritti inediti sui terremoti a Bologna, in E.Boschi e E.Guidoboni, "I terremoti a Bologna e nel suo territorio dal XII al XX secolo", pp.423-530.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2003</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092155</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Ricerche storiche sugli apparecchi sismici, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.17 (1895), parte I, pp.1-37.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095306</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Fenomeni notati a Parma nell’anno 1834, in "Giornale Astronomico ad uso comune per l’anno MDCCCXXXVIII", a.5, pp.68-73.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1838</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095311</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Bologna, 1834.10.07, n.119.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095312</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Bologna, 1834.10.14, n.125.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095313</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1834.10.22, n.85.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>100195</codbib>
+      <autore1>Respighi L.</autore1>
+      <titolo1>Notizie sul clima bolognese dedotte dalle osservazioni meteorologiche fatte nell’osservatorio della [R.]Università nel trentennio 1814-1843, in "Memorie dell’Accademia delle Scienze dell’Istituto di Bologna", vol.7 (1857).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1857</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130464</codbib>
+      <autore1>Peronaci F.</autore1>
+      <titolo1>Elenco cronologico dei terremoti verificatisi nel territorio nazionale dal 1700 al 1973, Ministero dei Lavori Pubblici (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1974</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320140</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "Passerini Landi" di Piacenza, Manoscritti, Pall.290, Lucini, Memorie e notizie diverse relative agli anni 1815 fino al 1854, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380103</codbib>
+      <autore1>*</autore1>
+      <titolo1>Relazione meteorologica dell’anno 1834, in "Giornale astro-meteorologico per l’anno 1836".</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385181</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Convento di S.Domenico di Bologna, serie III (Bononia), tit.VIII, Liber Consiliorum, 4030 (1765-1893).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1765 - 1893</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385189</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Convento di S.Domenico di Bologna, serie III (Bononia), tit.XIII, Administratio, paragrafo 2, Administratio seu, ut aiunt, Movimento di Cassa, 19200 (1819-1888).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1819 - 1888</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385197</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti del consiglio comunale, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385198</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti del consiglio comunale, 1835, Consiglio del 9 aprile 1835, Verbale della sessione IV, 13 aprile 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385199</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti della Magistratura Comunale, 1834, Verbale della sessione dell’11 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385200</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti della Magistratura Comunale, 1834, Verbale della sessione del 7 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385201</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Atti della Magistratura Comunale, 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385202</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 2, Fabbricati e case, 1834, Istanza di Gaetano Manini per poter demolire i merli del Palazzo degli Strazzaroli di sua proprietà lesionati dalle scosse di terremoto, Bologna 13 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385203</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 2, Fabbricati e case, 1834, Relazione dell’ingegnere Filippo Miserocchi della visita eseguita nel Palazzo degli Strazzaroli, Bologna 30 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385204</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 2, Fabbricati e case, 1834, Istanza di Giacobbi Maria inquilina della casa di via Castiglione n.404 per ottenere il restauro dell’abitazione danneggiata dalle scosse di terremoto, [Bologna] 17 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 2, Fabbricati e case, 1834, Relazione dell’Ingegnere Filippo Miserocchi della visita eseguita nella casa in via Castiglione n.404 abitata da Giacobbi Maria, [Bologna] 15 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385206</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 6, Ornati e monumenti, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385207</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubrica 8, Risarcimenti di fabbriche, 1834, Proposta della Deputazione d’Ornato per la pubblicazione di un avviso relativo al controllo dei camini delle abitazioni lesionati dalle scosse di terremoto, Bologna 11 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385208</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo IX (Fondi nazionali e comunali), rubriche 3, Caseggiati comunali, 4, Caseggiati nazionali, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385209</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Bologna, Carteggio amministrativo, titolo XVII (Strade e fabbricati), rubriche 2, Fabbricati e case, 6, Ornati e monumenti, 8, Risarcimenti di fabbriche, 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385211</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XXVII (Strade e fabbricati), rubriche 9 Fabbricati e case, 10, Ornati e Monumenti, 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385212</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Lettera dell’ingegnere in capo della Legazione di Bologna Vecchi al Prolegato relativa alla perizia eseguita nel Palazzo Apostolico danneggiato dalle scosse di terremoto, Bologna 16 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385213</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Perizia dei danni causati dalle scosse di terremoto nel Palazzo Apostolico redatta dall’Ingegnere Filippo Antolini, Bologna 13 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385214</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Minuta di lettera del Prolegato di Bologna Scarselli al cardinale Commissario Straord[inari]o relativa ai lavori necessari nel Palazzo Apostolico danneggiato dalle scosse di terremoto, Bologna 18 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385215</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3 Caseggiati ecclesiastici e camerali, 1834, Lettera del Procommissario pontificio al Prolegato di Bologna relativa ai lavori necessari nel Palazzo Apostolico danneggiato dalle scosse di terremoto, Bologna 21 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385216</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Lettera del Procommissario pontificio al Prolegato di Bologna, Bologna 17 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385217</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Lettera del vicepresidente del Tribunale di prima istanza di Bologna Pacifico Maceti al Prolegato Scarselli relativa ai danni causati nell’ospedale carcerario della Carità dalla scossa di terremoto del 4 ottobre 1834, Bologna 6 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385218</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Lettera dell’ingegnere in capo Gregorio Vecchi al Prolegato di Bologna, Bologna 13 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385219</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI, (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Perizia preventiva onde riparare ai guasti prodotti dalle replicate scosse di terremoto nel Fabbricato dell’Ospitale Carcerario nella Carità in Bologna, Bologna 6 novembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385220</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Lettera del Tesoriere Generale della Camera Apostolica al Prolegato di Bologna, Roma 4 dicembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385221</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1834, Verbale della gara d’appalto per i lavori di restauro dell’ospedale carcerario nella Carità danneggiato dalla scossa di terremoto del 4 ottobre 1834, Bologna 19 dicembre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385222</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XI (Fondi nazionali e comunali), rubrica 3, Caseggiati ecclesiastici e camerali, 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385223</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Legazione apostolica, Atti generali, titolo XXVII (Strade e fabbricati), rubriche 9, Fabbricati e case ,10, Ornati e Monumenti, 1835.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1835</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385224</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Archivio Storico dell’Istituto di cura e riposo Giovanni XXIII, Opera Pia dei Mendicanti, b.30, Sedute della Commissione dell’Opera Mendicanti dall’anno 1831 al 1839.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1831 - 1839</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385225</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Archivio Storico dell’Istituto di cura e riposo Giovanni XXIII, Opera Pia dei Mendicanti, b.208, Foglietti del fattore di campagna (1834-1843).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834 - 1843</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385296</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, Edilizia, b.871, Chiese (1825-1934), Relazione tecnica sulla visita eseguita al Santuario della B[eata] V[ergine] di S.Luca in seguito al terremuoto del 24 gennaio 1881, [Bologna] 7 febbraio 1881.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1881</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385297</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bologna, Corpo Reale del Genio Civile, Edilizia, b.871, Chiese (1825-1934), Relazione tecnica sulla seconda visita eseguita al Santuario della B[eata] V[ergine] di S.Luca in seguito a nuove scosse di terremuoto, Bologna 9 maggio 1881.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1881</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385309</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Arcivescovile di Bologna, Archivio Capitolare di S.Pietro, Libri secreti, XI (1778-1841), c.270, Memoria del triduo celebrato dal 9 all’11 ottobre 1834 nella basilica di S.Petronio in seguito alla scossa di terremoto avvertita a Bologna il 4 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385316</codbib>
+      <autore1>Sgargi L.</autore1>
+      <titolo1>Parrocchia di S.Maria della Carità di Bologna. Memorie storiche raccolte da L. S.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1841</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385328</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Opera Pia dei Poveri Vergognosi di Bologna, Atti della Commissione amministratriva dell’Opera Vergognosi e delle Aziende Unite (1832-1834).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1832 - 1834</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385329</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Opera Pia dei Poveri Vergognosi di Bologna, Archivio Scarani, X72, Cartone della gestione tenuta da Nicolò de Scarani della fabbrica della B[eata] V[ergine] di S.Luca (1822-1856), Quaderno di Cassa del Sig[no]r Padrone quale Tesoriere della B[eata] V[ergine] di S.Luca scritto da Francesco Pietra (1832-1834), Nota di spesa relativa alla visita effettuata per verificare eventuali danni causati dal terremoto alla cupola della chiesa di S.Luca, 31 ottobre 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385330</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Opera Pia dei Poveri Vergognosi di Bologna, Archivio contabile, B120, Quaderno di cassa (1831-1836).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1831 - 1836</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385717</codbib>
+      <autore1>Pagani L.</autore1>
+      <titolo1>Descrizione d’un nuovo sismometro, il quale assai meglio degli altri fino ad ora conosciuti, serve all’uopo, inventato dal meccanico Luigi Pagani bolognese.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1842</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385718</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuovo sismometro o misuratore della direzione del terremoto; inventato dal meccanico Luigi Pagani Bolognese, in "Bullettino delle cognizioni industriali dilettevoli e scientifiche", a.1836, fasc.12, pp.186-189.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1836</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385719</codbib>
+      <autore1>*</autore1>
+      <titolo1>Nuovo sismometro o misuratore della direzione del terremoto; inventato dal meccanico Luigi Pagani Bolognese, in "Il Caffè di Petronio. Notizie urbane, letterarie, artistiche e commerciali", a.3, n.17, 21 aprile 1841, pp.66-67.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1841</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>385720</codbib>
+      <autore1>Bertelli T.</autore1>
+      <titolo1>Sismometro Pagani, in "Bullettino del Vulcanismo Italiano e di Geodinamica Generale", a.15, n.6-7, giugno-luglio 1888, p.80.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410081</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Comunale di Cento, Manoscritti, 3.3.146-149, Francesco Lenzi, Notizie intorno alla città di Cento dall’anno 1815 al 1879, 4 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Carpi, Archivio nuovo, filza C/2, Giuseppe Saltini, Memorie (o cronaca) di Carpi tenute in regola da me Giuseppe Saltini, della stessa città dall’anno 1796 all’anno 1864, 8 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale di Correggio, Archivio di memorie patrie, b.154, fasc.1, Diario di notizie patrie ed estere (1806-1839), sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1806 - 1839</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440064</codbib>
+      <autore1>Chistoni C.</autore1>
+      <titolo1>Notizie sui terremoti avvertiti a Modena dal 1830 al 1895 ricavate dal registro del Real Osservatorio, in "Memorie della Regia Accademia di Scienze Lettere ed Arti di Modena", s.II, vol.12, pp.LXIX-LXXXIII.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470467</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1834.10.11, n.41.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470468</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Universale, 1834.10.18, n.42.</titolo1>
+      <luogoed>Foligno</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470736</codbib>
+      <autore1>*</autore1>
+      <titolo1>Diario di Roma, 1834.10.11, n.81.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490170</codbib>
+      <autore1>Colla A.</autore1>
+      <titolo1>Terremoti sentiti in diverse parti del Globo nell’anno 1834, in "Biblioteca Italiana", a.20, tomo 78 (aprile-giugno 1835), pp.144-147.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1835</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490358</codbib>
+      <autore1>Pescatori A.</autore1>
+      <titolo1>Il declino di un Ducato (1831-1859), a cura di G.Capacchi e G.Zarattini, in "Quaderni Parmigiani", n.5.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1974</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600619</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale del Regno delle Due Sicilie, 1834.10.17.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691270</codbib>
+      <autore1>Davia E.</autore1>
+      <titolo1>Cronistoria del terremoto a Ferrara, in "Il Duca", a.2, n.3, pp.1-2, n.5, pp.6-7, n.6, pp.6-7.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692010</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti, cl.I, 596, Guido Pozzati, Memorie patrie ferraresi dal 1007 a tutto il 1835, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700038</codbib>
+      <autore1>Benassi P.</autore1>
+      <titolo1>Materiali per la storia dei fenomeni sismici della regione parmense.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870060</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1834.10.15, n.83.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>930004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio geofisico dell’Università di Modena, Registro delle osservazioni meteorologiche dell’anno 1834.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1834</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940158</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Privilegiata di Venezia, 1834.10.14, n.233.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1834</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Gaibola</desloc>
+      <lat_wgs84>44.4622</lat_wgs84>
+      <lon_wgs84>11.3183</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>039303.00</nloc_cfti>
+      <desloc_cfti>Gaibola</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Madonna di San Luca</desloc>
+      <lat_wgs84>44.4808</lat_wgs84>
+      <lon_wgs84>11.2985</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>074015.00</nloc_cfti>
+      <desloc_cfti>Madonna di San Luca</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cento</desloc>
+      <lat_wgs84>44.7276</lat_wgs84>
+      <lon_wgs84>11.2891</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>040433.00</nloc_cfti>
+      <desloc_cfti>Cento</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Maddalena di Cazzano</desloc>
+      <lat_wgs84>44.5788</lat_wgs84>
+      <lon_wgs84>11.4924</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>039335.00</nloc_cfti>
+      <desloc_cfti>Maddalena di Cazzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Carpi</desloc>
+      <lat_wgs84>44.7848</lat_wgs84>
+      <lon_wgs84>10.8846</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>038203.00</nloc_cfti>
+      <desloc_cfti>Carpi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Correggio</desloc>
+      <lat_wgs84>44.7719</lat_wgs84>
+      <lon_wgs84>10.7788</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>037489.00</nloc_cfti>
+      <desloc_cfti>Correggio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>06030</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

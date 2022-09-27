@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00713</nterr>
+      <nperiod>002025</nperiod>
+      <datanum>15541128</datanum>
+      <data_label>1554 11 28</data_label>
+      <anno>1554</anno>
+      <mese>11</mese>
+      <giorno>28</giorno>
+      <time_label>19:00</time_label>
+      <ora>19</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>43.7779</lat>
+      <lon>11.2486</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>6.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.9</mm>
+      <earthquakelocation>Firenze</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata condotta una ricerca su fonti edite e inedite che ha consentito di precisare le informazioni precedenti basate su Baratta (1901) $(000001)$.&lt;br&gt;Baratta desunse la notizia dallo studio dei terremoti storici fiorentini di Giovannozzi (1895) $(092017)$ che, a sua volta, utilizzò le memorie settecentesche di Francesco Settimanni (Archivio di Stato di Firenze, Manoscritti, 125-147) $(350025)$. Nell’appendice al catalogo Baratta integrò le informazioni precedenti con le notizie desunte dal cronista coevo Bernardo Segni (ed. Gargani 1857) $(350020)$, il quale conferma l’evento e la portata dei danni causati a Firenze. Il terremoto è anche ricordato, con lieve imprecisione cronologica riguardante il giorno del terremoto (29 novembre), nel diario manoscritto di Recco Spinelli, priorista fiorentino del XVI secolo (Archivio di Stato di Firenze, Manoscritti, 238) $(350081)$. Segni ricorda che l’evento non fu quasi avvertito nel circondario della città; tale notizia fu ripresa da Mecatti (1755) $(350145)$. Ciò sembra indicare che questa scossa non sia il risentimento di qualche terremoto lontano, ma un evento di origine locale.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto avvenne il giorno 28 novembre 1554, circa alle ore 19.05 GMT, colpì Firenze, dove fece cadere numerosi comignoli. La scossa fu scarsamente avvertita nel circondario della città.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091426</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca fiorentina 1537-1555, a cura di E.Coppi (Documenti di storia italiana, s.II, vol.7, Deputazione di Storia Patria per la Toscana).</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>2000</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092017</codbib>
+      <autore1>Giovannozzi G.</autore1>
+      <titolo1>I terremoti storici fiorentini, in "La Rassegna Nazionale", a.17, vol.84, fasc.2, pp.122-131.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350020</codbib>
+      <autore1>Segni B.</autore1>
+      <titolo1>Istorie fiorentine dall’anno 1527 al 1555, pubblicate per cura di G.Gargani, giusta una copia scritta da Scipione Ammirato.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1857</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 125-147, Francesco Settimanni, Memorie fiorentine, 18 voll., sec.XVIII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVIII sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350081</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Firenze, Manoscritti, 238, Recco Spinelli, Priorista fiorentino di ser Recco Spinelli e diari antichi e moderni di vari scrittori, sec.XVI.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVI sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350145</codbib>
+      <autore1>Mecatti G.M.</autore1>
+      <titolo1>Storia cronologica della città di Firenze, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1755</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Firenze</desloc>
+      <lat_wgs84>43.7779</lat_wgs84>
+      <lon_wgs84>11.2486</lon_wgs84>
+      <provlet>FI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>00713</nterr>
+      <nloc_cfti>045020.00</nloc_cfti>
+      <desloc_cfti>Firenze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di numerosi comignoli; fu scarsamente avvertita nel circondario $(350020,350025,350081,350025,350145)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>052014.00</nloc_cfti>
+      <desloc_cfti>Gagliannuovo</desloc_cfti>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.2642</lat_wgs84>
+      <lon_wgs84>13.1868</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04785</nterr>
+      <nperiod>003103</nperiod>
+      <datanum>17990728</datanum>
+      <data_label>1799 07 28</data_label>
+      <anno>1799</anno>
+      <mese>07</mese>
+      <giorno>28</giorno>
+      <time_label>22:05</time_label>
+      <ora>22</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>43.2189</lat>
+      <lon>13.1472</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9.5</imax>
+      <npun>70</npun>
+      <mm>6.2</mm>
+      <earthquakelocation>Appennino marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Da una parziale trascrizione del "Libro dei battesimi" della parrocchia di S.Giuseppe di San Severino, riportata in Paciaroni (1989), si evince che il villaggio fu quasi interamente distrutto; le 52 famiglie (270 persone) che componevano il villaggio si accamparono in capanne $(095622)$. La chiesa di S.Croce e l’annessa canonica subirono danni gravissimi $(673160)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>095622</codbib>
+      <autore1>Paciaroni R.</autore1>
+      <titolo1>Memorie sismiche sanseverinati.</titolo1>
+      <luogoed>San Severino Marche</luogoed>
+      <datacompl>1989</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>673160</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Sacra Congregatio Concilii, Relationes dioecesium, b.745 B, Sancti Severini II, Relazione del vescovo Angelo Antonio Anselmi al papa Pio VII, San Severino Marche 27 novembre 1801.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1801</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

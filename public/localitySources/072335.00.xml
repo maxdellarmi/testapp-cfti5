@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>072335.00</nloc_cfti>
+      <desloc_cfti>Sciare Torrisi</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>8.5</maxint>
+      <lat_wgs84>37.6556</lat_wgs84>
+      <lon_wgs84>15.107</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14902</nterr>
+      <nperiod>003039</nperiod>
+      <datanum>18940808</datanum>
+      <data_label>1894 08 08</data_label>
+      <anno>1894</anno>
+      <mese>08</mese>
+      <giorno>08</giorno>
+      <time_label>05:16:00</time_label>
+      <ora>05</ora>
+      <minu>16</minu>
+      <sec>00</sec>
+      <lat>37.6564</lat>
+      <lon>15.1138</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>40</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>8</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>La scossa causò la distruzione di molte case, lesioni gravi nelle rimanenti, crollo di muri a secco $(145186)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145186</codbib>
+      <autore1>Imbò G.</autore1>
+      <titolo1>I terremoti etnei, Pubblicazioni della Commissione Italiana per lo studio delle grandi calamità, vol.5, pt.1.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1935</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

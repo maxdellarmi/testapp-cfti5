@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>063030.00</nloc_cfti>
+      <desloc_cfti>Ginestra</desloc_cfti>
+      <provlet>PZ</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>40.9304</lat_wgs84>
+      <lon_wgs84>15.7342</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07534</nterr>
+      <nperiod>001034</nperiod>
+      <datanum>18510814</datanum>
+      <data_label>1851 08 14</data_label>
+      <anno>1851</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9531</lat>
+      <lon>15.6667</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>103</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>17</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7.5</intpqnum>
+      <intpq>VII-VIII</intpq>
+      <D1>Il terremoto causò lesioni in molte abitazioni $(300191)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01108</nterr>
+      <nperiod>003084</nperiod>
+      <datanum>16880605</datanum>
+      <data_label>1688 06 05</data_label>
+      <anno>1688</anno>
+      <mese>06</mese>
+      <giorno>05</giorno>
+      <time_label>15:30</time_label>
+      <ora>15</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.2836</lat>
+      <lon>14.561</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Sannio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>22</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>Il terremoto fu avvertito; non sono segnalati danni $(350223)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il censimento ISTAT del 1931 riporta che il paese aveva una popolazione di 776 abitanti $(391568)$.&lt;br&gt;Si ebbero 3 morti e 10 feriti, le case inabitabili furono 100 $(300342,420288,030607,120018,130628,300288,671368)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>300191</codbib>
+      <autore1>Paci G.M.</autore1>
+      <titolo1>Relazione dei tremuoti di Basilicata del 1851.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1853</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350223</codbib>
+      <autore1>Sarnelli P.</autore1>
+      <titolo1>Memorie dell’insigne Collegio di S.Spirito della Città di Benevento dall’anno della fondazione 1177 infino al tremuoto de’ 5 di Giugno 1688, che si descrive.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1688</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300342</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere della Sera, 1930.07.24.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420288</codbib>
+      <autore1>*</autore1>
+      <titolo1>Corriere Emiliano. Gazzetta di Parma, 1930.07.24, a.175, n.174.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030607</codbib>
+      <autore1>Galli E.</autore1>
+      <titolo1>I monumenti Lucani colpiti dal terremoto, in "Le Vie d’Italia. Rivista mensile del Touring Club Italiano", a.36, n.11, pp.873-879.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>120018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Bari, Prefettura, Gabinetto, b.168, Telegramma numero 8 dell’Agenzia Stefani sulle prime notizie relative ai danni e morti a seguito del terremoto notte 23 luglio 1930, Roma 23 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130628</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale di Basilicata, 1930.07.26-27, n.30.</titolo1>
+      <luogoed>Potenza</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300288</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Stampa, 1930.07.24.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>671368</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Federazione nazionale fascista proprietari di fabbricati, categoria X, sezione 7, b.2A, fasc. Terremoto del Vulture, Relazione della Delegazione di Potenza alla Federazione nazionale fascista proprietari di fabbricati sui danni causati dal terremoto del 23 luglio 1930, Potenza 28 luglio 1930.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1930</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

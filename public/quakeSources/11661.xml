@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>11661</nterr>
+      <nperiod>000241</nperiod>
+      <datanum>18820215</datanum>
+      <data_label>1882 02 15</data_label>
+      <anno>1882</anno>
+      <mese>02</mese>
+      <giorno>15</giorno>
+      <time_label>00:10</time_label>
+      <ora>00</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>44.8044</lat>
+      <lon>9.1304</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.5</mm>
+      <earthquakelocation>Val Curone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000122</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino decadico dell’Associazione meteorologica italiana pubblicato per cura dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, a.11 (dicembre 1881-novembre 1882).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020907</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Scintilla, 1881-1882.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1881 - 1882</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021246</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Riviste sismiche e quadri sinottici delle osservazioni sui fenomeni endogeni col confronto di altri fenomeni [gennaio-marzo 1882], in "Bullettino del Vulcanismo Italiano", a.9, pp.153-185.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030205</codbib>
+      <autore1>*</autore1>
+      <titolo1>Feuille d’Aoste, 1855-1900.</titolo1>
+      <luogoed>Aosta</luogoed>
+      <datacompl>1855 - 1900</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030212</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Alba, 1882-1945.</titolo1>
+      <luogoed>Alba</luogoed>
+      <datacompl>1882 - 1945</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030229</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia Pavese, 1882-1917.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl>1882 - 1917</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030234</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvisatore Alessandrino, 1873-1891.</titolo1>
+      <luogoed>Alessandria</luogoed>
+      <datacompl>1873 - 1891</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030238</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sesia, 1871-1980.</titolo1>
+      <luogoed>Vercelli</luogoed>
+      <datacompl>1871 - 1980</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030252</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere Astigiano, 1872-1891.</titolo1>
+      <luogoed>Asti</luogoed>
+      <datacompl>1872 - 1891</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030269</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Progresso, 1873-1897.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1873 - 1897</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070220</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.2.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080129</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Il terremoto vogherese del 17 ottobre 1894 e sulla attività sismica nell’appennino pavese, in "Rendiconti del Regio Istituto Lombardo di Scienze, Lettere ed Arti", s.II, vol.28, pp.178-193.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1895</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080189</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Sentinella delle Alpi, 1870-1917.</titolo1>
+      <luogoed>Cuneo</luogoed>
+      <datacompl>1870 - 1917</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080197</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mondovì, 1881-1962.</titolo1>
+      <luogoed>Mondovì</luogoed>
+      <datacompl>1881 - 1962</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080201</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Fossanese, 1881-1967.</titolo1>
+      <luogoed>Fossano (CN)</luogoed>
+      <datacompl>1881 - 1967</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090313</codbib>
+      <autore1>Fuchs C.W.C.</autore1>
+      <titolo1>Statistik der Erdbeben von 1865 bis 1885, in "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe", band 92, heft 3, pp.215-625.</titolo1>
+      <luogoed>Wien</luogoed>
+      <datacompl>1886</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "Passerini Landi" di Piacenza, Schedario Rapetti, "Terremoto", sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450100</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Dora Baltea, 1875-1882.</titolo1>
+      <luogoed>Ivrea</luogoed>
+      <datacompl>1875 - 1882</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>460005</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Nazione, 1882.02.17.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1882</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Cabella Ligure (AL), Deliberazioni del Consiglio comunale, 1876-1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876 - 1915</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640018</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Novi Ligure (AL), Deliberazioni originali del Consiglio comunale, 1881-1883.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1881 - 1883</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640023</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Novi Ligure (AL), Deliberazioni originali della Giunta comunale, 1881-1883.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1881 - 1883</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640037</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Serravalle Scrivia (AL), Deliberazioni vistate, n.39, 1880-1886.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1880 - 1886</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650030</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Gazzetta d’Acqui, 1879-1921.</titolo1>
+      <luogoed>Acqui Terme</luogoed>
+      <datacompl>1879 - 1921</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>650156</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Alessandria, Archivio Storico del Comune, serie III, cat.9, nn.1708-1717, Terremoti ed inondazioni, 1823-1889.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1823 - 1889</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>660014</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Garbagna (AL), Deliberazioni del Consiglio comunale, 1877-1884.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1877 - 1884</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>660027</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Borghetto di Borbera (AL), Sicurezza pubblica, 1882.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1882</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>660053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Villalvernia (AL), Deliberazioni del Consiglio comunale, 1876-1887.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1876 - 1887</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>660058</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico del Comune di Villalvernia (AL), Verbali della Giunta municipale, 1877-1887.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1877 - 1887</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>San Sebastiano Curone</desloc>
+      <lat_wgs84>44.7853</lat_wgs84>
+      <lon_wgs84>9.0642</lon_wgs84>
+      <provlet>AL</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11661</nterr>
+      <nloc_cfti>009051.00</nloc_cfti>
+      <desloc_cfti>San Sebastiano Curone</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Varzi</desloc>
+      <lat_wgs84>44.8235</lat_wgs84>
+      <lon_wgs84>9.1966</lon_wgs84>
+      <provlet>PV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11661</nterr>
+      <nloc_cfti>018322.00</nloc_cfti>
+      <desloc_cfti>Varzi</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

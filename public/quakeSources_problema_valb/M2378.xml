@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>MED</cat>
+      <nterr>M2378</nterr>
+      <nperiod>M20213</nperiod>
+      <datanum>14940701</datanum>
+      <data_label>1494 07 01</data_label>
+      <anno>1494</anno>
+      <mese>07</mese>
+      <giorno>01</giorno>
+      <time_label>10:10</time_label>
+      <ora>10</ora>
+      <minu>10</minu>
+      <sec></sec>
+      <lat>35.2665</lat>
+      <lon>25.0335</lon>
+      <rel></rel>
+      <level></level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>2</npun>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Crete island</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Greece</country>
+      <flagcomments></flagcomments>
+      <flagfalseeq></flagfalseeq>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios/>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Crete Island</desloc>
+      <lat_wgs84>35.2</lat_wgs84>
+      <lon_wgs84>24.917</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Greece</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>M2378</nterr>
+      <nloc_cfti>082274.00</nloc_cfti>
+      <desloc_cfti>Crete Island</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Iraklion</desloc>
+      <lat_wgs84>35.333</lat_wgs84>
+      <lon_wgs84>25.15</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Greece</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>M2378</nterr>
+      <nloc_cfti>082052.00</nloc_cfti>
+      <desloc_cfti>Iraklion</desloc_cfti>
+      <notesito>Candia</notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>091001.00</nloc_cfti>
+      <desloc_cfti>Dalmazia centrale</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>43.7507</lat_wgs84>
+      <lon_wgs84>15.8333</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42026</nterr>
+      <nperiod>009056</nperiod>
+      <datanum>13030800</datanum>
+      <data_label>1303 08 -</data_label>
+      <anno>1303</anno>
+      <mese>08</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>43.7676</lat>
+      <lon>14.0246</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>4</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Medio Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Il terremoto causò estese distruzioni in una città non precisata, che fu colpita anche da un maremoto $(090015)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090015</codbib>
+      <autore1>*</autore1>
+      <titolo1>Chronicon Parmense ab anno 1038 usque ad annum 1338, ed. G.Bonazzi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 9, parte 9.</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1902 - 1904</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>670004</codbib>
+      <autore1>Ricobaldus Ferrariensis</autore1>
+      <titolo1>Pomarium Ravennatis ecclesiae [700-1297], in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 9, coll.107-186.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1726</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

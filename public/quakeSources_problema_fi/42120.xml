@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42120</nterr>
+      <nperiod>009094</nperiod>
+      <datanum>14970303</datanum>
+      <data_label>1497 03 03</data_label>
+      <anno>1497</anno>
+      <mese>03</mese>
+      <giorno>03</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.2507</lat>
+      <lon>9.9163</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.8</mm>
+      <earthquakelocation>Lunigiana</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;La fonte è l’autorevole "Diario ferrarese" di Bernardino Zambotti, che copre l’arco cronologico dal 1476 al 1504 (ed. 1934) $(090049)$. L’autore, contemporaneo ai fatti che racconta, apparteneva ad una agiata famiglia ferrarese; ricoprì numerosi incarichi pubblici e insegnò all’Università di Ferrara. Allo stato attuale della ricerca è possibile fare solo un numero limitato di osservazioni sull’area colpita dal terremoto. Zambotti ricorda che il terremoto avvenne nelle terre del marchese "Spineta": si tratta assai probabilmente di Gian Spinetta Malaspina (morto nel 1528). Questo personaggio era marchese di Licciana, Bastia, Podenzana e Terrarossa, località situate nella valle del torrente Taverone, un affluente di sinistra del fiume Magra. Il fatto che quest’area fosse prossima alla regione della Garfagnana, che apparteneva ai duchi di Ferrara, spiega come mai le notizie del terremoto fossero arrivate a Ferrara, che dista circa 150 km dall’area colpita dal terremoto.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 3 marzo 1497 un terremoto colpì l’area della Lunigiana corrispondente al bacino del fiume Magra situato nella parte più settentrionale della Toscana, al confine con l’Emilia orientale e la Liguria orientale. Molte case e tre castelli crollarono causando la morte di molte persone. Quest’area di trovava al confine con la Garfagnana appartenente ai duchi di Ferrara: ciò spiega come a Ferrara fosse giunta la notizia di questo terremoto, pur lontano circa 150 chilometri.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090049</codbib>
+      <autore1>Zambotti Bernardino</autore1>
+      <titolo1>Diario Ferrarese (1476-1504), ed. G.Pardi, in "Rerum Italicarum Scriptores", 2ª ed., tomo 24, parte 7, vol.2, pp.3-359.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1934</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Lunigiana</desloc>
+      <lat_wgs84>44.2507</lat_wgs84>
+      <lon_wgs84>9.9163</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>42120</nterr>
+      <nloc_cfti>090225.00</nloc_cfti>
+      <desloc_cfti>Lunigiana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fu fortissimo: molte case e tre castelli crollarono causando la morte di molte persone $(090049)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

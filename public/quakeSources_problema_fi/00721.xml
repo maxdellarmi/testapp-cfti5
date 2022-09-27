@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00721</nterr>
+      <nperiod>003075</nperiod>
+      <datanum>15600511</datanum>
+      <data_label>1560 05 11</data_label>
+      <anno>1560</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>04:40</time_label>
+      <ora>04</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>41.249</lat>
+      <lon>16.4847</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>7</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Barletta-Bisceglie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e sono state analizzate nuove fonti cronachistiche coeve che hanno permesso di precisare l’area di risentimento.&lt;br&gt;Il "Giornale" manoscritto di Girolamo Seripando (Biblioteca Nazionale di Napoli) $(370049)$ e la continuazione scritta da Colanello Pacca al "Compendio" di Collenuccio e Roseo $(410283)$ ricordano che il terremoto fu sentito a Napoli e nella provincia di Terra di Lavoro. I notai baresi Cardassi registrarono succintamente la scossa nelle loro memorie manoscritte (Biblioteca Nazionale di Bari) $(310077)$. Sono state esaminate anche opere di storiografia locale dal XVII al XX secolo, che menzionano l’evento senza, tuttavia, aggiungere dettagli informativi $(310054,110184,310068,310010,310028,310134,310059)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C7</codtab>
+      <testocomm>Da alcuni studi sui monumenti della Puglia risulta che uno dei campanili della cattedrale di Giovinazzo, probabilmente danneggiato dal sisma, venne rinforzato con la costruzione di nuove mura $(110184,310054)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto colpì in particolare alcuni centri della costa pugliese, causando gravi danni a Barletta e a Bisceglie, dove vi furono crolli e morti non meglio precisati; a Giovinazzo furono danneggiati alcuni vecchi edifici e fu lesionata una delle torri campanarie della Cattedrale. La scossa fu sentita fortemente, ma senza danni, a Molfetta e a Bari; leggermente a Napoli e in gran parte della Campania.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa principale dell’11 maggio 1560 risulta avvenuta poco prima dell’alba (4:40 GMT) secondo un cronista di Bitonto $(110001)$ o alcune ore prima dell’alba secondo altri autori. In generale l’orario oscilla fra le 2 e le 4:40 GMT.&lt;br&gt;Il 18 maggio si ebbe una replica sensibile alle 9 italiane.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Vescovile "Monsignor Aurelio Marena" di Bitonto, Carte varie della confraternita dell’Immacolata, Nunzio Vincenzo Cerrotti, Cronaca delle più gravi calamità successe in Bitonto (1560-1903).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110003</codbib>
+      <autore1>Bovio G.A.</autore1>
+      <titolo1>Breve historia dell’origine, fondatione e miracoli della devota chiesa de S.Maria de’ Marteri di Molfetta.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1635</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110151</codbib>
+      <autore1>Panza G.F. e Calcagnile G.</autore1>
+      <titolo1>Rischio sismico in Puglia, in "Continuità", a.11 (1977), fasc.1, pp.35-40.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110184</codbib>
+      <autore1>Avena A.</autore1>
+      <titolo1>Monumenti dell’Italia meridionale.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1902</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca della Società Napoletana di Storia Patria, Fondo sismico, 7/A3, Colanello Pacca, Discorso del terremoto, 1563-1580.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1563 - 1580</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300276</codbib>
+      <autore1>Salvemini A.</autore1>
+      <titolo1>Saggio Storico della città di Molfetta.</titolo1>
+      <luogoed>Molfetta</luogoed>
+      <datacompl>1953</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310010</codbib>
+      <autore1>Roscini F.</autore1>
+      <titolo1>Giovinazzo nella storia.</titolo1>
+      <luogoed>Giovinazzo</luogoed>
+      <datacompl>1966</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310028</codbib>
+      <autore1>Daconto S.</autore1>
+      <titolo1>Saggio storico sulla antica città di Giovinazzo.</titolo1>
+      <luogoed>Giovinazzo</luogoed>
+      <datacompl>1927</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310054</codbib>
+      <autore1>Roscini F.</autore1>
+      <titolo1>Storia della sede vescovile di Giovinazzo.</titolo1>
+      <luogoed>Giovinazzo</luogoed>
+      <datacompl>1964</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310059</codbib>
+      <autore1>La Sorsa S.</autore1>
+      <titolo1>Leggende di Puglia.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1958</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310068</codbib>
+      <autore1>Romano M.</autore1>
+      <titolo1>Saggio sulla storia di Molfetta</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1842</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Sagarriga Visconti-Volpe" di Bari, Manoscritti, I/67, S.Cardassi e C.Cardassi, Memorie, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310134</codbib>
+      <autore1>De Marco G.</autore1>
+      <titolo1>Molfetta tra passato e presente.</titolo1>
+      <luogoed>Molfetta</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370049</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Vittorio Emanuele III" di Napoli, Manoscritti, IX.C.42, Girolamo Seripando, Giornale dal 1513 al 1562.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1513 - 1562</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410283</codbib>
+      <autore1>Collenuccio P., Roseo M., Pacca C. e Costo T.</autore1>
+      <titolo1>Compendio dell’istoria del Regno di Napoli diviso in tre parti, 3 voll., in "Raccolta di tutti i più rinomati scrittori dell’istoria generale del Regno di Napoli", tomi 17-19.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1771</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900072</codbib>
+      <autore1>Parrino D.A.</autore1>
+      <titolo1>Teatro eroico, e politico de’ governi de’ Viceré del Regno di Napoli dal tempo di Re Ferdinando il Cattolico fin’all’anno 1683, regnando la felice memoria di Carlo Secondo nel quale si narrano i fatti più illustri, e singolari.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1730</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Barletta</desloc>
+      <lat_wgs84>41.3186</lat_wgs84>
+      <lon_wgs84>16.2793</lon_wgs84>
+      <provlet>BT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062301.00</nloc_cfti>
+      <desloc_cfti>Barletta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò crollo di edifici e vittime $(410283)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Bisceglie</desloc>
+      <lat_wgs84>41.2412</lat_wgs84>
+      <lon_wgs84>16.5021</lon_wgs84>
+      <provlet>BT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062304.00</nloc_cfti>
+      <desloc_cfti>Bisceglie</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto causò crollo di edifici e vittime $(410283)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Giovinazzo</desloc>
+      <lat_wgs84>41.1871</lat_wgs84>
+      <lon_wgs84>16.6727</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062338.00</nloc_cfti>
+      <desloc_cfti>Giovinazzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Gravi danni al più grande dei due campanili della Cattedrale (torre di sud-est) e genericamente all’abitato sono documentati dalla storiografia locale $(310028)$. I danni furono restaurati con consistenti opere di rinforzo e rinfoderatura delle murature $(110184)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bari</desloc>
+      <lat_wgs84>41.1072</lat_wgs84>
+      <lon_wgs84>16.8467</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062294.00</nloc_cfti>
+      <desloc_cfti>Bari</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Forte risentimento ricordato da cronisti cinquecenteschi e nelle memorie manoscritte dei notai baresi Cardassi $(310077,410283)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bitonto</desloc>
+      <lat_wgs84>41.1084</lat_wgs84>
+      <lon_wgs84>16.6907</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062306.00</nloc_cfti>
+      <desloc_cfti>Bitonto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò panico nella popolazione e negli animali; non sono ricordati danni $(110001)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Molfetta</desloc>
+      <lat_wgs84>41.2005</lat_wgs84>
+      <lon_wgs84>16.5974</lon_wgs84>
+      <provlet>BA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>062360.00</nloc_cfti>
+      <desloc_cfti>Molfetta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu sentita fortemente: la popolazione uscì dalle case per lo spavento, ma non vi furono danni agli edifici $(110003)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>00721</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu sentita debolmente $(410283,130390,370049)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

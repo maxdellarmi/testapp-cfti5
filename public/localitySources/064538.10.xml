@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>064538.10</nloc_cfti>
+      <desloc_cfti>Briatico Vecchio</desloc_cfti>
+      <provlet>VV</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>6</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>38.7079</lat_wgs84>
+      <lon_wgs84>16.0231</lon_wgs84>
+      <notesito>La località ha cambiato sito dopo il terremoto del 1783.</notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02700</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830205</datanum>
+      <data_label>1783 02 05</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>05</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>38.2974</lat>
+      <lon>15.9703</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>357</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1>Le scosse del 5 e 7 febbraio 1783 e quella successiva del 28 marzo causarono il crollo di gran parte delle case e gravi lesioni nelle rimanenti; morirono 51 persone su 935 abitanti. Secondo una fonte tarda il danno fu valutato in circa 150.000 ducati $(560077,680031,570001,680029,560084,145986,500256,410312,410368)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00953</nterr>
+      <nperiod>000107</nperiod>
+      <datanum>16380327</datanum>
+      <data_label>1638 03 27</data_label>
+      <anno>1638</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>15:05</time_label>
+      <ora>15</ora>
+      <minu>05</minu>
+      <sec>-9</sec>
+      <lat>39.0483</lat>
+      <lon>16.2879</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>215</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>27</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa del 27 marzo fece crollare o rese inabitabili 68 case, per la maggior parte costruite con mattoni di terra seccata al sole; non vi furono vittime. La comunità ottenne una moratoria nei pagamenti fiscali per l’anno 1638 $(645187,770415,300174,470009,052027,040205,970005)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>03120</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830328</datanum>
+      <data_label>1783 03 28</data_label>
+      <anno>1783</anno>
+      <mese>03</mese>
+      <giorno>28</giorno>
+      <time_label>18:55</time_label>
+      <ora>18</ora>
+      <minu>55</minu>
+      <sec>-9</sec>
+      <lat>38.7861</lat>
+      <lon>16.4636</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>323</npun>
+      <mm>7</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Le scosse del 5 e 7 febbraio 1783 e quella successiva del 28 marzo causarono il crollo di gran parte delle case e gravi lesioni nelle rimanenti; morirono 51 persone su 935 abitanti. Secondo una fonte tarda il danno fu valutato in circa 150.000 ducati $(560077,680031,570001,680029,560084,145986,500256,410312,410368)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>02812</nterr>
+      <nperiod>000146</nperiod>
+      <datanum>17830207</datanum>
+      <data_label>1783 02 07</data_label>
+      <anno>1783</anno>
+      <mese>02</mese>
+      <giorno>07</giorno>
+      <time_label>13:10</time_label>
+      <ora>13</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>38.5808</lat>
+      <lon>16.201</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10.5</io>
+      <imax>10.5</imax>
+      <npun>192</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Calabria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>212</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Le scosse del 5 e 7 febbraio 1783 e quella successiva del 28 marzo causarono il crollo di gran parte delle case e gravi lesioni nelle rimanenti; morirono 51 persone su 935 abitanti. Secondo una fonte tarda il danno fu valutato in circa 150.000 ducati $(560077,680031,570001,680029,560084,145986,500256,410312,410368)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01148</nterr>
+      <nperiod>003011</nperiod>
+      <datanum>16930111</datanum>
+      <data_label>1693 01 11</data_label>
+      <anno>1693</anno>
+      <mese>01</mese>
+      <giorno>11</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>37.1407</lat>
+      <lon>15.013</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>179</npun>
+      <mm>7.4</mm>
+      <earthquakelocation>Sicilia orientale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>23</ee_nt>
+      <ee_np>33</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Nella relazione del presidente della provincia di Cosenza vengono segnalati danni non meglio precisati agli edifici $(665034)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01019</nterr>
+      <nperiod>003009</nperiod>
+      <datanum>16591105</datanum>
+      <data_label>1659 11 05</data_label>
+      <anno>1659</anno>
+      <mese>11</mese>
+      <giorno>05</giorno>
+      <time_label>22:15</time_label>
+      <ora>22</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>38.6955</lat>
+      <lon>16.2498</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>127</npun>
+      <mm>6.6</mm>
+      <earthquakelocation>Calabria centrale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>3</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>La città, insieme ai suoi numerosi casali (fra cui Conidoni, Favelloni, Paradisoni, San Costantino e San Leo), era censita per 618 fuochi complessivi. L’abitato, già in cattivo stato prima del terremoto, subì gravi distruzioni: 89 case crollarono e le altre 56 subirono gravi danni e divennero inabitabili. Crollarono il castello baronale, 4 chiese, un monastero, il convento dei Domenicani, 14 tra botteghe e magazzini, un frantoio; morirono 69 persone e molte altre furono gravemente ferite $(665017,635001,635002,635139,145124,110130,030583)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>645187</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Consiglio Collaterale, Cancelleria, Curiae, vol.112 (1637-1644), Decreto relativo agli sgravi fiscali concessi alle Università della Calabria danneggiate dal terremoto del 27 marzo 1638, Napoli 17 dicembre 1639.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1639</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>770415</codbib>
+      <autore1>Capecelatro E.</autore1>
+      <titolo1>Breve relatione fatta dal Consigliere Hettorre Capecelatro, Delegato per l’Illustriss. &amp;t Eccellentiss. Sig. Duca di Medina de las Torres, e di Sabioneta, Principe di Stigliano, &amp;tc. Viceré, Luogotenente, e Capitan Generale in questo Regno di Napoli, e suo Collateral Consiglio: à rivedere i danni nelle Provincie di Calavria, cagionati dal terremoto succeduto a 27 di Marzo 1638 per applicarci i remedij necessarij, per la sollevatione di quelle Città, Terre, e Castelli, che hanno patito, in appendice a L.D’Orsi, "I terremoti delle due Calavrie fedelissimamente descritti".</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1640</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300174</codbib>
+      <autore1>Di Somma A.</autore1>
+      <titolo1>Historico racconto de i terremoti della Calabria dall’anno 1638. fin’anno 41.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1641</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470009</codbib>
+      <autore1>*</autore1>
+      <titolo1>Vera relatione del Spaventevole Terremoto successo alli 27 di Marzo sù le 21 hore, nelle Provincie di Calabria Citra, &amp; Ultra. Dove si narrano tutte le rovine causate nelle Città, Terre, e Castelli, con li nomi di essi, e con la morte delle persone.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1638</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052027</codbib>
+      <autore1>Bumaldi A.</autore1>
+      <titolo1>Vera Relatione de’ gran prodigii e spaventosi Terremoti nuovamente occorsi nell’una, e nell’altra Calabria sotto il dì 26 di Marzo 1638 col nome delle Città, Castelli, Ville, e luoghi rovinati per causa di detto Terremoto, con mortalità di più di Cinquanta milla persone.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1638</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>040205</codbib>
+      <autore1>Recupito G.C.</autore1>
+      <titolo1>De novo in universa Calabriae terraemotu congeminatus nuncius.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1638</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>970005</codbib>
+      <autore1>Martire D.</autore1>
+      <titolo1>La Calabria sacra e profana, opera del secolo decimosettimo del sacerdote Domenico Martire cosentino, 2 voll. (ristampa anastatica, Roma 1973).</titolo1>
+      <luogoed>Cosenza</luogoed>
+      <datacompl>1876 - 1878</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560077</codbib>
+      <autore1>Grimaldi A.</autore1>
+      <titolo1>La Cassa Sacra ovvero la soppressione delle mani morte in Calabria nel sec.XVIII.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1863</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680031</codbib>
+      <autore1>Vivenzio G.</autore1>
+      <titolo1>Istoria de’ Tremuoti avvenuti nella Provincia della Calabria ulteriore, e nella Città di Messina nell’anno 1783 e di quanto nella Calabria fu fatto per lo suo risorgimento fino al 1787 preceduta da una Teoria, ed Istoria Generale de’ Tremuoti, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1788</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>570001</codbib>
+      <autore1>Sarconi M.</autore1>
+      <titolo1>Istoria de’ fenomeni del tremoto avvenuto nelle Calabrie, e nel Valdemone nell’anno 1783 posta in luce dalla Reale Accademia delle Scienze, e delle Belle Lettere di Napoli.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680029</codbib>
+      <autore1>Gallo A.</autore1>
+      <titolo1>Lettere scritte da Andrea Gallo e dirizzate al signor Cavaliere N.N. delle Reali Accademie di Londra, Bordò e Upsal pelli terremoti del 1783 con un giornale meteorologico de’ medemi.</titolo1>
+      <luogoed>Messina</luogoed>
+      <datacompl>1784</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>560084</codbib>
+      <autore1>De Lorenzo A.</autore1>
+      <titolo1>Un secondo manipolo di monografie e memorie reggine e calabresi.</titolo1>
+      <luogoed>Siena</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145986</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Vittorio Emanuele III" di Napoli, Manoscritti, Fondo Brancacciano, II.A.21, cc.325v-328r, Lettera degli ingegneri A.Winspeare e F.La Vega al vicario generale principe Pignatelli relativa alla ricostruzione della città di Briatico distrutta dai terremoti del 1783, Monteleone 20 aprile 1783.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1783</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500256</codbib>
+      <autore1>Torcia M.</autore1>
+      <titolo1>Tremuoto accaduto nella Calabria, e a Messina alli 5 febbraio 1783.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1783</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410312</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Particolari, vol.267, Lettera del sacerdote Giuseppe Maria Crispi al segretario di Stato cardinale Lazzaro Opizio Pallavicini, Cava de’ Tirreni 27 febbraio 1783.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1783</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410368</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.302, Nota delle località della Calabria distrutte o gravemente danneggiate dal terremoto del 5 febbraio 1783 allegata al dispaccio dell’amministratore della Nunziatura abate Severino Servanzi al segretario di Stato cardinale Lazzaro Opizio Pallavicini del 18 febbraio 1783.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1783</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665017</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretarías Provinciales, Nápoles, legajo 30 (1659-60), Consultas originales, Ristretto delle relazioni inviate dalle Università della provincia di Calabria Ultra sui danni causati dal terremoto del 5 novembre 1659, novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635001</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.44, Lettera del vescovo di Catanzaro Filippo Visconti al cardinale nipote Flavio Chigi, Catanzaro 12 novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635002</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Vescovi e prelati, vol.44, Lettera del vescovo di Catanzaro Filippo Visconti al cardinale nipote Flavio Chigi, Catanzaro 20 novembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>635139</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Segreto Vaticano, Segreteria di Stato, Napoli, vol.61 D, "Relatione delle notizie che sin’hora si hanno de’ danni del terremoto succeduto nella Calabria a dì 5 novembre 1659" allegata al dispaccio del nunzio apostolico Giulio Spinola arcivescovo di Laodicea al segretario di Stato cardinale Giulio Rospigliosi del 13 dicembre 1659.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1659</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145124</codbib>
+      <autore1>De Marinis D.A.</autore1>
+      <titolo1>Relatione fatta a S.E. sopra li danni che hanno patito molte Città, Terre, &amp; Casali nella Provincia di Calabria ultra, per cagion del terremoto, che seguì la notte delli 5 di Novembre 1659.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1660</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110130</codbib>
+      <autore1>*</autore1>
+      <titolo1>Brieve relatione del Terremoto occorso nella Calabria e della rovina fatta in molte Terre, e Casali di essa Mercordì notte 5 di Novembre 1659 secondo gli avvisi venuti di colà.</titolo1>
+      <luogoed>Palermo</luogoed>
+      <datacompl>1660</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030583</codbib>
+      <autore1>D’Amato V.</autore1>
+      <titolo1>Memorie historiche dell’illustrissima, famosissima e fedelissima città di Catanzaro.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1670</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>665034</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivo General de Simancas, Secretaría de Estado, Negociación de Sicilia, legajo 3507 (1693-94), Consultas decretos y notas, n.3, Copia di lettera del preside della provincia di Calabria Citra marchese Marco Garofalo al viceré di Napoli Francisco de Benavides conte di Santisteban, Monteleone 15 gennaio 1693.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1693</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080337.00</nloc_cfti>
+      <desloc_cfti>Les Houches</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>45.8895</lat_wgs84>
+      <lon_wgs84>6.8007</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>05210</nterr>
+      <nperiod>003199</nperiod>
+      <datanum>18170311</datanum>
+      <data_label>1817 03 11</data_label>
+      <anno>1817</anno>
+      <mese>03</mese>
+      <giorno>11</giorno>
+      <time_label>21:10</time_label>
+      <ora>21</ora>
+      <minu>10</minu>
+      <sec>-9</sec>
+      <lat>46.2455</lat>
+      <lon>6.6424</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>17</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Alta Savoia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa, accompagnata da rombo simile ad una detonazione, causò lesioni alle volte della chiesa. Una valanga, staccatasi da una parete ghiacciata, travolse una casa causando la morte di 4 persone $(050077,450088,052146)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>450088</codbib>
+      <autore1>Billiet A.</autore1>
+      <titolo1>Memoire sur le tremblement de terre ressentis en Savoie, in "Mémoires de l’Académie Royale des Sciences, Belle-Lettres et Arts de Savoie", vol.13, pp.245-282.</titolo1>
+      <luogoed>Chambery</luogoed>
+      <datacompl>1848</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052146</codbib>
+      <autore1>Montandon F.</autore1>
+      <titolo1>Les séismes de forte intensité en Suisse, in "Revue pour l’Etude des Calamités ­ Bulletin de l’Union Internationale de Secours", vol.5, pp.107-169; vol.6, pp.3-49.</titolo1>
+      <luogoed>Genève</luogoed>
+      <datacompl>1942 - 1943</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

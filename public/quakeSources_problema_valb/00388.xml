@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00388</nterr>
+      <nperiod>000056</nperiod>
+      <datanum>14380611</datanum>
+      <data_label>1438 06 11</data_label>
+      <anno>1438</anno>
+      <mese>06</mese>
+      <giorno>11</giorno>
+      <time_label>02:00</time_label>
+      <ora>02</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.8442</lat>
+      <lon>10.2384</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>10</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.6</mm>
+      <earthquakelocation>Parmense</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Nella notte dell’11 giugno 1438 alle ore 2.00 GMT (le ore 7 in orario "all’italiana") un forte terremoto colpì la città di Parma, dove crollò parte del palazzo comunale, e i vicini centri di Castelnuovo, dove ci furono crolli in parte dell’abitato, e Borgo San Donnino (l’odierna Fidenza), situati nell’attuale provincia di Parma. La scossa fu sentita a Piacenza.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021263</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronaca di Cremona dal 1399 al 1442, ed. A.Ceruti, in "Bibliotheca historica italica", vol.1, pp.167-187.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1876</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050007</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Mémoire sur les tremblements de terre de la péninsule italique, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 22 (1846-47).</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1848</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051321</codbib>
+      <autore1>Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>Italian earthquake catalogue from the beginning of the Christian age up to 1968, Osservatorio Geofisico Sperimentale di Trieste, contributo n.201 bis.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060028</codbib>
+      <autore1>Mallet R.</autore1>
+      <titolo1>Third Report on the Facts of Earthquake Phaenomena (Catalogue of recorded Earthquakes from 1606 B.C. to A.D. 1850), in "Report of the British Association for the Advancement of Science", a.1852, pp.1-176; a.1853, pp.117-212; a.1854, pp.1-326.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1853 - 1855</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092026</codbib>
+      <autore1>Carrozzo M.T., De Visintini G., Giorgetti F. e Iaccarino E.</autore1>
+      <titolo1>General Catalogue of Italian Earthquakes, CNEN, RT/PROT(73)12.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1973</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>140003</codbib>
+      <autore1>Cavitelli L.</autore1>
+      <titolo1>Annales. Quibus res ubique gestas memorabiles a patriae suae origine usque ad annum Salutis 1583 breviter ille complexus est (ristampa anastatica, Bologna 1968).</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1588</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320006</codbib>
+      <autore1>Pezzana A.</autore1>
+      <titolo1>Storia della città di Parma, dal 1346 al 1500, 5 tomi.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1837 - 1859</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320047</codbib>
+      <autore1>Boselli V. B.</autore1>
+      <titolo1>Delle storie piacentine (dalle origini al 1775).</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1793</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320049</codbib>
+      <autore1>Poggiali C.</autore1>
+      <titolo1>Memorie storiche della città di Piacenza, 12 voll. (ristampa anastatica, Piacenza 1976).</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1757 - 1766</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320075</codbib>
+      <autore1>Pizzi P.</autore1>
+      <titolo1>I terremoti storici del Piacentino (dal 1100 al 1980), in "Il Cardinale Alberoni e il suo Collegio".</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1981</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320135</codbib>
+      <autore1>Rossi A.D.</autore1>
+      <titolo1>Ristretto di storia patria ad uso de’ Piacentini, 5 voll. (ristampa anastatica, Piacenza 1993).</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1829 - 1833</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320136</codbib>
+      <autore1>Ottolenghi E.</autore1>
+      <titolo1>Storia di Piacenza (dalle origini al 1918).</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1969</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320165</codbib>
+      <autore1>Dal Verme G.</autore1>
+      <titolo1>Compendio della storia di Piacenza diviso in due parti, 2 voll.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1828 - 1829</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale "Passerini Landi" di Piacenza, Schedario Rapetti, "Terremoto", sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410109</codbib>
+      <autore1>*</autore1>
+      <titolo1>Meteorologia Archeologica, in "L’Indicatore Ecclesiastico Piacentino", a.1901, pp.XXXVI-XLI.</titolo1>
+      <luogoed>Piacenza</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>590016</codbib>
+      <autore1>De Ripalta Antonio e Alberto</autore1>
+      <titolo1>Annales Placentini ab anno 1401 usque ad annum 1484, in "Rerum Italicarum Scriptores", ed. L.A.Muratori, tomo 20, coll.869-978.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1731</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700038</codbib>
+      <autore1>Benassi P.</autore1>
+      <titolo1>Materiali per la storia dei fenomeni sismici della regione parmense.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>740002</codbib>
+      <autore1>Tatti P.L.</autore1>
+      <titolo1>Degli annali sacri della città di Como [...] deca terza.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1734</datacompl>
+      <valb>Ig</valb>
+      <desvalingl>Generic information</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>780014</codbib>
+      <autore1>Lancellotti S.</autore1>
+      <titolo1>Lo hoggidì ovvero il mondo non peggiore né più calamitoso del passato.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1673</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Castelnuovo</desloc>
+      <lat_wgs84>44.8648</lat_wgs84>
+      <lon_wgs84>10.3263</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>036556.00</nloc_cfti>
+      <desloc_cfti>Castelnuovo</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Parma</desloc>
+      <lat_wgs84>44.8014</lat_wgs84>
+      <lon_wgs84>10.3284</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>036605.00</nloc_cfti>
+      <desloc_cfti>Parma</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Borgo San Donnino</desloc>
+      <lat_wgs84>44.8663</lat_wgs84>
+      <lon_wgs84>10.0606</lon_wgs84>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>036177</nloc_cfti>
+      <desloc_cfti>Fidenza (Borgo San Donnino)</desloc_cfti>
+      <notesito>Assunse la denominazione di Fidenza il 9 giugno 1927.</notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Piacenza</desloc>
+      <lat_wgs84>45.053</lat_wgs84>
+      <lon_wgs84>9.6923</lon_wgs84>
+      <provlet>PC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>035341.00</nloc_cfti>
+      <desloc_cfti>Piacenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Genova</desloc>
+      <lat_wgs84>44.42</lat_wgs84>
+      <lon_wgs84>8.8971</lon_wgs84>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>033336.00</nloc_cfti>
+      <desloc_cfti>Genova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Mantova</desloc>
+      <lat_wgs84>45.1527</lat_wgs84>
+      <lon_wgs84>10.7748</lon_wgs84>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>019701.00</nloc_cfti>
+      <desloc_cfti>Mantova</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Milano</desloc>
+      <lat_wgs84>45.4652</lat_wgs84>
+      <lon_wgs84>9.1892</lon_wgs84>
+      <provlet>MI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>013462.00</nloc_cfti>
+      <desloc_cfti>Milano</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>N</intpq>
+      <desloc>Reggio nell'Emilia</desloc>
+      <lat_wgs84>44.6981</lat_wgs84>
+      <lon_wgs84>10.631</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0.1</intpqnum>
+      <nterr>00388</nterr>
+      <nloc_cfti>037794.00</nloc_cfti>
+      <desloc_cfti>Reggio nell’Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

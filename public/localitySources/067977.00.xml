@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>067977.00</nloc_cfti>
+      <desloc_cfti>Pietralunga</desloc_cfti>
+      <provlet>CT</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>37.6696</lat_wgs84>
+      <lon_wgs84>15.1028</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11257</nterr>
+      <nperiod>003028</nperiod>
+      <datanum>18790617</datanum>
+      <data_label>1879 06 17</data_label>
+      <anno>1879</anno>
+      <mese>06</mese>
+      <giorno>17</giorno>
+      <time_label>06:50</time_label>
+      <ora>06</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>37.687</lat>
+      <lon>15.1457</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>27</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Il terremoto causò gravi danni. Il totale dei proprietari danneggiati fu di 4 $(145298)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24634</nterr>
+      <nperiod>003034</nperiod>
+      <datanum>19140508</datanum>
+      <data_label>1914 05 08</data_label>
+      <anno>1914</anno>
+      <mese>05</mese>
+      <giorno>08</giorno>
+      <time_label>18:01:28</time_label>
+      <ora>18</ora>
+      <minu>01</minu>
+      <sec>28</sec>
+      <lat>37.6595</lat>
+      <lon>15.1331</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>83</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Area etnea</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>14</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>La scossa fu rovinosa; i danneggiati ai quali venne concesso un sussidio furono, secondo la documentazione ufficiale, 32 $(145510)$. Nelle contrade di Pietralunga e Passopomo le famiglie indigenti danneggiate in varia misura furono 44, secondo la documentazione prodotta dalla Commissione nominata dal Sottoprefetto di Acireale; di queste 41 usufruirono di sussidi $(145531)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>145298</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Catania, Prefettura, serie I (Affari generali), inventario 14 (1865-86), b.490, Richieste di esenzioni da imposta terremoto 1879, Elenco degli individui danneggiati dal tremuoto del 17 giugno 1879 ai quali possa applicarsi la sospensione del pagamento delle imposte pel comune di Zafferana Etnea, Mascalucia 28 agosto 1879.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1879</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145510</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comune di Acireale, Elenco dei sussidi urgenti corrisposti ai danneggiati e Registro generale dei sussidi ordinari pagati ai danneggiati nella distribuzione di agosto-settembre 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>145531</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale dell’amministrazione civile, Terremoti, el.4, b.44, fasc.25000.14 (1914-15), Terremoto 8 maggio 1914 ­ Rendiconto generale oblazioni Prefettura di Catania, Comuni di Zafferana Etnea e Giarre, Relazione del lavoro compiuto dal 27 Maggio 1914 dalla Commissione nominata dal Sig. Sottoprefetto di Acireale per l’accertamento dei danni subiti dalle famiglie povere, Giarre 27-29 agosto 1914.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

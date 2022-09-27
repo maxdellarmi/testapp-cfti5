@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42793</nterr>
+      <nperiod>009731</nperiod>
+      <datanum>12751102</datanum>
+      <data_label>1275 11 02</data_label>
+      <anno>1275</anno>
+      <mese>11</mese>
+      <giorno>02</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.7256</lat>
+      <lon>13.911</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.8</mm>
+      <earthquakelocation>Isola d’Ischia</earthquakelocation>
+      <epicenter_type>Region, area</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;È stato segnalato per la prima volta da Buchner Niola (1965) $(027003)$ e in seguito da Buchner (1986) $(027004)$.&lt;br&gt;L’unica fonte disponibile, allo stato attuale delle conoscenze, è un documento, oggi perduto, che era conservato nei registri angioini dell’Archivio di Stato di Napoli. Il testo del documento fu trascritto dallo storico Eduard Sthamer (1883-1938) prima dell’incendio del 30 settembre 1943, nel corso della seconda guerra mondiale, che distrusse l’archivio angioino e in base a tale trascrizione è stato pubblicato nell’ambito del lavoro di "ricostruzione" della Cancelleria angioina (ed. Cubellis 1996) $(640043)$. Si tratta di un mandato del re Carlo I d’Angiò, datato 2 novembre 1275, con cui, in seguito a una petizione degli abitanti dell’isola d’Ischia che chiedevano di essere esentati dal pagamento delle imposte a causa dei danni di un recente terremoto, il re ordinava a due funzionari di raggiungere l’isola, informarsi sui fatti accaduti, e riferirne poi alla sua curia. La relazione degli inviati non si è purtroppo conservata.&lt;br&gt;Il documento è di particolare interesse poiché getta luce anche su una particolare procedura amministrativa che mostra il complesso meccanismo che governava le esenzioni fiscali dopo un terremoto distruttivo, già nel XIII secolo.&lt;br&gt;Il terremoto è di datazione incerta perché se ne può fissare solo il termine "ante quem", costituito dalla data del documento reperito.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questo terremoto era sconosciuto alla tradizione dei cataloghi sismici. È attestato da una lettera di re Carlo I d’Angiò, datata 2 novembre 1275, che funge da termine “ante quem” per il terremoto. In un giorno imprecisato del 1275 – prima del 2 novembre – un terremoto colpì l’isola d’Ischia: alcune case furono distrutte, ci furono molti morti. Forse un tratto di costa sprofondò in mare, molte proprietà agricole andarono completamente perdute.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Il terremoto innescò un esteso movimento franoso: un tratto di costa sprofondò in mare e molte proprietà agricole andarono completamente perdute.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>027003</codbib>
+      <autore1>Buchner Niola D.</autore1>
+      <titolo1>L’isola d’Ischia: studio geografico (Memorie di geografia economica e antropica, n.s., n.3).</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1965</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>027004</codbib>
+      <autore1>Buchner G.</autore1>
+      <titolo1>Eruzioni vulcaniche e fenomeni vulcano-tettonici di età preistorica e storica nell’isola d’Ischia, in "Tremblements de terre, éruptions volcaniques et vie des hommes dans la Campanie antique", a cura di C.A.Livadie , pp.145-188.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1986</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>640043</codbib>
+      <autore1>Carlo I d’Angiò</autore1>
+      <titolo1>Mandato del re Carlo I d’Angiò a Carmaino di Napoli e al notaio Giovanni di Barletta, Napoli 2 novembre 1275, in "I registri della Cancelleria angioina ricostruiti da Riccardo Filangieri con la collaborazione degli archivisti napoletani", vol.43 (1270-1293), ed. M.Cubellis, reg.70, add.51, pp.128-129.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Ischia (isola)</desloc>
+      <lat_wgs84>40.7256</lat_wgs84>
+      <lon_wgs84>13.911</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>42793</nterr>
+      <nloc_cfti>090240.00</nloc_cfti>
+      <desloc_cfti>Ischia (isola)</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto avvenne poco tempo prima del 2 novembre 1275 e causò gravi danni: alcune case furono distrutte e diverse persone morirono, ma non se ne conosce il numero preciso.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

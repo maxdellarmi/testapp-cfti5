@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42092</nterr>
+      <nperiod>009068</nperiod>
+      <datanum>12090000</datanum>
+      <data_label>1209 - -</data_label>
+      <anno>1209</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>42.1673</lat>
+      <lon>13.8749</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>2</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>6</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici in uso. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;L’unica fonte disponibile, allo stato attuale delle conoscenze, è costituita dai coevi "Annales Casinenses" (ed. 1866) $(090127)$. Sotto questo titolo sono state raccolte e pubblicate varie compilazioni redatte dai monaci benedettini dell’abbazia di Montecassino nei secoli XI-XIII, che coprono complessivamente l’arco cronologico che va dall’anno 1000 al 1212.&lt;br&gt;Il testo è molto succinto e non privo di qualche ambiguità, ma l’autorevolezza della fonte consente di ritenere che vi sia attestato un evento fortemente distruttivo. Si ricorda che nel 1209 grandi terremoti colpirono varie località, in particolare "Valva" e "Tete", nella provincia del Sannio, termine con cui all’epoca si identificava un’area molto più vasta dell’attuale.&lt;br&gt;Il toponimo "Valva" si riferisce non ad una città, ma a un territorio dipendente dall’omonima diocesi, la cui cattedrale di S.Panfilo, eretta nel V secolo e ricostruita nell’XI, è tuttora esistente nei pressi di Corfinio (provincia dell’Aquila). In seguito, la diocesi valvense fu riunita all’adiacente diocesi di Sulmona e l’attuale sede episcopale conserva ancora la denominazione di diocesi di Sulmona-Valva. Il toponimo "Tete" è da intendere "Teate", che è il nome latino dell’odierna Chieti e, per analogia, si deve ritenere che anche in questo caso sia riferito non alla città, ma al territorio della diocesi. D’altra parte, anche la descrizione del terremoto che fa riferimento alla distruzione di molte fortezze e castelli fa ritenere che l’evento sia da riferire a un territorio e non a due specifiche località.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Questo terremoto è sconosciuto alla tradizione dei cataloghi sismici. Nel 1209 forti terremoti fecero crollare molti edifici, fortezze e castelli (villaggi fortificati) nel territorio delle diocesi di Valva e Chieti. La zona colpita fu, probabilmente, l’area appenninica al confine tra le due diocesi situata tra le alte valli dei fiumi Aterno e Pescara, al confine tra le odierne province dell’Aquila e di Pescara.&lt;br&gt;Il toponimo Valva indica non una città, ma un territorio dipendente dall’omonima diocesi, la cui cattedrale di S.Panfilo, eretta nel V secolo e ricostruita nell’XI è tuttora esistente nei pressi di Corfinio (provincia dell’Aquila). In seguito, la diocesi valvense fu riunita all’adiacente diocesi di Sulmona e l’odierna sede episcopale conserva ancora la denominazione di diocesi di Sulmona-Valva. Il toponimo "Tete" è da intendere come "Teate", che è il nome latino dell’odierna Chieti e, per analogia, si deve ritenere che anche in questo caso vada riferito non alla città, ma al territorio della diocesi. D’altra parte anche la descrizione del terremoto che fa riferimento alla distruzione di molte fortezze e castelli (villaggi fortificati) fa pensare che l’evento vada riferito a un territorio e non a due specifiche località.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>021301</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.2, RPT 234/00, Bologna gennaio 2001 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2001</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090127</codbib>
+      <autore1>*</autore1>
+      <titolo1>Annales Casinenses (1000-1212), ed. G.H.Pertz, in "Monumenta Germaniae Historica", SS, vol.19, pp.303-320.</titolo1>
+      <luogoed>Hannover</luogoed>
+      <datacompl>1866</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Diocesi di Chieti</desloc>
+      <lat_wgs84>42.1673</lat_wgs84>
+      <lon_wgs84>13.9999</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>42092</nterr>
+      <nloc_cfti>090241.00</nloc_cfti>
+      <desloc_cfti>Diocesi di Chieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fece crollare molti edifici, fortezze e castelli $(090127)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Diocesi di Valva</desloc>
+      <lat_wgs84>42.1673</lat_wgs84>
+      <lon_wgs84>13.7499</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>42092</nterr>
+      <nloc_cfti>090242.00</nloc_cfti>
+      <desloc_cfti>Diocesi di Valva</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto fece crollare molti edifici, fortezze e castelli $(090127)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

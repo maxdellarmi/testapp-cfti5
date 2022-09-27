@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>080150.00</nloc_cfti>
+      <desloc_cfti>Châteauroux</desloc_cfti>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>6</maxint>
+      <lat_wgs84>44.6253</lat_wgs84>
+      <lon_wgs84>6.519</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31547</nterr>
+      <nperiod>003227</nperiod>
+      <datanum>19380718</datanum>
+      <data_label>1938 07 18</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>18</giorno>
+      <time_label>00:57</time_label>
+      <ora>00</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>44.5932</lat>
+      <lon>6.7347</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>260</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>7</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò la caduta di tegole e di camini $(050077)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34010</nterr>
+      <nperiod>003123</nperiod>
+      <datanum>19590405</datanum>
+      <data_label>1959 04 05</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>05</giorno>
+      <time_label>10:48:00</time_label>
+      <ora>10</ora>
+      <minu>48</minu>
+      <sec>00</sec>
+      <lat>44.4884</lat>
+      <lon>6.7117</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>65</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Valle dell’Ubaye</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Caddero dei camini e si riscontrò qualche crepa $(050085)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32360</nterr>
+      <nperiod>003228</nperiod>
+      <datanum>19470217</datanum>
+      <data_label>1947 02 17</data_label>
+      <anno>1947</anno>
+      <mese>02</mese>
+      <giorno>17</giorno>
+      <time_label>00:12:33</time_label>
+      <ora>00</ora>
+      <minu>12</minu>
+      <sec>33</sec>
+      <lat>44.4488</lat>
+      <lon>6.7609</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>283</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Alpi occidentali</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono disponibili descrizioni degli effetti. Secondo Levret et al. (1996), il terremoto ebbe effetti corrispondenti al grado V MSK $(052123)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31093</nterr>
+      <nperiod>003226</nperiod>
+      <datanum>19350319</datanum>
+      <data_label>1935 03 19</data_label>
+      <anno>1935</anno>
+      <mese>03</mese>
+      <giorno>19</giorno>
+      <time_label>07:27:00</time_label>
+      <ora>07</ora>
+      <minu>27</minu>
+      <sec>00</sec>
+      <lat>44.6515</lat>
+      <lon>6.6322</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>170</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>France</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò il crollo di 10 camini $(050077)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050085</codbib>
+      <autore1>Rothé J.-P. e Dechevoy N.</autore1>
+      <titolo1>La séismicité de la France de 1951 à 1960, in "Annales de l’Institut de Physique du Globe", n.s., vol.8, pt.3 (Géophysique), pp.19-84.</titolo1>
+      <luogoed>Strasbourg</luogoed>
+      <datacompl>1967</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052123</codbib>
+      <autore1>Levret A., Cushing M. e Peyridieu G.</autore1>
+      <titolo1>Recherche des caractéristiques de séismes historiques en France. Atlas de 140 cartes macrosismiques, IPSN, 2 voll.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

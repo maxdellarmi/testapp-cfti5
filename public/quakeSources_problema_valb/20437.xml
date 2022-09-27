@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>20437</nterr>
+      <nperiod>000379</nperiod>
+      <datanum>19070425</datanum>
+      <data_label>1907 04 25</data_label>
+      <anno>1907</anno>
+      <mese>04</mese>
+      <giorno>25</giorno>
+      <time_label>06:09</time_label>
+      <ora>06</ora>
+      <minu>09</minu>
+      <sec>-9</sec>
+      <lat>45.3891</lat>
+      <lon>10.9908</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>4</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>3.5</mm>
+      <earthquakelocation>Veronese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>000092</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Sul terremoto Veronese del 25 Aprile 1907, in "Bollettino della Società Sismologica Italiana", vol.12 (1907), pp.110-119.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000733</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1907, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.14 (1910).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1911</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020103</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1907.04.27, n.96.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020106</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia. Corriere di Cremona, 1907.04.26, n.95.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020183</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Padova, 1907.04.26-27.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020184</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Padova, 1907.04.25-26.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020194</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Veneto. Corriere di Padova, 1907.04.26.</titolo1>
+      <luogoed>Padova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020240</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1907.04.25.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020242</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere del Polesine, 1907.04.26.</titolo1>
+      <luogoed>Rovigo</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020309</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Vicenza, 1882-1927.</titolo1>
+      <luogoed>Vicenza</luogoed>
+      <datacompl>1882 - 1927</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070401</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Mantova, 1907.04.26.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071040</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1907.04.26.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071053</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Provinciale di Bergamo, 1907.04.25.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071054</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Provinciale di Bergamo, 1907.04.26.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071067</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Provincia di Mantova, 1907.04.26.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071095</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Resto del Carlino, 1907.04.26-27.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071194</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire d’Italia, 1907.04.26.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080235</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Mantova presso il Liceo Ginnasio "Virgilio", Registro meteorologico della stazione termoudometrica di Castel d’Ario, 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080237</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Mantova presso il Liceo Ginnasio "Virgilio", Registro meteorologico della stazione termoudometrica di Marmirolo, 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>150126</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Avvenire, 1907.04.28-27, a.9, n.50.</titolo1>
+      <luogoed>Pavia</luogoed>
+      <datacompl></datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>170046</codbib>
+      <autore1>Bonomini G.B.</autore1>
+      <titolo1>Note geodinamiche, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1907".</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420005</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio Meteorologico di Parma, 645/66, Osservazioni giornaliere dell’anno 1907.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1907</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480289</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1907.04.25-26, n.111.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>500082</codbib>
+      <autore1>Zanon F.S.</autore1>
+      <titolo1>Storia sismica della provincia di Venezia, in "Annuario dell’Osservatorio geofisico del seminario patriarcale di Venezia", s.II, a.10, pp.53-89.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1937</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600497</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1907.04.25.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600498</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1907.04.26.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690696</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1907.04.26, n.112.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690697</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Ferrarese, 1907.04.27, n.113.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771041</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Cittadino di Brescia, 1907.04.26.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>771057</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Eco di Bergamo, 1907.04.25-26.</titolo1>
+      <luogoed>Bergamo</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880006</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Adige, 1907.04.26.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880018</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1907.04.25-26.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880072</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Verona, Prefettura, bb.88, 101, Comune di Bovolone (1867-1932).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1867 - 1932</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Bovolone, s.s., Registro delle deliberazioni di Giunta (1900-1975).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1900 - 1975</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880075</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio del Comune di Bovolone, Corrispondenza, bb.627, 645, 651, 660, 1002, 1034 (1903-1973).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1903 - 1973</datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>880081</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Arena, 1907.04.26-27.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>930068</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Panaro, 1869-1914.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl></datacompl>
+      <valb>Fn</valb>
+      <desvalingl>Negative source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20437</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Villafranca di Verona</desloc>
+      <lat_wgs84>45.3548</lat_wgs84>
+      <lon_wgs84>10.8449</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20437</nterr>
+      <nloc_cfti>023834.00</nloc_cfti>
+      <desloc_cfti>Villafranca di Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Zevio</desloc>
+      <lat_wgs84>45.3738</lat_wgs84>
+      <lon_wgs84>11.1338</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>20437</nterr>
+      <nloc_cfti>023869.00</nloc_cfti>
+      <desloc_cfti>Zevio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Vigasio</desloc>
+      <lat_wgs84>45.3175</lat_wgs84>
+      <lon_wgs84>10.9416</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>20437</nterr>
+      <nloc_cfti>023801.00</nloc_cfti>
+      <desloc_cfti>Vigasio</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

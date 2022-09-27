@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>011431.00</nloc_cfti>
+      <desloc_cfti>Ossola</desloc_cfti>
+      <provlet>LC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>6.5</maxint>
+      <lat_wgs84>45.6887</lat_wgs84>
+      <lon_wgs84>9.3465</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08304</nterr>
+      <nperiod>000819</nperiod>
+      <datanum>18550725</datanum>
+      <data_label>1855 07 25</data_label>
+      <anno>1855</anno>
+      <mese>07</mese>
+      <giorno>25</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.8385</lat>
+      <lon>7.7044</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>51</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Vallese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Cadde la cupola del campanile $(180021)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>180021</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Agogna, 1855.07.29, a.1, n.60.</titolo1>
+      <luogoed>Novara</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>180024</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Agogna, 1855.09.05, a.1, n.71.</titolo1>
+      <luogoed>Novara</luogoed>
+      <datacompl>1855</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

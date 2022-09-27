@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42064</nterr>
+      <nperiod>009031</nperiod>
+      <datanum>17370331</datanum>
+      <data_label>1737 03 31</data_label>
+      <anno>1737</anno>
+      <mese>03</mese>
+      <giorno>31</giorno>
+      <time_label>17:20</time_label>
+      <ora>17</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9206</lat>
+      <lon>14.6597</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.1</mm>
+      <earthquakelocation>Campania</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments/>
+  <Biblios>
+    <Bibliography>
+      <codbib>021296</codbib>
+      <autore1>SGA ­ Storia Geofisica Ambiente</autore1>
+      <titolo1>Recupero e integrazione di informazioni su terremoti attualmente sconosciuti ai cataloghi, pt.1, RPT 227/00, Bologna luglio 2000 (rapporto inedito per INGV).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>2000</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070704</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bologna, 1737.04.27, n.17.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1737</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370050</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Vittorio Emanuele III" di Napoli, Manoscritti, Fondo San Martino, 681-690, Diario della Casa di San Paolo di Napoli (1651-1856), 10 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1651 - 1856</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Avellino</desloc>
+      <lat_wgs84>40.9148</lat_wgs84>
+      <lon_wgs84>14.7907</lon_wgs84>
+      <provlet>AV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>42064</nterr>
+      <nloc_cfti>060627.00</nloc_cfti>
+      <desloc_cfti>Avellino</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Nola</desloc>
+      <lat_wgs84>40.9264</lat_wgs84>
+      <lon_wgs84>14.5287</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>42064</nterr>
+      <nloc_cfti>060214.00</nloc_cfti>
+      <desloc_cfti>Nola</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>42064</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM/>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>18958</nterr>
+      <nperiod>003217</nperiod>
+      <datanum>19040712</datanum>
+      <data_label>1904 07 12</data_label>
+      <anno>1904</anno>
+      <mese>07</mese>
+      <giorno>12</giorno>
+      <time_label>05:32</time_label>
+      <ora>05</ora>
+      <minu>32</minu>
+      <sec>-9</sec>
+      <lat>44.8927</lat>
+      <lon>6.8156</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6.5</imax>
+      <npun>27</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.8</mm>
+      <earthquakelocation>Alpi Cozie</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) costituita dalle "Notizie sui terremoti... 1904", curate da Monti (1906-1908) $(000016)$, e dal catalogo della sismicità europea di Kárník (1968-1971) $(081939)$. La ricerca è stata integrata dall’analisi dei cataloghi di Rothé (1941) $(050077)$ sulla sismicità delle Alpi francesi e del catalogo di Lambert et al. (1996) $(052185)$. È stata inoltre utilizzata la cronaca di un quotidiano dell’epoca $(600482)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 12 luglio 1904 alle ore 5:32 GMT e colpì il versante francese delle Alpi Cozie. A Briançon vi furono danni alle case di nuova costruzione e una profonda spaccatura nei bastioni; nelle vecchie caserme del sobborgo di Sainte-Catherine caddero soffitti e comignoli e si formarono fenditure nelle pareti. A Saint-Martin-de-Queyrières caddero alcuni camini.&lt;br&gt;In territorio italiano la scossa fu avvertita fortemente, ma senza alcun danno, a Bardonecchia, Perrero e Torre Pellice.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000016</codbib>
+      <autore1>Monti V.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1904, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.11 (1906)-12 (1907).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1906 - 1908</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052185</codbib>
+      <autore1>Lambert J., Levret-Albaret A., Cushing M. e Durouchoux C.</autore1>
+      <titolo1>Mille ans de séismes en France. Catalogue d’épicentres paramètres et références, AFPS-BRGM-EDF-IPSN.</titolo1>
+      <luogoed>Paris</luogoed>
+      <datacompl>1996</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>081939</codbib>
+      <autore1>Kárník V.</autore1>
+      <titolo1>Seismicity of the European Area, 2 voll.</titolo1>
+      <luogoed>Dordrecht</luogoed>
+      <datacompl>1968 - 1971</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600482</codbib>
+      <autore1>*</autore1>
+      <titolo1>La Lega Lombarda, 1904.07.13.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI-VII</intpq>
+      <desloc>Briançon</desloc>
+      <lat_wgs84>44.9057</lat_wgs84>
+      <lon_wgs84>6.6312</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6.5</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>080028.00</nloc_cfti>
+      <desloc_cfti>Briançon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò danni alle case di nuova costruzione e produsse una profonda spaccatura nei bastioni. Nelle vecchie caserme del sobborgo di Sainte-Catherine caddero soffitti e comignoli e si formarono fenditure nelle pareti $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Saint-Martin-de-Queyrières</desloc>
+      <lat_wgs84>44.834</lat_wgs84>
+      <lon_wgs84>6.5828</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>080800.00</nloc_cfti>
+      <desloc_cfti>Saint-Martin-de-Queyrières</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò la caduta di alcuni camini $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bardonecchia</desloc>
+      <lat_wgs84>45.078</lat_wgs84>
+      <lon_wgs84>6.7015</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000148.00</nloc_cfti>
+      <desloc_cfti>Bardonecchia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu di forte intensità. Traballarono i tetti e suonarono i campanelli $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Perrero</desloc>
+      <lat_wgs84>44.9384</lat_wgs84>
+      <lon_wgs84>7.1142</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001618.00</nloc_cfti>
+      <desloc_cfti>Perrero</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Monti (1906) valutò l’intensità della scossa di V grado Mercalli $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Torre Pellice</desloc>
+      <lat_wgs84>44.8215</lat_wgs84>
+      <lon_wgs84>7.2193</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>002378.00</nloc_cfti>
+      <desloc_cfti>Torre Pellice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu generalmente avvertita. Tremarono sensibilmente i mobili e fu udito da pochi un leggero rombo $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Abriès</desloc>
+      <lat_wgs84>44.7925</lat_wgs84>
+      <lon_wgs84>6.9289</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>080124.00</nloc_cfti>
+      <desloc_cfti>Abriès</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Perosa Argentina</desloc>
+      <lat_wgs84>44.9583</lat_wgs84>
+      <lon_wgs84>7.1893</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001582.00</nloc_cfti>
+      <desloc_cfti>Perosa Argentina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Bricherasio</desloc>
+      <lat_wgs84>44.8252</lat_wgs84>
+      <lon_wgs84>7.3025</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000223.00</nloc_cfti>
+      <desloc_cfti>Bricherasio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Monti (1906) valutò l’intensità della scossa di IV grado Mercalli $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Giaveno</desloc>
+      <lat_wgs84>45.0439</lat_wgs84>
+      <lon_wgs84>7.3522</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001098.00</nloc_cfti>
+      <desloc_cfti>Giaveno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Monti (1906) valutò l’intensità della scossa di IV grado Mercalli $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Luserna-San Giovanni</desloc>
+      <lat_wgs84>44.8146</lat_wgs84>
+      <lon_wgs84>7.2473</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001301.99</nloc_cfti>
+      <desloc_cfti>Luserna-San Giovanni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti in stato di quiete e da pochi all’aperto. Fu accompagnata da rombo lieve $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Susa</desloc>
+      <lat_wgs84>45.137</lat_wgs84>
+      <lon_wgs84>7.0513</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>002347.00</nloc_cfti>
+      <desloc_cfti>Susa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu sensibile e accompagnata da forte rombo $(600482,000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Usseglio</desloc>
+      <lat_wgs84>45.2332</lat_wgs84>
+      <lon_wgs84>7.2196</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>002427.00</nloc_cfti>
+      <desloc_cfti>Usseglio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da molti in quiete. Tremarono piccoli oggetti, ma non vi furono danni $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Bussoleno</desloc>
+      <lat_wgs84>45.1393</lat_wgs84>
+      <lon_wgs84>7.1473</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000294.00</nloc_cfti>
+      <desloc_cfti>Bussoleno</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu leggera e quasi inavvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Oulx</desloc>
+      <lat_wgs84>45.0331</lat_wgs84>
+      <lon_wgs84>6.833</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001542.00</nloc_cfti>
+      <desloc_cfti>Oulx</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Non sono note descrizioni degli effetti. Monti (1906) valutò l’intensità della scossa di III grado Mercalli $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Cumiana</desloc>
+      <lat_wgs84>44.9828</lat_wgs84>
+      <lon_wgs84>7.3759</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000878.00</nloc_cfti>
+      <desloc_cfti>Cumiana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu leggerissima e accompagnata da lievissimo rombo $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Gap</desloc>
+      <lat_wgs84>44.5623</lat_wgs84>
+      <lon_wgs84>6.0796</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>080039.00</nloc_cfti>
+      <desloc_cfti>Gap</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto debole $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Grenoble</desloc>
+      <lat_wgs84>45.1813</lat_wgs84>
+      <lon_wgs84>5.7076</lon_wgs84>
+      <provlet></provlet>
+      <nazione>France</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>080042.00</nloc_cfti>
+      <desloc_cfti>Grenoble</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto debole $(050077)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Pinerolo</desloc>
+      <lat_wgs84>44.8857</lat_wgs84>
+      <lon_wgs84>7.3268</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001689.00</nloc_cfti>
+      <desloc_cfti>Pinerolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu leggerissima e avvertita da pochissime persone $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Balme</desloc>
+      <lat_wgs84>45.3026</lat_wgs84>
+      <lon_wgs84>7.2158</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000138.00</nloc_cfti>
+      <desloc_cfti>Balme</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Barge</desloc>
+      <lat_wgs84>44.7273</lat_wgs84>
+      <lon_wgs84>7.3236</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>004886.00</nloc_cfti>
+      <desloc_cfti>Barge</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Cardé</desloc>
+      <lat_wgs84>44.7453</lat_wgs84>
+      <lon_wgs84>7.4777</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>005180.00</nloc_cfti>
+      <desloc_cfti>Cardé</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Carignano</desloc>
+      <lat_wgs84>44.9072</lat_wgs84>
+      <lon_wgs84>7.6748</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000390.00</nloc_cfti>
+      <desloc_cfti>Carignano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ceres</desloc>
+      <lat_wgs84>45.314</lat_wgs84>
+      <lon_wgs84>7.3885</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>000587.00</nloc_cfti>
+      <desloc_cfti>Ceres</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Lanzo Torinese</desloc>
+      <lat_wgs84>45.2739</lat_wgs84>
+      <lon_wgs84>7.4834</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001198.00</nloc_cfti>
+      <desloc_cfti>Lanzo Torinese</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Orbassano</desloc>
+      <lat_wgs84>45.0071</lat_wgs84>
+      <lon_wgs84>7.5362</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001523.00</nloc_cfti>
+      <desloc_cfti>Orbassano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rivoli</desloc>
+      <lat_wgs84>45.0707</lat_wgs84>
+      <lon_wgs84>7.5198</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>001966.00</nloc_cfti>
+      <desloc_cfti>Rivoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sanfront</desloc>
+      <lat_wgs84>44.6464</lat_wgs84>
+      <lon_wgs84>7.3168</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>18958</nterr>
+      <nloc_cfti>006842.00</nloc_cfti>
+      <desloc_cfti>Sanfront</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa non fu avvertita $(000016)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

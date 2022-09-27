@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>062258.00</nloc_cfti>
+      <desloc_cfti>Vieste</desloc_cfti>
+      <provlet>FG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>19</risentimenti>
+      <maxint>9</maxint>
+      <lat_wgs84>41.883</lat_wgs84>
+      <lon_wgs84>16.1797</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00370</nterr>
+      <nperiod>003067</nperiod>
+      <datanum>14140000</datanum>
+      <data_label>1414 - -</data_label>
+      <anno>1414</anno>
+      <mese>00</mese>
+      <giorno>00</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.883</lat>
+      <lon>16.1797</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>8.5</io>
+      <imax>8.5</imax>
+      <npun>1</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Vieste (FG)</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8.5</intpqnum>
+      <intpq>VIII-IX</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32585</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480821</datanum>
+      <data_label>1948 08 21</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>08:44:47</time_label>
+      <ora>08</ora>
+      <minu>44</minu>
+      <sec>47</sec>
+      <lat>41.6144</lat>
+      <lon>15.7393</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>6.5</io>
+      <imax>7</imax>
+      <npun>42</npun>
+      <mm>5.3</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa del 18 agosto (ore 21:12 GMT) fu avvertita fortemente da tutta la popolazione, che si riversò all’aperto lontano dagli edifici, ma non causò danni di rilievo; poco prima del terremoto ci fu un’interruzione dell’energia elettrica che tornò regolare dopo qualche minuto $(143864,300251)$.&lt;br&gt;La scossa del 21 agosto (ore 08:45 GMT) fu più violenta della precedente e causò vari danni ai fabbricati: 15 case furono rese inabitabili e altre 350 circa risultarono lesionate in modo più leggero; fu danneggiato il campanile della cattedrale $(143897,300251,672599,672867,900082)$.&lt;br&gt;La scossa del 22 agosto (ore 23:16 GMT) fu sentita molto fortemente da tutta la popolazione che si riversò nelle piazze e sulla spiaggia trascorrendo la notte all’aperto; qualche nuova lesione agli edifici non accertata $(143922)$.&lt;br&gt;Il comune fu inserito nell’elenco delle località danneggiate a cui erano applicabili le disposizioni della legge 14 febbraio 1949, n.39 $(672607,672616,672617)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01166</nterr>
+      <nperiod>000121</nperiod>
+      <datanum>16940908</datanum>
+      <data_label>1694 09 08</data_label>
+      <anno>1694</anno>
+      <mese>09</mese>
+      <giorno>08</giorno>
+      <time_label>11:40</time_label>
+      <ora>11</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>40.8631</lat>
+      <lon>15.4058</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>251</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6.5</intpqnum>
+      <intpq>VI-VII</intpq>
+      <D1>Il terremoto rese inabitabile il palazzo vescovile e causò danni notevoli al castello e al forte di S.Croce $(110171,900238,900269)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01844</nterr>
+      <nperiod>000131</nperiod>
+      <datanum>17430220</datanum>
+      <data_label>1743 02 20</data_label>
+      <anno>1743</anno>
+      <mese>02</mese>
+      <giorno>20</giorno>
+      <time_label>16:30</time_label>
+      <ora>16</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>40.2458</lat>
+      <lon>18.0486</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>86</npun>
+      <mm>6.9</mm>
+      <earthquakelocation>Basso Ionio</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò nuovi danni al castello, in cui, già in precedenza, erano stati programmati dei lavori di riparazione $(130097,130102)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32586</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480822</datanum>
+      <data_label>1948 08 22</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>22</giorno>
+      <time_label>23:16:20</time_label>
+      <ora>23</ora>
+      <minu>16</minu>
+      <sec>20</sec>
+      <lat>41.4408</lat>
+      <lon>15.8118</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>76</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa del 18 agosto (ore 21:12 GMT) fu avvertita fortemente da tutta la popolazione, che si riversò all’aperto lontano dagli edifici, ma non causò danni di rilievo; poco prima del terremoto ci fu un’interruzione dell’energia elettrica che tornò regolare dopo qualche minuto $(143864,300251)$.&lt;br&gt;La scossa del 21 agosto (ore 08:45 GMT) fu più violenta della precedente e causò vari danni ai fabbricati: 15 case furono rese inabitabili e altre 350 circa risultarono lesionate in modo più leggero; fu danneggiato il campanile della cattedrale $(143897,300251,672599,672867,900082)$.&lt;br&gt;La scossa del 22 agosto (ore 23:16 GMT) fu sentita molto fortemente da tutta la popolazione che si riversò nelle piazze e sulla spiaggia trascorrendo la notte all’aperto; qualche nuova lesione agli edifici non accertata $(143922)$.&lt;br&gt;Il comune fu inserito nell’elenco delle località danneggiate a cui erano applicabili le disposizioni della legge 14 febbraio 1949, n.39 $(672607,672616,672617)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34641</nterr>
+      <nperiod>003124</nperiod>
+      <datanum>19620821</datanum>
+      <data_label>1962 08 21</data_label>
+      <anno>1962</anno>
+      <mese>08</mese>
+      <giorno>21</giorno>
+      <time_label>18:19:30</time_label>
+      <ora>18</ora>
+      <minu>19</minu>
+      <sec>30</sec>
+      <lat>41.2306</lat>
+      <lon>14.9533</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>261</npun>
+      <mm>6.1</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>6</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>Il terremoto causò danni leggeri $(055150)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>C0413</nterr>
+      <nperiod>000751</nperiod>
+      <datanum>14561205</datanum>
+      <data_label>1456 12 05</data_label>
+      <anno>1456</anno>
+      <mese>12</mese>
+      <giorno>05</giorno>
+      <time_label>03:00</time_label>
+      <ora>03</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>41.1844</lat>
+      <lon>14.8742</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>82</npun>
+      <mm>7.1</mm>
+      <earthquakelocation>Samnio-Irpinia</earthquakelocation>
+      <epicenter_type>Hypothetical</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>10</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>30013</nterr>
+      <nperiod>003118</nperiod>
+      <datanum>19300723</datanum>
+      <data_label>1930 07 23</data_label>
+      <anno>1930</anno>
+      <mese>07</mese>
+      <giorno>23</giorno>
+      <time_label>00:08:00</time_label>
+      <ora>00</ora>
+      <minu>08</minu>
+      <sec>00</sec>
+      <lat>41.0641</lat>
+      <lon>15.3441</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>507</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>20</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1>Il censimento ISTAT del 1931 riporta che il paese aveva una popolazione di 10.218 abitanti $(391568)$.&lt;br&gt;La scossa durò 10s e causò lesioni a 3 case $(090462)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00928</nterr>
+      <nperiod>001033</nperiod>
+      <datanum>16270730</datanum>
+      <data_label>1627 07 30</data_label>
+      <anno>1627</anno>
+      <mese>07</mese>
+      <giorno>30</giorno>
+      <time_label>10:50</time_label>
+      <ora>10</ora>
+      <minu>50</minu>
+      <sec>-9</sec>
+      <lat>41.7381</lat>
+      <lon>15.3419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>64</npun>
+      <mm>6.8</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>10</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.1</intpqnum>
+      <intpq>S</intpq>
+      <D1>Il terremoto fu avvertito, ma non sono note descrizioni degli effetti $(900227,680048,900233)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>32584</nterr>
+      <nperiod>003266</nperiod>
+      <datanum>19480818</datanum>
+      <data_label>1948 08 18</data_label>
+      <anno>1948</anno>
+      <mese>08</mese>
+      <giorno>18</giorno>
+      <time_label>21:12:20</time_label>
+      <ora>21</ora>
+      <minu>12</minu>
+      <sec>20</sec>
+      <lat>41.5524</lat>
+      <lon>15.8135</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>60</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Puglia settentrionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa del 18 agosto (ore 21:12 GMT) fu avvertita fortemente da tutta la popolazione, che si riversò all’aperto lontano dagli edifici, ma non causò danni di rilievo; poco prima del terremoto ci fu un’interruzione dell’energia elettrica che tornò regolare dopo qualche minuto $(143864,300251)$.&lt;br&gt;La scossa del 21 agosto (ore 08:45 GMT) fu più violenta della precedente e causò vari danni ai fabbricati: 15 case furono rese inabitabili e altre 350 circa risultarono lesionate in modo più leggero; fu danneggiato il campanile della cattedrale $(143897,300251,672599,672867,900082)$.&lt;br&gt;La scossa del 22 agosto (ore 23:16 GMT) fu sentita molto fortemente da tutta la popolazione che si riversò nelle piazze e sulla spiaggia trascorrendo la notte all’aperto; qualche nuova lesione agli edifici non accertata $(143922)$.&lt;br&gt;Il comune fu inserito nell’elenco delle località danneggiate a cui erano applicabili le disposizioni della legge 14 febbraio 1949, n.39 $(672607,672616,672617)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>14782</nterr>
+      <nperiod>000735</nperiod>
+      <datanum>18930810</datanum>
+      <data_label>1893 08 10</data_label>
+      <anno>1893</anno>
+      <mese>08</mese>
+      <giorno>10</giorno>
+      <time_label>20:52:00</time_label>
+      <ora>20</ora>
+      <minu>52</minu>
+      <sec>00</sec>
+      <lat>41.7136</lat>
+      <lon>16.0749</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8.5</imax>
+      <npun>69</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>5</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa causò tremolio di vetri, imposte e oggetti; molte persone corsero nelle strade. Tra gli spettatori del piccolo teatro, intenti ad assistere a una rappresentazione, solo pochi avvertirono la scossa e nessuno diede segni di spavento, tanto che la rappresentazione continuò senza interruzione alcuna $(001352,001344,900066)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>07534</nterr>
+      <nperiod>001034</nperiod>
+      <datanum>18510814</datanum>
+      <data_label>1851 08 14</data_label>
+      <anno>1851</anno>
+      <mese>08</mese>
+      <giorno>14</giorno>
+      <time_label>13:20</time_label>
+      <ora>13</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>40.9531</lat>
+      <lon>15.6667</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>103</npun>
+      <mm>6.4</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>17</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito fortemente, ma non causò danni $(900035)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>08443</nterr>
+      <nperiod>001012</nperiod>
+      <datanum>18571216</datanum>
+      <data_label>1857 12 16</data_label>
+      <anno>1857</anno>
+      <mese>12</mese>
+      <giorno>16</giorno>
+      <time_label>21:15</time_label>
+      <ora>21</ora>
+      <minu>15</minu>
+      <sec>-9</sec>
+      <lat>40.3529</lat>
+      <lon>15.8419</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>341</npun>
+      <mm>7</mm>
+      <earthquakelocation>Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>62</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Il terremoto fu avvertito in modo forte $(070844)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23303</nterr>
+      <nperiod>003113</nperiod>
+      <datanum>19100607</datanum>
+      <data_label>1910 06 07</data_label>
+      <anno>1910</anno>
+      <mese>06</mese>
+      <giorno>07</giorno>
+      <time_label>02:04:00</time_label>
+      <ora>02</ora>
+      <minu>04</minu>
+      <sec>00</sec>
+      <lat>40.8989</lat>
+      <lon>15.4217</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>8</io>
+      <imax>9</imax>
+      <npun>376</npun>
+      <mm>5.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>16</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>La scossa, in due fasi della durata di 6-7s, fu avvertita fortemente dalla popolazione $(000021,470686)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>41752</nterr>
+      <nperiod>003127</nperiod>
+      <datanum>19801123</datanum>
+      <data_label>1980 11 23</data_label>
+      <anno>1980</anno>
+      <mese>11</mese>
+      <giorno>23</giorno>
+      <time_label>18:34:52</time_label>
+      <ora>18</ora>
+      <minu>34</minu>
+      <sec>52</sec>
+      <lat>40.8428</lat>
+      <lon>15.2832</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>1395</npun>
+      <mm>6.7</mm>
+      <earthquakelocation>Irpinia-Basilicata</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>15</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1>Non sono note descrizioni degli effetti. Postpischl et al. (1985) hanno stimato l’intensità della scossa di V grado della scala MCS $(745013)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24751</nterr>
+      <nperiod>003114</nperiod>
+      <datanum>19150113</datanum>
+      <data_label>1915 01 13</data_label>
+      <anno>1915</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>06:52:43</time_label>
+      <ora>06</ora>
+      <minu>52</minu>
+      <sec>43</sec>
+      <lat>41.982</lat>
+      <lon>13.6481</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>11</io>
+      <imax>11</imax>
+      <npun>858</npun>
+      <mm>7</mm>
+      <earthquakelocation>Marsica</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>94</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1>La scossa venne avvertita dalla popolazione $(143206,583177)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42013</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840511</datanum>
+      <data_label>1984 05 11</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>11</giorno>
+      <time_label>10:42:00</time_label>
+      <ora>10</ora>
+      <minu>42</minu>
+      <sec>00</sec>
+      <lat>41.7152</lat>
+      <lon>14.0759</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>342</npun>
+      <mm>5.4</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di III grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>42010</nterr>
+      <nperiod>003260</nperiod>
+      <datanum>19840507</datanum>
+      <data_label>1984 05 07</data_label>
+      <anno>1984</anno>
+      <mese>05</mese>
+      <giorno>07</giorno>
+      <time_label>17:50:00</time_label>
+      <ora>17</ora>
+      <minu>50</minu>
+      <sec>00</sec>
+      <lat>41.6671</lat>
+      <lon>14.0571</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>913</npun>
+      <mm>5.8</mm>
+      <earthquakelocation>Appennino abruzzese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>15</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1>Non sono note descrizioni degli effetti. Frezzotti et al. (1995) hanno valutato l’intensità della scossa del 7 maggio di III grado MCS. L’intensità della scossa dell’11 maggio è stata valutata di III grado MCS $(035264)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00995</nterr>
+      <nperiod>003079</nperiod>
+      <datanum>16460531</datanum>
+      <data_label>1646 05 31</data_label>
+      <anno>1646</anno>
+      <mese>05</mese>
+      <giorno>31</giorno>
+      <time_label>04:30</time_label>
+      <ora>04</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>41.874</lat>
+      <lon>15.9385</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>17</npun>
+      <mm>6.3</mm>
+      <earthquakelocation>Gargano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>2</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9</intpqnum>
+      <intpq>IX</intpq>
+      <D1>Crollo di abitazioni, di parti del castello, di chiese (San Simeone Seno, San Marco) e monasteri (San Francesco dei frati minori conventuali); danni alla chiesa cattedrale e alla residenza vescovile $(310077,900183)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>130097</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.188, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 5 marzo 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130102</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Napoli, Regia Camera della Sommaria, Segreteria, Dispacci, vol.189, Biglietto del segretario di Stato e Azienda Giovanni Brancaccio al luogotenente della Regia Camera della Sommaria Luigi Paternò, Napoli 18 maggio 1743.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1743</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110171</codbib>
+      <autore1>Ambrosi A.</autore1>
+      <titolo1>Cattedrale di Vieste. Comunicazione sui lavori di restauro in corso, in "Continuità", a.11, aprile-giugno, pp.19-44.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1977</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900238</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Foggia, Dogana delle pecore, serie V, fascio 41, fasc.4410, Perizia dei lavori necessari per la riparazione del castello di Vieste danneggiato dal terremoto del 1694 redatta dall’ingegnere regio Francesco Pisani, Vieste 16 luglio 1696.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1696</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900269</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Foggia, Dogana delle pecore, serie V, fascio 41, fasc.4410, Minuta di relazione sullo stato del castello e del forte di Vieste, Ascoli Satriano 5 settembre 1695.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1695</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001352</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche sul terremoto del 10 agosto 1893 inviate all’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1893</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001344</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Intorno ai fenomeni sismici avvenuti nella penisola Garganica durante il 1893, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.15, parte 1, a.1893, pp.265-312.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1894</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900066</codbib>
+      <autore1>Nigri V.</autore1>
+      <titolo1>La Capitanata. Foggia e il suo clima desunto da 30 anni di osservazioni sulla specola meteorico-sismica.</titolo1>
+      <luogoed>San Severo</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>370039</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Apostolica Vaticana, Manoscritti, Palatini Latini, 1077, Giannozzo Manetti, De terraemotu libri tres, 1457.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1457</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>070844</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Omnibus, 1857.12.30, n.104.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1857</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900227</codbib>
+      <autore1>Fraccacreta M.</autore1>
+      <titolo1>Teatro topografico storico-poetico della Capitanata e degli altri luoghi più memorabili e limitrofi della Puglia, tomo 6.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1828</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>680048</codbib>
+      <autore1>Molin D. e Margottini C.</autore1>
+      <titolo1>Il terremoto del 1627 nella Capitanata settentrionale, in "Contributo alla caratterizzazione della sismicità del terremoto italiano". Memorie presentate al Convegno annuale del Progetto Finalizzato "Geodinamica" del C.N.R. sul tema: "Sismicità dell’Italia: stato delle conoscenze scientifiche e qualità della normativa sismica", Udine 12-14 maggio 1981. Commissione ENEA-ENEL per lo studio dei problemi sismici connessi con la realizzazione di impianti nucleari, pp.251-279.</titolo1>
+      <luogoed>Udine</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900233</codbib>
+      <autore1>Cardillo L.</autore1>
+      <titolo1>Dizionario corografico e storico e statistico della Capitanata e de’ luoghi più notevoli dell’antica Daunia.</titolo1>
+      <luogoed>Altamura</luogoed>
+      <datacompl>1885</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900035</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Foggia, Intendenza di Capitanata, fascio 1712, fasc.3, Riassunto di quanto si riferisce dalle diverse autorità di questa provincia [di Capitanata] intorno al tremuoto [del 14 agosto 1851], per mezzo di rapporti giunti nella Intendenza, oggi 21 agosto 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1851</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310193</codbib>
+      <autore1>Giuliani V.</autore1>
+      <titolo1>Memorie storiche politiche, ecclesiastiche della città di Vieste.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1768</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>310077</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Nazionale "Sagarriga Visconti-Volpe" di Bari, Manoscritti, I/67, S.Cardassi e C.Cardassi, Memorie, sec.XVII.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XVII sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900183</codbib>
+      <autore1>De Grazia M.</autore1>
+      <titolo1>Memorie storiche di Rodi Garganico con alcune notizie sul Gargano.</titolo1>
+      <luogoed>San Severo</luogoed>
+      <datacompl>1899</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000021</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1910, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", vol.17 (1913).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1914</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470686</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Corriere delle Puglie, 1910.06.08.</titolo1>
+      <luogoed>Bari</luogoed>
+      <datacompl>1910</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143206</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Lettera del direttore della Specola meteorologica sismica di Foggia Agostino Nigri all’Ufficio Centrale di Meteorologia e Geodinamica relativa al terremoto del 13 gennaio 1915, Foggia 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>583177</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1915, Telegrammi in arrivo dal 13 gennaio al 17 gennaio, n.1012, Telegramma del Prefetto di Foggia al Ministero dell’Interno relativa alla scossa di terremoto avvertita in provincia il 13 gennaio 1915, Foggia 13 gennaio 1915.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1915</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>391568</codbib>
+      <autore1>*</autore1>
+      <titolo1>ISTAT, VII Censimento generale della popolazione 21 aprile 1931, vol.2 (Popolazione dei Comuni e delle Frazioni di censimento), pt.2 (Italia Centrale, Meridionale e Insulare).</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1933</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>090462</codbib>
+      <autore1>Alfano G.B.</autore1>
+      <titolo1>Il terremoto irpino del 23 luglio 1930 (Pubblicazione dell’Osservatorio di Pompei).</titolo1>
+      <luogoed>Pompei</luogoed>
+      <datacompl>1931</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>055150</codbib>
+      <autore1>Cavallo R. e Penta F.</autore1>
+      <titolo1>Qualche insegnamento tratto dal terremoto irpino del 1962, in "La Ricerca Scientifica", a.34, s.II, parte II (Rendiconti), sezione A (Abiologica), vol.6, n.1 (ottobre 1964), pp.93-128.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1964</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745013</codbib>
+      <autore1>Postpischl D., Branno A., Esposito E., Ferrari G., Marturano A., Porfido S., Rinaldis V. e Stucchi M.</autore1>
+      <titolo1>The Irpinia earthquake of November 23, 1980, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, pp.152-159.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>035264</codbib>
+      <autore1>Frezzotti M., Margottini C., Molin D. e Narcisi B.</autore1>
+      <titolo1>Elenco delle scosse relative al periodo agosto 1983-aprile 1985 (Appendice I), in "Lazio meridionale. Sintesi delle ricerche geologiche multidisciplinari", a cura di C.Carrara, pp.269-303.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1995</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143864</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 18 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Faro di Vieste 23 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300251</codbib>
+      <autore1>Ranieri L.</autore1>
+      <titolo1>Sul periodo sismico dell’estate 1948 in Puglia, in "Bollettino della Società Geografica Italiana", a.83, vol.86 (1949), pp.213-219.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143897</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 21 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Faro di Vieste 24 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672599</codbib>
+      <autore1>*</autore1>
+      <titolo1>ANSA, Notiziario per la stampa, 1948.08.22, Servizio Italiano.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672867</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Gabinetto, Ufficio cifra, 1948, b.22 (Telegrammi in arrivo dal 15 agosto al 30 agosto), fasc.21300, n.21363, Telegramma del prefetto di Foggia Angelo Donadu al Ministero dell’Interno e al Ministero dei Lavori Pubblici, Foggia 21 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900082</codbib>
+      <autore1>Dell’Erba M.</autore1>
+      <titolo1>La Cattedrale di Vieste nella fede, nella storia e nell’arte, in "La Cattedrale di Vieste", a cura del Centro di cultura "N.Cimaglia", 2a ed.</titolo1>
+      <luogoed>Vieste</luogoed>
+      <datacompl>1981</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>143922</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Istituto Nazionale di Geofisica e Vulcanologia, Cartoline macrosismiche, Cartolina macrosismica relativa al terremoto del 22 agosto 1948 inviata all’Ufficio Centrale di Meteorologia e di Ecologia Agraria, Faro di Vieste 26 agosto 1948.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1948</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672607</codbib>
+      <autore1>*</autore1>
+      <titolo1>Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana, a.1949, vol.1, n.39, Legge 14 febbraio 1949, Autorizzazione della spesa di lire 500 milioni per i danni causati dal terremoto del 18-23 agosto 1948 nelle Puglie.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672616</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino ufficiale del Ministero dei Lavori Pubblici, a.50 (1949), parte prima (Leggi, decreti e regolamenti), Decreto interministeriale 22 giugno 1949, n.2323, Approvazione dell’elenco dei Comuni danneggiati dal terremoto del 1948 nelle Puglie.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672617</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino ufficiale del Ministero dei Lavori Pubblici, a.50 (1949), parte prima (Leggi, decreti e regolamenti), Decreto ministeriale 22 giugno 1949, Elenco dei Comuni danneggiati dal terremoto 1948 ai quali sono applicabili le disposizioni della legge 14 febbraio 1949, n.39.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1949</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

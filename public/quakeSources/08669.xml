@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>08669</nterr>
+      <nperiod>003207</nperiod>
+      <datanum>18580830</datanum>
+      <data_label>1858 08 30</data_label>
+      <anno>1858</anno>
+      <mese>08</mese>
+      <giorno>30</giorno>
+      <time_label>14:30</time_label>
+      <ora>14</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.3241</lat>
+      <lon>7.3408</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>8</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.4</mm>
+      <earthquakelocation>Cuneese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata sviluppata una ricerca bibliografica. Baratta (1901) $(000001)$ riprese la notizia di questo evento da Mercalli (1897) $(000014)$, che a sua volta si era basato su Perrey (1861) $(745585)$. Quest’ultimo autore, che risulta quindi la base informativa, aveva utilizzato fonti giornalistiche non precisate. Il vaglio della stampa dell’epoca ha portato al reperimento della probabile fonte remota delle informazioni. Le notizie furono pubblicate dal periodico "Sentinella delle Alpi" di Cuneo, oggi non disponibile nel testo originale, e vennero riprese da altri giornali, tra cui la "Gazzetta di Venezia" $(672763)$, attraverso le quali si diffusero e furono utilizzate dalla tradizione sismologica</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 30 agosto 1858 alle ore 14:30 GMT (le 3 e 30 pomeridiane locali) e fu percepita della durata di 4-5 secondi. Colpì un’area ristretta del Cuneese, causando il crollo di un forno di campagna e del tetto di una casa nel paese di Fedio; fu avvertita fortemente a Demonte, Gaiola e Moiola, dove tuttavia non sono menzionati danni; fu leggermente avvertita a Cuneo e in altri centri della provincia.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672763</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1858.09.07, a.15, n.204.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745585</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1858 avec supplements pour les années anterieures, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 32.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1861</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Fedio</desloc>
+      <lat_wgs84>44.3245</lat_wgs84>
+      <lon_wgs84>7.2739</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005593.00</nloc_cfti>
+      <desloc_cfti>Fedio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa causò il crollo di un forno di campagna e del tetto di una casa; non vi furono vittime $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Demonte</desloc>
+      <lat_wgs84>44.3155</lat_wgs84>
+      <lon_wgs84>7.2958</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005581.00</nloc_cfti>
+      <desloc_cfti>Demonte</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima e causò panico nella popolazione $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Gaiola</desloc>
+      <lat_wgs84>44.3359</lat_wgs84>
+      <lon_wgs84>7.4054</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005768.00</nloc_cfti>
+      <desloc_cfti>Gaiola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Moiola</desloc>
+      <lat_wgs84>44.3206</lat_wgs84>
+      <lon_wgs84>7.3882</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005978.00</nloc_cfti>
+      <desloc_cfti>Moiola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cuneo</desloc>
+      <lat_wgs84>44.3815</lat_wgs84>
+      <lon_wgs84>7.538</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005501.00</nloc_cfti>
+      <desloc_cfti>Cuneo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu solo avvertita $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Cavallermaggiore</desloc>
+      <lat_wgs84>44.7069</lat_wgs84>
+      <lon_wgs84>7.687</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005272.00</nloc_cfti>
+      <desloc_cfti>Cavallermaggiore</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita dalla popolazione, in particolare da coloro che abitavano nei piani superiori $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Marene</desloc>
+      <lat_wgs84>44.662</lat_wgs84>
+      <lon_wgs84>7.7273</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>005936.00</nloc_cfti>
+      <desloc_cfti>Marene</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita dalla popolazione, in particolare da coloro che abitavano nei piani superiori $(672763)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Savigliano</desloc>
+      <lat_wgs84>44.6483</lat_wgs84>
+      <lon_wgs84>7.6547</lon_wgs84>
+      <provlet>CN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>08669</nterr>
+      <nloc_cfti>006907.00</nloc_cfti>
+      <desloc_cfti>Savigliano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita dalla popolazione, in particolare da coloro che abitavano nei piani superiori $(672763)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

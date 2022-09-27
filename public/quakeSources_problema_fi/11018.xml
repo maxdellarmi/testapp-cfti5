@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>11018</nterr>
+      <nperiod>000723</nperiod>
+      <datanum>18770824</datanum>
+      <data_label>1877 08 24</data_label>
+      <anno>1877</anno>
+      <mese>08</mese>
+      <giorno>24</giorno>
+      <time_label>02:45</time_label>
+      <ora>02</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>41.7106</lat>
+      <lon>13.351</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>54</npun>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.2</mm>
+      <earthquakelocation>Lazio meridionale</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) costituita dal catalogo inedito ma disponibile di Dell’Olio e Molin (1980) $(745088)$, nel quale le informazioni sono sintetizzate in una carta delle intensità senza descrizione degli effetti. È stata condotta una ricerca sulla letteratura sismologica e sulla stampa quotidiana coeva.&lt;br&gt;Baratta (1901) $(000001)$ riprese le notizie contenute nei "Quadri sinottici e cronologici" redatti da De Rossi (1879) $(001296)$ e utilizzò vari altri brevi contributi dello stesso De Rossi pubblicati nel "Bullettino del Vulcanismo Italiano" (1877), in cui si tornò a più riprese su questo evento $(001295,745092,745093,745094,745095)$. Sono state utilizzate le cartoline macrosismiche compilate presso l’Ufficio Centrale di Meteorologia e Geodinamica in base alle informazioni pervenute dalle stazioni termo-udometriche di Fermo, Montecassino, Montecavo, Poggio Mirteto, Ripi, Roma e Valmontone $(001307)$. Il vaglio dei quotidiani ha consentito di reperire informazioni utili in 3 testate $(672734,672735,672736,672737,672738,672739)$. Generici riferimenti a questo evento sono presenti nella raccolta di "Osservazioni meteorologiche" del CAI (1877) $(000074)$ e in uno studio di Cancani (1903) $(060012)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>L’area dei massimi effetti è compresa nel territorio dell’attuale provincia di Frosinone che all’epoca del terremoto apparteneva in parte alla provincia di Roma e in parte a quella di Caserta.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>A Rocca di Papa il terremoto causò spavento e gran parte della popolazione abbandonò precipitosamente le abitazioni $(001295)$. A Frosinone gli abitanti si riversarono all’aperto $(001296)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>De Rossi nello studio di questo periodo sismico prese in considerazione elementi meteorologici (siccità, alte temperature, pressione atmosferica) e astronomici (cicli lunari). Secondo l’autore i fenomeni sismici dell’agosto 1877 furono originati nel sistema del complesso vulcanico spento laziale. Le scosse si propagarono da un radiante coincidente con una frattura di direzione nord-sud estendentesi fra Rocca Priora, Rocca di Papa e Velletri con centro nel cratere principale dei Prati d’Annibale. I radianti da cui si propagò la scossa del 24 agosto ebbero questa direzione coincidendo con il prolungamento delle fratture vulcaniche che si estendono oltre Rocca Priora, fra gli Appennini, in direzione di Subiaco e quella nord ovest-sud est in direzione dei crateri complementari del sistema laziale, verso la Valle del Sacco, fino a Pofi e Frosinone e verso la Valle del Liri, fino a Isola del Liri $(001295,745095)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 24 agosto 1877 alle ore 2:45 GMT ca. e colpì alcuni centri del Lazio meridionale, danneggiando in particolare l’abitato di Isola del Liri, dove causò lesioni a quasi tutti i fabbricati; danni gravi furono riscontrati anche a Veroli. La scossa fu sentita molto fortemente a Frosinone, dove circa 4 ore dopo fu avvertita una seconda scossa altrettanto forte; non vi furono danni, ma la maggior parte degli abitanti fuggì dalle abitazioni. Fu avvertita in modo sensibile a Roma e più leggermente fino a Fermo, a Benevento e a Caserta.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Nella solfatara di Tivoli, o lago delle "Acque albule", fu osservato un sensibile aumento dell’emissione dei vapori.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000074</codbib>
+      <autore1>*</autore1>
+      <titolo1>Osservazioni meteorologiche fatte nelle stazioni italiane presso le Alpi e gli Appennini e pubblicate per cura del Club Alpino Italiano dall’Osservatorio di Moncalieri, a.6 (dicembre 1876-novembre 1877).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001295</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Periodo sismico laziale e della Valle del Liri nell’Agosto [1877], in "Bullettino del Vulcanismo Italiano", a.4, pp.74-76.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001296</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Quadri sinottici e cronologici dei fenomeni endogeni italiani col confronto di alcuni altri fenomeni [1 ottobre 1876-28 giugno 1878], in "Bullettino del Vulcanismo Italiano", a.6, pp.47-55, 99-108, 166-169, 182-184.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1879</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001307</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche relative al terremoto del 24 agosto 1877 compilate dall’Ufficio Centrale di Meteorologia e Geodinamica.</titolo1>
+      <luogoed></luogoed>
+      <datacompl></datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060012</codbib>
+      <autore1>Cancani A.</autore1>
+      <titolo1>Sulla distribuzione dell’intensità delle repliche nei periodi sismici italiani, in "Bollettino della Società Sismologica Italiana", vol.8 (1902-1903), pp.17-48.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1903</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672734</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta della Capitale, 1877.08.26, a.3, n.641.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672735</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta della Capitale, 1877.08.27, a.3, n.642.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672736</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Opinione, 1877.08.25, a.30, n.232.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672737</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Opinione, 1877.08.26, a.30, n.233.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672738</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta d’Italia, 1877.08.26, a.12, n.238.</titolo1>
+      <luogoed>Firenze-Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672739</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta d’Italia, 1877.08.27, a.12, n.239.</titolo1>
+      <luogoed>Firenze-Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672740</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta d’Italia, 1877.08.28, a.12, n.240.</titolo1>
+      <luogoed>Firenze-Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745088</codbib>
+      <autore1>Dell’Olio A. e Molin D.</autore1>
+      <titolo1>Catalogo macrosismico del Lazio dall’anno 1000 al 1975, ENEA (inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1980</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745092</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Cronaca vesuviana del giugno, luglio ed agosto 1877: notizie diverse riunite e specialmente osservazioni del prof. L.Palmieri, in "Bullettino del Vulcanismo Italiano", a.4, pp.111-112.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745093</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Le emanazioni di gas durante il periodo sismico laziale dell’agosto 1877, in "Bullettino del Vulcanismo Italiano", a.4, p.111.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745094</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Osservazione interessante fatta nel terremoto del 24 agosto 1877 dall’ing. G.Olivieri, in "Bullettino del Vulcanismo Italiano", a.4, pp.110-101.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745095</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Nuovi studi e notizie sul periodo sismico laziale dell’agosto 1877 e segnatamente sul terremoto del 24 agosto, in "Bullettino del Vulcanismo Italiano", a.4, pp.106-110.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1877</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Isola del Liri</desloc>
+      <lat_wgs84>41.681</lat_wgs84>
+      <lon_wgs84>13.5784</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055325.00</nloc_cfti>
+      <desloc_cfti>Isola del Liri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima, causò lesioni in quasi tutti i fabbricati $(001296,672734,672737,672739)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Veroli</desloc>
+      <lat_wgs84>41.6924</lat_wgs84>
+      <lon_wgs84>13.4186</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055889.00</nloc_cfti>
+      <desloc_cfti>Veroli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>De Rossi definì la scossa "rovinosa", senza descriverne gli effetti $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Alatri</desloc>
+      <lat_wgs84>41.7264</lat_wgs84>
+      <lon_wgs84>13.3439</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054764.00</nloc_cfti>
+      <desloc_cfti>Alatri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima, accompagnata da rombo $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Anagni</desloc>
+      <lat_wgs84>41.7427</lat_wgs84>
+      <lon_wgs84>13.1562</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054792.00</nloc_cfti>
+      <desloc_cfti>Anagni</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Arce</desloc>
+      <lat_wgs84>41.5857</lat_wgs84>
+      <lon_wgs84>13.575</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054813.00</nloc_cfti>
+      <desloc_cfti>Arce</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima, accompagnata da rombo $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Bauco</desloc>
+      <lat_wgs84>41.6426</lat_wgs84>
+      <lon_wgs84>13.4727</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054910</nloc_cfti>
+      <desloc_cfti>Boville Ernica (Bauco)</desloc_cfti>
+      <notesito>Assunse la denominazione di Boville Ernica il 20 gennaio 1907.</notesito>
+      <COMM>La scossa fu fortissima $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Jenne</desloc>
+      <lat_wgs84>41.8874</lat_wgs84>
+      <lon_wgs84>13.1687</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053831.00</nloc_cfti>
+      <desloc_cfti>Jenne</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Valmontone</desloc>
+      <lat_wgs84>41.7759</lat_wgs84>
+      <lon_wgs84>12.9187</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054461.00</nloc_cfti>
+      <desloc_cfti>Valmontone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima $(001296,001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V-VI</intpq>
+      <desloc>Montecassino</desloc>
+      <lat_wgs84>41.4905</lat_wgs84>
+      <lon_wgs84>13.8137</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5.5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055053.00</nloc_cfti>
+      <desloc_cfti>Montecassino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima $(001296,001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Affile</desloc>
+      <lat_wgs84>41.8844</lat_wgs84>
+      <lon_wgs84>13.0967</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053585.00</nloc_cfti>
+      <desloc_cfti>Affile</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Albano Laziale</desloc>
+      <lat_wgs84>41.7284</lat_wgs84>
+      <lon_wgs84>12.6585</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053594.00</nloc_cfti>
+      <desloc_cfti>Albano Laziale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ariccia</desloc>
+      <lat_wgs84>41.7205</lat_wgs84>
+      <lon_wgs84>12.671</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053652.00</nloc_cfti>
+      <desloc_cfti>Ariccia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Canterano</desloc>
+      <lat_wgs84>41.9428</lat_wgs84>
+      <lon_wgs84>13.0369</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053708.00</nloc_cfti>
+      <desloc_cfti>Canterano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Carpineto Romano</desloc>
+      <lat_wgs84>41.6055</lat_wgs84>
+      <lon_wgs84>13.0839</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053716.00</nloc_cfti>
+      <desloc_cfti>Carpineto Romano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, con rombo $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Casape</desloc>
+      <lat_wgs84>41.907</lat_wgs84>
+      <lon_wgs84>12.886</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053717.00</nloc_cfti>
+      <desloc_cfti>Casape</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Castel Gandolfo</desloc>
+      <lat_wgs84>41.747</lat_wgs84>
+      <lon_wgs84>12.6506</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053726.00</nloc_cfti>
+      <desloc_cfti>Castel Gandolfo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu molto forte $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ceccano</desloc>
+      <lat_wgs84>41.5691</lat_wgs84>
+      <lon_wgs84>13.3342</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055110.00</nloc_cfti>
+      <desloc_cfti>Ceccano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cervara di Roma</desloc>
+      <lat_wgs84>41.9883</lat_wgs84>
+      <lon_wgs84>13.0682</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053744.00</nloc_cfti>
+      <desloc_cfti>Cervara di Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cisterna di Latina</desloc>
+      <lat_wgs84>41.5916</lat_wgs84>
+      <lon_wgs84>12.8294</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054515.00</nloc_cfti>
+      <desloc_cfti>Cisterna di Latina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Cori</desloc>
+      <lat_wgs84>41.6426</lat_wgs84>
+      <lon_wgs84>12.9159</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054520.00</nloc_cfti>
+      <desloc_cfti>Cori</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Frosinone</desloc>
+      <lat_wgs84>41.6362</lat_wgs84>
+      <lon_wgs84>13.3403</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055292.00</nloc_cfti>
+      <desloc_cfti>Frosinone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente; tutti gli abitanti si riversarono all’aperto. Non vi furono danni $(001296,672734,672738)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Genzano di Roma</desloc>
+      <lat_wgs84>41.7075</lat_wgs84>
+      <lon_wgs84>12.6882</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053793.00</nloc_cfti>
+      <desloc_cfti>Genzano di Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Giuliano di Roma</desloc>
+      <lat_wgs84>41.5391</lat_wgs84>
+      <lon_wgs84>13.2798</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055315.00</nloc_cfti>
+      <desloc_cfti>Giuliano di Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Maenza</desloc>
+      <lat_wgs84>41.523</lat_wgs84>
+      <lon_wgs84>13.1803</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054584.00</nloc_cfti>
+      <desloc_cfti>Maenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Monte Cavo</desloc>
+      <lat_wgs84>41.7518</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054018.00</nloc_cfti>
+      <desloc_cfti>Monte Cavo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296,001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Nemi</desloc>
+      <lat_wgs84>41.7173</lat_wgs84>
+      <lon_wgs84>12.7167</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053940.00</nloc_cfti>
+      <desloc_cfti>Nemi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Palazzolo</desloc>
+      <lat_wgs84>41.7457</lat_wgs84>
+      <lon_wgs84>12.691</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>072620.00</nloc_cfti>
+      <desloc_cfti>Palazzolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pofi</desloc>
+      <lat_wgs84>41.5648</lat_wgs84>
+      <lon_wgs84>13.4154</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055501.00</nloc_cfti>
+      <desloc_cfti>Pofi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu fortissima $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Poli</desloc>
+      <lat_wgs84>41.8878</lat_wgs84>
+      <lon_wgs84>12.8919</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053978.00</nloc_cfti>
+      <desloc_cfti>Poli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ponza</desloc>
+      <lat_wgs84>41.8814</lat_wgs84>
+      <lon_wgs84>13.1146</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053618</nloc_cfti>
+      <desloc_cfti>Arcinazzo Romano (Ponza)</desloc_cfti>
+      <notesito>Assunse la denominazione di Ponza d’Arcinazzo il 15 ottobre 1872 e quella di Arcinazzo Romano il 29 maggio 1891.</notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Ripi</desloc>
+      <lat_wgs84>41.6128</lat_wgs84>
+      <lon_wgs84>13.4263</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055535.00</nloc_cfti>
+      <desloc_cfti>Ripi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rocca Canterano</desloc>
+      <lat_wgs84>41.9565</lat_wgs84>
+      <lon_wgs84>13.0218</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054008.00</nloc_cfti>
+      <desloc_cfti>Rocca Canterano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rocca di Papa</desloc>
+      <lat_wgs84>41.761</lat_wgs84>
+      <lon_wgs84>12.7097</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054017.00</nloc_cfti>
+      <desloc_cfti>Rocca di Papa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente, ma non causò danni $(001295)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rocca Massima</desloc>
+      <lat_wgs84>41.6788</lat_wgs84>
+      <lon_wgs84>12.9201</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054637.00</nloc_cfti>
+      <desloc_cfti>Rocca Massima</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>San Gregorio da Sassola</desloc>
+      <lat_wgs84>41.9184</lat_wgs84>
+      <lon_wgs84>12.871</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054403.00</nloc_cfti>
+      <desloc_cfti>San Gregorio da Sassola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Sezze</desloc>
+      <lat_wgs84>41.4988</lat_wgs84>
+      <lon_wgs84>13.0596</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054692.00</nloc_cfti>
+      <desloc_cfti>Sezze</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Subiaco</desloc>
+      <lat_wgs84>41.9259</lat_wgs84>
+      <lon_wgs84>13.0946</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054435.00</nloc_cfti>
+      <desloc_cfti>Subiaco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Terracina</desloc>
+      <lat_wgs84>41.289</lat_wgs84>
+      <lon_wgs84>13.2327</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054738.00</nloc_cfti>
+      <desloc_cfti>Terracina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita molto fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Tivoli</desloc>
+      <lat_wgs84>41.9642</lat_wgs84>
+      <lon_wgs84>12.7977</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054445.00</nloc_cfti>
+      <desloc_cfti>Tivoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, accompagnata da rombo, fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Velletri</desloc>
+      <lat_wgs84>41.6889</lat_wgs84>
+      <lon_wgs84>12.778</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054464.00</nloc_cfti>
+      <desloc_cfti>Velletri</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Fermo</desloc>
+      <lat_wgs84>43.1611</lat_wgs84>
+      <lon_wgs84>13.7155</lon_wgs84>
+      <provlet>FM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>052485.00</nloc_cfti>
+      <desloc_cfti>Fermo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Filettino</desloc>
+      <lat_wgs84>41.8901</lat_wgs84>
+      <lon_wgs84>13.3235</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055200.00</nloc_cfti>
+      <desloc_cfti>Filettino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Poggio Mirteto</desloc>
+      <lat_wgs84>42.2655</lat_wgs84>
+      <lon_wgs84>12.6859</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053472.00</nloc_cfti>
+      <desloc_cfti>Poggio Mirteto</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(001307)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Roccasecca</desloc>
+      <lat_wgs84>41.5527</lat_wgs84>
+      <lon_wgs84>13.6678</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055546.00</nloc_cfti>
+      <desloc_cfti>Roccasecca</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Sora</desloc>
+      <lat_wgs84>41.719</lat_wgs84>
+      <lon_wgs84>13.613</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055710.00</nloc_cfti>
+      <desloc_cfti>Sora</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Genazzano</desloc>
+      <lat_wgs84>41.8337</lat_wgs84>
+      <lon_wgs84>12.973</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053791.00</nloc_cfti>
+      <desloc_cfti>Genazzano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu di mediocre intensità $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Palestrina</desloc>
+      <lat_wgs84>41.8394</lat_wgs84>
+      <lon_wgs84>12.891</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053971.00</nloc_cfti>
+      <desloc_cfti>Palestrina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu di mediocre intensità $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV</intpq>
+      <desloc>Roma</desloc>
+      <lat_wgs84>41.896</lat_wgs84>
+      <lon_wgs84>12.4822</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054180.00</nloc_cfti>
+      <desloc_cfti>Roma</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita sensibilmente; in alcune abitazioni vi fu scuotimento di mobili e suono di campanelli. Non vi furono danni $(001296,001307,672734,672736,672738)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Benevento</desloc>
+      <lat_wgs84>41.1297</lat_wgs84>
+      <lon_wgs84>14.777</lon_wgs84>
+      <provlet>BN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>059438.00</nloc_cfti>
+      <desloc_cfti>Benevento</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(001296,672735,672738)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Caserta</desloc>
+      <lat_wgs84>41.0718</lat_wgs84>
+      <lon_wgs84>14.3331</lon_wgs84>
+      <provlet>CE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>058948.00</nloc_cfti>
+      <desloc_cfti>Caserta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(001296,672735,672738)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Roccantica</desloc>
+      <lat_wgs84>42.3209</lat_wgs84>
+      <lon_wgs84>12.6928</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053540.00</nloc_cfti>
+      <desloc_cfti>Roccantica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita debolmente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Sonnino</desloc>
+      <lat_wgs84>41.4139</lat_wgs84>
+      <lon_wgs84>13.2455</lon_wgs84>
+      <provlet>LT</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>054716.00</nloc_cfti>
+      <desloc_cfti>Sonnino</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Vallecorsa</desloc>
+      <lat_wgs84>41.445</lat_wgs84>
+      <lon_wgs84>13.4047</lon_wgs84>
+      <provlet>FR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>055806.00</nloc_cfti>
+      <desloc_cfti>Vallecorsa</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente $(001296)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Artena</desloc>
+      <lat_wgs84>41.7407</lat_wgs84>
+      <lon_wgs84>12.912</lon_wgs84>
+      <provlet>RM</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>11018</nterr>
+      <nloc_cfti>053675</nloc_cfti>
+      <desloc_cfti>Artena (Montefortino)</desloc_cfti>
+      <notesito>Già Montefortino, assunse la denominazione attuale il 19 febbraio 1873.</notesito>
+      <COMM>La scossa fu leggerissima; la località è ancora indicata con il vecchio nome di Montefortino $(001296)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

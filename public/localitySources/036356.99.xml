@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>036356.99</nloc_cfti>
+      <desloc_cfti>Mezzani</desloc_cfti>
+      <provlet>PR</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.9166</lat_wgs84>
+      <lon_wgs84>10.4354</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>35633</nterr>
+      <nperiod>000632</nperiod>
+      <datanum>19670403</datanum>
+      <data_label>1967 04 03</data_label>
+      <anno>1967</anno>
+      <mese>04</mese>
+      <giorno>03</giorno>
+      <time_label>16:36:18</time_label>
+      <ora>16</ora>
+      <minu>36</minu>
+      <sec>18</sec>
+      <lat>44.7272</lat>
+      <lon>10.5904</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5.5</io>
+      <imax>5.5</imax>
+      <npun>47</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

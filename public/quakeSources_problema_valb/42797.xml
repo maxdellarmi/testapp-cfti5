@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>42797</nterr>
+      <nperiod>009735</nperiod>
+      <datanum>13860317</datanum>
+      <data_label>1386 03 17</data_label>
+      <anno>1386</anno>
+      <mese>03</mese>
+      <giorno>17</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>40.856</lat>
+      <lon>14.2603</lon>
+      <rel>?</rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>7.5</imax>
+      <npun>1</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.4</mm>
+      <earthquakelocation>Napoli</earthquakelocation>
+      <epicenter_type>Local effects</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>Questo terremoto è sconosciuto ai cataloghi sismici. È analizzato in Guidoboni e Comastri (2005) $(091411)$, da cui è tratta questa scheda.&lt;br&gt;L’unica fonte disponibile, allo stato attuale delle conoscenze, è il coevo "Cronicon Siculum" (ed. 1887) $(055157)$, scritto da un cronista anonimo, probabilmente un ecclesiastico abitante a Napoli. Tale cronaca fu verosimilmente compilata negli anni tra il 1364 e il 1373 e proseguita in un secondo tempo per gli anni successivi fino al 1396. La narrazione, tranne brevi accenni irregolari a periodi precedenti, si sviluppa in modo cronologico e nell’insieme verte soprattutto sugli avvenimenti della parte peninsulare del regno di Sicilia sfiorando soltanto la Sicilia vera e propria che, dopo la guerra dei Vespri (1282), ne era di fatto separata.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il 17 marzo 1386 un terremoto colpì la città di Napoli. La fonte non menziona espressamente danni, ma fornisce una valutazione qualitativa dell’evento che è definito “maximus” (grandissimo). L’attribuzione di aggettivi alla parola “terremotus” era una consuetudine ricorrente nella terminologia dei cronisti medievali, che assume un significato rilevante in testi molto scarni, quasi a costituire una sorta di scala di valutazione. Ragionando in termini comparativi, infatti, un terremoto definito “maximus” si è spesso rivelato, alla luce di fonti documentarie o epigrafiche, un evento con effetti di danno. Si può pertanto ipotizzare che anche in questo caso potrebbero esserci stati danni anche rilevanti.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>055157</codbib>
+      <autore1>*</autore1>
+      <titolo1>Cronicon Siculum incerti authoris ab anno 340 ad annum 1396 in forma diary ex inedito codice Ottoboniano Vaticano, ed. G.De Blasiis.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1887</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>091411</codbib>
+      <autore1>Guidoboni E. e Comastri A.</autore1>
+      <titolo1>Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century.</titolo1>
+      <luogoed>Roma-Bologna</luogoed>
+      <datacompl>2005</datacompl>
+      <valb>Cf</valb>
+      <desvalingl>Catalogue-source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Napoli</desloc>
+      <lat_wgs84>40.856</lat_wgs84>
+      <lon_wgs84>14.2603</lon_wgs84>
+      <provlet>NA</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>42797</nterr>
+      <nloc_cfti>060182.00</nloc_cfti>
+      <desloc_cfti>Napoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto avvenne il 17 marzo 1386. Napoli fu presumibilmente un punto di risentimento di un epicentro finora sconosciuto. Non sono espressamente menzionati danni ma, sulla base della valutazione qualitativa dell’evento, che è definito "maximus" (grandissimo), è possibile ipotizzare che potrebbero esserci stati danni anche rilevanti $(055157)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

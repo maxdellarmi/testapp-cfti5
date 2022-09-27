@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>049553.00</nloc_cfti>
+      <desloc_cfti>Selci</desloc_cfti>
+      <provlet>PG</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>9.5</maxint>
+      <lat_wgs84>43.5139</lat_wgs84>
+      <lon_wgs84>12.2011</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26054</nterr>
+      <nperiod>002079</nperiod>
+      <datanum>19170426</datanum>
+      <data_label>1917 04 26</data_label>
+      <anno>1917</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>09:35:59</time_label>
+      <ora>09</ora>
+      <minu>35</minu>
+      <sec>59</sec>
+      <lat>43.4678</lat>
+      <lon>12.129</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9.5</io>
+      <imax>9.5</imax>
+      <npun>134</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa fu molto forte $(092082)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>16303</nterr>
+      <nperiod>003253</nperiod>
+      <datanum>18971218</datanum>
+      <data_label>1897 12 18</data_label>
+      <anno>1897</anno>
+      <mese>12</mese>
+      <giorno>18</giorno>
+      <time_label>07:24:20</time_label>
+      <ora>07</ora>
+      <minu>24</minu>
+      <sec>20</sec>
+      <lat>43.4966</lat>
+      <lon>12.3781</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>7</io>
+      <imax>7.5</imax>
+      <npun>132</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Appennino umbro-marchigiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>9</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>La scossa causò lesioni in quasi tutte le case: rottura di architravi, distacco dei muri divisori e caduta di pezzi d’intonaco. Fu lesionata anche villa Pasqui, di recente e buona costruzione. Caddero 32 comignoli. Alcune case coloniche furono abbandonate perché minaccianti rovina $(280138,110547,110551,000006)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>04589</nterr>
+      <nperiod>003101</nperiod>
+      <datanum>17890930</datanum>
+      <data_label>1789 09 30</data_label>
+      <anno>1789</anno>
+      <mese>09</mese>
+      <giorno>30</giorno>
+      <time_label>10:45</time_label>
+      <ora>10</ora>
+      <minu>45</minu>
+      <sec>-9</sec>
+      <lat>43.5096</lat>
+      <lon>12.2201</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>9.5</io>
+      <imax>10</imax>
+      <npun>12</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Valtiberina</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>4</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.5</intpqnum>
+      <intpq>IX-X</intpq>
+      <D1>La scossa causò il crollo totale di 30 case su 100-150 che costituivano il borgo, e quello parziale delle rimanenti $(060390,480379)$; solo 3 case non subirono crolli. Vi furono 60 morti $(480379)$ e circa 300 feriti $(470117)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>092082</codbib>
+      <autore1>Martinelli G.</autore1>
+      <titolo1>Terremoto umbro-aretino, 26 aprile 1917 (centri sismici), in "Atti della Pontificia Accademia Romana dei Nuovi Lincei", a.70 (1916-1917), pp.113-118.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1917</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>060390</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1789.10.10, n.81.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1789</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>480379</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Mantova, 1789.10.16, n.42.</titolo1>
+      <luogoed>Mantova</luogoed>
+      <datacompl>1789</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>470117</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie del Mondo, 1789.10.17, n.83.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1789</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280138</codbib>
+      <autore1>Issel A.</autore1>
+      <titolo1>Il terremoto del 18 dicembre 1897 a Città di Castello, in "Atti della Società Ligustica di Scienze Naturali e Geografiche", vol.9, pp.233-254.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110547</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.28, Cartolina macrosismica relativa al terremoto del 18 dicembre 1897 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Sangiustino 18 dicembre 1897.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>110551</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche, dicembre 1897, n.32, Relazione del direttore dell’Osservatorio di Città di Castello A.Bini sul periodo sismico degli anni 1897-98 inviata all’Ufficio Centrale di Meteorologia e Geodinamica di Roma, Città di Castello 16 febbraio 1898.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>580064</codbib>
+      <autore1>*</autore1>
+      <titolo1>Notizie Diverse, 1789.10.10, n.41.</titolo1>
+      <luogoed>Cremona</luogoed>
+      <datacompl>1789</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745180</codbib>
+      <autore1>Muzi G.</autore1>
+      <titolo1>Memorie ecclesiastiche e civili di Città di Castello [Memorie ecclesiastiche, 5 voll., Memorie civili, 2 voll.].</titolo1>
+      <luogoed>Città di Castello</luogoed>
+      <datacompl>1842 - 1844</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

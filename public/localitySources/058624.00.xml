@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>058624.00</nloc_cfti>
+      <desloc_cfti>Cliternia Nuova</desloc_cfti>
+      <provlet>CB</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>9.1</maxint>
+      <lat_wgs84>41.8962</lat_wgs84>
+      <lon_wgs84>15.0762</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00039</nterr>
+      <nperiod>003051</nperiod>
+      <datanum>11251011</datanum>
+      <data_label>1125 10 11</data_label>
+      <anno>1125</anno>
+      <mese>10</mese>
+      <giorno>11</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>41.5996</lat>
+      <lon>14.997</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>8</io>
+      <imax>9.1</imax>
+      <npun>4</npun>
+      <mm>5.6</mm>
+      <earthquakelocation>Sannio-Molise</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>9.1</intpqnum>
+      <intpq>A</intpq>
+      <D1>Il crollo del monastero e del castello sono attestati solo da fonti tarde: Tria $(900218)$ desunse la notizia del crollo del monastero da Polidori. Il castello sorto sulle rovine di Cliternia cadde secondo il barone Magliano $(900341)$. Infine lo storico Camera $(300066)$ citò Clternia come luogo distrutto dal terremoto. La località di Cliternia fu identificata da Romanelli $(520024)$ come approssimativa localizzazione dell’antico monastero di S.Felice, in cui era custodito il corpo di S.Leo.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>900218</codbib>
+      <autore1>Tria G.A.</autore1>
+      <titolo1>Memorie storiche civili ed ecclesiastiche della città, e diocesi di Larino metropoli degli antichi Frentani.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1744</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>900341</codbib>
+      <autore1>Magliano G.</autore1>
+      <titolo1>Larino: considerazioni storiche sulla città di Larino. Manoscritti del barone Giandomenico Magliano completati, annotati e pubblicati da da suo nipote Alberto Magliano.</titolo1>
+      <luogoed>Campobasso</luogoed>
+      <datacompl>1895</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>300066</codbib>
+      <autore1>Camera M.</autore1>
+      <titolo1>Annali delle due Sicilie dall’origine e fondazione della monarchia fino a tutto il Regno dell’Augusto Sovrano Carlo III Borbone, 2 voll.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1841 - 1860</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>520024</codbib>
+      <autore1>Romanelli D.</autore1>
+      <titolo1>Scoverte patrie di città distrutte, e di altre antichità nella regione frentana oggi Abruzzo Citeriore nel Regno di Napoli.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1809</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

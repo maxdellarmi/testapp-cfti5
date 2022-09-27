@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>16153</nterr>
+      <nperiod>000743</nperiod>
+      <datanum>18970715</datanum>
+      <data_label>1897 07 15</data_label>
+      <anno>1897</anno>
+      <mese>07</mese>
+      <giorno>15</giorno>
+      <time_label>05:57</time_label>
+      <ora>05</ora>
+      <minu>57</minu>
+      <sec>-9</sec>
+      <lat>46.0588</lat>
+      <lon>14.5032</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>53</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>5.3</mm>
+      <earthquakelocation>Slovenia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Slovenia</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018>variato</new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985), basata su Bernardis et al. (1977) $(092138)$, che rimandano al catalogo dei terremoti della Slovenia di Ribaric (1982) $(775036)$, esaminato mentre era in stampa.&lt;br&gt;Baratta (1901) $(000001)$ elencò il terremoto utilizzando le "Notizie sui terremoti... 1897", curate da Agamennone (1897-1898) $(000006)$. È stata inoltre condotta una ricerca sulle fonti scientifiche e giornalistiche.&lt;br&gt;Sono state analizzate le cartoline macrosismiche pervenute all’Ufficio Centrale di Meteorologia e Geodinamica, conservate nell’Archivio dell’Ufficio Centrale di Ecologia Agraria $(001323)$. Fra questi materiali è stata reperita anche una relazione di Albin Belar, da poco tempo nominato direttore della stazione sismica di Lubiana (all’epoca Laibach), di particolare interesse per la descrizione degli effetti locali della scossa. Sono stati, inoltre, utilizzati il "Bollettino Mensuale" (1897) $(000080)$ dell’Osservatorio di Moncalieri e 7 corrispondenze giornalistiche afferenti a 3 testate $(455025,455028,455036,455037,455038,455039,455040)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C9</codtab>
+      <testocomm>In seguito al terremoto di Lubiana, un sismologo viennese previde come imminente un’eruzione del Vesuvio, avendo osservato che i gas sotterranei di quel vulcano, nell’imminenza di un fenomeno eruttivo, producono violente scosse nella regione del Carso. La notizia, pubblicata dal quotidiano viennese "N.W.Tagblatt", rimbalzò su vari giornali italiani, inducendo un cronista locale a fare una verifica presso l’Osservatorio Vesuviano, il giorno 17 luglio, senza peraltro riscontrare nulla di anomalo $(455025,455037,455039,455040)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 15 luglio 1897 alle ore 5:57 GMT e colpì la Slovenia. A Lubiana, già gravemente colpita dal terremoto del 14 aprile 1895, vi furono danni notevoli: si riaprirono vecchie fenditure non riparate adeguatamente; circa 150 fumaioli furono danneggiati; la maggior parte delle case poste lungo la sponda sinistra del fiume Sava subirono danni, come già nel 1895; alcune divennero pericolanti e furono demolite. Nella via della stazione, in alcune case, crollarono muri e pavimenti. Notevoli danni subirono le chiese, il nuovo ospedale provinciale, il museo, il "Narodni Dum", la caserma.&lt;br&gt;Non sono attestati danni in altre località. In Italia la scossa fu avvertita leggermente fino a Venezia.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>Nei giorni precedenti il 15 luglio 1897 erano state avvertite a Lubiana da poche persone alcune leggere scosse.&lt;br&gt;13 luglio, ore 20:30 GMT ca., un leggero movimento durato 12 secondi.&lt;br&gt;14 luglio, ore 20:00 GMT ca., una lunga oscillazione della durata di 4-6 secondi.&lt;br&gt;La scossa principale del 15 luglio (ore 5:57 GMT) presentò due fasi distinte: la prima fu preceduta da un rumore sotterraneo, la seconda fu preceduta e seguita da un rombo. La durata fu di 5-6 secondi. La sera dello stesso giorno, verso le 21:00 GMT, per una ventina di minuti si avvertirono altre leggere scosse, a intervalli di 20-30 secondi l’una dall’altra $(000006,001323)$.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>Fc</valb>
+      <desvalingl>Source chronologically near to the event</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000006</codbib>
+      <autore1>Agamennone G.</autore1>
+      <titolo1>Notizie sui terremoti osservati in Italia durante l’anno 1897, Regio Ufficio Centrale di Meteorologia e Geodinamica, in appendice al "Bollettino della Società Sismologica Italiana", voll.3 (1897)-4 (1898).</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1897 - 1898</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000080</codbib>
+      <autore1>*</autore1>
+      <titolo1>Bollettino mensuale dell’Osservatorio centrale del Real Collegio Carlo Alberto in Moncalieri, s.II, vol.17.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>B</valb>
+      <desvalingl>Bulletin</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>001323</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline macrosismiche relative al terremoto del 15 luglio 1897 pervenute all’Ufficio Centrale di Meteorologia e Geodinamica di Roma.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>020748</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Ufficio Centrale di Ecologia Agraria, Cartoline Macrosismiche, Lettera di G.Fracassara al direttore dell’Ufficio Centrale di Meteorologia e Geodinamica relativa alla registrazione della scossa del 15 luglio 1897, Verona 25 luglio 1897.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1897</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>052191</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>A short history of instrumental seismology in Yugoslavia (1880-1941), in "Gli strumenti sismici storici. Italia e contesto europeo", a cura di G.Ferrari, ING-SGA, pp.165-176.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>092138</codbib>
+      <autore1>Bernardis G., Giorgetti F., Nieto D. e Slejko D.</autore1>
+      <titolo1>Earthquakes Catalogue for Eastern Alps Region.</titolo1>
+      <luogoed>Trieste</luogoed>
+      <datacompl>1977</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>350218</codbib>
+      <autore1>Rezzadore P.</autore1>
+      <titolo1>Il mondo ne’ suoi fulgori e tremori.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1914</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455025</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo Romano, 1897.07.16.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455028</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Popolo Romano, 1897.07.17.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455036</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1897.07.16, n.194.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455037</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Venezia, 1897.07.17, n.195.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455038</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Adriatico, 1897.07.16, n.193.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455039</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Adriatico, 1897.07.17, n.194.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>455040</codbib>
+      <autore1>*</autore1>
+      <titolo1>L’Adriatico, 1897.07.20, n.197.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>775036</codbib>
+      <autore1>Ribaric V.</autore1>
+      <titolo1>Seizmicnost Slovenue. Katalog potresov (792 n.e.- 1981) [Seismicity of Slovenia. Catalogue of earthquakes (792 A.D.-1981)].</titolo1>
+      <luogoed>Ljubljana</luogoed>
+      <datacompl>1982</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Ljubljana</desloc>
+      <lat_wgs84>46.0588</lat_wgs84>
+      <lon_wgs84>14.5032</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080076.00</nloc_cfti>
+      <desloc_cfti>Ljubljana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Leggere scosse furono avvertite da poche persone nei giorni precedenti. Un testimone affermò che la scossa principale delle 5:57 GMT presentò 2 fasi distinte: nella prima essa fu preceduta da rumore sotterraneo e fece saltare il corrispondente, che al momento del terremoto era in piedi; la seconda fu preceduta e seguita da rombo; alcuni cuscini posti su un divano si mossero; l’edificio subì oscillazioni tali da rendere precario l’equilibrio di chi vi abitava; una tazza piena di caffé fu lanciata in aria e perse metà del contenuto, quindi ricadde sul tavolo senza rompersi; un orologio a pendolo che si trovava a pianterreno si arrestò, mentre altri situati al primo piano non si fermarono.&lt;br&gt;La scossa fece riaprire vecchie fenditure causate dal terremoto del 14 aprile 1895 e non riparate adeguatamente; circa 150 fumaioli furono danneggiati. La maggior parte delle case poste lungo la sponda sinistra del fiume subirono danni, come già nel 1895; alcune divennero pericolanti e furono demolite. Nella via della stazione, in alcune case, crollarono muri e pavimenti. Notevoli danni subirono le chiese, il nuovo ospedale provinciale, il museo, il "Narodni Dum" (Casino sociale). Lo spostamento delle pareti al pianterreno di una caserma costrinse i soldati a uscire dalla finestra, essendo impossibile aprire la porta $(000006,001323,455025,455028,455037,455039)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Bled</desloc>
+      <lat_wgs84>46.3715</lat_wgs84>
+      <lon_wgs84>14.1129</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080415.00</nloc_cfti>
+      <desloc_cfti>Bled</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di 3 secondi $(455037)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Bleiburg</desloc>
+      <lat_wgs84>46.5927</lat_wgs84>
+      <lon_wgs84>14.8077</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080329.00</nloc_cfti>
+      <desloc_cfti>Bleiburg</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cormons</desloc>
+      <lat_wgs84>45.9594</lat_wgs84>
+      <lon_wgs84>13.4676</lon_wgs84>
+      <provlet>GO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031887.00</nloc_cfti>
+      <desloc_cfti>Cormons</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di 2s $(001323,455025)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Eibiswald</desloc>
+      <lat_wgs84>46.6841</lat_wgs84>
+      <lon_wgs84>15.273</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080331.00</nloc_cfti>
+      <desloc_cfti>Eibiswald</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Funes</desloc>
+      <lat_wgs84>46.6424</lat_wgs84>
+      <lon_wgs84>11.6786</lon_wgs84>
+      <provlet>BZ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>020476.99</nloc_cfti>
+      <desloc_cfti>Funes</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Klagenfurt</desloc>
+      <lat_wgs84>46.6191</lat_wgs84>
+      <lon_wgs84>14.3089</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080101.00</nloc_cfti>
+      <desloc_cfti>Klagenfurt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Maribor</desloc>
+      <lat_wgs84>46.568</lat_wgs84>
+      <lon_wgs84>15.6641</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080079.00</nloc_cfti>
+      <desloc_cfti>Maribor</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Murau</desloc>
+      <lat_wgs84>47.1231</lat_wgs84>
+      <lon_wgs84>14.1629</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080338.00</nloc_cfti>
+      <desloc_cfti>Murau</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Pula</desloc>
+      <lat_wgs84>44.8548</lat_wgs84>
+      <lon_wgs84>13.8576</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080085.00</nloc_cfti>
+      <desloc_cfti>Pula</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Radovljica</desloc>
+      <lat_wgs84>46.3451</lat_wgs84>
+      <lon_wgs84>14.1744</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Slovenia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080340.00</nloc_cfti>
+      <desloc_cfti>Radovljica</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Rijeka</desloc>
+      <lat_wgs84>45.3349</lat_wgs84>
+      <lon_wgs84>14.441</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080086.00</nloc_cfti>
+      <desloc_cfti>Rijeka</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Völkermarkt</desloc>
+      <lat_wgs84>46.6678</lat_wgs84>
+      <lon_wgs84>14.6355</lon_wgs84>
+      <provlet></provlet>
+      <nazione>Austria</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>080344.00</nloc_cfti>
+      <desloc_cfti>Völkermarkt</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Secondo Agamennone $(000006)$, che cita un articolo pubblicato dalla Commissione per i terremoti di Vienna, il terremoto fu avvertito.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Treviso</desloc>
+      <lat_wgs84>45.6699</lat_wgs84>
+      <lon_wgs84>12.2438</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027624.00</nloc_cfti>
+      <desloc_cfti>Treviso</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita da molti una breve scossa $(455038)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III-IV</intpq>
+      <desloc>Trieste</desloc>
+      <lat_wgs84>45.6571</lat_wgs84>
+      <lon_wgs84>13.7841</lon_wgs84>
+      <provlet>TS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>032084.00</nloc_cfti>
+      <desloc_cfti>Trieste</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di 3s $(001323,455025)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Gemona del Friuli</desloc>
+      <lat_wgs84>46.2793</lat_wgs84>
+      <lon_wgs84>13.1349</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030995.00</nloc_cfti>
+      <desloc_cfti>Gemona del Friuli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una scossa della durata di qualche secondo $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Latisana</desloc>
+      <lat_wgs84>45.7777</lat_wgs84>
+      <lon_wgs84>12.9981</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031034.00</nloc_cfti>
+      <desloc_cfti>Latisana</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una lieve scossa fu avvertita da pochi, in casa, anche in attività $(000006)$. La scossa ebbe una durata di 2 secondi $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Marano Lagunare</desloc>
+      <lat_wgs84>45.7644</lat_wgs84>
+      <lon_wgs84>13.1665</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031125.00</nloc_cfti>
+      <desloc_cfti>Marano Lagunare</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di pochi istanti, fu avvertita da pochi e fu accompagnata da piccolo rombo $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Oderzo</desloc>
+      <lat_wgs84>45.7817</lat_wgs84>
+      <lon_wgs84>12.494</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027192.00</nloc_cfti>
+      <desloc_cfti>Oderzo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una leggera scossa fu avvertita da pochi $(000080)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Padova</desloc>
+      <lat_wgs84>45.4073</lat_wgs84>
+      <lon_wgs84>11.8757</lon_wgs84>
+      <provlet>PD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>029123.00</nloc_cfti>
+      <desloc_cfti>Padova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una leggera scossa $(455038)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>San Giorgio di Nogaro</desloc>
+      <lat_wgs84>45.832</lat_wgs84>
+      <lon_wgs84>13.2112</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031526.00</nloc_cfti>
+      <desloc_cfti>San Giorgio di Nogaro</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita da pochi una scossa della durata di circa 3s; essa fu accompagnata da lieve boato simile a tuono lontano, e causò la caduta di qualche calcinaccio $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Venezia</desloc>
+      <lat_wgs84>45.4383</lat_wgs84>
+      <lon_wgs84>12.3351</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>028470.00</nloc_cfti>
+      <desloc_cfti>Venezia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Fu avvertita una debole scossa, registrata anche dagli stumenti dell’Osservatorio del seminario Patriarcale $(455036,455038)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Aviano</desloc>
+      <lat_wgs84>46.0651</lat_wgs84>
+      <lon_wgs84>12.5843</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030191.00</nloc_cfti>
+      <desloc_cfti>Aviano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, preceduta da rombo, fu avvertita da pochissimi che si trovavano a letto; alcuni furono svegliati di soprassalto $(000006)$ e durò 1 secondo $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Buttrio</desloc>
+      <lat_wgs84>46.0164</lat_wgs84>
+      <lon_wgs84>13.3331</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030750.00</nloc_cfti>
+      <desloc_cfti>Buttrio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi $(000006)$ e durò 2 secondi $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Cividale del Friuli</desloc>
+      <lat_wgs84>46.0936</lat_wgs84>
+      <lon_wgs84>13.4306</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030808.00</nloc_cfti>
+      <desloc_cfti>Cividale del Friuli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi in quiete $(000006)$. La durata fu di 5 secondi, non si udirono rumori sotterranei $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Motta di Livenza</desloc>
+      <lat_wgs84>45.7764</lat_wgs84>
+      <lon_wgs84>12.607</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027169.00</nloc_cfti>
+      <desloc_cfti>Motta di Livenza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochi, soprattutto da coloro che erano a letto $(000006)$. La scossa durò un secondo, e non si avvertirono rumori sotterranei $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Sacile</desloc>
+      <lat_wgs84>45.9542</lat_wgs84>
+      <lon_wgs84>12.4987</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030517.00</nloc_cfti>
+      <desloc_cfti>Sacile</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, della durata di 2s, fu avvertita da pochi in quiete $(000006)$. Non furono avvertiti rumori sotterranei $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Udine</desloc>
+      <lat_wgs84>46.0641</lat_wgs84>
+      <lon_wgs84>13.2357</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031830.00</nloc_cfti>
+      <desloc_cfti>Udine</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una scossa leggerissima della durata di 2s circa fu avvertita da chi si trovava a letto $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Grisolera</desloc>
+      <lat_wgs84>45.578</lat_wgs84>
+      <lon_wgs84>12.6739</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027965</nloc_cfti>
+      <desloc_cfti>Eraclea (Grisolera)</desloc_cfti>
+      <notesito>Assunse la denominazione di Eraclea il 4 novembre 1950.</notesito>
+      <COMM>La scossa, della durata di 1s, fu avvertita molto leggermente da pochi in quiete $(000006)$. Non si avvertirono rumori sotterranei $(001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II</intpq>
+      <desloc>Palmanova</desloc>
+      <lat_wgs84>45.9054</lat_wgs84>
+      <lon_wgs84>13.3102</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031248.00</nloc_cfti>
+      <desloc_cfti>Palmanova</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita da pochissimi $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Andreis</desloc>
+      <lat_wgs84>46.2011</lat_wgs84>
+      <lon_wgs84>12.6137</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030183.00</nloc_cfti>
+      <desloc_cfti>Andreis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Arba</desloc>
+      <lat_wgs84>46.1455</lat_wgs84>
+      <lon_wgs84>12.7914</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030186.00</nloc_cfti>
+      <desloc_cfti>Arba</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Caorle</desloc>
+      <lat_wgs84>45.6002</lat_wgs84>
+      <lon_wgs84>12.887</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027806.00</nloc_cfti>
+      <desloc_cfti>Caorle</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Chiusaforte</desloc>
+      <lat_wgs84>46.4085</lat_wgs84>
+      <lon_wgs84>13.3092</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030798</nloc_cfti>
+      <desloc_cfti>Chiusaforte (Chiusa)</desloc_cfti>
+      <notesito>Già Chiusa, assunse la denominazione attuale il 18 agosto 1867.</notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Codroipo</desloc>
+      <lat_wgs84>45.9621</lat_wgs84>
+      <lon_wgs84>12.9813</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030827.00</nloc_cfti>
+      <desloc_cfti>Codroipo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Forni di Sopra</desloc>
+      <lat_wgs84>46.425</lat_wgs84>
+      <lon_wgs84>12.5773</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030983.99</nloc_cfti>
+      <desloc_cfti>Forni di Sopra</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Majano</desloc>
+      <lat_wgs84>46.1848</lat_wgs84>
+      <lon_wgs84>13.0679</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031092.00</nloc_cfti>
+      <desloc_cfti>Majano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Paluzza</desloc>
+      <lat_wgs84>46.5323</lat_wgs84>
+      <lon_wgs84>13.0165</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031255.00</nloc_cfti>
+      <desloc_cfti>Paluzza</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Piavon</desloc>
+      <lat_wgs84>45.76</lat_wgs84>
+      <lon_wgs84>12.5291</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027195.00</nloc_cfti>
+      <desloc_cfti>Piavon</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Platischis</desloc>
+      <lat_wgs84>46.2426</lat_wgs84>
+      <lon_wgs84>13.3828</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031653.00</nloc_cfti>
+      <desloc_cfti>Platischis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pontebba</desloc>
+      <lat_wgs84>46.5066</lat_wgs84>
+      <lon_wgs84>13.3054</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031296.00</nloc_cfti>
+      <desloc_cfti>Pontebba</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pordenone</desloc>
+      <lat_wgs84>45.9643</lat_wgs84>
+      <lon_wgs84>12.6603</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030470.00</nloc_cfti>
+      <desloc_cfti>Pordenone</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000001)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Pozzuolo del Friuli</desloc>
+      <lat_wgs84>45.986</lat_wgs84>
+      <lon_wgs84>13.1975</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031327.00</nloc_cfti>
+      <desloc_cfti>Pozzuolo del Friuli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Rodda</desloc>
+      <lat_wgs84>46.1791</lat_wgs84>
+      <lon_wgs84>13.5006</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>072603.00</nloc_cfti>
+      <desloc_cfti>Rodda</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>San Donà di Piave</desloc>
+      <lat_wgs84>45.6342</lat_wgs84>
+      <lon_wgs84>12.5721</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>028292.00</nloc_cfti>
+      <desloc_cfti>San Donà di Piave</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sant'Odorico</desloc>
+      <lat_wgs84>46.0471</lat_wgs84>
+      <lon_wgs84>12.9324</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030959.00</nloc_cfti>
+      <desloc_cfti>Sant’Odorico</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Sarmede</desloc>
+      <lat_wgs84>45.9788</lat_wgs84>
+      <lon_wgs84>12.3859</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027514.00</nloc_cfti>
+      <desloc_cfti>Sarmede</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Spinea</desloc>
+      <lat_wgs84>45.4907</lat_wgs84>
+      <lon_wgs84>12.1651</lon_wgs84>
+      <provlet>VE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>028362.99</nloc_cfti>
+      <desloc_cfti>Spinea</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito dalle persone ma rilevato solo dagli strumenti; durò circa 3s $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Stregna</desloc>
+      <lat_wgs84>46.1272</lat_wgs84>
+      <lon_wgs84>13.5781</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031638.00</nloc_cfti>
+      <desloc_cfti>Stregna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Verzegnis</desloc>
+      <lat_wgs84>46.3889</lat_wgs84>
+      <lon_wgs84>12.9916</lon_wgs84>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>031857.99</nloc_cfti>
+      <desloc_cfti>Verzegnis</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Zenson di Piave</desloc>
+      <lat_wgs84>45.6788</lat_wgs84>
+      <lon_wgs84>12.4904</lon_wgs84>
+      <provlet>TV</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>027752.00</nloc_cfti>
+      <desloc_cfti>Zenson di Piave</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>NF</intpq>
+      <desloc>Zoppola</desloc>
+      <lat_wgs84>45.9666</lat_wgs84>
+      <lon_wgs84>12.7703</lon_wgs84>
+      <provlet>PN</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>0</intpqnum>
+      <nterr>16153</nterr>
+      <nloc_cfti>030652.00</nloc_cfti>
+      <desloc_cfti>Zoppola</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Il terremoto non fu avvertito $(000006,001323)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

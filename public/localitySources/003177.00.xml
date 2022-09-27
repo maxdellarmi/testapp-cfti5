@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>003177.00</nloc_cfti>
+      <desloc_cfti>Masserano</desloc_cfti>
+      <provlet>BI</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>3</risentimenti>
+      <maxint>5.5</maxint>
+      <lat_wgs84>45.5935</lat_wgs84>
+      <lon_wgs84>8.2272</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26433</nterr>
+      <nperiod>000455</nperiod>
+      <datanum>19180113</datanum>
+      <data_label>1918 01 13</data_label>
+      <anno>1918</anno>
+      <mese>01</mese>
+      <giorno>13</giorno>
+      <time_label>12:00</time_label>
+      <ora>12</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>45.4456</lat>
+      <lon>9.068</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5.5</imax>
+      <npun>25</npun>
+      <mm>4.6</mm>
+      <earthquakelocation>Milanese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>3</intpqnum>
+      <intpq>III</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31309</nterr>
+      <nperiod>000541</nperiod>
+      <datanum>19361017</datanum>
+      <data_label>1936 10 17</data_label>
+      <anno>1936</anno>
+      <mese>10</mese>
+      <giorno>17</giorno>
+      <time_label>05:28</time_label>
+      <ora>05</ora>
+      <minu>28</minu>
+      <sec>-9</sec>
+      <lat>45.5936</lat>
+      <lon>7.8599</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3</io>
+      <imax>3</imax>
+      <npun>6</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Biellese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>00264</nterr>
+      <nperiod>000042</nperiod>
+      <datanum>13690201</datanum>
+      <data_label>1369 02 01</data_label>
+      <anno>1369</anno>
+      <mese>02</mese>
+      <giorno>01</giorno>
+      <time_label>-</time_label>
+      <ora>-9</ora>
+      <minu>-9</minu>
+      <sec>-9</sec>
+      <lat>44.9134</lat>
+      <lon>8.6142</lon>
+      <rel></rel>
+      <level>A</level>
+      <io>6.5</io>
+      <imax>7.5</imax>
+      <npun>4</npun>
+      <mm>4.9</mm>
+      <earthquakelocation>Alessandria</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>5</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5.5</intpqnum>
+      <intpq>V-VI</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>230062</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio e Biblioteca Capitolare di Vercelli, s.s., N.De Rotis, Diario, sec.XIV.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIV sec.</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021210</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi di aggiornamento delle conoscenze di carattere sismotettonico della Pianura padana. Revisione macrosismica, RPT 109/93, Bologna ottobre 1993 (rapporto inedito).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1993</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021241</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po1. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

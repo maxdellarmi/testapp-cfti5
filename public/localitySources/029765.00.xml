@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>029765.00</nloc_cfti>
+      <desloc_cfti>Castelnovo Bariano</desloc_cfti>
+      <provlet>RO</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.5</maxint>
+      <lat_wgs84>45.0281</lat_wgs84>
+      <lon_wgs84>11.2869</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23007</nterr>
+      <nperiod>000410</nperiod>
+      <datanum>19100122</datanum>
+      <data_label>1910 01 22</data_label>
+      <anno>1910</anno>
+      <mese>01</mese>
+      <giorno>22</giorno>
+      <time_label>20:30</time_label>
+      <ora>20</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>45.0223</lat>
+      <lon>11.1763</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>4.5</imax>
+      <npun>9</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Bassa mantovana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.5</intpqnum>
+      <intpq>IV-V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios/>
+</Locality>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>033471.00</nloc_cfti>
+      <desloc_cfti>Ferriere</desloc_cfti>
+      <provlet>GE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>4</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>44.4435</lat_wgs84>
+      <lon_wgs84>9.1361</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>11663</nterr>
+      <nperiod>000241</nperiod>
+      <datanum>18820215</datanum>
+      <data_label>1882 02 15</data_label>
+      <anno>1882</anno>
+      <mese>02</mese>
+      <giorno>15</giorno>
+      <time_label>05:00</time_label>
+      <ora>05</ora>
+      <minu>00</minu>
+      <sec>-9</sec>
+      <lat>44.661</lat>
+      <lon>9.084</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>6</imax>
+      <npun>18</npun>
+      <mm>5</mm>
+      <earthquakelocation>Val Borbera</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24378</nterr>
+      <nperiod>000428</nperiod>
+      <datanum>19130327</datanum>
+      <data_label>1913 03 27</data_label>
+      <anno>1913</anno>
+      <mese>03</mese>
+      <giorno>27</giorno>
+      <time_label>02:25:44</time_label>
+      <ora>02</ora>
+      <minu>25</minu>
+      <sec>44</sec>
+      <lat>44.9062</lat>
+      <lon>9.3251</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4.5</io>
+      <imax>5</imax>
+      <npun>58</npun>
+      <mm>4.4</mm>
+      <earthquakelocation>Piacentino</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>2</intpqnum>
+      <intpq>II</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>24383</nterr>
+      <nperiod>000429</nperiod>
+      <datanum>19130404</datanum>
+      <data_label>1913 04 04</data_label>
+      <anno>1913</anno>
+      <mese>04</mese>
+      <giorno>04</giorno>
+      <time_label>13:30</time_label>
+      <ora>13</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>44.833</lat>
+      <lon>9.1248</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>3.5</io>
+      <imax>4.5</imax>
+      <npun>26</npun>
+      <mm>3.7</mm>
+      <earthquakelocation>Bobbio (PC)</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>0</intpqnum>
+      <intpq>NF</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>23526</nterr>
+      <nperiod>000416</nperiod>
+      <datanum>19100906</datanum>
+      <data_label>1910 09 06</data_label>
+      <anno>1910</anno>
+      <mese>09</mese>
+      <giorno>06</giorno>
+      <time_label>03:20</time_label>
+      <ora>03</ora>
+      <minu>20</minu>
+      <sec>-9</sec>
+      <lat>44.5489</lat>
+      <lon>9.3918</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5</imax>
+      <npun>19</npun>
+      <mm>4.3</mm>
+      <earthquakelocation>Appennino ligure</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021242</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Piemonte, Area Po2. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1984</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>07480</nterr>
+      <nperiod>000187</nperiod>
+      <datanum>18500918</datanum>
+      <data_label>1850 09 18</data_label>
+      <anno>1850</anno>
+      <mese>09</mese>
+      <giorno>18</giorno>
+      <time_label>06:20:00</time_label>
+      <ora>06</ora>
+      <minu>20</minu>
+      <sec>00</sec>
+      <lat>44.5732</lat>
+      <lon>11.1324</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>5</io>
+      <imax>6</imax>
+      <npun>7</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.3</mm>
+      <earthquakelocation>Modenese</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) ed è stata condotta una ricerca su fonti edite e inedite che ha consentito di precisare le informazioni precedentemente note.&lt;br&gt;Baratta (1901) $(000001)$ si basò su un suo precedente lavoro (Baratta 1897) $(071265)$ e sui cataloghi di Chistoni (1896) $(440064)$, relativo al modenese, e di Goiran (1880), relativo al veronese.&lt;br&gt;Sull’evento sono state reperite osservazioni metereologiche, fonti memorialistiche locali e fonti giornalistiche. All’Archivio dell’Osservatorio Geofisico dell’Università di Modena l’evento è inserito nel Registro dell’Osservatorio stesso nell’anno 1850 $(930011)$; per quanto riguarda Verona le scosse sono ricordate nelle "Osservazioni metereologiche per l’anno 1850" di Spandri $(380037)$, oltre che nell’opera storiografica di Sormani Moretti (1904) $(080001)$.&lt;br&gt;Il terremoto è menzionato in fonti memorialistiche coeve riguardanti Reggio Emilia (memorie manoscritte di F.Braglia) $(400076)$, Carpi (cronaca di G.Saltini) $(440048)$ e Ferrara (cronaca di L.N.Cittadella) $(692008)$. Inoltre la "Cronaca di Bologna dal 1845 al 1871" di E.Bottrigari (ed. 1960-1962) menziona brevemente l’evento $(410033)$.&lt;br&gt;Riportarono notizia delle scosse la Gazzetta di Parma $(490085)$, quella di Ferrara $(690004)$, quella di Genova $(870103,870104)$ e la Gazzetta ufficiale di Milano $(600075)$.&lt;br&gt;Il terremoto del 1850 è incluso in numerosi cataloghi sismici: Reginus (1880) $(320050)$; Mercalli (1883) $(000002)$; Benassi (1889) $(700038)$; De Rossi (1889) $(030123)$; Bettoni (1907, 1908) $(000101,160061)$; Davia (1909) $(691270)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C4</codtab>
+      <testocomm>Il terremoto colpì una zona circostante le città di Bologna, che faceva parte dello Stato Pontificio, e di Modena e Reggio Emilia, comprese nel Ducato di Modena, sotto il controllo dell’Austria; con ogni probabilità il terremoto colpì con maggiore intensità i paesi della zona pedemontana a sud-est di Modena.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa avvenne il 18 settembre 1850 alle ore 6:20 GMT circa ed ebbe una durata di 6s. Una seconda scossa, più leggera, fu sentita dopo circa mezz’ora.&lt;br&gt;Il terremoto fu avvertito abbastanza fortemente in una zona dell’Emilia compresa tra Modena, Bologna e Reggio Emilia: a Modena fece cadere qualche comignolo e fece suonare l’orologio del palazzo ducale (attuale sede dell’Accademia Militare) a Bologna fece suonare l’orologio di piazza Maggiore e molti campanelli di case private. Leggeri effetti di risentimento sono ricordati anche a Ferrara, Verona e Salò.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000101</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>I terremoti della regione benacense, in "Bollettino bimensuale del Comitato direttivo della Società Meteorologica Italiana", s.III, vol.26 (1907), pp.29-34, 45-53, 64-67.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1907</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030123</codbib>
+      <autore1>De Rossi M.S.</autore1>
+      <titolo1>Documenti raccolti dal defunto Conte Antonio Malvasia per la storia dei terremoti ed eruzioni vulcaniche massime d’Italia, in "Memorie della Pontificia Accademia dei Nuovi Lincei", vol.5, pp.169-289.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1889</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050397</codbib>
+      <autore1>Goiran A.</autore1>
+      <titolo1>Storia sismica della provincia di Verona.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080001</codbib>
+      <autore1>Sormani Moretti L.</autore1>
+      <titolo1>La provincia di Verona. Monografia statistica, economica, amministrativa.</titolo1>
+      <luogoed>Firenze</luogoed>
+      <datacompl>1904</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>094020</codbib>
+      <autore1>Ragona D.</autore1>
+      <titolo1>Catalogo dei terremoti, avvenuti in Modena e adiacenze, di cui si conserva memoria, in "Annali dell’Ufficio Centrale Meteorologico e Geodinamico Italiano", s.II, vol.8, parte 4 (1886), pp.175-176.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1888</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095475</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Bologna, 1850.09.18, n.212.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>100196</codbib>
+      <autore1>Respighi L.</autore1>
+      <titolo1>Notizie sul clima bolognese dedotte dalle osservazioni meteorologiche fatte nell’osservatorio della R.Università di Bologna nel quarantacinquennio 1814-1858. Memoria II, in "Memorie dell’Accademia delle Scienze dell’Istituto di Bologna", vol.11 (1862).</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1862</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>160061</codbib>
+      <autore1>Bettoni P.</autore1>
+      <titolo1>Cronistoria sismica della regione benacense, in "Commentari dell’Ateneo di Scienze, Lettere ed Arti in Brescia per l’anno 1908", pp.260-299.</titolo1>
+      <luogoed>Brescia</luogoed>
+      <datacompl>1908</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>240104</codbib>
+      <autore1>Milne J.</autore1>
+      <titolo1>Catalogue of destructive earthquakes, in "Report of the Eighty-first meeting of the British Association for the Advancement of Science", Portsmouth 31 agosto-7 settembre 1911, pp.649-740.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>1912</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>320050</codbib>
+      <autore1>Reginus</autore1>
+      <titolo1>Notizie di terremoti sentiti in Reggio dall’anno 1223 in avanti, in "Il Crostolo. Almanacco istoriografico reggiano per l’anno 1880", pp.84-91.</titolo1>
+      <luogoed>Reggio Emilia</luogoed>
+      <datacompl>1880</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>380037</codbib>
+      <autore1>Spandri G.</autore1>
+      <titolo1>Osservazioni meteorologiche per l’anno 1850, in "Memorie dell’Accademia d’Agricoltura Commercio ed Arti di Verona", vol.28.</titolo1>
+      <luogoed>Verona</luogoed>
+      <datacompl>1851</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>400076</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Municipale "A.Panizzi" di Reggio Emilia, Manoscritti Reggiani, C.118, Filippo Braglia, Memorie di quanto accadde in Reggio e nella provincia con aggiunta di memorie del secolo passato e del presente, sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>410033</codbib>
+      <autore1>Bottrigari E.</autore1>
+      <titolo1>Cronaca di Bologna dal 1845 al 1871, a cura di A. Berselli, 4 voll.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1960 - 1962</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440048</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Storico Comunale di Carpi, Archivio nuovo, filza C/2, Giuseppe Saltini, Memorie (o cronaca) di Carpi tenute in regola da me Giuseppe Saltini, della stessa città dall’anno 1796 all’anno 1864, 8 voll., sec.XIX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>440064</codbib>
+      <autore1>Chistoni C.</autore1>
+      <titolo1>Notizie sui terremoti avvertiti a Modena dal 1830 al 1895 ricavate dal registro del Real Osservatorio, in "Memorie della Regia Accademia di Scienze Lettere ed Arti di Modena", s.II, vol.12, pp.LXIX-LXXXIII.</titolo1>
+      <luogoed>Modena</luogoed>
+      <datacompl>1896</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>490085</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1850.09.23, n.218.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>600075</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta ufficiale di Milano, 1850.09.20.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>690004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Ferrara, 1850.09.20, n.73.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>691270</codbib>
+      <autore1>Davia E.</autore1>
+      <titolo1>Cronistoria del terremoto a Ferrara, in "Il Duca", a.2, n.3, pp.1-2, n.5, pp.6-7, n.6, pp.6-7.</titolo1>
+      <luogoed>Ferrara</luogoed>
+      <datacompl>1909</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>692008</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Comunale Ariostea di Ferrara, Manoscritti Antonelli, 310, Cittadella Luigi Napoleone, Cronaca in cui verranno registrati i fatti sì pubblici che privati. Cominciando dal giorno 23 agosto 1844 a tutto il 1851.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XIX sec.</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700038</codbib>
+      <autore1>Benassi P.</autore1>
+      <titolo1>Materiali per la storia dei fenomeni sismici della regione parmense.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1899</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870103</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1850.09.21, n.225.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870104</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1850.09.23, n.226.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1850</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>930011</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio dell’Osservatorio geofisico dell’Università di Modena, Registro delle osservazioni meteorologiche dell’anno 1850.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1850</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VI</intpq>
+      <desloc>Modena</desloc>
+      <lat_wgs84>44.6478</lat_wgs84>
+      <lon_wgs84>10.9251</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>6</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>038628.00</nloc_cfti>
+      <desloc_cfti>Modena</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Una scossa fu avvertita fortemente e durò circa 6s. Causò la caduta di qualche comignolo e fece suonare l’orologio del palazzo ducale (attuale sede dell’Accademia Militare). Una seconda scossa più leggera fu avvertita circa 25 minuti dopo. Le fonti ricordano che le scosse furono più forti nei paesi a SE di Modena $(440064,600075,870104,930011)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Bologna</desloc>
+      <lat_wgs84>44.4986</lat_wgs84>
+      <lon_wgs84>11.3396</lon_wgs84>
+      <provlet>BO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>039296.00</nloc_cfti>
+      <desloc_cfti>Bologna</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita fortemente, fece suonare l’orologio di piazza Maggiore e molti campanelli di case private. Una replica, di minore durata circa mezz’ora dopo $(095475,600075,690004,870103,410033)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Carpi</desloc>
+      <lat_wgs84>44.7848</lat_wgs84>
+      <lon_wgs84>10.8846</lon_wgs84>
+      <provlet>MO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>038203.00</nloc_cfti>
+      <desloc_cfti>Carpi</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita, ma non causò danni $(440048)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IV-V</intpq>
+      <desloc>Reggio nell'Emilia</desloc>
+      <lat_wgs84>44.6981</lat_wgs84>
+      <lon_wgs84>10.631</lon_wgs84>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.5</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>037794.00</nloc_cfti>
+      <desloc_cfti>Reggio nell’Emilia</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, che le fonti relative alla città datano erroneamente al 17 settembre, fu avvertita da moltissime persone $(320050,400076)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Ferrara</desloc>
+      <lat_wgs84>44.8363</lat_wgs84>
+      <lon_wgs84>11.6182</lon_wgs84>
+      <provlet>FE</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>040627.00</nloc_cfti>
+      <desloc_cfti>Ferrara</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita leggermente da poche persone $(692008,691270)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Salò</desloc>
+      <lat_wgs84>45.6065</lat_wgs84>
+      <lon_wgs84>10.5221</lon_wgs84>
+      <provlet>BS</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>016874.00</nloc_cfti>
+      <desloc_cfti>Salò</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono avvertite alcune scosse non forti $(000101,160061)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>II-III</intpq>
+      <desloc>Verona</desloc>
+      <lat_wgs84>45.4386</lat_wgs84>
+      <lon_wgs84>10.9936</lon_wgs84>
+      <provlet>VR</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>2.5</intpqnum>
+      <nterr>07480</nterr>
+      <nloc_cfti>023679.00</nloc_cfti>
+      <desloc_cfti>Verona</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Furono avvertite due lievi scosse a distanza di circa 20s $(380037,050397)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

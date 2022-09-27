@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>085008.00</nloc_cfti>
+      <desloc_cfti>Sipan</desloc_cfti>
+      <provlet></provlet>
+      <nazione>Croatia</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>5</maxint>
+      <lat_wgs84>42.7257</lat_wgs84>
+      <lon_wgs84>17.8834</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>31541</nterr>
+      <nperiod>000553</nperiod>
+      <datanum>19380702</datanum>
+      <data_label>1938 07 02</data_label>
+      <anno>1938</anno>
+      <mese>07</mese>
+      <giorno>02</giorno>
+      <time_label>01:46</time_label>
+      <ora>01</ora>
+      <minu>46</minu>
+      <sec>-9</sec>
+      <lat>42.172</lat>
+      <lon>17.5492</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>5</io>
+      <imax>5.5</imax>
+      <npun>6</npun>
+      <mm>5.1</mm>
+      <earthquakelocation>Basso Adriatico</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>021248</codbib>
+      <autore1>SGA</autore1>
+      <titolo1>Studi ed indagini per l’accertamento della idoneità tecnica delle aree suscettibili di insediamento di impianti nucleari. Regione Puglia, Area costiera salentina ionica. Indagini di sismica storica: rapporto finale (inedito per ENEL).</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1985</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

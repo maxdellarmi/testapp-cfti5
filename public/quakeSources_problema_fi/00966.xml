@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>00966</nterr>
+      <nperiod>003078</nperiod>
+      <datanum>16391015</datanum>
+      <data_label>1639 10 15</data_label>
+      <anno>1639</anno>
+      <mese>10</mese>
+      <giorno>15</giorno>
+      <time_label>00:30</time_label>
+      <ora>00</ora>
+      <minu>30</minu>
+      <sec>-9</sec>
+      <lat>42.6523</lat>
+      <lon>13.2467</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>15</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>3</ee_np>
+      <mm>6.2</mm>
+      <earthquakelocation>Monti della Laga</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo e reperita la fonte remota di Baratta (1901) $(000001)$. Si tratta di una relazione a stampa redatta dal romano Carlo Tiberi (1639) $(700109)$, che probabilmente utilizzò le informazioni giunte a Roma negli ambienti della famiglia Orsini, che deteneva la signoria dei luoghi colpiti dal terremoto. La relazione fu pubblicata nello stesso anno in due successive edizioni, la seconda delle quali fu arricchita di numerosi particolari, forse appresi direttamente da alcuni degli scampati fuggiti a Roma; questo testo riporta gli effetti delle scosse nelle singole località con numerosi errori di toponomastica $(700109,021069)$. È stata inoltre analizzata la revisione di Spadea et al. (1985) $(002159)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C0</codtab>
+      <testocomm>I morti furono circa 500, limitati dal fatto che la prima scossa distruttiva fu preceduta da altre due, che avevano allarmato la popolazione. L’ammontare complessivo dei danni alle strutture edilizie fu molto rilevante: fra 400.000 e 1.000.000 di scudi secondo le diverse edizioni della relazione di Tiberi (1699) $(700109)$. Nel soccorso alla popolazione è attestato l’intervento diretto del principe Orsini, all’epoca feudatario del territorio di Amatrice. Tuttavia, i danni causati dalla perdita del bestiame d’allevamento, principale fonte dell’economia pastorale della zona, e il perdurare delle scosse spinsero parte della popolazione a emigrare verso centri più grandi, in particolare ad Ascoli Piceno e a Roma.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>C5</codtab>
+      <testocomm>La popolazione di Amatrice dopo le prime due scosse, che precedettero l’evento distruttivo dell’8 ottobre, fuggì dalle abitazioni rifugiandosi parte in aperta campagna, parte nella chiesa di S.Domenico che non crollò. In seguito furono innalzate tende per il ricovero degli scampati e si tennero riti collettivi religiosi $(700109,021069)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>Il terremoto colpì Amatrice e le circostanti località dell’estrema parte orientale della provincia di Rieti, situate sul versante nord-occidentale dei Monti della Laga. La fonte principale ricorda due scosse distruttive, separando nettamente gli effetti osservati nelle singole località. La vicinanza dei paesi danneggiati, tuttavia, fa ritenere che le distruzioni siano dovute alla sovrapposizione degli effetti dei due eventi. La prima scossa distruttiva avvenne alle ore 7:30 italiane (0:35 GMT ca.) dell’8 ottobre; causò estese distruzioni ad Amatrice e il crollo pressoché completo dei vicini villaggi di Cantone, Filetta, Forcelle, La Conca, San Martino e Scai.&lt;br&gt;La seconda scossa avvenne il 15 ottobre alle ore ore 7:30 italiane (0:30 GMT ca.); causò ulteriori crolli e danni ad Amatrice e la distruzione quasi completa dei villaggi di Casale, Collemoresco, Roccasalli, Rocchetta e Torrita. Le scosse furono avvertite fortemente a Rieti e, più leggermente, a Recanati.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>E0</codtab>
+      <testocomm>Ad Amatrice alcune sorgenti si disseccarono e altre si intorbidirono; ad Accumoli in un vigneto di proprietà dei frati francescani fu osservato un avvallamento superficiale.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F1</codtab>
+      <testocomm>8 ottobre 1639, alle ore 7 e 7:15 italiane (0:05 e 0:20 GMT ca.): forti scosse ad Amatrice, che risvegliarono la popolazione inducendola a lasciare le abitazioni.&lt;br&gt;ore 7:30 italiane (0:35 GMT ca.): scossa distruttiva ad Amatrice e in diverse località del circondario.&lt;br&gt;Nella notte altre repliche si susseguirono fino alle ore 9 italiane (2:05 GMT ca.).&lt;br&gt;15 ottobre, alle ore 7:30 italiane (0:30 GMT ca.): seconda scossa distruttiva; causò ulteriori crolli ad Amatrice e gravi distruzioni in altri paesi circostanti.&lt;br&gt;17 ottobre: altra violenta scossa, che causò ulteriori danni ad Amatrice.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>002159</codbib>
+      <autore1>Spadea M.C., Vecchi M., Gardellini P. e Del Mese S.</autore1>
+      <titolo1>The Amatrice earthquake of October 8, 1639, in "Atlas of Isoseismal Maps of Italian Earthquakes", a cura di D.Postpischl, CNR-PFG, Quaderni de «La Ricerca Scientifica», n.114, vol.2A, p.161.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1985</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021069</codbib>
+      <autore1>Tiberi C.</autore1>
+      <titolo1>Nuova e vera Relatione del Terribile, e Spaventoso Terremoto sucesso nella Città della Matrice, e suo Stato, con patimento ancora di Accumulo, e Luoghi circonvicini, sotto li 7 del mese d’Ottobre 1639. Con la Morte compassionevole di molte persone, la perdita de Bestiami d’ogni sorte e con tutto il danno seguito fino al corrente giorno. Aggiontovi di più, altri successi dalli 17 del sodetto mese sin’all’hora presente; dove s’intende le gran ruvine di Monte Reale, Poggio Cancello, &amp; ancora con spavento nuovamente di Recanati, e Rieti nel detto tempo, &amp;c.</titolo1>
+      <luogoed>Roma-Milano</luogoed>
+      <datacompl>1639</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>021126</codbib>
+      <autore1>Capocci E.</autore1>
+      <titolo1>Catalogo de’ tremuoti avvenuti nella parte continentale del Regno delle Due Sicilie posti in raffronto con le eruzioni vulcaniche ed altri fenomeni cosmici, tellurici e meteorici, in "Atti del Reale Istituto d’Incoraggiamento alle Scienze Naturali di Napoli", tomo 9, pp.337-421; tomo 10, pp.293-327.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1861 - 1863</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>051385</codbib>
+      <autore1>Camassi R. e Castelli V.</autore1>
+      <titolo1>Looking for "new" earthquake data in the 17th-18th century European "newssellers" network, in "Journal of Earthquake Engineering", vol.8 (2004), n.3, pp.335-359.</titolo1>
+      <luogoed>London</luogoed>
+      <datacompl>2004</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>080937</codbib>
+      <autore1>Filippo da Secinara</autore1>
+      <titolo1>Trattato universale di tutti li terremoti occorsi, e noti nel mondo, con li casi infausti, ed infelici pressagiti da tali terremoti. Ove si fà mentione de Prencipi, e Monarchi, che regnorono in quei tempi, accennandosi le loro qualità, ed’altre cose memorabile, e curiose.</titolo1>
+      <luogoed>L’Aquila</luogoed>
+      <datacompl>1652</datacompl>
+      <valb>R</valb>
+      <desvalingl>Repertory</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>095573</codbib>
+      <autore1>Conversini P., Lolli O., Molin D., Paciello A. e Pagliacci S.</autore1>
+      <titolo1>Ricerche sulla sismicità storica della provincia di Perugia, Quaderni Regione dell’Umbria, n.s., Collana Sismica, vol.1b.</titolo1>
+      <luogoed>Perugia</luogoed>
+      <datacompl>1990</datacompl>
+      <valb>Bs</valb>
+      <desvalingl>Scientific bibliography</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>130422</codbib>
+      <autore1>Gavini I.C.</autore1>
+      <titolo1>I terremoti d’Abruzzo ed i suoi monumenti, in "Rivista Abruzzese di Scienze, Lettere ed Arti", a.30 (1915), fasc.5, pp.235-240.</titolo1>
+      <luogoed>Teramo</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280022</codbib>
+      <autore1>*</autore1>
+      <titolo1>Biblioteca Civica Berio di Genova, Sezione conservazione, M.R.3.1.5, A.Schiaffino, Annali Ecclesiastici della Liguria (origini-sec.XVII), 5 voll.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1641</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>700109</codbib>
+      <autore1>Tiberi C.</autore1>
+      <titolo1>Nuova, e vera Relatione del Terribile, e Spaventoso Terremoto successo nella Città della Matrice, e suo Stato, con patimento ancora di Accumulo, e Luoghi circonvicini, sotto li 7 del presente mese di Ottobre 1639. Con la Morte compassionevole di molte persone, la perdita di Bestiami d’ogni sorte, e con tutto il danno seguito fino al corrente giorno.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1639</datacompl>
+      <valb>F</valb>
+      <desvalingl>Direct source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745091</codbib>
+      <autore1>Costantini B.</autore1>
+      <titolo1>I terremoti d’Abruzzo, in "Rivista Abruzzese di Scienze, Lettere ed Arti", a.30 (1915), fasc.6, pp.281-295.</titolo1>
+      <luogoed>Teramo</luogoed>
+      <datacompl>1915</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>X</intpq>
+      <desloc>Casale</desloc>
+      <lat_wgs84>42.6699</lat_wgs84>
+      <lon_wgs84>13.2859</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>10</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053087.00</nloc_cfti>
+      <desloc_cfti>Casale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo totale dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>X</intpq>
+      <desloc>Collemoresco</desloc>
+      <lat_wgs84>42.6443</lat_wgs84>
+      <lon_wgs84>13.2335</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>10</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053066.00</nloc_cfti>
+      <desloc_cfti>Collemoresco</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo totale dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>X</intpq>
+      <desloc>Roccasalli</desloc>
+      <lat_wgs84>42.6558</lat_wgs84>
+      <lon_wgs84>13.1946</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>10</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053038.00</nloc_cfti>
+      <desloc_cfti>Roccasalli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo totale dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>X</intpq>
+      <desloc>Rocchetta</desloc>
+      <lat_wgs84>42.6567</lat_wgs84>
+      <lon_wgs84>13.2867</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>10</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053082.00</nloc_cfti>
+      <desloc_cfti>Rocchetta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò la distruzione completa dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>X</intpq>
+      <desloc>Torrita</desloc>
+      <lat_wgs84>42.6196</lat_wgs84>
+      <lon_wgs84>13.2207</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>10</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053101.00</nloc_cfti>
+      <desloc_cfti>Torrita</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò la distruzione completa dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX-X</intpq>
+      <desloc>Cossito</desloc>
+      <lat_wgs84>42.6744</lat_wgs84>
+      <lon_wgs84>13.2932</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9.5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053088.00</nloc_cfti>
+      <desloc_cfti>Cossito</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo quasi totale dell’abitato, ricordato come "Corsenito" $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>IX</intpq>
+      <desloc>Pasciano</desloc>
+      <lat_wgs84>42.6394</lat_wgs84>
+      <lon_wgs84>13.2087</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>9</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053072.00</nloc_cfti>
+      <desloc_cfti>Pasciano</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo di gran parte dell’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Accumoli</desloc>
+      <lat_wgs84>42.6948</lat_wgs84>
+      <lon_wgs84>13.2476</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053035.00</nloc_cfti>
+      <desloc_cfti>Accumoli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 14 ottobre danneggiò molto gravemente l’abitato; crollò la chiesa dei Francescani; furono molto numerosi i morti, 11 dei quali perirono nel crollo di una sola abitazione $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>Amatrice</desloc>
+      <lat_wgs84>42.6286</lat_wgs84>
+      <lon_wgs84>13.2901</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053053.00</nloc_cfti>
+      <desloc_cfti>Amatrice</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La prima scossa distruttiva dell’8 ottobre fece crollare gran parte delle abitazioni, delle chiese e degli edifici pubblici. Crollarono il campanile e la chiesa del Crocifisso, il palazzo del Reggimento e parzialmente quello del principe Orsini; le vittime furono molto numerose: il giorno seguente 35 cadaveri vennero estratti dalle macerie, ma molti altri non furono dissotterrati. La scossa del 15 ottobre causò ulteriori crolli e danni $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII-IX</intpq>
+      <desloc>San Giorgio</desloc>
+      <lat_wgs84>42.6352</lat_wgs84>
+      <lon_wgs84>13.2459</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8.5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053094.00</nloc_cfti>
+      <desloc_cfti>San Giorgio</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre danneggiò molto gravemente l’abitato $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Montereale</desloc>
+      <lat_wgs84>42.523</lat_wgs84>
+      <lon_wgs84>13.246</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>056229.00</nloc_cfti>
+      <desloc_cfti>Montereale</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo del palazzo Ricci $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VIII</intpq>
+      <desloc>Saletta</desloc>
+      <lat_wgs84>42.671</lat_wgs84>
+      <lon_wgs84>13.2722</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>8</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053084.00</nloc_cfti>
+      <desloc_cfti>Saletta</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò il crollo di poche abitazioni $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>VII-VIII</intpq>
+      <desloc>Poggio Cancelli</desloc>
+      <lat_wgs84>42.562</lat_wgs84>
+      <lon_wgs84>13.3274</lon_wgs84>
+      <provlet>AQ</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7.5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>056007.00</nloc_cfti>
+      <desloc_cfti>Poggio Cancelli</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa del 15 ottobre causò danni a parte dell’abitato e al palazzo Cerasi $(021069,700109)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Rieti</desloc>
+      <lat_wgs84>42.4048</lat_wgs84>
+      <lon_wgs84>12.8667</lon_wgs84>
+      <provlet>RI</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>053515.00</nloc_cfti>
+      <desloc_cfti>Rieti</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse furono avvertite con spavento dalla popolazione $(021069)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>III</intpq>
+      <desloc>Recanati</desloc>
+      <lat_wgs84>43.4036</lat_wgs84>
+      <lon_wgs84>13.5498</lon_wgs84>
+      <provlet>MC</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>3</intpqnum>
+      <nterr>00966</nterr>
+      <nloc_cfti>051972.00</nloc_cfti>
+      <desloc_cfti>Recanati</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Le scosse furono avvertite leggermente $(021069)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

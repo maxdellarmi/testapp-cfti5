@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>031281.00</nloc_cfti>
+      <desloc_cfti>Pavia di Udine</desloc_cfti>
+      <provlet>UD</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4</maxint>
+      <lat_wgs84>45.9963</lat_wgs84>
+      <lon_wgs84>13.3036</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34024</nterr>
+      <nperiod>003230</nperiod>
+      <datanum>19590426</datanum>
+      <data_label>1959 04 26</data_label>
+      <anno>1959</anno>
+      <mese>04</mese>
+      <giorno>26</giorno>
+      <time_label>14:45:13</time_label>
+      <ora>14</ora>
+      <minu>45</minu>
+      <sec>13</sec>
+      <lat>46.4671</lat>
+      <lon>13.0427</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7.5</io>
+      <imax>8</imax>
+      <npun>79</npun>
+      <mm>5.2</mm>
+      <earthquakelocation>Carnia</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4</intpqnum>
+      <intpq>IV</intpq>
+      <D1>Non sono note descrizioni degli effetti. Feliziani e Marcelli (1966) valutarono l’intensità della scossa di IV grado della scala Mercalli $(090420)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>090420</codbib>
+      <autore1>Feliziani P. e Marcelli L.</autore1>
+      <titolo1>Il terremoto di Tolmezzo del 26 Aprile 1959, II parte. Studio macrosismico-geologico: determinazione analitica delle grandezze ipocentrali e natura della scossa, in "Annali di Geofisica", vol.19 (1966), pp.191-214.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1966</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

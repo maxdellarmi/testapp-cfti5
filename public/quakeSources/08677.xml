@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Quake alone="true">
+  <Details>
+    <Detail>
+      <cat>ITA</cat>
+      <nterr>08677</nterr>
+      <nperiod>003208</nperiod>
+      <datanum>18581025</datanum>
+      <data_label>1858 10 25</data_label>
+      <anno>1858</anno>
+      <mese>10</mese>
+      <giorno>25</giorno>
+      <time_label>01:42:30</time_label>
+      <ora>01</ora>
+      <minu>42</minu>
+      <sec>30</sec>
+      <lat>44.8886</lat>
+      <lon>7.3068</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>6</io>
+      <imax>7</imax>
+      <npun>3</npun>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <mm>4.7</mm>
+      <earthquakelocation>Valle del Chisone</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <new2018></new2018>
+    </Detail>
+  </Details>
+  <Comments>
+    <Comment>
+      <codtab>B0</codtab>
+      <testocomm>È stata revisionata la bibliografia del Catalogo PFG (1985) costituita dai cataloghi di Mercalli (1897) $(000014)$ e Baratta (1901) $(000001)$. Mercalli (1897) riprese le notizie pubblicate nel suo catalogo precedente (1883) $(000002)$. Baratta (1901) rimanda al catalogo di Perrey (1861) $(745585)$, alla sua raccolta di materiali documentari (Baratta 1897) $(071265)$ e alla storia locale di Gallo (1890) $(280016)$. Notizie dell’evento sono contenute nel catalogo dei terremoti delle Alpi francesi di Rothé (1941) $(050077)$. Sono state inoltre utilizzate 3 cronache giornalistiche coeve afferenti a 3 testate $(672826,870199,940711)$.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>D0</codtab>
+      <testocomm>La scossa principale avvenne il 25 ottobre 1858 alle ore 1:42 GMT, interessò la zona del Piemonte intorno a Pinerolo e raggiunse i massimi effetti nella località di Abbadia Alpina, dove alcune case furono gravemente danneggiate. La scossa fu risentita senza danni anche a Pinerolo e a Cavour. A Pinerolo furono avvertite repliche più leggere nei giorni 1, 5 e 7 novembre 1858.</testocomm>
+    </Comment>
+    <Comment>
+      <codtab>F0</codtab>
+      <testocomm>La scossa del giorno 25 ottobre delle ore 01:42 GMT fu avvertita a Pinerolo e a Cavour senza danni e raggiunse i massimi effetti nella località di Abbadia Alpina dove rovinarono alcune case. Le scosse replicarono senza causare danni nei giorni 30 e 31 ottobre; nel giorno 1 novembre alle ore 20:35 GMT, 5 novembre alle ore 20:36 GMT e 7 novembre alle ore 21:30 GMT furono avvertite nuove scosse più leggere. La replica del giorno 1 novembre 1858 fu avvertita anche ad Oneglia.</testocomm>
+    </Comment>
+  </Comments>
+  <Biblios>
+    <Bibliography>
+      <codbib>000001</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>I terremoti d’Italia. Saggio di storia, geografia e bibliografia sismica italiana (ristampa anastatica, Sala Bolognese 1979).</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1901</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000002</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>Vulcani e fenomeni vulcanici in Italia (ristampa anastatica, Sala Bolognese 1981).</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1883</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>000014</codbib>
+      <autore1>Mercalli G.</autore1>
+      <titolo1>I terremoti della Liguria e del Piemonte.</titolo1>
+      <luogoed>Napoli</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>050077</codbib>
+      <autore1>Rothé J.-P.</autore1>
+      <titolo1>Les seismes des Alpes Françaises en 1938 et la séismicité des Alpes Occidentales, in "Annales de l’Institut de Physique du Globe", n.s., vol.3, pt.3 (Géophysique), pp.1-105.</titolo1>
+      <luogoed>Mende</luogoed>
+      <datacompl>1941</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071265</codbib>
+      <autore1>Baratta M.</autore1>
+      <titolo1>Materiali per un catalogo dei fenomeni sismici avvenuti in Italia 1800-1872, in "Memorie della Società Geografica Italiana", vol.7, pp.81-164.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1897</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>280016</codbib>
+      <autore1>Gallo I.R.</autore1>
+      <titolo1>Storia della città di Alassio dalle origini al 1815. Cronaca dal 1815 a noi. Documenti, appunti, note e dissertazioni.</titolo1>
+      <luogoed>Chiavari</luogoed>
+      <datacompl>1890</datacompl>
+      <valb>St</valb>
+      <desvalingl>Historiographical study</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>672826</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Piemontese, 1858.11.05, n.262.</titolo1>
+      <luogoed>Torino</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>745585</codbib>
+      <autore1>Perrey A.</autore1>
+      <titolo1>Note sur les tremblements de terre en 1858 avec supplements pour les années anterieures, in "Mémoires Couronnés et Mémoires des Savants Étrangers de l’Académie Royale de Belgique", tomo 32.</titolo1>
+      <luogoed>Bruxelles</luogoed>
+      <datacompl>1861</datacompl>
+      <valb>C</valb>
+      <desvalingl>Catalogue</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>870199</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Genova, 1858.11.08, n.262.</titolo1>
+      <luogoed>Genova</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>940711</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta Uffiziale di Venezia, 1858.11.11, n.258.</titolo1>
+      <luogoed>Venezia</luogoed>
+      <datacompl>1858</datacompl>
+      <valb>Fi</valb>
+      <desvalingl>Indirect source</desvalingl>
+    </Bibliography>
+  </Biblios>
+  <Localities/>
+  <LocComments>
+    <Locality>
+      <intpq>VII</intpq>
+      <desloc>Abbadia Alpina</desloc>
+      <lat_wgs84>44.8886</lat_wgs84>
+      <lon_wgs84>7.3068</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>7</intpqnum>
+      <nterr>08677</nterr>
+      <nloc_cfti>072559.00</nloc_cfti>
+      <desloc_cfti>Abbadia Alpina</desloc_cfti>
+      <notesito></notesito>
+      <COMM>Per effetto della scossa alcune case rovinarono $(745585,280016)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>V</intpq>
+      <desloc>Pinerolo</desloc>
+      <lat_wgs84>44.8857</lat_wgs84>
+      <lon_wgs84>7.3268</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>5</intpqnum>
+      <nterr>08677</nterr>
+      <nloc_cfti>001689.00</nloc_cfti>
+      <desloc_cfti>Pinerolo</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa, di breve durata e preceduta da rombo, fu forte; le scosse replicarono più leggere nei giorni: 1 novembre 1858 alle ore 20:35 GMT; 5 novembre 1858 alle ore 20:36 GMT e 7 novembre alle ore 21:30 GMT $(745585,000001,000014,050077,940711,870199)$.</COMM>
+    </Locality>
+    <Locality>
+      <intpq>F</intpq>
+      <desloc>Cavour</desloc>
+      <lat_wgs84>44.7863</lat_wgs84>
+      <lon_wgs84>7.3749</lon_wgs84>
+      <provlet>TO</provlet>
+      <nazione>Italy</nazione>
+      <intpqnum>4.6</intpqnum>
+      <nterr>08677</nterr>
+      <nloc_cfti>000576.00</nloc_cfti>
+      <desloc_cfti>Cavour</desloc_cfti>
+      <notesito></notesito>
+      <COMM>La scossa fu avvertita $(745585,000002)$.</COMM>
+    </Locality>
+  </LocComments>
+  <Seqs/>
+</Quake>

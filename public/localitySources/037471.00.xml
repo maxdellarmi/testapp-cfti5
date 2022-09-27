@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>037471.00</nloc_cfti>
+      <desloc_cfti>Cerreto dell’Alpi</desloc_cfti>
+      <provlet>RE</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>8</maxint>
+      <lat_wgs84>44.3234</lat_wgs84>
+      <lon_wgs84>10.2494</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>34923</nterr>
+      <nperiod>000600</nperiod>
+      <datanum>19631005</datanum>
+      <data_label>1963 10 05</data_label>
+      <anno>1963</anno>
+      <mese>10</mese>
+      <giorno>05</giorno>
+      <time_label>11:57:39</time_label>
+      <ora>11</ora>
+      <minu>57</minu>
+      <sec>39</sec>
+      <lat>44.3203</lat>
+      <lon>10.2957</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>4</io>
+      <imax>5</imax>
+      <npun>2</npun>
+      <mm>3.9</mm>
+      <earthquakelocation>Appennino reggiano</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>3</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>5</intpqnum>
+      <intpq>V</intpq>
+      <D1/>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>27178</nterr>
+      <nperiod>000471</nperiod>
+      <datanum>19200907</datanum>
+      <data_label>1920 09 07</data_label>
+      <anno>1920</anno>
+      <mese>09</mese>
+      <giorno>07</giorno>
+      <time_label>05:55:40</time_label>
+      <ora>05</ora>
+      <minu>55</minu>
+      <sec>40</sec>
+      <lat>44.1862</lat>
+      <lon>10.2775</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>10</io>
+      <imax>10</imax>
+      <npun>750</npun>
+      <mm>6.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>65</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>8</intpqnum>
+      <intpq>VIII</intpq>
+      <D1>Frazione del Comune di Collagna. Il terremoto danneggiò gravemente il paese: varie case crollarono e la maggior parte delle altre fu resa inabitabile; vi furono 3 feriti $(460177,071723,030083,420260)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>460177</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Centrale dello Stato, Ministero dell’Interno, Direzione generale della sanità pubblica, Affari generali, 1910-1920, b.4/bis, Telegramma del prefetto di Reggio Emilia Boniburini al sottosegretario all’Interno Corradini, Reggio Emilia 9 settembre1920.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>071723</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Secolo. Gazzetta di Milano, 1920.09.09.</titolo1>
+      <luogoed>Milano</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>030083</codbib>
+      <autore1>*</autore1>
+      <titolo1>Il Giornale d’Italia, 1920.09.10, a.20, n.217.</titolo1>
+      <luogoed>Roma</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>420260</codbib>
+      <autore1>*</autore1>
+      <titolo1>Gazzetta di Parma, 1920.09.14, a.161, n.222.</titolo1>
+      <luogoed>Parma</luogoed>
+      <datacompl>1920</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

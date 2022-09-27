@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>020042.00</nloc_cfti>
+      <desloc_cfti>San Giovanni del Dosso</desloc_cfti>
+      <provlet>MN</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>1</risentimenti>
+      <maxint>4.6</maxint>
+      <lat_wgs84>44.9671</lat_wgs84>
+      <lon_wgs84>11.0787</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>01781</nterr>
+      <nperiod>003093</nperiod>
+      <datanum>17400306</datanum>
+      <data_label>1740 03 06</data_label>
+      <anno>1740</anno>
+      <mese>03</mese>
+      <giorno>06</giorno>
+      <time_label>05:40</time_label>
+      <ora>05</ora>
+      <minu>40</minu>
+      <sec>-9</sec>
+      <lat>44.0748</lat>
+      <lon>10.489</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>8</io>
+      <imax>8</imax>
+      <npun>32</npun>
+      <mm>5.5</mm>
+      <earthquakelocation>Garfagnana</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>1</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>4.6</intpqnum>
+      <intpq>F</intpq>
+      <D1>La scossa fu avvertita $(810004)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>810004</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio Parrocchiale di San Giovanni del Dosso, A.Gavioli, Brevi cenni cronologici-storici della parrocchia di San Giovanni del Dosso, sec.XX.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>XX sec.</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>

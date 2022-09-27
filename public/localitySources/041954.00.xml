@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Locality alone="true">
+  <Details>
+    <Detail>
+      <nloc_cfti>041954.00</nloc_cfti>
+      <desloc_cfti>San Savino</desloc_cfti>
+      <provlet>FC</provlet>
+      <nazione>Italy</nazione>
+      <risentimenti>2</risentimenti>
+      <maxint>7</maxint>
+      <lat_wgs84>44.0709</lat_wgs84>
+      <lon_wgs84>11.972</lon_wgs84>
+      <notesito></notesito>
+    </Detail>
+  </Details>
+  <Quakes>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>33186</nterr>
+      <nperiod>003276</nperiod>
+      <datanum>19520704</datanum>
+      <data_label>1952 07 04</data_label>
+      <anno>1952</anno>
+      <mese>07</mese>
+      <giorno>04</giorno>
+      <time_label>20:35:12</time_label>
+      <ora>20</ora>
+      <minu>35</minu>
+      <sec>12</sec>
+      <lat>43.981</lat>
+      <lon>11.8821</lon>
+      <rel></rel>
+      <level>S</level>
+      <io>7</io>
+      <imax>7</imax>
+      <npun>64</npun>
+      <mm>5</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>6</intpqnum>
+      <intpq>VI</intpq>
+      <D1>La scossa causò danni non gravi: caduta di intonaci e di alcuni soffitti e incrinature in alcuni muri; la popolazione passò la notte all’aperto $(111005)$.</D1>
+    </Quake>
+    <Quake>
+      <cat>ITA</cat>
+      <nterr>26671</nterr>
+      <nperiod>003115</nperiod>
+      <datanum>19181110</datanum>
+      <data_label>1918 11 10</data_label>
+      <anno>1918</anno>
+      <mese>11</mese>
+      <giorno>10</giorno>
+      <time_label>15:12:28</time_label>
+      <ora>15</ora>
+      <minu>12</minu>
+      <sec>28</sec>
+      <lat>43.9177</lat>
+      <lon>11.933</lon>
+      <rel></rel>
+      <level>I</level>
+      <io>9</io>
+      <imax>9</imax>
+      <npun>188</npun>
+      <mm>5.9</mm>
+      <earthquakelocation>Appennino romagnolo</earthquakelocation>
+      <epicenter_type>Calculated epicentre</epicenter_type>
+      <country>Italy</country>
+      <ee_nt>0</ee_nt>
+      <ee_np>0</ee_np>
+      <flagcomments>4</flagcomments>
+      <flagfalseeq></flagfalseeq>
+      <intpqnum>7</intpqnum>
+      <intpq>VII</intpq>
+      <D1>Il terremoto del 10 novembre 1918 causò danni di media entità alla chiesa parrocchiale, in cui furono rilevate lesioni e gretti nel coro, nel muro tra la sagrestia e l’esterno, nelle pareti di una cappella, nel tetto; lievi screpolature nei muri e nei soffitti della canonica; la sconnessione con screpolature di alcune pareti della casa colonica della chiesa $(661052)$.</D1>
+    </Quake>
+  </Quakes>
+  <Biblios>
+    <Bibliography>
+      <codbib>661052</codbib>
+      <autore1>*</autore1>
+      <titolo1>Archivio di Stato di Forlì, Genio Civile, Ufficio speciale per il terremoto tosco-romagnolo, serie III, Chiese e canoniche, b.1055, fasc.110 (1919-1923), Relazione e stima dei lavori di riparazione della chiesa, canonica e casa colonica della parrocchia di San Savino, frazione del comune di Predappio danneggiate dal terremoto del 10 novembre 1918 redatta dall’ingegnere Giuseppe Valbonesi, Forlì 2 giugno 1919.</titolo1>
+      <luogoed></luogoed>
+      <datacompl>1919</datacompl>
+    </Bibliography>
+    <Bibliography>
+      <codbib>111005</codbib>
+      <autore1>*</autore1>
+      <titolo1>Giornale dell’Emilia,1952.07.06, a.8, n.160.</titolo1>
+      <luogoed>Bologna</luogoed>
+      <datacompl>1952</datacompl>
+    </Bibliography>
+  </Biblios>
+</Locality>
