@@ -10,9 +10,8 @@ curl -s https://laravel.build/laravel-dev | bash
 This operation may take a few minutes the first time you run the installer, since it will download a suitable PHP image to execute Composer and install the application dependencies using Docker.
 
 **********************************************NB LA PRIMA VOLTA MI AVEVA SALTATO IL PASSAGGIO **************************************************
-PASSW SU ROOT WSL WINDOWS
-su max
-001massidel80!
+PASSW SU ROOT WSL WINDOWS NECESSARIA
+
 
 
 Before finishing, the installation script will ask you to confirm your sudo password in order to set the correct permissions on the application directories:
