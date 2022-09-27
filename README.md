@@ -10,9 +10,8 @@ curl -s https://laravel.build/laravel-dev | bash
 This operation may take a few minutes the first time you run the installer, since it will download a suitable PHP image to execute Composer and install the application dependencies using Docker.
 
 **********************************************NB LA PRIMA VOLTA MI AVEVA SALTATO IL PASSAGGIO **************************************************
-PASSW SU ROOT WSL WINDOWS
-su max
-001massidel80!
+PASSW SU ROOT WSL WINDOWS NECESSARIA
+
 
 
 Before finishing, the installation script will ask you to confirm your sudo password in order to set the correct permissions on the application directories:
@@ -49,6 +48,33 @@ This will run your development environment in foreground mode, which allows you 
 To run the environment in background mode (detached), include -d as an argument to the previous command:
 sail up -d
 Whether you choose to run your environment in foreground or background mode, your new Laravel application should now be available at http://localhost. Open this URL on your browser and you'll see a page like this:
+
+ESEMPIO:
+UTILIZZARE IL CMDLINER
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9$ cd example-app/
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ dir
+app      artisandebug    bootstrap      composer.lock  database  docker-compose.yml  logdiTest.txt  phpunit.xml  README.md  routes   tests   vendor.7z
+artisan  BK24092022.env  composer.json  config         docker    lang                package.json   public       resources  storage  vendor  webpack.mix.js
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ ./vendor/bin/sail build --no-cache
+example-app-laravel.test-1   "start-container"   laravel.test        exited (0)
+Shutting down old Sail processes...
+
+ALLA FINE
+
+Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ dir
+app      artisandebug    bootstrap      composer.lock  database  docker-compose.yml  logdiTest.txt  phpunit.xml  README.md  routes   tests   vendor.7z
+artisan  BK24092022.env  composer.json  config         docker    lang                package.json   public       resources  storage  vendor  webpack.mix.js
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/sail-1.14.9/sail-1.14.9/example-app$ ./vendor/bin/sail up
+
+PER AGGIUNGERE DIPENDENZE
+./vendor/bin/sail composer require ext-simplexml
+./vendor/bin/sail composer require ext-simplexml
+
+Executing Composer Commands
+Composer commands may be executed using the composer command. Laravel Sail's application container includes a Composer 2.x installation:
+
+sail composer require laravel/sanctum
 
 Sail quick reference
 The following list contains a short reference on the main Sail commands:
