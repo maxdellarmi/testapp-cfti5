@@ -1,66 +1,148 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+DEVI ESSERE IN WSL PER ESEGUIRE I COMANDI
+https://dev.to/sourcegraph/creating-a-new-laravel-application-with-sail-and-docker-no-php-required-4c2n
+CREATE NEW APPLICATION WITH LARAVEL
+1. Create a new Laravel application with the official builder script
+The demo application is a blog-like application that pulls content from a user's profile at DEV. We'll call it laravel-dev.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+https://laravel.build/[NOMEAPPLICAZIONE] | bash
+The next command will download the builder script from an official Laravel site and run it using bash.
+curl -s https://laravel.build/laravel-dev | bash
+This operation may take a few minutes the first time you run the installer, since it will download a suitable PHP image to execute Composer and install the application dependencies using Docker.
 
-## About Laravel
+**********************************************NB LA PRIMA VOLTA MI AVEVA SALTATO IL PASSAGGIO **************************************************
+PASSW SU ROOT WSL WINDOWS
+su max
+001massidel80!
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Before finishing, the installation script will ask you to confirm your sudo password in order to set the correct permissions on the application directories:
+Application ready! Build something amazing.
+Sail scaffolding installed successfully.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Please provide your password so we can make some final adjustments to your application's permissions.
 
-## Learning Laravel
+[sudo] password for erika: 
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Thank you! We hope you build something incredible. Dive in with: cd laravel-dev-blog && ./vendor/bin/sail up
+You can now explore the files in your freshly installed Laravel application.
+cd laravel-dev-blog/
+ls
+The artisan script, located at the root of the application folder, is an important tool that you can use to generate boilerplate code, manipulate the database, run jobs and queues, among other things.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Following, a list with the relevant directories within a freshly installed Laravel application:
+.
+├── app/ # models, controllers, and app-specific logic
+├── bootstrap/
+├── config/ # configuration files
+├── database/ # database-related classes and scripts
+├── public/ # the document root for the application
+├── resources/ # front end resources that aren't public: views, base CSS and JS 
+├── routes/ # where the application routes are defined
+├── storage/ # file uploads, cache, and logs are stored here
+├── tests/ #application tests
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+2. Running sail up
+With the files in place, you can now bring your development environment up with the following command:
+sail up
+This will run your development environment in foreground mode, which allows you to see container logs in real time, but it will block your terminal. To stop the execution and save the state of containers, you can hit CTRL+C.
 
-## Laravel Sponsors
+To run the environment in background mode (detached), include -d as an argument to the previous command:
+sail up -d
+Whether you choose to run your environment in foreground or background mode, your new Laravel application should now be available at http://localhost. Open this URL on your browser and you'll see a page like this:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Sail quick reference
+The following list contains a short reference on the main Sail commands:
 
-### Premium Partners
+Command	Description
+sail up	Brings the Docker environment up.
+sail down	Brings the Docker environment down and remove associated containers, storage, and network.
+sail start	Starts an environment that was previously stopped with sail stop.
+sail stop	Stops an environment that is currently running, saving the state of containers and services.
+sail artisan	Runs the artisan tool on the application container.
+sail php	Runs a PHP script on the application container.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
+1)NEL COMPOSER CI SONO 2 LIBRERIE IN PIU POI COMPOSER AGGIUNGERE LE DIPENDENZE COL COMANDO SOTTO
+"ext-simplexml": "*",
+"ext-libxml": "*"
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+sail composer require ext-simplexml
+sail composer require ext-libxml
 
-## Code of Conduct
+2)FILE .ENV a mano
+SAIL_XDEBUG_MODE=develop,debug
+SAIL_XDEBUG_CONFIG=
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=base64:zzXLmMVFQNnQrGvgwl8F0hjNktCLkn6I8D+8743q4rg=
+APP_DEBUG=true
+APP_URL=http://example-app.test
 
-## Security Vulnerabilities
+LOG_CHANNEL=stack
+LOG_DEPRECATIONS_CHANNEL=null
+LOG_LEVEL=debug
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+BROADCAST_DRIVER=log
+CACHE_DRIVER=redis
+SESSION_DRIVER=redis
+SESSION_LIFETIME=120
+FILESYSTEM_DISK=local
+QUEUE_CONNECTION=sync
 
-## License
+DB_CONNECTION=mysql
+DB_HOST=mysql
+DB_PORT=3306
+DB_DATABASE=example_app
+DB_USERNAME=sail
+DB_PASSWORD=password
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+MEMCACHED_HOST=memcached
+
+REDIS_HOST=redis
+REDIS_PASSWORD=null
+REDIS_PORT=6379
+
+MAIL_MAILER=smtp
+MAIL_HOST=mailhog
+MAIL_PORT=1025
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS="hello@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_DEFAULT_REGION=us-east-1
+AWS_BUCKET=
+AWS_USE_PATH_STYLE_ENDPOINT=false
+
+PUSHER_APP_ID=
+PUSHER_APP_KEY=
+PUSHER_APP_SECRET=
+PUSHER_APP_CLUSTER=mt1
+
+MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
+MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
+
+SCOUT_DRIVER=meilisearch
+MEILISEARCH_HOST=http://meilisearch:7700
+
+FORWARD_DB_PORT=
+FORWARD_REDIS_PORT=
+FORWARD_MEILISEARCH_PORT=
+FORWARD_MAILHOG_PORT=
+FORWARD_MAILHOG_DASHBOARD_PORT=
+
+3)COPIA TT LA DIRECTORY EXAMPLE-APP SENZA VENDOR E I FILE INTERNI
+
+4) il file  Config/app.php ha questa differenza mentre prima bastava solamente creare le prime 3 righe e vanno ripristinate
+   TODO RIPRISTINA E ELIMINA SOTTO
+    'aliases' => Facade::defaultAliases()->merge([
+        // 'ExampleClass' => App\Example\ExampleClass::class,
+    ])->toArray(),
+# testapp-cfti5
+
+Altri documentazione all'interno del file:
+https://docs.google.com/document/d/1c3haZ5jVguTPTm__dZIVGgwjZIZTZAKQx8SB_UPVjW0/edit
