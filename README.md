@@ -88,12 +88,16 @@ sail artisan	Runs the artisan tool on the application container.
 sail php	Runs a PHP script on the application container.
 
 
-1)NEL COMPOSER CI SONO 2 LIBRERIE IN PIU POI COMPOSER AGGIUNGERE LE DIPENDENZE COL COMANDO SOTTO
+1)NEL COMPOSER CI SONO 3 LIBRERIE IN PIU POI COMPOSER AGGIUNGERE LE DIPENDENZE COL COMANDO SOTTO
 "ext-simplexml": "*",
 "ext-libxml": "*"
+"laravel/dusk": "^7.1",
 
-sail composer require ext-simplexml
-sail composer require ext-libxml
+./vendor/bin/sail composer require ext-simplexml
+./vendor/bin/sail composer require ext-libxml
+./vendor/bin/sail composer require --dev laravel/dusk
+per installare dusk e il chrome driver
+./vendor/bin/sail php artisan dusk:install
 
 2)FILE .ENV a mano
 SAIL_XDEBUG_MODE=develop,debug
