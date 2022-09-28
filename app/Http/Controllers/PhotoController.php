@@ -15,9 +15,9 @@ use Illuminate\Support\Facades\View;
 use phpDocumentor\Reflection\Types\Integer;
 use phpDocumentor\Reflection\Types\Void_;
 use stdClass;
-//use GuzzleHttp\Middleware;
-//use Psr\Http\Message\RequestInterface;
-//use Psr\Http\Message\ResponseInterface;
+use GuzzleHttp\Middleware;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
 
 
 
@@ -111,6 +111,8 @@ class PhotoController extends Controller
         //( "max-age","84600");
     }
 
+
+
     /*
    * 1) ritorna xml puro
    * 2) cachare xml su rediis
@@ -166,6 +168,32 @@ class PhotoController extends Controller
         return response()->make($listXML)->header("Content-Type", "application/xml"); //->header( "cache-control","public")->header( "max-age","84600");
     }
 
+
+//    /**
+//     * @return \Illuminate\Http\Response|mixed
+//     * @throws \Illuminate\Contracts\Container\BindingResolutionException
+//     */
+//    public function cfti5UpdateEEProcess(){
+//
+////        $response = Http::withMiddleware(
+////            Middleware::mapResponse(function (ResponseInterface $response) {
+////                $header = $response->getHeader('Content-Type: application/json');
+////                return $response;
+////            })
+////        )->get('http://localhost/cfti5UpdateEE');
+////        Log::info($response->status());
+////        Log::info($response->body());
+////        //TODO:sostituisci il body con il file richiesto
+//
+//        $response = Http::withOptions([
+//            'debug' => true,
+//            'timeout' => 120000,
+//        ])->get('http://localhost/cfti5UpdateEE');
+//        $jsonData = $response->json();
+//
+//        dd($jsonData);
+//        echo $jsonData;
+//    }
 
 
 

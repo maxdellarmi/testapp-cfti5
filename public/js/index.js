@@ -945,7 +945,7 @@ var GmapsTools = function(){
 		creazioneMappa();
 		// loading div
 		$('#loading').hide();
-
+        console.info("FINE CARICAMENTO DEI MARKERS - creazione mappa (caricati tutti i terremoti)");
 
 	}
 
@@ -1203,10 +1203,15 @@ function ResetMap(){
 		LonW: parseFloat(document.getElementById('LonW').value),
 		LonE: parseFloat(document.getElementById('LonE').value),
 	});
-    console.log("CARICAMENTO CREAZIONE MAPPA DOPO LO SHOWQUAKES");
+    console.info("INIZIO CARICAMENTO CREAZIONE MAPPA DOPO LO SHOWQUAKES");
     creazioneMappa(); //TODO: AGGIUNTO DAL MANAJAX
-	// resizeMapIndex() ;
+    console.info("FINE CARICAMENTO CREAZIONE MAPPA DOPO LO SHOWQUAKES");
+    // //TESTING CON SELENIUM E DUSK
+    // alert("ESECUZIONE TEST COMPLETA");
+
+    // resizeMapIndex() ;
 	// spiderfy();
+
 
 }
 

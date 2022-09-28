@@ -27,7 +27,7 @@ services:
             - redis
 #            - meilisearch
 #            - mailhog
-#            - selenium
+            - selenium
 #    mysql:
 #        image: 'mysql/mysql-server:8.0'
 #        ports:
@@ -79,12 +79,14 @@ services:
 #            - '${FORWARD_MAILHOG_DASHBOARD_PORT:-8025}:8025'
 #        networks:
 #            - sail
-#    selenium:
-#        image: 'selenium/standalone-chrome'
-#        volumes:
-#            - '/dev/shm:/dev/shm'
-#        networks:
-#            - sail
+    selenium:
+        image: 'selenium/standalone-chrome'
+        volumes:
+            - '/dev/shm:/dev/shm'
+        ports:
+            - '4444:4444'
+        networks:
+            - sail
 networks:
     sail:
         driver: bridge

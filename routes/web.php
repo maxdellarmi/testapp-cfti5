@@ -53,7 +53,7 @@ Route::get('/cfti5CS', function () {
 
 /**
  *PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING
- *SE GLI ULTIMI DUE CARATERI URL FINISCONO X EE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO 500ms
+ *SE GLI ULTIMI DUE CARATERI URL FINISCONO X 'EE' es. cfti5UpdateEE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO 500ms
  *  setTimeout(function () {
         document.getElementsByName("access")[0].value = "EE";
         var event = new Event('change');
@@ -61,14 +61,10 @@ Route::get('/cfti5CS', function () {
    }, 500);
  */
 Route::get('/cfti5UpdateEE', function () {
-    Log::info("Caricamento Resources\\Views\\indexCFTI5_EEUpdateOutputCache.blade.php...");
+    Log::info("/cfti5UpdateEE Caricamento Resources\\Views\\indexCFTI5_EEUpdateOutputCache.blade.php...");
     Log::info("PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING....");
     return view('indexCFTI5_EEUpdateOutputCache');
 });
-
-
-
-
 
 
 //Route::get('/test','PhotoController@saveJson');

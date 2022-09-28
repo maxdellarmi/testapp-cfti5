@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="css/css.css" />
     <link rel="stylesheet" href="css/index.css" />
     <link rel="stylesheet" href="jquery/jquery-ui.css">
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>
+    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>--->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry"> </script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script src="jquery/jquery-1.12.4.js"></script>
     <script src="jquery/jquery-ui.js"></script>

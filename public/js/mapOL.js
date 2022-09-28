@@ -596,7 +596,7 @@ function creazioneMappa () {
             // for (var i = 0; i < markersArray.length; i++) { //inizializzato nel js index.js
             //     markers.push(markersArray[i]['Marker']);    //markers inizializzato in questo file.
             // }
-            console.log("carico i markers");
+            console.info("INIZIA CARICAMENTO DEI MARKERS - creazione mappa (caricati tutti i terremoti)");
             /***
              * NOTA. Il primo caricamento va sempre a vuoto perche' non sono ancora stati caricati i filtri viene caricato correttamente dopo la funzione showQuakes.
              */

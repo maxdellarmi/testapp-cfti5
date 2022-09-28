@@ -20,7 +20,7 @@
     <script type="text/javascript" src="js/language.js"> </script>
     <script type="text/javascript" src="js/js.js"> </script>
     <script type="text/javascript" src="js/index.js"> </script>
-    <script type="text/javascript" src="js/index_EE.js"> </script>
+    <script type="text/javascript" src="js/index_EE_CacheUpdate.js"> </script>
     <script type="text/javascript" src="js/index_loc.js"> </script>
 
     <script type="text/javascript" src="js/jquery.tablesorter.js"></script>
@@ -69,6 +69,10 @@
 <div id="WMSdiv" class="URLdiv"><input type="text" value="http://services-storing.ingv.it/CFTI/wms?service=WMS&request=getCapabilities" id="WMStext"></div>
 <div id="WFSdiv" class="URLdiv"><input type="text" value="http://services-storing.ingv.it/CFTI/wfs?service=WFS&request=getCapabilities" id="WFStext"></div>
 <div id="METAdiv" class="URLdiv"><input type="text" value="http://services.seismofaults.eu/geonetwork/srv/eng/csw-cfti?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities" id="METAtext"></div>
+
+<!-- recuperaDataOrarioElaborazione -->
+<!-- console.log(new Date().toJSON().replaceAll(":","-").split('.')[0]); -->
+<div id="OutpuFileName" class="URLdiv"><input type="hidden" value="" id="OutputResultData"></div>
 
 <!--<body onresize="resizeMapIndex()" onload="stateChange()">-->
 <body onload="stateChange()" onresize="resizeMapIndex()">
