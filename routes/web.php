@@ -39,6 +39,10 @@ $requestVariables = $request->input('inputData');
  */
 
 
+//PRIMA PAGINA ORIGINALE=>BLADE
+Route::get('/cfti5', function () {
+    return view('indexCFTI5');
+})->middleware('cache.headers:public;max_age=31536000;etag');
 
 
 //PAGINA TERREMOTI MODIFICATA CACHING STORAGE
@@ -46,6 +50,23 @@ Route::get('/cfti5CS', function () {
     Log::info("Caricamento Resources\\Views\\indexCFTI5CStorage.blade.php...");
     return view('indexCFTI5CStorage');
 });
+
+/**
+ *PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING
+ *SE GLI ULTIMI DUE CARATERI URL FINISCONO X EE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO 500ms
+ *  setTimeout(function () {
+        document.getElementsByName("access")[0].value = "EE";
+        var event = new Event('change');
+        document.getElementsByName("access")[0].dispatchEvent(event);
+   }, 500);
+ */
+Route::get('/cfti5UpdateEE', function () {
+    Log::info("Caricamento Resources\\Views\\indexCFTI5_EEUpdateOutputCache.blade.php...");
+    Log::info("PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING....");
+    return view('indexCFTI5_EEUpdateOutputCache');
+});
+
+
 
 
 
@@ -91,10 +112,6 @@ Route::get('/EEListService', 'PhotoController@serviceEEList')->middleware('cache
 // ServiceEE_MED = '/EEList_MEDService';  // =>'EEList_MED.xml';
 Route::get('/EEList_MEDService', 'PhotoController@serviceEEList_MED')->middleware('cache.headers:public;max_age=31536000;etag');
 
-//PRIMA PAGINA ORIGINALE=>BLADE
-Route::get('/cfti5', function () {
-    return view('indexCFTI5');
-})->middleware('cache.headers:public;max_age=31536000;etag');
 
 
 //RECUPERO DI TUTTI GLI ALTRI FILE RICHIESTI presenti nella directory home e attaccando semplicemente il file name ex.

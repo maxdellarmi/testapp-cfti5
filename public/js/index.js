@@ -1362,6 +1362,7 @@ function resizeMapIndex() {
 
 
 function stateChange() {
+    console.log("SELECT HTML EVENT DROPDOWNLIST TERREMOTI-LOCALITA-EFFETTI-AMBIENTALI...........")
 	$('#loading').show();
 	var url = window.location.href;
 	var AcTy = url.substr(-2,2);
@@ -1374,7 +1375,10 @@ function stateChange() {
             InitializeIndex();
     }, 10);
 
+    //SE GLI ULTIMI DUE CARATERI URL FINISCONO X EE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO UN PO'
 	if (AcTy == "EE" && flagAccessURL == 0) {
+        //SE GLI ULTIMI DUE CARATERI URL FINISCONO X EE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO UN PO'
+        console.log("SELECT HTML EVENT DROPDOWNLIST EFFETTI-AMBIENTALI AUTOCLICK 500ms...........")
 		flagAccessURL = 1;
 		setTimeout(function () {
 			document.getElementsByName("access")[0].value = "EE";
