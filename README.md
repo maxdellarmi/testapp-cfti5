@@ -107,7 +107,9 @@ APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:zzXLmMVFQNnQrGvgwl8F0hjNktCLkn6I8D+8743q4rg=
 APP_DEBUG=true
-APP_URL=http://example-app.test
+
+DUSK_DRIVER_URL='http://selenium:4444'
+APP_URL="http://laravel.test:80"
 
 LOG_CHANNEL=stack
 LOG_DEPRECATIONS_CHANNEL=null
@@ -181,3 +183,77 @@ https://docs.google.com/document/d/1c3haZ5jVguTPTm__dZIVGgwjZIZTZAKQx8SB_UPVjW0/
 https://link.medium.com/W7rZUCYHFtb
 https://link.medium.com/IARdzvjIFtb
 https://www.itsolutionstuff.com/post/laravel-9-guzzle-http-request-exampleexample.html
+
+6) GESTIONE AUTOMATION TEST LARAVEL DUSK 
+https://stackoverflow.com/questions/65569147/laravel-sail-dusk-selenium-connection-refused
+
+TODO ESPONI LA PORTA 4444 di SELENIUM
+selenium:
+	image: 'selenium/standalone-chrome'
+	volumes:
+		- '/dev/shm:/dev/shm'
+	ports:
+		- '4444:4444'
+	networks:
+		- sail
+
+I switched to http://selenium:4444 and the tests worked perfectly!
+
+Here are my new code:
+
+<?php
+
+namespace Tests;
+
+use Facebook\WebDriver\Chrome\ChromeOptions;
+use Facebook\WebDriver\Remote\DesiredCapabilities;
+use Facebook\WebDriver\Remote\RemoteWebDriver;
+use Laravel\Dusk\TestCase as BaseTestCase;
+
+abstract class DuskTestCase extends BaseTestCase {
+    use CreatesApplication;
+
+    /**
+     * Prepare for Dusk test execution.
+     *
+     * @beforeClass
+     * @return void
+     */
+    public static function prepare() {
+        if (!static::runningInSail()) {
+            static::startChromeDriver();
+        }
+    }
+
+    /**
+     * Create the RemoteWebDriver instance.
+     *
+     * @return \Facebook\WebDriver\Remote\RemoteWebDriver
+     */
+    protected function driver() {
+        $options = (new ChromeOptions)->addArguments([
+            '--disable-gpu',
+            '--headless',
+            '--no-sandbox',
+            '--window-size=1920,1080',
+        ]);
+
+        return RemoteWebDriver::create(
+            'http://selenium:4444/wd/hub', DesiredCapabilities::chrome()->setCapability(
+            ChromeOptions::CAPABILITY, $options
+        )->setCapability('acceptInsecureCerts', TRUE)
+        );
+    }
+}
+I hope I can help someone with the same problem!
+
+2
+
+The WebDriver used by Dusk is looking for the selenium docker image on port 4444.
+
+be sure to add to the .env file:
+
+DUSK_DRIVER_URL='http://selenium:4444'
+and an APP_URL that targets a local host on port 80:
+
+APP_URL="http://laravel.test:80"
