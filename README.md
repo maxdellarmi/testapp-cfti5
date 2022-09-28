@@ -172,3 +172,7 @@ FORWARD_MAILHOG_DASHBOARD_PORT=
 
 Altri documentazione all'interno del file:
 https://docs.google.com/document/d/1c3haZ5jVguTPTm__dZIVGgwjZIZTZAKQx8SB_UPVjW0/edit
+
+5) Gestione middleware caching e Gzip dell'output controller
+https://link.medium.com/W7rZUCYHFtb
+https://link.medium.com/IARdzvjIFtb
