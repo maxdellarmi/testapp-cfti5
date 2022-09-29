@@ -282,6 +282,7 @@ function requestEEdata(){
     console.log("CHECKPOINT -1 PREPARAZIONE NOME FILE:" + filenameToProcess);
     //console.log("fileNameToProcess:=" + filenameToProcess);
     var resultData = document.getElementById("OutputResultData");
+        resultData.setAttribute('value', filenameToProcess);
     resultData.innerText=filenameToProcess;
 
 
@@ -797,10 +798,10 @@ function requestEEdata(){
             indexEEAmbiente();
             outputFinisheDisableSelect();
             var resultData = document.getElementById("OutputResultData");
-            resultData.innerText = resultData.innerText + " COMPLETED ";
+            //resultData.innerText = resultData.innerText + " COMPLETED ";
             console.log(resultData.innerText);
-            //alert("ESECUZIONE TEST COMPLETA");
-
+            console.log(resultData.getAttribute('value'));
+            resultData.setAttribute('disabled','true');
         });
     // });
 }

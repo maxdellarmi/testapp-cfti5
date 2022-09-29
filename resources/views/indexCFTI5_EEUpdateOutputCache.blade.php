@@ -296,13 +296,18 @@
 
 
     <div id="LaySel">
+        <div style="float:left" id="OutpuFileName">
+            <input type="text" value="TEST" id="OutputResultData" style="font-size: 30pt;width: 1000px;height: 80px" name="OutputResultData"></input>
+        </div>
         <select id="layer-select">
             <option value="Topo1">Stamen Terrain</option>
             <option value="Topo2">OpenTopoMap</option>
             <option value="Road" selected>OpenStreetMap</option>
             <option value="Black">Stamen Toner blackwhite</option>
         </select>
+
     </div>
+
     <div id="mapOL" >
     </div>
     <div id="popup"></div>
@@ -452,6 +457,6 @@
     }
 </style>
 <!--sezione mappa OL end-->
-<div id="OutpuFileName" class="URLdiv"><input type="hidden" value="" id="OutputResultData" name="OutputResultData"></div>
+
 </body>
 </html>
