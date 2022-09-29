@@ -29,9 +29,9 @@ abstract class DuskTestCase extends BaseTestCase
      *
      * @return \Facebook\WebDriver\Remote\RemoteWebDriver
      */
-    protected function driver()
-    {
-        $options = (new ChromeOptions)->addArguments(collect([
+    protected function driver() {
+
+        $options = (new ChromeOptions())->addArguments(collect([
             $this->shouldStartMaximized() ? '--start-maximized' : '--window-size=1920,1080',
         ])->unless($this->hasHeadlessDisabled(), function ($items) {
             return $items->merge([
@@ -48,10 +48,13 @@ abstract class DuskTestCase extends BaseTestCase
         ])
          */
 
+        //https://stackoverflow.com/questions/12913453/how-to-handle-an-alert-with-unexpectedalertbehaviour-capability-in-selenium
+        //$dc = DesiredCapabilities::chrome()->setCapability("unexpectedAlertBehaviour", "ACCEPT_AND_NOTIFY");
         return RemoteWebDriver::create(
-            'http://selenium:4444/wd/hub', DesiredCapabilities::chrome()->setCapability(
-            ChromeOptions::CAPABILITY, $options
-            )->setCapability('acceptInsecureCerts', TRUE)->setCapability('loggingPrefs', [
+            'http://selenium:4444/wd/hub',  DesiredCapabilities::chrome()
+                ->setCapability(ChromeOptions::CAPABILITY, $options)
+                ->setCapability('acceptInsecureCerts', TRUE)
+                ->setCapability('loggingPrefs', [
                 'browser' => 'ALL',
                 'driver' => 'ALL',
             ])

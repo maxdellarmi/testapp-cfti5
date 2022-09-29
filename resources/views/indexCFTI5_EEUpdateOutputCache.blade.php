@@ -72,7 +72,6 @@
 
 <!-- recuperaDataOrarioElaborazione -->
 <!-- console.log(new Date().toJSON().replaceAll(":","-").split('.')[0]); -->
-<div id="OutpuFileName" class="URLdiv"><input type="hidden" value="" id="OutputResultData"></div>
 
 <!--<body onresize="resizeMapIndex()" onload="stateChange()">-->
 <body onload="stateChange()" onresize="resizeMapIndex()">
@@ -453,6 +452,6 @@
     }
 </style>
 <!--sezione mappa OL end-->
-
+<div id="OutpuFileName" class="URLdiv"><input type="hidden" value="" id="OutputResultData" name="OutputResultData"></div>
 </body>
 </html>
