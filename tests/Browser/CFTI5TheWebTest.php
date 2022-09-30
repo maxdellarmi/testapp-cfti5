@@ -2,12 +2,15 @@
 
 namespace Tests\Browser;
 
+use DateTime;
+use DateTimeZone;
 use Facebook\WebDriver\WebDriverBy;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Support\Facades\Log;
 use Laravel\Dusk\Browser;
 use SebastianBergmann\Timer\Timer;
 use Tests\DuskTestCase;
+use function MongoDB\BSON\toJSON;
 use function PHPUnit\Framework\assertContains;
 use function PHPUnit\Framework\assertStringContainsString;
 use function PHPUnit\Framework\assertTrue;
@@ -30,34 +33,49 @@ class CFTI5TheWebTest extends DuskTestCase
 //    }
 
     /**
-     * Per gestire gli alert presenti nella pagina:
-     * $browser->driver->switchTo()->alert()->accept();
-     *            $browser->driver->switchTo()->alert()->dismiss();
-     *            $browser->driver->switchTo()->alert()->getText();
      * @return void
      * @throws \Throwable
      */
     public function testGenerateNewCacheEE_cfti5UpdateEE()
     {
-//        OK FUNZIONA
-        $this->browse(function (Browser $browser) {
+//        $dateExecution= new DateTime("now", new DateTimeZone('Europe/Rome'));
+//        $dateExecution = $dateExecution->format("Y-m-d\TH_i_s");
+        $this->browse(function (Browser $browser)  {//use ($dateExecution) {
             $browser->visit('/cfti5UpdateEE');
             $browser->waitUntilDisabled("#access", 250); //LA DROPDOWN VIENE DISABILITATA ALLA FINE DELL'ESECUZIONE.
             $browser->click("a#closeD");
-            $browser->storeConsoleLog('CFTI5TheWeb_cfti5UpdateEE' .date('m-d-Y_hia'));
             $browser->assertDisabled("#access");
+            //NB. Attende prima che il campo sia disabilitato (vuol dire che l'elaborazione è finita) poi recupera il valore
+            //del nome file appena creato e lo visualizza in output.
             $browser->waitUntilDisabled("#OutputResultData", 250);
+            //dd($browser->value("#OutputResultData"));
+            $outputFileNameValue= $browser->value("#OutputResultData");
+            $this->setResult($outputFileNameValue);
             $browser->assertDisabled("#OutputResultData");
-            $browser->screenshot("CFTI5TheWeb_cfti5UpdateEElastExecution" .date('m-d-Y_hia'));
-        });
-
-//        $this->browse(function (Browser $browser) {
-//            $browser->visit('/cfti5UpdateEE');
-//            $browser->waitUntilDisabled("#access", 250); //LA DROPDOWN VIENE DISABILITATA ALLA FINE DELL'ESECUZIONE.
-//            $browser->click("a#closeD");
-//            $browser->screenshot("CFTI5TheWeb_cfti5UpdateEElastExecution" .date('m-d-Y_hia'));
-//            $browser->storeConsoleLog('CFTI5TheWeb_cfti5UpdateEE' .date('m-d-Y_hia'));
-//            $browser->assertDisabled("#access");
-//        });
+            $browser->storeConsoleLog('CFTI5TheWeb_cfti5UpdateEE' . $outputFileNameValue);
+            $browser->screenshot("CFTI5TheWeb_cfti5UpdateEElastExecution" . $outputFileNameValue);
+        }).$this->getActualOutput();
+        //OUTPUT FILENAME GENERATO DAL JAVASCRIPT CHE E' POSSIBILE SPOSTARE E RINOMINARE
+        var_dump($this->getResult());
+        //simulazione spostamento/copia file directory public html (ad esempio)
+        copy("/var/www/html/storage/app/public/" . $this->getResult() .".json", "/var/www/html/storage/app/public/"  . $this->getResult() . "backuptest.jsom");
     }
+
+//    /**
+//     * A basic browser test example.
+//     *
+//     * @return void
+//     */
+//    public function testBasicExample()
+//    {
+//        $this->browse(function (Browser $browser) {
+//            $browser->visit('/');
+//            $valore = $browser->value("#OutputResultData");
+//            $browser->assertSee('Laravel');
+//            $this->setResult($valore);
+//        });
+//
+//        var_dump($this->getResult());
+//    }
 }
+

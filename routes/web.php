@@ -14,7 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
 Route::get('/', function () {
+//    $test=new DateTime("now", new DateTimeZone('Europe/Rome'));
+//    var_dump($test->format("Y-m-d\TH_i_s"));
     return view('welcome');
 });
 

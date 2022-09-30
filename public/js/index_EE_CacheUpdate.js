@@ -25,7 +25,17 @@ var saveJSONIndexEE={
 };
 
 
-var filenameToProcess= "IndexEEdataFullCached" + new Date().toJSON().replaceAll(":","-").split('.')[0];
+
+var filenameToProcess= "IndexEEdataFullCached" +
+    new Date().toLocaleString('it-IT', {
+        timeZone: 'Europe/Berlin',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+    }).replaceAll(":","_").replaceAll(", ","T").replaceAll("/","_");// new Date().toJSON().replaceAll(":","-").split('.')[0];
 
 
 var NumEESel;

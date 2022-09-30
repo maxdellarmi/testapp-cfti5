@@ -128,6 +128,6 @@
                 </div>
             </div>
         </div>
-        <div id="OutpuFileName" class="URLdiv"><input type="hidden" value="PIPPOTEST" id="OutputResultData" name="OutputResultData"></div>
+        <div id="OutpuFileName" class="URLdiv"><input type="text" value="PIPPOTEST" id="OutputResultData" name="OutputResultData"></div>
     </body>
 </html>
