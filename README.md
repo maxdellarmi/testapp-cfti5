@@ -259,4 +259,19 @@ and an APP_URL that targets a local host on port 80:
 APP_URL="http://laravel.test:80"
 
 ./vendor/bin/sail php artisan dusk --filter testSomeFeature (LANCIA TEST SPECIFICO) 
+*****************************************************************************************************************************
 ./vendor/bin/sail php artisan dusk --filter CFTI5TheWebTest
+PHPUnit 9.5.25 #StandWithUkraine
+
+.                                                                   1 / 1 (100%)
+
+Time: 01:16.015, Memory: 31.27 MB
+
+OK (1 test, 2 assertions)
+*****************************************************************************************************************************
+./vendor/bin/sail php artisan dusk --filter ExampleTest
+PHPUnit 9.5.25 #StandWithUkraine
+
+.                                                                   1 / 1 (100%)
+
+Time: 00:14.876, Memory: 22.00 MB
