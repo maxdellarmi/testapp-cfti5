@@ -257,3 +257,5 @@ DUSK_DRIVER_URL='http://selenium:4444'
 and an APP_URL that targets a local host on port 80:
 
 APP_URL="http://laravel.test:80"
+
+./vendor/sail php artisan dusk --filter testSomeFeature (LANCIA TEST SPECIFICO) 
