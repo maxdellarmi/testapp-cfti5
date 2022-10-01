@@ -63,9 +63,9 @@ class CFTI5TheWebTest extends DuskTestCase
         }).$this->getActualOutput();
         //OUTPUT FILENAME GENERATO DAL JAVASCRIPT CHE E' POSSIBILE SPOSTARE E RINOMINARE
         var_dump($this->getResult());
-        var_dump($theResult);
-        //OutputData classe di output
 
+        //OutputData classe di output
+        //var_dump($theResult);
         //simulazione spostamento/copia file directory public html (ad esempio)
         //copy("/var/www/html/storage/app/public/" . $this->getResult() .".json", "/var/www/html/storage/app/public/"  . $this->getResult() . "backuptest.jsom");
         copy("/var/www/html/storage/app/public/" . $this->getResult()->jsonCacheFileName .".json", "/var/www/html/storage/app/public/"  . $this->getResult()->jsonCacheFileName . "backuptest.jsom");
