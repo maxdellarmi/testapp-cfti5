@@ -12,8 +12,6 @@ This operation may take a few minutes the first time you run the installer, sinc
 **********************************************NB LA PRIMA VOLTA MI AVEVA SALTATO IL PASSAGGIO **************************************************
 PASSW SU ROOT WSL WINDOWS NECESSARIA
 
-
-
 Before finishing, the installation script will ask you to confirm your sudo password in order to set the correct permissions on the application directories:
 Application ready! Build something amazing.
 Sail scaffolding installed successfully.
@@ -278,3 +276,33 @@ Time: 00:14.876, Memory: 22.00 MB
 https://www.oulub.com/docs/laravel/it-it/dusk
 
 ./vendor/bin/sail php artisan dusk --filter CFTI5TheWebTest --log-junit outputProcess.log
+
+
+*** AGGIUNGERE SAIL A UNA APPLICAZIONE GIA' ESISTENTE SU WINDOWS ***
+**** OPPURE PROVARE COSI
+https://laravel.com/docs/8.x/sail#installing-composer-dependencies-for-existing-projects
+1) SU WINDOWS 10 ESEGUI IL COMANDO CHE CREA LA DIR VENDOR AL VOLO!!!!
+al posto di pwd D:\INGV\testapp-cfti5\testapp-cfti5 ovvero la root dell'applicazione laravel scaricata
+docker run --rm -v D:/INGV/testapp-cfti5/testapp-cfti5:/var/www/html  -w /var/www/html   laravelsail/php81-composer:latest  composer install --ignore-platform-reqs
+
+2) dopo aver creato la dir vendor accedere alla distro ubunto almeno su pc wsl installarla almeno col comando wsl https://pureinfotech.com/install-wsl-windows-11/
+wsl --install -d DISTRO-NAME 
+3) entrare nella distro ubuntu e avvia ./vendor/bin/sail up oppure ./vendor/bin/sail up -d
+
+4) per installare dusk e il chrome driver
+./vendor/bin/sail php artisan dusk:install
+
+
+My point was that I assumed the sail:install command would create the sail executable. So here you well need to use a second docker command to run artisan and install it. Using the sail tools wouldn't be possible to use directly
+
+ESEGUI IN WSL UBUNTU con docker installato!!!  -u "$(id -u):$(id -g)" \ admin:admin  $(pwd):/var/www/html vuole mappare dir locale dir sul server
+docker run --rm \
+    -u "$(id -u):$(id -g)" \
+    -v $(pwd):/var/www/html \
+    -w /var/www/html \
+    laravelsail/php81-composer:latest \
+    composer install --ignore-platform-reqs
+
+
+
+
