@@ -40,12 +40,37 @@ var copy;
 
 
 function prepareControlAddressSearchGeocoding() {
-    //Instantiate with some options and add the Control
+    //dal test fiddle
+    // var geocoder = new Geocoder('nominatim', {
+    //     provider: 'osm',
+    //     lang: 'en',
+    //     placeholder: 'Search for ...',
+    //     limit: 5,
+    //     debug: false,
+    //     autoComplete: true,
+    //     keepOpen: true
+    // });
+
+
+
+    //17112022 non funziona piu la chiamata     //Instantiate with some options and add the Control
+    // var geocoder = new Geocoder('nominatim', {
+    //     //provider: 'osm',
+    //     //lang: 'it',
+    //     provider: 'mapquest',
+    //     key:'IqnooAc16rOxA4pLbaSoMpuKyPmL61wQ',
+    //     lang: 'it',
+    //     placeholder: 'Ricerca (OpenStreetMap)',
+    //     targetType: 'glass-button',
+    //     limit: 15,
+    //     debug: false,
+    //     autoComplete: true,
+    //     keepOpen: true,
+    //     zindex: 50
+    // });
+
     var geocoder = new Geocoder('nominatim', {
-        //provider: 'osm',
-        //lang: 'it',
-        provider: 'mapquest',
-        key:'IqnooAc16rOxA4pLbaSoMpuKyPmL61wQ',
+        provider: 'osm',
         lang: 'it',
         placeholder: 'Ricerca (OpenStreetMap)',
         targetType: 'glass-button',
@@ -55,6 +80,8 @@ function prepareControlAddressSearchGeocoding() {
         keepOpen: true,
         zindex: 50
     });
+
+
     if (mapOL!=null && mapOL!= undefined) {
         mapOL.addControl(geocoder);
     }

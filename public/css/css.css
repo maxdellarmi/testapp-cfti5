@@ -201,6 +201,12 @@ body { top: 0px !important; }
 	height: 25px!important;
 }
 
+.ol-geocoder ul.gcd-gl-result {
+    width: 40.25em!important;
+    border-top: none;
+    border-radius: 10px!important;
+}
+
 /*.ol-control {*/
 /*	!*background-color: rgba(40, 40, 40, 0.8) !important;*!*/
 /*	!*height: 2.3em!important;*/
