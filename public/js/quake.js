@@ -1690,9 +1690,8 @@ function parsePQData2(XmlText){
 			//jQuery.get('KML/quake_b.txt', function(dataB){
             jQuery.get('/OtherFilesService/KML@i_quake_b.txt', function(dataB){
                     ExportKml = ExportKml + dataB;
-                })
-            }
-	})
+            });
+    });
 
 	$('#loading').hide();
 

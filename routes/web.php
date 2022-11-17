@@ -145,6 +145,39 @@ Route::get('/photoLoadXML2','PhotoController@indexLocalityLoadXML');
 Route::get('/photo','PhotoController@index');
 
 
+
+//LOCALITY PER LA PAGINA DI TEST PHP :> TODO: modificare
+/**
+ *  $.ajax({
+url: '/indexQuakesXML',  //http://localhost/indexQuakesXML => Route::get('/indexQuakesXML','PhotoController@indexQuakesXML');
+type: 'GET',
+dataType: 'text', //text/xml
+contentType: 'application/xml',
+//data:  JSON.stringify(quakesDataArray),
+success: function(data){
+if(data !== undefined){
+console.log("success loaded CACHED  xml quakes from server...");
+//console.log(data);
+}
+},
+error: function (jqXHR, textStatus, errorThrown) {
+console.error(textStatus);
+console.error(errorThrown);
+}
+
+}).then ( function(XmlText) {  //ajaxUpdater.callBackFunc = this.parseQuakeList;
+console.log("quake.js->parseQuakeList....");
+//new LogTools().addLog('Parsing all quakes<br />', 80);
+XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+XMLQuakeListArrived = true;
+var markers = XMLQuakeList.documentElement.getElementsByTagName("Quake");
+
+ *
+SEE quake.js e traduci la pagina con la chiamata alle locality /localityXML
+ */
+Route::get('/localityXML','PhotoController@indexLocalityLoadXML');
+
+//LOCALITY PER LA PAGINA DI TEST PHP :> TODO: modificare
 Route::get('/indexV3LocFull2', function () {
     $result = (new PhotoController())->indexLocalityLoadXML();
     //RECUPERA IL CONTENT DEL JSON DI RISPOSTA e deve essere ASSOCIATIVO per prendere il LOC

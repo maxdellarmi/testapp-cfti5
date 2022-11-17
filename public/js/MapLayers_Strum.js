@@ -24,20 +24,25 @@ var Toggle12 = "off";
 // LAYERS=Com01012019_WGS84&BOX=11.25%2C35.979898069620134%2C22.5%2C48.922499263758255&TILED=true&WIDTH=230&HEIGHT=230&CRS=EPSG%3A4326
 // &STYLES=&FORMAT_OPTIONS=dpi%3A81&BBOX=45%2C22.5%2C67.5%2C45
 
+//agg. 17110222 da prod.
+//https://services-storing.ingv.it/geoserver/CFTI/ows
 var COM =  new ol.layer.Tile({
     opacity: 0.4,
     visible: true,
     //extent: [-13884991, 2870341, -7455066, 6338219],
     source: new ol.source.TileWMS({
-        url: 'http://services.seismofaults.eu/geoserver/CFTI/ows',
+        url: 'https://services-storing.ingv.it/geoserver/CFTI/ows', //'http://services.seismofaults.eu/geoserver/CFTI/ows',
         params: {
             'LAYERS': 'Com01012019_WGS84',
             'TILED': true},
         serverType: 'geoserver',
         // Countries have transparency, so do not fade tiles:
         transition: 0,
+        tileOptions: {crossOriginKeyword: 'anonymous'},
     }),
 });
+
+//COM.tileOptions.crossOriginKeyword = null;
 
 
 // var COM = new google.maps.ImageMapType({
@@ -79,20 +84,24 @@ var COM =  new ol.layer.Tile({
 // 					opacity: 0.4,
 //  });
 
+//agg. 17110222 da prod.
 var PROV =  new ol.layer.Tile({
     opacity: 0.6,
     visible: true,
     //extent: [-13884991, 2870341, -7455066, 6338219],
     source: new ol.source.TileWMS({
-        url: 'http://services.seismofaults.eu/geoserver/CFTI/ows',
+        url: 'https://services-storing.ingv.it/geoserver/CFTI/ows', //http://services.seismofaults.eu/geoserver/CFTI/ows',
         params: {
             'LAYERS': 'ProvCM01012019_WGS84',
             'TILED': true},
         serverType: 'geoserver',
         // Countries have transparency, so do not fade tiles:
         transition: 0,
+        tileOptions: {crossOriginKeyword: 'anonymous'},
     }),
 });
+
+//COM.tileOptions.crossOriginKeyword = null;
 
 
 //<editor-fold defaultstate="expanded" desc="LAYER PROVINCE ISTAT ProvCM01012019_WGS84 vecchia gestione gmaps">
@@ -133,19 +142,20 @@ var PROV =  new ol.layer.Tile({
 //  });
 //</editor-fold>
 
-
+//agg. 17110222 da prod.
 var REG =  new ol.layer.Tile({
     opacity: 0.8,
     visible: true,
     //extent: [-13884991, 2870341, -7455066, 6338219],
     source: new ol.source.TileWMS({
-        url: 'http://services.seismofaults.eu/geoserver/CFTI/ows',
+        url: 'https://services-storing.ingv.it/geoserver/CFTI/ows' , //http://services.seismofaults.eu/geoserver/CFTI/ows',
         params: {
             'LAYERS': 'Reg01012019_WGS84',
             'TILED': true},
         serverType: 'geoserver',
         // Countries have transparency, so do not fade tiles:
         transition: 0,
+        tileOptions: {crossOriginKeyword: 'anonymous'},
     }),
 });
 
