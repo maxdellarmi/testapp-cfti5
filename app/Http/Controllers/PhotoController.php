@@ -25,6 +25,58 @@ use Psr\Http\Message\ResponseInterface;
 class PhotoController extends Controller
 {
 
+    function loadDssCSS()  {
+                $response = Http::withMiddleware(
+                Middleware::mapResponse(function (ResponseInterface $response) {
+                $header = $response->getHeader('Content-Type: application/xml');
+                    //...
+                return $response;
+            })
+        )->get('https://diss.ingv.it/diss330/kml/CSS.kml');
+        Log::info($response->status());
+        Log::info($response->body());
+        //TODO:sostituisci il body con il file richiesto
+        $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
+        header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
+        Log::info($xml->asXML());
+        echo $xml->asXML();
+    }
+
+    function loadDssISS()  {
+        $response = Http::withMiddleware(
+            Middleware::mapResponse(function (ResponseInterface $response) {
+                $header = $response->getHeader('Content-Type: application/xml');
+                //...
+                return $response;
+            })
+        )->get('https://diss.ingv.it/diss330/kml/ISS.kml');
+        Log::info($response->status());
+        Log::info($response->body());
+        //TODO:sostituisci il body con il file richiesto
+        $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
+        header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
+        Log::info($xml->asXML());
+        echo $xml->asXML();
+    }
+
+
+    function loadDssSUBD()  {
+        $response = Http::withMiddleware(
+            Middleware::mapResponse(function (ResponseInterface $response) {
+                $header = $response->getHeader('Content-Type: application/xml');
+                //...
+                return $response;
+            })
+        )->get('https://diss.ingv.it/diss330/kml/SUBD.kml');
+        Log::info($response->status());
+        Log::info($response->body());
+        //TODO:sostituisci il body con il file richiesto
+        $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
+        header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
+        Log::info($xml->asXML());
+        echo $xml->asXML();
+    }
+
     //url mapped /test
     function saveJson(Request $request)
     {

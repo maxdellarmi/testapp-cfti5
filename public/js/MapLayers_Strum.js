@@ -358,7 +358,7 @@ var IGM200  = new ol.layer.Tile({
 
 var DISS_ISS = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'https://diss.ingv.it/diss330/kml/ISS.kml', // http://diss.rm.ingv.it/dissGM/kml321/ISS.kml',//'http://cft5.test/KML/ISS.kml', //http://cft5.test/KML/ISS.kml
+        url: '/dss/iss',//'https://diss.ingv.it/diss330/kml/ISS.kml', // http://diss.rm.ingv.it/dissGM/kml321/ISS.kml',//'http://cft5.test/KML/ISS.kml', //http://cft5.test/KML/ISS.kml
         format: new ol.format.KML(),
     }),
 });
@@ -384,7 +384,7 @@ http://diss.rm.ingv.it/dissGM/kml321/ISS.kml
 
 var DISS_CSS = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'https://diss.ingv.it/diss330/kml/CSS.kml', //'http://diss.rm.ingv.it/dissGM/kml321/CSS.kml',
+        url: '/dss/css',//'https://diss.ingv.it/diss330/kml/CSS.kml', //'http://diss.rm.ingv.it/dissGM/kml321/CSS.kml',
         format: new ol.format.KML(),
     }),
 });
@@ -395,7 +395,7 @@ var DISS_CSS = new ol.layer.Vector({
 
 var DISS_SUBD = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'https://diss.ingv.it/diss330/kml/SUBD.kml', //'http://diss.rm.ingv.it/dissGM/kml321/SUBD.kml',
+        url: '/dss/subd',//'https://diss.ingv.it/diss330/kml/SUBD.kml', //'http://diss.rm.ingv.it/dissGM/kml321/SUBD.kml',
         format: new ol.format.KML(),
     }),
 });

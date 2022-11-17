@@ -98,6 +98,10 @@ Route::get('/loadJSONIndexEEdataFullCached', 'PhotoController@loadJSONIndexEEdat
 //CACHING + ZIPPED
 Route::get('/loadJSONIndexEEdataFullCachedZIP', 'PhotoController@loadJSONIndexEEdataFullCachedZIP' )->middleware('cache.headers:public;max_age=31536000;etag', 'gzip');
 
+//TODO css / iss /subd
+Route::get('/dss/css', 'PhotoController@loadDssCSS');
+Route::get('/dss/iss', 'PhotoController@loadDssISS');
+Route::get('/dss/subd', 'PhotoController@loadDssSUBD');
 
 //http://localhost/quakeSources/09698.xml => http://localhost/quakeSourcesXMLService/09698
 Route::get('/quakeSourcesXMLService/{nterrId}', function ($nterrId) {
