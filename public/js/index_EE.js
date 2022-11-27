@@ -178,36 +178,52 @@ function createEEmenu(){
 var QuakePage = createQuakePageLink(window.location.href, '', 'indexEE')
 var LocalityPage = createLocalityPageLink(window.location.href, '', 'indexEE')
 
-function requestEEbiblio(){
-	var mySelf = this;
-	var itemName;
-	var callBackBlock;
-	var FormReference;
-	var XMLData;
+function requestEEbiblio() {
+    var mySelf = this;
+    var itemName;
+    var callBackBlock;
+    var FormReference;
+    var XMLData;
 
-	var ajaxUpdater = new Manajax(xmlServiceEEbiblio);
-	ajaxUpdater.TxType = 'GET';
-	ajaxUpdater.responseType = 'xml';
-	this.callBackBlock = 'map';
-	ajaxUpdater.callBackFunc = this.parseEEbiblio;
-	ajaxUpdater.toScroll = false;
-	ajaxUpdater.requestAction();
+    // var ajaxUpdater = new Manajax(xmlServiceEEbiblio);
+    // ajaxUpdater.TxType = 'GET';
+    // ajaxUpdater.responseType = 'xml';
+    // this.callBackBlock = 'map';
+    // ajaxUpdater.callBackFunc = this.parseEEbiblio;
+    // ajaxUpdater.toScroll = false;
+    // ajaxUpdater.requestAction();
 
-}
+    //'/BiblioEEList_Service'
 
-function parseEEbiblio(XmlText){
-	XMLEEbiblioList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLEEbiblioListArrived = true;
+    $.ajax({
+        url: '/BiblioEEList_Service',  //http://localhost/BiblioEEList_Service => Route::get('/BiblioEEList_Service', 'PhotoController@serviceBiblioEEList')->middleware('cache.headers:public;max_age=31536000;etag');
+        type: 'GET',
+        dataType: 'text', //text/xml
+        contentType: 'application/xml',
+        success: function (data) {
+            if (data !== undefined) {
+                console.log("success loaded CACHED  xml BiblioEE from server...");
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
 
-	var biblioList = readBiblio(XMLEEbiblioList, "BIBLIO_EE");
-	codbib = biblioList[0]
-	titolobib = biblioList[1]
-	annobib = biblioList[2]
-	placebib = biblioList[3]
-	authorbib = biblioList[4]
+    }).then(function (XmlText) { // ajaxUpdater.callBackFunc = this.parseEEbiblio; // function parseEEbiblio(XmlText){
+        XMLEEbiblioList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLEEbiblioListArrived = true;
 
-	requestEEdata();
-}
+        var biblioList = readBiblio(XMLEEbiblioList, "BIBLIO_EE");
+        codbib = biblioList[0]
+        titolobib = biblioList[1]
+        annobib = biblioList[2]
+        placebib = biblioList[3]
+        authorbib = biblioList[4]
+
+        requestEEdata();
+    });
+} //requestEEbiblio()
 
 function requestEEdata(){
 	var mySelf = this;
@@ -725,7 +741,7 @@ function requestEEdata(){
             //Export variableKML
             ExportKml = "";
             jQuery.get('/OtherFilesService/KML@EE_a.txt', function(data){
-                console.log("CHECKPOINT 6 END - readingn KML/EE_a.txt ==} ExportKml ");
+                console.log("CHECKPOINT 6 END - reading KML/EE_a.txt ==} ExportKml ");
 
                 ExportKml = data;
                 ExportKml = ExportKml + CarRet +"<Folder>" + CarRet + "<name>CFTI5Med - " + EEmarkersArray.length + " Environmental Effects selected</name>";
@@ -739,7 +755,7 @@ function requestEEdata(){
                 ExportKml = ExportKml + ExportKmlR;
 
                 jQuery.get('/OtherFilesService/KML@EE_b.txt', function(dataB){
-                    console.log("CHECKPOINT 7 END - readingn KML/EE_b.txt ==} ExportKml ");
+                    console.log("CHECKPOINT 7 END - reading KML/EE_b.txt ==} ExportKml ");
                     ExportKml = ExportKml + dataB;
                 })
             })

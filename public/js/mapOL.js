@@ -153,7 +153,10 @@ function prepareBASEMAPLayers() {
                 try {
                 var element = document.getElementById('popup');
                 $(element).popover('destroy');
-                popup.setPosition(undefined);
+                //27112022 bugfix in caso di variabile vuota
+                if (popup !== undefined) {
+                    popup.setPosition(undefined);
+                }
                 } catch (e) {
                     console.error(e, e.stack);
                 }
@@ -878,7 +881,7 @@ function puliziaClearAllMapsLayers() {
  *
  * @param quakes
  */
-    function creazioneMappaLocalityPHP (quakes) {
+    function creazioneMappaLocalityPHP (quakes, zoomLevel) {
     $(document).ready(function() {
         try {
             prepareBASEMAPLayers();
@@ -1064,7 +1067,7 @@ function puliziaClearAllMapsLayers() {
                 mapOL.getTarget().style.cursor = hit ? 'pointer' : '';
             });
 
-            ///TODO AUTOPOSIZIONAMENTO AL CARICAMENTO DEL LAYER
+            ///AUTOPOSIZIONAMENTO AL CARICAMENTO DEL LAYER
             // mapOL.getView().fit(  quakeVector.getSource().getExtent(), mapOL.getSize()); //versione senza padding
             window.setTimeout(function() {
                 console.log('mapOL.getView().fit e zooming');
@@ -1077,7 +1080,13 @@ function puliziaClearAllMapsLayers() {
                             padding: padding,
                         }
                     );
-                    mapOL.getView().setZoom(8);
+                    //27112022 zoom maggiore come attualmente in produzione es: https://storing.ingv.it/cfti/cfti5/locality.php?074198.00IT#.
+                    if (zoomLevel !== undefined) {
+                        mapOL.getView().setZoom(zoomLevel); //es. livello 14.5 praticamente zoom in al massimo, 8 medio zoom out
+                    }
+                    else {
+                        mapOL.getView().setZoom(8);
+                    }
                 }
                 catch (e) {
                     console.error('ERRORE Gestito');
@@ -1206,7 +1215,10 @@ function creazioneMappaQuakesPHP (quakes) {
                     }
                     //gestione pulsante chiusura X del popup
                     popupContent = buttonCloseSingle.toString() + " "+ popupContent;
-                    popup.setPosition(coordinates);
+                    //27112022 bugfix in caso di variabile vuota
+                    if (coordinates!= undefined) {
+                        popup.setPosition(coordinates);
+                    }
                     $(element).popover({
                         'placement': 'top',
                         'animation': false,

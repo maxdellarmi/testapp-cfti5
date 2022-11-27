@@ -23,151 +23,172 @@ var NlocOld;
 var LOCMarkers = [];
 
 function requestLocData(){
-	var mySelf = this;
-	var callBackBlock;
+    console.log("index_loc.js->requestLocData.....");
 
-	var ajaxUpdater = new Manajax(xmlServiceLoc);
-		ajaxUpdater.TxType = 'GET';
-		ajaxUpdater.responseType = 'xml';
-		this.callBackBlock = 'map';
-		ajaxUpdater.callBackFunc = this.parseLocData;
-		ajaxUpdater.toScroll = false;
-		ajaxUpdater.requestAction();
-}
+    // var mySelf = this;
+	// var callBackBlock;
+    //
+	// var ajaxUpdater = new Manajax(xmlServiceLoc);
+	// 	ajaxUpdater.TxType = 'GET';
+	// 	ajaxUpdater.responseType = 'xml';
+	// 	this.callBackBlock = 'map';
+	// 	ajaxUpdater.callBackFunc = this.parseLocData;
+	// 	ajaxUpdater.toScroll = false;
+	// 	ajaxUpdater.requestAction();
 
-function parseLocData(XmlText){
+    $.ajax({
+        url: '/localityXML',  //http://localhost/localityXML => Route::get('/localityXML','PhotoController@indexLocalityXML');
+        type: 'GET',
+        dataType: 'text', //text/xml
+        contentType: 'application/xml',
+        success: function(data){
+            if(data !== undefined){
+                console.log("success loaded CACHED  xml localities from server...");
+                //console.log(data);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
 
-	XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLQuakeListArrived = true;
+    }).then ( function(XmlText) {  //	ajaxUpdater.callBackFunc = this.parseLocData;
+        console.log("index_loc.js->parseLocData....");
 
-	var locs = XMLQuakeList.documentElement.getElementsByTagName("Loc");
+        XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLQuakeListArrived = true;
 
-	// ---- EXPORT
-	var d = new Date();
-	filename = 'CFTI5_LocList_selection_' + d.getFullYear() + '_' + (Number(d.getMonth())+1) + '_' + d.getDate() + '_' + d.getHours() + '_' + d.getMinutes() + '_' + d.getSeconds() ;
-	ExportText = "Name;Italian Province or Country;NMO (Number of Macroseismic Observations at site);NEE (Number of Effects on natural environment at site);Ismax (Maximum MCS Intensity reported at site);Ismax R. (Maximum MCS Intensity reported at site - Roman Numerals);Latitude;Longitude"
+        var locs = XMLQuakeList.documentElement.getElementsByTagName("Loc");
 
-
-	if(locs.length > 0){
-
-		for (var i = 0; i < locs.length; i++){
-
-			 nloc[i] = String(locs[i].getElementsByTagName("nloc_cfti")[0].childNodes[0].nodeValue);
-			 descloc[i] = locs[i].getElementsByTagName("desloc_cfti")[0].childNodes[0].nodeValue;
-			var flagProv = locs[i].getElementsByTagName("provlet")[0].childNodes.length;
-			if (flagProv > 0) {
-				 prov[i] = locs[i].getElementsByTagName("provlet")[0].childNodes[0].nodeValue;
-			} else {
-				 prov[i] = ""
-			};
-			var flagCount = locs[i].getElementsByTagName("nazione")[0].childNodes.length;
-			if (flagCount > 0) {
-				 country[i] = locs[i].getElementsByTagName("nazione")[0].childNodes[0].nodeValue;
-			} else {
-				 country[i] = ""
-			};
-			if (prov[i] != "")  descloc_prov[i] = descloc[i] + ' (' + prov[i] + ')';
-			else descloc_prov[i] = descloc[i] + ' (' + country[i] + ')';
+        // ---- EXPORT
+        var d = new Date();
+        filename = 'CFTI5_LocList_selection_' + d.getFullYear() + '_' + (Number(d.getMonth())+1) + '_' + d.getDate() + '_' + d.getHours() + '_' + d.getMinutes() + '_' + d.getSeconds() ;
+        ExportText = "Name;Italian Province or Country;NMO (Number of Macroseismic Observations at site);NEE (Number of Effects on natural environment at site);Ismax (Maximum MCS Intensity reported at site);Ismax R. (Maximum MCS Intensity reported at site - Roman Numerals);Latitude;Longitude"
 
 
-			 ris[i] = locs[i].getElementsByTagName("risentimenti")[0].childNodes[0].nodeValue;
-			 EEnum[i] = locs[i].getElementsByTagName("ee")[0].childNodes[0].nodeValue;
+        if(locs.length > 0){
+            console.log("inzio for xml localities from server 1m30s...");
+            for (var i = 0; i < locs.length; i++){
+
+                nloc[i] = String(locs[i].getElementsByTagName("nloc_cfti")[0].childNodes[0].nodeValue);
+                descloc[i] = locs[i].getElementsByTagName("desloc_cfti")[0].childNodes[0].nodeValue;
+                var flagProv = locs[i].getElementsByTagName("provlet")[0].childNodes.length;
+                if (flagProv > 0) {
+                    prov[i] = locs[i].getElementsByTagName("provlet")[0].childNodes[0].nodeValue;
+                } else {
+                    prov[i] = "";
+                }
+                var flagCount = locs[i].getElementsByTagName("nazione")[0].childNodes.length;
+                if (flagCount > 0) {
+                    country[i] = locs[i].getElementsByTagName("nazione")[0].childNodes[0].nodeValue;
+                } else {
+                    country[i] = "";
+                }
+                if (prov[i] != "")  descloc_prov[i] = descloc[i] + ' (' + prov[i] + ')';
+                else descloc_prov[i] = descloc[i] + ' (' + country[i] + ')';
 
 
-			 maxint[i] = parseFloat(locs[i].getElementsByTagName("maxint")[0].childNodes[0].nodeValue);
-			 if (maxint[i] == 11){
-				 maxintROM[i] = "XI";
-			 } else if (maxint[i] == 10.5){
-				 maxintROM[i] = "XI-X";
-			 }else if (maxint[i] == 10){
-				 maxintROM[i] = "X";
-			 } else if (maxint[i] == 9.5){
-				 maxintROM[i] = "IX-X";
-			 }else if (maxint[i] == 9.1){
-				 maxint[i] = 9;
-				 maxintROM[i] = "IX";
-			 } else if ( maxint[i] == 9){
-				 maxintROM[i] = "IX";
-			 } else if ( maxint[i] == 8.5){
-				 maxintROM[i] = "VIII-IX";
-			 } else if (maxint[i] == 8.2){
-				 maxint[i] = 8;
-				 maxintROM[i] = "VIII";
-			 } else if (maxint[i] == 8.1){
-				 maxint[i] = 8;
-				 maxintROM[i] = "VIII";
-			 } else if (maxint[i] == 8){
-				 maxintROM[i] = "VIII";
-			 } else if (maxint[i] == 7.5){
-				 maxintROM[i] = "VII-VIII";
-			 } else if (maxint[i] == 7){
-				 maxintROM[i] = "VII";
-			 } else if (maxint[i] == 6.5){
-				 maxintROM[i] = "VI-VII";
-			 } else if (maxint[i] == 6.1) {
-				 maxint[i] = 6;
-				 maxintROM[i] = "VI";
-			 } else if (maxint[i] == 6.6) {
-				 maxint[i] = 6.5;
-				 maxintROM[i] = "VI-VII";
-			 } else if (maxint[i] == 6){
-				 maxintROM[i] = "VI";
-			 } else if (maxint[i] == 5.5){
-				 maxintROM[i] = "V-VI";
-			 } else if (maxint[i] == 5.1) {
-				 maxint[i] = 5;
-				 maxintROM[i] = "V";
-			 } else if (maxint[i] == 5){
-				 maxintROM[i] = "V";
-			 } else if (maxint[i] == 4.6) {
-				 maxint[i] = 4.5;
-				 maxintROM[i] = "IV-V";
-			 } else if (maxint[i] == 4.5) {
-				 maxintROM[i] = "IV-V";
-			 } else if (maxint[i] == 4){
-				 maxintROM[i] = "IV";
-			 } else if (maxint[i] == 3.5){
-				 maxintROM[i] = "III-IV";
-			 } else if (maxint[i] == 3) {
-				 maxintROM[i] = "III";
-			 } else if (maxint[i] == 2.5) {
-				 maxintROM[i] = "II-III";
-			 } else if (maxint[i] == 2) {
-				 maxintROM[i] = "II";
-			 } else if (maxint[i] == 1) {
-				 maxintROM[i] = "I";
-			 } else if (maxint[i] == 0.2) {
-				 maxintROM[i] = "G";
-			 } else if (maxint[i] == 0) {
-				 maxintROM[i] = "NF";
-			 } else if (maxint[i] == 0.1) {
-				 maxintROM[i] = "N";
-			 } else if (maxint[i] == -1) {
-				 maxintROM[i] = "NC";
-			 } else if (maxint[i] == -2) {
-				 maxintROM[i] = "-";
-			 }
+                ris[i] = locs[i].getElementsByTagName("risentimenti")[0].childNodes[0].nodeValue;
+                EEnum[i] = locs[i].getElementsByTagName("ee")[0].childNodes[0].nodeValue;
 
-			 // se 0 risentimenti (solo EE), maxint = '-'
 
-			//COORDINATE DELL'ELEMENTO
-			 locLat[i] = parseFloat(locs[i].getElementsByTagName("lat_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
-			 locLon[i] = parseFloat(locs[i].getElementsByTagName("lon_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
+                maxint[i] = parseFloat(locs[i].getElementsByTagName("maxint")[0].childNodes[0].nodeValue);
+                if (maxint[i] == 11){
+                    maxintROM[i] = "XI";
+                } else if (maxint[i] == 10.5){
+                    maxintROM[i] = "XI-X";
+                }else if (maxint[i] == 10){
+                    maxintROM[i] = "X";
+                } else if (maxint[i] == 9.5){
+                    maxintROM[i] = "IX-X";
+                }else if (maxint[i] == 9.1){
+                    maxint[i] = 9;
+                    maxintROM[i] = "IX";
+                } else if ( maxint[i] == 9){
+                    maxintROM[i] = "IX";
+                } else if ( maxint[i] == 8.5){
+                    maxintROM[i] = "VIII-IX";
+                } else if (maxint[i] == 8.2){
+                    maxint[i] = 8;
+                    maxintROM[i] = "VIII";
+                } else if (maxint[i] == 8.1){
+                    maxint[i] = 8;
+                    maxintROM[i] = "VIII";
+                } else if (maxint[i] == 8){
+                    maxintROM[i] = "VIII";
+                } else if (maxint[i] == 7.5){
+                    maxintROM[i] = "VII-VIII";
+                } else if (maxint[i] == 7){
+                    maxintROM[i] = "VII";
+                } else if (maxint[i] == 6.5){
+                    maxintROM[i] = "VI-VII";
+                } else if (maxint[i] == 6.1) {
+                    maxint[i] = 6;
+                    maxintROM[i] = "VI";
+                } else if (maxint[i] == 6.6) {
+                    maxint[i] = 6.5;
+                    maxintROM[i] = "VI-VII";
+                } else if (maxint[i] == 6){
+                    maxintROM[i] = "VI";
+                } else if (maxint[i] == 5.5){
+                    maxintROM[i] = "V-VI";
+                } else if (maxint[i] == 5.1) {
+                    maxint[i] = 5;
+                    maxintROM[i] = "V";
+                } else if (maxint[i] == 5){
+                    maxintROM[i] = "V";
+                } else if (maxint[i] == 4.6) {
+                    maxint[i] = 4.5;
+                    maxintROM[i] = "IV-V";
+                } else if (maxint[i] == 4.5) {
+                    maxintROM[i] = "IV-V";
+                } else if (maxint[i] == 4){
+                    maxintROM[i] = "IV";
+                } else if (maxint[i] == 3.5){
+                    maxintROM[i] = "III-IV";
+                } else if (maxint[i] == 3) {
+                    maxintROM[i] = "III";
+                } else if (maxint[i] == 2.5) {
+                    maxintROM[i] = "II-III";
+                } else if (maxint[i] == 2) {
+                    maxintROM[i] = "II";
+                } else if (maxint[i] == 1) {
+                    maxintROM[i] = "I";
+                } else if (maxint[i] == 0.2) {
+                    maxintROM[i] = "G";
+                } else if (maxint[i] == 0) {
+                    maxintROM[i] = "NF";
+                } else if (maxint[i] == 0.1) {
+                    maxintROM[i] = "N";
+                } else if (maxint[i] == -1) {
+                    maxintROM[i] = "NC";
+                } else if (maxint[i] == -2) {
+                    maxintROM[i] = "-";
+                }
 
-			var flagNote = locs[i].getElementsByTagName("notesito")[0].childNodes.length;
-			if (flagNote > 0) {
-				 noteLoc[i] =  locs[i].getElementsByTagName("notesito")[0].childNodes[0].nodeValue + '<br>';
-			} else {
-				 noteLoc[i] = ""
-			};
-			//var per ricerca per località
+                // se 0 risentimenti (solo EE), maxint = '-'
 
-		}
-		createTableandPlot({
-			StartImax: parseFloat(document.getElementById('StartImax').value),
-			StopImax: parseFloat(document.getElementById('StopImax').value),
-		});
-	}
+                //COORDINATE DELL'ELEMENTO
+                locLat[i] = parseFloat(locs[i].getElementsByTagName("lat_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
+                locLon[i] = parseFloat(locs[i].getElementsByTagName("lon_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
+
+                var flagNote = locs[i].getElementsByTagName("notesito")[0].childNodes.length;
+                if (flagNote > 0) {
+                    noteLoc[i] =  locs[i].getElementsByTagName("notesito")[0].childNodes[0].nodeValue + '<br>';
+                } else {
+                    noteLoc[i] = "";
+                }
+                //var per ricerca per località
+
+            }
+            console.log("fine for xml localities from server...");
+            createTableandPlot({
+                StartImax: parseFloat(document.getElementById('StartImax').value),
+                StopImax: parseFloat(document.getElementById('StopImax').value),
+            });
+        }
+    });
+
 
 }
 
@@ -192,8 +213,8 @@ function createTableandPlot(Filters){
 	ExportKmlR = '';
 
 	LOCMarkers = []; //reinizializza l'array delle localita
-
-	for (var i = 0; i < descloc.length; i++){
+    console.log("inizio for xml localities descloc 2M...");
+    for (var i = 0; i < descloc.length; i++){
 		//TODO AGGIUNGERE LE PROPERTIES QUI PER VISUALIZZARLE NEL POPUP
 		var marker = new ol.Feature({
 			id: i,
@@ -235,38 +256,6 @@ function createTableandPlot(Filters){
 			//console.log("verde");
 			marker.setStyle(new ol.style.Style({image: new ol.style.Icon({ src: 'images/IS/EE.png', size: [13, 13], scale: 0.85})}));
 		}
-		/* vecchia sezione google tradotta
-		  if (EEnum[i]==0) {
-			if (maxint[i] >= 11) {var icon = {url: "images/IS/11.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "11"}
-			if (maxint[i] <= 10.9 && maxint[i] > 9.9) {var icon = {url: "images/IS/10.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "10"}
-			if (maxint[i] <= 9.9 && maxint[i] > 8.9) {var icon = {url: "images/IS/9.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "9"}
-			if (maxint[i] <= 8.9 && maxint[i] > 7.9) {var icon = {url: "images/IS/8.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "8"}
-			if (maxint[i] <= 7.9 && maxint[i] > 6.9) {var icon = {url: "images/IS/7.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "7"}
-			if (maxint[i] <= 6.9 && maxint[i] > 5.9 ) {var icon = {url: "images/IS/6.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "6"}
-			if (maxint[i] <= 5.9 && maxint[i] > 4.9) {var icon = {url: "images/IS/5.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "5"}
-			if (maxint[i] <= 4.9 && maxint[i] > 3.9) {var icon = {url: "images/IS/4.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "4"}
-			if (maxint[i] <= 3.9 ) {var icon = {url: "images/IS/3.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "3"}
-		} else if (EEnum[i]>0 && ris[i]>0){
-			if (maxint[i] >= 11) {var icon = {url: "images/IS/11EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "11EE"}
-			if (maxint[i] <= 10.9 && maxint[i] > 9.9) {var icon = {url: "images/IS/10EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "10EE"}
-			if (maxint[i] <= 9.9 && maxint[i] > 8.9) {var icon = {url: "images/IS/9EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "9EE"}
-			if (maxint[i] <= 8.9 && maxint[i] > 7.9) {var icon = {url: "images/IS/8EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "8EE"}
-			if (maxint[i] <= 7.9 && maxint[i] > 6.9) {var icon = {url: "images/IS/7EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "7EE"}
-			if (maxint[i] <= 6.9 && maxint[i] > 5.9 ) {var icon = {url: "images/IS/6EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "6EE"}
-			if (maxint[i] <= 5.9 && maxint[i] > 4.9) {var icon = {url: "images/IS/5EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "5EE"}
-			if (maxint[i] <= 4.9 && maxint[i] > 3.9) {var icon = {url: "images/IS/4EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "4EE"}
-			if (maxint[i] <= 3.9 ) {var icon = {url: "images/IS/3EE.png", scaledSize: new google.maps.Size(10, 10)}; IsIcon = "3EE"}
-		} else {
-			var icon = {url: "images/IS/EE.png", scaledSize: new google.maps.Size(10, 10)}
-			IsIcon = "EE"
-		}*/
-
-		/*var markerLOC = new google.maps.Marker({
-			position: new google.maps.LatLng(locLat[i], locLon[i]),
-			map: null,
-			icon: icon,
-
-		});*/
 
 		// Information box that pops up on click (on marker or line of quakes table)
 		var titleIWloc = '<div class="iw-title localityColor"><b>' + descloc_prov[i] + '</b><br /><p><i>' + noteLoc[i] + '</i></p></div>'
@@ -296,7 +285,7 @@ function createTableandPlot(Filters){
 			'</div></div>'
 		].join('\n');
 
-		/*TODO VERIFICARE  SEZIONE POPUP CON COMPONENTI GOOGLE INFOWINDOW E EVENTO CLICK DELLA MAPPA
+		/* SEZIONE POPUP CON COMPONENTI GOOGLE INFOWINDOW E EVENTO CLICK DELLA MAPPA */
 		//markerLOC adesso contiene la singola feature e si chiama ora `marker`*/
 		//openPopupLOC(markerLOC, OnClickTextEN, OnClickTextIT, nloc[i])
 		openPopupLOC(marker, OnClickTextEN, OnClickTextIT, nloc[i])
@@ -304,7 +293,7 @@ function createTableandPlot(Filters){
 
 		if(Filters['StartImax']==0) Filters['StartImax'] = -2
 		//TODO VERIFICARE I FILTERS
-		IntFlag = ( Filters['StartImax'] <= maxint[i] && Filters['StopImax'] >= maxint[i]) ? true : false;
+		IntFlag = (Filters['StartImax'] <= maxint[i] && Filters['StopImax'] >= maxint[i]);
 
 
 		if ( IntFlag ) {
@@ -409,24 +398,33 @@ function createTableandPlot(Filters){
 
 		}
 	}
+    console.log("fine for xml localities descloc...");
 
-	ExportKml = "";
-		jQuery.get('KML/locality_a.txt', function(data){
-			ExportKml = data;
-			ExportKml = ExportKml + "<name>CFTI5Med - " + iMarker + " localities selected</name>";
-			ExportKml = ExportKml + "<open>1</open>";
-			ExportKml = ExportKml + "<description>";
-			ExportKml = ExportKml + "<![CDATA[<body><a href="+virg+"http://storing.ingv.it/cfti/cfti5/"+virg+"> <img src="+virg+"http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN"+virg+" alt="+virg+"Logo CFTI5Med"+virg+" height="+virg+"32px"+virg+"></a></body>]]>";
-			ExportKml = ExportKml + "</description>";
-			ExportKml = ExportKml + "<visibility>1</visibility>";
-			ExportKml = ExportKml + "<Folder><name>Localities</name>";
 
-			ExportKml = ExportKml + ExportKmlR;
+    //TODO: RELOAD DELLA VARIABILE SOLO SE NON E' GIA STATA VALORIZZATA IN PRIMA PAGINA.
+    //ExportKml = "";
+    if (ExportKml == "") {
+        console.log("RICARICAMENTO DEI FILE /KML/locality_a.txt e /KML/locality_b.txt ");
 
-			jQuery.get('KML/locality_b.txt', function(dataB){
-				ExportKml = ExportKml + dataB;
-		})
-	})
+        //jQuery.get('KML/locality_a.txt', function(data){
+        jQuery.get('/OtherFilesService/KML@locality_a.txt', function (data) {
+            ExportKml = data;
+            ExportKml = ExportKml + "<name>CFTI5Med - " + iMarker + " localities selected</name>";
+            ExportKml = ExportKml + "<open>1</open>";
+            ExportKml = ExportKml + "<description>";
+            ExportKml = ExportKml + "<![CDATA[<body><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/" + virg + "> <img src=" + virg + "http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN" + virg + " alt=" + virg + "Logo CFTI5Med" + virg + " height=" + virg + "32px" + virg + "></a></body>]]>";
+            ExportKml = ExportKml + "</description>";
+            ExportKml = ExportKml + "<visibility>1</visibility>";
+            ExportKml = ExportKml + "<Folder><name>Localities</name>";
+
+            ExportKml = ExportKml + ExportKmlR;
+
+            //jQuery.get('KML/locality_b.txt', function(dataB){
+            jQuery.get('/OtherFilesService/KML@locality_b.txt', function (dataB) {
+                ExportKml = ExportKml + dataB;
+            })
+        })
+    }
 
 
 
@@ -463,12 +461,9 @@ function createTableandPlot(Filters){
 		});
 	});
 	$('#loading').hide();
-	////////////////////////////////////////////////////////////////////////////////
-	////////////////////////////////////////////////////////////////////////////////
-	//////////CARICAMENTO DATI MAPPA CON INFO AGGIORNATE////////////////////////////
-	//indexLocalita();
-	////////////////////////////////////////////////////////////////////////////////
-	////////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    console.log("CREAZIONE MAPPA LOCALITA:");
+    indexLocalita();
 }
 
 

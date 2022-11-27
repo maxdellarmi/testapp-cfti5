@@ -740,7 +740,7 @@ function requestEEdata(){
             //Export variableKML
             ExportKml = "";
             jQuery.get('/OtherFilesService/KML@EE_a.txt', function(data){
-                console.log("CHECKPOINT 6 END - readingn KML/EE_a.txt ==} ExportKml ");
+                console.log("CHECKPOINT 6 END - reading KML/EE_a.txt ==} ExportKml ");
 
                 ExportKml = data;
                 ExportKml = ExportKml + CarRet +"<Folder>" + CarRet + "<name>CFTI5Med - " + EEmarkersArray.length + " Environmental Effects selected</name>";
@@ -754,7 +754,7 @@ function requestEEdata(){
                 ExportKml = ExportKml + ExportKmlR;
 
                 jQuery.get('/OtherFilesService/KML@EE_b.txt', function(dataB){
-                    console.log("CHECKPOINT 7 END - readingn KML/EE_b.txt ==} ExportKml ");
+                    console.log("CHECKPOINT 7 END - reading KML/EE_b.txt ==} ExportKml ");
                     ExportKml = ExportKml + dataB;
                 })
             })

@@ -24,7 +24,9 @@ use Psr\Http\Message\ResponseInterface;
 
 class PhotoController extends Controller
 {
-
+    /**Proxy layer DSS CSS per recuperare le informazioni evitanto CORS error
+     * @return void
+     */
     function loadDssCSS()  {
                 $response = Http::withMiddleware(
                 Middleware::mapResponse(function (ResponseInterface $response) {
@@ -42,6 +44,9 @@ class PhotoController extends Controller
         echo $xml->asXML();
     }
 
+    /**Proxy layer DSS ISS per recuperare le informazioni evitanto CORS error
+     * @return void
+     */
     function loadDssISS()  {
         $response = Http::withMiddleware(
             Middleware::mapResponse(function (ResponseInterface $response) {
@@ -59,7 +64,9 @@ class PhotoController extends Controller
         echo $xml->asXML();
     }
 
-
+    /**Proxy layer DSS SUBD per recuperare le informazioni evitanto CORS error
+     * @return void
+     */
     function loadDssSUBD()  {
         $response = Http::withMiddleware(
             Middleware::mapResponse(function (ResponseInterface $response) {
@@ -115,7 +122,7 @@ class PhotoController extends Controller
         Log::info("PhotoController@quakeSourcesLoading called START");
         Log::info($nterrId);
         //Chiamata esterna ad un altro modulo presente nel controller
-        $resultQuakeSourcesXML = (new PhotoController())->loadQuakeSources($nterrId);;
+        $resultQuakeSourcesXML = (new PhotoController())->loadQuakeSources($nterrId);
         Log::info("PhotoController@quakeSourcesLoading called END... calling the View('quake')");
         Log::info($resultQuakeSourcesXML);
         return $resultQuakeSourcesXML;
@@ -299,6 +306,31 @@ class PhotoController extends Controller
         return response()->make($listXML)->header("Content-Type", "application/xml");
     }
 
+    /**     ServiceEE = '/EEListService';   // =>'EEList.xml';
+     * @return \Illuminate\Http\Response|mixed
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
+     */
+    public function serviceBiblioEEList(){
+        Log::info('serviceBiblioEEList@@Attempt display data From REDIS server START');
+        $listXML = Cache::rememberForever('BiblioEEListServiceForever', function () {
+            Log::info('serviceBiblioEEList@@LOADING XMLFile FROM DISK STARTED...........');
+            $objXmlDocument = simplexml_load_file("BiblioEE.xml", "SimpleXMLElement", LIBXML_NOCDATA);
+            if ($objXmlDocument === FALSE) {
+                echo "There were errors parsing the XML file.\n";
+                foreach (libxml_get_errors() as $error) {
+                    echo $error->message;
+                }
+                exit;
+            }
+            header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
+            //Log::info($objXmlDocument->asXML()); logging
+            return $objXmlDocument->asXML();
+        });
+        Log::info('serviceBiblioEEList@@Attempt display data From REDIS server END returning data');
+        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
+        return response()->make($listXML)->header("Content-Type", "application/xml");
+    }
+
 
     /**
      * @param $fileNameInput Tutti gli altri file presenti nella stessa dir home;
@@ -471,6 +503,101 @@ class PhotoController extends Controller
 
 
 /**************TODO:GESTIONE TERREMOTI  END************************/
+
+    /** caricamento singola url http://localhost/locality.php?02062IT
+     *  ULR querystring recuperata per verificare ID -> chiamare altro controller che recupera il file XML cachato
+     * @param Request $request
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
+    function singleLocalityLoading(Request $request)
+    {
+        /// caricamento singola url http://localhost/locality.php?02062.00
+        // dump($request->query->all()); dump($request->query->keys()[0]); dump(substr($request->query->keys()[0], 0, -2));
+        // $nterrCodeQuake =substr($request->query->keys()[0], 0, -2); //rimuove gli ultimi due caratteri della lingua
+        //Log::info( $request->query->keys()[0]); //($request->query->all());
+        return view('locality');
+    }
+
+
+/*****TODO: GESTIONE LOCALITY DELLA PAGINA START ***/
+    /** caricamento singola url http://localhost/locality.php?02062.000
+     *  ULR querystring recuperata per verificare ID -> chiamare altro controller che recupera il file XML cachato
+     * @return
+     */
+    function localitySourcesLoading($nterrId)
+    {
+        Log::info("PhotoController@localitySourcesLoading called START");
+        Log::info($nterrId);
+        //Chiamata esterna ad un altro modulo presente nel controller
+        $resultLocalitySourcesXML = (new PhotoController())->loadLocalitySources($nterrId);
+        Log::info("PhotoController@localitySourcesLoading called END... calling the View('locality')");
+        Log::info($resultLocalitySourcesXML);
+        return $resultLocalitySourcesXML;
+    }
+
+
+    /**
+     * @return mixed Restituisce XML del singolo terremoto e cacha il file sempre
+     * (possibilità di creare un futuro uno script di warmUp della cache che precarica tutta la dir)
+     *  FILE di esempio: parsePQData./localitySources/09698.xml 09698 è il parametro nterrCode passato cosi -
+     * $nterrCodeQuake =substr($request->query->keys()[0], 0, -2); //rimuove gli ultimi due caratteri della lingua
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
+     */
+    public function loadLocalitySources($nId){
+        $keyNterrSingleLocality= "loadLocalitySources_" . $nId;
+        Log::info('loadLocalitySources@@Attempt display data From REDIS server START key:' . $keyNterrSingleLocality);
+        $listXML = Cache::rememberForever($keyNterrSingleLocality, function () use($keyNterrSingleLocality, $nId)  { //NB. PASSAGGIO PARAMETRI ALLA FUNZIONE DI CALLBACK
+            Log::info('loadLocalitySources@@LOADING XMLFile FROM DISK STARTED...........key:' . $keyNterrSingleLocality);
+            //$_SERVER["DOCUMENT_ROOT"] ROOT recupera path completo fino alla directory public
+            $fullPath =$_SERVER["DOCUMENT_ROOT"] . '/localitySources/' . $nId . '.xml';  //localitySources/000004.00.xml
+            Log::info('loadLocalitySources@@LOADING XMLFile FROM DISK ' . $fullPath . '...........key:' . $keyNterrSingleLocality);
+//            $xmlFileData = file_get_contents("xml->{$fullPath}");
+            $objXmlDocument = simplexml_load_file($fullPath, "SimpleXMLElement", LIBXML_NOCDATA);
+            if ($objXmlDocument === FALSE) {
+                echo "There were errors parsing the XML file.\n";
+                foreach (libxml_get_errors() as $error) {
+                    echo $error->message;
+                }
+                exit;
+            }
+            header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al
+            return $objXmlDocument->asXML();
+        });
+        Log::info('loadLocalitySources@@Attempt display data From REDIS server END returning data key:' . $keyNterrSingleLocality);
+        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
+        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
+        return response()->make($listXML)->header("Content-Type", "application/xml");
+    }
+
+
+    /**
+     * @return \Illuminate\Http\JsonResponse Ritorna una rappresentazione JSON convertita come array associativo partendo dal file xml.
+     */
+    public function indexLocalityXML()
+    {
+        Log::info('@@Attempt display data From REDIS server START');
+        $listXML = Cache::rememberForever('LocListForever', function () {
+            Log::info('@@Display XMLFile  STARTED...........');
+            $objXmlDocument = simplexml_load_file("LocList.xml", "SimpleXMLElement", LIBXML_NOCDATA);
+            if ($objXmlDocument === FALSE) {
+                echo "There were errors parsing the XML file.\n";
+                foreach (libxml_get_errors() as $error) {
+                    echo $error->message;
+                }
+                exit;
+            }
+            header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
+            //Log::info($objXmlDocument->asXML()); logging
+            return $objXmlDocument->asXML();
+        });
+        Log::info('indexLocalityXML@@Attempt display data From REDIS server END returning data');
+        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
+        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
+        return response()->make($listXML)->header("Content-Type", "application/xml");
+    }
+
+
+    /*****TODO: GESTIONE LOCALITY DELLA PAGINA END ***/
 
 /********************************************TODO: GESTIONE ALTRI XML FILES TESTING****************************************************************************/
 

@@ -18,6 +18,8 @@ var ServiceEE_MED = '/EEList_MEDService';  // =>'EEList_MED.xml';
 
 var xmlServiceEQLIST = 'QuakeList.xml';
 
+var ServiceEQLIST = '/indexQuakesXML' // =>  'QuakeList.xml'
+
 // Google MAP
 var map;
 var bounds;
@@ -120,7 +122,6 @@ var E1listExport = [];
 $.ajax({
     url: '/OtherFilesService/CFTI4med_ASMI_20170523.txt',
     type: 'GET',
-    cache: true,
     dataType: 'text', //text/xml
     contentType: 'text/xml',
     success: function(data){
@@ -153,7 +154,6 @@ $.ajax({
 $.ajax({
     url: '/OtherFilesService/Morti_Feriti.txt',
     type: 'GET',
-    cache: true,
     dataType: 'text', //text/xml
     contentType: 'text/xml',
     success: function(data){
@@ -191,7 +191,6 @@ $.ajax({
 $.ajax({
     url: '/OtherFilesService/valb_descriptions.txt',
     type: 'GET',
-    cache: true,
     dataType: 'text', //text/xml
     contentType: 'text/xml',
     success: function(data){
@@ -346,7 +345,7 @@ function requestEQLISTData(){
 	// ajaxUpdater.requestAction();
 
     $.ajax({
-        url: '/indexQuakesXML',  //http://localhost/indexQuakesXML => Route::get('/indexQuakesXML','PhotoController@indexQuakesXML');
+        url:  ServiceEQLIST, // '/indexQuakesXML',  //http://localhost/indexQuakesXML => Route::get('/indexQuakesXML','PhotoController@indexQuakesXML');
         type: 'GET',
         dataType: 'text', //text/xml
         contentType: 'application/xml',
@@ -362,7 +361,8 @@ function requestEQLISTData(){
             console.error(errorThrown);
         }
 
-    }).then ( function(XmlText) {  //ajaxUpdater.callBackFunc = this.parseQuakeList;
+    }).then ( function(XmlText)  //ajaxUpdater.callBackFunc = this.parseQuakeList;
+    {
         console.log("quake.js->parseQuakeList....");
         //new LogTools().addLog('Parsing all quakes<br />', 80);
         XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');

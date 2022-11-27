@@ -4,9 +4,18 @@ var flagLOC = 1;
 
 // XML paths
 var xmlServiceLoc = './localitySources/' + nloc + '.xml';
+
+//var ServicePQ = '/quakeSourcesXMLService/';
+var ServiceLoc = '/localitySourcesXMLService/' + nloc  // => './localitySources/' + nloc + '.xml';
 var xmlServicePQ = [];
+
 var xmlServiceEE = 'EEList.xml';
+
+var ServiceEE = '/EEListService';   // =>'EEList.xml';
+
 var xmlServiceEQLIST = 'QuakeList.xml';
+
+var ServiceEQLIST = '/indexQuakesXML' // =>'QuakeList.xml'
 
 // Google MAP
 var map;
@@ -126,9 +135,9 @@ function InitializeLoc() {
 	placeMap();
 	//openEE();
 	resizeMapLoc();
-	//TODO ATTUALMENTE SPIDERIFY COMMENTATO PERCHE VA IN ERRORE SENZA MAPPA GOOGLE
+	//SPIDERIFY COMMENTATO PERCHE VA IN ERRORE SENZA MAPPA GOOGLE
 	//GOOGLE MAPS SOLUTION https://github.com/jawj/OverlappingMarkerSpiderfier
-	//TODO OPEN LAYER SOLUTION https://github.com/alrocar/OLSpiderfy,  https://viglino.github.io/ol-ext/examples/animation/map.animatedcluster.html
+	//TODO: OPEN LAYER SOLUTION IDEA https://github.com/alrocar/OLSpiderfy,  https://viglino.github.io/ol-ext/examples/animation/map.animatedcluster.html
 	//spiderfy();
 }
 
@@ -154,21 +163,24 @@ function deleteEpi() {
 
 function showQuakes() {
 	console.log(epiMarkers);
-	//TODO setMap non presente in OL probabilmente e' necessario visualizzare il layer con i marker creati //VA CHIAMATO DENTRO IL RITORNO DI MANAJAX
+	//setMap non presente in OL probabilmente e' necessario visualizzare il layer con i marker creati - CHIAMATO DENTRO IL RITORNO DI MANAJAX
 	//creazioneMappaTerremotiInput(epiMarkers);
 
 	for (var i = 0; i < epiMarkers.length; i++) {
 		console.log("aggiungo epiMarkers quakes al layerglobale localityPHPmarkers");
 		localityPHPmarkers.push(epiMarkers[i]);
 		//region GESTIONE VECCHIA COMMENTATA
-		//TODO setMap non presente in OL probabilmente e' necessario visualizzare il layer con i marker creati
+		//setMap non presente in OL probabilmente e' necessario visualizzare il layer con i marker creati
 		//epiMarkers[i].setMap(map);
-		//todo: gestione bounds da fixare
+		//gestione bounds non utilizzata -> lo zoom è gestito con la view degli oggetti Openlayers
 		//bounds.extend(epiMarkers[i].getPosition());
-		//TODO variabile spider commentata
+		//variabile spider commentata
 		//oms.addMarker(epiMarkers[i]);
 		//endregion
 	}
+    /////////////////////////////////////////////////////////////////
+    /////MANAJAX POST LOADING e visualizzazione pagina chiamato dalla riga 1372 showQuakes dopo il caricamento delle locality///////////////
+    creazioneMappaLocalityPHP(localityPHPmarkers); //, 14.5);
 }
 
 // When clicking on table row, trigger event on Gmap marker (used to trigger popup window when clicking on table row)
@@ -219,7 +231,7 @@ function onclickListLocality(prog){
 		google.maps.event.trigger(epiMarkers[prog], 'click');
 		/******vecchia gestione google maps
 		 * google.maps.event.trigger(epiMarkers[prog], 'click');
-		//TODO: gestione bounds da fixare con extent del pinpoint
+		//vecchia gestione bounds con extent del pinpoint
 		// bounds.extend(markerLOC.getPosition());
 		//map.fitBounds(bounds);
 
@@ -233,7 +245,7 @@ function onclickListLocality(prog){
 		// Flag for scrolling table - set to zero when event is selected from table (and not from marker)
 		FlagScroll = 0;
 
-		//************zoom nella zona di riferimento dove e' posizionata la singola feature
+		// --------- Zoom con OpenLayer nella zona di riferimento dove e' posizionata la singola feature ---------
 		var padding = [500, 50, 500, 50]
 		mapOL.getView().fit(
 			epiMarkers[prog].getGeometry().getExtent(),
@@ -424,98 +436,119 @@ function onClickMarker(index, marker) {
 //											PARSE QUAKE LIST OF ALL CFTI QUAKES
 //  needed for EE non in PQ
 // ==========================================================================================
-function requestEQLISTData(){
-	//new LogTools().addLog('Requesting quakes<br />', 40);
-	var ajaxUpdater = new Manajax(xmlServiceEQLIST);
-	ajaxUpdater.TxType = 'GET';
-	ajaxUpdater.responseType = 'xml';
-	this.callBackBlock = 'map';
-	ajaxUpdater.callBackFunc = this.parseQuakeList;
-	ajaxUpdater.toScroll = false;
-	ajaxUpdater.requestAction();
-}
-
-function parseQuakeList(XmlText){
-	console.log("parseQuakeList");
-	//console.log(XmlText);
-	XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLQuakeListArrived = true;
-	var markers = XMLQuakeList.documentElement.getElementsByTagName("Quake");
-
-	if(markers.length > 0){
-		for (var i = 0; i < markers.length; i++){
-			NterrALLEQ[i] = XMLQuakeList.getElementsByTagName("nterr")[i].childNodes[0].nodeValue;
-			var Zone = XMLQuakeList.getElementsByTagName("cat")[i].childNodes[0].nodeValue;
-
-			// CHECK NPERIOD -- QUESTO NON DOVRA' PIU' SERVIRE QUNDO I DATI SARANNO A POSTO!!!!!!!!!!!!!
-			var CheckNperiod =  XMLQuakeList.getElementsByTagName("nperiod")[i];
-			NperiodALLEQ[i] = CheckNperiod.childNodes.length ? CheckNperiod.childNodes[0].nodeValue : '';
-						//NperiodALLEQ[i] = XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
+function requestEQLISTData() {
+    //new LogTools().addLog('Requesting quakes<br />', 40);
+    // var ajaxUpdater = new Manajax(xmlServiceEQLIST);
+    // ajaxUpdater.TxType = 'GET';
+    // ajaxUpdater.responseType = 'xml';
+    // this.callBackBlock = 'map';
+    // ajaxUpdater.callBackFunc = this.parseQuakeList;
+    // ajaxUpdater.toScroll = false;
+    // ajaxUpdater.requestAction();
 
 
-			xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml';
-			//console.log("xmlServicePQ_ALLEQ");
-			//console.log(xmlServicePQ_ALLEQ[i]);
-			DateLabelALLEQ[i] =  XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
-			YearALLEQ[i] = parseInt(XMLQuakeList.getElementsByTagName("anno")[i].childNodes[0].nodeValue);
-			var CheckMonth =  XMLQuakeList.getElementsByTagName("mese")[i];
-			MonthALLEQ[i] = CheckMonth.childNodes.length ? CheckMonth.childNodes[0].nodeValue : '';
-			if (MonthALLEQ[i]=="") MonthALLEQ[i] = "00"
+    $.ajax({
+        url: ServiceEQLIST, // '/indexQuakesXML',  //http://localhost/indexQuakesXML => Route::get('/indexQuakesXML','PhotoController@indexQuakesXML');
+        type: 'GET',
+        dataType: 'text', //text/xml
+        contentType: 'application/xml',
+        //data:  JSON.stringify(quakesDataArray),
+        success: function (data) {
+            if (data !== undefined) {
+                console.log("success loaded CACHED  xml quakes from server...");
+                //console.log(data);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
 
-			var CheckDay =  XMLQuakeList.getElementsByTagName("giorno")[i];
-			DayALLEQ[i] = CheckDay.childNodes.length ? CheckDay.childNodes[0].nodeValue : '';
-			if (DayALLEQ[i]=="") DayALLEQ[i] = "00"
+    }).then(function (XmlText)  //ajaxUpdater.callBackFunc = this.parseQuakeList;
+    {
+        console.log("parseQuakeList");
+        //console.log(XmlText);
+        XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLQuakeListArrived = true;
+        var markers = XMLQuakeList.documentElement.getElementsByTagName("Quake");
 
-			TimeLabelALLEQ[i] =  XMLQuakeList.getElementsByTagName("time_label")[i].childNodes[0].nodeValue;
+        if (markers.length > 0) {
+            for (var i = 0; i < markers.length; i++) {
+                NterrALLEQ[i] = XMLQuakeList.getElementsByTagName("nterr")[i].childNodes[0].nodeValue;
+                var Zone = XMLQuakeList.getElementsByTagName("cat")[i].childNodes[0].nodeValue;
 
-			var CheckHour =  XMLQuakeList.getElementsByTagName("ora")[i];
-			HourALLEQ[i] = CheckHour.childNodes.length ? CheckHour.childNodes[0].nodeValue : '';
-			if (HourALLEQ[i]=="-9" || HourALLEQ[i]=="" ) HourALLEQ[i] = 0;
+                // CHECK NPERIOD -- QUESTO NON DOVRA' PIU' SERVIRE QUNDO I DATI SARANNO A POSTO!!!!!!!!!!!!!
+                var CheckNperiod = XMLQuakeList.getElementsByTagName("nperiod")[i];
+                NperiodALLEQ[i] = CheckNperiod.childNodes.length ? CheckNperiod.childNodes[0].nodeValue : '';
+                //NperiodALLEQ[i] = XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
 
-			var CheckMinu =  XMLQuakeList.getElementsByTagName("minu")[i];
-			MinuALLEQ[i] = CheckMinu.childNodes.length ? CheckMinu.childNodes[0].nodeValue : '';
-			if (MinuALLEQ[i]=="-9" || MinuALLEQ[i]=="" ) MinuALLEQ[i] = 0;
 
-			var CheckSec =  XMLQuakeList.getElementsByTagName("sec")[i];
-			SecALLEQ[i] = CheckSec.childNodes.length ? CheckSec.childNodes[0].nodeValue : '';
-			if (SecALLEQ[i]=="-9" || SecALLEQ[i]=="" ) SecALLEQ[i] = 0;
+                xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml';
+                //console.log("xmlServicePQ_ALLEQ");
+                //console.log(xmlServicePQ_ALLEQ[i]);
+                DateLabelALLEQ[i] = XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
+                YearALLEQ[i] = parseInt(XMLQuakeList.getElementsByTagName("anno")[i].childNodes[0].nodeValue);
+                var CheckMonth = XMLQuakeList.getElementsByTagName("mese")[i];
+                MonthALLEQ[i] = CheckMonth.childNodes.length ? CheckMonth.childNodes[0].nodeValue : '';
+                if (MonthALLEQ[i] == "") MonthALLEQ[i] = "00"
 
-			LatALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("lat")[i].childNodes[0].nodeValue).toFixed(3);
-			LonALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("lon")[i].childNodes[0].nodeValue).toFixed(3);
+                var CheckDay = XMLQuakeList.getElementsByTagName("giorno")[i];
+                DayALLEQ[i] = CheckDay.childNodes.length ? CheckDay.childNodes[0].nodeValue : '';
+                if (DayALLEQ[i] == "") DayALLEQ[i] = "00"
 
-			ImaxALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("imax")[i].childNodes[0].nodeValue);
+                TimeLabelALLEQ[i] = XMLQuakeList.getElementsByTagName("time_label")[i].childNodes[0].nodeValue;
 
-			if (ImaxALLEQ[i] == 9.1) ImaxALLEQ[i] = 9;
-			if (ImaxALLEQ[i] == 8.2) ImaxALLEQ[i] = 8;
-			if (ImaxALLEQ[i] == 8.1) ImaxALLEQ[i] = 8;
-			if (ImaxALLEQ[i] == 6.1) ImaxALLEQ[i] = 6;
-			if (ImaxALLEQ[i] == 6.6) ImaxALLEQ[i] = 6.5;
-			if (ImaxALLEQ[i] == 4.6) ImaxALLEQ[i] = 4.5;
-			if (ImaxALLEQ[i] == 5.1) ImaxALLEQ[i] = 5;
-			IoALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("io")[i].childNodes[0].nodeValue);
+                var CheckHour = XMLQuakeList.getElementsByTagName("ora")[i];
+                HourALLEQ[i] = CheckHour.childNodes.length ? CheckHour.childNodes[0].nodeValue : '';
+                if (HourALLEQ[i] == "-9" || HourALLEQ[i] == "") HourALLEQ[i] = 0;
 
-			var flagNP = XMLQuakeList.getElementsByTagName("npun")[i].childNodes.length;
-			if (flagNP > 0) {
-				iNP_ALLEQ[i] = XMLQuakeList.getElementsByTagName("npun")[i].childNodes[0].nodeValue;
-				} else {
-					iNP_ALLEQ[i] = 0
-				};
-				iNP_ALLEQ[i] = parseInt(iNP_ALLEQ[i])
+                var CheckMinu = XMLQuakeList.getElementsByTagName("minu")[i];
+                MinuALLEQ[i] = CheckMinu.childNodes.length ? CheckMinu.childNodes[0].nodeValue : '';
+                if (MinuALLEQ[i] == "-9" || MinuALLEQ[i] == "") MinuALLEQ[i] = 0;
 
-			MeALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("mm")[i].childNodes[0].nodeValue);
-			LocationALLEQ[i] = XMLQuakeList.getElementsByTagName("earthquakelocation")[i].childNodes[0].nodeValue;
-			CountryALLEQ[i] = XMLQuakeList.getElementsByTagName("country")[i].childNodes[0].nodeValue;
+                var CheckSec = XMLQuakeList.getElementsByTagName("sec")[i];
+                SecALLEQ[i] = CheckSec.childNodes.length ? CheckSec.childNodes[0].nodeValue : '';
+                if (SecALLEQ[i] == "-9" || SecALLEQ[i] == "") SecALLEQ[i] = 0;
 
-			//verifico la lunghezza del campo, perchè se è vuoto il "nodeValue" restituisce errore
-			var flagET_ALLEQ = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes.length;
-			if (flagET_ALLEQ > 0) {
-				EpicenterALLEQ[i] = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes[0].nodeValue;
-			} else {
-				EpicenterALLEQ[i] = "Local effects"
-			};
-		}
-		openEE();
-	}
+                LatALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("lat")[i].childNodes[0].nodeValue).toFixed(3);
+                LonALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("lon")[i].childNodes[0].nodeValue).toFixed(3);
+
+                ImaxALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("imax")[i].childNodes[0].nodeValue);
+
+                if (ImaxALLEQ[i] == 9.1) ImaxALLEQ[i] = 9;
+                if (ImaxALLEQ[i] == 8.2) ImaxALLEQ[i] = 8;
+                if (ImaxALLEQ[i] == 8.1) ImaxALLEQ[i] = 8;
+                if (ImaxALLEQ[i] == 6.1) ImaxALLEQ[i] = 6;
+                if (ImaxALLEQ[i] == 6.6) ImaxALLEQ[i] = 6.5;
+                if (ImaxALLEQ[i] == 4.6) ImaxALLEQ[i] = 4.5;
+                if (ImaxALLEQ[i] == 5.1) ImaxALLEQ[i] = 5;
+                IoALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("io")[i].childNodes[0].nodeValue);
+
+                var flagNP = XMLQuakeList.getElementsByTagName("npun")[i].childNodes.length;
+                if (flagNP > 0) {
+                    iNP_ALLEQ[i] = XMLQuakeList.getElementsByTagName("npun")[i].childNodes[0].nodeValue;
+                } else {
+                    iNP_ALLEQ[i] = 0
+                }
+                ;
+                iNP_ALLEQ[i] = parseInt(iNP_ALLEQ[i])
+
+                MeALLEQ[i] = parseFloat(XMLQuakeList.getElementsByTagName("mm")[i].childNodes[0].nodeValue);
+                LocationALLEQ[i] = XMLQuakeList.getElementsByTagName("earthquakelocation")[i].childNodes[0].nodeValue;
+                CountryALLEQ[i] = XMLQuakeList.getElementsByTagName("country")[i].childNodes[0].nodeValue;
+
+                //verifico la lunghezza del campo, perchè se è vuoto il "nodeValue" restituisce errore
+                var flagET_ALLEQ = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes.length;
+                if (flagET_ALLEQ > 0) {
+                    EpicenterALLEQ[i] = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes[0].nodeValue;
+                } else {
+                    EpicenterALLEQ[i] = "Local effects"
+                }
+                ;
+            }
+            openEE();
+        }
+    });
 }
 
 // ==========================================================================================
@@ -530,104 +563,135 @@ function openEE(){
 	var FormReference;
 	var XMLData;
 
-	var ajaxUpdater = new Manajax(xmlServiceEE);
-	ajaxUpdater.TxType = 'GET';
-	ajaxUpdater.responseType = 'xml';
-	this.callBackBlock = 'map';
-	ajaxUpdater.callBackFunc = this.parseEEData;
-	ajaxUpdater.toScroll = false;
-	ajaxUpdater.requestAction();
-}
+	// var ajaxUpdater = new Manajax(xmlServiceEE);
+	// ajaxUpdater.TxType = 'GET';
+	// ajaxUpdater.responseType = 'xml';
+	// this.callBackBlock = 'map';
+	// ajaxUpdater.callBackFunc = this.parseEEData;
+	// ajaxUpdater.toScroll = false;
+	// ajaxUpdater.requestAction();
+
+    $.ajax({
+        url: ServiceEE,
+        type: 'GET',
+        dataType: 'text', //text/xml
+        contentType: 'application/xml',
+        success: function(data){
+            if(data !== undefined){
+                console.log("success loaded "+ServiceEE+" => EEList.xml file from server...");
+                //console.log(data);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
+
+    }).then ( function(XmlText) {  //function parseEEData(XmlText){    // ajaxUpdater.callBackFunc = this.parseEEData;
+        //  This function parses EE data only for the locality (nloc). When reading PQ, the parsing is done again, for nterr
+        console.log("parseEEData");
+        XMLEEList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLEEListArrived = true;
+        EEall = XMLEEList.documentElement.getElementsByTagName("EE");
+
+        // GET ALL EE AT THE LOCALITY
+        var k = 0;
+        if(EEall.length > 0){
+            for (var i = 0; i < EEall.length; i++){
+                EE_nlocLOC[k] = XMLEEList.getElementsByTagName("NLOC_CFTI")[i].childNodes[0].nodeValue;
 
 
-//  This function parses EE data only for the locality (nloc). When reading PQ, the parsing is done again, for nterr
-function parseEEData(XmlText){
-	console.log("parseEEData");
-	XMLEEList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLEEListArrived = true;
-	EEall = XMLEEList.documentElement.getElementsByTagName("EE");
+                if (EE_nlocLOC[k] == nloc) {
+                    if (XMLEEList.getElementsByTagName("NTERR").length == 0) EE_nterrLOC[k] = ""
+                    else if (XMLEEList.getElementsByTagName("NTERR")[i].childNodes.length == 0) EE_nterrLOC[k] = ""
+                    else EE_nterrLOC[k] = XMLEEList.getElementsByTagName("NTERR")[i].childNodes[0].nodeValue;
+                    EE_nperiodLOC[k] = XMLEEList.getElementsByTagName("NPERIOD")[i].childNodes[0].nodeValue;
 
-	// GET ALL EE AT THE LOCALITY
-	var k = 0;
-	if(EEall.length > 0){
-		for (var i = 0; i < EEall.length; i++){
-			EE_nlocLOC[k] = XMLEEList.getElementsByTagName("NLOC_CFTI")[i].childNodes[0].nodeValue;
-
-
-			if (EE_nlocLOC[k] == nloc) {
-				if (XMLEEList.getElementsByTagName("NTERR").length == 0) EE_nterrLOC[k] = ""
-				else if (XMLEEList.getElementsByTagName("NTERR")[i].childNodes.length == 0) EE_nterrLOC[k] = ""
-				else EE_nterrLOC[k] = XMLEEList.getElementsByTagName("NTERR")[i].childNodes[0].nodeValue;
-				EE_nperiodLOC[k] = XMLEEList.getElementsByTagName("NPERIOD")[i].childNodes[0].nodeValue;
-
-				EE_commLOC[k] = XMLEEList.getElementsByTagName("COMMENTO")[i].childNodes[0].nodeValue;
-				EE_codeffLOC[k] = XMLEEList.getElementsByTagName("CODICE_EFF")[i].childNodes[0].nodeValue;
-				k = k+1
-			}
-		}
-		// call function to parse LOC data
-		requestLocData();
-	}
+                    EE_commLOC[k] = XMLEEList.getElementsByTagName("COMMENTO")[i].childNodes[0].nodeValue;
+                    EE_codeffLOC[k] = XMLEEList.getElementsByTagName("CODICE_EFF")[i].childNodes[0].nodeValue;
+                    k = k+1
+                }
+            }
+            // call function to parse LOC data
+            requestLocData();
+        }
+    });
 }
 
 function requestLocData(){
 	var mySelf = this;
 	var callBackBlock;
 
-	var ajaxUpdater = new Manajax(xmlServiceLoc);
-		ajaxUpdater.TxType = 'GET';
-		ajaxUpdater.responseType = 'xml';
-		this.callBackBlock = 'map';
-		ajaxUpdater.callBackFunc = this.parseLocData;
-		ajaxUpdater.toScroll = false;
-		ajaxUpdater.requestAction();
-}
+	// var ajaxUpdater = new Manajax(xmlServiceLoc);
+	// 	ajaxUpdater.TxType = 'GET';
+	// 	ajaxUpdater.responseType = 'xml';
+	// 	this.callBackBlock = 'map';
+	// 	ajaxUpdater.callBackFunc = this.parseLocData;
+	// 	ajaxUpdater.toScroll = false;
+	// 	ajaxUpdater.requestAction();
 
-function parseLocData(XmlText){
-	console.log("parseLocData");
-	console.log(XmlText.trim());
-	XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLQuakeListArrived = true;
-	var quakes = XMLQuakeList.documentElement.getElementsByTagName("Quake");
+    $.ajax({
+        url: ServiceLoc, //localhost/localitySourcesXMLService/09698 =>Route::get('/localitySourcesXMLService/{nterrId}', function ($nterrId) { $result = (new PhotoController())->loadLocalitySources($nterrId); return $result; }
+        type: 'GET',
+        dataType: 'text',
+        contentType: 'application/xml',
+        success: function(data){
+            if(data !== undefined){
+                console.log("success loaded CACHED xml quakes from server...localitySourcesXMLService/"+ Nterr);
+                //console.log(data);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
 
-	// -----------------------------------------     LOCALITY PARAMETERS AND MARKER
+    }).then ( function(XmlText) //ajaxUpdater.callBackFunc = this.parseLocData;
+    {
+        console.log("parseLocData loading ./localitySources/[nloc].xml' with service /localitySourcesXMLService ;");
+        //console.log(XmlText.trim());
+        XMLQuakeList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLQuakeListArrived = true;
+        var quakes = XMLQuakeList.documentElement.getElementsByTagName("Quake");
 
-	locLat = parseFloat(XMLQuakeList.getElementsByTagName("lat_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
-	locLon = parseFloat(XMLQuakeList.getElementsByTagName("lon_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
+        // -----------------------------------------     LOCALITY PARAMETERS AND MARKER
 
-	desloc = XMLQuakeList.getElementsByTagName("desloc_cfti")[0].childNodes[0].nodeValue;
-	var flagProv = XMLQuakeList.getElementsByTagName("provlet")[0].childNodes.length;
-	if (flagProv > 0) {
-		var prov = XMLQuakeList.getElementsByTagName("provlet")[0].childNodes[0].nodeValue;
-	} else {
-		var prov = ""
-	};
-	var flagCount = XMLQuakeList.getElementsByTagName("nazione")[0].childNodes.length;
-	if (flagCount > 0) {
-		var country = XMLQuakeList.getElementsByTagName("nazione")[0].childNodes[0].nodeValue;
-	} else {
-		var country = ""
-	};
-	if (prov!='') sLoctot = desloc + ' (' + prov + ')';
-	else sLoctot = desloc + ' (' + country + ')';
+        locLat = parseFloat(XMLQuakeList.getElementsByTagName("lat_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
+        locLon = parseFloat(XMLQuakeList.getElementsByTagName("lon_wgs84")[0].childNodes[0].nodeValue).toFixed(3);
 
-	var flagNote = XMLQuakeList.getElementsByTagName("notesito")[0].childNodes.length;
-	if (flagNote > 0) {
-		 noteLoc =  '<span id="noteloc">' + XMLQuakeList.getElementsByTagName("notesito")[0].childNodes[0].nodeValue + '</span>';
-		 var noteexp = XMLQuakeList.getElementsByTagName("notesito")[0].childNodes[0].nodeValue;
-	} else {
-		 noteLoc = ""
-		 var noteexp = "-";
-	};
+        desloc = XMLQuakeList.getElementsByTagName("desloc_cfti")[0].childNodes[0].nodeValue;
+        var flagProv = XMLQuakeList.getElementsByTagName("provlet")[0].childNodes.length;
+        if (flagProv > 0) {
+            var prov = XMLQuakeList.getElementsByTagName("provlet")[0].childNodes[0].nodeValue;
+        } else {
+            var prov = ""
+        };
+        var flagCount = XMLQuakeList.getElementsByTagName("nazione")[0].childNodes.length;
+        if (flagCount > 0) {
+            var country = XMLQuakeList.getElementsByTagName("nazione")[0].childNodes[0].nodeValue;
+        } else {
+            var country = ""
+        };
+        if (prov!='') sLoctot = desloc + ' (' + prov + ')';
+        else sLoctot = desloc + ' (' + country + ')';
 
-	filename = 'CFTI5_LOC_' + nloc + '_' + desloc;
-	ExportText =  'Name;Prov/Country;Lat.;Lon.;Note'+ CarRet
-	ExportText = ExportText + desloc + ";" + prov + ";" + locLat  + ";" + locLon  + ";" + noteexp + CarRet + CarRet;
-	ExportText = ExportText + 'Is (MCS intensity of the given earthquake at the locality);Is R. (MCS intensity of the given earthquake at the locality - Roman Numerals);Effects on natural environment;Date;Time;Io (Epicentral intensity - MCS scale);Imax (Maximum intensity - MCS scale);NMO (Number of Macroseismic Observations);Me (Equivalent magnitude based on macroseismic observations);Latitude;Longitude;Epicentral Area;'+ CarRet;
+        var flagNote = XMLQuakeList.getElementsByTagName("notesito")[0].childNodes.length;
+        if (flagNote > 0) {
+            noteLoc =  '<span id="noteloc">' + XMLQuakeList.getElementsByTagName("notesito")[0].childNodes[0].nodeValue + '</span>';
+            var noteexp = XMLQuakeList.getElementsByTagName("notesito")[0].childNodes[0].nodeValue;
+        } else {
+            noteLoc = ""
+            var noteexp = "-";
+        };
+
+        filename = 'CFTI5_LOC_' + nloc + '_' + desloc;
+        ExportText =  'Name;Prov/Country;Lat.;Lon.;Note'+ CarRet
+        ExportText = ExportText + desloc + ";" + prov + ";" + locLat  + ";" + locLon  + ";" + noteexp + CarRet + CarRet;
+        ExportText = ExportText + 'Is (MCS intensity of the given earthquake at the locality);Is R. (MCS intensity of the given earthquake at the locality - Roman Numerals);Effects on natural environment;Date;Time;Io (Epicentral intensity - MCS scale);Imax (Maximum intensity - MCS scale);NMO (Number of Macroseismic Observations);Me (Equivalent magnitude based on macroseismic observations);Latitude;Longitude;Epicentral Area;'+ CarRet;
 
 
 
-	/******TODO SOSTITUIRE GLI OGGETTI GOOGLE CON OL inzia con marker finti poi metti quelli richiesti*****/
+	/******Sostituiti GLI OGGETTI GOOGLE CON OL inzia con marker finti poi metti quelli richiesti*****/
 	// --- add marker of locality
 	/*var iconLOC = {
 		path: LOCpath,
@@ -638,7 +702,7 @@ function parseLocData(XmlText){
 		scale: scaleLoc //2
 	}*/
 
-	//TODO: gestione bounds da fixare
+	//vecchia gestione bounds da fixare
 	// bounds = new google.maps.LatLngBounds();
 	/*markerLOC = new google.maps.Marker({
 		position: new google.maps.LatLng(locLat, locLon),
@@ -648,718 +712,720 @@ function parseLocData(XmlText){
 		title: sLoctot+'\n'+'lat: ' + locLat + ', lon: ' + locLon
 	});*/
 
-	var stilePinPoint = new ol.style.Style({
-			image: new ol.style.Icon({
-				opacity: 1,
-				src: 'data:image/svg+xml;utf8,' + escape(pinpoint),
-				scale: scaleLoc //2
-			})
-		});
+        var stilePinPoint = new ol.style.Style({
+            image: new ol.style.Icon({
+                opacity: 1,
+                src: 'data:image/svg+xml;utf8,' + escape(pinpoint),
+                scale: scaleLoc //2
+            })
+        });
 
-	var markerLOC = new ol.Feature({
-		geometry: new ol.geom.Point(new ol.proj.fromLonLat([locLon, locLat])), //new ol.geom.Point([locLon, locLat]),
-		type: "pinpoint",
-		title : sLoctot+'\n'+'lat: ' + locLat + ', lon: ' + locLon,
-		OnClickTextIT : ""
-	});
-	/******TODO GESTIONE VISUALIZZAZIONE PINPOINT CON OL*****/
-	markerLOC.setStyle(stilePinPoint);
-	/******TODO variabile di appoggio per tutto quello che bisogna visualizzare sul layer*****/
-	console.log('aggiungo markerLOC al layer globale localityPHPmarkers di tipo pinpoint');
-	localityPHPmarkers.push(markerLOC);
-	/******TODO SOSTITUIRE GLI OGGETTI GOOGLE CON OL *****/
-	// -----------------------------------------     LOCALITY BIBLIOGRAPHY
+        var markerLOC = new ol.Feature({
+            geometry: new ol.geom.Point(new ol.proj.fromLonLat([locLon, locLat])), //new ol.geom.Point([locLon, locLat]),
+            type: "pinpoint",
+            title : sLoctot+'\n'+'lat: ' + locLat + ', lon: ' + locLon,
+            OnClickTextIT : ""
+        });
+        /******GESTIONE VISUALIZZAZIONE PINPOINT CON OpenLayers*****/
+        markerLOC.setStyle(stilePinPoint);
+        console.log('aggiungo markerLOC al layer globale localityPHPmarkers di tipo pinpoint');
+        localityPHPmarkers.push(markerLOC);
+        // ----- LOCALITY BIBLIOGRAPHY
 
-	var biblioList = readBiblio(XMLQuakeList, "Bibliography");
-	var codbib = biblioList[0]
-	var titolobib = biblioList[1]
-	var annobib = biblioList[2]
-	var placebib = biblioList[3]
-	var authorbib = biblioList[4]
+        var biblioList = readBiblio(XMLQuakeList, "Bibliography");
+        var codbib = biblioList[0]
+        var titolobib = biblioList[1]
+        var annobib = biblioList[2]
+        var placebib = biblioList[3]
+        var authorbib = biblioList[4]
 
-	// -----------------------------------------     ALL QUAKES AT LOCALITY
-	var Nperiod = [];
-	var E1commLOC = [];
-	var E1commLOC_IT = [];
-	var E1commLOC_EN = [];
+        // ---------------  ALL QUAKES AT LOCALITY
+        var Nperiod = [];
+        var E1commLOC = [];
+        var E1commLOC_IT = [];
+        var E1commLOC_EN = [];
 
-	ExportKml = '';
-	ExportKmlR = '';
+        ExportKml = '';
+        ExportKmlR = '';
 
-	var flagtableNT = 0;
-	var flagtableNP = 0;
+        var flagtableNT = 0;
+        var flagtableNP = 0;
 
-	if(quakes.length > 0){
-		flagtableNT = 1;
-		for (var i = 0; i < quakes.length; i++){
+        if(quakes.length > 0){
+            flagtableNT = 1;
+            for (var i = 0; i < quakes.length; i++){
 
-			Nterr[i] = XMLQuakeList.getElementsByTagName("nterr")[i].childNodes[0].nodeValue;
-			Nterr1 = Nterr[0];
-			Nperiod[i] =  XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
+                Nterr[i] = XMLQuakeList.getElementsByTagName("nterr")[i].childNodes[0].nodeValue;
+                Nterr1 = Nterr[0];
+                Nperiod[i] =  XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
 
-			xmlServicePQ[i] = './quakeSources/' + Nterr[i] + '.xml';
+                xmlServicePQ[i] = './quakeSources/' + Nterr[i] + '.xml';
 
-			DateLabel[i] =  XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
-			Year[i] = parseInt(XMLQuakeList.getElementsByTagName("anno")[i].childNodes[0].nodeValue);
+                DateLabel[i] =  XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
+                Year[i] = parseInt(XMLQuakeList.getElementsByTagName("anno")[i].childNodes[0].nodeValue);
 
-			var CheckMonth = XMLQuakeList.getElementsByTagName("mese")[i];
-			Month[i] = CheckMonth.childNodes.length ? CheckMonth.childNodes[0].nodeValue : '';
-			if (Month[i]=="") Month [i] = "00"
+                var CheckMonth = XMLQuakeList.getElementsByTagName("mese")[i];
+                Month[i] = CheckMonth.childNodes.length ? CheckMonth.childNodes[0].nodeValue : '';
+                if (Month[i]=="") Month [i] = "00"
 
-			var CheckDay = XMLQuakeList.getElementsByTagName("giorno")[i];
-			Day[i] = CheckDay.childNodes.length ? CheckDay.childNodes[0].nodeValue : '';
-			if (Day[i]=="") Day [i] = "00"
+                var CheckDay = XMLQuakeList.getElementsByTagName("giorno")[i];
+                Day[i] = CheckDay.childNodes.length ? CheckDay.childNodes[0].nodeValue : '';
+                if (Day[i]=="") Day [i] = "00"
 
-			TimeLabel[i] =  XMLQuakeList.getElementsByTagName("time_label")[i].childNodes[0].nodeValue;
+                TimeLabel[i] =  XMLQuakeList.getElementsByTagName("time_label")[i].childNodes[0].nodeValue;
 
-			var CheckHour =  XMLQuakeList.getElementsByTagName("ora")[i];
-			Hour[i] = CheckHour.childNodes.length ? CheckHour.childNodes[0].nodeValue : '';
-			if (Hour[i]=="-9" || Hour[i]=="" ) Hour[i] = 0;
+                var CheckHour =  XMLQuakeList.getElementsByTagName("ora")[i];
+                Hour[i] = CheckHour.childNodes.length ? CheckHour.childNodes[0].nodeValue : '';
+                if (Hour[i]=="-9" || Hour[i]=="" ) Hour[i] = 0;
 
-			var CheckMinu = XMLQuakeList.getElementsByTagName("minu")[i];
-			Minu[i] = CheckMinu.childNodes.length ? CheckMinu.childNodes[0].nodeValue : '';
-			if (Minu[i]=="-9" || Minu[i]=="" ) Minu [i] = 0;
+                var CheckMinu = XMLQuakeList.getElementsByTagName("minu")[i];
+                Minu[i] = CheckMinu.childNodes.length ? CheckMinu.childNodes[0].nodeValue : '';
+                if (Minu[i]=="-9" || Minu[i]=="" ) Minu [i] = 0;
 
-			var CheckSec = XMLQuakeList.getElementsByTagName("sec")[i];
-			Sec[i] = CheckSec.childNodes.length ? CheckSec.childNodes[0].nodeValue : '';
-			if (Sec[i]=="-9" || Sec[i]=="" ) Sec[i] = 0;
+                var CheckSec = XMLQuakeList.getElementsByTagName("sec")[i];
+                Sec[i] = CheckSec.childNodes.length ? CheckSec.childNodes[0].nodeValue : '';
+                if (Sec[i]=="-9" || Sec[i]=="" ) Sec[i] = 0;
 
-			Lat[i] = parseFloat(XMLQuakeList.getElementsByTagName("lat")[i].childNodes[0].nodeValue).toFixed(3);
-			Lon[i] = parseFloat(XMLQuakeList.getElementsByTagName("lon")[i].childNodes[0].nodeValue).toFixed(3);
-			fIS[i] = parseFloat(XMLQuakeList.getElementsByTagName("intpqnum")[i].childNodes[0].nodeValue);
-			sISrom[i] = XMLQuakeList.getElementsByTagName("intpq")[i].childNodes[0].nodeValue;
-			// da decidere questo:
-			//if (sISrom[i] == 'F') fIS[i] = 1;
+                Lat[i] = parseFloat(XMLQuakeList.getElementsByTagName("lat")[i].childNodes[0].nodeValue).toFixed(3);
+                Lon[i] = parseFloat(XMLQuakeList.getElementsByTagName("lon")[i].childNodes[0].nodeValue).toFixed(3);
+                fIS[i] = parseFloat(XMLQuakeList.getElementsByTagName("intpqnum")[i].childNodes[0].nodeValue);
+                sISrom[i] = XMLQuakeList.getElementsByTagName("intpq")[i].childNodes[0].nodeValue;
+                // da decidere questo:
+                //if (sISrom[i] == 'F') fIS[i] = 1;
 
-			if (fIS[i] == 9.1) fIS[i] = 9;
-			if (fIS[i] == 8.2) fIS[i] = 8;
-			if (fIS[i] == 8.1) fIS[i] = 8;
-			if (fIS[i] == 6.1) fIS[i] = 6;
-			if (fIS[i] == 6.6) fIS[i] = 6.5;
-			if (fIS[i] == 4.6) fIS[i] = 4.5;
-			if (fIS[i] == 5.1) fIS[i] = 5;
+                if (fIS[i] == 9.1) fIS[i] = 9;
+                if (fIS[i] == 8.2) fIS[i] = 8;
+                if (fIS[i] == 8.1) fIS[i] = 8;
+                if (fIS[i] == 6.1) fIS[i] = 6;
+                if (fIS[i] == 6.6) fIS[i] = 6.5;
+                if (fIS[i] == 4.6) fIS[i] = 4.5;
+                if (fIS[i] == 5.1) fIS[i] = 5;
 
-			if (sISrom[i] == 'G') fIS[i] = 0.9;
-			if (sISrom[i] == 'NF') fIS[i] = 0.8;
-			if (sISrom[i] == 'NC') fIS[i] = 0.7;
-			if (sISrom[i] == 'N') fIS[i] = 0.6;
-			if (sISrom[i] == 'A') sISrom[i] = 'A(IX)';
-			if (sISrom[i] == 'B') sISrom[i] = 'B(VIII)';
-			if (sISrom[i] == 'C') sISrom[i] = 'C(VIII)';
-			if (sISrom[i] == 'E') sISrom[i] = 'E(VI-VII)';
-			if (sISrom[i] == 'D') sISrom[i] = 'D(VI)';
-			if (sISrom[i] == 'S') sISrom[i] = 'S(V)';
-			if (sISrom[i] == 'F') sISrom[i] = 'F(IV-V)';
+                if (sISrom[i] == 'G') fIS[i] = 0.9;
+                if (sISrom[i] == 'NF') fIS[i] = 0.8;
+                if (sISrom[i] == 'NC') fIS[i] = 0.7;
+                if (sISrom[i] == 'N') fIS[i] = 0.6;
+                if (sISrom[i] == 'A') sISrom[i] = 'A(IX)';
+                if (sISrom[i] == 'B') sISrom[i] = 'B(VIII)';
+                if (sISrom[i] == 'C') sISrom[i] = 'C(VIII)';
+                if (sISrom[i] == 'E') sISrom[i] = 'E(VI-VII)';
+                if (sISrom[i] == 'D') sISrom[i] = 'D(VI)';
+                if (sISrom[i] == 'S') sISrom[i] = 'S(V)';
+                if (sISrom[i] == 'F') sISrom[i] = 'F(IV-V)';
 
-			Imax[i] = parseFloat(XMLQuakeList.getElementsByTagName("imax")[i].childNodes[0].nodeValue);
-			if (Imax[i] == 9.1) Imax[i] = 9;
-			if (Imax[i] == 8.2) Imax[i] = 8;
-			if (Imax[i] == 8.1) Imax[i] = 8;
-			if (Imax[i] == 6.1) Imax[i] = 6;
-			if (Imax[i] == 6.6) Imax[i] = 6.5;
-			if (Imax[i] == 4.6) Imax[i] = 4.5;
-			if (Imax[i] == 5.1) Imax[i] = 5;
-			Io[i] = parseFloat(XMLQuakeList.getElementsByTagName("io")[i].childNodes[0].nodeValue);
+                Imax[i] = parseFloat(XMLQuakeList.getElementsByTagName("imax")[i].childNodes[0].nodeValue);
+                if (Imax[i] == 9.1) Imax[i] = 9;
+                if (Imax[i] == 8.2) Imax[i] = 8;
+                if (Imax[i] == 8.1) Imax[i] = 8;
+                if (Imax[i] == 6.1) Imax[i] = 6;
+                if (Imax[i] == 6.6) Imax[i] = 6.5;
+                if (Imax[i] == 4.6) Imax[i] = 4.5;
+                if (Imax[i] == 5.1) Imax[i] = 5;
+                Io[i] = parseFloat(XMLQuakeList.getElementsByTagName("io")[i].childNodes[0].nodeValue);
 
-			iNP[i] = XMLQuakeList.getElementsByTagName("npun")[i].childNodes[0].nodeValue;
-			Me[i] = parseFloat(XMLQuakeList.getElementsByTagName("mm")[i].childNodes[0].nodeValue);
-			Location[i] = XMLQuakeList.getElementsByTagName("earthquakelocation")[i].childNodes[0].nodeValue;
-			Country[i] = XMLQuakeList.getElementsByTagName("country")[i].childNodes[0].nodeValue;
+                iNP[i] = XMLQuakeList.getElementsByTagName("npun")[i].childNodes[0].nodeValue;
+                Me[i] = parseFloat(XMLQuakeList.getElementsByTagName("mm")[i].childNodes[0].nodeValue);
+                Location[i] = XMLQuakeList.getElementsByTagName("earthquakelocation")[i].childNodes[0].nodeValue;
+                Country[i] = XMLQuakeList.getElementsByTagName("country")[i].childNodes[0].nodeValue;
 
-			FlagcommentsLOC[i] = XMLQuakeList.getElementsByTagName("flagcomments")[i].childNodes[0].nodeValue;
-			FlagFalse[i] = XMLQuakeList.getElementsByTagName("flagfalseeq")[i].childNodes.length ? true : false;
+                FlagcommentsLOC[i] = XMLQuakeList.getElementsByTagName("flagcomments")[i].childNodes[0].nodeValue;
+                FlagFalse[i] = XMLQuakeList.getElementsByTagName("flagfalseeq")[i].childNodes.length ? true : false;
 
-			//verifico la lunghezza del campo, perchè se è vuoto il "nodeValue" restituisce errore
-			var flagET = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes.length;
-			if (flagET > 0) {
-				Epicenter[i] = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes[0].nodeValue;
-			} else {
-				Epicenter[i] = "Local effects"
-			};
-
-			if (FlagcommentsLOC[i] == 4) {
-				D1commLOC[i] = XMLQuakeList.getElementsByTagName("D1")[i].childNodes[0].nodeValue;
-				D1commLOCAbbr[i] = D1commLOC[i];
-
-			} else if (FlagcommentsLOC[i] == 2) {
-				D1commLOC[i] = '<span class="flag2descr">' + flag2descr[Langsel] + '</span>'
-				D1commLOCAbbr[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
-			}
-			else if (FlagcommentsLOC[i] == 3) {
-				D1commLOC[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
-				D1commLOCAbbr[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
-			}
-			else if (FlagcommentsLOC[i] == 1 || FlagcommentsLOC[i] == 5) {
-				D1commLOC[i] = '<span class="flag1descr">' + flag1descr[Langsel] + '</span>'
-				D1commLOCAbbr[i] = '<span class="flag1descr">' + flag1descr[Langsel] + '</span>'
-			}
-			else {
-				D1commLOC[i] = ''
-				D1commLOCAbbr[i] = "";
-			}
-
-			// ------- EE EFFECTS
-			E1commLOC[i] = '';
-			E1listLOC[i] = '';
-			flagEEloc[i] = 0;
-			E1listExport[i]='';
-			var EEflagExport = '-';
-
-			// create all EE comments at locality (for all events) when locality already in PQ
-			for(var k = 0; k < EE_nperiodLOC.length; k++){
-				var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[k])]
-				if (EE_nperiodLOC[k] == Nperiod[i]){
-					if (E1listExport[i]==''){
-						E1listExport[i] = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[k])];
-					} else {
-						E1listExport[i] = E1listExport[i] + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[k])];
-					}
-					E1listLOC[i] = E1listLOC[i] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[k] + '.png" width= "18" /></td><td><span class="' + EE_codeffLOC[k] + '_IW">' +  abbrEEtype  + "</span></td></tr>"
-
-					// check if EE associated to NTERR or NPERIOD - set full dots or circles and remove effect of other nterrs
-					if (EE_nterrLOC[k].length==5) {
-						if (EE_nterrLOC[k] == Nterr[i]) {
-							symbolEE[i] = '<img src="images/EE/00_NT.png" width="15px">'
-							EEflagExport = E1listExport[i] + ' [Effect(s) associated with single earthquake]';
-
-							// flag used later for green color at locality
-							flagEEloc[i] = 1;
-							E1commLOC[i] = EE_commLOC[k];
-						} else {
-							E1listLOC[i] = '';
-
-						}
-					} else {
-						symbolEE[i] = '<img src="images/EE/00_NP.png" width="15px">'
-						EEflagExport = E1listExport[i] + ' [Effect(s) associated with entire earthquake sequence]';
-						flagEEloc[i] = 1; // flag used later for green color at locality
-						E1commLOC[i] = EE_commLOC[k];
-					}
-				}
-			}
-
-			var intN;
-			if (fIS[i] < 1) {
-				intN = 0;
-			} else {
-				intN = fIS[i];
-			}
-
-			var intR;
-			switch (sISrom[i]) {
-				case "S(V)":
-					intR ="S(V) (strongly felt, but lacking evidence to support or deny the occurrence of damage)";
-					break;
-				case "F(IV-V)":
-					intR ="F(IV-V) (felt)";
-					break;
-				case "NF":
-					intR ="NF (not felt)";
-					break;
-				case "N":
-					intR ="N (no evidence found in contemporary sources)";
-					break;
-				case "NC":
-					intR ="NC (unrated)";
-					break;
-				case "G":
-					intR ="G (generic indication of damage at a specific site)";
-					break;
-				case "A(IX)":
-					intR ="A(IX) (collapse or extensive damage to the load bearing walls on a single building)";
-					break;
-				case "B(VIII)":
-					intR ="B(VIII) (collapse of the top portion - lantern, dome, gable, etc. - on a single building)";
-					break;
-				case "C(VIII)":
-					intR ="C(VIII) (partial collapse of the roof, vaults, apsidal vault, etc. on a single building)";
-					break;
-				case "D(VI)":
-					intR ="D(VI) (falling eaves, cracking of the external walls on a single building)";
-					break;
-				case "E(VI-VII)":
-					intR ="E(VI-VII) (report of generic damage on a single building)";
-					break;
-				default:
-					intR = sISrom[i];
-			}
-
-			//Export variableTXT
-			ExportText = ExportText + intN + ';' + intR + ';' + EEflagExport + ';' + DateLabel[i] + ';' + TimeLabel[i] + ';' + Io[i] + ';' + Imax[i] + ';' + iNP[i] + ';' + Me[i] + ';' + Lat[i] + ';' + Lon[i] + ';' + Location[i] + CarRet;
-
-			//Export variableKML
-			ExportKmlR = ExportKmlR + "<Placemark> <name>" + DateLabel[i] + " - " + Location[i] + " (" + intR + ")</name>" + CarRet + "<description><![CDATA["
-			ExportKmlR = ExportKmlR + "MCS intensity at " + sLoctot + ": <b>" + intR + "</b><br><br>Effects on natural environment at " + sLoctot + ": <b>" + EEflagExport + "</b><br><hr><br>Date: <b>" + DateLabel[i] + "</b> Time: <b>" + TimeLabel[i]  + "</b> <br>Epicentral Area: <b>" + Location[i] + "</b><br><b>" + Epicenter[i] + "</b> (Lat.: <b>" + Lat[i] + "</b> - Lon.: <b>" + Lon[i] + "</b>) <br><br>Io (Epicentral intensity - MCS scale): <b>" + Io[i] + "</b> <br>Imax (Maximum intensity - MCS scale): <b>" + Imax[i] + "</b> <br>Me (Equivalent magnitude): <b>" + Me[i] + "</b> <br>NMO (Number of Macroseismic Observations): <b>" + iNP[i] + "</b><br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/quake.php?" + Nterr[i] + "EN" + virg + ">Earthquake page </a></b>"
-			ExportKmlR = ExportKmlR + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + Lon[i] + "</longitude>" + CarRet + "<latitude>" + Lat[i] + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#" + Nterr[i] + "</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ Lon[i] + ","+ Lat[i] + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>"
-
-		}
-	} else Nperiod = '' // if locality has no quakes (not present in any PQ). Then in the next loop, EE are found
-
-
-
-
-	//  ======   EE WHEN LOCALITY NOT IN PQ (events not in the list contained in xml, read in the loop before)
-
-	// create EE comments for EE when locality NOT in PQ: add line to table if EE associated to nterr,
-	// or create new table if EE associated to nperiod
-
-	// NUOVO LOOP, indipendente dalla presenza o meno di terremoti nell'xml della località (serve a trovare terremoti con effetti ambientali non in XML)
-	// new loop needed, otherwise I don't have the complete list of events at locality, to look for EE for events not in that list (EE for which the locality is has no PQ intensity)
-
-	var tbodyNP = document.getElementById('Loc_info_NP_data');
-	var tableNPline = '';
-	var EmoreIn = Nterr.length;
-	var NperiodMoreDone = [];
-	var NterrMoreDone = [];
-	var s = 0;
-
-
-
-	for(var k = 0; k < EE_nperiodLOC.length; k++){
-		// entra qui solo se è un nperiod nuovo
-		if (Nperiod.indexOf(EE_nperiodLOC[k]) == -1 && NperiodMoreDone.indexOf(EE_nperiodLOC[k])== -1 && NterrMoreDone.indexOf(EE_nterrLOC[k]) == -1) { // if EEnperiod not among quakes of locality (XML) and if it's a new nperiod (cioè se son già passata quyi dentro con lo stesso nperiod, perchè ci sono più EE per lo stesso NP)
-
-			// ----------------     GET ALL INFORMATION ABOUT EARTHQUAKE FROM EQ LIST PREVIOUSLY PARSED
-			// EE associato a NTERR
-			if (EE_nterrLOC[k].length == 5){
-
-				var newNpIn = NterrALLEQ.indexOf(EE_nterrLOC[k])
-
-				Nterr[EmoreIn] = NterrALLEQ[newNpIn]
-				Nperiod[EmoreIn] = NperiodALLEQ[newNpIn]
-				xmlServicePQ[EmoreIn] = xmlServicePQ_ALLEQ[newNpIn]
-				Epicenter[EmoreIn] = EpicenterALLEQ[newNpIn]
-				Year[EmoreIn] = YearALLEQ[newNpIn]
-				DateLabel[EmoreIn] = DateLabelALLEQ[newNpIn]
-				Day[EmoreIn] = DayALLEQ[newNpIn]
-				Month[EmoreIn] = MonthALLEQ[newNpIn]
-				TimeLabel[EmoreIn] = TimeLabelALLEQ[newNpIn]
-				Hour[EmoreIn] = HourALLEQ[newNpIn]
-				Minu[EmoreIn] = MinuALLEQ[newNpIn]
-				Sec[EmoreIn] = SecALLEQ[newNpIn]
-				Location[EmoreIn] = LocationALLEQ[newNpIn];
-				Country[EmoreIn] = CountryALLEQ[newNpIn]
-				Lat[EmoreIn] = LatALLEQ[newNpIn]
-				Lon[EmoreIn] = LonALLEQ[newNpIn]
-				Io[EmoreIn] = IoALLEQ[newNpIn]
-				Imax[EmoreIn] = ImaxALLEQ[newNpIn]
-				Me[EmoreIn] = MeALLEQ[newNpIn]
-				iNP[EmoreIn] = iNP_ALLEQ[newNpIn]
-
-				// get all EE for each earthquake
-				var indexes = getAllIndexes(EE_nterrLOC, EE_nterrLOC[k]);
-				E1listLOC[EmoreIn] = '';
-				E1listExport[EmoreIn] = '';
-				for (var ind = 0; ind < indexes.length; ind++) {
-
-					var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-					if (E1listExport[EmoreIn]==''){
-						E1listExport[EmoreIn] = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-
-					} else {
-						E1listExport[EmoreIn] = E1listExport[EmoreIn] + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-					}
-
-                    E1listLOC[EmoreIn] = E1listLOC[EmoreIn] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
+                //verifico la lunghezza del campo, perchè se è vuoto il "nodeValue" restituisce errore
+                var flagET = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes.length;
+                if (flagET > 0) {
+                    Epicenter[i] = XMLQuakeList.getElementsByTagName("epicenter_type")[i].childNodes[0].nodeValue;
+                } else {
+                    Epicenter[i] = "Local effects"
                 };
 
-				E1listExport[EmoreIn] = E1listExport[EmoreIn] + ' [Effect(s) associated with single earthquake]';
-
-				// full dot for EE related to nterr
-				symbolEE[EmoreIn] = '<img src="images/EE/00_NT.png" width="15px">'
-				//
-				E1commLOC[EmoreIn] = EE_commLOC[k];
-				D1commLOC[EmoreIn] = '';
-				sISrom[EmoreIn] = '';
-				fIS[EmoreIn] = 1;
-
-				//Export variableTXT
-				ExportText = ExportText + '0' + ';' + '-' + ';' + E1listExport[EmoreIn] + ';' + DateLabel[EmoreIn] + ';' + TimeLabel[EmoreIn] + ';' + Io[EmoreIn] + ';' + Imax[EmoreIn] + ';' + iNP[EmoreIn] + ';' + Me[EmoreIn] + ';' + Lat[EmoreIn] + ';' + Lon[EmoreIn] + ';' + Location[EmoreIn] + CarRet;
-
-				//Export variableKML
-				ExportKmlR = ExportKmlR + "<Placemark> <name>" + DateLabel[EmoreIn] + " - " + Location[EmoreIn] + "</name>" + CarRet + "<description><![CDATA["
-				ExportKmlR = ExportKmlR + "MCS intensity at " + sLoctot + ": <b> - </b><br><br>Effects on natural environment at " + sLoctot + ": <b>" + E1listExport[EmoreIn] + "</b><br><hr><br>Date: <b>" + DateLabel[EmoreIn] + "</b> Time: <b>" + TimeLabel[EmoreIn]  + "</b> <br>Epicentral Area: <b>" + Location[EmoreIn] + "</b><br><b>" + Epicenter[EmoreIn] + "</b> (Lat.: <b>" + Lat[EmoreIn] + "</b> - Lon.: <b>" + Lon[EmoreIn] + "</b>) <br><br>Io (Epicentral intensity - MCS scale): <b>" + Io[EmoreIn] + "</b> <br>Imax (Maximum intensity - MCS scale): <b>" + Imax[EmoreIn] + "</b> <br>Me (Equivalent magnitude): <b>" + Me[EmoreIn] + "</b> <br>NMO (Number of Macroseismic Observations): <b>" + iNP[EmoreIn] + "</b><br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/quake.php?" + Nterr[EmoreIn] + "EN" + virg + ">Earthquake page </a></b>"
-				ExportKmlR = ExportKmlR + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + Lon[EmoreIn] + "</longitude>" + CarRet + "<latitude>" + Lat[EmoreIn] + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#" + Nterr[EmoreIn] + "</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ Lon[EmoreIn] + ","+ Lat[EmoreIn] + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>"
-
-				// incrementa indice solo se cambia nperiod! 1 riga per ogni terremoto (ma con molteplici EE)
-				EmoreIn = EmoreIn + 1;
-
-
-
-			// ----- EE associato a NPERIOD
-			} else {
-
-
-				if (Nperiod == ''){
-					// flag per accendere solo tabella NPERIOD
-					flagtableNT = 0;
-					flagtableNP = 1;
-
-				} else {
-					// flag per accendere sia tabella NPERIOD sia NTERR
-					// flagtableNT = 1;
-					flagtableNP = 1;
-
-				}
-
-				var indNP = NperiodALLEQ.indexOf(EE_nperiodLOC[k])
-				var EEdateEx = '';
-				var EEdate = '';
-				var EEtime = '';
-				var EEIo = '';
-				var EEMe = '';
-				var EENterrButt = '';
-				var EQlink = '';
-				var EEepArea = '';
-				var E1listNP ='';
-				var EEImax = '';
-				var EELat = '';
-				var EELon = '';
-				var EEiNP = '';
-				while (indNP != -1){
-					var NterrNP = NterrALLEQ[indNP];
-					var QuakePage = createQuakePageLink(window.location.href, NterrALLEQ[indNP], 'locality')
-					EEdateEx = EEdateEx + DateLabelALLEQ[indNP] + '<br />'
-					EEdate = EEdate + DateLabelALLEQ[indNP] + ' &nbsp &nbsp<span class="linkIW"><abbr class= "quakePageLink" title= ""> <a href="' + QuakePage + '" target="_blank" onclick="window.open(this.href + Langsel)"><img src="images/link2.png" width= "10" vertical-align="middle"/></a></abbr></span><br />'
-					EEtime = EEtime + TimeLabelALLEQ[indNP] + '<br />'
-					EEIo = EEIo + IoALLEQ[indNP]+ '<br />'
-					EEMe = EEMe + MeALLEQ[indNP]+ '<br />'
-					EEImax = EEImax + ImaxALLEQ[indNP]+ '<br />'
-					EELat = EELat + LonALLEQ[indNP]+ '<br />'
-                    EELon = EELon + LatALLEQ[indNP]+ '<br />'
-					EEiNP = EEiNP + iNP_ALLEQ[indNP]+ '<br />'
-					EENterrButt = EENterrButt + '<div id ="' +NterrNP + '" class = "NPtableBackgrounDiv"><a type = "button" class="more"><img src="images/gm.png" width="11px" onclick="showPQ(NterrALLEQ['+indNP+'])"></a></div>'
-					 EEepArea = EEepArea + LocationALLEQ[indNP] + '<br />'
-
-					indNP = NperiodALLEQ.indexOf(EE_nperiodLOC[k], indNP+1)
-				}
-
-				// get all EE for each nperiod
-				var EEListExport = '';
-				var indexes = getAllIndexes(EE_nperiodLOC, EE_nperiodLOC[k]);
-				for (var ind = 0; ind < indexes.length; ind++) {
-					var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-
-					if (EEListExport==''){
-						EEListExport = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-
-					} else {
-						EEListExport = EEListExport + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
-					}
-
-                    E1listLOC[EmoreIn] = E1listLOC[EmoreIn] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
-
-					E1listNP = E1listNP + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
-				};
-
-				EEListExport = EEListExport + ' [Effect(s) associated with entire earthquake sequence]';
-
-				tableNPline = tableNPline + '<tr><td class="nat">' + '<div class="EEContainer">' + '<img src="images/EE/00_NP.png" width="15px">' + '<span class="tooltiptext_EE"><table>' + E1listNP + '</table></span></div>' + '</td><td class="dateNP">' + EEdate + '</td><td class="time">' + EEtime + '</td><td class="me">' + EEMe + '</td><td class="io">' + EEIo +'</td><td class="locationNP">' + EEepArea +'</td>'
-				+ '</td><td class="mapbut">' + EENterrButt + '</td></tr>'
-
-				//Export variableTXT
-				ExportText = ExportText + '0' + ';' + '-' + ';' + EEListExport + ';' + String.fromCharCode(34) + EEdateEx + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEtime + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEIo + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEImax + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEiNP + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEMe + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EELat + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EELon + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEepArea + String.fromCharCode(34) + CarRet;
-
-				//Export variableKML
-				//Impossibile esportare gli NPERIOD come punti e quindi non si vedono in mappa KML xome in Google Maps sul sito, da segnalare nell'HELP!
-
-			}
-			NperiodMoreDone[s] = EE_nperiodLOC[k];
-			NterrMoreDone[s] = EE_nterrLOC[k];
-			console.log(NperiodMoreDone[s]);
-			console.log(NterrMoreDone[s]);
-			s++
-
-		}
-	}
-
-	resizeTable(flagtableNT, flagtableNP)
-
-	//replace <br /> with "line feed"
-	var regBR = new RegExp("<br " + String.fromCharCode(47) + ">", "g");
-	ExportText = ExportText.replace(regBR,String.fromCharCode(10));
-
-	tbodyNP.innerHTML = tableNPline;
-	// }
-
-	if(DateLabel.length > 0){
-		for (var i = 0; i < DateLabel.length; i++){  // new loop because the amount of EQ may have changed if more event have been found in the EE table (for events that have EE but no PQ intensity at the locality - so they do not appear in the locality XML, that is based on PQs)
-
-			//   --------------------------------------------  Epincenter type: FALSE   ---------------------------------------------------------
-			if (FlagFalse[i]) {
-				Star = { path: google.maps.SymbolPath.CIRCLE, strokeColor: "#000000", scale: 4, strokeWeight: 3 };
-				EpiIcon="F";
-				//   --------------------------------------------  Epincenter type: NOT PARAMETERIZED   ---------------------------------------------------------
-			} else if (Epicenter[i] == "Not parameterized"){
-					var EpicenterITA = "Non parametrizzato";
-					var EpicenterENG = Epicenter[i];
-					Star = { path: google.maps.SymbolPath.CIRCLE, strokeColor: "#000000", fillColor: "#000000", fillOpacity: 1, scale: 3};
-					EpiIcon="NP";
-				//   --------------------------------------------  Epincenter type: CALCULATED   ---------------------------------------------------------
-				} else {
-
-				if (Epicenter[i] == "Calculated epicentre"){
-					var EpicenterITA = "Epicentro calcolato";
-					var EpicenterENG = Epicenter[i];
-
-					if(9.5 < Io[i]) {Star = {path: EPIpathCALC, fillColor: color4, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale: StarScale4}; EpiIcon="C_9.5"};
-			        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: EPIpathCALC, fillColor: color3, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale3}; EpiIcon="C_8"};
-			        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: EPIpathCALC, fillColor: color2, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale2}; EpiIcon="C_6"};
-			        if(6 > Io[i] ) {Star = {path: EPIpathCALC, fillColor: color1, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale1}; EpiIcon="C_6"};
-
-				//   --------------------------------------------  Epincenter type: LOCAL EFFECTS  ---------------------------------------------------------
-				} else if (Epicenter[i] == "Local effects"){
-					EpicenterITA = "Singola località";
-					EpicenterENG= Epicenter[i];
-
-					if(9.5 < Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale4, fillColor: color4, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_9.5"};
-			        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale3, fillColor: color3, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_8"};
-			        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale2, fillColor: color2, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_6"};
-			        if(6 > Io[i] ) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale1, fillColor: color1, fillOpacity: 1, strokeWeight: 5, strokeColor: "#000000" }; EpiIcon="L_4"};
-
-				//   --------------------------------------------  Epincenter type: AREA   ---------------------------------------------------------
-			} else if (Epicenter[i] == "Region, area"){
-					EpicenterITA = "Regione, area";
-					EpicenterENG= Epicenter[i];
-
-					if(9.5 < Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale4, strokeColor: color4, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_9.5"};
-			        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale3, strokeColor: color3, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_8"};
-			        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale2, strokeColor: color2, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_6"};
-			        if(6 > Io[i] ) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale1, strokeColor: color1, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_4"};
-
-				 //--------------------------------------------  Epincenter type: Hypothetical  ---------------------------------------------------------
-				} else if (Epicenter[i] == "Hypothetical"){
-					EpicenterITA = "Ipotizzata";
-					EpicenterENG= Epicenter[i];
-
-					if(9.5 < Io[i]) {Star = {path: EPIpathCALC, strokeColor: color4, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale: StarScale4}; EpiIcon="H_9.5"};
-			        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: EPIpathCALC, strokeColor: color3, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale3}; EpiIcon="H_8"};
-			        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: EPIpathCALC, strokeColor: color2, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale2}; EpiIcon="H_6"};
-			        if(6 > Io[i] ) {Star = {path: EPIpathCALC, strokeColor: color1, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale1}; EpiIcon="H_4"};
-				};
-			};
-
-			//Star = {path: EPIpathCALC,
-			// 		  strokeColor: color1,
-			// 		  strokeOpacity: 1, anchor: new google.maps.Point(125,125),
-			// 		  strokeWeight: 2,
-			// 		  scale:StarScale1}
-			
-			//var cerchio = `<svg viewBox="0 0 250 250"   {height} {width} xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="40" {stroke} {widthS} {fill} /></svg>`;
-			var cerchio = `<svg viewBox="0 0 100 100"  {height} {width}  xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="40" cy="50" r="40"  {stroke} {widthS} {fill}  /></svg>`;
-			var stella = `<svg viewBox="0 0 250 250" {height} {width} xmlns="http://www.w3.org/2000/svg" version="1.1"><path d="M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z" {fill} {stroke} {widthS} /></svg>`;
-			var compiled;
-
-			var singleFeature = new ol.Feature({
-				id: i,
-				geometry:new ol.geom.Point(new ol.proj.fromLonLat([Lon[i], Lat[i]])), //new ol.geom.Point([ Lon[i], Lat[i]]),
-				type: "quakes",
-				title: DateLabel[i],
-				OnClickTextIT : ""
-			});
-			var strokeString = new String();
-			var strokeWidthString = new String();
-			var fillString = new String()
-
-			//template replace dei parametri nella stringa svg
-			if  ( Star.path === google.maps.SymbolPath.CIRCLE ) {
-				px =8 * Star.scale / 8;
-				compiled = template(cerchio, {
-					stroke:  (Star.strokeColor!== undefined) ? String().concat("stroke=\"",Star.strokeColor,'\"'): undefined ,
-					widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"",Star.strokeWeight,'\"'): undefined,
-					fill:	(Star.fillColor!== undefined) ? String().concat("fill=\"",Star.fillColor,'\"'): undefined,
-					height: String().concat("height=\"",'2.5px','\"'),
-					width: String().concat("width=\"",'2.5px','\"')
-				});
-				singleFeature.values_.type = "areaOrRegion";
-				console.log("singleFeature.values_.type = \"areaOrRegion\";");
-				//console.log(singleFeature);
-			}
-			else  if ( Star.path === EPIpathCALC)
-			{
-				//console.log("Star.path" + Star.path);
-				//px =8 * Star.scale / 8;
-				compiled = template(stella, {
-					stroke:  (Star.strokeColor!== undefined) ? String().concat("stroke=\"",Star.strokeColor,'\"'): String().concat("stroke=\"","#000000",'\"') ,
-					//widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"",Star.strokeWeight,'\"'): String().concat("stroke-width=\"","5",'\"'),
-					widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"","5",'\"'): String().concat("stroke-width=\"","5",'\"'),
-					fill:	(Star.fillColor!== undefined) ? String().concat("fill=\"",Star.fillColor,'\"'): undefined,
-					height: String().concat("height=\"",'200px','\"'),
-					width: String().concat("width=\"",'200px','\"')
-				});
-			}
-			////VARIABILE DI LOG PER LEGGERE SVG DATA
-			//console.log(compiled);
-			//assegno la stringa svg parametrizzata
-			var workingSvg = compiled;
-			// console.log("STRINGA SVG PARAMETRIZZATA"+workingSvg);
-			var stileIcone = new ol.style.Style({
-				image: new ol.style.Icon({
-					opacity: Star.strokeOpacity, //parametro opacity
-					src: 'data:image/svg+xml;utf8,' + escape(workingSvg),
-					scale: Star.scale*1.15 //parametro scale moltiplicato per ingrandire le stelle
-				})
-			});
-			singleFeature.setStyle(stileIcone);
-
-
-			//replace in KML file after definition of icon
-			ExportKmlR = ExportKmlR.replace('#' + Nterr[i],'#' + EpiIcon);
-
-			var QuakePage = createQuakePageLink(window.location.href, Nterr[i], 'locality')
-
-			// =================   INFOWINDOWS FOR ALL EPICENTERS  =========================
-			// Information box that pops up on click (on marker or line of quakes table)
-
-			// FIX COMMENT REFERENCES
-  		  if (E1commLOC[i]!= ''){
-  			  E1commLOC_IT[i] = createREF(E1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
-  			  E1commLOC_EN[i] = createREF_EN(E1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
-  		  }
-  		  if (D1commLOC[i]!= ''){
-  			  D1commLOC_IT[i] = createREF(D1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
-  			  D1commLOC_EN[i] = createREF_EN(D1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
-  		  }
-
-			var titleLocEN = ['<div class="iw-title localityColor"><b>' + sLoctot + '</b> - MCS Intensity: '+ '<b>' + sISrom[i] +' </b></div>'];
-
-			var quakeDetailsEN = ['<div class="iw-title quakeColor">' + 'Date: <b>' + DateLabel[i] + '</b> Time: <b>' + TimeLabel[i] + '</b>' + ' Epicentral Area: <b>' +  Location[i] + '</b></div>',
-								'<div class= "EQinfoIW"><br /> Lat.: <b>' + Lat[i] + '</b> - ', 'Lon.: <b>' + Lon[i] + '</b><br />',
-								'Epicentral Intensity: <b>' + Io[i] + '</b><br />',
-								'Maximum Intensity: <b>' + Imax[i] + '</b><br />',
-								'Equivalent Magnitude: <b>' + Me[i] + '</b><br />',
-								'Number of Macroseismic Observations: <b>' + iNP[i] + '</b><br /><br />',
-								'<a href="' + QuakePage  + 'EN" target="_blank"> Earthquake page </a> <br /><br /></div>'].join('\n');
-			var CommAntrEN = ['<br /><span style="text-transform: uppercase;">Effects on the built environment: </span><br />',
-							'<div class="LocComm">' + D1commLOC_EN[i] + '<br /><br />',
-							'</div>'].join('\n')
-			var CommEnvEN = ['<span style="text-transform: uppercase;">Effects on the natural environment: </span><br />',
-							'<div class="LocComm"><p align="left"><table>'+ E1listLOC[i] + '</table></p><hr class="EEline">' + E1commLOC_EN[i] + '<br /></div>'].join('\n')
-
-			var titleLocIT = ['<div class="iw-title localityColor"><b>' + sLoctot + '</b> - Intensità MCS: '+ '<b>' + sISrom[i] +' </b></div>'];
-
-			var quakeDetailsIT = ['<div class="iw-title quakeColor">' + 'Data: <b>' + DateLabel[i] + '</b> Ora: <b>' + TimeLabel[i] + '</b>' + ' Area epicentrale: <b>' +  Location[i] + '</b></div>',
-							'<div class= "EQinfoIW"><br /> Lat.: <b>' + Lat[i] + '</b> - ',	'Lon.: <b>' + Lon[i] + '</b><br />',
-							'Intensità Epicentrale: <b>' + Io[i] + '</b><br />',
-							'Intensità Massima: <b>' + Imax[i] + '</b><br />',
-							'Magnitudo Equivalente: <b>' + Me[i] + '</b><br />',
-							'Numero di osservazioni macrosismiche: <b>' + iNP[i] + '</b><br /><br />',
-							'<a href="' + QuakePage + 'IT" target="_blank"> Pagina del terremoto </a> <br /><br /></div>'].join('\n');
-
-			var CommAntrIT = ['<br /><span style="text-transform: uppercase;">Effetti sul contesto antropico: </span><br />',
-							'<div class="LocComm">' + D1commLOC_IT[i] + '<br /><br />',
-							'</div>'].join('\n')
-			var CommEnvIT = ['<span style="text-transform: uppercase;">Effetti sull\'ambiente naturale: </span><br />',
-							'<div class="LocComm"><table>'+ E1listLOC[i] + '</table><hr class="EEline">' + E1commLOC_IT[i] + '<br /></div>'].join('\n')
-
-			// -- different types of infow. based on type of comments available for each quake
-			//if (Flagcomments[i] == 4) {
-			if (E1commLOC[i]!= '' && D1commLOC[i] != '') {
-				var OnClickTextEN = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsEN, titleLocEN, '<div class="commentsIW">', CommAntrEN, '<hr>', CommEnvEN,
-					'</div></div>' ].join('\n');
-
-				var OnClickTextIT = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsIT, titleLocIT, '<div class="commentsIW">', CommAntrIT, '<hr>', CommEnvIT,
-					'</div></div>' ].join('\n');
-
-			} else if (E1commLOC[i]== '' && D1commLOC[i] != '') {
-				var OnClickTextEN = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsEN, titleLocEN, '<div class="commentsIW">', CommAntrEN,
-					'</div></div>' ].join('\n');
-
-				var OnClickTextIT = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsIT, titleLocIT, '<div class="commentsIW">', CommAntrIT,
-					'</div></div>' ].join('\n');
-
-			} else if (E1commLOC[i]!= '' && D1commLOC[i] == '') {
-				var OnClickTextEN = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsEN, '<div class="iw-title localityColor"><b>' + sLoctot + '</b></div>', '<br />', '<div class="commentsIW">', CommEnvEN,
-					'</div></div>' ].join('\n');
-
-				var OnClickTextIT = [
-					// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-					quakeDetailsIT, '<div class="iw-title localityColor"><b>' + sLoctot + '</b></div>', '<br />', '<div class="commentsIW">', CommEnvIT,
-					'</div></div>' ].join('\n');
-			}
-
-
-
-			//-------    TEXT FOR EPICENTER POPUP WINDOW TO SHOW WHEN PQ IS ON
-			//           (without description of effects at locality) !!!!!!!!! NOT USED IN FACT   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-			EQ_textEN[i] = [
-				// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-				quakeDetailsEN,
-				'</div>' ].join('\n');
-
-			EQ_textIT[i] = [
-				// '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
-				quakeDetailsIT,
-				'</div>' ].join('\n');
-
-			indexEQ[i] = i;
-
-			/******TODO GESTIONE VISUALIZZAZIONE STELLE TERREMOTI CON OL*****/
-			singleFeature.OnClickTextIT = OnClickTextIT;
-
-			// l'ordine di openPopup e oms.addmarker (ora in showquakes) decide chi parte prima tra openpopup e spiderfy!!
-
-			/////TODO GESTIONE POPUP PASSA INFORMAZIONI OnClickTextEN e OnClickTextIT poi aggiunge delle info e infine il text assegnato e' nella variabile textIT
-			/////TODO infowindow.setContent(textIT);
-			openPopupSpider(singleFeature, OnClickTextEN, OnClickTextIT, Nterr[i], Lat[i], Lon[i]);
-			//onClickMarker(indexEQ[i], marker)
-			//TODO NEW Evento onclick con aggiunta di highlightBar sulla barra del grafico
-			onClickMarker(indexEQ[i], singleFeature);
-			epiMarkers.push(singleFeature);
-
-		}
-	}
-
-	// -----------------    Export variableKML
-	ExportKml = "";
-		jQuery.get('KML/locality_a.txt', function(data){
-			ExportKml = data;
-			ExportKml = ExportKml + "<Folder>"+ CarRet + "<name>CFTI5Med - Locality - " + sLoctot + "</name>"+ CarRet ;
-			ExportKml = ExportKml + "<open>1</open>"+ CarRet;
-			ExportKml = ExportKml + "<description>"+ CarRet;
-			ExportKml = ExportKml + "<![CDATA[<body><a href="+virg+"http://storing.ingv.it/cfti/cfti5/"+virg+"> <img src="+virg+"http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN"+virg+" alt="+virg+"Logo CFTI5Med"+virg+" height="+virg+"32px"+virg+"></a></body>]]>"+ CarRet;
-			ExportKml = ExportKml + "</description>"+ CarRet;
-			ExportKml = ExportKml + "</Folder>" + CarRet;
-			ExportKml = ExportKml + "<Folder><name>Locality</name>" + CarRet;
-			ExportKml = ExportKml + "<Placemark> <name>" + sLoctot + "</name>" + CarRet + "<description><![CDATA["
-			ExportKml = ExportKml + "<b>" + sLoctot + "</b><br><i>" + noteexp + "</i><br><br>Latitude: <b>" + locLat + "</b> <br>Longitude: <b>" + locLon + "</b> <br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/locality.php?" + nloc + "EN" + virg + ">Locality page </a></b>"+ CarRet;
-			ExportKml = ExportKml + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + locLon + "</longitude>" + CarRet + "<latitude>" + locLat + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#LOC</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ locLon + ","+ locLat + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>" + CarRet + "</Folder>"  + CarRet
-
-			ExportKml = ExportKml + "<Folder><name>Earthquakes</name>";
-
-			ExportKml = ExportKml + ExportKmlR;
-
-			jQuery.get('KML/locality_b.txt', function(dataB){
-				ExportKml = ExportKml + dataB;
-		})
-	})
-
-
-	showQuakes();
-	createTable();
-
-	// set page title
-	document.getElementById('title').innerHTML = 'CFTI5Med ' + sLoctot;
-
-	// set location title - max number of characters (without province) is 55
-	if (sLoctot.length > 48) document.getElementById('Intro').innerHTML = '<center><font size="2em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
-	else if (sLoctot.length > 46 && sLoctot.length < 49) document.getElementById('Intro').innerHTML = '<center><font size="3em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
-	else document.getElementById('Intro').innerHTML = '<center><font size="4em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
-
-	document.getElementById('WikiLink').innerHTML = '<abbr title= "Link alla pagina Wikipedia"><a href="https://it.wikipedia.org/wiki/' + desloc + '" target="_blank"> <img src="images/wiki.jpg" width= "25" vertical-align="-35px"/></a></abbr>';
+                if (FlagcommentsLOC[i] == 4) {
+                    D1commLOC[i] = XMLQuakeList.getElementsByTagName("D1")[i].childNodes[0].nodeValue;
+                    D1commLOCAbbr[i] = D1commLOC[i];
+
+                } else if (FlagcommentsLOC[i] == 2) {
+                    D1commLOC[i] = '<span class="flag2descr">' + flag2descr[Langsel] + '</span>'
+                    D1commLOCAbbr[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
+                }
+                else if (FlagcommentsLOC[i] == 3) {
+                    D1commLOC[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
+                    D1commLOCAbbr[i] = '<span class="flag3descr">' + flag3descr[Langsel] + '</span>'
+                }
+                else if (FlagcommentsLOC[i] == 1 || FlagcommentsLOC[i] == 5) {
+                    D1commLOC[i] = '<span class="flag1descr">' + flag1descr[Langsel] + '</span>'
+                    D1commLOCAbbr[i] = '<span class="flag1descr">' + flag1descr[Langsel] + '</span>'
+                }
+                else {
+                    D1commLOC[i] = ''
+                    D1commLOCAbbr[i] = "";
+                }
+
+                // ------- EE EFFECTS
+                E1commLOC[i] = '';
+                E1listLOC[i] = '';
+                flagEEloc[i] = 0;
+                E1listExport[i]='';
+                var EEflagExport = '-';
+
+                // create all EE comments at locality (for all events) when locality already in PQ
+                for(var k = 0; k < EE_nperiodLOC.length; k++){
+                    var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[k])]
+                    if (EE_nperiodLOC[k] == Nperiod[i]){
+                        if (E1listExport[i]==''){
+                            E1listExport[i] = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[k])];
+                        } else {
+                            E1listExport[i] = E1listExport[i] + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[k])];
+                        }
+                        E1listLOC[i] = E1listLOC[i] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[k] + '.png" width= "18" /></td><td><span class="' + EE_codeffLOC[k] + '_IW">' +  abbrEEtype  + "</span></td></tr>"
+
+                        // check if EE associated to NTERR or NPERIOD - set full dots or circles and remove effect of other nterrs
+                        if (EE_nterrLOC[k].length==5) {
+                            if (EE_nterrLOC[k] == Nterr[i]) {
+                                symbolEE[i] = '<img src="images/EE/00_NT.png" width="15px">'
+                                EEflagExport = E1listExport[i] + ' [Effect(s) associated with single earthquake]';
+
+                                // flag used later for green color at locality
+                                flagEEloc[i] = 1;
+                                E1commLOC[i] = EE_commLOC[k];
+                            } else {
+                                E1listLOC[i] = '';
+
+                            }
+                        } else {
+                            symbolEE[i] = '<img src="images/EE/00_NP.png" width="15px">'
+                            EEflagExport = E1listExport[i] + ' [Effect(s) associated with entire earthquake sequence]';
+                            flagEEloc[i] = 1; // flag used later for green color at locality
+                            E1commLOC[i] = EE_commLOC[k];
+                        }
+                    }
+                }
+
+                var intN;
+                if (fIS[i] < 1) {
+                    intN = 0;
+                } else {
+                    intN = fIS[i];
+                }
+
+                var intR;
+                switch (sISrom[i]) {
+                    case "S(V)":
+                        intR ="S(V) (strongly felt, but lacking evidence to support or deny the occurrence of damage)";
+                        break;
+                    case "F(IV-V)":
+                        intR ="F(IV-V) (felt)";
+                        break;
+                    case "NF":
+                        intR ="NF (not felt)";
+                        break;
+                    case "N":
+                        intR ="N (no evidence found in contemporary sources)";
+                        break;
+                    case "NC":
+                        intR ="NC (unrated)";
+                        break;
+                    case "G":
+                        intR ="G (generic indication of damage at a specific site)";
+                        break;
+                    case "A(IX)":
+                        intR ="A(IX) (collapse or extensive damage to the load bearing walls on a single building)";
+                        break;
+                    case "B(VIII)":
+                        intR ="B(VIII) (collapse of the top portion - lantern, dome, gable, etc. - on a single building)";
+                        break;
+                    case "C(VIII)":
+                        intR ="C(VIII) (partial collapse of the roof, vaults, apsidal vault, etc. on a single building)";
+                        break;
+                    case "D(VI)":
+                        intR ="D(VI) (falling eaves, cracking of the external walls on a single building)";
+                        break;
+                    case "E(VI-VII)":
+                        intR ="E(VI-VII) (report of generic damage on a single building)";
+                        break;
+                    default:
+                        intR = sISrom[i];
+                }
+
+                //Export variableTXT
+                ExportText = ExportText + intN + ';' + intR + ';' + EEflagExport + ';' + DateLabel[i] + ';' + TimeLabel[i] + ';' + Io[i] + ';' + Imax[i] + ';' + iNP[i] + ';' + Me[i] + ';' + Lat[i] + ';' + Lon[i] + ';' + Location[i] + CarRet;
+
+                //Export variableKML
+                ExportKmlR = ExportKmlR + "<Placemark> <name>" + DateLabel[i] + " - " + Location[i] + " (" + intR + ")</name>" + CarRet + "<description><![CDATA["
+                ExportKmlR = ExportKmlR + "MCS intensity at " + sLoctot + ": <b>" + intR + "</b><br><br>Effects on natural environment at " + sLoctot + ": <b>" + EEflagExport + "</b><br><hr><br>Date: <b>" + DateLabel[i] + "</b> Time: <b>" + TimeLabel[i]  + "</b> <br>Epicentral Area: <b>" + Location[i] + "</b><br><b>" + Epicenter[i] + "</b> (Lat.: <b>" + Lat[i] + "</b> - Lon.: <b>" + Lon[i] + "</b>) <br><br>Io (Epicentral intensity - MCS scale): <b>" + Io[i] + "</b> <br>Imax (Maximum intensity - MCS scale): <b>" + Imax[i] + "</b> <br>Me (Equivalent magnitude): <b>" + Me[i] + "</b> <br>NMO (Number of Macroseismic Observations): <b>" + iNP[i] + "</b><br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/quake.php?" + Nterr[i] + "EN" + virg + ">Earthquake page </a></b>"
+                ExportKmlR = ExportKmlR + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + Lon[i] + "</longitude>" + CarRet + "<latitude>" + Lat[i] + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#" + Nterr[i] + "</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ Lon[i] + ","+ Lat[i] + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>"
+
+            }
+        } else Nperiod = '' // if locality has no quakes (not present in any PQ). Then in the next loop, EE are found
+
+
+        //  ======   EE WHEN LOCALITY NOT IN PQ (events not in the list contained in xml, read in the loop before)
+
+        // create EE comments for EE when locality NOT in PQ: add line to table if EE associated to nterr,
+        // or create new table if EE associated to nperiod
+
+        // NUOVO LOOP, indipendente dalla presenza o meno di terremoti nell'xml della località (serve a trovare terremoti con effetti ambientali non in XML)
+        // new loop needed, otherwise I don't have the complete list of events at locality, to look for EE for events not in that list (EE for which the locality is has no PQ intensity)
+
+        var tbodyNP = document.getElementById('Loc_info_NP_data');
+        var tableNPline = '';
+        var EmoreIn = Nterr.length;
+        var NperiodMoreDone = [];
+        var NterrMoreDone = [];
+        var s = 0;
+
+
+        for(var k = 0; k < EE_nperiodLOC.length; k++){
+            // entra qui solo se è un nperiod nuovo
+            if (Nperiod.indexOf(EE_nperiodLOC[k]) == -1 && NperiodMoreDone.indexOf(EE_nperiodLOC[k])== -1 && NterrMoreDone.indexOf(EE_nterrLOC[k]) == -1) { // if EEnperiod not among quakes of locality (XML) and if it's a new nperiod (cioè se son già passata quyi dentro con lo stesso nperiod, perchè ci sono più EE per lo stesso NP)
+
+                // ----------------     GET ALL INFORMATION ABOUT EARTHQUAKE FROM EQ LIST PREVIOUSLY PARSED
+                // EE associato a NTERR
+                if (EE_nterrLOC[k].length == 5){
+
+                    var newNpIn = NterrALLEQ.indexOf(EE_nterrLOC[k])
+
+                    Nterr[EmoreIn] = NterrALLEQ[newNpIn]
+                    Nperiod[EmoreIn] = NperiodALLEQ[newNpIn]
+                    xmlServicePQ[EmoreIn] = xmlServicePQ_ALLEQ[newNpIn]
+                    Epicenter[EmoreIn] = EpicenterALLEQ[newNpIn]
+                    Year[EmoreIn] = YearALLEQ[newNpIn]
+                    DateLabel[EmoreIn] = DateLabelALLEQ[newNpIn]
+                    Day[EmoreIn] = DayALLEQ[newNpIn]
+                    Month[EmoreIn] = MonthALLEQ[newNpIn]
+                    TimeLabel[EmoreIn] = TimeLabelALLEQ[newNpIn]
+                    Hour[EmoreIn] = HourALLEQ[newNpIn]
+                    Minu[EmoreIn] = MinuALLEQ[newNpIn]
+                    Sec[EmoreIn] = SecALLEQ[newNpIn]
+                    Location[EmoreIn] = LocationALLEQ[newNpIn];
+                    Country[EmoreIn] = CountryALLEQ[newNpIn]
+                    Lat[EmoreIn] = LatALLEQ[newNpIn]
+                    Lon[EmoreIn] = LonALLEQ[newNpIn]
+                    Io[EmoreIn] = IoALLEQ[newNpIn]
+                    Imax[EmoreIn] = ImaxALLEQ[newNpIn]
+                    Me[EmoreIn] = MeALLEQ[newNpIn]
+                    iNP[EmoreIn] = iNP_ALLEQ[newNpIn]
+
+                    // get all EE for each earthquake
+                    var indexes = getAllIndexes(EE_nterrLOC, EE_nterrLOC[k]);
+                    E1listLOC[EmoreIn] = '';
+                    E1listExport[EmoreIn] = '';
+                    for (var ind = 0; ind < indexes.length; ind++) {
+
+                        var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+                        if (E1listExport[EmoreIn]==''){
+                            E1listExport[EmoreIn] = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+
+                        } else {
+                            E1listExport[EmoreIn] = E1listExport[EmoreIn] + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+                        }
+
+                        E1listLOC[EmoreIn] = E1listLOC[EmoreIn] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
+                    };
+
+                    E1listExport[EmoreIn] = E1listExport[EmoreIn] + ' [Effect(s) associated with single earthquake]';
+
+                    // full dot for EE related to nterr
+                    symbolEE[EmoreIn] = '<img src="images/EE/00_NT.png" width="15px">'
+                    //
+                    E1commLOC[EmoreIn] = EE_commLOC[k];
+                    D1commLOC[EmoreIn] = '';
+                    sISrom[EmoreIn] = '';
+                    fIS[EmoreIn] = 1;
+
+                    //Export variableTXT
+                    ExportText = ExportText + '0' + ';' + '-' + ';' + E1listExport[EmoreIn] + ';' + DateLabel[EmoreIn] + ';' + TimeLabel[EmoreIn] + ';' + Io[EmoreIn] + ';' + Imax[EmoreIn] + ';' + iNP[EmoreIn] + ';' + Me[EmoreIn] + ';' + Lat[EmoreIn] + ';' + Lon[EmoreIn] + ';' + Location[EmoreIn] + CarRet;
+
+                    //Export variableKML
+                    ExportKmlR = ExportKmlR + "<Placemark> <name>" + DateLabel[EmoreIn] + " - " + Location[EmoreIn] + "</name>" + CarRet + "<description><![CDATA["
+                    ExportKmlR = ExportKmlR + "MCS intensity at " + sLoctot + ": <b> - </b><br><br>Effects on natural environment at " + sLoctot + ": <b>" + E1listExport[EmoreIn] + "</b><br><hr><br>Date: <b>" + DateLabel[EmoreIn] + "</b> Time: <b>" + TimeLabel[EmoreIn]  + "</b> <br>Epicentral Area: <b>" + Location[EmoreIn] + "</b><br><b>" + Epicenter[EmoreIn] + "</b> (Lat.: <b>" + Lat[EmoreIn] + "</b> - Lon.: <b>" + Lon[EmoreIn] + "</b>) <br><br>Io (Epicentral intensity - MCS scale): <b>" + Io[EmoreIn] + "</b> <br>Imax (Maximum intensity - MCS scale): <b>" + Imax[EmoreIn] + "</b> <br>Me (Equivalent magnitude): <b>" + Me[EmoreIn] + "</b> <br>NMO (Number of Macroseismic Observations): <b>" + iNP[EmoreIn] + "</b><br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/quake.php?" + Nterr[EmoreIn] + "EN" + virg + ">Earthquake page </a></b>"
+                    ExportKmlR = ExportKmlR + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + Lon[EmoreIn] + "</longitude>" + CarRet + "<latitude>" + Lat[EmoreIn] + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#" + Nterr[EmoreIn] + "</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ Lon[EmoreIn] + ","+ Lat[EmoreIn] + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>"
+
+                    // incrementa indice solo se cambia nperiod! 1 riga per ogni terremoto (ma con molteplici EE)
+                    EmoreIn = EmoreIn + 1;
+
+
+
+                    // ----- EE associato a NPERIOD
+                } else {
+
+
+                    if (Nperiod == ''){
+                        // flag per accendere solo tabella NPERIOD
+                        flagtableNT = 0;
+                        flagtableNP = 1;
+
+                    } else {
+                        // flag per accendere sia tabella NPERIOD sia NTERR
+                        // flagtableNT = 1;
+                        flagtableNP = 1;
+
+                    }
+
+                    var indNP = NperiodALLEQ.indexOf(EE_nperiodLOC[k])
+                    var EEdateEx = '';
+                    var EEdate = '';
+                    var EEtime = '';
+                    var EEIo = '';
+                    var EEMe = '';
+                    var EENterrButt = '';
+                    var EQlink = '';
+                    var EEepArea = '';
+                    var E1listNP ='';
+                    var EEImax = '';
+                    var EELat = '';
+                    var EELon = '';
+                    var EEiNP = '';
+                    while (indNP != -1){
+                        var NterrNP = NterrALLEQ[indNP];
+                        var QuakePage = createQuakePageLink(window.location.href, NterrALLEQ[indNP], 'locality')
+                        EEdateEx = EEdateEx + DateLabelALLEQ[indNP] + '<br />'
+                        EEdate = EEdate + DateLabelALLEQ[indNP] + ' &nbsp &nbsp<span class="linkIW"><abbr class= "quakePageLink" title= ""> <a href="' + QuakePage + '" target="_blank" onclick="window.open(this.href + Langsel)"><img src="images/link2.png" width= "10" vertical-align="middle"/></a></abbr></span><br />'
+                        EEtime = EEtime + TimeLabelALLEQ[indNP] + '<br />'
+                        EEIo = EEIo + IoALLEQ[indNP]+ '<br />'
+                        EEMe = EEMe + MeALLEQ[indNP]+ '<br />'
+                        EEImax = EEImax + ImaxALLEQ[indNP]+ '<br />'
+                        EELat = EELat + LonALLEQ[indNP]+ '<br />'
+                        EELon = EELon + LatALLEQ[indNP]+ '<br />'
+                        EEiNP = EEiNP + iNP_ALLEQ[indNP]+ '<br />'
+                        EENterrButt = EENterrButt + '<div id ="' +NterrNP + '" class = "NPtableBackgrounDiv"><a type = "button" class="more"><img src="images/gm.png" width="11px" onclick="showPQ(NterrALLEQ['+indNP+'])"></a></div>'
+                        EEepArea = EEepArea + LocationALLEQ[indNP] + '<br />'
+
+                        indNP = NperiodALLEQ.indexOf(EE_nperiodLOC[k], indNP+1)
+                    }
+
+                    // get all EE for each nperiod
+                    var EEListExport = '';
+                    var indexes = getAllIndexes(EE_nperiodLOC, EE_nperiodLOC[k]);
+                    for (var ind = 0; ind < indexes.length; ind++) {
+                        var abbrEEtype = class_titleEE_IT[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+
+                        if (EEListExport==''){
+                            EEListExport = class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+
+                        } else {
+                            EEListExport = EEListExport + " - " + class_titleEE_EN[class_codeEE.indexOf(EE_codeffLOC[indexes[ind]])];
+                        }
+
+                        E1listLOC[EmoreIn] = E1listLOC[EmoreIn] + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
+
+                        E1listNP = E1listNP + '<tr><td width="25px"><img src="images/EE/color/'+ EE_codeffLOC[indexes[ind]] + '.png" width= "18" vertical-align="middle"/></td><td><span class="' + EE_codeffLOC[indexes[ind]] + '_IW">' +  abbrEEtype  + "</span></td></tr>";
+                    };
+
+                    EEListExport = EEListExport + ' [Effect(s) associated with entire earthquake sequence]';
+
+                    tableNPline = tableNPline + '<tr><td class="nat">' + '<div class="EEContainer">' + '<img src="images/EE/00_NP.png" width="15px">' + '<span class="tooltiptext_EE"><table>' + E1listNP + '</table></span></div>' + '</td><td class="dateNP">' + EEdate + '</td><td class="time">' + EEtime + '</td><td class="me">' + EEMe + '</td><td class="io">' + EEIo +'</td><td class="locationNP">' + EEepArea +'</td>'
+                        + '</td><td class="mapbut">' + EENterrButt + '</td></tr>'
+
+                    //Export variableTXT
+                    ExportText = ExportText + '0' + ';' + '-' + ';' + EEListExport + ';' + String.fromCharCode(34) + EEdateEx + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEtime + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEIo + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEImax + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEiNP + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEMe + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EELat + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EELon + String.fromCharCode(34) + ';' + String.fromCharCode(34) + EEepArea + String.fromCharCode(34) + CarRet;
+
+                    //Export variableKML
+                    //Impossibile esportare gli NPERIOD come punti e quindi non si vedono in mappa KML xome in Google Maps sul sito, da segnalare nell'HELP!
+
+                }
+                NperiodMoreDone[s] = EE_nperiodLOC[k];
+                NterrMoreDone[s] = EE_nterrLOC[k];
+                console.log(NperiodMoreDone[s]);
+                console.log(NterrMoreDone[s]);
+                s++
+
+            }
+        }
+
+        resizeTable(flagtableNT, flagtableNP)
+
+        //replace <br /> with "line feed"
+        var regBR = new RegExp("<br " + String.fromCharCode(47) + ">", "g");
+        ExportText = ExportText.replace(regBR,String.fromCharCode(10));
+
+        tbodyNP.innerHTML = tableNPline;
+        // }
+
+        if(DateLabel.length > 0){
+            for (var i = 0; i < DateLabel.length; i++){  // new loop because the amount of EQ may have changed if more event have been found in the EE table (for events that have EE but no PQ intensity at the locality - so they do not appear in the locality XML, that is based on PQs)
+
+                //   --------------------------------------------  Epincenter type: FALSE   ---------------------------------------------------------
+                if (FlagFalse[i]) {
+                    Star = { path: google.maps.SymbolPath.CIRCLE, strokeColor: "#000000", scale: 4, strokeWeight: 3 };
+                    EpiIcon="F";
+                    //   --------------------------------------------  Epincenter type: NOT PARAMETERIZED   ---------------------------------------------------------
+                } else if (Epicenter[i] == "Not parameterized"){
+                    var EpicenterITA = "Non parametrizzato";
+                    var EpicenterENG = Epicenter[i];
+                    Star = { path: google.maps.SymbolPath.CIRCLE, strokeColor: "#000000", fillColor: "#000000", fillOpacity: 1, scale: 3};
+                    EpiIcon="NP";
+                    //   --------------------------------------------  Epincenter type: CALCULATED   ---------------------------------------------------------
+                } else {
+
+                    if (Epicenter[i] == "Calculated epicentre"){
+                        var EpicenterITA = "Epicentro calcolato";
+                        var EpicenterENG = Epicenter[i];
+
+                        if(9.5 < Io[i]) {Star = {path: EPIpathCALC, fillColor: color4, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale: StarScale4}; EpiIcon="C_9.5"};
+                        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: EPIpathCALC, fillColor: color3, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale3}; EpiIcon="C_8"};
+                        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: EPIpathCALC, fillColor: color2, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale2}; EpiIcon="C_6"};
+                        if(6 > Io[i] ) {Star = {path: EPIpathCALC, fillColor: color1, fillOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 0.5, scale:StarScale1}; EpiIcon="C_6"};
+
+                        //   --------------------------------------------  Epincenter type: LOCAL EFFECTS  ---------------------------------------------------------
+                    } else if (Epicenter[i] == "Local effects"){
+                        EpicenterITA = "Singola località";
+                        EpicenterENG= Epicenter[i];
+
+                        if(9.5 < Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale4, fillColor: color4, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_9.5"};
+                        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale3, fillColor: color3, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_8"};
+                        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale2, fillColor: color2, fillOpacity: 1, strokeWeight: 5 , strokeColor: "#000000"}; EpiIcon="L_6"};
+                        if(6 > Io[i] ) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale1, fillColor: color1, fillOpacity: 1, strokeWeight: 5, strokeColor: "#000000" }; EpiIcon="L_4"};
+
+                        //   --------------------------------------------  Epincenter type: AREA   ---------------------------------------------------------
+                    } else if (Epicenter[i] == "Region, area"){
+                        EpicenterITA = "Regione, area";
+                        EpicenterENG= Epicenter[i];
+
+                        if(9.5 < Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale4, strokeColor: color4, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_9.5"};
+                        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale3, strokeColor: color3, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_8"};
+                        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale2, strokeColor: color2, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_6"};
+                        if(6 > Io[i] ) {Star = {path: google.maps.SymbolPath.CIRCLE, scale: CircleScale1, strokeColor: color1, fillOpacity: 0, strokeWeight: 5 }; EpiIcon="R_4"};
+
+                        //--------------------------------------------  Epincenter type: Hypothetical  ---------------------------------------------------------
+                    } else if (Epicenter[i] == "Hypothetical"){
+                        EpicenterITA = "Ipotizzata";
+                        EpicenterENG= Epicenter[i];
+
+                        if(9.5 < Io[i]) {Star = {path: EPIpathCALC, strokeColor: color4, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale: StarScale4}; EpiIcon="H_9.5"};
+                        if(7.5 < Io[i] && 9.5 >= Io[i]) {Star = {path: EPIpathCALC, strokeColor: color3, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale3}; EpiIcon="H_8"};
+                        if(5.9 < Io[i] && 7.5 >= Io[i]) {Star = {path: EPIpathCALC, strokeColor: color2, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale2}; EpiIcon="H_6"};
+                        if(6 > Io[i] ) {Star = {path: EPIpathCALC, strokeColor: color1, strokeOpacity: 1, anchor: new google.maps.Point(125,125), strokeWeight: 2, scale:StarScale1}; EpiIcon="H_4"};
+                    };
+                };
+
+                //Star = {path: EPIpathCALC,
+                // 		  strokeColor: color1,
+                // 		  strokeOpacity: 1, anchor: new google.maps.Point(125,125),
+                // 		  strokeWeight: 2,
+                // 		  scale:StarScale1}
+
+                //var cerchio = `<svg viewBox="0 0 250 250"   {height} {width} xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="40" {stroke} {widthS} {fill} /></svg>`;
+                var cerchio = `<svg viewBox="0 0 100 100"  {height} {width}  xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="40" cy="50" r="40"  {stroke} {widthS} {fill}  /></svg>`;
+                var stella = `<svg viewBox="0 0 250 250" {height} {width} xmlns="http://www.w3.org/2000/svg" version="1.1"><path d="M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z" {fill} {stroke} {widthS} /></svg>`;
+                var compiled;
+
+                var singleFeature = new ol.Feature({
+                    id: i,
+                    geometry:new ol.geom.Point(new ol.proj.fromLonLat([Lon[i], Lat[i]])), //new ol.geom.Point([ Lon[i], Lat[i]]),
+                    type: "quakes",
+                    title: DateLabel[i],
+                    OnClickTextIT : ""
+                });
+                var strokeString = new String();
+                var strokeWidthString = new String();
+                var fillString = new String()
+
+                //template replace dei parametri nella stringa svg
+                if  ( Star.path === google.maps.SymbolPath.CIRCLE ) {
+                    px =8 * Star.scale / 8;
+                    compiled = template(cerchio, {
+                        stroke:  (Star.strokeColor!== undefined) ? String().concat("stroke=\"",Star.strokeColor,'\"'): undefined ,
+                        widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"",Star.strokeWeight,'\"'): undefined,
+                        fill:	(Star.fillColor!== undefined) ? String().concat("fill=\"",Star.fillColor,'\"'): undefined,
+                        height: String().concat("height=\"",'2.5px','\"'),
+                        width: String().concat("width=\"",'2.5px','\"')
+                    });
+                    singleFeature.values_.type = "areaOrRegion";
+                    console.log("singleFeature.values_.type = \"areaOrRegion\";");
+                    //console.log(singleFeature);
+                }
+                else  if ( Star.path === EPIpathCALC)
+                {
+                    //console.log("Star.path" + Star.path);
+                    //px =8 * Star.scale / 8;
+                    compiled = template(stella, {
+                        stroke:  (Star.strokeColor!== undefined) ? String().concat("stroke=\"",Star.strokeColor,'\"'): String().concat("stroke=\"","#000000",'\"') ,
+                        //widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"",Star.strokeWeight,'\"'): String().concat("stroke-width=\"","5",'\"'),
+                        widthS: (Star.strokeWeight!== undefined) ? String().concat("stroke-width=\"","5",'\"'): String().concat("stroke-width=\"","5",'\"'),
+                        fill:	(Star.fillColor!== undefined) ? String().concat("fill=\"",Star.fillColor,'\"'): undefined,
+                        height: String().concat("height=\"",'200px','\"'),
+                        width: String().concat("width=\"",'200px','\"')
+                    });
+                }
+                ////VARIABILE DI LOG PER LEGGERE SVG DATA
+                //console.log(compiled);
+                //assegno la stringa svg parametrizzata
+                var workingSvg = compiled;
+                // console.log("STRINGA SVG PARAMETRIZZATA"+workingSvg);
+                var stileIcone = new ol.style.Style({
+                    image: new ol.style.Icon({
+                        opacity: Star.strokeOpacity, //parametro opacity
+                        src: 'data:image/svg+xml;utf8,' + escape(workingSvg),
+                        scale: Star.scale*1.15 //parametro scale moltiplicato per ingrandire le stelle
+                    })
+                });
+                singleFeature.setStyle(stileIcone);
+
+
+                //replace in KML file after definition of icon
+                ExportKmlR = ExportKmlR.replace('#' + Nterr[i],'#' + EpiIcon);
+
+                var QuakePage = createQuakePageLink(window.location.href, Nterr[i], 'locality')
+
+                // =================   INFOWINDOWS FOR ALL EPICENTERS  =========================
+                // Information box that pops up on click (on marker or line of quakes table)
+
+                // FIX COMMENT REFERENCES
+                if (E1commLOC[i]!= ''){
+                    E1commLOC_IT[i] = createREF(E1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
+                    E1commLOC_EN[i] = createREF_EN(E1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
+                }
+                if (D1commLOC[i]!= ''){
+                    D1commLOC_IT[i] = createREF(D1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
+                    D1commLOC_EN[i] = createREF_EN(D1commLOC[i], Nperiod[i], codbib, authorbib, titolobib, annobib, placebib, biblioEQ_pdfT_abbrIT, biblioEQ_pdfR_abbrIT);
+                }
+
+                var titleLocEN = ['<div class="iw-title localityColor"><b>' + sLoctot + '</b> - MCS Intensity: '+ '<b>' + sISrom[i] +' </b></div>'];
+
+                var quakeDetailsEN = ['<div class="iw-title quakeColor">' + 'Date: <b>' + DateLabel[i] + '</b> Time: <b>' + TimeLabel[i] + '</b>' + ' Epicentral Area: <b>' +  Location[i] + '</b></div>',
+                    '<div class= "EQinfoIW"><br /> Lat.: <b>' + Lat[i] + '</b> - ', 'Lon.: <b>' + Lon[i] + '</b><br />',
+                    'Epicentral Intensity: <b>' + Io[i] + '</b><br />',
+                    'Maximum Intensity: <b>' + Imax[i] + '</b><br />',
+                    'Equivalent Magnitude: <b>' + Me[i] + '</b><br />',
+                    'Number of Macroseismic Observations: <b>' + iNP[i] + '</b><br /><br />',
+                    '<a href="' + QuakePage  + 'EN" target="_blank"> Earthquake page </a> <br /><br /></div>'].join('\n');
+                var CommAntrEN = ['<br /><span style="text-transform: uppercase;">Effects on the built environment: </span><br />',
+                    '<div class="LocComm">' + D1commLOC_EN[i] + '<br /><br />',
+                    '</div>'].join('\n')
+                var CommEnvEN = ['<span style="text-transform: uppercase;">Effects on the natural environment: </span><br />',
+                    '<div class="LocComm"><p align="left"><table>'+ E1listLOC[i] + '</table></p><hr class="EEline">' + E1commLOC_EN[i] + '<br /></div>'].join('\n')
+
+                var titleLocIT = ['<div class="iw-title localityColor"><b>' + sLoctot + '</b> - Intensità MCS: '+ '<b>' + sISrom[i] +' </b></div>'];
+
+                var quakeDetailsIT = ['<div class="iw-title quakeColor">' + 'Data: <b>' + DateLabel[i] + '</b> Ora: <b>' + TimeLabel[i] + '</b>' + ' Area epicentrale: <b>' +  Location[i] + '</b></div>',
+                    '<div class= "EQinfoIW"><br /> Lat.: <b>' + Lat[i] + '</b> - ',	'Lon.: <b>' + Lon[i] + '</b><br />',
+                    'Intensità Epicentrale: <b>' + Io[i] + '</b><br />',
+                    'Intensità Massima: <b>' + Imax[i] + '</b><br />',
+                    'Magnitudo Equivalente: <b>' + Me[i] + '</b><br />',
+                    'Numero di osservazioni macrosismiche: <b>' + iNP[i] + '</b><br /><br />',
+                    '<a href="' + QuakePage + 'IT" target="_blank"> Pagina del terremoto </a> <br /><br /></div>'].join('\n');
+
+                var CommAntrIT = ['<br /><span style="text-transform: uppercase;">Effetti sul contesto antropico: </span><br />',
+                    '<div class="LocComm">' + D1commLOC_IT[i] + '<br /><br />',
+                    '</div>'].join('\n')
+                var CommEnvIT = ['<span style="text-transform: uppercase;">Effetti sull\'ambiente naturale: </span><br />',
+                    '<div class="LocComm"><table>'+ E1listLOC[i] + '</table><hr class="EEline">' + E1commLOC_IT[i] + '<br /></div>'].join('\n')
+
+                // -- different types of infow. based on type of comments available for each quake
+                //if (Flagcomments[i] == 4) {
+                if (E1commLOC[i]!= '' && D1commLOC[i] != '') {
+                    var OnClickTextEN = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsEN, titleLocEN, '<div class="commentsIW">', CommAntrEN, '<hr>', CommEnvEN,
+                        '</div></div>' ].join('\n');
+
+                    var OnClickTextIT = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsIT, titleLocIT, '<div class="commentsIW">', CommAntrIT, '<hr>', CommEnvIT,
+                        '</div></div>' ].join('\n');
+
+                } else if (E1commLOC[i]== '' && D1commLOC[i] != '') {
+                    var OnClickTextEN = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsEN, titleLocEN, '<div class="commentsIW">', CommAntrEN,
+                        '</div></div>' ].join('\n');
+
+                    var OnClickTextIT = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsIT, titleLocIT, '<div class="commentsIW">', CommAntrIT,
+                        '</div></div>' ].join('\n');
+
+                } else if (E1commLOC[i]!= '' && D1commLOC[i] == '') {
+                    var OnClickTextEN = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsEN, '<div class="iw-title localityColor"><b>' + sLoctot + '</b></div>', '<br />', '<div class="commentsIW">', CommEnvEN,
+                        '</div></div>' ].join('\n');
+
+                    var OnClickTextIT = [
+                        // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                        quakeDetailsIT, '<div class="iw-title localityColor"><b>' + sLoctot + '</b></div>', '<br />', '<div class="commentsIW">', CommEnvIT,
+                        '</div></div>' ].join('\n');
+                }
+
+
+
+                //-------    TEXT FOR EPICENTER POPUP WINDOW TO SHOW WHEN PQ IS ON
+                //           (without description of effects at locality) !!!!!!!!! NOT USED IN FACT   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+                EQ_textEN[i] = [
+                    // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                    quakeDetailsEN,
+                    '</div>' ].join('\n');
+
+                EQ_textIT[i] = [
+                    // '<div class="IW"><div id = "IWclose"><a onclick="infowindow.close(); turnoffRow()" href="#"><img src="images/close.png" height="10px"></a></div>',  // VERSIONE PRECEDENTE DELLE IW!! PRIMA CHE GOOGLE CAMBIASSE API
+                    quakeDetailsIT,
+                    '</div>' ].join('\n');
+
+                indexEQ[i] = i;
+
+                //gestione popup
+                singleFeature.OnClickTextIT = OnClickTextIT;
+
+                // l'ordine di openPopup e oms.addmarker (ora in showquakes) decide chi parte prima tra openpopup e spiderfy!!
+
+                /////vecchia GESTIONE POPUP PASSA INFORMAZIONI OnClickTextEN e OnClickTextIT poi aggiunge delle info e infine il text assegnato e' nella variabile textIT => adesso sta tutto sull'evento onclick della mappa.
+                /////infowindow.setContent(textIT);
+                openPopupSpider(singleFeature, OnClickTextEN, OnClickTextIT, Nterr[i], Lat[i], Lon[i]);
+                //onClickMarker(indexEQ[i], marker)
+                //Evento onclick con aggiunta di highlightBar sulla barra del grafico in alto a sinistra
+                onClickMarker(indexEQ[i], singleFeature);
+                epiMarkers.push(singleFeature);
+
+            }
+        }
+
+        // -----------------    Export variableKML -------
+        //RELOAD DELLA VARIABILE SOLO SE NON E' GIA STATA VALORIZZATA IN PRIMA PAGINA.
+        //ExportKml = "";
+        if (ExportKml == "") {
+            console.log("RICARICAMENTO DEI FILE /KML/locality_a.txt e /KML/locality_b.txt ");
+            jQuery.get('/OtherFilesService/KML@locality_a.txt', function (data) {
+                ExportKml = data;
+                ExportKml = ExportKml + "<Folder>" + CarRet + "<name>CFTI5Med - Locality - " + sLoctot + "</name>" + CarRet;
+                ExportKml = ExportKml + "<open>1</open>" + CarRet;
+                ExportKml = ExportKml + "<description>" + CarRet;
+                ExportKml = ExportKml + "<![CDATA[<body><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/" + virg + "> <img src=" + virg + "http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN" + virg + " alt=" + virg + "Logo CFTI5Med" + virg + " height=" + virg + "32px" + virg + "></a></body>]]>" + CarRet;
+                ExportKml = ExportKml + "</description>" + CarRet;
+                ExportKml = ExportKml + "</Folder>" + CarRet;
+                ExportKml = ExportKml + "<Folder><name>Locality</name>" + CarRet;
+                ExportKml = ExportKml + "<Placemark> <name>" + sLoctot + "</name>" + CarRet + "<description><![CDATA["
+                ExportKml = ExportKml + "<b>" + sLoctot + "</b><br><i>" + noteexp + "</i><br><br>Latitude: <b>" + locLat + "</b> <br>Longitude: <b>" + locLon + "</b> <br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/locality.php?" + nloc + "EN" + virg + ">Locality page </a></b>" + CarRet;
+                ExportKml = ExportKml + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + locLon + "</longitude>" + CarRet + "<latitude>" + locLat + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#LOC</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>" + locLon + "," + locLat + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>" + CarRet + "</Folder>" + CarRet
+
+                ExportKml = ExportKml + "<Folder><name>Earthquakes</name>";
+
+                ExportKml = ExportKml + ExportKmlR;
+
+                jQuery.get('/OtherFilesService/KML@locality_b.txt', function (dataB) {
+                    ExportKml = ExportKml + dataB;
+                })
+            })
+        }
+
+
+        showQuakes();  //VISUALIZZA I localityPHPmarkers su MAPPA
+        createTable(); ///CREA TABELLA A SINISTRA
+
+        // set page title
+        document.getElementById('title').innerHTML = 'CFTI5Med ' + sLoctot;
+
+        // set location title - max number of characters (without province) is 55
+        if (sLoctot.length > 48) document.getElementById('Intro').innerHTML = '<center><font size="2em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
+        else if (sLoctot.length > 46 && sLoctot.length < 49) document.getElementById('Intro').innerHTML = '<center><font size="3em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
+        else document.getElementById('Intro').innerHTML = '<center><font size="4em">' + sLoctot + '</a></font></center><p style="font-weight:normal;"><i>' + noteLoc + '</i></p>';
+
+        document.getElementById('WikiLink').innerHTML = '<abbr title= "Link alla pagina Wikipedia"><a href="https://it.wikipedia.org/wiki/' + desloc + '" target="_blank"> <img src="images/wiki.jpg" width= "25" vertical-align="-35px"/></a></abbr>';
+
+        console.log("Caricamento su mappa - localitySources dalla vecchia gestione manajax.");
+        creazioneMappaLocalityPHP(localityPHPmarkers); //, 14.5);
+    });
 }
-
 
 function resizeTable(NT, NP){
 	if (NT==1 && NP ==0){
@@ -1405,7 +1471,9 @@ function showPQ(num){
 	var XMLData;
 	// n può essere l'indice della riga oppure un nterr, nel caso che la funzione sia lanckata dalla tabella degli EE per nperiod
 	if (typeof num.length != 'undefined'){
-		xmlService = './quakeSources/' + num + '.xml';
+		//xmlService = './quakeSources/' + num + '.xml';
+        xmlService = '/quakeSourcesXMLService/' + num;
+        ServicePQ = ''
 		nRow = num;
 	}
 	else {
@@ -1413,21 +1481,37 @@ function showPQ(num){
 		NterrPQ = Nterr[nRow];
 		xmlService = xmlServicePQ[nRow]
 	}
-	var ajaxUpdater = new Manajax(xmlService);
-	ajaxUpdater.TxType = 'GET';
-	ajaxUpdater.responseType = 'xml';
-	this.callBackBlock = 'map';
-	ajaxUpdater.callBackFunc = this.parsePQData;
-	ajaxUpdater.toScroll = false;
-	ajaxUpdater.requestAction();
-}
+	// var ajaxUpdater = new Manajax(xmlService);
+	// ajaxUpdater.TxType = 'GET';
+	// ajaxUpdater.responseType = 'xml';
+	// this.callBackBlock = 'map';
+	// ajaxUpdater.callBackFunc = this.parsePQData;
+	// ajaxUpdater.toScroll = false;
+	// ajaxUpdater.requestAction();
 
-function parsePQData(XmlText){
-	console.log('parsePQData.....');
-	XMLLocList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
-	XMLLocListArrived = true;
-	nper = XMLLocList.getElementsByTagName("nperiod")[0].childNodes[0].nodeValue;
-	checkEE();
+    $.ajax({
+        //url: '/quakeSourcesXMLService/' + Nterr ,  //localhost/quakeSourcesXMLService/09698 =>Route::get('/quakeSourcesXMLService/{nterrId}', function ($nterrId) {     $result = (new PhotoController())->quakeSourcesLoading($nterrId); });
+        url: xmlService, //localhost/quakeSourcesXMLService/09698 =>Route::get('/quakeSourcesXMLService/{nterrId}', function ($nterrId) {     $result = (new PhotoController())->quakeSourcesLoading($nterrId); });
+        type: 'GET',
+        dataType: 'text',
+        contentType: 'application/xml',
+        success: function(data){
+            if(data !== undefined){
+                console.log("success loaded CACHED xml quakes from server...quakeSourcesXMLService/"+ Nterr);
+                //console.log(data);
+            }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            console.error(textStatus);
+            console.error(errorThrown);
+        }
+    }).then ( function(XmlText) {   // ajaxUpdater.callBackFunc = this.parsePQData;
+        console.log('fake parsePQData.....');
+        XMLLocList = new DOMParser().parseFromString(XmlText.trim(), 'text/xml');
+        XMLLocListArrived = true;
+        nper = XMLLocList.getElementsByTagName("nperiod")[0].childNodes[0].nodeValue;
+        checkEE();
+    });
 }
 
 function checkEE(){
@@ -1487,8 +1571,8 @@ function checkEE(){
  * Funzione invocata al click delle singole locality nella tabella di sinistra.
  * @param XmlText
  */
-function parsePQData2(XmlText){
-	console.log("parsePQData2 called .... xmlText" + XmlText);
+function parsePQData2(){
+	console.log("parsePQData2 called ....  "); //xmlText non usato  xmlText:" + XmlText);
 	PQMarkersOL = []; //reinizializza variabile
 	flagPQ = 0
 	var boundsPQ = new google.maps.LatLngBounds();
@@ -1566,7 +1650,7 @@ function parsePQData2(XmlText){
 
 	epiBIG.setStyle(stileIcone);
 
-	/******TODO: EpiBIG SOSTITUIRE GLI OGGETTI GOOGLE CON OL *****/
+	/******vecchia gestione: EpiBIG SOSTITUIRE GLI OGGETTI GOOGLE CON OL *****/
 	/*epiBIG = new google.maps.Marker({
 		position: new google.maps.LatLng(latEpiPQ, lonEpiPQ),
 		map: map,
@@ -1713,7 +1797,7 @@ function parsePQData2(XmlText){
 			// }
 
 			// -----------------    PQ MARKERS FOR LOCALITIES  - PNG (per località sempre svg per goccia)   ----------------------------
-////////////////////////////TODO GESTIONE LOCALITA DOPO AVER CLICCATO SULLA TABELLA /////////////////////
+//----------------------------------GESTIONE LOCALITA DOPO AVER CLICCATO SULLA TABELLA ---------------------------
 
 			/****preparazione markerPq ----- plot PQ ****/
 			var markerPQ = new ol.Feature({
@@ -1795,7 +1879,7 @@ function parsePQData2(XmlText){
 				markerPQ.type = "localityPQ";
 			}
 
-			/******TODO SOSTITUIRE GLI OGGETTI GOOGLE CON OL  FATTO SOPRA *****/
+			/******vecchia gestione: SOSTITUIRE GLI OGGETTI GOOGLE CON oggetti OL creati SOPRA *****/
 			// ----- plot PQ
 			/*var markerPQ = new google.maps.Marker({
 				position: new google.maps.LatLng(locPQlat[i], locPQlon[i]),
@@ -1909,7 +1993,7 @@ function parsePQData2(XmlText){
 
 						if (EE_nloc[k] != nloc) {
 							// togli marker precedente (solo int, no EE) e plotta quello nuovo con EE
-							// TODO: rimosso perche' esiste solo su GMAPS
+							// vecchia gestione: rimosso perche' il metodo esiste solo su GMAPS
 							// PQMarkers[indEE].setMap(null)
 							var markerEE = new ol.Feature({
 								id: k,
@@ -1976,7 +2060,7 @@ function parsePQData2(XmlText){
 								ExportKmlR: "",
 								OnClickTextIT: "",
 							});
-	                    	/////TODO GESTIONE MARKERS DA SOSTITUIRE V GOOGLE MAPS  iconaEE LOC effetti ambientali//////
+	                    	/////vecchia gestione: MARKERS DA SOSTITUIRE V GOOGLE MAPS  iconaEE LOC effetti ambientali//////
 							/*var markerEE = new google.maps.Marker({
 		        				position: new google.maps.LatLng(locLat, locLon),
 		        				icon: iconEE_LOC,
@@ -2126,8 +2210,8 @@ function parsePQData2(XmlText){
 	document.getElementById("legendmin").style.display = "none";
 	document.getElementById("legendPQ").style.display = "inline";
 
-	/******TODO CHIAMARE UNA FUNZIONALITA CHE MOSTRA SU MAPPA IL LAYER E RIMUOVE GLI ALTRI******/
-	creazioneMappaLocalityPHP(PQMarkersOL);
+	/******FUNZIONALITA CHE MOSTRA SU MAPPA IL LAYER E RIMUOVE GLI ALTRI******/
+	creazioneMappaLocalityPHP(PQMarkersOL) //, 7);
 }
 
 
@@ -2280,7 +2364,7 @@ function createTable() {
 
  	// NOW SET LANGUAGE TO FILL IN ALL DIVS/ABBRS/SPANS....
 	new LanguageTools().setLanguage(Langsel);
-	
+
 	google.charts.load('45', {packages: ['corechart']})
 	google.charts.setOnLoadCallback(drawChart);
 

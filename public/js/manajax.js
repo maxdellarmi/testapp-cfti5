@@ -96,7 +96,7 @@ var Manajax = function(xmlService){
 						console.log("mySelf.URLString - quakeSources");
 					}
 					else if (mySelf.URLString == ("EEList.xml?output=xml") || mySelf.URLString == ("EEList_MED.xml?output=xml")  )  {
-						//alert("ciao");
+						//alert("@@test");
 						console.log("mySelf.URLString - EEList chiamata effettuata per ultimo dopo [quakeSources] TODO visualizzare la mappa");
 						quakesPQMarkers=[];
 						for (var i = 0; i < PQMarkers.length; i++) {

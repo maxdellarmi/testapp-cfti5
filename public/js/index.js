@@ -13,6 +13,7 @@ var options;
 var HLbar = 0;
 var chartArray = [];
 
+var warmUpPrimoCaricamento=true;
 
 var XMLQuakeList;
 var XMLQuakeListArrived = false;
@@ -947,6 +948,100 @@ var GmapsTools = function(){
 		$('#loading').hide();
         console.info("FINE CARICAMENTO DEI MARKERS - creazione mappa (caricati tutti i terremoti)");
 
+        //TODO: WARMUP solo al PRIMISSIMO CARICAMENTO DEVE FUNZIONARE SOLO AL CARICAMENTO INIZIALE PRIMA VOLTA
+        if (warmUpPrimoCaricamento) {
+            console.info("START WARMUP PRIMO CARICAMENTO BACKGROUND PER INIZIALIZZARE CACHE layer locality - indexEE.....");
+            $.ajax({
+                url: '/loadJSONIndexEEdataFullCachedZIP', //Route::get('/loadJSONIndexEEdataFullCachedZIP', 'PhotoController@loadJSONIndexEEdataFullCachedZIP' )->middleware('cache.headers:public;max_age=31536000;etag', 'gzip');
+                type: 'GET',
+                encoding: null,
+                async: true,
+                success: function (data) {
+                    if (data !== undefined) {
+                        console.log("success loaded loadJSONIndexEEdataFullCachedZIP from server...");
+                        //console.log(data);
+                        saveJSONIndexEE = data;
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.error(textStatus);
+                    console.error(errorThrown);
+                }
+            })
+            $.ajax({
+                url: '/localityXML',  //http://localhost/localityXML => Route::get('/localityXML','PhotoController@indexLocalityXML');
+                type: 'GET',
+                async: true,
+                dataType: 'text', //text/xml
+                contentType: 'application/xml',
+                success: function (data) {
+                    if (data !== undefined) {
+                        console.log("success loaded xml localities from server...");
+                        //console.log(data);
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.error(textStatus);
+                    console.error(errorThrown);
+                }
+
+            })
+            ExportKml = "";
+            // jQuery.get per default è asincrono.
+            jQuery.get('/OtherFilesService/KML@locality_a.txt', function (data) {
+                ExportKml = data;
+                ExportKml = ExportKml + "<name>CFTI5Med - " + iMarker + " localities selected</name>";
+                ExportKml = ExportKml + "<open>1</open>";
+                ExportKml = ExportKml + "<description>";
+                ExportKml = ExportKml + "<![CDATA[<body><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/" + virg + "> <img src=" + virg + "http://storing.ingv.it/cfti/cfti5/images/banner_CFTI_newG_thin_EN" + virg + " alt=" + virg + "Logo CFTI5Med" + virg + " height=" + virg + "32px" + virg + "></a></body>]]>";
+                ExportKml = ExportKml + "</description>";
+                ExportKml = ExportKml + "<visibility>1</visibility>";
+                ExportKml = ExportKml + "<Folder><name>Localities</name>";
+
+                ExportKml = ExportKml + ExportKmlR;
+
+                //jQuery.get('KML/locality_b.txt', function(dataB){
+                jQuery.get('/OtherFilesService/KML@locality_b.txt', function (dataB) {
+                    ExportKml = ExportKml + dataB;
+                    console.log("success loaded CACHED  /KML@locality_a.txt + /KML@locality_b.txt from server...");
+                })
+            })
+            $.ajax({
+                url: '/BiblioEEList_Service',  //http://localhost/BiblioEEList_Service => Route::get('/BiblioEEList_Service', 'PhotoController@serviceBiblioEEList')->middleware('cache.headers:public;max_age=31536000;etag');
+                type: 'GET',
+                dataType: 'text', //text/xml
+                contentType: 'application/xml',
+                success: function (data) {
+                    if (data !== undefined) {
+                        console.log("success loaded CACHED  xml BiblioEE from server...");
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.error(textStatus);
+                    console.error(errorThrown);
+                }
+
+            });
+            $.ajax({
+                url: '/EEListService',
+                type: 'GET',
+                dataType: 'text', //text/xml
+                contentType: 'application/xml',
+                success: function(data){
+                    if(data !== undefined){
+                        console.log("success loaded "+'/EEListService'+" => EEList.xml file from server...");
+                        //console.log(data);
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.error(textStatus);
+                    console.error(errorThrown);
+                }
+
+            });
+            console.info("END WARMUP PRIMO CARICAMENTO BACKGROUND PER INIZIALIZZARE CACHE layer locality - indexEE.....");
+        }
+        warmUpPrimoCaricamento=false;
 	}
 
 	// ============== Remove markers from map
