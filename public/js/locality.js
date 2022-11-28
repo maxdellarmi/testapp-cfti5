@@ -412,7 +412,10 @@ function selnum(){
 	onclickListLocality(selection[0].row)
 	var rows = document.getElementById(Nterr[selection[0].row]);
 	console.log(rows);
-	rows.scrollIntoView(false);
+    //bugfix 28112022
+    if (rows !== undefined) {
+        rows.scrollIntoView(false);
+    }
 	FlagScroll = 1
 }
 
