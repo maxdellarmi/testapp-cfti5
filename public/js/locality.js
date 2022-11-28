@@ -413,7 +413,7 @@ function selnum(){
 	var rows = document.getElementById(Nterr[selection[0].row]);
 	console.log(rows);
     //bugfix 28112022
-    if (rows !== undefined) {
+    if (rows != null) {
         rows.scrollIntoView(false);
     }
 	FlagScroll = 1
