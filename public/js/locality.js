@@ -250,15 +250,15 @@ function onclickListLocality(prog){
 
 		// --------- Zoom con OpenLayer nella zona di riferimento dove e' posizionata la singola feature ---------
 		var padding = [500, 50, 500, 50]
-		mapOL.getView().fit(
-            if(epiMarkers[prog].getGeometry()!==undefined ) {
+        if(epiMarkers[prog].getGeometry()!==undefined ) {
+            mapOL.getView().fit(
                 epiMarkers[prog].getGeometry().getExtent(),
-                    {
-                        size: mapOL.getSize(),
-                        padding: padding,
-                    }
-            }
-		);
+                {
+                    size: mapOL.getSize(),
+                    padding: padding,
+                }
+            );
+        }
 		mapOL.getView().setZoom(8);
 
 		//gestione selezione singola feature ---->> successivamente mostra il singolo popup
@@ -350,15 +350,15 @@ function onclickListLocalityOnlyZoom(prog){
 
 		//************zoom nella zona di riferimento dove e' posizionata la singola feature
 		var padding = [500, 50, 500, 50]
-		mapOL.getView().fit(
-            if(epiMarkers[prog].getGeometry()!==undefined ) {
+        if(epiMarkers[prog].getGeometry()!==undefined ) {
+            mapOL.getView().fit(
                 epiMarkers[prog].getGeometry().getExtent(),
-                    {
-                        size: mapOL.getSize(),
-                        padding: padding,
-                    }
-            }
-		);
+                {
+                    size: mapOL.getSize(),
+                    padding: padding,
+                }
+            );
+        }
 		mapOL.getView().setZoom(8);
 
 	}
