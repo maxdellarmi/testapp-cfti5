@@ -760,7 +760,8 @@ function requestLocData(){
                 Nterr1 = Nterr[0];
                 Nperiod[i] =  XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
 
-                xmlServicePQ[i] = './quakeSources/' + Nterr[i] + '.xml';
+                //xmlServicePQ[i] = './quakeSources/' + Nterr[i] + '.xml';
+                xmlServicePQ[i] = '/quakeSourcesXMLService/' + Nterr[i];
 
                 DateLabel[i] =  XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
                 Year[i] = parseInt(XMLQuakeList.getElementsByTagName("anno")[i].childNodes[0].nodeValue);
@@ -1480,7 +1481,9 @@ function showPQ(num){
 	else {
 		nRow = num - 1;
 		NterrPQ = Nterr[nRow];
-		xmlService = xmlServicePQ[nRow] //==>OLD ARRAY xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml'; ==>NEW ARRAY  /quakeSourcesXMLService/' + NterrALLEQ[i]
+		xmlService = xmlServicePQ[nRow]
+        //==>OLD ARRAY xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml'; ==>NEW ARRAY  '/quakeSourcesXMLService/' + NterrALLEQ[i]
+        //==>OLD ARRAY  xmlServicePQ[i] = './quakeSources/' + Nterr[i] + '.xml';==>NEW ARRAY  '/quakeSourcesXMLService/' + NterrALLEQ[i]
 	}
 	// var ajaxUpdater = new Manajax(xmlService);
 	// ajaxUpdater.TxType = 'GET';
