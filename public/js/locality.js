@@ -203,12 +203,15 @@ function onclickListLocality(prog){
 	} else {
 		console.log('new selection epiBig and selectZoom');
 		if (flagPQ == 1) {
+            /****28110222 bugfix SetMap non piu utilizzabile avendo rimosso i googleMaps Objects ora si utilizza il getView() di OpenLayers***/
+            /*
 			for (var ii = 0; ii < PQMarkersOLD.length; ii++) {
 				PQMarkersOLD[ii].setMap(null);
 			};
 			for (var ii = 0; ii < EEMarkersOLD.length; ii++) {
 				if (EEMarkersOLD[ii]) EEMarkersOLD[ii].setMap(null);
 			};
+            */
 
 			//eval(nt_old).setMap(null);
 
