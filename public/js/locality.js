@@ -251,11 +251,13 @@ function onclickListLocality(prog){
 		// --------- Zoom con OpenLayer nella zona di riferimento dove e' posizionata la singola feature ---------
 		var padding = [500, 50, 500, 50]
 		mapOL.getView().fit(
-			epiMarkers[prog].getGeometry().getExtent(),
-			{
-				size: mapOL.getSize(),
-				padding: padding,
-			}
+            if(epiMarkers[prog].getGeometry()!==undefined ) {
+                epiMarkers[prog].getGeometry().getExtent(),
+                    {
+                        size: mapOL.getSize(),
+                        padding: padding,
+                    }
+            }
 		);
 		mapOL.getView().setZoom(8);
 
@@ -318,12 +320,15 @@ function onclickListLocalityOnlyZoom(prog){
 	} else
 	{
 		if (flagPQ == 1) {
+            /****28110222 bugfix SetMap non piu utilizzabile avendo rimosso i googleMaps Objects ora si utilizza il getView() di OpenLayers***/
+            /*
 			for (var ii = 0; ii < PQMarkersOLD.length; ii++) {
 				PQMarkersOLD[ii].setMap(null);
 			};
 			for (var ii = 0; ii < EEMarkersOLD.length; ii++) {
 				if (EEMarkersOLD[ii]) EEMarkersOLD[ii].setMap(null);
 			};
+			*/
 			showQuakes();
 			flagPQ = 0;
 		};
@@ -346,11 +351,13 @@ function onclickListLocalityOnlyZoom(prog){
 		//************zoom nella zona di riferimento dove e' posizionata la singola feature
 		var padding = [500, 50, 500, 50]
 		mapOL.getView().fit(
-			epiMarkers[prog].getGeometry().getExtent(),
-			{
-				size: mapOL.getSize(),
-				padding: padding,
-			}
+            if(epiMarkers[prog].getGeometry()!==undefined ) {
+                epiMarkers[prog].getGeometry().getExtent(),
+                    {
+                        size: mapOL.getSize(),
+                        padding: padding,
+                    }
+            }
 		);
 		mapOL.getView().setZoom(8);
 
