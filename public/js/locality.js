@@ -250,7 +250,7 @@ function onclickListLocality(prog){
 
 		// --------- Zoom con OpenLayer nella zona di riferimento dove e' posizionata la singola feature ---------
 		var padding = [500, 50, 500, 50]
-        if(epiMarkers[prog].getGeometry()!==undefined ) {
+        if(epiMarkers[prog] !==undefined ) {
             mapOL.getView().fit(
                 epiMarkers[prog].getGeometry().getExtent(),
                 {
@@ -350,7 +350,7 @@ function onclickListLocalityOnlyZoom(prog){
 
 		//************zoom nella zona di riferimento dove e' posizionata la singola feature
 		var padding = [500, 50, 500, 50]
-        if(epiMarkers[prog].getGeometry()!==undefined ) {
+        if(epiMarkers[prog] !==undefined ) {
             mapOL.getView().fit(
                 epiMarkers[prog].getGeometry().getExtent(),
                 {
