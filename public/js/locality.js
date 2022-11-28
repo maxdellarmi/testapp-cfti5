@@ -483,7 +483,8 @@ function requestEQLISTData() {
                 //NperiodALLEQ[i] = XMLQuakeList.getElementsByTagName("nperiod")[i].childNodes[0].nodeValue;
 
 
-                xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml';
+                //xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml';
+                xmlServicePQ_ALLEQ[i] = '/quakeSourcesXMLService/' + NterrALLEQ[i];
                 //console.log("xmlServicePQ_ALLEQ");
                 //console.log(xmlServicePQ_ALLEQ[i]);
                 DateLabelALLEQ[i] = XMLQuakeList.getElementsByTagName("data_label")[i].childNodes[0].nodeValue;
@@ -1479,7 +1480,7 @@ function showPQ(num){
 	else {
 		nRow = num - 1;
 		NterrPQ = Nterr[nRow];
-		xmlService = xmlServicePQ[nRow]
+		xmlService = xmlServicePQ[nRow] //==>OLD ARRAY xmlServicePQ_ALLEQ[i] = './quakeSources/' + NterrALLEQ[i] + '.xml'; ==>NEW ARRAY  /quakeSourcesXMLService/' + NterrALLEQ[i]
 	}
 	// var ajaxUpdater = new Manajax(xmlService);
 	// ajaxUpdater.TxType = 'GET';
