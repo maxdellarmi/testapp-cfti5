@@ -408,13 +408,15 @@ function bindSelectEvent(evt) {
 function selnum(){
 	console.log("selnum.... event");
 	var selection = chart.getSelection();
-	console.log(selection[0].row);
-	onclickListLocality(selection[0].row)
-	var rows = document.getElementById(Nterr[selection[0].row]);
-	console.log(rows);
-    //bugfix 28112022
-    if (rows != null) {
-        rows.scrollIntoView(false);
+    if (selection != null) {
+        console.log(selection[0].row);
+        onclickListLocality(selection[0].row)
+        var rows = document.getElementById(Nterr[selection[0].row]);
+        console.log(rows);
+        //bugfix 28112022
+        if (rows != null) {
+            rows.scrollIntoView(false);
+        }
     }
 	FlagScroll = 1
 }
