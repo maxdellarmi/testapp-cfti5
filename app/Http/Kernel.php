@@ -34,9 +34,9 @@ class Kernel extends HttpKernel
         'web' => [
             \App\Http\Middleware\EncryptCookies::class,
             \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
-            \Illuminate\Session\Middleware\StartSession::class,
-            \Illuminate\View\Middleware\ShareErrorsFromSession::class,
-            \App\Http\Middleware\VerifyCsrfToken::class,
+            //\Illuminate\Session\Middleware\StartSession::class,   ###RIMUOVERE LA SESSION COOKIE laravel_session COMPLETAMENTE
+            //\Illuminate\View\Middleware\ShareErrorsFromSession::class, ###RIMUOVERE LA SESSION COOKIE laravel_session COMPLETAMENTE
+            //\App\Http\Middleware\VerifyCsrfToken::class, ###RIMUOVERE LA SESSION COOKIE laravel_session COMPLETAMENTE
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
         ],
 

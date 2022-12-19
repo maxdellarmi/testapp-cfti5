@@ -14,6 +14,7 @@ class TrustHosts extends Middleware
     public function hosts()
     {
         return [
+            'laravel.dev.local',
             $this->allSubdomainsOfApplicationUrl(),
         ];
     }

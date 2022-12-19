@@ -161,11 +161,14 @@ function deleteEpi() {
 	}
 }
 
-function showQuakes() {
+function showQuakes(DoNotCreateObjects) {
+	console.log('@@showQuakes');
+	console.log('@@showQuakes DoNotCreateObjects');
+	console.log(DoNotCreateObjects);
 	console.log(epiMarkers);
 	//setMap non presente in OL probabilmente e' necessario visualizzare il layer con i marker creati - CHIAMATO DENTRO IL RITORNO DI MANAJAX
 	//creazioneMappaTerremotiInput(epiMarkers);
-
+	if(DoNotCreateObjects==undefined) {
 	for (var i = 0; i < epiMarkers.length; i++) {
 		console.log("aggiungo epiMarkers quakes al layerglobale localityPHPmarkers");
 		localityPHPmarkers.push(epiMarkers[i]);
@@ -177,6 +180,7 @@ function showQuakes() {
 		//variabile spider commentata
 		//oms.addMarker(epiMarkers[i]);
 		//endregion
+		}
 	}
     /////////////////////////////////////////////////////////////////
     /////MANAJAX POST LOADING e visualizzazione pagina chiamato dalla riga 1372 showQuakes dopo il caricamento delle locality///////////////
@@ -220,7 +224,7 @@ function onclickListLocality(prog){
 			epiBIG.setMap(null);
 			markerLOC.setMap(map);*/
 
-			showQuakes();
+			showQuakes(true);
 			flagPQ = 0;
 	    };
 
