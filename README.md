@@ -85,7 +85,7 @@ sail stop	Stops an environment that is currently running, saving the state of co
 sail artisan	Runs the artisan tool on the application container.
 sail php	Runs a PHP script on the application container.
 
-
+***************************************************************************CONFIGURAZIONE PROGETTO ************************************************************************
 1)NEL COMPOSER CI SONO 3 LIBRERIE IN PIU POI COMPOSER AGGIUNGERE LE DIPENDENZE COL COMANDO SOTTO
 "ext-simplexml": "*",
 "ext-libxml": "*"
@@ -182,6 +182,7 @@ https://link.medium.com/W7rZUCYHFtb
 https://link.medium.com/IARdzvjIFtb
 https://www.itsolutionstuff.com/post/laravel-9-guzzle-http-request-exampleexample.html
 
+********************************************GESTIONE AUTOMATION TEST LARAVEL DUSK E esecuzione CFTI5TheWebTest ***********************************************************************
 6) GESTIONE AUTOMATION TEST LARAVEL DUSK 
 https://stackoverflow.com/questions/65569147/laravel-sail-dusk-selenium-connection-refused
 
@@ -303,6 +304,58 @@ docker run --rm \
     laravelsail/php81-composer:latest \
     composer install --ignore-platform-reqs
 
+**********************************CERTIFICATI SELF-SIGNED in CHROME NON FANNO UTILIZZARE LA CACHE *******************************************************************************
+It's a Chrome issue with certificates SSL self-signed . 
+Chrome don't cache resources to self-signed certificates. Here's the bug explanation: https://bugs.chromium.org/p/chromium/issues/detail?id=103875
+**********************************CERTIFICATI SELF-SIGNED in CHROME NON FANNO UTILIZZARE LA CACHE *******************************************************************************
+
+***********************************AGGIORNAMENTO NGINX APPLICATION SERVER 01/2023 ***********************************************************************************************
+Adattamento versione local a versione con NGIX -> operazioni effettuate:
+******https://sam-ngu.medium.com/setting-up-nginx-and-php-fpm-in-laravel-sail-f7b3c85187ed****** (full article)
+*****https://github.com/acadea/laravel-sail-nginx-php-fpm (docker files)********
+1)sail artisan sail:publish per poter effettuare customizzazioni sulle macchine virtuali lui pubblicherà tutte le info alle macchine docker in una dir "docker" -> vedi foto
+2.1) modifica docker-compose.yml e modifica .env
+https://github.com/acadea/laravel-sail-nginx-php-fpm/blob/main/docker-compose.yml
+https://github.com/acadea/laravel-sail-nginx-php-fpm/blob/main/.env.example
+2.2) copy and paste the files from this repo e quindi la directory docker da aggiungere dentro quella che ci serve:
+https://github.com/acadea/laravel-sail-nginx-php-fpm
+2.3) Edit docker/nginx/sites/laravel.conf e controllare
+#IMPORTANTE MAPPARE CON LA DIRECTORY ROOT PUBLIC DELL APP LARAVEL
+#IMPORTANTE MAPPARE CON 0.0.0.0 laravel.dev.local o qualsiasi altro nome dominio sul file hosts
+server_name laravel.dev.local;
+#root /var/www/laravel/current/public;
+#IMPORTANTE MAPPARE CON LA DIRECTORY ROOT PUBLIC DELL APP LARAVEL
+root /var/www/html/public;
+index index.php index.html index.htm;
+#commentato per lasciare libera l'applicazione e non forzare conversioni
+#charset utf-8;
+2.4) NGIX: We should put our SSL certificates in the ssl folder. I wrote a helper bash script generate-keys.sh to generate a self-signed SSL certificate for you.
+max@DESKTOP-PBV1AKQ:/mnt/f/WORK/APPTEST-CFTI5Copia/laravel-dev/docker/nginx/ssl$ ./generate-keys.sh
+Generating RSA private key, 2048 bit long modulus
+...........................................................................+++++
+..........+++++
+e is 65537 (0x010001)
+Signature ok
+subject=CN = default, O = default, C = UK
+Getting Private key
+2.5) mappare laravel.dev.local sul file host della macchina con 0.0.0.0
+2.6)
+env
+# Point to where the `APP_CODE_PATH_HOST` should be in the container
+#APP_CODE_PATH_CONTAINER=/var/www/laravel/current
+#IMPORTANTE PER MANTENERE la legacy col progetto PHP base senza NGIX solo con PHPartisan
+APP_CODE_PATH_CONTAINER=/var/www/html
+3) alla fine lanciare ./vendor/bin/sail up -d ed effettuerà il build di tutto!
+*********OPERAZIONI EFFETTUATE DOPO L'AGGIUNTA NGIX**********
+
+a) Rimozioni e disabilitazione SESSION COOKIE e laravel_session per permettere il caching di ngix e rimozione csfr_token
+https://www.nginx.com/blog/nginx-caching-guide/ ->
+[...]It also doesn’t cache responses with the Set-Cookie header [...]
+b) SESSION_DRIVER array
+c) parametri env aggiunti per NGIX
+d) servizio artisan laravel commentato aggiunte macchine virtuali NGINX e PHP-FPM. Aggiunto laravel-horizon [non usato attualmente]
+e) fix delle locality,js sezione click incona a sinistra e icona a destra della tabella
+f) CHROME in https con i certificati locali NON gestisce la cache - Soluzione: usare FIREFOX per testing. [Chrome don't cache resources to self-signed certificates. Here's the bug explanation: https://bugs.chromium.org/p/chromium/issues/detail?id=103875]
 
 
-
+NB. Gestione selenium e rigenerazione processo caching da RITESTARE
