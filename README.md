@@ -270,7 +270,7 @@ OK (1 test, 2 assertions)
 *****************************************************************************************************************************
 ./vendor/bin/sail php artisan dusk --filter ExampleTest
 PHPUnit 9.5.25 #StandWithUkraine
-
+		
 .                                                                   1 / 1 (100%)
 
 Time: 00:14.876, Memory: 22.00 MB
@@ -296,13 +296,32 @@ wsl --install -d DISTRO-NAME
 
 My point was that I assumed the sail:install command would create the sail executable. So here you well need to use a second docker command to run artisan and install it. Using the sail tools wouldn't be possible to use directly
 
-ESEGUI IN WSL UBUNTU con docker installato!!!  -u "$(id -u):$(id -g)" \ admin:admin  $(pwd):/var/www/html vuole mappare dir locale dir sul server
+**************************GENERAZIONE VENDOR DIRECTORY COMPILAZIONE LARAVEL PRIMA VOLTA SU UN NUOVO SERVER ******************************
+ESEGUI IN WSL UBUNTU con docker installato!!!  
+Generazione vendor dir
+-u "$(id -u):$(id -g)" \ admin:admin  $(pwd):/var/www/html vuole mappare dir locale dir sul server 
 docker run --rm \
     -u "$(id -u):$(id -g)" \
     -v $(pwd):/var/www/html \
     -w /var/www/html \
     laravelsail/php81-composer:latest \
     composer install --ignore-platform-reqs
+
+ESECUZIONE SU WINDOWS generazione vendor dir	
+docker run --rm -v C:/INGV/CFTI5:/var/www/html  -w /var/www/html   laravelsail/php81-composer:latest  composer install --ignore-platform-reqs
+
+ESECUZIONE SU UNIX
+docker run --rm \
+    -u "$(id -u):$(id -g)" \
+    -v $(pwd):/var/www/html \
+    -w /var/www/html \
+    laravelsail/php81-composer:latest \
+    composer install --ignore-platform-reqs
+	
+**************************************SOLO X DEVELOPMENT PURPOSE -VISUALIZZA I FILE IN SHARE e PERMETTE LA VISIBILITA ALLA RETE ESTERNA **************************************
+QUESTA SEMPLICE MACCHINA VIRTUALE VISUALIZZA I FILE IN SHARE e PERMETTE LA VISIBILITA ALLA RETE ESTERNA
+docker run -p 8000:8000 -it python:3.7-slim python3 -m http.server --bind 0.0.0.0	
+*************************************** SOLO X DEVELOPMENT PURPOSE -VISUALIZZA I FILE IN SHARE e PERMETTE LA VISIBILITA ALLA RETE ESTERNA - *************************************
 
 **********************************CERTIFICATI SELF-SIGNED in CHROME NON FANNO UTILIZZARE LA CACHE *******************************************************************************
 It's a Chrome issue with certificates SSL self-signed . 

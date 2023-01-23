@@ -35,9 +35,9 @@ abstract class DuskTestCase extends BaseTestCase
             $this->shouldStartMaximized() ? '--start-maximized' : '--window-size=1920,1080',
         ])->unless($this->hasHeadlessDisabled(), function ($items) {
             return $items->merge([
-                '--disable-gpu',
-                '--headless',
-                '--no-sandbox',
+                //'--disable-gpu',
+                //'--headless',
+                //'--no-sandbox',
             ]);
         })->all());
         /**
@@ -50,6 +50,8 @@ abstract class DuskTestCase extends BaseTestCase
 
         //https://stackoverflow.com/questions/12913453/how-to-handle-an-alert-with-unexpectedalertbehaviour-capability-in-selenium
         //$dc = DesiredCapabilities::chrome()->setCapability("unexpectedAlertBehaviour", "ACCEPT_AND_NOTIFY");
+
+        //cleanUpCycle di default ripulisce il test in 5 secondi
         return RemoteWebDriver::create(
             'http://selenium:4444/wd/hub',  DesiredCapabilities::chrome()
                 ->setCapability(ChromeOptions::CAPABILITY, $options)

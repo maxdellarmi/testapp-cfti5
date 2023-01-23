@@ -44,7 +44,7 @@ class CFTI5TheWebTest extends DuskTestCase
         $dateExecution = $dateExecution->format("Y-m-d\TH_i_s");
         $theResult->dateExecution =$dateExecution;
         $this->browse(function (Browser $browser)  use ($theResult) {
-            $browser->visit('/cfti5UpdateEE');
+            $browser->visit('/cfti5UpdateEE'); //http://localhost/cfti5UpdateEE
             $browser->waitUntilDisabled("#access", 250); //LA DROPDOWN VIENE DISABILITATA ALLA FINE DELL'ESECUZIONE.
             $browser->click("a#closeD");
             $browser->assertDisabled("#access");

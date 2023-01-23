@@ -2,30 +2,30 @@
 version: '3'
 services:
     ######APP_SERVICE parameter######
-    # laravel.dev.local:  
-    #     build:
-    #         context: ./docker/8.1
-    #         dockerfile: Dockerfile
-    #         args:
-    #             WWWGROUP: '${WWWGROUP}'
-    #     image: sail-8.1/app
-    #     extra_hosts:
-    #         - 'host.docker.internal:host-gateway'
-    #     ports:
-    #         - '${APP_PORT:-80}:80'
-    #         - '${VITE_PORT:-5173}:${VITE_PORT:-5173}'
-    #     environment:
-    #         WWWUSER: '${WWWUSER}'
-    #         LARAVEL_SAIL: 1
-    #         XDEBUG_MODE: '${SAIL_XDEBUG_MODE:-off}'
-    #         XDEBUG_CONFIG: '${SAIL_XDEBUG_CONFIG:-client_host=host.docker.internal}'
-    #     volumes:
-    #         - '.:/var/www/html'
-    #     networks:
-    #         - sail
-    #     depends_on:
-    #         - redis
-    #         - selenium
+    laravel.test:
+        build:
+            context: ./docker/8.1
+            dockerfile: Dockerfile
+            args:
+                WWWGROUP: '${WWWGROUP}'
+        image: sail-8.1/app
+        extra_hosts:
+            - 'host.docker.internal:host-gateway'
+        ports:
+            - '${APP_PORT:-80}:80'
+            - '${VITE_PORT:-5173}:${VITE_PORT:-5173}'
+        environment:
+            WWWUSER: '${WWWUSER}'
+            LARAVEL_SAIL: 1
+            XDEBUG_MODE: '${SAIL_XDEBUG_MODE:-off}'
+            XDEBUG_CONFIG: '${SAIL_XDEBUG_CONFIG:-client_host=host.docker.internal}'
+        volumes:
+            - '.:/var/www/html'
+        networks:
+            - sail
+        depends_on:
+            - redis
+            - selenium
     redis:
         image: 'redis:alpine'
         ports:
@@ -43,6 +43,8 @@ services:
             context: "./docker/nginx"
         depends_on:
             -   php-fpm
+            -   redis
+            -   selenium
         volumes:
             - ${NGINX_SSL_PATH}:/etc/nginx/ssl
             - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}${APP_CODE_CONTAINER_FLAG}
@@ -70,24 +72,27 @@ services:
             - sail
         expose:
             - "9000"
-    laravel-horizon:
-        build:
-            context: ./docker/laravel-horizon
-        volumes:
-            - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}
-            - ./docker/laravel-horizon/supervisord.d:/etc/supervisord.d
-        depends_on:
-            - php-fpm
-        extra_hosts:
-            - "dockerhost:${DOCKER_HOST_IP}"
-        networks:
-            - sail
+#    laravel-horizon:
+#        build:
+#            context: ./docker/laravel-horizon
+#        volumes:
+#            - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}
+#            - ./docker/laravel-horizon/supervisord.d:/etc/supervisord.d
+#        depends_on:
+#            - php-fpm
+#        extra_hosts:
+#            - "dockerhost:${DOCKER_HOST_IP}"
+#        networks:
+#            - sail
     selenium:
-        image: 'selenium/standalone-chrome'
+        image: 'selenium/standalone-chrome:latest'
         volumes:
             - '/dev/shm:/dev/shm'
         ports:
-            - '4444:4444'
+            - '${FORWARD_SELENIUM_PORT:-4444}:4444'
+            - '${FORWARD_SELENIUM_HEADFUL_PORT:-7900}:7900'
+        healthcheck:
+            interval: 350s
         networks:
             - sail
 networks:
@@ -95,4 +100,6 @@ networks:
         driver: bridge
 volumes:
     sail-redis:
+        driver: local
+    sail-selenium:
         driver: local
