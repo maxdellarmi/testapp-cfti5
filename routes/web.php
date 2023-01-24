@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\PhotoController;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,7 +15,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
+/*
+ * SOSTITUIRE UN NUMERO DI MAX AGE CONGRUENTE IN SECONDI 1 volta al GG ogni 2 ore ogni 4 ect etc
+ * max_age=31536000
+ * A quel punto la cache client scade e viene rieffettuato il reload del file dalla CACHING SERVER di REDIS
+ * Per svuotare il caching di REDIS a fronte di aggiornamenti:
+ * http://localhost:8081/cfti5UpdateCacheDestroyAll
+ * {
+    CLEARED CACHE SUCCESS: "true"
+   }
+*/
 
 //    $test=new DateTime("now", new DateTimeZone('Europe/Rome'));
 //    var_dump($test->format("Y-m-d\TH_i_s"));
@@ -57,13 +67,20 @@ Route::get('/cfti5CS', function () {
 
 /**
  *PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING
+ *Pagina chiamata dall'artisan e dal test case -> CFTI5TheWebTest per la generazione di una nuova cache.
  *SE GLI ULTIMI DUE CARATERI URL FINISCONO X 'EE' es. cfti5UpdateEE ALLORA AGGIORNA DA SOLO LA PAGINA DOPO 500ms
  *  setTimeout(function () {
         document.getElementsByName("access")[0].value = "EE";
         var event = new Event('change');
         document.getElementsByName("access")[0].dispatchEvent(event);
    }, 500);
- */
+ * Legge e mette in cache il file
+ * Controller chiamati: function saveJSONFile(Request $request): void e
+ * Carica il file di caching durante la chiamata a indexEEAmbiente
+ * function loadJSONIndexEEdataFullCached() //(Request $request)
+ *
+ * TODO: verificare il caching:Forever alla fine del processo di generazione nuovo invalidare la vecchia cache.
+ * */
 Route::get('/cfti5UpdateEE', function () {
     Log::info("/cfti5UpdateEE Caricamento Resources\\Views\\indexCFTI5_EEUpdateOutputCache.blade.php...");
     Log::info("PAGINA EE AMBIENTE CONFIGURATA AUTOLOAD PER AGGIORNAMENTO CACHING....");
@@ -71,8 +88,17 @@ Route::get('/cfti5UpdateEE', function () {
 });
 
 
+Route::get('/cfti5UpdateCacheDestroyAll', function () {
+    Log::info("/cfti5UpdateCacheDestroyAll start...");
+    Cache::flush();
+    Log::info("/cfti5UpdateCacheDestroyAll SERVER CACHE COMPLETELY ERASED...");
+    Log::info("/cfti5UpdateCacheDestroyAll stop...");
+    echo json_encode(array('CLEARED CACHE SUCCESS'=>'true'));
+});
+
+
 //Route::get('/test','PhotoController@saveJson');
-Route::post('/test','PhotoController@save1Json');
+Route::post('/test','PhotoController@saveJson');
 
 /**************TODO:GESTIONE TERREMOTI BEGIN ************************/
 Route::post('/saveQuakesData','PhotoController@saveQuakesData');
