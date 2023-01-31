@@ -68,7 +68,11 @@ class CFTI5TheWebTest extends DuskTestCase
         //var_dump($theResult);
         //simulazione spostamento/copia file directory public html (ad esempio)
         //copy("/var/www/html/storage/app/public/" . $this->getResult() .".json", "/var/www/html/storage/app/public/"  . $this->getResult() . "backuptest.jsom");
-        copy("/var/www/html/storage/app/public/" . $this->getResult()->jsonCacheFileName .".json", "/var/www/html/storage/app/public/"  . $this->getResult()->jsonCacheFileName . "backuptest.jsom");
+        copy("/var/www/html/storage/app/public/" . $this->getResult()->jsonCacheFileName .".json", "/var/www/html/storage/app/public/"  . $this->getResult()->jsonCacheFileName . "backuptest.json");
+
+        //Per automatizzare completamente il processo
+        //1) Copia e sovrascrivi il json di cache con questo nome: IndexEEdataFullCached.json
+        //2) Chiamare il cache cleaning alla fine della copia "/cfti5UpdateCacheDestroyAll"
     }
 
 //    /**
