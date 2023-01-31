@@ -426,6 +426,18 @@ POST       test ................................................................
 
 php artisan clear-compiled PULISCE il CONTROLLER FORZANDO LAST VERSION
 
+php artisan route:clear PULISCE la cache route
+
+php artisan route:cache  (la ricrea)
+
+https://stackoverflow.com/questions/47904156/is-there-some-sort-of-laravel-controller-cache
+.......................
+Se non fosse sufficiente
+composer dump-autoload
+and
+php artisan route:cache 
+
+
 
 ErrorException: copy(/var/www/html/storage/app/public/IndexEEdataFullCached.json): Failed to open stream: Permission denied
 
