@@ -110,7 +110,7 @@ class CFTI5TheWebTest extends DuskTestCase
         Cache::forget('OtherFilesServiceList_listapdfT.txt');
         Cache::forget('LocListForever');
         Cache::forget('OtherFilesServiceList_KML@locality_b.txt');
-        Cache::forget('JSONFileIndexEEdataFullCached');
+        //Cache::forget('JSONFileIndexEEdataFullCached'); //questa chiave è stata appena ricreata dal processo di generazione cache è inutile cancellarla.
         Cache::forget('OtherFilesServiceList_listapdfR.txt');
         var_dump("Fase finale forza riaggiornamento cache - END");
 

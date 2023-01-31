@@ -424,5 +424,9 @@ POST       saveQuakesData ......................................................
 POST       saveQuakesGeoJSONData ................................................................................................................................................................... PhotoController@saveQuakesGeoJSONData
 POST       test ................................................................................................................................................................................................. PhotoController@saveJson
 
+php artisan clear-compiled PULISCE il CONTROLLER FORZANDO LAST VERSION
+
 
 ErrorException: copy(/var/www/html/storage/app/public/IndexEEdataFullCached.json): Failed to open stream: Permission denied
+
+controllare con che diritti è stato creato il file in caso contrario ricrearlo con la cache con i diritti corretti.
