@@ -19,7 +19,7 @@
 
     <script type="text/javascript" src="js/language.js"> </script>
     <script type="text/javascript" src="js/js.js"> </script>
-    <script type="text/javascript" src="js/index.js"> </script>
+    <script type="text/javascript" src="js/index_CacheUpdate.js"> </script>
     <script type="text/javascript" src="js/index_EE_CacheUpdate.js"> </script>
     <script type="text/javascript" src="js/index_loc.js"> </script>
 

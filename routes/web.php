@@ -121,7 +121,7 @@ Route::get('/quake.php', 'PhotoController@singleQuakeLoading' )->middleware('cac
 /*******QUESTA CHIAMATA RESTITUISCE IL CONTENUTO NON ZIPPATO TEXT PLAIN E CACHING LOCALE ********/
 Route::get('/loadJSONIndexEEdataFullCached', 'PhotoController@loadJSONIndexEEdataFullCached' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
 
-//CACHING + ZIPPED
+//CACHING + ZIPPED chiamata attuale invocata dai JS
 Route::get('/loadJSONIndexEEdataFullCachedZIP', 'PhotoController@loadJSONIndexEEdataFullCachedZIP' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022', 'gzip');
 
 //TODO css / iss /subd

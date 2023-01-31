@@ -35,12 +35,19 @@ abstract class DuskTestCase extends BaseTestCase
             $this->shouldStartMaximized() ? '--start-maximized' : '--window-size=1920,1080',
         ])->unless($this->hasHeadlessDisabled(), function ($items) {
             return $items->merge([
-                //'--disable-gpu',
-                //'--headless',
-                //'--no-sandbox',
+                '--disable-gpu',
+                '--headless',
+                '--no-sandbox',
             ]);
         })->all());
         /**
+         * per visualizzare i test eseguire questo
+         * return $items->merge([
+        //'--disable-gpu',
+        //'--headless',
+        //'--no-sandbox',
+        ]);
+         *
          * setCapability('loggingPrefs', [
         'browser' => 'ALL',
         'driver' => 'ALL',
@@ -55,6 +62,7 @@ abstract class DuskTestCase extends BaseTestCase
         return RemoteWebDriver::create(
             'http://selenium:4444/wd/hub',  DesiredCapabilities::chrome()
                 ->setCapability(ChromeOptions::CAPABILITY, $options)
+                ->setCapability('applicationCacheEnabled', false)  //disabilita caching lato client
                 ->setCapability('acceptInsecureCerts', TRUE)
                 ->setCapability('loggingPrefs', [
                 'browser' => 'ALL',

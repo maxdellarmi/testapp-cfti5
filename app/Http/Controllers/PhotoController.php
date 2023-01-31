@@ -386,8 +386,7 @@ class PhotoController extends Controller
      */
     function saveJSONFile(Request $request): void
     {
-        //      $request->query->keys()[0]
-        //      dump($request->query->all()); dump($request->query->keys()[0]); dump(substr($request->query->keys()[0], 0, -2));
+        $cachingJSONVariable= "JSONFileIndexEEdataFullCached"; //NOME VARIABILE CACHE GLOBALE DI SISTEMA
         Log::info("saveJSONFile called START");
         $data = json_decode($request->getContent());  //object stdClass dopo averlo convertito dal json in input
         //Log::info("DATA saveJSONFile:" . $request->getContent() ); //logga il json in input
@@ -396,10 +395,10 @@ class PhotoController extends Controller
         //( $_SERVER["DOCUMENT_ROOT"]
         //save in public folder  example-app/storage/app/public F:\WORK\sail-1.14.9\sail-1.14.9\example-app\storage\app\public
         Storage::disk('public')->put( $fileNameToSave, json_encode($data));
-        //SALVATAGGIO IN CACHE per la prima volta che si salva i dati
-        $saveJSONData = Cache::get('JSONFile'.$fileNameToSave);  //JSONFileIndexEEdataFullCached
+        //SALVATAGGIO IN CACHE per la prima volta che si salva i dati con relativa varibile in cache
+        $saveJSONData = Cache::get($cachingJSONVariable);  //'JSONFile'.$fileNameToSave
         if (!isset($saveJSONData)) { //saveJSONFileIndexEEdataFullCached
-            Cache::forever('JSONFile'.$fileNameToSave, json_encode($data));
+            Cache::forever($cachingJSONVariable, json_encode($data)); //'JSONFile'.$fileNameToSave
         }
 
         echo json_encode(array('success'=>'true'));
@@ -766,55 +765,55 @@ class PhotoController extends Controller
 //    }
 
 
-
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function index()
-    {
-        $photosValues = Cache::get('globals');
-        if (isset($photosValues)) {
-            echo "Display data From REDIS server<br>";
-            $photos = json_decode($photosValues);
-            //dump($photos);
-            Log::info('Display data From REDIS server');
-            Log::info($photos);
-            echo "PHOTOS N:". count($photos);
-        }
-        else {
-            echo "Display data From REST API server<br>"; //https://jsonplaceholder.typicode.com/photos
-            $response = Http::withOptions(["verify" => false])->get('https://jsonplaceholder.typicode.com/photos');
-            //$response = Http::withOptions(["verify" => false])->withHeaders(["Cache-Control: no-cache",])->get('https://jsonplaceholder.typicode.com/photos');
-
-            Log::info('Display data From REST API server');
-            Log::info($response);
-            Log::info($response->body());
-            //var_dump($response->body());
-
-
-
-            $photos = json_decode($response->body());
-
-            //mostra a video l'output dei 5000 elementi
-            //dump($photos);
-
-            Cache::forever('globals', json_encode($photos));
-
-
-            //Http::post($url,$fields)::withHeaders(["Authorization: Bearer $paystack_key","Cache-Control: no-cache",])::withOptions(["verify"=>false]);
-
-            /*Cache::forever('key', 'value');
-            Given that, I would change your code to something like the following:
-            cache()->forever('globals', json_encode(['foo' => 'bar']));*/
-
-            echo "STATUS:" . strval($response->status()) . "<br>";
-            echo "OK:" . strval($response->ok()) . "<br>";
-            echo "SUCCESSFUL:" . strval($response->successful()) . "<br>";
-            echo "PHOTOS N:". count($photos);
-        }
-    }
+//
+//    /**
+//     * Display a listing of the resource.
+//     *
+//     * @return \Illuminate\Http\Response
+//     */
+//    public function index()
+//    {
+//        $photosValues = Cache::get('globals');
+//        if (isset($photosValues)) {
+//            echo "Display data From REDIS server<br>";
+//            $photos = json_decode($photosValues);
+//            //dump($photos);
+//            Log::info('Display data From REDIS server');
+//            Log::info($photos);
+//            echo "PHOTOS N:". count($photos);
+//        }
+//        else {
+//            echo "Display data From REST API server<br>"; //https://jsonplaceholder.typicode.com/photos
+//            $response = Http::withOptions(["verify" => false])->get('https://jsonplaceholder.typicode.com/photos');
+//            //$response = Http::withOptions(["verify" => false])->withHeaders(["Cache-Control: no-cache",])->get('https://jsonplaceholder.typicode.com/photos');
+//
+//            Log::info('Display data From REST API server');
+//            Log::info($response);
+//            Log::info($response->body());
+//            //var_dump($response->body());
+//
+//
+//
+//            $photos = json_decode($response->body());
+//
+//            //mostra a video l'output dei 5000 elementi
+//            //dump($photos);
+//
+//            Cache::forever('globals', json_encode($photos));
+//
+//
+//            //Http::post($url,$fields)::withHeaders(["Authorization: Bearer $paystack_key","Cache-Control: no-cache",])::withOptions(["verify"=>false]);
+//
+//            /*Cache::forever('key', 'value');
+//            Given that, I would change your code to something like the following:
+//            cache()->forever('globals', json_encode(['foo' => 'bar']));*/
+//
+//            echo "STATUS:" . strval($response->status()) . "<br>";
+//            echo "OK:" . strval($response->ok()) . "<br>";
+//            echo "SUCCESSFUL:" . strval($response->successful()) . "<br>";
+//            echo "PHOTOS N:". count($photos);
+//        }
+//    }
 
     public function indexLoadXML()
     {
