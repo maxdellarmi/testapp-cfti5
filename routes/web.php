@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 /*
  * SOSTITUIRE UN NUMERO DI MAX AGE CONGRUENTE IN SECONDI 1 volta al GG ogni 2 ore ogni 4 ect etc
- * max_age=604800 => 1 anno
+ * max_age=31536000 => 1 anno
  * max_age=604800   => 1 settimana
  * A quel punto la cache client scade e viene rieffettuato il reload del file dalla CACHING SERVER di REDIS
  * Per svuotare il caching di REDIS a fronte di aggiornamenti:
@@ -166,12 +166,12 @@ Route::get('/indexV3LocFull3', function () {
     $result = (new PhotoController())->indexLocalityLoad();
     $arrOutput = json_decode($result->content(), TRUE);  //decodifica il json della risposta
     // Log::info( $arrOutput[0]["Loc"] ); //dato presente e verificato sui LOG
-    Log::info( "Route@indexV3LocFull3 TOTALE ELEMENTI RECUPERATI DAO MAPPATURA Resources\\Views\\indexV3LocFull.blade.php...");
+    Log::info( "Route@indexV3LocFull3 TOTALE ELEMENTI RECUPERATI DAL CONTROLLER:" . count($arrOutput[0]) ); //dato presente e verificato sui LOG
+    Log::info("Route@indexV3LocFull3 ELEMENT ARRAY CARICATO MAPPATURA Resources\\Views\\indexV3LocFull.blade.php...");
     return view('indexV3LocFull', ['alldata' => $arrOutput[0]]); //MAPPING sul blade variabile alldata es.  markersCoords = {{ Illuminate\Support\Js::from($alldata, true ) }};
 });
 
-L CONTROLLER:" . count($arrOutput[0]) ); //dato presente e verificato sui LOG
-    Log::info("Route@indexV3LocFull3 ELEMENT ARRAY CARICAT
+
 //altri test
 Route::get('/photoLoadXML2','PhotoController@indexLocalityLoadXML');
 Route::get('/photo','PhotoController@index');
