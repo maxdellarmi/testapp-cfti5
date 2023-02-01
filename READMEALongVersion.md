@@ -165,6 +165,18 @@ FORWARD_MEILISEARCH_PORT=
 FORWARD_MAILHOG_PORT=
 FORWARD_MAILHOG_DASHBOARD_PORT=
 
+3)COPIA TT LA DIRECTORY EXAMPLE-APP SENZA VENDOR E I FILE INTERNI
+
+4) il file  Config/app.php ha questa differenza mentre prima bastava solamente creare le prime 3 righe e vanno ripristinate
+   TODO RIPRISTINA E ELIMINA SOTTO
+    'aliases' => Facade::defaultAliases()->merge([
+        // 'ExampleClass' => App\Example\ExampleClass::class,
+    ])->toArray(),
+# testapp-cfti5
+
+Altri documentazione all'interno del file:
+https://docs.google.com/document/d/1c3haZ5jVguTPTm__dZIVGgwjZIZTZAKQx8SB_UPVjW0/edit
+
 5) Gestione middleware caching e Gzip dell'output controller / Getting response output with callback to an url with guzzleHttp
 https://link.medium.com/W7rZUCYHFtb
 https://link.medium.com/IARdzvjIFtb
@@ -174,6 +186,76 @@ https://www.itsolutionstuff.com/post/laravel-9-guzzle-http-request-exampleexampl
 6) GESTIONE AUTOMATION TEST LARAVEL DUSK 
 https://stackoverflow.com/questions/65569147/laravel-sail-dusk-selenium-connection-refused
 
+TODO ESPONI LA PORTA 4444 di SELENIUM
+selenium:
+	image: 'selenium/standalone-chrome'
+	volumes:
+		- '/dev/shm:/dev/shm'
+	ports:
+		- '4444:4444'
+	networks:
+		- sail
+
+I switched to http://selenium:4444 and the tests worked perfectly!
+
+Here are my new code:
+
+<?php
+
+namespace Tests;
+
+use Facebook\WebDriver\Chrome\ChromeOptions;
+use Facebook\WebDriver\Remote\DesiredCapabilities;
+use Facebook\WebDriver\Remote\RemoteWebDriver;
+use Laravel\Dusk\TestCase as BaseTestCase;
+
+abstract class DuskTestCase extends BaseTestCase {
+    use CreatesApplication;
+
+    /**
+     * Prepare for Dusk test execution.
+     *
+     * @beforeClass
+     * @return void
+     */
+    public static function prepare() {
+        if (!static::runningInSail()) {
+            static::startChromeDriver();
+        }
+    }
+
+    /**
+     * Create the RemoteWebDriver instance.
+     *
+     * @return \Facebook\WebDriver\Remote\RemoteWebDriver
+     */
+    protected function driver() {
+        $options = (new ChromeOptions)->addArguments([
+            '--disable-gpu',
+            '--headless',
+            '--no-sandbox',
+            '--window-size=1920,1080',
+        ]);
+
+        return RemoteWebDriver::create(
+            'http://selenium:4444/wd/hub', DesiredCapabilities::chrome()->setCapability(
+            ChromeOptions::CAPABILITY, $options
+        )->setCapability('acceptInsecureCerts', TRUE)
+        );
+    }
+}
+I hope I can help someone with the same problem!
+
+2
+
+The WebDriver used by Dusk is looking for the selenium docker image on port 4444.
+
+be sure to add to the .env file:
+
+DUSK_DRIVER_URL='http://selenium:4444'
+and an APP_URL that targets a local host on port 80:
+
+APP_URL="http://laravel.test:80"
 
 ./vendor/bin/sail php artisan dusk --filter testSomeFeature (LANCIA TEST SPECIFICO) 
 *****************************************************************************************************************************
@@ -200,18 +282,19 @@ https://www.oulub.com/docs/laravel/it-it/dusk
 *** AGGIUNGERE SAIL A UNA APPLICAZIONE GIA' ESISTENTE SU WINDOWS ***
 **** OPPURE PROVARE COSI
 https://laravel.com/docs/8.x/sail#installing-composer-dependencies-for-existing-projects
-1) SU WINDOWS 10 ESEGUI IL COMANDO CHE CREA LA DIR VENDOR
+1) SU WINDOWS 10 ESEGUI IL COMANDO CHE CREA LA DIR VENDOR AL VOLO!!!!
 al posto di pwd D:\INGV\testapp-cfti5\testapp-cfti5 ovvero la root dell'applicazione laravel scaricata
 docker run --rm -v D:/INGV/testapp-cfti5/testapp-cfti5:/var/www/html  -w /var/www/html   laravelsail/php81-composer:latest  composer install --ignore-platform-reqs
 
 2) dopo aver creato la dir vendor accedere alla distro ubunto almeno su pc wsl installarla almeno col comando wsl https://pureinfotech.com/install-wsl-windows-11/
 wsl --install -d DISTRO-NAME 
-
 3) entrare nella distro ubuntu e avvia ./vendor/bin/sail up oppure ./vendor/bin/sail up -d
 
 4) per installare dusk e il chrome driver
 ./vendor/bin/sail php artisan dusk:install
 
+
+My point was that I assumed the sail:install command would create the sail executable. So here you well need to use a second docker command to run artisan and install it. Using the sail tools wouldn't be possible to use directly
 
 **************************GENERAZIONE VENDOR DIRECTORY COMPILAZIONE LARAVEL PRIMA VOLTA SU UN NUOVO SERVER ******************************
 ESEGUI IN WSL UBUNTU con docker installato!!!  
@@ -305,7 +388,6 @@ It will generate a table similar to the following output (the exact table entrie
 The registered routes
 
 GET|HEAD   / .............................................................................................................................................................................................................................
-GET|HEAD   / .............................................................................................................................................................................................................................
 GET|HEAD   BiblioEEList_Service ...................................................................................................................................................................... PhotoController@serviceBiblioEEList
 GET|HEAD   EEListService ................................................................................................................................................................................... PhotoController@serviceEEList
 GET|HEAD   EEList_MEDService ........................................................................................................................................................................... PhotoController@serviceEEList_MED
@@ -329,7 +411,6 @@ GET|HEAD   loadJSONIndexEEdataFullCached .......................................
 GET|HEAD   loadJSONIndexEEdataFullCachedZIP ............................................................................................................................................. PhotoController@loadJSONIndexEEdataFullCachedZIP
 GET|HEAD   loadQuakesDataFromCache ............................................................................................................................................................... PhotoController@loadQuakesDataFromCache
 GET|HEAD   locality.php ............................................................................................................................................................................ PhotoController@singleLocalityLoading
-GET|HEAD   locality.php ............................................................................................................................................................................ PhotoController@singleLocalityLoading
 GET|HEAD   localitySourcesXMLService/{nterrId} ...........................................................................................................................................................................................
 GET|HEAD   localityXML .................................................................................................................................................................................. PhotoController@indexLocalityXML
 GET|HEAD   photo ................................................................................................................................................................................................... PhotoController@index
@@ -350,6 +431,12 @@ php artisan route:clear PULISCE la cache route
 php artisan route:cache  (la ricrea)
 
 https://stackoverflow.com/questions/47904156/is-there-some-sort-of-laravel-controller-cache
+.......................
+Se non fosse sufficiente
+composer dump-autoload
+and
+php artisan route:cache 
+
 
 
 ErrorException: copy(/var/www/html/storage/app/public/IndexEEdataFullCached.json): Failed to open stream: Permission denied
