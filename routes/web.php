@@ -17,7 +17,8 @@ use Illuminate\Support\Facades\Route;
 
 /*
  * SOSTITUIRE UN NUMERO DI MAX AGE CONGRUENTE IN SECONDI 1 volta al GG ogni 2 ore ogni 4 ect etc
- * max_age=31536000
+ * max_age=604800 => 1 anno
+ * max_age=604800   => 1 settimana
  * A quel punto la cache client scade e viene rieffettuato il reload del file dalla CACHING SERVER di REDIS
  * Per svuotare il caching di REDIS a fronte di aggiornamenti:
  * http://localhost:8081/cfti5UpdateCacheDestroyAll
@@ -56,7 +57,7 @@ $requestVariables = $request->input('inputData');
 //PRIMA PAGINA ORIGINALE=>BLADE
 Route::get('/cfti5', function () {
     return view('indexCFTI5');
-})->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+})->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 
 //PAGINA TERREMOTI MODIFICATA CACHING STORAGE
@@ -107,9 +108,9 @@ Route::post('/saveQuakesGeoJSONData','PhotoController@saveQuakesGeoJSONData');
 
 Route::get('/loadQuakesDataFromCache','PhotoController@loadQuakesDataFromCache');
 Route::get('/loadGeoJSONDataFromCache','PhotoController@loadGeoJSONDataFromCache');
-Route::get('/indexQuakesXML','PhotoController@indexQuakesXML')->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022'); //86400 1 gg 300 5min
+Route::get('/indexQuakesXML','PhotoController@indexQuakesXML')->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023'); //86400 1 gg 300 5min
 Route::get('/photoLoadXML','PhotoController@indexLoadXML');
-Route::get('/quake.php', 'PhotoController@singleQuakeLoading' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/quake.php', 'PhotoController@singleQuakeLoading' )->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 //Route::get('/data', [
 //    'middleware' => 'gzip',
@@ -119,12 +120,12 @@ Route::get('/quake.php', 'PhotoController@singleQuakeLoading' )->middleware('cac
 /********QUESTA CHIAMATA RESTITUISCE IL CONTENUTO GZIPPATO NEL BROWSER *->middleware('gzip') alla fine zippa il contenuto a livello 5 intermedio *********/
 //Route::get('/loadJSONIndexEEdataFullCached', 'PhotoController@loadJSONIndexEEdataFullCached' )->middleware('gzip');
 /*******QUESTA CHIAMATA RESTITUISCE IL CONTENUTO NON ZIPPATO TEXT PLAIN E CACHING LOCALE ********/
-Route::get('/loadJSONIndexEEdataFullCached', 'PhotoController@loadJSONIndexEEdataFullCached' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/loadJSONIndexEEdataFullCached', 'PhotoController@loadJSONIndexEEdataFullCached' )->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 //CACHING + ZIPPED chiamata attuale invocata dai JS
-Route::get('/loadJSONIndexEEdataFullCachedZIP', 'PhotoController@loadJSONIndexEEdataFullCachedZIP' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022', 'gzip');
+Route::get('/loadJSONIndexEEdataFullCachedZIP', 'PhotoController@loadJSONIndexEEdataFullCachedZIP' )->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023', 'gzip');
 
-//TODO css / iss /subd
+/* css / iss /subd */
 Route::get('/dss/css', 'PhotoController@loadDssCSS');
 Route::get('/dss/iss', 'PhotoController@loadDssISS');
 Route::get('/dss/subd', 'PhotoController@loadDssSUBD');
@@ -134,17 +135,17 @@ Route::get('/quakeSourcesXMLService/{nterrId}', function ($nterrId) {
     $result = (new PhotoController())->quakeSourcesLoading($nterrId);
 //    header('Content-Type: application/xml');
     return $result;
-})->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022'); //86400 1 gg 300 5min;
+})->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023'); //86400 1 gg 300 5min;
 
 
 // ServiceEE = '/EEListService';   // =>'EEList.xml';
-Route::get('/EEListService', 'PhotoController@serviceEEList')->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/EEListService', 'PhotoController@serviceEEList')->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 // ServiceEE_MED = '/EEList_MEDService';  // =>'EEList_MED.xml';
-Route::get('/EEList_MEDService', 'PhotoController@serviceEEList_MED')->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/EEList_MEDService', 'PhotoController@serviceEEList_MED')->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 // var xmlServiceEEbiblio = 'BiblioEE.xml'
-Route::get('/BiblioEEList_Service', 'PhotoController@serviceBiblioEEList')->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/BiblioEEList_Service', 'PhotoController@serviceBiblioEEList')->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 
 
@@ -155,7 +156,7 @@ Route::get('/BiblioEEList_Service', 'PhotoController@serviceBiblioEEList')->midd
 Route::get('/OtherFilesService/{filename}', function ($filename) {
     $result = (new PhotoController())->OtherFilesServiceList($filename);
     return $result;
-})->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022'); //86400 1 gg 300 5min;
+})->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023'); //86400 1 gg 300 5min;
 
 
 //TODO: effettuare il get di geoJSON ma poi passare al blade in fase di caricamento iniziare i dati
@@ -165,12 +166,12 @@ Route::get('/indexV3LocFull3', function () {
     $result = (new PhotoController())->indexLocalityLoad();
     $arrOutput = json_decode($result->content(), TRUE);  //decodifica il json della risposta
     // Log::info( $arrOutput[0]["Loc"] ); //dato presente e verificato sui LOG
-    Log::info( "Route@indexV3LocFull3 TOTALE ELEMENTI RECUPERATI DAL CONTROLLER:" . count($arrOutput[0]) ); //dato presente e verificato sui LOG
-    Log::info("Route@indexV3LocFull3 ELEMENT ARRAY CARICATO MAPPATURA Resources\\Views\\indexV3LocFull.blade.php...");
+    Log::info( "Route@indexV3LocFull3 TOTALE ELEMENTI RECUPERATI DAO MAPPATURA Resources\\Views\\indexV3LocFull.blade.php...");
     return view('indexV3LocFull', ['alldata' => $arrOutput[0]]); //MAPPING sul blade variabile alldata es.  markersCoords = {{ Illuminate\Support\Js::from($alldata, true ) }};
 });
 
-
+L CONTROLLER:" . count($arrOutput[0]) ); //dato presente e verificato sui LOG
+    Log::info("Route@indexV3LocFull3 ELEMENT ARRAY CARICAT
 //altri test
 Route::get('/photoLoadXML2','PhotoController@indexLocalityLoadXML');
 Route::get('/photo','PhotoController@index');
@@ -179,14 +180,14 @@ Route::get('/photo','PhotoController@index');
 
 //TODO:LOCALITY PER LA PAGINA DI TEST PHP START
 
-Route::get('/localityXML','PhotoController@indexLocalityXML')->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/localityXML','PhotoController@indexLocalityXML')->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
-Route::get('/locality.php', 'PhotoController@singleLocalityLoading' )->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+Route::get('/locality.php', 'PhotoController@singleLocalityLoading' )->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 Route::get('/localitySourcesXMLService/{nterrId}', function ($nterrId) {
     $result = (new PhotoController())->loadLocalitySources($nterrId);
     return $result;
-})->middleware('cache.headers:public;max_age=31536000;etag;last_modified=22-Nov-2022');
+})->middleware('cache.headers:public;max_age=604800;etag;last_modified=22-Jan-2023');
 
 
 //TODO:LOCALITY PER LA PAGINA DI TEST PHP END
