@@ -1,0 +1,113 @@
+DUSK_DRIVER_URL='http://selenium:4444'
+#APP_URL="http://laravel.test:80"
+APP_URL="http://laravel.dev.local"
+APP_SERVICE="laravel.dev.local"
+#APP_PORT=89
+
+
+ service "laravel.dev.local\r" is not running container #1
+ 
+ 
+ https://barryvanveen.nl/articles/ac08fa9b-what-i-learned-building-a-development-environment-in-docker
+ 
+Selenium on ARM
+Running the default Selenium Docker images on an M1 machine won't work. Use the Selenium ARM-specific images instead. 
+ 
+ Laravel Dusk environment configuration
+First, make sure your DuskTestCase (the base test class) is up-to-date with the stub from the Dusk repository.
+
+In your Dusk environment configuration (.env.dusk.local), set APP_URL='http://nginx' and DUSK_DRIVER_URL='http://selenium:4444/wd/hub.
+
+
+RUN groupadd --force -g $WWWGROUP sail
+RUN useradd -ms /bin/bash --no-user-group -g $WWWGROUP -u 1337 sail
+
+
+
+ERRORE:
+unable to find user sail: no matching entries in passwd file
+
+
+RUN addgroup -g 1000 sail \
+    && adduser -G sail -u 1000 sail -D
+
+A MANO A RUNTIME ESEGUI:
+1) addgroup -g 1000 sail
+addgroup -gid 1000 sail
+2) adduser -G sail -u 1000 sail -D
+adduser sail -gid 1000 --disabled-password
+3)
+NELLA MACCHINA VIRTUALE NGINX MANCA IL FILE PHP ESEGUIBILE
+OCI runtime exec failed: exec failed: unable to start container process: exec: "php": executable file not found in $PATH: unknown
+
+
+4) NON RIESCE A LANCIARE PIU ARTISAN DUSK INSTALL su macchine senza test
+./vendor/bin/sail php artisan dusk:install		
+
+https://medium.com/@scuttlebyte/running-headless-laravel-dusk-3-0-tests-in-docker-environments-f396752a9ffe
+
+
+https://laravel.com/docs/5.4/dusk#installation
+Browser Tests (Laravel Dusk)
+
+RESPONSIVE PAGE:
+https://www.digitalocean.com/community/tutorials/how-to-create-a-new-laravel-application-with-laravel-sail-and-tailwind-css
+
+depends_on:
+            - redis
+            - selenium
+
+
+
+https://stackoverflow.com/questions/63679593/laravel-dusk-facebook-webdriver-exception-unknownerrorexception-unknown-error
+
+Laravel Dusk: Facebook\WebDriver\Exception\UnknownErrorException: unknown error: net::ERR_CONNECTION_REFUSED
+
+I faced the same issue and for me what worked was setting the APP_URL parameter in the .env file as:
+
+APP_URL=http://127.0.0.1:8000
+As that was the same port on which my php artisan serve would also serve the website i.e.
+
+Laravel development server started: http://127.0.0.1:8000
+I have no idea and still can't believe why this worked. – 
+I suppose dusk needs to use the website being served to run the browser tests. It doesn't run its own servers but uses the same as your app. – 
+My issue was a little different, but this was a helpful clue! 
+I am running my tests inside a Docker-driven environment and I needed to have APP_URL=http://nginx:8080 
+(where nginx is the name of the container in which chromedriver is running) in .env.testing, whereas 
+APP_URL=http://localhost:8080 is needed in .env. Tricky little issue; thanks! – 
+
+
+'m putting this out there for others that might face the same thing as me.
+
+It turns out Laravel Dusk expects us to run 
+********* php artisan serve *************
+before running php artisan dusk! The ERR_CONNECTION_REFUSED error refers to not being able to connect to the http://localhost:8000 
+URL of the application itself, because it's not running.
+
+This does make sense, but I simply didn't know and the documentation was not clear on that (I had to deduce it). 
+The ChromeDriver, however, is started automatically by Dusk at execution time.
+
+
+/********************************************************/
+NON RIESCE A PRENDERE LA BASE URL NEMMENO DA QUA CHIAMANDO DIRETTO http://localhost/cfti5UpdateEE:
+
+
+ protected function baseUrl()
+    {
+        return rtrim(config('app.url'), '/');
+    }
+	
+	
+	max@DESKTOP-PBV1AKQ:/mnt/f/WORK/APPTEST-CFTI5Copia/laravel-dev$ ./vendor/bin/sail php artisan dusk --filter CFTI5TheWebTest
+PHPUnit 9.5.25 #StandWithUkraine
+
+E                                                                   1 / 1 (100%)
+
+Time: 00:16.752, Memory: 22.00 MB
+
+There was 1 error:
+
+1) Tests\Browser\CFTI5TheWebTest::testGenerateNewCacheEE_cfti5UpdateEE
+Facebook\WebDriver\Exception\UnknownErrorException: unknown error: net::ERR_CONNECTION_REFUSED
+
+*******************RIPROVARE IL CODICE VECCHIO ************************** APPTEST-CFTI5 QUANDO ANCORA NON C'ERA NGINX
