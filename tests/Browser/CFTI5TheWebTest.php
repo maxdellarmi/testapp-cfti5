@@ -11,6 +11,8 @@ use Illuminate\Support\Facades\Log;
 use Laravel\Dusk\Browser;
 use SebastianBergmann\Timer\Duration;
 use SebastianBergmann\Timer\Timer;
+use Symfony\Component\Process\Exception\ProcessFailedException;
+use Symfony\Component\Process\Process;
 use Tests\DuskTestCase;
 use function MongoDB\BSON\toJSON;
 use function PHPUnit\Framework\assertContains;
@@ -35,6 +37,35 @@ class CFTI5TheWebTest extends DuskTestCase
 //    }
 
     /**
+     *        Elenco delle chiavi principali in cache
+     *        Cache::forget('EEListServiceForever'); //'es. REDIS lancia il comando "DEL" "laravel_database_laravel_cache_:EEListServiceForever"
+     *        Cache::forget('QuakesXMLForever');
+     *        Cache::forget('OtherFilesServiceList_KML@i_quake_b.txt');
+     *        Cache::forget('OtherFilesServiceList_EE_classif.txt');
+     *        Cache::forget('OtherFilesServiceList_KML@i_quake_a.txt');
+     *        Cache::forget('OtherFilesServiceList_KML@locality_a.txt');
+     *        Cache::forget('BiblioEEListServiceForever');
+     *        Cache::forget('OtherFilesServiceList_listapdfT.txt');
+     *        Cache::forget('LocListForever');
+     *        Cache::forget('OtherFilesServiceList_KML@locality_b.txt');
+     *        Cache::forget('JSONFileIndexEEdataFullCached');
+     *        Cache::forget('OtherFilesServiceList_listapdfR.txt');
+     *
+     * Il sistema va a creare anche altre chiavi secondarie sulle localita e i terremoti specifici visualizzati es:
+     * "loadQuakeSources_22533"
+     * "loadQuakeSources_00540"
+     * "loadQuakeSources_00120
+     *
+     * 1) Il processo chiama questa url speciale /cfti5UpdateEE
+     * 2) Alla fine dell'esecuzione di questa pagina (2-4 minuti circa) crea un file json in questo path /var/www/html/storage/app/public/
+     * 3) Il file appena creato viene copiato sopra il file di cache IndexEEdataFullCached.json
+     * 4) Esecuzione del replace delle URL con quanto presente nel file replaceIndexEECacheSED.sh
+     * Alla prima chiamata del sito web (dopo aver pulito anche la cache lato client o dopo che questa risulta scaduta) vengono
+     * richiesti al server i nuovi dati leggendo i file xml aggiornati e che saranno immediatamente rimessi in cache sul sistema
+     * Redis.
+     *
+     * NB: la chiamata manuale alla pagina /cfti5UpdateCacheDestroyAll esecue il comando di pulizia di TUTTA la cache lato server.
+     *
      * @return void
      * @throws \Throwable
      */
@@ -47,21 +78,9 @@ class CFTI5TheWebTest extends DuskTestCase
         //Forzare un aggiornamento della cache lato rediis prima di chiamare la pagina per il file EEList.xml
         //Cache::flush() è l'equivalente della cancellazione delle chiavi singole
         var_dump("Fase inizio preparazione ambiente con caching server azzerato....START");
-        Cache::forget('EEListServiceForever'); //'es. REDIS lancia il comando "DEL" "laravel_database_laravel_cache_:EEListServiceForever"
-        Cache::forget('QuakesXMLForever');
-        Cache::forget('OtherFilesServiceList_KML@i_quake_b.txt');
-        Cache::forget('OtherFilesServiceList_EE_classif.txt');
-        Cache::forget('OtherFilesServiceList_KML@i_quake_a.txt');
-        Cache::forget('OtherFilesServiceList_KML@locality_a.txt');
-        Cache::forget('BiblioEEListServiceForever');
-        Cache::forget('OtherFilesServiceList_listapdfT.txt');
-        Cache::forget('LocListForever');
-        Cache::forget('OtherFilesServiceList_KML@locality_b.txt');
-        Cache::forget('JSONFileIndexEEdataFullCached');
-        Cache::forget('OtherFilesServiceList_listapdfR.txt');
-
-
+        Cache::flush();
         var_dump("Fase inizio preparazione ambiente con caching server azzerato....END");
+
         var_dump("Inizio chiamata /cfti5UpdateEE per creazione cache....START");
         //NB. volendo si possono far dimenticare tutte le chiavi e forzare un refresh lato server
         $this->browse(function (Browser $browser)  use ($theResult) {
@@ -100,19 +119,22 @@ class CFTI5TheWebTest extends DuskTestCase
         var_dump("Aggiornamento file di cache effettuata correttamente....END");
 
         var_dump("Fase finale forza riaggiornamento cache - START");
-        Cache::forget('EEListServiceForever'); //'es. REDIS lancia il comando "DEL" "laravel_database_laravel_cache_:EEListServiceForever"
-        Cache::forget('QuakesXMLForever');
-        Cache::forget('OtherFilesServiceList_KML@i_quake_b.txt');
-        Cache::forget('OtherFilesServiceList_EE_classif.txt');
-        Cache::forget('OtherFilesServiceList_KML@i_quake_a.txt');
-        Cache::forget('OtherFilesServiceList_KML@locality_a.txt');
-        Cache::forget('BiblioEEListServiceForever');
-        Cache::forget('OtherFilesServiceList_listapdfT.txt');
-        Cache::forget('LocListForever');
-        Cache::forget('OtherFilesServiceList_KML@locality_b.txt');
-        //Cache::forget('JSONFileIndexEEdataFullCached'); //questa chiave è stata appena ricreata dal processo di generazione cache è inutile cancellarla.
-        Cache::forget('OtherFilesServiceList_listapdfR.txt');
+        Cache::flush();
         var_dump("Fase finale forza riaggiornamento cache - END");
+
+        var_dump("Esecuzione replace URL localost comando ---- replaceIndexEECacheSED.sh .... START");
+            $executionCommand= storage_path('app/public').'/'.'replaceIndexEECacheSED.sh';
+        $process = new Process(array('sh' ,  $executionCommand), storage_path('app/public')); /**1) array comando 2) cwd ovvero change working dir*/
+        try {
+            $process->mustRun();
+            echo $process->getOutput();
+            var_dump("Esecuzione replace URL localost comando ----- replaceIndexEECacheSED.sh .... END");
+        } catch (ProcessFailedException $exception) {
+            echo $exception->getMessage();
+            var_dump("Esecuzione replace URL localost comando ----- replaceIndexEECacheSED.sh .... ERROR:=" .  $exception->getMessage());
+        }
+
+
 
 //        //2) Avvio pulizia cache server completa
 //        $theResultCache =new OutputData();
