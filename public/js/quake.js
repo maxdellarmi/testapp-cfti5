@@ -1631,7 +1631,7 @@ function parsePQData2(XmlText){
 
 			//Export variableKML
 			ExportKmlR = ExportKmlR + "<Placemark> <name>" + locPQname[i] + " - " + intR +  " </name>" + CarRet + "<description><![CDATA["
-			ExportKmlR = ExportKmlR + "<b>" +  locPQname[i] + "</b><br><br>Latitude: <b>" + locPQlat[i] + "</b> <br>Longitude: <b>" + locPQlon[i] + "</b> <br><br>MCS Intensity reported: <b>" + intR + "</b> <br>Effects on natural Environment: <b>" + EEflagExport + "</b><br>Distance from epicenter (km): <b>" + distance[i] + "</b><br><br><b><a href=" + virg + "http://storing.ingv.it/cfti/cfti5/locality.php?" + nlocPQ[i] + "EN" + virg + ">Locality page </a></b>"
+			ExportKmlR = ExportKmlR + "<b>" +  locPQname[i] + "</b><br><br>Latitude: <b>" + locPQlat[i] + "</b> <br>Longitude: <b>" + locPQlon[i] + "</b> <br><br>MCS Intensity reported: <b>" + intR + "</b> <br>Effects on natural Environment: <b>" + EEflagExport + "</b><br>Distance from epicenter (km): <b>" + distance[i] + "</b><br><br><b><a href=" + virg + "https://cfti.ingv.it:8003/locality.php?" + nlocPQ[i] + "EN" + virg + ">Locality page </a></b>"
 			ExportKmlR = ExportKmlR + "]]></description>" + CarRet + "<LookAt>" + CarRet + "<longitude>" + locPQlon[i] + "</longitude>" + CarRet + "<latitude>" + locPQlat[i] + "</latitude>" + CarRet + "<range></range>" + CarRet + "</LookAt>" + CarRet + "<styleUrl>#" + IsIcon + "</styleUrl>" + CarRet + "<Point>" + CarRet + "<coordinates>"+ locPQlon[i] + ","+ locPQlat[i] + "</coordinates>" + CarRet + "</Point>" + CarRet + "</Placemark>"
 
 		};
