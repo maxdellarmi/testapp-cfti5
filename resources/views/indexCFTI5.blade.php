@@ -6,12 +6,22 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="css/css.css" />
     <link rel="stylesheet" href="css/index.css" />
-    <link rel="stylesheet" href="jquery/jquery-ui.css">
     <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>--->
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry"> </script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script src="jquery/jquery-1.12.4.js"></script>
-    <script src="jquery/jquery-ui.js"></script>
+
+    <!--
+    <script src="jquery/jquery-1.12.4.js"></script>   jquery version 1.12.4
+    <script src="jquery/jquery-ui.js"></script>  jquery-ui version 1.12.1
+    <link rel="stylesheet" href="jquery/jquery-ui.css">
+    -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
+
     <script type="text/javascript" src="js/manajax.js"> </script>
     <script src="js/oms.min.js"></script>
     <script src="js/mapOL.js"></script>
@@ -50,9 +60,14 @@
     <script src="js/cookieconsent.min.js"></script>
     <!--sezione mappa OL begin-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-<!--    FINO ALLA VERSIONE 6.8.1 jsdelivr e una nuova cdn-->
+
+    <!--OPENLAYERS versione 6.15.1 latest v6 RELEASE in locale scaricata dalla distribuzione release -->
+    <script src="js/openlayers/ol.js"></script>
+    <link rel="stylesheet" href="js/openlayers/ol.css" type="text/css">
+
+    <!--VERSIONE LEGACY UTILIZZATA TESTATA FINORA
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">-->
     <link rel="stylesheet" href="https://unpkg.com/ol-popup@4.0.0/src/ol-popup.css" type="text/css">
     <script src="https://unpkg.com/ol-popup@4.0.0/dist/ol-popup.js" ></script>
     <script src="js/ol-geocoder.js"></script>
@@ -62,6 +77,38 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
     <!--sezione mappa OL end-->
+    <meta id="viewport" name="viewport">
+
+    <script type="text/javascript">
+        //mobile viewport hack
+        (function(){
+
+            function apply_viewport(){
+                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+
+                    var ww = window.screen.width;
+                    var mw = 800; // min width of site
+                    var ratio =  ww / mw; //calculate ratio
+                    var viewport_meta_tag = document.getElementById('viewport');
+                    if( ww < mw){ //smaller than minimum size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=' + ratio + ', maximum-scale=' + ratio + ', minimum-scale=' + ratio + ', user-scalable=no, width=' + mw);
+                    }
+                    else { //regular size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=1.0, maximum-scale=1, minimum-scale=1.0, user-scalable=yes, width=' + ww);
+                    }
+
+                }
+            }
+
+            //ok, i need to update viewport scale if screen dimentions changed
+            window.addEventListener('resize', function(){
+                apply_viewport();
+            });
+
+            apply_viewport();
+
+        }());
+    </script>
 </head>
 
 <div id="loading" ><br><strong>Loading....</strong></div>
@@ -74,7 +121,7 @@
 <!--<body onresize="resizeMapIndex()" onload="stateChange()">-->
 <body onload="stateChange()" onresize="resizeMapIndex()">
 
-<div id="content" style="height: 50%; width:50%">
+<div id="content" >
     <div id="tdCursor"></div>
     <div id="NumSel"></div>
     <div id="FakeGraph">
@@ -96,7 +143,7 @@
         <span id="clickOKsentence"></span>
     </div>
 
-    <div id="leftside" >
+    <div id="leftside"  >
         <div id="topcolor">
             <div id="accessDIV" >
                 <abbr title="Accesso per" id ="abbracc"><select id="access" name="access" onchange="stateChange()"></abbr>

@@ -18,6 +18,9 @@ var warmUpPrimoCaricamento=true;
 var XMLQuakeList;
 var XMLQuakeListArrived = false;
 var IntervalVar = null;
+
+var IntervalStopFixHeights = null;
+
 var MenuPilot = null;
 var LogPilot = null;
 var GmapsPilot = null;
@@ -873,10 +876,17 @@ var GmapsTools = function(){
 			zoneQuakeSetParam();
 		}
 
-		// ----- create chart
-		google.charts.load('45', {packages: ['corechart']})
-	    google.charts.setOnLoadCallback(function() {drawChart(Filters['StartYear'], Filters['StopYear']); });
+		// ----- create chart only if WEB VERSION!
 
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            console.log('MOBILE version chart is skipped')
+        }
+        else {
+            google.charts.load('45', {packages: ['corechart']})
+            google.charts.setOnLoadCallback(function () {
+                drawChart(Filters['StartYear'], Filters['StopYear']);
+            });
+        }
 		// Write out how many events were selected based on filters (top-left on the map)
 		if (Langsel == "EN") NumEqSel.innerHTML = "<b>" + iMarker + ' </b><span id="numEq"> events selected</span>';
 		else NumEqSel.innerHTML = "<b>" + iMarker + ' </b><span id="numEq"> eventi selezionati</span>';
@@ -1042,6 +1052,19 @@ var GmapsTools = function(){
             console.info("END WARMUP PRIMO CARICAMENTO BACKGROUND PER INIZIALIZZARE CACHE layer locality - indexEE.....");
         }
         warmUpPrimoCaricamento=false;
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            if (h < 800) {
+                IntervalStopFixHeights = setInterval(function mobileFixHeightsForSmallH() {
+                    console.log('visione MOBILE FIX ALTEZZA H<800 mappa caricamento iniziale e click dei filtri.');
+                    //Apre e chiude un elemento all'interno della pagina che si ricalcola subito
+                    document.getElementById("WMSlayersIcon").click();
+                    document.getElementById("WMSclose").click();
+                    clearInterval(IntervalStopFixHeights);
+                }, 10);
+            }
+        }
+
 	}
 
 	// ============== Remove markers from map
@@ -1301,6 +1324,9 @@ function ResetMap(){
     console.info("INIZIO CARICAMENTO CREAZIONE MAPPA DOPO LO SHOWQUAKES");
     creazioneMappa(); //TODO: AGGIUNTO DAL MANAJAX
     console.info("FINE CARICAMENTO CREAZIONE MAPPA DOPO LO SHOWQUAKES");
+
+
+
     // //TESTING CON SELENIUM E DUSK
     // alert("ESECUZIONE TEST COMPLETA");
 
@@ -1350,7 +1376,7 @@ function initializeEq(){
 		if(true == XMLQuakeListArrived){
 			clearInterval(IntervalVar);
 			MenuPilot.setMenu();
-		}
+        }
 	},10);
 
 	if (window.attachEvent) FilterButton.attachEvent('onclick', xResetMap);
@@ -1447,17 +1473,219 @@ function xResetMap(){
 
 }
 
+
+
 function resizeMapIndex() {
 	resizeMap();
-	document.querySelector('#resultsEQ').style.height = Math.round( h -405)+'px';
-	document.querySelector('#resultsLOC').style.height = Math.round( h -205)+'px';
-	document.querySelector('#resultsEE').style.height = Math.round( h -395)+'px';
-	document.querySelector('#Eq_info tbody').style.height = Math.round( h -430)+'px';
-	document.querySelector('#Eq_info').style.height = Math.round( h -410)+'px';
-	document.querySelector('#Loc_info tbody').style.height = Math.round( h -235)+'px';
-	document.querySelector('#Loc_info').style.height = Math.round( h -205)+'px';
-	document.querySelector('#EE_info tbody').style.height = Math.round( h -420)+'px';
-	document.querySelector('#EE_info').style.height = Math.round( h -400)+'px';
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        var grandezzaElementiTabella = 250; //Math.round(w / 4);
+        console.log('modifica le altezze per visione MOBILE ...');
+        document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
+        document.querySelector('#leftside').style.height = "99%";
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "hidden";
+        //Rimuove il grafico che ha i puntamenti con position absolute
+        document.querySelector('#IntGraphINDEX').style.display = "none";
+        document.querySelector('#IntGraphINDEX').style.visibility = "hidden";
+        document.querySelector('#IntGraphEnl').style.display = "none";
+        document.querySelector('#IntGraphEnl').style.visibility = "hidden";
+        document.querySelector('#IntGraphRed').style.display = "none";
+        document.querySelector('#IntGraphRed').style.visibility = "hidden";
+
+        document.querySelector('#export').style.display = "none";
+        document.querySelector('#export').style.visibility = "hidden";
+        document.querySelector('#WMSWFS').style.display = "none";
+        document.querySelector('#WMSWFS').style.visibility = "hidden";
+
+        /***rimozione footer **/
+        document.querySelector('#footer').style.display="none";
+        document.querySelector('#footer').style.visibility="hidden";
+        document.querySelector('#license').style.display = "none";
+        document.querySelector('#license').style.visibility = "hidden";
+        document.querySelector('#cc').style.display = "none";
+        document.querySelector('#cc').style.visibility = "hidden";
+
+        document.querySelector('#sliderI').style.display="";
+        document.querySelector('#sliderI').style.visibility="visible";
+        document.querySelector('#sliderI').style.marginTop= "35px"
+        document.querySelector('#sliderI').style.position = "absolute"
+        document.querySelector('#sliderI').style.marginLeft = "0px"
+
+        //document.querySelector('#IntGraphINDEX').style.width = grandezzaElementiTabella + "px";
+
+        //impostazione posizione disclaimer iniziale:
+        try {
+            document.querySelector('#disclaimer').style.marginLeft = "100px"; // margineSXDisclaimer + 'px';
+        }
+        catch (e) {
+            //console.error('ERRORE Gestito');
+            //console.log(e, e.stack);
+            ;
+        }
+
+
+
+        var leftWMS = grandezzaElementiTabella + 20;
+        document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+        document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
+
+        document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+        document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
+
+        var margineSXLegend = grandezzaElementiTabella + 25;
+        document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
+        document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
+
+        document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+
+        document.querySelector('#LaySel').style.top = '55px';
+        document.querySelector('#LaySel').style.right = '5px';
+
+        document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 25% del totale
+        document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+
+        document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //CI STA IL 460 margin-left fisso su CSS.
+
+        document.querySelector('#NumSel').style.display="none";
+        document.querySelector('#NumSel').style.visibility="hidden";
+
+        document.querySelector('#FakeGraph').style.display="none";
+        document.querySelector('#FakeGraph').style.visibility="hidden";
+
+        document.querySelector('#SaveIcon').style.display="none";
+        document.querySelector('#SaveIcon').style.visibility="hidden";
+
+
+        //restringe e/o nasconde le colonne della tabella PS
+        $(".time").css("width", "30px");
+
+        $(".imax").css("display", "none");
+        $(".imax").css("visibility", "hidden");
+
+        $(".sites").css("display", "none");
+        $(".sites").css("visibility", "hidden");
+
+        $(".me").css("display", "none");
+        $(".me").css("visibility", "hidden");
+
+        $(".rel").css("display", "none");
+        $(".rel").css("visibility", "hidden");
+
+        $(".level").css("display", "none");
+        $(".level").css("visibility", "hidden");
+
+        //sposta all'interno i controlli della mappa
+        $(".ol-zoom-in").css("margin-right", "82px");
+        $(".ol-zoom-out").css("margin-right", "82px");
+        $(".ol-full-screen").css("margin-right", "77px");
+        $(".ol-full-screen").css("margin-bottom", "97px");
+
+
+        $(".TitleMenuB").css("display","none");
+        $(".TitleMenuB").css("visibility","hidden");
+        $(".MenuBlockCoord").css("display","none");
+        $(".MenuBlockCoord").css("visibility","hidden");
+        $(".MenuBlockPeriod").css("display","none");
+        $(".MenuBlockPeriod").css("visibility","hidden");
+        $(".menu").css("width", grandezzaElementiTabella);
+        $(".MenuBlockInt").css("margin-top","20px");
+        $(".MenuBlockInt").css("width", "225px");
+        //$(".MenuBlockInt").css("height", "120px");
+        $(".MenuBlockInt").css("height", "90px");
+
+        document.querySelector('#accessDIV').style.marginLeft = "83px";
+        document.querySelector('#accessDIV').style.marginTop = "22px";
+        document.querySelector('#topmenu').style.width = "220px";
+        /**menu superiore dei filtri terremoti*/
+        document.querySelector('#menuEQ').style.height="148px";
+        document.querySelector('#menuEQ').style.display = "";
+        document.querySelector('#menuEQ').style.width="250px";
+        //document.querySelector('#menuEQ').style.marginTop="50px";
+
+        document.querySelector('#topcolor').style.width = "50px";
+        document.querySelector('#topcolor').style.border="0px";
+
+        $(".OKbutton").css("margin-left","180px");
+        //$(".OKbutton").css("margin-top","-35px");
+        $(".OKbutton").css("float","left");
+
+       /* document.querySelector('#accessDIV').style.marginTop = "30px";
+        document.querySelector('#accessDIV').style.marginLeft= "30px" */
+        document.querySelector('#resultsEQ').style.marginTop = "200px";
+        $(".results").css("width", "250px"); // grandezzaElementiTabella + 'px';
+
+
+
+        /***** GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MAGGIORE di 800 ***/
+        if (h > 800) {
+            console.log('modifica le altezze per visione MOBILE > 800 px H ...');
+            document.querySelector('#resultsEQ').style.height = Math.round(h - 305) + 'px';
+            document.querySelector('#Eq_info tbody').style.height = Math.round(h - 330) + 'px';
+            document.querySelector('#Eq_info').style.height = Math.round(h - 310) + 'px';
+
+            document.querySelector('#resultsLOC').style.height = Math.round(h - 205) + 'px';
+            document.querySelector('#resultsEE').style.height = Math.round(h - 395) + 'px';
+            document.querySelector('#Loc_info tbody').style.height = Math.round(h - 235) + 'px';
+            document.querySelector('#Loc_info').style.height = Math.round(h - 205) + 'px';
+
+            document.querySelector('#EE_info tbody').style.height = Math.round(h - 420) + 'px';
+            document.querySelector('#EE_info').style.height = Math.round(h - 400) + 'px';
+
+            document.querySelector('#leftside').style.overflowY = "hidden";
+        } else {
+            console.log('modifica le altezze per visione MOBILE < 800px H ...');
+            document.querySelector('#leftside').style.overflowY = "auto";
+            document.querySelector('#leftside').scrollTop = 0;
+
+            document.querySelector('#license').style.display = "none";
+            document.querySelector('#license').style.visibility = "hidden";
+
+            document.querySelector('#cc').style.display = "none";
+            document.querySelector('#cc').style.visibility = "hidden";
+
+            //document.querySelector('#leftside').style.height = "100%";
+
+            /*****attenzione per mantenere visibile l'header della tabella il TBODY è piu piccolo di 20px*****/
+            // versione iniziale che al primo click piglia tutto lo schermo a sinistra
+            document.querySelector('#resultsEQ').style.marginTop = "150px";
+            document.querySelector('#resultsEQ').style.height ='150px';
+            document.querySelector('#Eq_info tbody').style.height = '135px'; //eq_data
+            document.querySelector('#Eq_info tbody').style.width = grandezzaElementiTabella + 'px';
+            document.querySelector('#Eq_info').style.height = '150px';
+            $(".MenuBlockInt").css("margin-top","10px");
+
+
+
+            // document.querySelector('#resultsEQ').style.height ='205px';
+            // document.querySelector('#Eq_info tbody').style.height = '180px';
+            // document.querySelector('#Eq_info').style.height = '205px';
+
+            // document.querySelector('#resultsEQ').style.height ='225px';
+            // document.querySelector('#Eq_info tbody').style.height = '200px';
+            // document.querySelector('#Eq_info').style.height = '225px';
+
+
+            document.querySelector('#resultsLOC').style.height ='205px';
+            document.querySelector('#resultsEE').style.height = '395px';
+            document.querySelector('#Loc_info tbody').style.height ='235px';
+             document.querySelector('#Loc_info').style.height ='205px';
+             document.querySelector('#EE_info tbody').style.height = '420px';
+             document.querySelector('#EE_info').style.height = '400px';
+        }
+    } //endif navigator.userAgent
+    else {
+        console.log('modifica le altezze per visione WEB DA PC - NON MOBILE');
+        /*** QUESTE SONO LE ALTEZZE DEFINITE NORMALMENTE PER LA VERSIONE BASE E WEB ***/
+        document.querySelector('#resultsEQ').style.height = Math.round(h - 405) + 'px';  //38%
+        document.querySelector('#resultsLOC').style.height = Math.round(h - 205) + 'px'; //19%
+        document.querySelector('#resultsEE').style.height = Math.round(h - 395) + 'px';  //36.67%
+        document.querySelector('#Eq_info tbody').style.height = Math.round(h - 430) + 'px'; //39.92
+        document.querySelector('#Eq_info').style.height = Math.round(h - 410) + 'px'; //38%
+        document.querySelector('#Loc_info tbody').style.height = Math.round(h - 235) + 'px'; //21.8%
+        document.querySelector('#Loc_info').style.height = Math.round(h - 205) + 'px';
+        document.querySelector('#EE_info tbody').style.height = Math.round(h - 420) + 'px';
+        document.querySelector('#EE_info').style.height = Math.round(h - 400) + 'px';
+    }
 }
 
 
@@ -1888,39 +2116,82 @@ function drawChart(yearmin, yearmax) {
 	dataChart.addRow ([nmin, 0, '#1f708f', texthid]);
 	dataChart.addRow ([nmax, 0, '#1f708f', texthid]);
 
-	options = {
-		width: 450,
-		height: 110,
-		chartArea:{left:45,right:15,top:10,bottom:20,width: "100%", height: "100%"},
-		legend: {position: 'none'},
-		backgroundColor: 'transparent',
-		bar: {groupWidth: "1"},
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) { //VERSIONE MOBILE
+        // options = {
+        //     width: 320  ,
+        //     height: 80,
+        //     chartArea: {left: 45, right: 15, top: 10, bottom: 20, width: "100%", height: "100%"},
+        //     legend: {position: 'none'},
+        //     backgroundColor: 'transparent',
+        //     bar: {groupWidth: "1"},
+        //
+        //     hAxis: {
+        //         title: '',
+        //         textStyle: {
+        //             fontSize: 11,
+        //         },
+        //         viewWindow: {
+        //             // --- min non funziona con date neg, quindi workaround con fake bars - vedi sopra
+        //             //min: new Date(minY-50, 01, 01),
+        //             // max: new Date(maxY+50, 01, 01),
+        //         }
+        //     },
+        //     vAxis: {
+        //         title: 'Io MCS',
+        //         textStyle: {
+        //             fontSize: 11,
+        //         },
+        //         titleTextStyle: {
+        //             fontSize: 11,
+        //         },
+        //         viewWindow: {min: 0, max: 12},
+        //         gridlines: {count: 10},
+        //         ticks: [{v: 2, f: 'II'}, {v: 3, f: 'III'}, {v: 4, f: 'IV'}, {v: 5, f: 'V'}, {v: 6, f: 'VI'}, {
+        //             v: 7,
+        //             f: 'VII'
+        //         }, {v: 8, f: 'VIII'}, {v: 9, f: 'IX'}, {v: 10, f: 'X'}, {v: 11, f: 'XI'}]
+        //     }
+        // };
+        /**grafico in versione mobile nascosto**/
+        console.log("grafico in versione MOBILE nascosto");
+    }
+    else { //VERSIONE WEB
+        options = {
+            width: 450,
+            height: 110,
+            chartArea: {left: 45, right: 15, top: 10, bottom: 20, width: "100%", height: "100%"},
+            legend: {position: 'none'},
+            backgroundColor: 'transparent',
+            bar: {groupWidth: "1"},
 
-		hAxis: {
-			title: '',
-			textStyle : {
-				fontSize: 11,
-			},
-			viewWindow: {
-				// --- min non funziona con date neg, quindi workaround con fake bars - vedi sopra
-				//min: new Date(minY-50, 01, 01),
-				// max: new Date(maxY+50, 01, 01),
-				}
-		},
-		vAxis: {
-			title: 'Io MCS',
-			textStyle : {
-				fontSize: 11,
-			},
-			titleTextStyle : {
-				fontSize: 11,
-			},
-			viewWindow: {min: 0, max: 12},
-			gridlines: {count: 10},
-			ticks: [{v:2, f:'II'},{v:3, f:'III'},{v:4, f:'IV'},{v:5, f:'V'},{v:6, f:'VI'},{v:7, f:'VII'},{v:8, f:'VIII'},{v:9, f:'IX'},{v:10, f:'X'},{v:11, f:'XI'}]
-		}
-	};
-
+            hAxis: {
+                title: '',
+                textStyle: {
+                    fontSize: 11,
+                },
+                viewWindow: {
+                    // --- min non funziona con date neg, quindi workaround con fake bars - vedi sopra
+                    //min: new Date(minY-50, 01, 01),
+                    // max: new Date(maxY+50, 01, 01),
+                }
+            },
+            vAxis: {
+                title: 'Io MCS',
+                textStyle: {
+                    fontSize: 11,
+                },
+                titleTextStyle: {
+                    fontSize: 11,
+                },
+                viewWindow: {min: 0, max: 12},
+                gridlines: {count: 10},
+                ticks: [{v: 2, f: 'II'}, {v: 3, f: 'III'}, {v: 4, f: 'IV'}, {v: 5, f: 'V'}, {v: 6, f: 'VI'}, {
+                    v: 7,
+                    f: 'VII'
+                }, {v: 8, f: 'VIII'}, {v: 9, f: 'IX'}, {v: 10, f: 'X'}, {v: 11, f: 'XI'}]
+            }
+        };
+    }
 	var options2 = {
 		width: 1100,
 		height: 300,
@@ -1989,8 +2260,16 @@ function drawChart(yearmin, yearmax) {
 		$('#ReduceGraph').click(function(event) {
 			$('#IntGraphEnl').show();
 			$('#IntGraphRed').hide();
-			document.querySelector('#IntGraphINDEX').style.width = '450px';
-			options.width = 450;
+            if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) { //VERSIONE MOBILE
+                document.querySelector('#IntGraphINDEX').style.width = '320px';
+                document.querySelector('#IntGraphINDEX').style.heigth = '80px';
+                options.width = 320;
+            }
+            else
+            { //VERSIONE WEB
+                document.querySelector('#IntGraphINDEX').style.width = '450px';
+                options.width = 450;
+            }
 			chart.draw(dataChart, options);
 		});
 		$('#closeOKwarning').click(function(event) {

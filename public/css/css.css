@@ -181,17 +181,22 @@ body { top: 0px !important; }
 	right: 0.35em!important;
 	bottom: 1.5em!important;
 }
-.gcd-gl-control {
-	/*font-size: 2em!important;*/
-	font-size: 1.65em!important;
-	/*top: 32em!important;*/
-	/*top: 0.5em!important;*/
-	top: 0.03em!important;
-	left: 0.001em!important;
+
+
+.gcd-gl-btn {
+    width: 2.0875em!important;
+    height: 2.075em!important;
+    top: -0.0001em!important;
+    left: -0.001em!important;
 }
+
+.gcd-gl-control {
+    font-size: 1.55em!important;
+    top: 0.004em!important;
+    left: -0.05em!important;
+}
+
 .gcd-gl-result {
-	/*top: 34em!important;*/
-	/*top: 2.5em!important;*/
 	top: 2.3em!important;
 	left: 3em!important;
 	font-size: 1.5em!important;
@@ -244,13 +249,14 @@ body { top: 0px !important; }
 
 #pagetype{
 	position:absolute;
-	margin-left: 320px;
+	/*margin-left: 320px;*/
+    margin-left: 234px;
 	width: 250px;
 	margin-top: 6px;
 	z-index: 1;
 	font-size: 140%;
 	font-weight: bold;
-	text-align: middle;
+	text-align: center;
 }
 #NumSel {
 	position:absolute;
@@ -393,7 +399,7 @@ footer p#license { width: 100%; text-align: center; font-size: 80%; }
    right: 0px; !important;
    background-color: #fff;
    overflow: hidden;
-   border-radius: 5px 5px 5px 5px; /* apply 10px to the bottom corners of the infowindow */*/
+   border-radius: 5px 5px 5px 5px; /* apply 10px to the bottom corners of the infowindow */
 }
 
 .iw-title {

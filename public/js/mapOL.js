@@ -756,9 +756,9 @@ function creazioneMappa () {
                                 allpopupContent += (feature.OnClickTextIT + '<br>');
                             }
                             //GeoJSON
-                            if (feature.values_.OnClickTextIT != undefined) {
-                                allpopupContent += (feature.values_.OnClickTextIT + '<br>');
-                            }
+                            // if (feature.values_.OnClickTextIT != undefined) {
+                            //     allpopupContent += (feature.values_.OnClickTextIT + '<br>');
+                            // }
                             featureId = feature.getProperties().id;
                         });
                         //console.log("TODO4 FEATURE SAME COORDINATES trying to merge all POPOP content:"+ allpopupContent);
@@ -766,12 +766,12 @@ function creazioneMappa () {
                         //gestione pulsante chiusura X del popup
                         if (feature.get('features').length ===1) {
                             popupContent = buttonCloseSingle.toString() + " "+ popupContent;
-                            //geoJSON
-                            if ( feature.get('features')[0].values_ != undefined ) {
-                                //evento click sull'elemento selezionato per evidenziare sulla tabella di sinistra
-                                console.log(feature.get('features')[0].values_);
-                                google.maps.event.trigger(geoJSONArray.features[feature.get('features')[0].values_.id] , 'click');
-                            }
+                            //geoJSON -- non utilizzato attualmente
+                            // if ( feature.get('features')[0].values_ != undefined ) {
+                            //     //evento click sull'elemento selezionato per evidenziare sulla tabella di sinistra
+                            //     console.log(feature.get('features')[0].values_);
+                            //     google.maps.event.trigger(geoJSONArray.features[feature.get('features')[0].values_.id] , 'click');
+                            // }
                         }
                         else popupContent = buttonCloseCluster.toString() + " "+ popupContent;
                     }
@@ -780,9 +780,9 @@ function creazioneMappa () {
                         console.log('features singola trovata... '+featureId);
                         popupContent = feature.OnClickTextIT;
                         //GeoJSON
-                        if (feature.values_.OnClickTextIT != undefined) {
-                            popupContent = feature.values_.OnClickTextIT;
-                        }
+                        // if (feature.values_.OnClickTextIT != undefined) {
+                        //     popupContent = feature.values_.OnClickTextIT;
+                        // }
                         //gestione pulsante chiusura X del popup
                         popupContent = buttonCloseSingle.toString() + " "+ popupContent;
                     }
@@ -792,11 +792,11 @@ function creazioneMappa () {
                         //evento click sull'elemento selezionato per evidenziare sulla tabella di sinistra
                         google.maps.event.trigger(markersArray[featureId]["Marker"], 'click');
                     }
-                    //geoJSON
-                    if ( featureId != undefined && geoJSONArray[featureId]!=undefined) {
-                        console.log(feature.get('features')[0].values_);
-                        google.maps.event.trigger(geoJSONArray.features[featureId] , 'click');
-                    }
+                    //geoJSON -- non utilizzato attualmente
+                    // if ( featureId != undefined && geoJSONArray[featureId]!=undefined) {
+                    //     console.log(feature.get('features')[0].values_);
+                    //     google.maps.event.trigger(geoJSONArray.features[featureId] , 'click');
+                    // }
 
                     popup.setPosition(coordinates);
                     $(element).popover({
@@ -894,13 +894,14 @@ function puliziaClearAllMapsLayers() {
                 title: 'BASEMAP'
             });
             console.log('caricamento dei terremoti in input quakes:');
-            console.log(quakes);
+            // console.log(quakes);
 
             /*****ricerca il pinpoint per aggiungerlo separatamente tra i layers *****/
             var pinpoint= [];
             var result = localityPHPmarkers.filter(obj => {
-                //if (obj.values_.type== "pinpoint" || obj.values_.type== "area" ) { pinpoint.push(obj); }
-                if (obj.values_.type== "pinpoint" ) { pinpoint.push(obj); }
+                //breaking change OL-v6.15.1  - old line v.6.4.3
+                //if (obj.values_.type== "pinpoint" ) { pinpoint.push(obj); }
+                if (obj.A.type== "pinpoint" ) { pinpoint.push(obj); }
               })
 
             pinpointVector = new ol.layer.Vector({

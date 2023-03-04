@@ -221,6 +221,7 @@ function InitializeQuake() {
 }
 
 function resizeMapQuake() {
+    console.log('resizeMapQuake()');
 	resizeMap();
 	document.querySelector('#quakePQtable').style.height = Math.round( h -395)+'px';
 	document.querySelector('#PQ_info tbody').style.height = Math.round( h -435)+'px';

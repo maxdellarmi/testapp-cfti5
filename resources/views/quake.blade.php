@@ -7,12 +7,19 @@
 	<link rel="stylesheet" href="css/css.css" />
 	<link rel="stylesheet" href="css/quake.css" />
 	<script type="text/javascript" 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>
-	<script type="text/javascript" src="jquery/jquery.min.js"> </script>
-	<link rel="stylesheet" href="jquery/jquery-ui.css">
 
 	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script src="jquery/jquery-1.12.4.js"></script>
+
+    <!--<script src="jquery/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="jquery/jquery.min.js"> </script>
     <script src="jquery/jquery-ui.js"></script>
+	<link rel="stylesheet" href="jquery/jquery-ui.css">
+-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
 	<script type="text/javascript" src="js/manajax.js"> </script>
 	<script src="js/oms.min.js"></script>
     <script type="text/javascript" src="js/mapOL.js"> </script>
@@ -48,9 +55,13 @@
 	<script src="js/cookieconsent.min.js"></script>
     <!--sezione mappa OL begin-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-<!--    FINO ALLA VERSIONE 6.8.1 jsdelivr e una nuova cdn-->
-    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">
+    <!--OPENLAYERS versione 6.15.1 latest v6 RELEASE in locale scaricata dalla distribuzione release -->
+    <script src="js/openlayers/ol.js"></script>
+    <link rel="stylesheet" href="js/openlayers/ol.css" type="text/css">
+
+    <!--VERSIONE LEGACY UTILIZZATA TESTATA FINORA
+      <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">-->
     <link rel="stylesheet" href="https://unpkg.com/ol-popup@4.0.0/src/ol-popup.css" type="text/css">
     <script src="https://unpkg.com/ol-popup@4.0.0/dist/ol-popup.js" ></script>
     <script src="js/ol-geocoder.js"></script>
@@ -60,30 +71,6 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <!--sezione mappa OL end-->
 
-    <!--TODO:ELENCO CHIAMATE DA CACHARE
-    pagina chiamata ==>> http://localhost/quake.php?09698IT
-
-    http://localhost/Morti_Feriti.txt
-
-    http://localhost/valb_descriptions.txt
-
-    http://localhost/EE_classif.txt
-
-    http://localhost/listapdfT.txt
-
-    http://localhost/listapdfR.txt
-
-    http://localhost/QuakeList.xml?output=xml
-
-    http://localhost/quakeSources/09698.xml?output=xml
-
-    http://localhost/EEList.xml?output=xml
-
-    http://localhost/KML/quake_a.txt
-
-    http://localhost/html/credits_disclaimerIT.html
-
-    http://localhost/KML/quake_b.txt -->
 </head>
 
 <div id="loading" ><br><strong>Loading....</strong></div>

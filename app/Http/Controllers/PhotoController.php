@@ -36,7 +36,7 @@ class PhotoController extends Controller
             })
         )->get('https://diss.ingv.it/diss330/kml/CSS.kml');
         Log::info($response->status());
-        Log::info($response->body());
+//        Log::info($response->body());
         //TODO:sostituisci il body con il file richiesto
         $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
         header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
@@ -56,7 +56,7 @@ class PhotoController extends Controller
             })
         )->get('https://diss.ingv.it/diss330/kml/ISS.kml');
         Log::info($response->status());
-        Log::info($response->body());
+//        Log::info($response->body());
         //TODO:sostituisci il body con il file richiesto
         $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
         header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
@@ -76,7 +76,7 @@ class PhotoController extends Controller
             })
         )->get('https://diss.ingv.it/diss330/kml/SUBD.kml');
         Log::info($response->status());
-        Log::info($response->body());
+//        Log::info($response->body());
         //TODO:sostituisci il body con il file richiesto
         $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
         header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
@@ -90,7 +90,7 @@ class PhotoController extends Controller
         Log::info("saveJson called START");
         $data = json_decode($request->getContent());  //object stdClass dopo averlo convertito dal json in input
         Log::info("DATA");
-        Log::info($request->getContent()); //logga il json secco a stringa
+//        Log::info($request->getContent()); //logga il json secco a stringa
         //Log::info($data); //logga l'array decodificato
         Log::info("saveJson called END");
         //echo "saved";
@@ -124,7 +124,7 @@ class PhotoController extends Controller
         //Chiamata esterna ad un altro modulo presente nel controller
         $resultQuakeSourcesXML = (new PhotoController())->loadQuakeSources($nterrId);
         Log::info("PhotoController@quakeSourcesLoading called END... calling the View('quake')");
-        Log::info($resultQuakeSourcesXML);
+//        Log::info($resultQuakeSourcesXML);
         return $resultQuakeSourcesXML;
     }
 
@@ -157,17 +157,8 @@ class PhotoController extends Controller
         });
         Log::info('loadQuakeSources@@Attempt display data From REDIS server END returning data key:' . $keyNterrSingleQuake);
 
-        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
-        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
-        /*return response($content)
-            ->withHeaders([
-                'Content-Type' => $type,
-                'X-Header-One' => 'Header Value',
-                'X-Header-Two' => 'Header Value',
-            ]); */
-        return response()->make($listXML)->header("Content-Type", "application/xml"); //->header( "cache-control","public")->header( "max-age","84600");
-        //( "cache-control","public"):
-        //( "max-age","84600");
+
+        return response()->make($listXML)->header("Content-Type", "application/xml");
     }
 
 
@@ -182,27 +173,6 @@ class PhotoController extends Controller
    * quanto gia' presente e cachato.
    */
     public function indexQuakesXML(){
-
-        //TODO: chiamata esterna di esempio e trasforma in output il risultato START //
-
-//        $response = Http::withMiddleware(
-//            Middleware::mapResponse(function (ResponseInterface $response) {
-//                $header = $response->getHeader('Content-Type: application/xml');
-//
-//                // ...
-//
-//                return $response;
-//            })
-//        )->get('https://api.namecheap.com/xml.response?ApiUser=(username)&ApiKey=(apikey)&UserName(username)&ClientIp=(ip)');
-//        Log::info($response->status());
-//        Log::info($response->body());
-//        //TODO:sostituisci il body con il file richiesto
-//        $xml = simplexml_load_string($response->body(),'SimpleXMLElement',LIBXML_NOCDATA);
-//        header('Content-Type: application/xml'); //dichiarata anche nel mapResponse qui serve se accedi direttamente al file
-//        Log::info($xml->asXML());
-//        echo $xml->asXML();
-
-        //TODO: chiamata esterna di esempio  e trasforma in output il risultato END //
 
         Log::info('indexQuakesXML@@Attempt display data From REDIS server START');
         $listXML = Cache::rememberForever('QuakesXMLForever', function () {
@@ -220,39 +190,8 @@ class PhotoController extends Controller
             return $objXmlDocument->asXML();
         });
         Log::info('indexQuakesXML@@Attempt display data From REDIS server END returning data');
-//        header('Content-Type: application/xml');
-//        return $listXML;
-        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
-        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
         return response()->make($listXML)->header("Content-Type", "application/xml"); //->header( "cache-control","public")->header( "max-age","84600");
     }
-
-
-//    /**
-//     * @return \Illuminate\Http\Response|mixed
-//     * @throws \Illuminate\Contracts\Container\BindingResolutionException
-//     */
-//    public function cfti5UpdateEEProcess(){
-//
-////        $response = Http::withMiddleware(
-////            Middleware::mapResponse(function (ResponseInterface $response) {
-////                $header = $response->getHeader('Content-Type: application/json');
-////                return $response;
-////            })
-////        )->get('http://localhost/cfti5UpdateEE');
-////        Log::info($response->status());
-////        Log::info($response->body());
-////        //TODO:sostituisci il body con il file richiesto
-//
-//        $response = Http::withOptions([
-//            'debug' => true,
-//            'timeout' => 120000,
-//        ])->get('http://localhost/cfti5UpdateEE');
-//        $jsonData = $response->json();
-//
-//        dd($jsonData);
-//        echo $jsonData;
-//    }
 
 
 
@@ -366,7 +305,7 @@ class PhotoController extends Controller
     {
         Log::info("saveQuakesData called START");
         $data = json_decode($request->getContent());  //object stdClass dopo averlo convertito dal json in input
-        Log::info("DATA saveQuakesData:" . $request->getContent() ); //logga il json in input
+//        Log::info("DATA saveQuakesData:" . $request->getContent() ); //logga il json in input
         Log::info("saveQuakesData called END");
         $saveQuakesData = Cache::get('saveQuakesData');
         if (!isset($saveQuakesData)) {
@@ -436,7 +375,6 @@ class PhotoController extends Controller
         $JSONFileIndexEEdataFullCached = Cache::get('JSONFileIndexEEdataFullCached');
         if (isset($JSONFileIndexEEdataFullCached)) {
             Log::info("DATA loadJSONIndexEEdataFullCached: CONTENT IS CACHED" );
-            //header('Content-Encoding: gzip'); //nn serve sembra lo applica il middleware
             return response()->json( json_decode($JSONFileIndexEEdataFullCached));
         }
         else
@@ -447,7 +385,7 @@ class PhotoController extends Controller
             //Caching first
             Log::info("DATA loadJSONIndexEEdataFullCached: CACHING NOW" );
             Cache::forever('JSONFileIndexEEdataFullCached', json_encode($jsonData));
-            //header('Content-Encoding: gzip'); //nn serve sembra lo applica il middleware
+            //header('Content-Encoding: gzip'); //ci pensa il middleware ad applicare il gzip
             return response()->json($jsonData);
         }
     }
@@ -460,7 +398,7 @@ class PhotoController extends Controller
     {
         Log::info("saveQuakesGeoJSONData called START");
         $data = json_decode($request->getContent());  //object stdClass dopo averlo convertito dal json in input
-        Log::info("DATA saveQuakesGeoJSONData:" . $request->getContent() ); //logga il json in input
+//        Log::info("DATA saveQuakesGeoJSONData:" . $request->getContent() ); //logga il json in input
         Log::info("saveQuakesGeoJSONData called END");
         $saveQuakesGeoJSONData = Cache::get('saveQuakesGeoJSONData');
         if (!isset($saveQuakesGeoJSONData)) {
@@ -563,8 +501,6 @@ class PhotoController extends Controller
             return $objXmlDocument->asXML();
         });
         Log::info('loadLocalitySources@@Attempt display data From REDIS server END returning data key:' . $keyNterrSingleLocality);
-        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
-        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
         return response()->make($listXML)->header("Content-Type", "application/xml");
     }
 
@@ -590,8 +526,6 @@ class PhotoController extends Controller
             return $objXmlDocument->asXML();
         });
         Log::info('indexLocalityXML@@Attempt display data From REDIS server END returning data');
-        ///TODO: SOLUZIONE CHARSET DA APPLICARE OVUNQUE***/
-        /***RITORNA UNA RISPOSTA STRINGA NO JSON senza applicare ulteriori forzature nel charset UTF8 e cosi rimane FEDELE a quanto richiesto!!!! ****/
         return response()->make($listXML)->header("Content-Type", "application/xml");
     }
 

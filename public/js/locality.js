@@ -1238,6 +1238,9 @@ function requestLocData(){
                     title: DateLabel[i],
                     OnClickTextIT : ""
                 });
+                console.log("singleFeature=" );
+                console.log(singleFeature);
+
                 var strokeString = new String();
                 var strokeWidthString = new String();
                 var fillString = new String()
@@ -1252,7 +1255,9 @@ function requestLocData(){
                         height: String().concat("height=\"",'2.2px','\"'),
                         width: String().concat("width=\"",'2.2px','\"')
                     });
-                    singleFeature.values_.type = "areaOrRegion";
+                    //breaking change OL-v6.15.1  - old line v.6.4.3
+                    //singleFeature.values_.type = "areaOrRegion";
+                    singleFeature.A.type = "areaOrRegion";
                     console.log("singleFeature.values_.type = \"areaOrRegion\";");
                     //console.log(singleFeature);
                 }
@@ -1866,7 +1871,9 @@ function parsePQData2(){
 					}),
 					zIndex: 10000
 				});
-				markerPQ.values_.type = "pinpoint";
+                //breaking change OL-v6.15.1  - old line v.6.4.3
+				//markerPQ.values_.type = "pinpoint";
+                markerPQ.A.type = "pinpoint";
 				markerPQ.setStyle(stileIcone);
 				/*
 				var icon = {
@@ -2108,7 +2115,7 @@ function parsePQData2(){
 	                }
 	                console.log('verificare la variabile EEDone..... ');
 	                EEdone.push(EE_nloc[k]);
-	                console.log(EEdone);
+	                // console.log(EEdone);
 				}
             }
         }

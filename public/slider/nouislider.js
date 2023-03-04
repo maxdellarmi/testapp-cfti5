@@ -62,6 +62,7 @@
 		// I haven't found a feature detection that proves this. Worst case
 		// scenario on mis-match: the 'tap' feature on horizontal sliders breaks.
 		if ( /webkit.*Chrome.*Mobile/i.test(navigator.userAgent) ) {
+            console.log('MOBILE slider issue');
 			pageOffset.x = 0;
 		}
 

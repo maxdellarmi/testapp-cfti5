@@ -514,9 +514,13 @@ function requestEEdata(){
                 console.log("CHECKPOINT 2 after sort");
 		for (var i = 0; i < EEmarkersArray.length; i++) {
 			/**NB.IMPORTANTE*E' stato necessario reimpostare tutti quanti gli ID degli elementi per poter riselezionarli e scatenare il proprio evento Click successivamente ****/
-			//console.log('oldId:' +EEmarkersArray[i]['Marker'].values_.id);
-			EEmarkersArray[i]['Marker'].values_.id = i;
-			//console.log("newId:"+i);
+            //console.log('oldId:' +EEmarkersArray[i]['Marker'].values_.id);
+            //console.log("newId:"+i);
+            //breaking change OL-v6.15.1  - old line v.6.4.3
+            //EEmarkersArray[i]['Marker'].values_.id = i;
+            EEmarkersArray[i]['Marker'].A.id = i;
+            nlocXarray[i] = EEmarkersArray[i]['EE_nloc'];
+
 
 			nlocXarray[i] = EEmarkersArray[i]['EE_nloc'];
 		}

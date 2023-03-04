@@ -432,26 +432,30 @@ function displayCoordinates(pnt) {
 
 function resizeMap() {
 
+    v = window;
+    d = document;
+    //w = v.innerWidth ? v.innerWidth : d.documentElement.clientWidth;
+    //h = v.innerHeight ? v.innerHeight : d.documentElement.clientHeight;
 
-	v=window;
-	d=document;
-	w = v.innerWidth ? v.innerWidth : d.documentElement.clientWidth;
-	h = v.innerHeight ? v.innerHeight : d.documentElement.clientHeight;
+    w = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+    h = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
+
     s = d.getElementById('WSzPlgIn');
 
-    if (document.querySelector('#mapOL') !== null ) {
-		document.querySelector('#mapOL').style.width = Math.round(w - 480) + 'px';
-		document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
-	}
-	//////// document.querySelector('#map').style.width = Math.round( w -480)+'px';
-    //////// document.querySelector('#map').style.height = Math.round( h -10)+'px';
-	document.querySelector('#leftside').style.height = Math.round( h -55)+'px';
 
 
-
-
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        console.log('resizeMap() - visione MOBILE');
+    } else {
+        console.log('resizeMap() - visione WEB');
+        //visualizzazione WEB
+        if (document.querySelector('#mapOL') !== null) {
+            document.querySelector('#mapOL').style.width = Math.round(w - 480) + 'px';
+            document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+        }
+        document.querySelector('#leftside').style.height = Math.round(h - 55) + 'px';
+    }
 }
-
 // ============= Pop up window for quake info
 	// Function that opens pop up window with quake info and highlights marker and table row,
 	// when clicking on marker
@@ -1006,9 +1010,13 @@ $(function() {
 	});
 
 
+
+
 	var v=window, d=document;
-	var w = v.innerWidth ? v.innerWidth : d.documentElement.clientWidth,
-		h = v.innerHeight ? v.innerHeight : d.documentElement.clientHeight,
+	//var w = v.innerWidth ? v.innerWidth : d.documentElement.clientWidth,
+    var w = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+		//h = v.innerHeight ? v.innerHeight : d.documentElement.clientHeight,
+        h = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 		s = d.getElementById('WSzPlgIn'),
 		ss;
 
