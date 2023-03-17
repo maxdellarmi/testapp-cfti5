@@ -77,10 +77,11 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
     <!--sezione mappa OL end-->
+    <!--sezione viewPort per visualizzazione Mobile-->
     <meta id="viewport" name="viewport">
 
     <script type="text/javascript">
-        //mobile viewport hack
+        //mobile viewport settings
         (function(){
 
             function apply_viewport(){
@@ -109,6 +110,7 @@
 
         }());
     </script>
+    <!--sezione viewPort per visualizzazione Mobile END-->
 </head>
 
 <div id="loading" ><br><strong>Loading....</strong></div>

@@ -29,7 +29,16 @@ var LanguageTools = function(){
 
 	// Lang['IT']['banner'] = '<a href="http://storing.ingv.it/cfti" target = "_blank"><img src="images/logo_ITA.png" alt="Header CFTI" height="39px" /></a>'
 	// Lang['IT']['banner'] = '<a href="http://storing.ingv.it/cfti" target = "_blank"><img src="images/banner_CFTI_banner_newG_IT.png" alt="Header CFTI" height="45px" /></a>'
-	Lang['IT']['banner'] = '<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="images/banner_CFTI_newG_thin_IT.png" alt="Header CFTI" height="32px" /></a>'
+
+    // Lang['IT']['banner'] = '<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="images/banner_CFTI_newG_thin_IT.png" alt="Header CFTI" height="32px" /></a>'
+
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        Lang['IT']['banner'] = '<a href="https://cfti.ingv.it:8003/cfti5/" target = "_blank"><img src="images/banner_CFTI_COMPATTO_Mobile.png" alt="Header CFTI" height="32px"/></a>'
+    }
+    else
+    {
+        Lang['IT']['banner'] = '<a href="https://cfti.ingv.it:8003/cfti5/" target = "_blank"><img src="images/banner_CFTI_newG_thin_IT.png" alt="Header CFTI" height="32px" /></a>'
+    }
 
 	// Lang['IT']['legendtext'] = '<img src="images/legend_ITA.png" alt="Legenda CFTI" width= "310" />';
 	Lang['IT']['legendmintext'] = '<b>Legenda</b>';
@@ -293,7 +302,13 @@ var LanguageTools = function(){
 	// ========================      GENERAL    =============================
 	// Lang['EN']['banner'] = '<a href="http://storing.ingv.it/cfti" target = "_blank"><img src="images/logo_ENG.png" alt="Header CFTI" height="39px" /></a>'
 	// Lang['EN']['banner'] = '<a href="http://storing.ingv.it/cfti" target = "_blank"><img src="images/banner_CFTI_banner_newG_EN.png" alt="Header CFTI" height="45px" /></a>'
-	Lang['EN']['banner'] = '<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="images/banner_CFTI_newG_thin_EN.png" alt="Header CFTI" height="32px" /></a>'
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        Lang['EN']['banner'] = '<a href="https://cfti.ingv.it:8003/cfti5/" target = "_blank"><img src="images/banner_CFTI_COMPATTO_Mobile.png" alt="Header CFTI" height="32px"  /></a>'
+    }
+    else
+    {
+        Lang['EN']['banner'] = '<a href="http://storing.ingv.it/cfti/cfti5/" target = "_blank"><img src="images/banner_CFTI_newG_thin_EN.png" alt="Header CFTI" height="32px" /></a>'
+    }
 
 
 	// Lang['EN']['legendtext'] = '<img src="images/legend_ENG.png" alt="Legend CFTI" width= "310" />';

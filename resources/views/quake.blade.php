@@ -6,59 +6,45 @@
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="css/css.css" />
 	<link rel="stylesheet" href="css/quake.css" />
-	<script type="text/javascript" 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>
-
+{{--	<script type="text/javascript" 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry,places"> </script>--}}
+    <script type="text/javascript" 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYMJIfb4DMSGHl1681W0jLOOQSjP7MA&libraries=geometry"> </script>
 	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+
+    <script type="text/javascript">
+        var url = window.location.href;
+        if (url.slice(-1) == '#') var nchar = url.length - 6 -2;
+        else var nchar = url.length - 5 -2;
+        var Nterr = url.substr(nchar,5);
+        Langsel = url.substr(nchar+5, 2)
+    </script>
 
     <!--<script src="jquery/jquery-1.12.4.js"></script>
     <script type="text/javascript" src="jquery/jquery.min.js"> </script>
     <script src="jquery/jquery-ui.js"></script>
 	<link rel="stylesheet" href="jquery/jquery-ui.css">
 -->
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-
 	<script type="text/javascript" src="js/manajax.js"> </script>
 	<script src="js/oms.min.js"></script>
     <script type="text/javascript" src="js/mapOL.js"> </script>
-
-
-	<script type="text/javascript">
-		var url = window.location.href;
-		if (url.slice(-1) == '#') var nchar = url.length - 6 -2;
-		else var nchar = url.length - 5 -2;
-		var Nterr = url.substr(nchar,5);
-		Langsel = url.substr(nchar+5, 2)
-    </script>
-
 	<script type="text/javascript" src="js/language.js"> </script>
 	<script type="text/javascript" src="js/quake.js"> </script>
 	<script type="text/javascript" src="js/js.js"> </script>
 	<script type="text/javascript" src="js/jquery.tablesorter.js"></script>
 	<script src="js/jquery.translator.js"></script>
-	<!--Script for windows-1252 encoding export  -->
-	<script>
-		// 'Copy' browser build in TextEncoder function to TextEncoderOrg (because it can NOT encode windows-1252, but so you can still use it as TextEncoderOrg()  )
-		var TextEncoderOrg = window.TextEncoder;
-		// ... and deactivate it, to make sure only the polyfill encoder script that follows will be used
-		window.TextEncoder = null;
-
-        console.log("caricamento quake.blade.php...");
-	</script>
-	<script type="text/javascript" src="js/pdfobject.js"></script>
-	<script src="lib/encoding-indexes.js"></script>
-	<script src="lib/encoding.js"></script>
-
-	<link rel="stylesheet" type="text/css" href="css/cookies.css" />
-	<script src="js/cookieconsent.min.js"></script>
+    <script type="text/javascript" src="js/pdfobject.js"></script>
+    <script src="lib/encoding-indexes.js"></script>
+    <script src="lib/encoding.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/cookies.css" />
+    <script src="js/cookieconsent.min.js"></script>
     <!--sezione mappa OL begin-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
     <!--OPENLAYERS versione 6.15.1 latest v6 RELEASE in locale scaricata dalla distribuzione release -->
     <script src="js/openlayers/ol.js"></script>
     <link rel="stylesheet" href="js/openlayers/ol.css" type="text/css">
-
     <!--VERSIONE LEGACY UTILIZZATA TESTATA FINORA
       <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/build/ol.js"></script>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.4.3/css/ol.css" type="text/css">-->
@@ -70,6 +56,50 @@
     <link rel="stylesheet" href="css/popover.css" />
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <!--sezione mappa OL end-->
+	<!--Script for windows-1252 encoding export  -->
+	<script>
+		// 'Copy' browser build in TextEncoder function to TextEncoderOrg (because it can NOT encode windows-1252, but so you can still use it as TextEncoderOrg()  )
+		var TextEncoderOrg = window.TextEncoder;
+		// ... and deactivate it, to make sure only the polyfill encoder script that follows will be used
+		window.TextEncoder = null;
+
+        console.log("caricamento quake.blade.php...");
+	</script>
+
+    <!--sezione viewPort per visualizzazione Mobile-->
+    <meta id="viewport" name="viewport">
+
+    <script type="text/javascript">
+        //mobile viewport settings
+        (function(){
+
+            function apply_viewport(){
+                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+
+                    var ww = window.screen.width;
+                    var mw = 800; // min width of site
+                    var ratio =  ww / mw; //calculate ratio
+                    var viewport_meta_tag = document.getElementById('viewport');
+                    if( ww < mw){ //smaller than minimum size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=' + ratio + ', maximum-scale=' + ratio + ', minimum-scale=' + ratio + ', user-scalable=no, width=' + mw);
+                    }
+                    else { //regular size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=1.0, maximum-scale=1, minimum-scale=1.0, user-scalable=yes, width=' + ww);
+                    }
+
+                }
+            }
+
+            //ok, i need to update viewport scale if screen dimentions changed
+            window.addEventListener('resize', function(){
+                apply_viewport();
+            });
+
+            apply_viewport();
+
+        }());
+    </script>
+    <!--sezione viewPort per visualizzazione Mobile END-->
 
 </head>
 

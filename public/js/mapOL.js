@@ -40,50 +40,27 @@ var copy;
 
 
 function prepareControlAddressSearchGeocoding() {
-    //dal test fiddle
-    // var geocoder = new Geocoder('nominatim', {
-    //     provider: 'osm',
-    //     lang: 'en',
-    //     placeholder: 'Search for ...',
-    //     limit: 5,
-    //     debug: false,
-    //     autoComplete: true,
-    //     keepOpen: true
-    // });
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        //VERSIONE MOBILE
+        ;
+    }
+    else { //VERSIONE WEB
+        var geocoder = new Geocoder('nominatim', {
+            provider: 'osm',
+            lang: 'it',
+            placeholder: 'Ricerca (OpenStreetMap)',
+            targetType: 'glass-button',
+            limit: 15,
+            debug: false,
+            autoComplete: true,
+            keepOpen: true,
+            zindex: 50
+        });
 
 
-
-    //17112022 non funziona piu la chiamata     //Instantiate with some options and add the Control
-    // var geocoder = new Geocoder('nominatim', {
-    //     //provider: 'osm',
-    //     //lang: 'it',
-    //     provider: 'mapquest',
-    //     key:'IqnooAc16rOxA4pLbaSoMpuKyPmL61wQ',
-    //     lang: 'it',
-    //     placeholder: 'Ricerca (OpenStreetMap)',
-    //     targetType: 'glass-button',
-    //     limit: 15,
-    //     debug: false,
-    //     autoComplete: true,
-    //     keepOpen: true,
-    //     zindex: 50
-    // });
-
-    var geocoder = new Geocoder('nominatim', {
-        provider: 'osm',
-        lang: 'it',
-        placeholder: 'Ricerca (OpenStreetMap)',
-        targetType: 'glass-button',
-        limit: 15,
-        debug: false,
-        autoComplete: true,
-        keepOpen: true,
-        zindex: 50
-    });
-
-
-    if (mapOL!=null && mapOL!= undefined) {
-        mapOL.addControl(geocoder);
+        if (mapOL != null && mapOL != undefined) {
+            mapOL.addControl(geocoder);
+        }
     }
 }
 
@@ -330,12 +307,13 @@ function mapOLCreateRectangleSelectionArea(lat1element, lat2element, lon1element
 }
 
 function calculateMousePosition() {
-   return  new ol.control.MousePosition({
-        coordinateFormat: function(coord) {
+    return new ol.control.MousePosition({
+        coordinateFormat: function (coord) {
             //console.log(coord);
             //console.log(ol.coordinate.format(coord, templateStr, 3).toString());
-            return ol.coordinate.format(coord, templateStr, 3);},
-       projection: 'EPSG:4326', //projection: 'EPSG:3857', //EPSG:3857 WebMercator mentre la mappa e' cosi il mouseover e' in WGS84 4326
+            return ol.coordinate.format(coord, templateStr, 3);
+        },
+        projection: 'EPSG:4326', //projection: 'EPSG:3857', //EPSG:3857 WebMercator mentre la mappa e' cosi il mouseover e' in WGS84 4326
         className: 'custom-mouse-position',
         target: document.getElementById('tdCursor'),
         undefinedHTML: '&nbsp;',
@@ -743,7 +721,7 @@ function creazioneMappa () {
                     var coordinates = feature.getGeometry().getCoordinates();
                     var popupContent = "";
                     console.log("FEATURE ONCLICK popup data:")
-                    console.log(feature.OnClickTextIT);
+                    //console.log(feature.OnClickTextIT);
                     if ( feature.get('features') !== undefined) {
                         console.log('features cluster trovate...'+feature.get('features').length);
                         //GeoJSON
@@ -814,7 +792,11 @@ function creazioneMappa () {
                     $(element).popover('destroy');
                     popup.setPosition(undefined);
                 }
-              },);
+                // if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                //     resizeMapLoc();
+                // }
+                // fixSmallHeightsForMobile(IntervalStopFixHeightsClick);
+                },);
             // change mouse cursor when over marker
             mapOL.on('pointermove', function (e) {
                 if (e.dragging) {
@@ -1056,6 +1038,7 @@ function puliziaClearAllMapsLayers() {
                     $(element).popover('destroy');
                     popup.setPosition(undefined);
                 }
+                overlayGraphOnTheMapForMobileView();
               },);
             // change mouse cursor when over marker
             mapOL.on('pointermove', function (e) {
@@ -1101,7 +1084,41 @@ function puliziaClearAllMapsLayers() {
         }
         //Instantiate with some options and add the Control
         prepareControlAddressSearchGeocoding();
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+            console.log("resize aree per visualizzazione MOBILE dopo caricamento iniziale locality (creazioneMappaLocalityPHP)");
+            resizeMapLoc();
+        }
     });
+}
+
+function  fixSmallHeightsForMobile(interval) {
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        if (h < 800) {
+            //IntervalStopFixHeights o IntervalStopFixHeightsClick dichiarati globali
+            interval = setInterval(function mobileFixHeightsForSmallH() {
+                console.log('visione MOBILE FIX ALTEZZA H<800 mappa caricamento iniziale e click dei filtri.');
+                //Apre e chiude un elemento all'interno della pagina che si ricalcola subito
+                document.getElementById("WMSlayersIcon").click();
+                document.getElementById("WMSclose").click();
+                clearInterval(interval);
+            }, 10);
+        }
+    }
+}
+
+function  fixSmallHeightsForMobileLocality(interval) {
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        if (h < 800) {
+            //IntervalStopFixHeights o IntervalStopFixHeightsClick dichiarati globali
+            interval = setInterval(function mobileFixHeightsForSmallH() {
+                console.log('visione MOBILE FIX ALTEZZA H<800 mappa caricamento iniziale e click dei filtri.');
+                //Apre e chiude un elemento all'interno della pagina che si ricalcola subito
+                document.getElementById("WMSlayersIcon").click();
+                document.getElementById("WMSclose").click();
+                clearInterval(interval);
+            }, 10);
+        }
+    }
 }
 
 function creazioneMappaQuakesPHP (quakes) {
@@ -1258,6 +1275,12 @@ function creazioneMappaQuakesPHP (quakes) {
                     padding: padding,
                 }
             );
+
+            if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+                console.log("resize aree per visualizzazione MOBILE dopo caricamento iniziale terremoti (creazioneMappaQuakesPHP)");
+                resizeMapQuake();
+            }
+
         } catch (e) {
             console.error(e, e.stack);
         }
@@ -1419,9 +1442,16 @@ function indexLocalita () {
         }
         //Instantiate with some options and add the Control
         prepareControlAddressSearchGeocoding();
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+            console.log("resize aree per visualizzazione MOBILE dopo caricamento iniziale (indexLocalita())");
+            resizeMapIndexLocalitaMobile();
+        }
     });
 
 }
+
+
+
 
 function indexEEAmbiente() {
     $(document).ready(function() {
@@ -1575,6 +1605,10 @@ function indexEEAmbiente() {
         }
         //Instantiate with some options and add the Control
         prepareControlAddressSearchGeocoding();
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+            console.log("resize aree per visualizzazione MOBILE dopo caricamento iniziale (indexEEAmbiente())");
+            resizeMapIndexEEMobile();
+        }
     });
 
 

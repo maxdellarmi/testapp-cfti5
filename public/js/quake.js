@@ -219,13 +219,167 @@ function InitializeQuake() {
 	requestEQLISTData();
 	resizeMapQuake();
 }
-
+///TODO: testing la gestione orizzontale della pagina
 function resizeMapQuake() {
     console.log('resizeMapQuake()');
 	resizeMap();
-	document.querySelector('#quakePQtable').style.height = Math.round( h -395)+'px';
-	document.querySelector('#PQ_info tbody').style.height = Math.round( h -435)+'px';
-	document.querySelector('#PQ_info').style.height = Math.round( h -395)+'px';
+    //Gestione Visualizzazione MOBILE pagina quake.php?XXXXXIT
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        console.log('modifica stili per visualizzazione MOBILE (resizeMapQuake)');
+        var grandezzaElementiTabella = 250; //visualizzazione sezione di sinistra grandezze
+        //console.log('modifica le altezze per visione MOBILE ...');
+        //Banner in alto ottimizzato per il mobile.
+        document.querySelector('#banner').style.width = "130px";
+        //Sezione di sinistra "leftside" gestione grandezza elementi
+        document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
+        document.querySelector('#leftside').style.height = "99%";
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "hidden";
+
+        //Sezione topMenu in alto
+        document.querySelector('#topmenu').style.width= "220px";
+        document.querySelector('#topmenu').style.textAlign= "left";
+        document.querySelector('#topcolor').style.height = "40px";
+        document.querySelector('#Intro').style.marginTop = "5px";
+        document.querySelector('#pagetype').style.marginLeft= "20px";
+        document.querySelector('#pagetype').style.marginTop= "25px";
+        document.querySelector('#pagetype').style.fontSize = "100%";
+
+
+        //Tabella descrizione terremoto principale
+        document.querySelector('#divLineTopTable').style.width = grandezzaElementiTabella + 'px';
+        document.querySelector('#locationString').style.width = grandezzaElementiTabella + 'px';
+
+        //Tabelle nella pagina
+        //tabella sezione singolo terremoto
+        $(".imaxEQ").css("display", "none");
+        $(".imaxEQ").css("visibility", "hidden");
+        $(".sitesEQ").css("display", "none");
+        $(".sitesEQ").css("visibility", "hidden");
+        $(".meEQ").css("display", "none");
+        $(".meEQ").css("visibility", "hidden");
+        $(".latEQ").css("display", "none");
+        $(".latEQ").css("visibility", "hidden");
+        $(".lonEQ").css("display", "none");
+        $(".lonEQ").css("visibility", "hidden");
+        $(".etypeEQ").css("display", "none");
+        $(".etypeEQ").css("visibility", "hidden");
+        $(".relEQ").css("display", "none");
+        $(".relEQ").css("visibility", "hidden");
+        $(".areaEQ").css("width", "156px"); //Area lunghezza colonna
+        //Tabella results quakePQTable restringe e/o nasconde le colonne (tabella sottostante elenco terremoti correlati)
+        $(".locality").css("width", "170px");
+        $(".lat").css("display", "none");
+        $(".lat").css("visibility", "hidden");
+        $(".lon").css("display", "none");
+        $(".lon").css("visibility", "hidden");
+        $(".dist").css("display", "none");
+        $(".dist").css("visibility", "hidden");
+
+
+        //Rimozione Footer
+        document.querySelector('#footer').style.display = "none";
+        document.querySelector('#footer').style.visibility = "hidden";
+        document.querySelector('#license').style.display = "none";
+        document.querySelector('#license').style.visibility = "hidden";
+        document.querySelector('#cc').style.display = "none";
+        document.querySelector('#cc').style.visibility = "hidden";
+
+        //Inizio sezione elementi dentro la mappa:
+        var leftWMS = grandezzaElementiTabella + 20;
+        //Pulsante layer informativi
+        document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+        document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
+        //Pulsante sismicità strumentale STRUM
+        document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+        document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
+
+        var margineSXLegend = grandezzaElementiTabella + 25;
+        //Legenda
+        document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
+        document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
+        document.querySelector('#legendPQ').style.marginLeft = margineSXLegend + 'px';
+        //Banner cfti5 in alto alla mappa
+        document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+
+        //dropwown di Selezione layer stradale mappa OpenStreetMap BlackWhite Terrain etc
+        document.querySelector('#LaySel').style.top = '15px';
+        document.querySelector('#LaySel').style.right = '100px';
+        document.querySelector('#layer-select').style.fontSize = "16px";
+
+        //Mappa open layers
+        document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del totale
+        document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+        document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
+
+        // document.querySelector('#quakePQtable').style.height = Math.round(h - 395) + 'px';
+        // document.querySelector('#PQ_info tbody').style.height = Math.round(h - 435) + 'px';
+        // document.querySelector('#PQ_info').style.height = Math.round(h - 395) + 'px';
+        // $(".results").css("width", "250px"); // grandezzaElementiTabella + 'px';
+
+        //Gestione posizionamento controlli Zoom e Fullscreen sulla mappa
+        $(".ol-zoom-in").css("margin-right", "82px");
+        $(".ol-zoom-out").css("margin-right", "82px");
+        $(".ol-full-screen").css("margin-right", "77px");
+        $(".ol-full-screen").css("margin-bottom", "97px");
+
+        //Top menu ITA-ENG CREDITS DISCLAIMER INFO ETC
+        document.querySelector('#topmenu').style.width = "220px";
+        document.querySelector('#topcolor').style.width = "50px";
+        document.querySelector('#topcolor').style.border = "0px";
+        //Cursore Lat Long su posizionamento mappa non richiesti in versione MOBILE
+        document.querySelector('#tdCursor').style.display = "none";
+        document.querySelector('#tdCursor').style.visibility = "hidden";
+
+        //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MAGGIORE di 800
+        if (h > 800) {
+            console.log('modifica le altezze tabella resultsEQ per visione MOBILE > 800 px H ...');
+            //Tabella results quakePQTable Terremoto
+            document.querySelector('#quakePQtable').style.height = Math.round(h - 305) + 'px';
+            document.querySelector('#quakePQtable').style.marginTop= "415px";
+            document.querySelector('#quakePQtable').style.width= grandezzaElementiTabella + 'px';
+            //Descrizione e commento del terremoto
+            document.querySelector('#D0').style.marginTop= "127px";
+            document.querySelector('#D0').style.height=  grandezzaElementiTabella + 'px';
+            document.querySelector('#D0').style.width=  grandezzaElementiTabella + 'px';
+            document.querySelector('#D0').style.left ="0px";
+
+            //sezione pulsanti Commenti critici
+            document.querySelector('#divLineTopTable').style.marginTop = "378px";
+            document.querySelector('#PQ_info tbody').style.height = Math.round(h - 330) + 'px';
+            document.querySelector('#PQ_info').style.height = Math.round(h - 310) + 'px';
+
+            //Sezione sinistra
+            document.querySelector('#leftside').style.overflowY = "hidden";
+
+
+        } else { //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MINORE di 800
+            console.log('modifica le altezze per visione MOBILE < 800px H ...');
+            //Gestione sezione di sinistra
+            document.querySelector('#leftside').style.overflowY = "auto";
+            document.querySelector('#leftside').scrollTop = 0;
+            //Tabella results quakePQTable Terremoto
+            document.querySelector('#quakePQtable').style.height = "150px";
+            document.querySelector('#PQ_info tbody').style.height = "135px";
+            document.querySelector('#PQ_info tbody').style.width = grandezzaElementiTabella + 'px';
+            document.querySelector('#PQ_info').style.height = '150px';
+
+            //Gestione footer
+            document.querySelector('#license').style.display = "none";
+            document.querySelector('#license').style.visibility = "hidden";
+            document.querySelector('#cc').style.display = "none";
+            document.querySelector('#cc').style.visibility = "hidden";
+
+        }
+        resizeStrumLayersMobile();
+    } //endif navigator.userAgent
+    else {
+        console.log('modifica stili per visualizzazione WEB DA PC - NON MOBILE (resizeMapQuake)');
+        document.querySelector('#quakePQtable').style.height = Math.round(h - 395) + 'px';
+        document.querySelector('#PQ_info tbody').style.height = Math.round(h - 435) + 'px';
+        document.querySelector('#PQ_info').style.height = Math.round(h - 395) + 'px';
+        resizeStrumLayersWEB();
+    }
 }
 
 // When clicking on table row, trigger event on Gmap marker (used to trigger popup window when clicking on table row)
@@ -2415,7 +2569,16 @@ $(function() {
 
 	document.querySelector('#commentsWindow').style.width = Math.round( w - 515)+'px';
 	document.querySelector('#commentsWindow').style.height = Math.round( h -110)+'px';
-	document.querySelector('#commentsWindow').style.left = '475px';
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        console.log('#commentsWindow  - visione MOBILE');
+        var grandezzaElementiTabella = 250;
+        var leftPopup = grandezzaElementiTabella+20;
+        document.querySelector('#commentsWindow').style.left = leftPopup + 'px';
+    }
+    else {
+        console.log('#commentsWindow  - visione WEB');
+        document.querySelector('#commentsWindow').style.left = '475px'; //VERSIONE WEB NORMALE in MOBILE DEVE ESSERE 250+20px = 270px
+    }
 	document.querySelector('#commentsWindow').style.top = '60px';
 	document.querySelector('.tabcontent').style.maxwidth = Math.round( w - 560)+'px';
 	document.querySelector('.tabcontent').style.maxheight = Math.round( h -235)+'px';

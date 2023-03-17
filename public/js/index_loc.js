@@ -503,6 +503,7 @@ function openPopupLOC(marker, textEN, textIT, NlocI){
  * @param prog Indice dell'elemento marker (feature) LOCMarkers[prog]
  */
 function onclickListLOC(prog){
+    console.log('onclickListLOC(prog)');
 	//<editor-fold desc="vecchia gestione google maps commentata ">
 	// if (FlagSel == 1) {
 	// 	FlagScroll == 0
@@ -600,6 +601,13 @@ function onclickListLOC(prog){
 		try {
 			mapOL.getInteractions().pop();
 			//mapOL.removeInteraction()
+
+            //NB. Dopo l'evento click al autocomplete delle locality sul cellulare riappare la tastiera per digitare a quel punto si forza nuovamente
+            //un riposizionamento simulando un click sui controlli mappa layer e subito dopo un resize per evitare che le altezze vengano  calcolate incorrettamente.
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                fixSmallHeightsForMobileLocality(IntervalStopFixHeights);
+                resizeMapLoc();
+            }
 		}
 		catch (e) {
 			console.error('ERRORE Gestito');

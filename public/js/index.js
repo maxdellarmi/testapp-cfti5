@@ -20,6 +20,7 @@ var XMLQuakeListArrived = false;
 var IntervalVar = null;
 
 var IntervalStopFixHeights = null;
+var IntervalStopFixHeightsClick = null;
 
 var MenuPilot = null;
 var LogPilot = null;
@@ -1053,17 +1054,18 @@ var GmapsTools = function(){
         }
         warmUpPrimoCaricamento=false;
 
-        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-            if (h < 800) {
-                IntervalStopFixHeights = setInterval(function mobileFixHeightsForSmallH() {
-                    console.log('visione MOBILE FIX ALTEZZA H<800 mappa caricamento iniziale e click dei filtri.');
-                    //Apre e chiude un elemento all'interno della pagina che si ricalcola subito
-                    document.getElementById("WMSlayersIcon").click();
-                    document.getElementById("WMSclose").click();
-                    clearInterval(IntervalStopFixHeights);
-                }, 10);
-            }
-        }
+        fixSmallHeightsForMobile(IntervalStopFixHeights);
+        // if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        //     if (h < 800) {
+        //         IntervalStopFixHeights = setInterval(function mobileFixHeightsForSmallH() {
+        //             console.log('visione MOBILE FIX ALTEZZA H<800 mappa caricamento iniziale e click dei filtri.');
+        //             //Apre e chiude un elemento all'interno della pagina che si ricalcola subito
+        //             document.getElementById("WMSlayersIcon").click();
+        //             document.getElementById("WMSclose").click();
+        //             clearInterval(IntervalStopFixHeights);
+        //         }, 10);
+        //     }
+        // }
 
 	}
 
@@ -1473,208 +1475,259 @@ function xResetMap(){
 
 }
 
+//Gestione visualizzazione mobile per la pagina iniziale Terremoti
+function VisalizzazioneMobileIndexTerremoti() {
+    var grandezzaElementiTabella = 250; //visualizzazione sezione di sinistra grandezze
+    console.log('modifica le altezze per visione MOBILE VisalizzazioneMobileIndexTerremoti() ...');
+
+    //Banner in alto ottimizzato per il mobile.
+    document.querySelector('#banner').style.width = "130px";
+    //Sezione di sinistra "leftside" gestione grandezza elementi
+    document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
+    document.querySelector('#leftside').style.height = "99%";
+    document.querySelector('#leftside').style.overflowX = "hidden";
+    document.querySelector('#leftside').style.overflowY = "hidden";
+    //Rimozione del grafico google chart (ha i puntamenti con position absolute)
+    document.querySelector('#IntGraphINDEX').style.display = "none";
+    document.querySelector('#IntGraphINDEX').style.visibility = "hidden";
+    document.querySelector('#IntGraphEnl').style.display = "none";
+    document.querySelector('#IntGraphEnl').style.visibility = "hidden";
+    document.querySelector('#IntGraphRed').style.display = "none";
+    document.querySelector('#IntGraphRed').style.visibility = "hidden";
+    document.querySelector('#FakeGraph').style.display = "none";
+    document.querySelector('#FakeGraph').style.visibility = "hidden";
+    document.querySelector('#SaveIcon').style.display = "none";
+    document.querySelector('#SaveIcon').style.visibility = "hidden";
 
 
-function resizeMapIndex() {
-	resizeMap();
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
-        var grandezzaElementiTabella = 250; //Math.round(w / 4);
-        console.log('modifica le altezze per visione MOBILE ...');
-        document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
-        document.querySelector('#leftside').style.height = "99%";
-        document.querySelector('#leftside').style.overflowX = "hidden";
+    //Rimozione tasti export csv KML e links servizio web WMS e WFS
+    document.querySelector('#export').style.display = "none";
+    document.querySelector('#export').style.visibility = "hidden";
+    document.querySelector('#WMSWFS').style.display = "none";
+    document.querySelector('#WMSWFS').style.visibility = "hidden";
+
+    //Rimozione Footer
+    document.querySelector('#footer').style.display = "none";
+    document.querySelector('#footer').style.visibility = "hidden";
+    document.querySelector('#license').style.display = "none";
+    document.querySelector('#license').style.visibility = "hidden";
+    document.querySelector('#cc').style.display = "none";
+    document.querySelector('#cc').style.visibility = "hidden";
+
+    //gestione slider intensita terremoti
+    document.querySelector('#sliderI').style.display = "";
+    document.querySelector('#sliderI').style.visibility = "visible";
+    document.querySelector('#sliderI').style.marginTop = "35px"
+    document.querySelector('#sliderI').style.position = "absolute"
+    document.querySelector('#sliderI').style.marginLeft = "0px"
+    $(".noUi-horizontal ").css("width", "160px");
+
+    //impostazione posizione disclaimer iniziale:
+    try {
+        document.querySelector('#disclaimer').style.marginLeft = "100px"; // margineSXDisclaimer + 'px';
+        //Legenda MOBILE chiusa x default:
+        document.getElementById('smaller').click();
+    } catch (e) {
+        ;
+    }
+
+    //Inizio sezione elementi dentro la mappa:
+    var leftWMS = grandezzaElementiTabella + 20;
+    //Pulsante layer informativi
+    document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+    document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
+    //Pulsante sismicità strumentale STRUM
+    document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+    document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
+
+    var margineSXLegend = grandezzaElementiTabella + 25;
+    //Legenda
+    document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
+    document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
+    //Banner cfti5 in alto alla mappa
+    document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+
+    //dropwown di Selezione layer stradale mappa OpenStreetMap BlackWhite Terrain etc
+    document.querySelector('#LaySel').style.top = '15px';
+    document.querySelector('#LaySel').style.right = '100px';
+    document.querySelector('#layer-select').style.fontSize = "16px";
+
+    //Mappa open layers
+    document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del totale
+    document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+    document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
+
+    //Numero totale elementi in tabella info
+    document.querySelector('#NumSel').style.display = "none";
+    document.querySelector('#NumSel').style.visibility = "hidden";
+
+    //Tabella resultsEQ restringe e/o nasconde le colonne
+    $(".time").css("width", "30px");
+    $(".imax").css("display", "none");
+    $(".imax").css("visibility", "hidden");
+    $(".sites").css("display", "none");
+    $(".sites").css("visibility", "hidden");
+    $(".me").css("display", "none");
+    $(".me").css("visibility", "hidden");
+    $(".rel").css("display", "none");
+    $(".rel").css("visibility", "hidden");
+    $(".level").css("display", "none");
+    $(".level").css("visibility", "hidden");
+    document.querySelector('#resultsEQ').style.marginTop = "200px";
+    $(".results").css("width", "250px"); // grandezzaElementiTabella + 'px';
+
+    //Gestione posizionamento controlli Zoom e Fullscreen sulla mappa
+    $(".ol-zoom-in").css("margin-right", "82px");
+    $(".ol-zoom-out").css("margin-right", "82px");
+    $(".ol-full-screen").css("margin-right", "77px");
+    $(".ol-full-screen").css("margin-bottom", "97px");
+
+    //Filtri magnitudo equivalente rimossi
+    $(".TitleMenuB").css("display", "none");
+    $(".TitleMenuB").css("visibility", "hidden");
+
+    //Gestione visualizzazione dropdown zoneQuake Tutti i terremoti/Terremoti italiani/Terremoti Mediterraneo:
+    //tutti gli altri elementi dello stesso div "MenuBlockCoord" sono nascosti
+    $(".MenuBlockCoord").css("height", "1px");
+    $(".MenuBlockCoord").css("width", "225px");
+    $(".MenuBlockCoord").css("border", "none");
+    $(".MenuBlockCoord").css("float", "left");
+    $(".MenuBlockCoord .OptionMenu").css("display", "none");
+    $(".MenuBlockCoord .OptionMenu").css("visibility", "hidden");
+    document.querySelector('#Coord').style.display = "none";
+    document.querySelector('#Coord').style.visibility = "hidden";
+    document.querySelector('#selArea').style.display = "none";
+    document.querySelector('#selArea').style.visibility = "hidden";
+    document.querySelector('#zoneQuake').style.display = "";
+    document.querySelector('#zoneQuake').style.visibility = "visible";
+    document.querySelector('#zoneQuake').style.marginTop = "1px";
+    document.querySelector('#IoDIV').style.marginTop = "20px";
+    document.querySelector('#sliderI').style.marginTop = "27px";
+
+    //Filtri periodo annuale rimossi
+    $(".MenuBlockPeriod").css("display", "none");
+    $(".MenuBlockPeriod").css("visibility", "hidden");
+
+    //Filtri intensita terremoti
+    $(".menu").css("width", grandezzaElementiTabella);
+    $(".MenuBlockInt").css("margin-top", "20px");
+    $(".MenuBlockInt").css("width", "225px");
+    $(".MenuBlockInt").css("height", "95px");
+
+    //Selezione layer Terremoti/Localita'/Effetti Ambientali
+    document.querySelector('#accessDIV').style.marginLeft = "83px";
+    document.querySelector('#accessDIV').style.marginTop = "22px";
+    //Top menu ITA-ENG CREDITS DISCLAIMER INFO ETC
+    document.querySelector('#topmenu').style.width = "220px";
+    document.querySelector('#topcolor').style.width = "50px";
+    document.querySelector('#topcolor').style.border = "0px";
+    //Menu superiore dei filtri terremoti
+    document.querySelector('#menuEQ').style.height = "148px";
+    document.querySelector('#menuEQ').style.display = "";
+    document.querySelector('#menuEQ').style.width = "250px";
+
+    //Tasto OK dei filtri sui terremoti
+    $(".OKbutton").css("margin-left", "180px");
+    $(".OKbutton").css("float", "left");
+
+
+
+    //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MAGGIORE di 800
+    if (h > 800) {
+        console.log('modifica le altezze tabella resultsEQ per visione MOBILE > 800 px H ...');
+        //Numero totale elementi in tabella info
+        document.querySelector('#NumSel').style.display = "";
+        document.querySelector('#NumSel').style.visibility = "visible";
+        document.querySelector('#NumSel').style.marginTop = "165px";
+        //Tabella resultsEQ Terremoti
+        document.querySelector('#resultsEQ').style.height = Math.round(h - 305) + 'px';
+        document.querySelector('#Eq_info tbody').style.height = Math.round(h - 330) + 'px';
+        document.querySelector('#Eq_info').style.height = Math.round(h - 310) + 'px';
+        //Tabella results Locality
+        document.querySelector('#resultsLOC').style.height = Math.round(h - 205) + 'px';
+        document.querySelector('#Loc_info tbody').style.height = Math.round(h - 235) + 'px';
+        document.querySelector('#Loc_info').style.height = Math.round(h - 205) + 'px';
+        //Tabella resultsEQ Effetti ambientali
+        document.querySelector('#resultsEE').style.height = Math.round(h - 395) + 'px';
+        document.querySelector('#EE_info tbody').style.height = Math.round(h - 420) + 'px';
+        document.querySelector('#EE_info').style.height = Math.round(h - 400) + 'px';
+        //Sezione sinistra
         document.querySelector('#leftside').style.overflowY = "hidden";
-        //Rimuove il grafico che ha i puntamenti con position absolute
-        document.querySelector('#IntGraphINDEX').style.display = "none";
-        document.querySelector('#IntGraphINDEX').style.visibility = "hidden";
-        document.querySelector('#IntGraphEnl').style.display = "none";
-        document.querySelector('#IntGraphEnl').style.visibility = "hidden";
-        document.querySelector('#IntGraphRed').style.display = "none";
-        document.querySelector('#IntGraphRed').style.visibility = "hidden";
+        //dropdown zoneQuake Tutti i terremoti/Terremoti italiani/Terremoti Mediterraneo
+        //grandezze differenti in base a h > 800 o h < 800
+        document.querySelector('#zoneQuake').style.marginTop = "12px";
+        document.querySelector('#zoneQuake').style.marginLeft = "7px";
+        //Filtri intensita
+        $(".MenuBlockInt").css("height", "95px");
 
-        document.querySelector('#export').style.display = "none";
-        document.querySelector('#export').style.visibility = "hidden";
-        document.querySelector('#WMSWFS').style.display = "none";
-        document.querySelector('#WMSWFS').style.visibility = "hidden";
 
-        /***rimozione footer **/
-        document.querySelector('#footer').style.display="none";
-        document.querySelector('#footer').style.visibility="hidden";
+    } else { //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MINORE di 800
+        console.log('modifica le altezze per visione MOBILE < 800px H ...');
+        //Numero totale elementi in tabella info
+        document.querySelector('#NumSel').style.display = "none";
+        document.querySelector('#NumSel').style.visibility = "hidden";
+
+        //Gestione sezione di sinistra
+        document.querySelector('#leftside').style.overflowY = "auto";
+        document.querySelector('#leftside').scrollTop = 0;
+
+        /*****attenzione per mantenere visibile l'header della tabella il TBODY è piu piccolo di 20px*****/
+        // versione iniziale che al primo click piglia tutto lo schermo a sinistra
+        document.querySelector('#resultsEQ').style.marginTop = "150px";
+        document.querySelector('#resultsEQ').style.height = '150px';
+        document.querySelector('#Eq_info tbody').style.height = '135px'; //eq_data
+        document.querySelector('#Eq_info tbody').style.width = grandezzaElementiTabella + 'px';
+        document.querySelector('#Eq_info').style.height = '150px';
+
+        //Tabella results Locality
+        document.querySelector('#resultsLOC').style.height = '205px';
+        document.querySelector('#Loc_info tbody').style.height = '235px';
+        document.querySelector('#Loc_info').style.height = '205px';
+        //Tabella results Effetti ambientali
+        document.querySelector('#resultsEE').style.height = '395px';
+        document.querySelector('#EE_info tbody').style.height = '420px';
+        document.querySelector('#EE_info').style.height = '400px';
+
+        //dropdown zoneQuake Tutti i terremoti/Terremoti italiani/Terremoti Mediterraneo h < 800
+        document.querySelector('#zoneQuake').style.marginTop = "1px";
+        document.querySelector('#zoneQuake').style.marginLeft = "5px";
+        //Filtri intensita terremoti h<800
+        $(".MenuBlockInt").css("height", "90px");
+        //Gestione footer
         document.querySelector('#license').style.display = "none";
         document.querySelector('#license').style.visibility = "hidden";
         document.querySelector('#cc').style.display = "none";
         document.querySelector('#cc').style.visibility = "hidden";
+        //Filtri intensita
+        $(".MenuBlockInt").css("margin-top", "10px");
+    }
+}
 
-        document.querySelector('#sliderI').style.display="";
-        document.querySelector('#sliderI').style.visibility="visible";
-        document.querySelector('#sliderI').style.marginTop= "35px"
-        document.querySelector('#sliderI').style.position = "absolute"
-        document.querySelector('#sliderI').style.marginLeft = "0px"
 
-        //document.querySelector('#IntGraphINDEX').style.width = grandezzaElementiTabella + "px";
 
-        //impostazione posizione disclaimer iniziale:
-        try {
-            document.querySelector('#disclaimer').style.marginLeft = "100px"; // margineSXDisclaimer + 'px';
+function resizeMapIndex() {
+    console.log('resizeMapIndex()');
+	resizeMap();
+    //Gestione grandezze MOBILE - in dipendenza delle 3 funzionalità dalla dropdown in alto Terremoti/Località/Effetti Ambientali
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        console.log('modifica stili per visualizzazione MOBILE (resizeMapIndex)');
+        if (document.getElementById("access").value == "EQ")  //selezione layer Terremoti
+        {
+            VisalizzazioneMobileIndexTerremoti();
         }
-        catch (e) {
-            //console.error('ERRORE Gestito');
-            //console.log(e, e.stack);
-            ;
+        if (document.getElementById("access").value == "LOC") {  //selezione layer Località
+            resizeMapIndexLocalitaMobile();
         }
-
-
-
-        var leftWMS = grandezzaElementiTabella + 20;
-        document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
-        document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
-
-        document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
-        document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
-
-        var margineSXLegend = grandezzaElementiTabella + 25;
-        document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
-        document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
-
-        document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
-
-        document.querySelector('#LaySel').style.top = '55px';
-        document.querySelector('#LaySel').style.right = '5px';
-
-        document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 25% del totale
-        document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
-
-        document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //CI STA IL 460 margin-left fisso su CSS.
-
-        document.querySelector('#NumSel').style.display="none";
-        document.querySelector('#NumSel').style.visibility="hidden";
-
-        document.querySelector('#FakeGraph').style.display="none";
-        document.querySelector('#FakeGraph').style.visibility="hidden";
-
-        document.querySelector('#SaveIcon').style.display="none";
-        document.querySelector('#SaveIcon').style.visibility="hidden";
-
-
-        //restringe e/o nasconde le colonne della tabella PS
-        $(".time").css("width", "30px");
-
-        $(".imax").css("display", "none");
-        $(".imax").css("visibility", "hidden");
-
-        $(".sites").css("display", "none");
-        $(".sites").css("visibility", "hidden");
-
-        $(".me").css("display", "none");
-        $(".me").css("visibility", "hidden");
-
-        $(".rel").css("display", "none");
-        $(".rel").css("visibility", "hidden");
-
-        $(".level").css("display", "none");
-        $(".level").css("visibility", "hidden");
-
-        //sposta all'interno i controlli della mappa
-        $(".ol-zoom-in").css("margin-right", "82px");
-        $(".ol-zoom-out").css("margin-right", "82px");
-        $(".ol-full-screen").css("margin-right", "77px");
-        $(".ol-full-screen").css("margin-bottom", "97px");
-
-
-        $(".TitleMenuB").css("display","none");
-        $(".TitleMenuB").css("visibility","hidden");
-        $(".MenuBlockCoord").css("display","none");
-        $(".MenuBlockCoord").css("visibility","hidden");
-        $(".MenuBlockPeriod").css("display","none");
-        $(".MenuBlockPeriod").css("visibility","hidden");
-        $(".menu").css("width", grandezzaElementiTabella);
-        $(".MenuBlockInt").css("margin-top","20px");
-        $(".MenuBlockInt").css("width", "225px");
-        //$(".MenuBlockInt").css("height", "120px");
-        $(".MenuBlockInt").css("height", "90px");
-
-        document.querySelector('#accessDIV').style.marginLeft = "83px";
-        document.querySelector('#accessDIV').style.marginTop = "22px";
-        document.querySelector('#topmenu').style.width = "220px";
-        /**menu superiore dei filtri terremoti*/
-        document.querySelector('#menuEQ').style.height="148px";
-        document.querySelector('#menuEQ').style.display = "";
-        document.querySelector('#menuEQ').style.width="250px";
-        //document.querySelector('#menuEQ').style.marginTop="50px";
-
-        document.querySelector('#topcolor').style.width = "50px";
-        document.querySelector('#topcolor').style.border="0px";
-
-        $(".OKbutton").css("margin-left","180px");
-        //$(".OKbutton").css("margin-top","-35px");
-        $(".OKbutton").css("float","left");
-
-       /* document.querySelector('#accessDIV').style.marginTop = "30px";
-        document.querySelector('#accessDIV').style.marginLeft= "30px" */
-        document.querySelector('#resultsEQ').style.marginTop = "200px";
-        $(".results").css("width", "250px"); // grandezzaElementiTabella + 'px';
-
-
-
-        /***** GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MAGGIORE di 800 ***/
-        if (h > 800) {
-            console.log('modifica le altezze per visione MOBILE > 800 px H ...');
-            document.querySelector('#resultsEQ').style.height = Math.round(h - 305) + 'px';
-            document.querySelector('#Eq_info tbody').style.height = Math.round(h - 330) + 'px';
-            document.querySelector('#Eq_info').style.height = Math.round(h - 310) + 'px';
-
-            document.querySelector('#resultsLOC').style.height = Math.round(h - 205) + 'px';
-            document.querySelector('#resultsEE').style.height = Math.round(h - 395) + 'px';
-            document.querySelector('#Loc_info tbody').style.height = Math.round(h - 235) + 'px';
-            document.querySelector('#Loc_info').style.height = Math.round(h - 205) + 'px';
-
-            document.querySelector('#EE_info tbody').style.height = Math.round(h - 420) + 'px';
-            document.querySelector('#EE_info').style.height = Math.round(h - 400) + 'px';
-
-            document.querySelector('#leftside').style.overflowY = "hidden";
-        } else {
-            console.log('modifica le altezze per visione MOBILE < 800px H ...');
-            document.querySelector('#leftside').style.overflowY = "auto";
-            document.querySelector('#leftside').scrollTop = 0;
-
-            document.querySelector('#license').style.display = "none";
-            document.querySelector('#license').style.visibility = "hidden";
-
-            document.querySelector('#cc').style.display = "none";
-            document.querySelector('#cc').style.visibility = "hidden";
-
-            //document.querySelector('#leftside').style.height = "100%";
-
-            /*****attenzione per mantenere visibile l'header della tabella il TBODY è piu piccolo di 20px*****/
-            // versione iniziale che al primo click piglia tutto lo schermo a sinistra
-            document.querySelector('#resultsEQ').style.marginTop = "150px";
-            document.querySelector('#resultsEQ').style.height ='150px';
-            document.querySelector('#Eq_info tbody').style.height = '135px'; //eq_data
-            document.querySelector('#Eq_info tbody').style.width = grandezzaElementiTabella + 'px';
-            document.querySelector('#Eq_info').style.height = '150px';
-            $(".MenuBlockInt").css("margin-top","10px");
-
-
-
-            // document.querySelector('#resultsEQ').style.height ='205px';
-            // document.querySelector('#Eq_info tbody').style.height = '180px';
-            // document.querySelector('#Eq_info').style.height = '205px';
-
-            // document.querySelector('#resultsEQ').style.height ='225px';
-            // document.querySelector('#Eq_info tbody').style.height = '200px';
-            // document.querySelector('#Eq_info').style.height = '225px';
-
-
-            document.querySelector('#resultsLOC').style.height ='205px';
-            document.querySelector('#resultsEE').style.height = '395px';
-            document.querySelector('#Loc_info tbody').style.height ='235px';
-             document.querySelector('#Loc_info').style.height ='205px';
-             document.querySelector('#EE_info tbody').style.height = '420px';
-             document.querySelector('#EE_info').style.height = '400px';
+        if (document.getElementById("access").value == "EE") { ////selezione layer Effetti ambientali
+            resizeMapIndexEEMobile();
         }
+        //Cursore Lat Long su posizionamento mappa non richiesti in versione MOBILE
+        document.querySelector('#tdCursor').style.display = "none";
+        document.querySelector('#tdCursor').style.visibility = "hidden";
+        resizeStrumLayersMobile();
     } //endif navigator.userAgent
     else {
-        console.log('modifica le altezze per visione WEB DA PC - NON MOBILE');
+        console.log('modifica stili per visualizzazione WEB DA PC - NON MOBILE (resizeMapIndex)');
         /*** QUESTE SONO LE ALTEZZE DEFINITE NORMALMENTE PER LA VERSIONE BASE E WEB ***/
         document.querySelector('#resultsEQ').style.height = Math.round(h - 405) + 'px';  //38%
         document.querySelector('#resultsLOC').style.height = Math.round(h - 205) + 'px'; //19%
@@ -1685,7 +1738,285 @@ function resizeMapIndex() {
         document.querySelector('#Loc_info').style.height = Math.round(h - 205) + 'px';
         document.querySelector('#EE_info tbody').style.height = Math.round(h - 420) + 'px';
         document.querySelector('#EE_info').style.height = Math.round(h - 400) + 'px';
+        resizeStrumLayersWEB();
     }
+}
+
+function resizeMapIndexEEMobile() {
+    console.log('resizeMapIndexEEMobile()');
+    var grandezzaElementiTabella = 300; //visualizzazione sezione di sinistra grandezze
+    document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px';
+    document.querySelector('#leftside').style.height = "99%";
+    document.querySelector('#leftside').style.overflowX = "hidden";
+    document.querySelector('#leftside').style.overflowY = "hidden";
+
+    //Selezione layer Terremoti/Localita'/Effetti Ambientali
+    document.querySelector('#access').style.width = "200px";
+
+    //Mappa open layers
+    document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del totale
+    document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+    document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; // margin-left fisso sul CSS.
+
+    //Gestione campi tabella EEnaturali
+    $('.io').css("visibility","hidden");
+    $('.io').css("display","none");
+    $('.meEE').css("visibility","hidden");
+    $('.meEE').css("display","none");
+    document.querySelector('#locnameEE').style.width= "100px";
+    $('.locEE').css("width","80x");
+    $('.dateEE').css("width","54px");
+    $('tbody#EE_data').css("font-size","89%");
+    $('td.timeEE').css("width","40px");
+
+    //Risultati pagina EE e tabella EEnaturali e gradezza div del menu dei filtri.
+    document.querySelector('#resultsEE').style.width =grandezzaElementiTabella + 'px';
+    document.querySelector('#EE_info tbody').style.widthi =grandezzaElementiTabella + 'px';
+    document.querySelector('#EE_info').style.width = grandezzaElementiTabella + 'px';
+    document.querySelector('#menuEE').style.width =grandezzaElementiTabella + 'px';
+    document.querySelector('#EE_data').style.width = grandezzaElementiTabella + 'px';
+
+    //Banner cfti5 in alto alla mappa
+    document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+    //Inizio sezione elementi dentro la mappa:
+    var leftWMS = grandezzaElementiTabella + 20;
+    //Pulsante layer informativi
+    document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+    document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
+    //Pulsante sismicità strumentale STRUM
+    document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+    document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
+
+    $('.TitleMenu').css("display","");
+    $('.TitleMenu').css("visible","visibility");
+
+    $('.TitleMenu').css("margin-bottom","1px");
+
+    $('.TitleMenu').css("background", "white");
+    $('.TitleMenu').css("color", "rgb(31, 112, 143)");
+
+    $('.TitleMenu').css("margin-top", "10px");
+    $('.TitleMenu').css("height", "15px");
+    $('.TitleMenu').css("padding","0");
+
+    $("#menuEE br").remove(); //RIMUOVE i BR all'interno del menu
+    $('.MenuBlockEE').css("border","0");
+    $('.MenuBlockEE').css("line-height","1px");
+    $('#B0').css("line-height","6px");
+    $('#acquesup').css("line-height","6px");
+
+    $('#B0').before('<br/>'); //aggiunge un BR prima della sezione laghi
+    $('#B0').before('<br/>'); //aggiunge un BR prima della sezione laghi
+    $('#acquesotEEmenu .TitleMenu').before('<br/>');//aggiunge un BR prima della sezione acque sotterranee
+    //$('#costeEEmenu').before('<br/>');
+
+    /*TODO: verificare se recuperare un 20px in piu' per la tabella e le date corrispondenti*/
+    $('.locEE','#EE_data').css("width","80px");
+    $('.dateEE','#EE_data').css("width","50px");
+    $('.locationEE','#EE_data').css("width","50px");
+
+    document.querySelector('#costeEEmenu').style.marginTop = "155px";
+    document.querySelector('#costeEEmenu').style.marginLeft = "0px";
+
+    document.querySelector('#gasEEmenu').style.marginTop = "45px";
+    document.querySelector('#gasEEmenu').style.marginLeft = "0px";
+
+    document.querySelector('#acquesotEEmenu').style.marginTop = "190px";
+
+    document.querySelector('#FilterByEE').style.marginLeft="55px";
+    document.querySelector('#FilterByEE').style.marginTop="176px";
+
+
+
+    //todo: adesso
+    /*.menu .TitleMenu {
+    width: 135px;
+    height: 15px;
+    padding-left: 5px;
+    border-radius: 3px;
+    margin-top: 10px;*/
+
+    //RIMUOVI TUTTI I BR
+    //BACKGROUND DELLE LABEL ERA BLU LO TOGLI POI METTI SCRITTA NERA o BLU
+    //$("#B0").before("<br/>");
+
+    /*#costeEEmenu {
+    position: absolute;
+    width: 174px;
+    height: 55px;
+    margin-top: 155px;
+    margin-left: 0px;*/
+
+    // #gasEEmenu {
+    //     position: absolute;
+    //     width: 174px;
+    //     margin-top: 45px;
+    //     margin-left: 0px;
+
+    // #acquesotEEmenu {
+    //     position: absolute;
+    //     width: 300px;
+    //     height: 65px;
+    //     margin-top: 190px;
+    // }
+
+    ///TODO: TUTTI I MENU DI RICERCA COSI e mostrarli sulla mappa!!!
+    // :margin-left: 400px;
+    // z-index: 1;
+    // position: fixed;
+
+    //Sezione FILTRI START
+    //Acque Sotterranee
+
+    // #acquesotEEmenu {
+    //     position: fixed;
+    //     margin-left: 310px;
+    //     z-index: 1;
+    //     border-bottom: 0;
+    //     border-right: 0;
+
+    //#acquesup
+    // position: fixed;
+    // margin-left: 310px;
+    // z-index: 1;
+    // margin-top: 150px;
+
+    //#paesaggio
+    // margin-left: 310px;
+    // z-index: 1;
+    // position: fixed;
+    // margin-top: 150px;
+
+    // #costeEEmenu {
+    //     position: fixed;
+    //     width: 174px;
+    //     height: 90px;
+    //     margin-top: 295px;
+    //     margin-left: 310px;
+    //     z-index: 1;
+
+    // #gasEEmenu {
+    //     position: fixed;
+    //     margin-top: 325px;
+    //     margin-left: 310px;
+    //     z-index: 1;
+
+    //
+
+}
+
+
+function resizeMapIndexLocalitaMobile() {
+    console.log('resizeMapIndexLocalitaMobile()');
+
+
+    var grandezzaElementiTabella = 250; //visualizzazione sezione di sinistra grandezze
+    console.log('modifica le altezze per visione MOBILE ...');
+    //Banner in alto ottimizzato per il mobile.
+    document.querySelector('#banner').style.width = "130px";
+    //Sezione di sinistra "leftside" gestione grandezza elementi
+    document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
+    document.querySelector('#leftside').style.height = "99%";
+    document.querySelector('#leftside').style.overflowX = "hidden";
+    document.querySelector('#leftside').style.overflowY = "hidden";
+
+    //Rimozione Footer
+    document.querySelector('#footer').style.display = "none";
+    document.querySelector('#footer').style.visibility = "hidden";
+    document.querySelector('#license').style.display = "none";
+    document.querySelector('#license').style.visibility = "hidden";
+    document.querySelector('#cc').style.display = "none";
+    document.querySelector('#cc').style.visibility = "hidden";
+
+    //Inizio sezione elementi dentro la mappa:
+    var leftWMS = grandezzaElementiTabella + 20;
+    //Pulsante layer informativi
+    document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+    document.querySelector('#WMSlayersIcon').style.top = '110px' // su CSS è '95px'
+    //Pulsante sismicità strumentale STRUM
+    document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+    document.querySelector('#STRUMeqIcon').style.top = '145px' // su CSS è '95px'
+
+    var margineSXLegend = grandezzaElementiTabella + 25;
+    //Legenda
+    document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
+    document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
+    document.querySelector('#legendPQ').style.marginLeft = margineSXLegend + 'px';
+    //Banner cfti5 in alto alla mappa
+    document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+
+    //dropwown di Selezione layer stradale mappa OpenStreetMap BlackWhite Terrain etc
+    document.querySelector('#LaySel').style.top = '15px';
+    document.querySelector('#LaySel').style.right = '100px';
+    document.querySelector('#layer-select').style.fontSize = "16px";
+
+    //Mappa open layers
+    document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del totale
+    document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+    document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
+
+    //#sliderI_loc display none visible hidden
+    document.querySelector('#sliderI_loc').style.display = "none";
+    document.querySelector('#sliderI_loc').style.visibility = "hidden";
+
+    //Sezione filtri di ricerca locality in alto
+    $(".menu").css("font-size","90%");
+    $(".OptionMenu input[type=text]").css("width","15px");
+    document.querySelector('#menuLOC').style.marginTop = "50px";
+    $(".MenuBlockint_loc").css("margin-left","126px");
+    $(".MenuBlockint_loc").css("width","125px");
+    $(".MenuBlockLoc").css("width","125px");
+    document.querySelector('#LocnameSearch').style.width = "119px";//"125px";
+    //tasto OK button
+    document.querySelector('#FilterByLOC').style.marginLeft = "30px";
+    document.querySelector('#FilterByLOC').style.marginTop = "30px";
+    document.querySelector('#FilterByLOC').style.fontSize = "135%";
+    document.querySelector('#FilterByLOC').style.width = "40px";
+    document.querySelector('#FilterByLOC').style.height = "30px";
+
+    //Numero totale elementi in tabella info
+    document.querySelector('#NumSel').style.display = "";
+    document.querySelector('#NumSel').style.visibility = "visible";
+
+    //Tabella  #Loc_info restringe e/o nasconde le colonne
+    //.latLOC
+    $(".latLOC").css("display", "none");
+    $(".latLOC").css("visibility", "hidden");
+    //.lonLOC
+    $(".lonLOC").css("display", "none");
+    $(".lonLOC").css("visibility", "hidden");
+    //.nameLOC {
+    $(".nameLOC").css("width","100px");
+    //.imax
+    $(".imax").css("display","");
+    $(".imax").css("visibility","visible");
+    //.EEnum
+    $(".EEnum").css("display","");
+    $(".EEnum").css("visibility","visible");
+    //.sites
+    $(".sites").css("display","");
+    $(".sites").css("visibility","visible");
+    $(".sites").css("padding-right", "8px");
+    document.querySelector('#locname').style.width = "150px";
+    $(".provLOC").css("width","40px");
+
+    document.querySelector('#Loc_info').style.width = "250px";
+
+    //Gestione posizionamento controlli Zoom e Fullscreen sulla mappa
+    $(".ol-zoom-in").css("margin-right", "82px");
+    $(".ol-zoom-out").css("margin-right", "82px");
+    $(".ol-full-screen").css("margin-right", "77px");
+    $(".ol-full-screen").css("margin-bottom", "97px");
+
+    //Selezione layer Terremoti/Localita'/Effetti Ambientali
+    document.querySelector('#accessDIV').style.marginLeft = "83px";
+    document.querySelector('#accessDIV').style.marginTop = "22px";
+    //Top menu ITA-ENG CREDITS DISCLAIMER INFO ETC
+    document.querySelector('#topmenu').style.width = "220px";
+    document.querySelector('#topcolor').style.width = "50px";
+    document.querySelector('#topcolor').style.border = "0px";
+
+
 }
 
 
@@ -1723,6 +2054,21 @@ function stateChange() {
 		}, 500);
 	};
 	resizeMap();
+    //Gestione visualizzazione MOBILE cambio visualizzazione "Terremoti"/"Località"/"Effetti Naturali"
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        console.log('modifica stili per visualizzazione MOBILE (resizeMapIndex)');
+        if (document.getElementById("access").value == "EQ")  //selezione layer Terremoti
+        {
+            VisalizzazioneMobileIndexTerremoti();
+        }
+        if (document.getElementById("access").value == "LOC") {  //selezione layer Località
+            resizeMapIndexLocalitaMobile();
+        }
+        if (document.getElementById("access").value == "EE") { ////selezione layer Effetti ambientali
+            resizeMapIndexEEMobile();
+        }
+
+    }
 }
 
 

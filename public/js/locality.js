@@ -141,12 +141,170 @@ function InitializeLoc() {
 	//spiderfy();
 }
 
+
 function resizeMapLoc() {
+    console.log('resizeMapLoc()');
 	resizeMap();
-	document.querySelector('#feltrep').style.height = Math.round( h -350)+'px';
-	// document.querySelector('#Loc_info tbody').style.height = Math.round( h -390)+'px';
-	document.querySelector('#Loc_info tbody').style.height = Math.round( h -380)+'px';
-	document.querySelector('#Loc_info').style.height = Math.round( h -350)+'px';
+    //Gestione Visualizzazione MOBILE pagina locality.php?XXXXXXIT
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        console.log("resize aree per visualizzazione MOBILE dopo caricamento iniziale locality (creazioneMappaLocalityPHP)");
+        var grandezzaElementiTabella = 250; //visualizzazione sezione di sinistra grandezze
+        var stringSizeTable = grandezzaElementiTabella + 'px';
+        var centerGraphSize= grandezzaElementiTabella + 50;
+        centerGraphSize = centerGraphSize + 'px';
+        //Banner in alto ottimizzato per il mobile.
+        document.querySelector('#banner').style.width = "130px";
+        //Sezione di sinistra "leftside" gestione grandezza elementi
+        document.querySelector('#leftside').style.width = grandezzaElementiTabella + 'px'; //'300px'; //
+        document.querySelector('#leftside').style.height = "99%";
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "hidden";
+        //Rimozione del grafico google chart pulsanti
+        document.querySelector('#IntGraph').style.marginLeft=centerGraphSize;
+        document.querySelector('#IntGraphEnl').style.display = "none";
+        document.querySelector('#IntGraphEnl').style.visibility = "hidden";
+        document.querySelector('#IntGraphRed').style.display = "none";
+        document.querySelector('#IntGraphRed').style.visibility = "hidden";
+        //Sezione topMenu in alto
+        document.querySelector('#topmenu').style.width= "220px";
+        document.querySelector('#topmenu').style.textAlign= "left";
+        document.querySelector('#topcolor').style.height = "40px";
+        document.querySelector('#Intro').style.marginTop = "45px";
+        document.querySelector('#pagetype').style.marginLeft= "20px";
+        document.querySelector('#pagetype').style.marginTop= "25px";
+        document.querySelector('#pagetype').style.fontSize = "100%";
+
+        document.querySelector('#SaveIcon').style.display = "none";
+        document.querySelector('#SaveIcon').style.visibility = "hidden";
+        //Rimozione tasti export csv KML e links servizio web WMS e WFS
+        document.querySelector('#export').style.display = "none";
+        document.querySelector('#export').style.visibility = "hidden";
+        //Rimozione Footer
+        document.querySelector('#footer').style.display = "none";
+        document.querySelector('#footer').style.visibility = "hidden";
+        document.querySelector('#license').style.display = "none";
+        document.querySelector('#license').style.visibility = "hidden";
+        document.querySelector('#cc').style.display = "none";
+        document.querySelector('#cc').style.visibility = "hidden";
+
+        //Inizio sezione elementi dentro la mappa:
+        var leftWMS = grandezzaElementiTabella + 20;
+        //Pulsante layer informativi
+
+        document.querySelector('#WMSlayersIcon').style.left = leftWMS + 'px';
+        document.querySelector('#WMSlayersIcon').style.top = '280px';//'220px';//
+        //gestione margin top dei layer per evitare sovrapposizione grafico
+        $('#WMS').css("margin-top","180px");
+        //Pulsante sismicità strumentale STRUM
+        document.querySelector('#STRUMeqIcon').style.left = leftWMS + 'px';
+        document.querySelector('#STRUMeqIcon').style.top = '315px';//'290px'//
+        //gestione margin top dei layer per evitare sovrapposizione grafico
+        $('#STRUMeqMenu').css("margin-top","180px");
+
+        var margineSXLegend = grandezzaElementiTabella + 25;
+        //Legenda
+        document.querySelector('#legendmin').style.marginLeft = margineSXLegend + 'px';
+        document.querySelector('#legend').style.marginLeft = margineSXLegend + 'px';
+        document.querySelector('#legendPQ').style.marginLeft = margineSXLegend + 'px';
+
+        //Banner cfti5 in alto alla mappa
+        document.querySelector('#banner').style.marginLeft = grandezzaElementiTabella + 'px';
+
+        //dropwown di Selezione layer stradale mappa OpenStreetMap BlackWhite Terrain etc
+        document.querySelector('#LaySel').style.top = '15px';
+        document.querySelector('#LaySel').style.right = '100px';
+        document.querySelector('#layer-select').style.fontSize = "16px";
+
+        //Mappa open layers
+        document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del totale
+        document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+        document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
+
+        //GESTIONE TABELLA  TOGLIERE  imax sites  me
+        document.querySelector('#feltrep').style.height = Math.round( h -350)+'px'
+        $(".imax").css("display", "none");
+        $(".imax").css("visibility", "hidden");
+        $(".imaxLoc").css("display", "none");
+        $(".imaxLoc").css("visibility", "hidden");
+        $(".sites").css("display", "none");
+        $(".sites").css("visibility", "hidden");
+        $(".me").css("display", "none");
+        $(".me").css("visibility", "hidden");
+        document.querySelector('#Loc_info tbody').style.width = stringSizeTable;
+        document.querySelector('#Loc_info tbody').style.width =stringSizeTable;
+        document.querySelector('#Loc_info').style.width = stringSizeTable;
+        document.querySelector('#leftside').style.width = stringSizeTable;
+        document.querySelector('#feltrep').style.width = stringSizeTable;
+        // TITLE replace <CENTER> </CENTER> with <LEFT></LEFT>
+        $('#Intro center').replaceWith(function(){
+            return $("<left />").append($(this).contents());
+        });
+        $('#noteloc').css("width",stringSizeTable);
+        $('#noteloc').css("text-align","left"); //fix per visualizzazione corretta testo: es. http://localhost:8081/locality.php?051367IT
+        //Gestione posizionamento controlli Zoom e Fullscreen sulla mappa
+        $(".ol-zoom-in").css("margin-right", "82px");
+        $(".ol-zoom-out").css("margin-right", "82px");
+        $(".ol-full-screen").css("margin-right", "77px");
+        $(".ol-full-screen").css("margin-bottom", "97px");
+        //Cursore Lat Long su posizionamento mappa non richiesti in versione MOBILE
+        document.querySelector('#tdCursor').style.display = "none";
+        document.querySelector('#tdCursor').style.visibility = "hidden";
+        //GESTIONE OVERLAY GRAFICO SULLA MAPPA
+        overlayGraphOnTheMapForMobileView();
+        displayShowHideGraphButtonMobileView();
+        resizeStrumLayersMobile();
+    }
+    else {
+        console.log('modifica stili per visualizzazione WEB DA PC - NON MOBILE (resizeMapLoc)');
+        document.querySelector('#feltrep').style.height = Math.round( h -350)+'px';
+        // document.querySelector('#Loc_info tbody').style.height = Math.round( h -390)+'px';
+        document.querySelector('#Loc_info tbody').style.height = Math.round( h -380)+'px';
+        document.querySelector('#Loc_info').style.height = Math.round( h -350)+'px';
+        resizeStrumLayersWEB();
+    }
+}
+
+function displayShowHideGraphButtonMobileView(){
+    //ripulisce quanto creato in precedenza
+    $('#noteloc').children().remove();
+    //ricrea il pulsante dinamicamente per nascondere il grafico
+    $('#noteloc').append('<br/><br/><center><input type="button" id="chartDisplay" data="0" value="Nascondi Grafico" onclick="javascript:HandleGraphVisibility(document.getElementById(\'chartDisplay\').data);" class="btn"></center>');
+}
+
+function HandleGraphVisibility(show) {
+    if (show==1) {
+        $('#IntGraph svg').css("display","");
+        $('#IntGraph svg').css("visibility","visible");
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Nascondi Grafico";
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 0;
+        // $('#noteloc').contents()[1].value="Nascondi Grafico";
+        // $('#noteloc').contents()[1].data=0;
+    }
+    else {
+        $('#IntGraph svg').css("display", "none");
+        $('#IntGraph svg').css("visibility", "hidden");
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Visualizza Grafico";
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 1;
+        // $('#noteloc').contents()[1].value =
+        // $('#noteloc').contents()[1].data=1;
+    }
+}
+
+function overlayGraphOnTheMapForMobileView() {
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        var position = "300px";
+        console.log("....overlayGraphOnTheMapForMobileView() SVG graph modifying attributes...margin-left" + position);
+        //modify SVG putting into the map center
+        $('#IntGraph svg').css("position", "fixed");
+        $('#IntGraph svg').css("z-index", "1");
+        $('#IntGraph svg').css("background", "aliceblue");
+        $('#IntGraph svg').css("border-bottom", "1px solid var(--main-color)");
+        $('#IntGraph svg').css("border-right", "1px solid var(--main-color)");
+        $('#IntGraph svg').css("border-radius", "10px");
+        $('#IntGraph svg').css("border-top", "1px solid var(--main-color)");
+        $('#IntGraph svg').css("border-left", "1px solid var(--main-color)");
+        //$('#IntGraph svg').css("margin-left", position);
+    }
 }
 
 function deleteEpi() {
@@ -264,6 +422,8 @@ function onclickListLocality(prog){
             );
         }
 		mapOL.getView().setZoom(8);
+        //FIX chart overlay on the map after clicking on the table in the left
+        overlayGraphOnTheMapForMobileView();
 
 		//gestione selezione singola feature ---->> successivamente mostra il singolo popup
 		var collection = new ol.Collection();
@@ -383,7 +543,7 @@ function bindSelectEvent(evt) {
 			var coordinates = evt.selected[0].getGeometry().getCoordinates();
 			var popupContent = "";
 			console.log("FEATURE ONCLICK popup data:")
-			console.log(evt.selected[0].OnClickTextIT);
+			// console.log(evt.selected[0].OnClickTextIT);
 			console.log('features singola da visualizzare...');
 			popupContent = evt.selected[0].OnClickTextIT;
 			/************************************************************/
@@ -424,6 +584,7 @@ function selnum(){
             }
         }
     }
+    overlayGraphOnTheMapForMobileView();
 	FlagScroll = 1
 }
 
@@ -1487,7 +1648,7 @@ function resizeTable(NT, NP){
 //											PQ
 // ==========================================================================================
 
-//   FUNCTIONS TO READ PQ AND CORRESPONDING EE: sono tutte annidate tra loro perchè avevamo problemi con l'ordine di esecuzione. Non elegante, ma funziona
+//   FUNCTIONS TO READ PQ AND CORRESPONDING EE: sono tutte annidate tra loro perchè avevamo problemi con l'ordine di esecuzione.
 
 function showPQ(num){
 	console.log('showPQ.....');
@@ -1526,7 +1687,8 @@ function showPQ(num){
         contentType: 'application/xml',
         success: function(data){
             if(data !== undefined){
-                console.log("success loaded CACHED xml quakes from server...quakeSourcesXMLService/"+ Nterr);
+                console.log("Nterr totali:" + Nterr);
+                console.log("success loaded CACHED xml quakes from server..." + xmlService);
                 //console.log(data);
             }
         },
@@ -2395,7 +2557,7 @@ function createTable() {
 
  	// NOW SET LANGUAGE TO FILL IN ALL DIVS/ABBRS/SPANS....
 	new LanguageTools().setLanguage(Langsel);
-
+    //CARICAMENTO GRAFICO CON I GOOGLE CHARTS e CALLBACK A FINE CARICAMENTO
 	google.charts.load('45', {packages: ['corechart']})
 	google.charts.setOnLoadCallback(drawChart);
 
@@ -2529,6 +2691,7 @@ function drawChart() {
 	});
 	chart2.draw(dataChart, options2);
 	chart.draw(dataChart, options);
+    //EVENTO SELECT
 	google.visualization.events.addListener(chart, 'select', selnum)
 
 // When closing popup info window:
@@ -2559,4 +2722,6 @@ function drawChart() {
 		});
 	});
 	$('#loading').hide();
+    //GESTIONE OVERLAY SU MAPPA DEL GRAFICO
+    overlayGraphOnTheMapForMobileView();
 };

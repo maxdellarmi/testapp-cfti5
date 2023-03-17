@@ -73,6 +73,41 @@
     <link rel="stylesheet" href="css/popover.css" />
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <!--sezione mappa OL end-->
+
+    <!--sezione viewPort per visualizzazione Mobile-->
+    <meta id="viewport" name="viewport">
+
+    <script type="text/javascript">
+        //mobile viewport settings
+        (function(){
+
+            function apply_viewport(){
+                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+
+                    var ww = window.screen.width;
+                    var mw = 800; // min width of site
+                    var ratio =  ww / mw; //calculate ratio
+                    var viewport_meta_tag = document.getElementById('viewport');
+                    if( ww < mw){ //smaller than minimum size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=' + ratio + ', maximum-scale=' + ratio + ', minimum-scale=' + ratio + ', user-scalable=no, width=' + mw);
+                    }
+                    else { //regular size
+                        viewport_meta_tag.setAttribute('content', 'initial-scale=1.0, maximum-scale=1, minimum-scale=1.0, user-scalable=yes, width=' + ww);
+                    }
+
+                }
+            }
+
+            //ok, i need to update viewport scale if screen dimentions changed
+            window.addEventListener('resize', function(){
+                apply_viewport();
+            });
+
+            apply_viewport();
+
+        }());
+    </script>
+    <!--sezione viewPort per visualizzazione Mobile END-->
 </head>
 
 <div id="loading" ><br><strong>Loading....</strong></div>

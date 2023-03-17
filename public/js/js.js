@@ -443,9 +443,12 @@ function resizeMap() {
     s = d.getElementById('WSzPlgIn');
 
 
-
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
         console.log('resizeMap() - visione MOBILE');
+        var grandezzaElementiTabella = 250;
+        document.querySelector('#mapOL').style.width = Math.round(w - grandezzaElementiTabella) + 'px';  //width totale meno 250px del leftside
+        document.querySelector('#mapOL').style.height = Math.round(h - 10) + 'px';
+        document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
     } else {
         console.log('resizeMap() - visione WEB');
         //visualizzazione WEB
@@ -456,6 +459,37 @@ function resizeMap() {
         document.querySelector('#leftside').style.height = Math.round(h - 55) + 'px';
     }
 }
+
+    function resizeStrumLayersMobile() {
+        console.log("resizeStrumLayersMobile()");
+        //Sezione Layers livelli informativi risorse esterne
+        $('#layers p[data="mobileINV"]').css("display","none");
+        $('#layers p[data="mobileINV"]').css("visibility","hidden");
+        document.querySelector('#WMS').style.height="150px";
+        //Sezione Strumm sismicità strumentale
+        $('#STRUMeqMenu div[data="mobileINV"]').css("display","none");
+        $('#STRUMeqMenu div[data="mobileINV"]').css("visibility","hidden");
+        $('.TitleMenuSTRUM')[2].innerText = "Magnitudo";
+        $('.TitleMenuSTRUM')[3].innerText = "Profondità (km)";
+        document.querySelector('.TitleMenuSTRUM').style.marginTop="20px";
+        document.querySelector('#STRUMeqMenu').style.height="290px";
+    }
+
+    function resizeStrumLayersWEB() {
+        console.log("resizeStrumLayersWeb()");
+        //Sezione Layers livelli informativi risorse esterne
+        $('#layers p[data="mobileINV"]').css("display","");
+        $('#layers p[data="mobileINV"]').css("visibility","visible");
+        document.querySelector('#WMS').style.height="330px";
+        //Sezione Strumm sismicità strumentale
+        $('#STRUMeqMenu div[data="mobileINV"]').css("display","");
+        $('#STRUMeqMenu div[data="mobileINV"]').css("visibility","visible");
+        $('.TitleMenuSTRUM')[2].innerText = "Intervallo magnitudo";
+        $('.TitleMenuSTRUM')[3].innerText = "Intervallo profondità (km)";
+        document.querySelector('.TitleMenuSTRUM').style.marginTop="15px";
+        document.querySelector('#STRUMeqMenu').style.height="370px";
+    }
+
 // ============= Pop up window for quake info
 	// Function that opens pop up window with quake info and highlights marker and table row,
 	// when clicking on marker
@@ -532,7 +566,9 @@ function openPopupSpider (marker, textEN, textIT, NterrI, lat, lon){
 			try {
 				rows.scrollIntoView(false);
 			}
-			catch (e) { console.log ('ERR gestito |'); console.log(e); console.log("ERR DESCRIPTION: se ha trovato un elemento null vuol dire che non presente nella tabella a sinsitra")}
+			catch (e) {
+                ;//console.log ('ERR gestito |'); console.log(e); console.log("ERR DESCRIPTION: se ha trovato un elemento null vuol dire che non presente nella tabella a sinsitra") }
+            }
 		}
 		FlagScroll = 1;
 
