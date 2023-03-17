@@ -21,3 +21,6 @@ laravel_error.log
 *.log
 investigareErroreDUSKConfig.txt
 *.log
+docker/logs/nginx/error.log
+docker/logs/nginx/laravel_access.log
+docker/logs/nginx/laravel_error.log
