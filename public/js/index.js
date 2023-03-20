@@ -1558,8 +1558,8 @@ function VisalizzazioneMobileIndexTerremoti() {
     document.querySelector('#mapOL').style.marginLeft = grandezzaElementiTabella + 'px'; //460 margin-left fisso sul CSS.
 
     //Numero totale elementi in tabella info
-    document.querySelector('#NumSel').style.display = "none";
-    document.querySelector('#NumSel').style.visibility = "hidden";
+    // document.querySelector('#NumSel').style.display = "none";
+    // document.querySelector('#NumSel').style.visibility = "hidden";
 
     //Tabella resultsEQ restringe e/o nasconde le colonne
     $(".time").css("width", "30px");
@@ -1660,12 +1660,17 @@ function VisalizzazioneMobileIndexTerremoti() {
         //Filtri intensita
         $(".MenuBlockInt").css("height", "95px");
 
+        document.querySelector('#NumSel').style.marginTop="168px";
+        document.querySelector('#resultsEQ').style.marginTop="200px";
+
 
     } else { //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MINORE di 800
         console.log('modifica le altezze per visione MOBILE < 800px H ...');
         //Numero totale elementi in tabella info
-        document.querySelector('#NumSel').style.display = "none";
-        document.querySelector('#NumSel').style.visibility = "hidden";
+        //document.querySelector('#NumSel').style.display = "none";
+        //document.querySelector('#NumSel').style.visibility = "hidden";
+
+
 
         //Gestione sezione di sinistra
         document.querySelector('#leftside').style.overflowY = "auto";
@@ -1700,6 +1705,9 @@ function VisalizzazioneMobileIndexTerremoti() {
         document.querySelector('#cc').style.visibility = "hidden";
         //Filtri intensita
         $(".MenuBlockInt").css("margin-top", "10px");
+
+        document.querySelector('#NumSel').style.marginTop="145px";
+        document.querySelector('#resultsEQ').style.marginTop="170px";
     }
 }
 
@@ -1770,10 +1778,10 @@ function resizeMapIndexEEMobile() {
     $('td.timeEE').css("width","40px");
 
     //Risultati pagina EE e tabella EEnaturali e gradezza div del menu dei filtri.
-    document.querySelector('#resultsEE').style.width =grandezzaElementiTabella + 'px';
-    document.querySelector('#EE_info tbody').style.widthi =grandezzaElementiTabella + 'px';
-    document.querySelector('#EE_info').style.width = grandezzaElementiTabella + 'px';
     document.querySelector('#menuEE').style.width =grandezzaElementiTabella + 'px';
+    document.querySelector('#resultsEE').style.width =grandezzaElementiTabella + 'px';
+    document.querySelector('#EE_info tbody').style.width =grandezzaElementiTabella + 'px';
+    document.querySelector('#EE_info').style.width = grandezzaElementiTabella + 'px';
     document.querySelector('#EE_data').style.width = grandezzaElementiTabella + 'px';
 
     //Banner cfti5 in alto alla mappa
@@ -1826,83 +1834,44 @@ function resizeMapIndexEEMobile() {
     document.querySelector('#FilterByEE').style.marginLeft="55px";
     document.querySelector('#FilterByEE').style.marginTop="176px";
 
+    document.querySelector('#resultsEE').style.marginHeight="300px";
+    if (h > 800) {
+        console.log('resizeMapIndexEEMobile() modifica le altezze tabella resultsEQ per visione MOBILE > 800 px H ...');
+        console.log(document.querySelector('#NumSel').style.marginTop);
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "hidden";
+        document.querySelector('#menuEE').style.overflowX = "hidden";
+        document.querySelector('#menuEE').style.overflowY = "hidden";
 
+        //Tabella results Effetti ambientali
+        document.querySelector('#resultsEE').style.height = Math.round(h - 105) + 'px';    //'395px';
+        document.querySelector('#EE_info tbody').style.height = Math.round(h - 80) + 'px'; //'420px';
+        document.querySelector('#EE_info').style.height = Math.round(h - 100) + 'px';      //'400px';
 
-    //todo: adesso
-    /*.menu .TitleMenu {
-    width: 135px;
-    height: 15px;
-    padding-left: 5px;
-    border-radius: 3px;
-    margin-top: 10px;*/
+        document.querySelector('#NumSel').style.marginTop= "295px";//"305px";
+        document.querySelector('#NumSel').style.marginLeft="";
 
-    //RIMUOVI TUTTI I BR
-    //BACKGROUND DELLE LABEL ERA BLU LO TOGLI POI METTI SCRITTA NERA o BLU
-    //$("#B0").before("<br/>");
+        //Numero totale elementi in tabella info
+        //document.querySelector('#NumSel').style.marginTop = "";
+    } else { //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MINORE di 800
+        console.log('resizeMapIndexEEMobile()  modifica le altezze per visione MOBILE < 800px H ...');
+        console.log(document.querySelector('#NumSel').style.marginTop);
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "auto";
+        document.querySelector('#menuEE').style.overflowX = "hidden";
+        document.querySelector('#menuEE').style.overflowY = "auto";
+        //Totale elementi ricerca> Prima versione scompare scorrendo in basso
+        //document.querySelector('#NumSel').style.marginTop="275px";
+        //Numero totale elementi in tabella info
+        //Totale elementi ricerca> Seconda versione fisso vicino il tasto OK.
+        document.querySelector('#NumSel').style.marginTop="215px";
+        document.querySelector('#NumSel').style.marginLeft="70px";
 
-    /*#costeEEmenu {
-    position: absolute;
-    width: 174px;
-    height: 55px;
-    margin-top: 155px;
-    margin-left: 0px;*/
-
-    // #gasEEmenu {
-    //     position: absolute;
-    //     width: 174px;
-    //     margin-top: 45px;
-    //     margin-left: 0px;
-
-    // #acquesotEEmenu {
-    //     position: absolute;
-    //     width: 300px;
-    //     height: 65px;
-    //     margin-top: 190px;
-    // }
-
-    ///TODO: TUTTI I MENU DI RICERCA COSI e mostrarli sulla mappa!!!
-    // :margin-left: 400px;
-    // z-index: 1;
-    // position: fixed;
-
-    //Sezione FILTRI START
-    //Acque Sotterranee
-
-    // #acquesotEEmenu {
-    //     position: fixed;
-    //     margin-left: 310px;
-    //     z-index: 1;
-    //     border-bottom: 0;
-    //     border-right: 0;
-
-    //#acquesup
-    // position: fixed;
-    // margin-left: 310px;
-    // z-index: 1;
-    // margin-top: 150px;
-
-    //#paesaggio
-    // margin-left: 310px;
-    // z-index: 1;
-    // position: fixed;
-    // margin-top: 150px;
-
-    // #costeEEmenu {
-    //     position: fixed;
-    //     width: 174px;
-    //     height: 90px;
-    //     margin-top: 295px;
-    //     margin-left: 310px;
-    //     z-index: 1;
-
-    // #gasEEmenu {
-    //     position: fixed;
-    //     margin-top: 325px;
-    //     margin-left: 310px;
-    //     z-index: 1;
-
-    //
-
+        //Tabella results Effetti ambientali
+        document.querySelector('#resultsEE').style.height = '395px';
+        document.querySelector('#EE_info tbody').style.height = '420px';
+        document.querySelector('#EE_info').style.height = '400px';
+    }
 }
 
 
