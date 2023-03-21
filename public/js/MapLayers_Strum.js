@@ -889,7 +889,10 @@ function getSTRUMeq(date1, date2, lat1, lat2, lon1, lon2, M1, M2, depth1, depth2
 
   // read text from URL location
   var request = new XMLHttpRequest();
-  request.open('GET', 'http://webservices.ingv.it/fdsnws/event/1/query?starttime=' + date1+ 'T00%3A00%3A00&endtime=' + date2 + 'T23%3A59%3A59&minmag=' + M1 + '&maxmag=' + M2 + '&mindepth=' + depth1 + '&maxdepth=' + depth2 + '&minlat=' + lat1 + '&maxlat=' + lat2 + '&minlon=' + lon1 + '&maxlon=' + lon2 + '&minversion=100&orderby=time-asc&format=text&limit=10000', true);
+  var protocol = location.protocol; // http: o https:
+  var URL = protocol + '//webservices.ingv.it/fdsnws/event/1/query?starttime=' + date1+ 'T00%3A00%3A00&endtime=' + date2 + 'T23%3A59%3A59&minmag=' + M1 + '&maxmag=' + M2 + '&mindepth=' + depth1 + '&maxdepth=' + depth2 + '&minlat=' + lat1 + '&maxlat=' + lat2 + '&minlon=' + lon1 + '&maxlon=' + lon2 + '&minversion=100&orderby=time-asc&format=text&limit=10000';
+  request.open('GET', URL , true);
+  //request.open('GET', 'http://webservices.ingv.it/fdsnws/event/1/query?starttime=' + date1+ 'T00%3A00%3A00&endtime=' + date2 + 'T23%3A59%3A59&minmag=' + M1 + '&maxmag=' + M2 + '&mindepth=' + depth1 + '&maxdepth=' + depth2 + '&minlat=' + lat1 + '&maxlat=' + lat2 + '&minlon=' + lon1 + '&maxlon=' + lon2 + '&minversion=100&orderby=time-asc&format=text&limit=10000', true);
   request.send(null);
   request.onreadystatechange = function () {
       if (request.readyState === 4 && request.status === 200) {
@@ -1036,26 +1039,39 @@ function parseQuakeFile(INGVquakes){
 var flagHSIT = []
 function HSITrequest(HSITcode, s, STRUMMarker, OnClickTextEN, OnClickTextIT, StrumQuakeCode){
     // alert('entroqui')
-    var flagresponse;
-    // read text from URL location
-    var request = new XMLHttpRequest();
-    request.open('GET', 'https://e.hsit.it/' + HSITcode + '/' + HSITcode + '_mcs.txt', true);
-    request.send(null);
-    request.onreadystatechange = function () {
-        if (request.readyState == 4){
-               if(request.status == 200) {
-                   var type = request.getResponseHeader('Content-Type');
-                   if (type.indexOf("text") !== 1) {
-                       flagHSIT[s]= 1;
-                       //chiamata successiva dopo aver aggiornato il flag.
-                       openPopupSTRUM(STRUMMarker, OnClickTextEN, OnClickTextIT, s, StrumQuakeCode);
-                  }
-              } else{
-                  flagHSIT[s]= 0;
-                   //chiamata successiva dopo aver aggiornato il flag.
-                  openPopupSTRUM(STRUMMarker, OnClickTextEN, OnClickTextIT, s, StrumQuakeCode);
-              }
+    try {
+        var flagresponse;
+        // read text from URL location
+        var request = new XMLHttpRequest();
+        //FIX per le chiamate CORS in uscita su un altro sito web con un dominio diverso NOTA: la request deve essere OPEN
+        try {
+            request.setRequestHeader('Access-Control-Allow-Headers', '*');
+            request.setRequestHeader('Access-Control-Allow-Origin', '*');
+        } catch (e) {
+            ;//console.log('ERR GESTITO: la request deve essere in stato OPEN' + e);
         }
+        request.open('GET', 'https://e.hsit.it/' + HSITcode + '/' + HSITcode + '_mcs.txt', true);
+        request.send();
+        request.onreadystatechange = function () {
+            if (request.readyState == 4) {
+                if (request.status == 200) {
+                    console.log('SUCCESS HSIT:' + request.responseURL);
+                    var type = request.getResponseHeader('Content-Type');
+                    if (type.indexOf("text") !== 1) {
+                        flagHSIT[s] = 1;
+                        //chiamata successiva dopo aver aggiornato il flag.
+                        openPopupSTRUM(STRUMMarker, OnClickTextEN, OnClickTextIT, s, StrumQuakeCode);
+                    }
+                } else {
+                    flagHSIT[s] = 0;
+                    //chiamata successiva dopo aver aggiornato il flag.
+                    openPopupSTRUM(STRUMMarker, OnClickTextEN, OnClickTextIT, s, StrumQuakeCode);
+                }
+            }
+        }
+    }
+    catch (e) {
+        ;//console.log('ERR GESTITO:' + e);
     }
 }
 
