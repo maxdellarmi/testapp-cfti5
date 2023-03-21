@@ -215,16 +215,16 @@ function createTableandPlot(Filters){
 	LOCMarkers = []; //reinizializza l'array delle localita
     console.log("inizio for xml localities descloc 2M...");
     for (var i = 0; i < descloc.length; i++){
-		//TODO AGGIUNGERE LE PROPERTIES QUI PER VISUALIZZARLE NEL POPUP
-		var marker = new ol.Feature({
-			id: i,
-			geometry: new ol.geom.Point(new ol.proj.fromLonLat([locLon[i], locLat[i]])), //new ol.geom.Point(  [ locLon[i], locLat[i]  ] ),
-			name: country[i],
-			description: descloc[i],
-			ExportKmlR: "",
-			OnClickTextIT: "",
-			url: "http://www.google.it"
-		});
+        //TODO AGGIUNGERE LE PROPERTIES QUI PER VISUALIZZARLE NEL POPUP
+        var marker = new ol.Feature({
+            id: i,
+            geometry: new ol.geom.Point(new ol.proj.fromLonLat([locLon[i], locLat[i]])), //new ol.geom.Point(  [ locLon[i], locLat[i]  ] ),
+            name: country[i],
+            description: descloc[i],
+            ExportKmlR: "",
+            OnClickTextIT: "",
+            url: "http://www.google.it"
+        });
 
 		//console.log(EEnum[i] + '-' + ris[i]);
 		if (EEnum[i]== 0) {
@@ -285,16 +285,15 @@ function createTableandPlot(Filters){
 			'</div></div>'
 		].join('\n');
 
-		/* SEZIONE POPUP CON COMPONENTI GOOGLE INFOWINDOW E EVENTO CLICK DELLA MAPPA */
-		//markerLOC adesso contiene la singola feature e si chiama ora `marker`*/
-		//openPopupLOC(markerLOC, OnClickTextEN, OnClickTextIT, nloc[i])
-		openPopupLOC(marker, OnClickTextEN, OnClickTextIT, nloc[i])
+        /* SEZIONE POPUP CON COMPONENTI GOOGLE INFOWINDOW E EVENTO CLICK DELLA MAPPA */
+        //markerLOC adesso contiene la singola feature e si chiama ora `marker`*/
+        //openPopupLOC(markerLOC, OnClickTextEN, OnClickTextIT, nloc[i])
+        openPopupLOC(marker, OnClickTextEN, OnClickTextIT, nloc[i])
 
 
 		if(Filters['StartImax']==0) Filters['StartImax'] = -2
 		//TODO VERIFICARE I FILTERS
 		IntFlag = (Filters['StartImax'] <= maxint[i] && Filters['StopImax'] >= maxint[i]);
-
 
 		if ( IntFlag ) {
 
@@ -303,8 +302,8 @@ function createTableandPlot(Filters){
 
 			var cell1 = document.createElement("td");
 			cell1.setAttribute('class', 'nameLOC');
-			if (descloc[i].length > 24) cell1.innerHTML = '<abbr title= "' + descloc[i] + '"><a onclick=onclickListLOC(' + i + ') href="#">' + descloc[i].substring(0, 24) + '...' + '</a></abbr>'
-			else cell1.innerHTML = '<a onclick=onclickListLOC(' + i + ') href="#">' + descloc[i] + '</a>';
+			if (descloc[i].length > 24) cell1.innerHTML = '<abbr title= "' + descloc[i] + '"><a onclick=onclickListLOC(' + imarker + ') href="#">' + descloc[i].substring(0, 24) + '...' + '</a></abbr>'
+			else cell1.innerHTML = '<a onclick=onclickListLOC(' + imarker + ') href="#">' + descloc[i] + '</a>';
 
 			var cell2 = document.createElement('td');
 			cell2.setAttribute('class', 'provLOC');
@@ -431,6 +430,7 @@ function createTableandPlot(Filters){
 	// Table sorting
 	if (flagFilterLOC == 0){
 		$(document).ready(function() {
+            console.log("$(\"#Loc_info\").tablesorter({");
 			// call the tablesorter plugin
 			$("#Loc_info").tablesorter({
 				//	sort on the first, second and third (order desc) column
@@ -439,6 +439,7 @@ function createTableandPlot(Filters){
 		});
 		flagFilterLOC = 1;
 	} else {
+        console.log("$('.tablesorter').trigger('updateAll');");
 		$('.tablesorter').trigger('updateAll');
 	}
 
@@ -453,10 +454,25 @@ function createTableandPlot(Filters){
 			minLength: 3,
 			select: function(event,ui){
 				var selectedLOC = ui.item.label;
-				var posSelLoc = descloc_prov.indexOf(selectedLOC);
-				FlagSel = 1
-				onclickListLOC(posSelLoc)
-				FlagSel = 0
+                //var posSelLoc=descloc_prov.indexOf(selectedLOC);
+                //21032023 fix ricerca per localita sull'autocomplete
+				var posSelLoc =  arrayLoc.indexOf(selectedLOC);
+				FlagSel = 1;
+				onclickListLOC(posSelLoc);
+				FlagSel = 0;
+                //bugfix altezze dopo autocomplete per mobile version
+                if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                    if (h<800) {
+                        window.setTimeout(function() {
+                            console.log('bugfix altezze dopo autocomplete Loc_info per mobile version 1');
+                            $('#Loc_info').css('display', 'initial');
+                            window.setTimeout(function() {
+                                console.log('bugfix altezze dopo autocomplete Loc_info per mobile version 2');
+                                $('#Loc_info').css('display', 'contents');
+                            }, 1000);
+                        }, 500);
+                    }
+                }
 			}
 		});
 	});
@@ -472,19 +488,23 @@ function openPopupLOC(marker, textEN, textIT, NlocI){
 	google.maps.event.addListener(marker, 'click', function() {
 
 		var rows = document.getElementById(NlocI);
+        console.log('document.getElementById(NlocI):' + NlocI);
 		// scroll to selected table row
 		if (FlagScroll == 1){ // do it only if selection from map marker
 			try {
 				rows.scrollIntoView(false);
 			}
-			catch (e) { console.log ('ERR gestito');}
+			catch (e) { console.log ('ERR gestito sez1');}
 		}
 		FlagScroll = 1;
 
 		// turn off previously selected table row when clicking on new marker
 		if (NlocOld) {
+            try {
 			var rowsOld = document.getElementById(NlocOld);
 			rowsOld.style.backgroundColor = "#ffffff";
+            }
+            catch (e) { console.log ('ERR gestito  sez2');}
 		}
 
 		// highlight new table row
@@ -503,7 +523,7 @@ function openPopupLOC(marker, textEN, textIT, NlocI){
  * @param prog Indice dell'elemento marker (feature) LOCMarkers[prog]
  */
 function onclickListLOC(prog){
-    console.log('onclickListLOC(prog)');
+    console.log('onclickListLOC(prog):' +prog);
 	//<editor-fold desc="vecchia gestione google maps commentata ">
 	// if (FlagSel == 1) {
 	// 	FlagScroll == 0
@@ -606,7 +626,7 @@ function onclickListLOC(prog){
             //un riposizionamento simulando un click sui controlli mappa layer e subito dopo un resize per evitare che le altezze vengano  calcolate incorrettamente.
             if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
                 fixSmallHeightsForMobileLocality(IntervalStopFixHeights);
-                resizeMapLoc();
+                //resizeMapLoc();
             }
 		}
 		catch (e) {

@@ -20,7 +20,7 @@ var XMLQuakeListArrived = false;
 var IntervalVar = null;
 
 var IntervalStopFixHeights = null;
-var IntervalStopFixHeightsClick = null;
+var IntervalStopFixHeightsTableClick = null;
 
 var MenuPilot = null;
 var LogPilot = null;
@@ -1985,6 +1985,20 @@ function resizeMapIndexLocalitaMobile() {
     document.querySelector('#topcolor').style.width = "50px";
     document.querySelector('#topcolor').style.border = "0px";
 
+    //bugfix altezze tabella dopo autocomplete per mobile version
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        if (h<800) {
+            window.setTimeout(function() {
+                console.log('bugfix altezze dopo search Loc_info per mobile version 1');
+                $('#Loc_info').css('display', 'initial');
+                window.setTimeout(function() {
+                    console.log('bugfix altezze dopo search Loc_info per mobile version 2');
+                    $('#Loc_info').css('display', 'contents');
+                }, 1000);
+            }, 500);
+
+        }
+    }
 
 }
 

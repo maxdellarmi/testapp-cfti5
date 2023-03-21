@@ -1307,7 +1307,7 @@ function indexLocalita () {
             localityVector.setVisible(true);
 
             console.log("localityVector");
-            console.log(localityVector);
+            // console.log(localityVector);
 
             rasterLayer = new ol.layer.Tile({
                 source: new ol.source.OSM(),
