@@ -1038,7 +1038,7 @@ function puliziaClearAllMapsLayers() {
                     $(element).popover('destroy');
                     popup.setPosition(undefined);
                 }
-                overlayGraphOnTheMapForMobileView();
+                overlayGraphOnTheMapForMobileViewClick();//overlayGraphOnTheMapForMobileView();
               },);
             // change mouse cursor when over marker
             mapOL.on('pointermove', function (e) {

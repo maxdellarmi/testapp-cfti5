@@ -251,8 +251,13 @@ function resizeMapLoc() {
         document.querySelector('#tdCursor').style.visibility = "hidden";
         //GESTIONE OVERLAY GRAFICO SULLA MAPPA
         overlayGraphOnTheMapForMobileView();
+        //GESTIONE PULSANTE PER NASCONDERE IL GRAFIFO SU MAPPA
         displayShowHideGraphButtonMobileView();
         resizeStrumLayersMobile();
+        document.querySelector('#smaller').style.left = '1px';
+        document.querySelector('#leftside').style.height = "99%";
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "auto";
     }
     else {
         console.log('modifica stili per visualizzazione WEB DA PC - NON MOBILE (resizeMapLoc)');
@@ -261,6 +266,10 @@ function resizeMapLoc() {
         document.querySelector('#Loc_info tbody').style.height = Math.round( h -380)+'px';
         document.querySelector('#Loc_info').style.height = Math.round( h -350)+'px';
         resizeStrumLayersWEB();
+        document.querySelector('#smaller').style.left = '';
+        document.querySelector('#leftside').style.height = "99%";
+        document.querySelector('#leftside').style.overflowX = "hidden";
+        document.querySelector('#leftside').style.overflowY = "hidden";
     }
 }
 
@@ -275,26 +284,12 @@ function HandleGraphVisibility(show) {
     if (show==1) {
         $('#IntGraph svg').css("display","");
         $('#IntGraph svg').css("visibility","visible");
+        $('div[dir="ltr"]')[1].style.width="400px";
+        $('div[dir="ltr"]')[1].style.height="165px";
         $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Nascondi Grafico";
         $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 0;
-        // $('#noteloc').contents()[1].value="Nascondi Grafico";
-        // $('#noteloc').contents()[1].data=0;
-    }
-    else {
-        $('#IntGraph svg').css("display", "none");
-        $('#IntGraph svg').css("visibility", "hidden");
-        $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Visualizza Grafico";
-        $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 1;
-        // $('#noteloc').contents()[1].value =
-        // $('#noteloc').contents()[1].data=1;
-    }
-}
 
-function overlayGraphOnTheMapForMobileView() {
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
-        var position = "300px";
-        console.log("....overlayGraphOnTheMapForMobileView() SVG graph modifying attributes...margin-left" + position);
-        //modify SVG putting into the map center
+        //fix dopo il click su mappa che mostrava il grafico senza sfondo
         $('#IntGraph svg').css("position", "fixed");
         $('#IntGraph svg').css("z-index", "1");
         $('#IntGraph svg').css("background", "aliceblue");
@@ -303,9 +298,65 @@ function overlayGraphOnTheMapForMobileView() {
         $('#IntGraph svg').css("border-radius", "10px");
         $('#IntGraph svg').css("border-top", "1px solid var(--main-color)");
         $('#IntGraph svg').css("border-left", "1px solid var(--main-color)");
-        //$('#IntGraph svg').css("margin-left", position);
+    }
+    else {
+        $('#IntGraph svg').css("display", "none");
+        $('#IntGraph svg').css("visibility", "hidden");
+        $('div[dir="ltr"]')[1].style.width="1px";
+        $('div[dir="ltr"]')[1].style.height="1px";
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Visualizza Grafico";
+        $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 1;
+        // $('#noteloc').contents()[1].value =
+        // $('#noteloc').contents()[1].data=1;
     }
 }
+//Visualizzazione grafico su mappa per mobile al primo caricamento
+function overlayGraphOnTheMapForMobileView() {
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+            var position = "300px";
+            console.log("....overlayGraphOnTheMapForMobileView() SVG graph modifying attributes...margin-left" + position);
+            //modify SVG putting into the map center
+            $('#IntGraph svg').css("position", "fixed");
+            $('#IntGraph svg').css("z-index", "1");
+            $('#IntGraph svg').css("background", "aliceblue");
+            $('#IntGraph svg').css("border-bottom", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-right", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-radius", "10px");
+            $('#IntGraph svg').css("border-top", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-left", "1px solid var(--main-color)");
+    }
+}
+//Visualizzazione grafico su mappa per mobile durante il click su mappa che mantiene lo status corrente
+//(se grafico attivo rimane attivo se grafico disattivo rimane disattivo)
+function overlayGraphOnTheMapForMobileViewClick() {
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
+        //SE il grafico e visibile continua a mostrarlo
+        if ( $('input#chartDisplay.btn').attr('value') ==='Nascondi Grafico') {
+            var position = "300px";
+            console.log("....overlayGraphOnTheMapForMobileView() SVG graph modifying attributes...margin-left" + position);
+            //Modifica grafico SVG centrato su mappa
+            $('#IntGraph svg').css("position", "fixed");
+            $('#IntGraph svg').css("z-index", "1");
+            $('#IntGraph svg').css("background", "aliceblue");
+            $('#IntGraph svg').css("border-bottom", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-right", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-radius", "10px");
+            $('#IntGraph svg').css("border-top", "1px solid var(--main-color)");
+            $('#IntGraph svg').css("border-left", "1px solid var(--main-color)");
+        }
+        else { //ALTRIMENTI continua a mantenere il grafico nascosto [document.getElementById('chartDisplay').data === 0]
+            $('#IntGraph svg').css("display", "none");
+            $('#IntGraph svg').css("visibility", "hidden");
+            try {
+                $('div[dir="ltr"]')[1].style.width = "1px";
+                $('div[dir="ltr"]')[1].style.height = "1px";
+                $('#noteloc').contents('center').contents('#chartDisplay')[0].value = "Visualizza Grafico";
+                $('#noteloc').contents('center').contents('#chartDisplay')[0].data = 1;
+            }catch (e) {;}
+        }
+    }
+}
+
 
 function deleteEpi() {
 	if (epiMarkers.length>0){
