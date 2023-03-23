@@ -287,6 +287,8 @@ function HandleGraphVisibility(show) {
         $('div[dir="ltr"]')[1].style.width="400px";
         $('div[dir="ltr"]')[1].style.height="165px";
         $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Nascondi Grafico";
+        //DATA=0 valore di confronto per capire lo staus del grafico javascript:HandleGraphVisibility(document.getElementById('chartDisplay').data);
+        //0 => al prossimo click deve NASCONDERE il grafico
         $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 0;
 
         //fix dopo il click su mappa che mostrava il grafico senza sfondo
@@ -305,9 +307,9 @@ function HandleGraphVisibility(show) {
         $('div[dir="ltr"]')[1].style.width="1px";
         $('div[dir="ltr"]')[1].style.height="1px";
         $('#noteloc').contents('center').contents('#chartDisplay')[0].value ="Visualizza Grafico";
+        //DATA=1 valore di confronto per capire lo staus del grafico javascript:HandleGraphVisibility(document.getElementById('chartDisplay').data);
+        //1 => al prossimo click deve VISUALIZZARE il grafico
         $('#noteloc').contents('center').contents('#chartDisplay')[0].data= 1;
-        // $('#noteloc').contents()[1].value =
-        // $('#noteloc').contents()[1].data=1;
     }
 }
 //Visualizzazione grafico su mappa per mobile al primo caricamento
@@ -330,7 +332,7 @@ function overlayGraphOnTheMapForMobileView() {
 //(se grafico attivo rimane attivo se grafico disattivo rimane disattivo)
 function overlayGraphOnTheMapForMobileViewClick() {
     if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)   ) {
-        //SE il grafico e visibile continua a mostrarlo
+        //SE il grafico e attualmente visibile (il pulsante al prossimo click nasconde) ALLORA CONTINUA A VISUALIZZARLO sulla MAPPA
         if ( $('input#chartDisplay.btn').attr('value') ==='Nascondi Grafico') {
             var position = "300px";
             console.log("....overlayGraphOnTheMapForMobileView() SVG graph modifying attributes...margin-left" + position);
@@ -344,7 +346,7 @@ function overlayGraphOnTheMapForMobileViewClick() {
             $('#IntGraph svg').css("border-top", "1px solid var(--main-color)");
             $('#IntGraph svg').css("border-left", "1px solid var(--main-color)");
         }
-        else { //ALTRIMENTI continua a mantenere il grafico nascosto [document.getElementById('chartDisplay').data === 0]
+        else { //ALTRIMENTI continua a mantenere il grafico nascosto
             $('#IntGraph svg').css("display", "none");
             $('#IntGraph svg').css("visibility", "hidden");
             try {

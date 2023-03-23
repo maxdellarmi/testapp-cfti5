@@ -331,6 +331,10 @@ function resizeMapQuake() {
         document.querySelector('#tdCursor').style.display = "none";
         document.querySelector('#tdCursor').style.visibility = "hidden";
 
+        //EXPORT KML nascosti e fix marginLeft DIV area morti
+        $('#export').css('display','none');
+        $('#export').css('visibility','hidden');
+        $('#morti').css('margin-left','0px');
         //GESTIONE VISUALIZZAZIONE IN CASO DI ALTEZZA MAGGIORE di 800
         if (h > 800) {
             console.log('modifica le altezze tabella resultsEQ per visione MOBILE > 800 px H ...');
@@ -369,6 +373,7 @@ function resizeMapQuake() {
             document.querySelector('#license').style.visibility = "hidden";
             document.querySelector('#cc').style.display = "none";
             document.querySelector('#cc').style.visibility = "hidden";
+
 
         }
         resizeStrumLayersMobile();
@@ -2544,13 +2549,19 @@ $(function() {
 
 	var divComm = document.getElementById("openCOMM");
 	$('#commentsICON').click(function(event) {
-	    $('#commentsWindow').show();
-		event.preventDefault();
-		divComm.setAttribute('class','active');
+        //SE LA SEZIONE NON E' VISUALIZZATA MOSTRALA
+        if ( $('#commentsWindow').css('display') === 'none') {
+            $('#commentsWindow').show();
+            event.preventDefault();
+            divComm.setAttribute('class','active');
 
-        // ===============    set first active tab
-		if (document.getElementById("EQbiblioT")) document.getElementById("EQbiblioT").click()
-		else document.getElementById("embedT").click()
+            // ===============    set first active tab
+            if (document.getElementById("EQbiblioT")) document.getElementById("EQbiblioT").click()
+            else document.getElementById("embedT").click()
+        }
+        else {  // altrimenti CHIUDILA
+            $('#closeCW').click();
+        }
 
 	});
 
