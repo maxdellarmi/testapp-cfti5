@@ -377,14 +377,36 @@ function resizeMapQuake() {
 
         }
         resizeStrumLayersMobile();
+        resizeDivComments();
     } //endif navigator.userAgent
     else {
         console.log('modifica stili per visualizzazione WEB DA PC - NON MOBILE (resizeMapQuake)');
         document.querySelector('#quakePQtable').style.height = Math.round(h - 395) + 'px';
         document.querySelector('#PQ_info tbody').style.height = Math.round(h - 435) + 'px';
         document.querySelector('#PQ_info').style.height = Math.round(h - 395) + 'px';
+        console.log('#commentsWindow  - visione WEB');
+        document.querySelector('#commentsWindow').style.left = '475px'; //VERSIONE WEB NORMALE in MOBILE DEVE ESSERE 250+20px = 270px
         resizeStrumLayersWEB();
     }
+}
+
+function resizeDivComments() {
+    // if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        console.log('#commentsWindow  - visione MOBILE');
+        var grandezzaElementiTabella = 250;
+        if (h<800) {
+            var leftPopup = grandezzaElementiTabella - 50;
+            document.querySelector('#commentsWindow').style.left = leftPopup + 'px';
+        }
+        else { //H > 800
+            var leftPopup = grandezzaElementiTabella +20;
+            document.querySelector('#commentsWindow').style.left = leftPopup + 'px';
+        }
+    // }
+    // else {
+    //     console.log('#commentsWindow  - visione WEB');
+    //     document.querySelector('#commentsWindow').style.left = '475px'; //VERSIONE WEB NORMALE in MOBILE DEVE ESSERE 250+20px = 270px
+    // }
 }
 
 // When clicking on table row, trigger event on Gmap marker (used to trigger popup window when clicking on table row)
@@ -2580,16 +2602,7 @@ $(function() {
 
 	document.querySelector('#commentsWindow').style.width = Math.round( w - 515)+'px';
 	document.querySelector('#commentsWindow').style.height = Math.round( h -110)+'px';
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-        console.log('#commentsWindow  - visione MOBILE');
-        var grandezzaElementiTabella = 250;
-        var leftPopup = grandezzaElementiTabella+20;
-        document.querySelector('#commentsWindow').style.left = leftPopup + 'px';
-    }
-    else {
-        console.log('#commentsWindow  - visione WEB');
-        document.querySelector('#commentsWindow').style.left = '475px'; //VERSIONE WEB NORMALE in MOBILE DEVE ESSERE 250+20px = 270px
-    }
+
 	document.querySelector('#commentsWindow').style.top = '60px';
 	document.querySelector('.tabcontent').style.maxwidth = Math.round( w - 560)+'px';
 	document.querySelector('.tabcontent').style.maxheight = Math.round( h -235)+'px';
