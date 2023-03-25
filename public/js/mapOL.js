@@ -1467,7 +1467,7 @@ function indexEEAmbiente() {
                 EEmarkers.push(EEmarkersArray[i]['Marker']);  //inizializzato nel js index_EE.js
             }
             console.log("carico i markers EE ambiente");
-            console.log(EEmarkers);
+            //console.log(EEmarkers);
 
             EEVector = new ol.layer.Vector({
                 source: new ol.source.Vector({

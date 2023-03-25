@@ -803,7 +803,7 @@ function requestEEdata(){
             } else { NumEESel.innerHTML = "<b>" + EEmarkersArray.length + ' </b><span id="numEE"> effetti selezionati</span>'};
 
             new LanguageTools().setLanguage(Langsel);
-            $('#loading').hide();
+
 
         }).then( function( dummy ) {
             //TODO: ULTIMA CHIAMATA CHE PRIMA ERA PRESENTE SUL MANAJAX -> server per mostrare i dati su mappa!
@@ -825,6 +825,7 @@ function requestEEdata(){
              *
              */
             indexEEAmbiente();
+            $('#loading').hide();
         });
     });
 }

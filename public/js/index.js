@@ -1824,6 +1824,7 @@ function resizeMapIndexEEMobile() {
     $('.locationEE','#EE_data').css("width","50px");
 
     document.querySelector('#costeEEmenu').style.marginTop = "155px";
+    document.querySelector('#costeEEmenu').style.height= "40px"; //fix div overlapping on the next one
     document.querySelector('#costeEEmenu').style.marginLeft = "0px";
 
     document.querySelector('#gasEEmenu').style.marginTop = "45px";
